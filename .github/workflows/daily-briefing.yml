@@ -19,6 +19,7 @@ on:
 
 permissions:
   contents: write
+  copilot-requests: write   # lets the Copilot CLI use this run's GITHUB_TOKEN (billed to the owner's Copilot seat)
 
 concurrency:
   group: daily-briefing
@@ -37,16 +38,34 @@ jobs:
           python-version: "3.12"
           cache: pip
       - run: pip install -r requirements.txt
-      - name: Check the validator can run
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Install the GitHub Copilot CLI
+        run: npm install -g @github/copilot && copilot --version
+      - name: Check the writer and validator models answer
+        # Models come from GitHub Copilot. Auth: the COPILOT_GITHUB_TOKEN secret (fine-grained PAT with the
+        # "Copilot Requests" permission) if set, otherwise this run's GITHUB_TOKEN.
         env:
+          COPILOT_GITHUB_TOKEN: ${{ secrets.COPILOT_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
+          MODEL_PROVIDER: ${{ vars.MODEL_PROVIDER }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          WRITER_MODEL: ${{ vars.WRITER_MODEL }}
+          VALIDATOR_MODEL: ${{ vars.VALIDATOR_MODEL }}
+          CLASSIFIER_MODEL: ${{ vars.CLASSIFIER_MODEL }}
         run: |
-          if [ -z "$ANTHROPIC_API_KEY" ]; then
-            echo "::error title=Validator cannot run::Add the ANTHROPIC_API_KEY repository secret. Without it the writer, AI classifier and validator agents are skipped and the briefing is published as NOT VALIDATED."
+          [ -z "$COPILOT_GITHUB_TOKEN" ] && unset COPILOT_GITHUB_TOKEN
+          for v in MODEL_PROVIDER WRITER_MODEL VALIDATOR_MODEL CLASSIFIER_MODEL; do [ -z "${!v}" ] && unset $v; done
+          if ! python pipeline/llm.py; then
+            echo "::error title=Validator cannot run::GitHub Copilot did not answer for the writer or validator model (see the log above). Add a COPILOT_GITHUB_TOKEN secret: a fine-grained personal access token with the Copilot Requests permission, from an account with a Copilot seat. Without it the briefing is published as NOT VALIDATED."
           fi
       - name: Fetch, screen, profile, write, validate and render
         id: run
         env:
+          COPILOT_GITHUB_TOKEN: ${{ secrets.COPILOT_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
+          MODEL_PROVIDER: ${{ vars.MODEL_PROVIDER }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           WRITER_MODEL: ${{ vars.WRITER_MODEL }}
           VALIDATOR_MODEL: ${{ vars.VALIDATOR_MODEL }}
@@ -59,9 +78,8 @@ jobs:
           if [ "$EVENT" = "schedule" ]; then ARGS+=(--scheduled); fi
           if [[ "$RUN_DATE" =~ ^[0-9]{4}-[0-9]{2}-[0-9]{2}$ ]]; then ARGS+=(--run-date "$RUN_DATE"); fi
           if [[ "$MODE" =~ ^(full|validate|render)$ ]]; then ARGS+=(--mode "$MODE"); fi
-          [ -z "$WRITER_MODEL" ] && unset WRITER_MODEL
-          [ -z "$VALIDATOR_MODEL" ] && unset VALIDATOR_MODEL
-          [ -z "$CLASSIFIER_MODEL" ] && unset CLASSIFIER_MODEL
+          [ -z "$COPILOT_GITHUB_TOKEN" ] && unset COPILOT_GITHUB_TOKEN
+          for v in MODEL_PROVIDER WRITER_MODEL VALIDATOR_MODEL CLASSIFIER_MODEL; do [ -z "${!v}" ] && unset $v; done
           set +e
           python pipeline/run.py "${ARGS[@]}"
           code=$?

@@ -2,26 +2,22 @@
 
 Both see the same evidence bundle: the screened written questions and
 statements, member profiles, and the Hansard, What's On and committee
-material gathered by sources.py. The validator is a separate call (and by
-default a separate model) that checks every claim against that evidence and
-returns a corrected editorial plus a log of what it changed. Needs the
-ANTHROPIC_API_KEY secret; without it both steps are skipped and the report
-carries data sections only.
+material gathered by sources.py. The validator is a separate call on a
+different model (by default from a different vendor) that checks every claim
+against that evidence and returns a corrected editorial plus a log of what it
+changed. Models are reached through llm.py: GitHub Copilot by default. If no
+model can be reached both steps are skipped and the report says NOT VALIDATED.
 """
 
 from __future__ import annotations
 
 import json
 import logging
-import os
-import re
 
-import httpx
-
+import llm
 from topics import to_plain_text
 
 log = logging.getLogger("agents")
-API = "https://api.anthropic.com/v1/messages"
 WQ = "https://questions-statements.parliament.uk/written-questions/detail"
 WS = "https://questions-statements.parliament.uk/written-statements/detail"
 
@@ -86,48 +82,41 @@ def _compact(feed: dict, profiles: list[dict], sources: dict) -> str:
                       ensure_ascii=False)
 
 
-def _call(c: httpx.Client, model: str, system: str, user: str, max_tokens: int = 16000) -> dict:
-    r = c.post(API, headers={"x-api-key": os.environ["ANTHROPIC_API_KEY"], "anthropic-version": "2023-06-01"},
-               json={"model": model, "max_tokens": max_tokens, "system": system,
-                     "messages": [{"role": "user", "content": user}]})
-    r.raise_for_status()
-    text = "".join(b.get("text", "") for b in r.json().get("content", []))
-    m = re.search(r"\{.*\}", text, re.S)
-    if not m:
-        raise ValueError("model did not return JSON")
-    return json.loads(m.group(0))
-
 
 def write_and_validate(feed: dict, profiles: list[dict], sources: dict, today: str, draft: dict | None = None) -> tuple[dict | None, dict | None]:
     """Returns (editorial, validation). With an existing draft, only validates it."""
-    if not os.environ.get("ANTHROPIC_API_KEY"):
-        log.info("ANTHROPIC_API_KEY not set: writer and validator skipped")
+    ok, why = llm.available()
+    if not ok:
+        log.info("models unavailable (%s): writer and validator skipped", why)
         return draft, None
-    evidence = _compact(feed, profiles, sources)
-    writer = os.environ.get("WRITER_MODEL", "claude-sonnet-5-5")
-    validator = os.environ.get("VALIDATOR_MODEL", "claude-opus-5-5")
-    with httpx.Client(timeout=900) as c:
-        if draft is None:
-            log.info("writer (%s): drafting", writer)
-            draft = _call(c, writer, BRIEF + "\n\n" + SCHEMA,
-                          f"Today is {today}. Review period {feed['fromDate']} to {feed['toDate']}.\n\nEVIDENCE:\n{evidence}")
-            draft["today_date"] = today
-        v, last = None, ""
-        for attempt in range(3):  # the validator must run: retry before giving up
-            log.info("validator (%s): checking, attempt %d", validator, attempt + 1)
-            try:
-                v = _call(c, validator, VALIDATE,
-                          f"DRAFT:\n{json.dumps(draft, ensure_ascii=False)}\n\nEVIDENCE:\n{evidence}")
-                break
-            except Exception as e:
-                last = str(e)
-                log.warning("validator attempt %d failed: %s", attempt + 1, e)
-        if v is None:
-            return draft, {"verdict": "not run", "error": last, "checked": 0, "fixes": [], "removed": [],
-                           "writer": writer, "validator": validator}
+    evidence = {"evidence.json": _compact(feed, profiles, sources)}
+    writer = None
+    if draft is None:
+        log.info("writer: drafting")
+        draft, writer = llm.complete("writer", BRIEF + "\n\n" + SCHEMA, evidence,
+                                     f"Today is {today}. Review period {feed['fromDate']} to {feed['toDate']}. "
+                                     "Write the briefing from the EVIDENCE in evidence.json.")
+        draft["today_date"] = today
+    v, validator, last = None, None, ""
+    for attempt in range(3):  # the validator must run: retry before giving up
+        log.info("validator: checking, attempt %d", attempt + 1)
+        try:
+            v, validator = llm.complete("validator", VALIDATE,
+                                        {"draft.json": json.dumps(draft, ensure_ascii=False)} | evidence,
+                                        "Check the DRAFT in draft.json against the EVIDENCE in evidence.json.")
+            if validator == writer:
+                log.warning("validator fell back to the writer's model (%s): check is not independent", writer)
+            break
+        except Exception as e:
+            last = str(e)
+            log.warning("validator attempt %d failed: %s", attempt + 1, e)
+    meta = {"provider": llm.provider(), "writer": writer or "(existing draft)", "validator": validator or ", ".join(llm.models("validator"))}
+    if v is None:
+        return draft, {"verdict": "not run", "error": last, "checked": 0, "fixes": [], "removed": []} | meta
     edited = v.pop("editorial", None) or draft
     edited["today_date"] = draft.get("today_date", today)
-    v["writer"], v["validator"] = writer, validator
+    v |= meta
+    v["independent"] = validator != writer
     log.info("validation: %s, %s checked, %d fixed, %d removed", v.get("verdict"), v.get("checked"),
              len(v.get("fixes", [])), len(v.get("removed", [])))
     return edited, v

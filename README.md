@@ -22,7 +22,7 @@ Each run:
       Names that are also ordinary words (Apple, Meta, STEM) are matched case-sensitively.
    2. **Departments:** every question to DSIT, plus digital, data and IT questions to the Cabinet Office, DCMS, DBT, DESNZ, MHCLG, HMT, the Home Office, DHSC and DfE.
    3. **Watchlist:** every question from members who consistently drive these issues (`WATCH_MEMBERS`).
-   4. **AI classifier** (`pipeline/semantic.py`, default `claude-haiku-5-5`): reads every question the first three layers missed, flags anything plausibly relevant and gives a reason.
+   4. **AI classifier** (`pipeline/semantic.py`, default Claude Haiku 5.5 via GitHub Copilot): reads every question the first three layers missed, flags anything plausibly relevant and gives a reason.
 3. **Profiles** every member who asked a matching question. Each profile is built from Parliament's public record and includes:
    - party, seat and when they joined Parliament;
    - current committees and posts;
@@ -34,7 +34,7 @@ Each run:
 
    Member data is cached for 7 days in `data/members/`.
 4. **Gathers sources** (`pipeline/sources.py`): relevant Hansard passages from both Houses, with speaker, debate and link; today's What's On for the Commons, Lords and committees; and the period's committee publications. Pages that can't be read are recorded as gaps.
-5. **Writer agent** (`pipeline/agents.py`, default `claude-sonnet-5-5`) drafts the editorial sections to the reader's brief:
+5. **Writer agent** (`pipeline/agents.py`, default Claude Opus 5.5 via GitHub Copilot) drafts the editorial sections to the reader's brief:
    - headline and summary;
    - very important items;
    - Parliament Today;
@@ -43,10 +43,24 @@ Each run:
    - a "likely drivers" note for every member.
 
    It works only from the evidence above.
-6. **Validator agent** (default `claude-opus-5-5`, a separate call to a separate model) checks every claim in the draft against the same evidence: names, parties, numbers, dates, quotes and links. It corrects or removes anything unsupported and returns a log of its changes. The report header shows the verdict, and the coverage note lists every correction.
+6. **Validator agent** (default GPT-6.1 Sol via GitHub Copilot: a separate call to a model from a different vendor, so it does not share the writer's blind spots) checks every claim in the draft against the same evidence: names, parties, numbers, dates, quotes and links. It corrects or removes anything unsupported and returns a log of its changes. The report header shows the verdict, and the coverage note lists every correction.
 7. **Renders** `reports/<date>.html` (and `reports/latest.html`). It also prints a reading-edition PDF, `reports/<date>.pdf` and `reports/latest.pdf`: the briefing plus compact member profiles, without the full question list. OneDrive previews PDFs but won't render HTML. Everything is then committed back to the repo. The report is also attached to each run as a downloadable artifact.
 
-**The validator is mandatory.** Rule checks (`pipeline/checks.py`) run every time. They confirm every link is an official Parliament page, every UIN quoted exists in the data, and every member's party matches the Members API. If the AI validator does not run (no `ANTHROPIC_API_KEY`, or three failed attempts), fails, or the rule checks find a problem, the run is marked failed so GitHub emails the repo owner, and the briefing and website are labelled **Not validated**. To change the models, set the repository variables `WRITER_MODEL`, `VALIDATOR_MODEL` and `CLASSIFIER_MODEL`.
+**The validator is mandatory.** Rule checks (`pipeline/checks.py`) run every time. They confirm every link is an official Parliament page, every UIN quoted exists in the data, and every member's party matches the Members API. If the AI validator does not run (Copilot unreachable, or three failed attempts), fails, or the rule checks find a problem, the run is marked failed so GitHub emails the repo owner, and the briefing and website are labelled **Not validated**. To change the models, set the repository variables `WRITER_MODEL`, `VALIDATOR_MODEL` and `CLASSIFIER_MODEL`.
+
+### Models: GitHub Copilot
+
+All three agents run on GitHub Copilot's models through the Copilot CLI (`pipeline/llm.py`), which the workflow installs. (GitHub Models, the old HTTP inference API, was retired on 30 July 2026, so the CLI is the supported route from Actions.) Each call runs in an empty scratch folder: the task and evidence go in as files, and Copilot may read them and write `output.json`, with shell, web and memory tools denied.
+
+| Role | Default, best first (falls back if a model isn't on the account) | Reasoning effort |
+|---|---|---|
+| Writer | `claude-opus-5.5`, `gpt-6.1-sol`, `claude-sonnet-5` | high |
+| Validator | `gpt-6.1-sol`, `claude-opus-5.5`, `gpt-6-sol` | high |
+| Classifier | `claude-haiku-5.5`, `gpt-5-mini`, `claude-haiku-4.5` | low |
+
+Each variable takes a comma-separated list. The validation log records which model actually ran, and the report warns if the validator had to fall back to the writer's model. `REASONING_EFFORT` overrides the effort. Set `MODEL_PROVIDER=anthropic` (with `ANTHROPIC_API_KEY`) to use the Anthropic API instead.
+
+**Authentication.** The run first tries a `COPILOT_GITHUB_TOKEN` secret, then the run's own `GITHUB_TOKEN` (the workflow grants `copilot-requests: write`; in a personal repository usage is billed to the owner's Copilot seat). The most reliable option is the secret: a fine-grained personal access token with the **Copilot Requests** permission, created by an account with a Copilot seat. Before the briefing runs, a preflight step pings each model and fails loudly if the writer or validator can't be reached.
 
 **Manual modes** (Actions > Daily parliamentary briefing > Run workflow):
 - `full` runs everything.
@@ -103,7 +117,7 @@ Cowork still needs a way to read `data/feed/`, for example:
 
 ## Setup checklist
 
-1. Add the `ANTHROPIC_API_KEY` repository secret. **Required**: without it no edition can pass validation.
+1. Add the `COPILOT_GITHUB_TOKEN` repository secret: a fine-grained personal access token with the **Copilot Requests** permission (github.com/settings/personal-access-tokens/new). **Required** unless the run's own `GITHUB_TOKEN` gets Copilot access: without one of them no edition can pass validation.
 1. Invite the reader: **Settings > Collaborators > Add people**, and to the website (see Private website).
 3. Check that **Actions** are enabled, then run **Daily parliamentary briefing** once by hand.
 

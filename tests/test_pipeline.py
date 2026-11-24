@@ -79,7 +79,9 @@ def handler(request: httpx.Request):
     return httpx.Response(404)
 
 
-def test_end_to_end(tmp_path):
+def test_end_to_end(tmp_path, monkeypatch):
+    monkeypatch.setenv("COPILOT_BIN", str(tmp_path / "no-copilot"))
+    monkeypatch.delenv("MODEL_PROVIDER", raising=False)
     api = Api(backoff=(0, 0), transport=httpx.MockTransport(handler))
     run = date(2026, 11, 24)
     assert window(run) == ("2026-11-23", "2026-11-23")
@@ -91,7 +93,7 @@ def test_end_to_end(tmp_path):
     # Every answered question gets 'Microsoft Azure' only in the full text, so all are screened in via the detail fetch
     assert "45000" in uins and "HL46000" in uins and "47000" in uins
     assert feed["writtenStatements"] == [] and feed["statementsScanned"] == 1
-    assert feed["warnings"] == ["AI classifier not run (no ANTHROPIC_API_KEY)"]
+    assert feed["warnings"] == ["AI classifier not run (Copilot CLI not installed)"]
     # DSIT is a watched department, so every question to it is screened in even without keywords
     assert feed["layers"]["department"] == 1203 and feed["layers"]["semantic"] == 0
 
@@ -164,27 +166,48 @@ def test_render_with_validation():
     assert "Not yet checked" in render(feed, [], {"headline": "H"}, date(2026, 11, 24))
 
 
-def test_writer_then_validator(monkeypatch):
+FAKE_COPILOT = r"""#!/usr/bin/env python3
+import json, os, pathlib, sys
+a = sys.argv
+model = a[a.index("--model") + 1]
+log = pathlib.Path(os.environ["FAKE_LOG"])
+log.write_text(log.read_text() + model + "\n" if log.exists() else model + "\n")
+assert "--deny-tool=shell" in a and "--allow-tool=read" in a
+task = pathlib.Path("TASK.md").read_text()
+if model == "gone-model":
+    sys.stderr.write("Error: Model gone-model is not available"); sys.exit(1)
+parts = sorted(p.name for p in pathlib.Path(".").glob("evidence*.txt"))
+assert all(p in task for p in parts)
+if "draft.json" in task:
+    out = {"verdict": "pass_with_fixes", "checked": 3, "fixes": [{"where": "very_important[0].who", "was": "A (Lab)",
+           "now": "A (LD)", "reason": "party"}], "removed": [], "parts": len(parts),
+           "editorial": {"headline": "Draft", "very_important": [{"title": "X", "who": "A (LD)", "link": "https://q"}]}}
+else:
+    out = {"headline": "Draft", "very_important": [{"title": "X", "who": "A (Lab)", "link": "https://q"}]}
+pathlib.Path("output.json").write_text(json.dumps(out))
+"""
+
+
+def test_writer_then_validator(monkeypatch, tmp_path):
     import agents
-    calls = []
-
-    def fake_post(self, url, headers=None, json=None):
-        calls.append(json["model"])
-        if len(calls) == 1:   # writer
-            body = '{"headline": "Draft", "very_important": [{"title": "X", "who": "A (Lab)", "link": "https://q"}]}'
-        else:                 # validator
-            body = ('Here you go: {"verdict": "pass_with_fixes", "checked": 3, "fixes": [{"where": "very_important[0].who", '
-                    '"was": "A (Lab)", "now": "A (LD)", "reason": "party"}], "removed": [], '
-                    '"editorial": {"headline": "Draft", "very_important": [{"title": "X", "who": "A (LD)", "link": "https://q"}]}}')
-        return httpx.Response(200, json={"content": [{"type": "text", "text": body}]}, request=httpx.Request("POST", url))
-
-    monkeypatch.setenv("ANTHROPIC_API_KEY", "test")
-    monkeypatch.setattr(agents.httpx.Client, "post", fake_post)
+    import llm
+    bin_ = tmp_path / "copilot"
+    bin_.write_text(FAKE_COPILOT)
+    bin_.chmod(0o755)
+    calls = tmp_path / "calls"
+    monkeypatch.setenv("COPILOT_BIN", str(bin_))
+    monkeypatch.setenv("FAKE_LOG", str(calls))
+    monkeypatch.setenv("COPILOT_GITHUB_TOKEN", "test")
+    monkeypatch.delenv("MODEL_PROVIDER", raising=False)
+    monkeypatch.setenv("WRITER_MODEL", "claude-opus-5.5")
+    monkeypatch.setenv("VALIDATOR_MODEL", "gone-model, gpt-6.1-sol")     # first choice unavailable: falls back
+    monkeypatch.setattr(llm, "PART", 200)                                  # force the evidence into several parts
     feed = {"fromDate": "2026-11-23", "toDate": "2026-11-23", "questionsScanned": 1, "writtenQuestions": [], "writtenStatements": []}
     ed, v = agents.write_and_validate(feed, [], {"hansard": [], "today": [], "committees": [], "gaps": []}, "2026-11-24")
-    assert calls == ["claude-sonnet-5-5", "claude-opus-5-5"]          # two separate agents
+    assert calls.read_text().split() == ["claude-opus-5.5", "gone-model", "gpt-6.1-sol"]
     assert ed["very_important"][0]["who"] == "A (LD)" and ed["today_date"] == "2026-11-24"
-    assert v["verdict"] == "pass_with_fixes" and "editorial" not in v
+    assert v["verdict"] == "pass_with_fixes" and "editorial" not in v and v["parts"] > 1
+    assert v["writer"] == "claude-opus-5.5" and v["validator"] == "gpt-6.1-sol" and v["independent"] and v["provider"] == "copilot"
 
-    monkeypatch.delenv("ANTHROPIC_API_KEY")
+    monkeypatch.setenv("COPILOT_BIN", str(tmp_path / "missing"))
     assert agents.write_and_validate(feed, [], {}, "2026-11-24", draft={"headline": "H"}) == ({"headline": "H"}, None)
