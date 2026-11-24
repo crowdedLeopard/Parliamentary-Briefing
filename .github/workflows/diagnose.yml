@@ -1,0 +1,24 @@
+name: Diagnose Parliament endpoints
+on: workflow_dispatch
+permissions:
+  contents: read
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          for u in \
+            "https://hansard-api.parliament.uk/overview/sectionsforday.json?house=Commons&date=2026-11-23" \
+            "https://hansard-api.parliament.uk/overview/sectiontrees.json?house=Commons&date=2026-11-23&section=Commons%20Chamber" \
+            "https://hansard-api.parliament.uk/search/contributions/Spoken.json?queryParameters.searchTerm=data%20centres&queryParameters.startDate=2026-11-23&queryParameters.endDate=2026-11-23&queryParameters.take=5" \
+            "https://hansard-api.parliament.uk/search.json?queryParameters.searchTerm=artificial%20intelligence&queryParameters.startDate=2026-11-23&queryParameters.endDate=2026-11-23" \
+            "https://whatson-api.parliament.uk/calendar/events/list.json?queryParameters.startDate=2026-11-24&queryParameters.endDate=2026-11-24" \
+            "https://committees-api.parliament.uk/api/Publications?StartDate=2026-11-23&EndDate=2026-11-23&Take=5" \
+            "https://committees-api.parliament.uk/api/Broadcast/Meetings?FromDate=2026-11-24&ToDate=2026-11-24" \
+            "https://committees-api.parliament.uk/api/Events?StartDateFrom=2026-11-24&StartDateTo=2026-11-24&Take=5" \
+            "https://bills-api.parliament.uk/api/v1/Bills?SearchTerm=Cyber%20Security%20and%20Resilience" \
+            "https://hansard.parliament.uk/Commons/2026-11-23" ; do
+            echo "=== $u"
+            curl -s -A "parliamentary-briefing/1.0" -o /tmp/b -w "HTTP %{http_code} %{time_total}s %{size_download}B\n" --max-time 90 "$u"
+            head -c 700 /tmp/b; echo
+          done
