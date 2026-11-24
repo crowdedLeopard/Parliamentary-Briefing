@@ -4,8 +4,9 @@ Usage: python pipeline/run.py [--run-date YYYY-MM-DD] [--mode full|validate|rend
   full      fetch everything, write (unless an editorial exists) and validate, render   (default)
   validate  reuse saved data; re-gather sources; validate the existing editorial; render
   render    re-render from saved data and editorial only
-  --scheduled  exit quietly unless it is 06:xx in London (the workflow fires at 05:00 and
-               06:00 UTC so that one of them is 06:00 UK time in both GMT and BST)
+  --scheduled  exit quietly unless it is 04:xx in London (the workflow fires at 03:32 and
+               04:32 UTC so that one of them is 04:32 UK time in both GMT and BST; the
+               briefing is then ready well before the page refresh just before 06:00)
 Writes, for the last day covered (toDate):
   data/feed/parliament-<toDate>.json, data/profiles/<toDate>.json, data/sources/<toDate>.json,
   editorial/<toDate>.json, editorial/<toDate>.validation.json, reports/<toDate>.html, reports/latest.html
@@ -53,8 +54,8 @@ def main(argv=None) -> int:
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(name)s %(levelname)s %(message)s")
 
     now = datetime.now(LONDON)
-    if a.scheduled and now.hour != 6:
-        logging.info("Scheduled trigger at %s London time: not 06:xx, nothing to do.", now.strftime("%H:%M"))
+    if a.scheduled and now.hour != 4:
+        logging.info("Scheduled trigger at %s London time: not 04:xx, nothing to do.", now.strftime("%H:%M"))
         return 0
     run_date = date.fromisoformat(a.run_date) if a.run_date else now.date()
     from_date, to_date = window(run_date)

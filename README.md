@@ -6,7 +6,7 @@ A daily briefing on UK Parliament activity relevant to Microsoft, for the reader
 
 ## What runs, and when
 
-The **Daily parliamentary briefing** GitHub Action runs at **06:00 UK time every day**. GitHub's timer uses UTC, so the workflow fires at both 05:02 and 06:02 UTC and only the run that lands at 06:xx London time goes ahead. That covers both GMT and BST. GitHub can start scheduled runs a few minutes late. A run takes roughly 10–20 minutes. You can also run it by hand from the Actions tab, for a past date or in another mode (see below).
+The **Daily parliamentary briefing** GitHub Action starts at **04:32 UK time every day**, so the briefing is built and validated before the page refreshes just before 06:00. GitHub's timer uses UTC, so the workflow fires at both 03:32 and 04:32 UTC and only the run that lands at 04:xx London time goes ahead. That covers both GMT and BST. GitHub can start scheduled runs late. A run takes roughly 15–30 minutes. You can also run it by hand from the Actions tab, for a past date or in another mode (see below).
 
 Each run:
 
