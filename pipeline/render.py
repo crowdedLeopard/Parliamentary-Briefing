@@ -157,8 +157,11 @@ def validation_html(v: dict | None, ed: dict) -> tuple[str, str]:
     badge = f'<p class="vb {cls}">{e(verdict)}: {e(v.get("checked", 0))} claims checked, {len(fixes)} corrected, {len(removed)} removed</p>'
     rows = "".join(f"<li><b>{e(f.get('where'))}</b>: {e(f.get('was'))} &rarr; {e(f.get('now'))} <small>({e(f.get('reason'))})</small></li>" for f in fixes)
     rows += "".join(f"<li><b>{e(r.get('where'))}</b> removed <small>({e(r.get('reason'))})</small></li>" for r in removed)
+    via = {"copilot": " via GitHub Copilot", "anthropic": " via the Anthropic API"}.get(v.get("provider"), "")
+    indep = ("" if v.get("independent", True) else
+             " <b>Note:</b> the validator ran on the same model as the writer today, so the check is less independent than usual.")
     block = (f"<p><b>Validation.</b> Drafted by the writer agent ({e(v.get('writer', 'n/a'))}) and checked claim by claim against the "
-             f"same source material by an independent validator agent ({e(v.get('validator', 'n/a'))}). Verdict: {e(verdict)}.</p>"
+             f"same source material by a separate validator agent ({e(v.get('validator', 'n/a'))}){via}. Verdict: {e(verdict)}.{indep}</p>"
              + (f"<details><summary>Corrections and removals</summary><ul>{rows}</ul></details>" if rows else "") + rule_html)
     if rules["issues"]:
         badge = badge.replace('class="vb', 'class="vb warn').replace("</p>", f" · {len(rules['issues'])} rule-check problem(s)</p>")

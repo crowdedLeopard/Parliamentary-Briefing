@@ -93,7 +93,7 @@ def main(argv=None) -> int:
 
     # Rule-based checks always run, with or without the AI validator.
     rules = run_checks(editorial, feed, profiles)
-    validation = dict(validation or {"verdict": "not run", "error": "AI validator did not run (is ANTHROPIC_API_KEY set?)",
+    validation = dict(validation or {"verdict": "not run", "error": "AI validator did not run (no model could be reached: check the Copilot token)",
                                      "checked": 0, "fixes": [], "removed": []})
     validation["ruleChecks"] = rules
     if editorial is not None:
