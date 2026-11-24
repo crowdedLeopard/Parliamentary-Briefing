@@ -139,8 +139,28 @@ def profile_card(p: dict, colour: str, notes: dict) -> str:
 <p class="links">{links}</p></article>'''
 
 
-def render(feed: dict, profiles: list[dict], editorial: dict | None, run_date: date) -> str:
+def validation_html(v: dict | None, ed: dict) -> tuple[str, str]:
+    """(header badge, coverage block) describing the independent validation pass."""
+    if not ed:
+        return "", ""
+    if not v:
+        return ('<p class="vb warn">Not yet checked by the validator agent</p>',
+                "<p><b>Validation.</b> The editorial sections have not been through the independent validator agent.</p>")
+    fixes, removed = v.get("fixes", []), v.get("removed", [])
+    verdict = {"pass": "Validated", "pass_with_fixes": "Validated with corrections", "fail": "Failed validation"}.get(v.get("verdict"), "Validation not completed")
+    cls = "warn" if v.get("verdict") in ("fail", None, "not run") else ""
+    badge = f'<p class="vb {cls}">{e(verdict)}: {e(v.get("checked", 0))} claims checked, {len(fixes)} corrected, {len(removed)} removed</p>'
+    rows = "".join(f"<li><b>{e(f.get('where'))}</b>: {e(f.get('was'))} &rarr; {e(f.get('now'))} <small>({e(f.get('reason'))})</small></li>" for f in fixes)
+    rows += "".join(f"<li><b>{e(r.get('where'))}</b> removed <small>({e(r.get('reason'))})</small></li>" for r in removed)
+    block = (f"<p><b>Validation.</b> Drafted by the writer agent ({e(v.get('writer', 'n/a'))}) and checked claim by claim against the "
+             f"same source material by an independent validator agent ({e(v.get('validator', 'n/a'))}). Verdict: {e(verdict)}.</p>"
+             + (f"<details><summary>Corrections and removals</summary><ul>{rows}</ul></details>" if rows else ""))
+    return badge, block
+
+
+def render(feed: dict, profiles: list[dict], editorial: dict | None, run_date: date, validation: dict | None = None) -> str:
     ed = editorial or {}
+    vbadge, vblock = validation_html(validation, ed)
     pid = {p["id"] for p in profiles}
     colours = {}
     for q in feed["writtenQuestions"]:
@@ -237,13 +257,14 @@ details summary{{cursor:pointer;color:var(--g);font-size:14px;margin-top:4px}}de
 .mini i{{height:8px;background:var(--g);display:block}}.mini b{{text-align:right}}
 .lab{{font-weight:700;font-size:14px;margin:10px 0 2px}}.pl{{margin:0;padding-left:18px;font-size:15px}}.small{{font-size:15px;margin:0}}
 .links{{display:flex;flex-wrap:wrap;gap:4px 12px;font-size:14px;margin:12px 0 0;padding-top:10px;border-top:1px solid var(--rule)}}
+.vb{{display:inline-block;margin:0 0 18px;padding:6px 12px;background:#fff;color:#0b6b4b;font-weight:700;border-radius:3px;font-size:15px}}.vb.warn{{color:#a2192f}}
 .cov{{max-width:82ch}}.cov li{{margin:4px 0}}
 @media(max-width:860px){{.grid{{grid-template-columns:minmax(0,1fr)}}}}
 @media(max-width:600px){{table{{font-size:13px}}.stack thead{{display:none}}.stack tr{{display:grid;padding-block:10px;border-bottom:1px solid var(--rule)}}.stack td{{border:0;padding:3px 0}}.bar{{grid-template-columns:minmax(0,9em) minmax(0,1fr) 2em;font-size:14px}}.today li{{grid-template-columns:minmax(0,1fr);gap:2px}}}}
 </style></head><body>
 <header class="top"><div class="wrap grid">
 <div><p class="kick">Parliamentary briefing · {e(period)}{f" · Parliament Today {e(nice(ed['today_date']))}" if ed.get("today_date") else ""}</p>
-<h1>{e(headline)}</h1><p class="dek">{e(summary)}</p>
+<h1>{e(headline)}</h1><p class="dek">{e(summary)}</p>{vbadge}
 <div class="figs"><div><b>{feed["questionsScanned"]:,}</b><span>written questions screened</span></div>
 <div><b>{nq}</b><span>keyword matches</span></div><div><b>{len(profiles)}</b><span>members profiled</span></div>
 <div><b>{ns}</b><span>relevant statements of {feed.get("statementsScanned", "?")}</span></div></div></div>
@@ -265,7 +286,7 @@ details summary{{cursor:pointer;color:var(--g);font-size:14px;margin-top:4px}}de
 <section class="band" id="coverage"><div class="wrap cov"><h2>Coverage note</h2>
 <p>Period covered: {e(period)}. Generated {e(feed["generatedUtc"])} from the UK Parliament written questions and statements service and Members API.</p>
 <p>Screened {feed["questionsScanned"]:,} written questions answered or newly tabled in the period (Commons and Lords), using full question and answer text, and {feed.get("statementsScanned", 0)} written statements.</p>
-{cov_extra}{f"<p><b>Data warnings</b></p><ul>{warn}</ul>" if warn else "<p>No data warnings: every request completed.</p>"}</div></section>
+{cov_extra}{vblock}{f"<p><b>Data warnings</b></p><ul>{warn}</ul>" if warn else "<p>No data warnings: every request completed.</p>"}</div></section>
 <script>{{const i=document.getElementById('mf'),c=[...document.querySelectorAll('#cards .card')],n=document.getElementById('mc');
 const f=()=>{{const q=i.value.trim().toLowerCase();let k=0;for(const x of c){{const s=!q||x.dataset.q.toLowerCase().includes(q);x.hidden=!s;if(s)k++}}n.textContent=k+' of '+c.length+' members'}};
 i.addEventListener('input',f);f();}}</script>

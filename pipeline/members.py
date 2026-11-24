@@ -92,8 +92,10 @@ def profile(raw: dict, todays: list[dict]) -> dict:
     house = "Lords" if hm.get("house") == 2 else "Commons"
 
     committees = [c.get("name") for c in _current(bio.get("committeeMemberships"))]
-    posts = [p.get("name") for key in ("governmentPosts", "oppositionPosts", "otherPosts")
-             for p in _current(bio.get(key))]
+    gov = [p.get("name") for p in _current(bio.get("governmentPosts"))]
+    opp = [p.get("name") for p in _current(bio.get("oppositionPosts"))]
+    other = [p.get("name") for p in _current(bio.get("otherPosts"))]
+    posts = gov + opp + other
     focus = [f for cat in raw.get("focus") or [] for f in cat.get("focus", []) or []]
     interests = _interest_lines(raw.get("interests"))
 
@@ -111,15 +113,18 @@ def profile(raw: dict, todays: list[dict]) -> dict:
     share = round(100 * len(relevant) / len(hist)) if hist else 0
 
     signals: list[str] = []
-    if posts:
-        signals.append(f"Holds a current post ({posts[0]}); questions may form part of "
-                       f"{'government' if any('Minister' in p or 'Secretary' in p for p in posts) else 'frontbench or official'} business.")
+    if gov:
+        signals.append(f"Government post ({gov[0]}): speaks for the Government rather than asking as a backbencher.")
+    elif opp:
+        signals.append(f"Opposition frontbench ({opp[0]}): questions are likely part of their party's scrutiny of that brief.")
+    elif other:
+        signals.append(f"Holds a party or parliamentary role ({other[0]}), which may shape the issues they pursue.")
     tc = [c for c in committees if TECH_COMMITTEE.search(c or "")]
     if tc:
         signals.append(f"Sits on {', '.join(tc[:3])}, which gives a standing reason to follow these issues.")
     if hist:
         if len(relevant) >= 5:
-            top = ", ".join(f"{k.lower()} ({v})" for k, v in by_topic.most_common(3))
+            top = ", ".join(f"{k[0].lower() + k[1:] if not k.startswith("Microsoft") else k} ({v})" for k, v in by_topic.most_common(3))
             signals.append(f"Sustained interest: {len(relevant)} of {len(hist)} written questions in the past year ({share}%) "
                            f"touch these topics, mainly {top}.")
         elif relevant:
