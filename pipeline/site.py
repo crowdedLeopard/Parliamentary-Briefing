@@ -95,6 +95,7 @@ footer{{padding:24px max(5vw,16px);color:var(--mut);font-size:14px;border-top:1p
                                   "<p>This site is private. Ask the owner to invite you to the briefing site, then sign in again with your Microsoft account.</p>"
                                   "<p><a href='/logout'>Sign out</a></p></body></html>")
     (OUT / "staticwebapp.config.json").write_text(json.dumps(SWA_CONFIG, indent=2))
+    (OUT / "robots.txt").write_text("User-agent: *\nDisallow: /\n")
     (OUT / ".nojekyll").write_text("")
     print(f"site: {len(rows)} briefings")
     return 0
