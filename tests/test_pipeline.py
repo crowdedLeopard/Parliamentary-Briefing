@@ -105,3 +105,68 @@ def test_end_to_end(tmp_path):
     assert "Test &lt;b&gt;headline&lt;/b&gt;" in page and 'id="m-8"' in page and "Likely driven" in page
     assert page.startswith("<!DOCTYPE html>")
     (tmp_path / "page.html").write_text(page)
+
+
+def test_sources_parse_hansard_and_whatson(monkeypatch):
+    import sources
+    overview = '<a href="/Commons/2026-11-23/debates/AAA/FinanceBill">Finance Bill (item number 6)</a>'
+    section = ('<h2>Finance Bill</h2><div class="contribution">Calum Miller (Bicester and Woodstock) (LD) to contribution 117 '
+               'Share this specific contribution x Copy link There are two huge data centres proposed in my constituency.</div>'
+               '<div class="contribution">Someone (Somewhere) (Lab) to contribution 118 Share this specific contribution x Copy link Potholes again and again.</div>')
+    whatson = ('<main><a href="/event/cal1">View more information about Consideration of Lords Amendments to the Cyber Security and '
+               'Resilience (Network and Information Systems) Bill ) (7)</a></main>')
+
+    def h(req):
+        u = str(req.url)
+        if u.endswith("/Commons/2026-11-23"):
+            return httpx.Response(200, text=overview)
+        if "/html/Commons/2026-11-23/CommonsChamber" in u:
+            return httpx.Response(200, text=section)
+        if "whatson" in u and "/commons/" in u:
+            return httpx.Response(200, text=whatson)
+        return httpx.Response(404)
+
+    real = httpx.Client
+    monkeypatch.setattr(sources.httpx, "Client", lambda **kw: real(transport=httpx.MockTransport(h), **{k: v for k, v in kw.items() if k != "transport"}))
+    b = sources.gather("2026-11-23", "2026-11-23", "2026-11-24")
+    assert len(b["hansard"]) == 1
+    hp = b["hansard"][0]
+    assert hp["debate"] == "Finance Bill" and hp["link"].endswith("/FinanceBill") and "Calum Miller" in hp["speaker"]
+    assert any(x.get("title", "").startswith("Consideration of Lords Amendments to the Cyber") for x in b["today"])
+
+
+def test_render_with_validation():
+    from render import render
+    feed = {"fromDate": "2026-11-23", "toDate": "2026-11-23", "generatedUtc": "x", "questionsScanned": 1,
+            "statementsScanned": 0, "writtenQuestions": [], "writtenStatements": [], "warnings": []}
+    page = render(feed, [], {"headline": "H"}, date(2026, 11, 24),
+                  {"verdict": "pass_with_fixes", "checked": 40, "fixes": [{"where": "vi[0]", "was": "Lab", "now": "LD", "reason": "party"}],
+                   "removed": [], "writer": "w", "validator": "v"})
+    assert "Validated with corrections: 40 claims checked, 1 corrected" in page and "LD" in page
+    assert "Not yet checked" in render(feed, [], {"headline": "H"}, date(2026, 11, 24))
+
+
+def test_writer_then_validator(monkeypatch):
+    import agents
+    calls = []
+
+    def fake_post(self, url, headers=None, json=None):
+        calls.append(json["model"])
+        if len(calls) == 1:   # writer
+            body = '{"headline": "Draft", "very_important": [{"title": "X", "who": "A (Lab)", "link": "https://q"}]}'
+        else:                 # validator
+            body = ('Here you go: {"verdict": "pass_with_fixes", "checked": 3, "fixes": [{"where": "very_important[0].who", '
+                    '"was": "A (Lab)", "now": "A (LD)", "reason": "party"}], "removed": [], '
+                    '"editorial": {"headline": "Draft", "very_important": [{"title": "X", "who": "A (LD)", "link": "https://q"}]}}')
+        return httpx.Response(200, json={"content": [{"type": "text", "text": body}]}, request=httpx.Request("POST", url))
+
+    monkeypatch.setenv("ANTHROPIC_API_KEY", "test")
+    monkeypatch.setattr(agents.httpx.Client, "post", fake_post)
+    feed = {"fromDate": "2026-11-23", "toDate": "2026-11-23", "questionsScanned": 1, "writtenQuestions": [], "writtenStatements": []}
+    ed, v = agents.write_and_validate(feed, [], {"hansard": [], "today": [], "committees": [], "gaps": []}, "2026-11-24")
+    assert calls == ["claude-sonnet-5-5", "claude-opus-5-5"]          # two separate agents
+    assert ed["very_important"][0]["who"] == "A (LD)" and ed["today_date"] == "2026-11-24"
+    assert v["verdict"] == "pass_with_fixes" and "editorial" not in v
+
+    monkeypatch.delenv("ANTHROPIC_API_KEY")
+    assert agents.write_and_validate(feed, [], {}, "2026-11-24", draft={"headline": "H"}) == ({"headline": "H"}, None)
