@@ -151,7 +151,10 @@ DEPARTMENTS_IF_DIGITAL = (
     "Department for Energy Security and Net Zero", "Ministry of Housing, Communities and Local Government",
     "Treasury", "HM Treasury", "Home Office", "Department of Health and Social Care", "Department for Education",
 )
-DIGITAL_HINT = re.compile(r"\b(digital|data|online|internet|IT|technolog\w*|software|computer\w*|tech|platform\w*|app|apps|website\w*|electronic)\b", re.I)
+DIGITAL_HINT = re.compile(
+    r"\b(digital\w*|online|internet|technolog\w*|software|computer\w*|cyber\w*|tech|platforms?|apps?|websites?|"
+    r"electronic|automat\w+|data (?:centre|center|protection|sharing|breach|system|platform)s?)\b"
+    r"|(?-i:\bIT\b)", re.I)
 
 # Members who consistently drive these issues: every question they ask is screened in (layer 3).
 # Ids from the Members API; names for readability. Review quarterly.
