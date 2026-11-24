@@ -1,0 +1,619 @@
+{
+ "id": 5238,
+ "fetchedOn": "2026-11-24",
+ "core": {
+  "id": 5238,
+  "nameListAs": "Ballinger, Alex",
+  "nameDisplayAs": "Alex Ballinger",
+  "nameFullTitle": "Alex Ballinger MP",
+  "nameAddressAs": null,
+  "latestParty": {
+   "id": 15,
+   "name": "Labour",
+   "abbreviation": "Lab",
+   "backgroundColour": "d50000",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": true,
+   "governmentType": 0,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "Halesowen",
+   "membershipFromId": 4076,
+   "house": 1,
+   "membershipStartDate": "2024-07-04T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2024-07-04T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/5238/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2024-05-31T00:00:00",
+    "constituencyEnd": null,
+    "house": 1,
+    "name": "Halesowen",
+    "id": 4076,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [],
+  "houseMemberships": [
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Alex Ballinger",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [],
+  "oppositionPosts": [],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Labour",
+    "id": 15,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 1,
+    "name": "Human Rights (Joint Committee)",
+    "id": 93,
+    "startDate": "2024-11-13T00:00:00",
+    "endDate": "2025-01-06T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Foreign Affairs Committee",
+    "id": 78,
+    "startDate": "2024-12-16T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Finance Bill",
+    "id": 765,
+    "startDate": "2025-01-22T00:00:00",
+    "endDate": "2025-01-30T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Select Committee on the Armed Forces Bill",
+    "id": 826,
+    "startDate": "2026-02-09T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 3,
+   "name": "2. (b) Any other support not included in Category 2(a)",
+   "sortOrder": 0,
+   "interests": [
+    {
+     "id": 16779,
+     "interest": "Name of donor: The Coalition for Global Prosperity (CGP)\r\nAddress of donor: 1 Horse Guards Avenue, Westminster, London SW1A 2HU\r\nAmount of donation or nature and value if donation in kind: The services of a Senior Policy Advisor for 1 day per week from Tuesday 1st September to Tuesday 24th November (agreed on 17 August 2026), value £3,900\r\nDate received: 17 August 2026 to 24 November 2026\r\nDate accepted: 17 August 2026\r\nDonor status: company, registration 10894509\r\n(Registered 17 August 2026)",
+     "createdWhen": "2026-08-18T09:11:45.52",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "name": "3. Gifts, benefits and hospitality from UK sources",
+   "sortOrder": 1,
+   "interests": [
+    {
+     "id": 16933,
+     "interest": "Name of donor: Google UK Ltd\r\nAddress of donor: 1 St. Giles High Street, London WC2H 8AG\r\nAmount of donation or nature and value if donation in kind: Travel, overnight stay and hospitality at Ditchley Park as part of the AI Parliamentary Scheme by Social Market Foundation, in partnership with Google, value £645.63\r\nDate received: 2 September 2026\r\nDate accepted: 2 September 2026\r\nDonor status: company, registration 03977902\r\n(Registered 10 September 2026)",
+     "createdWhen": "2026-09-22T11:01:39.1866667",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 17548,
+     "interest": "Name of donor: National Westminster Bank PLC\r\nAddress of donor: 250 Bishopsgate, London EC2M 4AA\r\nAmount of donation or nature and value if donation in kind: Hospitality comprising the provision of venue hire and catering for an event hosted by myself and in connection with my parliamentary and constituency duties, value £500\r\nDate received: 31 October 2026\r\nDate accepted: 31 October 2026\r\nDonor status: company, registration 00929027\r\n(Registered 13 November 2026)",
+     "createdWhen": "2026-11-24T09:40:37.24",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "name": "4. Visits outside the UK",
+   "sortOrder": 2,
+   "interests": [
+    {
+     "id": 14156,
+     "interest": "Name of donor: Doha Forum\r\nAddress of donor: Ministry of Foreign Affairs, Almirqab Tower, West Bay, Doha, Qatar\r\nEstimate of the probable value (or amount of any donation): Flights (£5,581), food and accommodation (£404), value £5,985\r\nDestination of visit: Qatar (Doha)\r\nDates of visit: 5 December 2025 to 8 December 2025\r\nPurpose of visit: To participate in the Doha Forum 2025 on regional diplomacy and dialogue. Included meetings with Qatari ministers, ministers from other countries and key multilateral partners to discuss efforts to resolve regional conflicts. This visit is relevant to my role as a member of the Foreign Affairs Select Committee.\r\n(Registered 16 December 2025)",
+     "createdWhen": "2026-01-06T10:53:25.9866667",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "name": "8. Miscellaneous",
+   "sortOrder": 3,
+   "interests": [
+    {
+     "id": 6260,
+     "interest": "Trustee of The Birmingham Settlement. This is an unpaid role.\r\n(Registered 15 July 2024)",
+     "createdWhen": "2024-08-16T15:04:03.5633333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 13917,
+     "interest": "Member, Rowley Regis Town Board. This is an unpaid role.\r\n(Registered 18 November 2025)",
+     "createdWhen": "2025-12-02T09:18:14.72",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 13918,
+     "interest": "Member, Halesowen Abbey Trust Board.  This is an unpaid role.\r\n(Registered 18 November 2025)",
+     "createdWhen": "2025-12-02T09:18:14.72",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [],
+ "synopsis": "Alex Ballinger is the Labour MP for <a href='/constituency/4076/overview'>Halesowen</a>, and has been an MP continually since 4 July 2024.",
+ "history": [
+  {
+   "id": 1960258,
+   "uin": "43388",
+   "heading": "Armed Conflict: Casualties",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, how much funding his Department provided (a) directly and (b) through delivery partners for independent casualty recording in armed conflict in each of the last three financi",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1960257,
+   "uin": "43387",
+   "heading": "Dental Services: Medical Devices",
+   "questionText": "To ask the Secretary of State for Health and Social Care, pursuant to the Answer of 19 October 2026 to Question 31742, what additional post-market surveillance and enforcement activity for custom-made dental devices, including imported devices, the Medici",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1960256,
+   "uin": "43386",
+   "heading": "Electronic Cigarettes: Children",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what information her Department holds for each of 2023/24, 2024/25 and 2025/26 on the number of (a) underage test purchase attempts for vaping products carried out by local authority Trading Standa",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1960235,
+   "uin": "43365",
+   "heading": "Cats: Veterinary Services",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps the Department is taking with veterinary professionals and animal welfare organisations to ensure access to affordable cat neutering and promote responsible ownership.",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1953140,
+   "uin": "37928",
+   "heading": "Gambling: Addictions",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what the (a) membership, (b) scope and function, and (c) meeting schedule is of the joint NHS England and integrated care board working group overseeing the commissioning of gambling harms treatmen",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1953138,
+   "uin": "37926",
+   "heading": "Gambling: Addictions",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether he will publish the terms of reference and minutes of the NHS England and integrated care board working group on gambling harms treatment commissioning.",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1953137,
+   "uin": "37925",
+   "heading": "Gambling: Addictions",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether (a) the voluntary, community, and social enterprise sector providers and (b) people with lived experience of gambling harms are represented on the NHS England and integrated care board work",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1934959,
+   "uin": "24576",
+   "heading": "International Fund for Israeli-Palestinian Peace",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what progress has been made on establishing and implementing the International Fund for Israeli-Palestinian Peace since its launch.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1934958,
+   "uin": "24575",
+   "heading": "International Fund for Israeli-Palestinian Peace",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, if he will provide an update on the implementation of the International Fund for Israeli-Palestinian Peace, including the steps the Government is taking to support Israeli an",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1927100,
+   "uin": "18346",
+   "heading": "Cryptocurrencies: Gambling",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what information her Department holds on the Reform Party holding discussions with the Gambling Commission on Crypto Gambling.",
+   "dateTabled": "2026-07-13T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1927104,
+   "uin": "18347",
+   "heading": "Gambling: Licensing",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, with reference to Investigate Europe's report entitled Payment firms handled millions for companies linked to unlicensed gambling network, published on 9 July 2026, whether the payments associati",
+   "dateTabled": "2026-07-13T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1926359,
+   "uin": "17575",
+   "heading": "Gambling: Internet",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what steps the Gambling Commission is taking to prevent UK licensed gambling software companies providing games to illegal gambling sites.",
+   "dateTabled": "2026-07-09T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1926159,
+   "uin": "17574",
+   "heading": "Gambling: Cryptocurrencies",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, if she will publish a list of organisations that have lobbied the Gambling Commission or her Department on the subject of crypto gambling.",
+   "dateTabled": "2026-07-09T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1921448,
+   "uin": "900682",
+   "heading": "Employment: Young People",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what steps his Department is taking in response to the findings of the report entitled Young people and work: interim report, published on 28 May 2026.",
+   "dateTabled": "2026-06-23T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1909750,
+   "uin": "4705",
+   "heading": "Gambling: Children and Young People",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what steps she is taking to prevent gambling operators from using content marketing to reach children and young people.",
+   "dateTabled": "2026-05-29T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1909751,
+   "uin": "4706",
+   "heading": "Gambling: Children",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what discussions she has had with social media and streaming platforms about preventing gambling promotions from reaching under-18s.",
+   "dateTabled": "2026-05-29T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1909752,
+   "uin": "4707",
+   "heading": "Artificial Intelligence: Gambling",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what steps the Government is taking to prevent AI tools from directing UK consumers to black market gambling websites.",
+   "dateTabled": "2026-05-29T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1903097,
+   "uin": "129759",
+   "heading": "BBC: West Midlands",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what assessment her Department has made of the potential impact of the BBC’s Digbeth development on regional storytelling in the West Midlands.",
+   "dateTabled": "2026-04-24T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1903096,
+   "uin": "129758",
+   "heading": "BBC: Royal Charters",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what steps her Department is taking to ensure that a new BBC Charter provides sustainable and stable funding.",
+   "dateTabled": "2026-04-24T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1895020,
+   "uin": "123945",
+   "heading": "Hospices: Finance",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment she has made of potential shortfalls in funding for service delivery by hospice providers.",
+   "dateTabled": "2026-03-25T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1891926,
+   "uin": "121556",
+   "heading": "Ameer Kotecha",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, whether Mr Ameer Kotecha was given a leave of absence from her Department to (a) run the Platinum Pudding Competition and (b) write the Platinum Cookbook.",
+   "dateTabled": "2026-03-17T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1891917,
+   "uin": "121550",
+   "heading": "Foreign, Commonwealth and Development Office: Ethnic Groups",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, whether an event was held within her Department to mark World Afro Day in August 2021.",
+   "dateTabled": "2026-03-17T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1891165,
+   "uin": "121007",
+   "heading": "Work Capability Assessment",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what steps his Department is taking to provide support for people who are disabled and on benefits when their condition deteriorates; and what assessment he has made of the potential merits of introduci",
+   "dateTabled": "2026-03-16T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1890719,
+   "uin": "120461",
+   "heading": "Furs: Imports and Sales",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps her Department is taking to limit the import and sale of fur produced from unethical practices overseas.",
+   "dateTabled": "2026-03-12T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1888573,
+   "uin": "119082",
+   "heading": "UK Integrated Security Fund: Gender Based Violence",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, with reference to her Department's press release entitled New international coalition launched to end violence against women and girls globally, published on 2 December 2025,",
+   "dateTabled": "2026-03-09T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1888572,
+   "uin": "119081",
+   "heading": "UK Integrated Security Fund: Women",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what assessment her Department has made of the potential impact of changes in gender and conflict advisory capacity on the ability of the Integrated Security Fund to mainstre",
+   "dateTabled": "2026-03-09T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1886684,
+   "uin": "117550",
+   "heading": "Conflict Prevention and Peacekeeping Operations",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what assessment she has made of the (a) effectiveness and (b) value for money of (i) Official Development Assistance allocations to peacekeeping and multilateral commitments ",
+   "dateTabled": "2026-03-03T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1883359,
+   "uin": "114714",
+   "heading": "UK Integrated Security Fund",
+   "questionText": "To ask the Minister for the Cabinet Office, whether the UK Integrated Security Fund will deliver programmes through contracting and pre-qualified partners during 2026 to 2029; and whether he plans to amend the UK Integrated Security Fund's procurement and",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1883357,
+   "uin": "114712",
+   "heading": "Western Balkans: Soft Power",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what assessment her Department has made of the projected level of loss of UK soft power in the Western Balkans in the next five years.",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1883358,
+   "uin": "114713",
+   "heading": "UK Integrated Security Fund",
+   "questionText": "To ask the Minister for the Cabinet Office, what assessment his Department made of the potential impact of the level of conflict prevention on UK national security when determining the of the multi-year level of funding for the UK Integrated Security Fund",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1883355,
+   "uin": "114710",
+   "heading": "UK Integrated Security Fund",
+   "questionText": "To ask the Minister for the Cabinet Office, if he will set out the basis for determining the funding level of the UK Integrated Security Fund multi-year allocations for (a) conflict prevention and (b) Women, Peace and Security, including the advice and im",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1883356,
+   "uin": "114711",
+   "heading": "Rolling Stock: Leasing",
+   "questionText": "To ask the Secretary of State for Transport, what assessment she has made of the potential merits of bringing train leasing companies into public ownership, including to achieve a fair price for leasing rolling stock.",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1883161,
+   "uin": "114516",
+   "heading": "Gambling: Advertising",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what steps her Department is taking in the context of the University of Sheffield’s findings that gambling advertisements during the 2022 FIFA World Cup significantly influenced betting behaviour",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1883133,
+   "uin": "114488",
+   "heading": "Healthwatch Dudley",
+   "questionText": "To ask the Secretary of State for Health and Social Care, which organisations will replace Healthwatch Dudley; and how health and social care will be monitored in Dudley borough.",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1880713,
+   "uin": "112730",
+   "heading": "Property Development: Landslips",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, under what legislation developers are responsible for mitigating the risk of landslides in their property developments.",
+   "dateTabled": "2026-02-11T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1872606,
+   "uin": "106776",
+   "heading": "Dudley Metropolitan Borough Council",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what (a) financial and (b) any other support (i) is and (ii) will be available to Dudley Metropolitan Borough Council, in the context of improvement notice and auditor evaluation",
+   "dateTabled": "2026-01-19T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1872605,
+   "uin": "106775",
+   "heading": "Council Tax",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, how he plans to support Councils with low council tax bases and entrenched deprivation.",
+   "dateTabled": "2026-01-19T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1870804,
+   "uin": "105448",
+   "heading": "Ethics",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what assessment she has made of the effectiveness of financial penalties for social responsibility failings in acting as a deterrent.",
+   "dateTabled": "2026-01-13T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1870809,
+   "uin": "105449",
+   "heading": "Gambling: Advertising",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what assessment she has made of the potential impact of gambling advertisements on children and young people; and whether she plans to introduce legislative measures to restrict or ban gambling m",
+   "dateTabled": "2026-01-13T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1870863,
+   "uin": "105478",
+   "heading": "M6: Tolls",
+   "questionText": "To ask the Secretary of State for Transport, what assessment she has made of the potential merits of nationalising the M6 Toll road.",
+   "dateTabled": "2026-01-13T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1861253,
+   "uin": "97674",
+   "heading": "Growth and Skills Levy: West Midlands",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what steps he is taking to support SMEs in the West Midlands to access the Growth and Skills Levy.",
+   "dateTabled": "2025-12-05T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1868373,
+   "uin": "103611",
+   "heading": "Independent Commission for Reconciliation and Information Recovery",
+   "questionText": "To ask the Secretary of State for Northern Ireland, how many investigations are being carried out by the Independent Commission for Reconciliation and Information Recovery; and how many of those investigations relate to the deaths of (a) members of the Ar",
+   "dateTabled": "2026-01-06T00:00:00",
+   "answeringBodyName": "Northern Ireland Office"
+  },
+  {
+   "id": 1861262,
+   "uin": "97681",
+   "heading": "Cancer: Research",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what assessment she has made of the potential merits of long-term, stable funding models for cancer research projects.",
+   "dateTabled": "2025-12-05T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1861264,
+   "uin": "97682",
+   "heading": "Cancer: Research",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what steps her Department is taking to support research teams undertaking long-term cancer prevention and early-detection research.",
+   "dateTabled": "2025-12-05T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1861257,
+   "uin": "97677",
+   "heading": "Armed Forces: Gambling",
+   "questionText": "To ask the Secretary of State for Defence, what discussions he has had with the NHS on improving prevention and treatment of gambling harms among Armed Forces personnel and veterans.",
+   "dateTabled": "2025-12-05T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1861256,
+   "uin": "97676",
+   "heading": "Armed Forces: Gambling",
+   "questionText": "To ask the Secretary of State for Defence, what assessment he has made of trends in the level of gambling harms among serving members of the Armed Forces.",
+   "dateTabled": "2025-12-05T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1861254,
+   "uin": "97675",
+   "heading": "Small Businesses: West Midlands",
+   "questionText": "To ask the Chancellor of the Exchequer, what steps she is taking to support access to finance for SMEs in the West Midlands.",
+   "dateTabled": "2025-12-05T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1861268,
+   "uin": "97683",
+   "heading": "NHS: Research",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether he plans to expand protected research time for NHS clinicians contributing to research.",
+   "dateTabled": "2025-12-05T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1861258,
+   "uin": "97678",
+   "heading": "Food Banks",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what steps he is taking to ensure support is available for vulnerable people in poverty to have improved access to food banks.",
+   "dateTabled": "2025-12-05T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1861259,
+   "uin": "97679",
+   "heading": "Parking: Fines",
+   "questionText": "To ask the Secretary of State for Transport, whether she is taking steps to improve grace periods for parking fines and transparency for the appeal and enforcement process.",
+   "dateTabled": "2025-12-05T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  }
+ ],
+ "historyComplete": true
+}

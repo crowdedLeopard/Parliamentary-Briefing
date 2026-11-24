@@ -1,0 +1,591 @@
+{
+ "id": 3997,
+ "fetchedOn": "2026-11-24",
+ "core": {
+  "id": 3997,
+  "nameListAs": "Shelbrooke, Sir Alec",
+  "nameDisplayAs": "Sir Alec Shelbrooke",
+  "nameFullTitle": "Rt Hon Sir Alec Shelbrooke MP",
+  "nameAddressAs": "Sir Alec Shelbrooke",
+  "latestParty": {
+   "id": 4,
+   "name": "Conservative",
+   "abbreviation": "Con",
+   "backgroundColour": "0063ba",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": false,
+   "governmentType": 3,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "Wetherby and Easingwold",
+   "membershipFromId": 4397,
+   "house": 1,
+   "membershipStartDate": "2010-05-06T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2024-07-04T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/3997/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2024-05-31T00:00:00",
+    "constituencyEnd": null,
+    "house": 1,
+    "name": "Wetherby and Easingwold",
+    "id": 4397,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "2010-04-13T00:00:00",
+    "constituencyEnd": "2024-05-30T00:00:00",
+    "house": 1,
+    "name": "Elmet and Rothwell",
+    "id": 3472,
+    "startDate": "2010-05-06T00:00:00",
+    "endDate": "2024-05-30T00:00:00",
+    "additionalInfo": "Elected 4 times",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [
+   {
+    "house": 1,
+    "name": "Wakefield",
+    "id": 3003,
+    "startDate": "2005-05-05T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "houseMemberships": [
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "2010-05-06T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Sir Alec Shelbrooke",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [
+   {
+    "house": 1,
+    "name": "Minister of State (Ministry of Defence)",
+    "id": 222,
+    "startDate": "2022-09-07T00:00:00",
+    "endDate": "2022-10-26T00:00:00",
+    "additionalInfo": "Ministry of Defence",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/ministry-of-defence"
+   }
+  ],
+  "oppositionPosts": [
+   {
+    "house": 1,
+    "name": "Shadow Parliamentary Under Secretary (Foreign, Commonwealth and Development Affairs)",
+    "id": 1711,
+    "startDate": "2025-07-22T00:00:00",
+    "endDate": "2025-11-13T00:00:00",
+    "additionalInfo": "Foreign, Commonwealth and Development Office",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Minister (Transport)",
+    "id": 971,
+    "startDate": "2024-07-19T00:00:00",
+    "endDate": "2024-11-06T00:00:00",
+    "additionalInfo": "Department for Transport",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-transport"
+   }
+  ],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Conservative",
+    "id": 4,
+    "startDate": "2010-05-06T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 1,
+    "name": "Backbench Business Committee",
+    "id": 202,
+    "startDate": "2013-12-10T00:00:00",
+    "endDate": "2014-05-14T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Housing, Communities and Local Government Committee",
+    "id": 17,
+    "startDate": "2014-06-23T00:00:00",
+    "endDate": "2015-03-30T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "European Scrutiny Committee",
+    "id": 69,
+    "startDate": "2015-07-15T00:00:00",
+    "endDate": "2016-11-07T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Elections Bill",
+    "id": 541,
+    "startDate": "2021-09-15T00:00:00",
+    "endDate": "2021-10-26T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Genetic Technology (Precision Breeding) Bill",
+    "id": 601,
+    "startDate": "2022-06-22T00:00:00",
+    "endDate": "2022-07-07T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "UK Infrastructure Bank Bill [Lords]",
+    "id": 625,
+    "startDate": "2022-11-16T00:00:00",
+    "endDate": "2022-11-22T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Energy Bill [HL]",
+    "id": 669,
+    "startDate": "2023-05-17T00:00:00",
+    "endDate": "2023-06-29T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "British Citizenship (Northern Ireland) Bill",
+    "id": 716,
+    "startDate": "2024-03-20T00:00:00",
+    "endDate": "2024-04-17T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Panel of Chairs",
+    "id": 11,
+    "startDate": "2025-11-13T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Northern Ireland Affairs Committee",
+    "id": 120,
+    "startDate": "2026-06-29T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 4,
+   "name": "3. Gifts, benefits and hospitality from UK sources",
+   "sortOrder": 0,
+   "interests": [
+    {
+     "id": 15271,
+     "interest": "Name of donor: UK Commercial Group Ltd\r\nAddress of donor: 14 Octavian Way, Team Valley NE11 0HZ\r\nAmount of donation or nature and value if donation in kind: Hospitality and tickets to the Directors' box at Newcastle United v West Ham on 17 May 2026, value £643\r\nDate received: 17 May 2026\r\nDate accepted: 17 May 2026\r\nDonor status: company, registration 07462722\r\n(Registered 20 May 2026)",
+     "createdWhen": "2026-06-03T10:07:17.0566667",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 15464,
+     "interest": "Name of donor: Bramham Park Estate\r\nAddress of donor: The Horse Trials Office, Bramham Park, Wetherby, West Yorkshire LS23 6ND\r\nAmount of donation or nature and value if donation in kind: Two tickets for Bramham Horse Trials with access to the members' enclosure on Sunday 14 June, value £312\r\nDate received: 8 June 2026 to 14 June 2026\r\nDate accepted: 12 June 2026\r\nDonor status: limited liability partnership\r\n(Registered 16 June 2026)",
+     "createdWhen": "2026-06-30T09:44:15.2233333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 16233,
+     "interest": "Name of donor: Silverstone Circuits Ltd\r\nAddress of donor: The Jimmy Brown Centre, Silverstone Circuit, Towcester NN12 8TN\r\nAmount of donation or nature and value if donation in kind: Two tickets for hospitality at the British Grand Prix (Saturday 4th July), value £1,860\r\nDate received: 4 July 2026\r\nDate accepted: 4 July 2026\r\nDonor status: company, registration 882843\r\n(Registered 8 July 2026)",
+     "createdWhen": "2026-07-14T09:29:40.0133333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "name": "9. Family members employed and paid from parliamentary expenses",
+   "sortOrder": 1,
+   "interests": [
+    {
+     "id": 2985,
+     "interest": "Name: Susan Shelbrooke\r\nRelationship: Spouse\r\nRole: Senior Secretary\r\nWorking pattern: Part time\r\nEnd date: 31 May 2026\r\n(Updated 4 June 2015 and 7 July 2026)",
+     "createdWhen": "2026-07-14T09:29:40.0133333",
+     "lastAmendedWhen": "2024-05-13T10:45:32.180152",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [
+  {
+   "category": "Countries of interest",
+   "focus": [
+    "Middle East, North Africa"
+   ]
+  },
+  {
+   "category": "Political Interests",
+   "focus": [
+    "Foreign affairs, transport, Treasury, Welfare reform, Thalidomide victims"
+   ]
+  }
+ ],
+ "synopsis": "The Rt Hon Sir Alec Shelbrooke is the Conservative MP for <a href='/constituency/4397/overview'>Wetherby and Easingwold</a>, and has been an MP continually since 6 May 2010.",
+ "history": [
+  {
+   "id": 1959153,
+   "uin": "42631",
+   "heading": "Rights of Way: Fire Prevention",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, for what reason regulations have not been made under section 31 of the Countryside and Rights of Way Act 2000 to enable the emergency exclusion or restriction of access for fire preven",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1955527,
+   "uin": "39956",
+   "heading": "Agriculture: Fires",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, with reference to the Written Ministerial Statement of 26 October 2026 (HCWS418), what estimate she has made of the annual cost to the public purse of funding fire breaks, fuel managem",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1956814,
+   "uin": "40927",
+   "heading": "Nature Conservation",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what the average processing time for CITES export permits issued by the APHA has been over the last three years.",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1956815,
+   "uin": "40928",
+   "heading": "Falcons: Exports",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment her Department has made of the potential financial impact of APHA delays on UK falcon breeders and their ability to meet seasonal export deadlines.",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1955529,
+   "uin": "39958",
+   "heading": "Fires",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, with reference to the Written Ministerial Statement of 26 October 2026 on the wildfire summit (HCWS418), whether an assessment was made of the potential merits of including changes to ",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1955521,
+   "uin": "39950",
+   "heading": "Fuels: Excise Duties",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment he has made of the potential merits of introducing a 15p-per-litre Essential User Rebate for HGV, coach and van operators.",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1955519,
+   "uin": "39948",
+   "heading": "Radio: Local Broadcasting",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, if she will ask Ofcom to review its December 2025 decision to amend the BBC Local Radio Operating Licence.",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1955518,
+   "uin": "39947",
+   "heading": "Radio: Local Broadcasting",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, if she will ensure that future regulatory requirements for BBC Local Radio prevent shared programming from counting towards local programming quotas.",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1955506,
+   "uin": "39935",
+   "heading": "Packaging: Recycling",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, when her department will publish the call for evidence about implementation of the packaging Extended Producer Responsibility scheme.",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1955512,
+   "uin": "39941",
+   "heading": "Agriculture: Droughts",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps she is taking to improve water access for agricultural producers during periods of drought.",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1955511,
+   "uin": "39940",
+   "heading": "Droughts: Food Supply",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment her Department has made of the effect of this summer’s drought on UK food security.",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1955510,
+   "uin": "39939",
+   "heading": "Agriculture and Food: Economic Growth",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what discussions she has had with regional mayors in England about economic growth opportunities in the agri-food chain.",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1955509,
+   "uin": "39938",
+   "heading": "Sustainable Farming Incentive",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps her Department is taking to provide long-term funding certainty until 2035 for Sustainable Farming Incentive applicants.",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1927692,
+   "uin": "18579",
+   "heading": "Asylum: RAF Linton-on-Ouse",
+   "questionText": "To ask the Secretary of State for the Home Department, pursuant to the Answer of 9 July 2026 to Question 15306, whether she has submitted a change of use planning application under The Town and Country Planning (Crown Development Applications) (Procedure ",
+   "dateTabled": "2026-07-14T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1926482,
+   "uin": "17724",
+   "heading": "Whisky: Origin Marking",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, when she plans to decide on the English Whisky Geographical Indication application.",
+   "dateTabled": "2026-07-10T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1923447,
+   "uin": "15305",
+   "heading": "Asylum: RAF Linton-on-Ouse",
+   "questionText": "To ask the Secretary of State for the Home Department, what plans he has to introduce a public consultation before a decision is made to use former RAF Linton-on-Ouse for asylum accommodation.",
+   "dateTabled": "2026-07-02T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1923449,
+   "uin": "15306",
+   "heading": "Asylum: RAF Linton-on-Ouse",
+   "questionText": "To ask the Secretary of State for the Home Department, can she confirm that she will submit a formal planning application to North Yorkshire Council should the she decide to use former RAF Linton-on-Ouse for asylum accommodation.",
+   "dateTabled": "2026-07-02T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1915963,
+   "uin": "9540",
+   "heading": "Future Combat Air System: Expenditure",
+   "questionText": "To ask the Secretary of State for Defence, what is the total spend to date on the Tempest project, including pre-concept and early concept phases.",
+   "dateTabled": "2026-06-15T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1915962,
+   "uin": "9539",
+   "heading": "Type 83 Destroyers: Expenditure",
+   "questionText": "To ask the Secretary of State for Defence, what is the total spend to date on the Type 83 Destroyer project, including pre-concept and early concept phases.",
+   "dateTabled": "2026-06-15T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1914755,
+   "uin": "8539",
+   "heading": "Arts: Antisemitism",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what recent discussions she has had with the Charity Commission regarding antisemitism in the arts sector.",
+   "dateTabled": "2026-06-10T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1914756,
+   "uin": "8540",
+   "heading": "Charities: Iran",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what recent discussions she has had with the Charity Commission regarding Iran-linked charities operating in the UK.",
+   "dateTabled": "2026-06-10T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1903120,
+   "uin": "129673",
+   "heading": "Democracy and Human Rights",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, with reference to pages 19 to 20 of the Sixth Special Report of the Joint Committee on Human Rights of Session 2024-26 on Transnational repression in the UK: Government Respo",
+   "dateTabled": "2026-04-24T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1896632,
+   "uin": "124540",
+   "heading": "Developing Countries: Medical Treatments",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what support is available for UK-based not-for-profit organisations developing innovative health technologies for use in the developing world.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1896633,
+   "uin": "124541",
+   "heading": "Roads: Repairs and Maintenance",
+   "questionText": "To ask the Secretary of State for Transport, what assessment her Department has made of the potential impact of heavier vehicles on the durability of materials used in the repair of road potholes.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1894886,
+   "uin": "123590",
+   "heading": "Pensioners: Income Tax",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the Answer of 4 March 2026 to Question 115363, if she will provide the underlying data used to calculate the impact of the Personal Allowance freeze on those of state pension age.",
+   "dateTabled": "2026-03-25T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1884532,
+   "uin": "115363",
+   "heading": "Pensioners: Income Tax",
+   "questionText": "To ask the Chancellor of the Exchequer, what estimate she has made of the cumulative number of pensioners who will be liable for income tax between 2026 and 2031 as a result of the the Personal Allowance threshold being frozen; and what assessment she has",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1884536,
+   "uin": "115365",
+   "heading": "Prisoner Escorts: Standards",
+   "questionText": "To ask the Secretary of State for Justice, if he will set out the oversight mechanisms in place to hold private custody and prisoner transport providers accountable for delays in delivering prisoners to court.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1884535,
+   "uin": "115364",
+   "heading": "Council Tax: Exemptions",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what assessment he has made of the adequacy of council tax exemption and discount rules for families required to live away from their homes for extended periods due to a child un",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1882501,
+   "uin": "113515",
+   "heading": "Energy Drinks: Regulation",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what consultation has his Department undertaken with vending and automated retailing businesses and other relevant stakeholders before proposing restrictions on the sale of high-energy caffeine dri",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1880376,
+   "uin": "112119",
+   "heading": "Hospices: Finance",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps his Department is taking to implement a sustainable funding model for independent adult hospices.",
+   "dateTabled": "2026-02-10T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1877459,
+   "uin": "109989",
+   "heading": "Gaza: Ceasefires",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what assessment she has made of the potential implications for her policies of reports of Palestinian civilian deaths since the announcement of a ceasefire in Gaza.",
+   "dateTabled": "2026-02-02T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1864851,
+   "uin": "100304",
+   "heading": "Plastic Packaging Tax",
+   "questionText": "To ask the Chancellor of the Exchequer, if she will review the scope of the Plastics Packaging Tax to exempt EN 13432–certified compostable materials; and what assessment has been made of the potential impact of including compostable materials within the ",
+   "dateTabled": "2025-12-16T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1962760,
+   "uin": "45818",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what discussions she has had with colleagues in the Cabinet Office and Ministry of Defence on the national resilience implications of switching off digital terrestrial television followi",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1962759,
+   "uin": "45817",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what assessment she has made of the implications for her policies of the House of Lords National Resilience Committee's recommendation that the Government abandon plans to switch off dig",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1962125,
+   "uin": "44918",
+   "heading": "Medical Records: Children",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what safeguards exist to prevent clinical staff from downgrading parental concerns on electronic Patient Wellness Assessments.",
+   "dateTabled": "2026-11-19T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1961601,
+   "uin": "44528",
+   "heading": "Asylum: RAF Linton-on-Ouse",
+   "questionText": "To ask the Secretary of State for the Home Department, whether she has received a feasibility study for proposals to accommodate asylum seekers at the former RAF Linton-on-Ouse site.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1961600,
+   "uin": "44527",
+   "heading": "Asylum: RAF Linton-on-Ouse",
+   "questionText": "To ask the Secretary of State for the Home Department, whether a feasibility study for proposals to accommodate asylum seekers at the former RAF Linton-on-Ouse site has been completed.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Home Office"
+  }
+ ],
+ "historyComplete": true
+}

@@ -1,0 +1,741 @@
+{
+ "id": 5449,
+ "fetchedOn": "2026-11-24",
+ "core": {
+  "id": 5449,
+  "nameListAs": "Bird, Lara",
+  "nameDisplayAs": "Lara Bird",
+  "nameFullTitle": "Lara Bird MP",
+  "nameAddressAs": null,
+  "latestParty": {
+   "id": 29,
+   "name": "Scottish National Party",
+   "abbreviation": "SNP",
+   "backgroundColour": "fff685",
+   "foregroundColour": "000000",
+   "isLordsMainParty": false,
+   "isLordsSpiritualParty": false,
+   "governmentType": null,
+   "isIndependentParty": false
+  },
+  "gender": "F",
+  "latestHouseMembership": {
+   "membershipFrom": "Arbroath and Broughty Ferry",
+   "membershipFromId": 4455,
+   "house": 1,
+   "membershipStartDate": "2026-06-18T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2026-06-18T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/5449/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2024-05-31T00:00:00",
+    "constituencyEnd": null,
+    "house": 1,
+    "name": "Arbroath and Broughty Ferry",
+    "id": 4455,
+    "startDate": "2026-06-18T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [],
+  "houseMemberships": [
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "2026-06-18T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Lara Bird",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [],
+  "oppositionPosts": [],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Scottish National Party",
+    "id": 29,
+    "startDate": "2026-06-18T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": []
+ },
+ "interests": [
+  {
+   "id": 12,
+   "name": "1. Employment and earnings",
+   "sortOrder": 0,
+   "interests": [
+    {
+     "id": 16306,
+     "interest": "Role, work or services: Senior Parliamentary Researcher\r\nUntil: 19 June 2026.\r\nPayer: IPSA, 30 Millbank, London, SW1P 4DU\r\nAdditional information: Any final payment will be listed below.\r\n(Registered 13 July 2026)",
+     "createdWhen": "2026-07-14T09:29:51.8266667",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": [
+      {
+       "id": 16312,
+       "interest": "Remuneration: £4,556.33 a month \r\nUntil: 19 June 2026.\r\nHours: 40 hrs a month \r\n(Registered 13 July 2026)",
+       "createdWhen": "2026-07-14T09:29:51.8266667",
+       "lastAmendedWhen": null,
+       "deletedWhen": null,
+       "isCorrection": false,
+       "childInterests": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "name": "4. Visits outside the UK",
+   "sortOrder": 1,
+   "interests": [
+    {
+     "id": 17593,
+     "interest": "Name of donor: (1) Global Justice Now  (2) Progressive International\r\nAddress of donor: (1) 66 Offley Road, London SW9 0LS  (2) 71-75 Shelton Street, Greater London WC2H 9JQ\r\nEstimate of the probable value (or amount of any donation): (1) Flights (£1,987.86) and participation fee (£596), value £2,583.86  (2) Expenses whilst in Jordan (£800), value £800\r\nDestination of visit: Jordan\r\nDates of visit: 24 October 2026 to 30 October 2026\r\nPurpose of visit: To attend a conference with Global Justice Now and Progressive International. To visit UNWRA refugee camps in Amman.\r\n(Registered 18 November 2026)",
+     "createdWhen": "2026-11-24T09:40:52.78",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [],
+ "synopsis": "Lara Bird is the Scottish National Party MP for <a href='/constituency/4455/overview'>Arbroath and Broughty Ferry</a>, and has been an MP continually since 18 June 2026.",
+ "history": [
+  {
+   "id": 1960792,
+   "uin": "43851",
+   "heading": "Visas: Migrant Workers",
+   "questionText": "To ask the Secretary of State for the Home Department, what measures the Home Office is taking to address delays surrounding the allocation of a Certificate of Sponsorship and protect workers whose immigration status or ability to renew their visas may be",
+   "dateTabled": "2026-11-17T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1960790,
+   "uin": "43849",
+   "heading": "Migrant Workers: Care Workers and Health Professions",
+   "questionText": "To ask the Secretary of State for the Home Department, whether changing (a) occupation codes and (b) employers within the health and social care sector before an Indefinite Leave to Remain decision is taken affects a worker's (i) eligibility and (ii) cont",
+   "dateTabled": "2026-11-17T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1960788,
+   "uin": "43847",
+   "heading": "Immigration: Personal Income",
+   "questionText": "To ask the Secretary of State for the Home Department, what steps she is taking to address the difference between National Living Wage and the Home Office salary threshold set for Indefinite Leave to Remain applicants.",
+   "dateTabled": "2026-11-17T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1960791,
+   "uin": "43850",
+   "heading": "Visas: Migrant Workers",
+   "questionText": "To ask the Secretary of State for the Home Department, what safeguards will protect workers approaching five years of qualifying residence when their employer's sponsor licence is revoked through no fault of their own, under the proposed five-year transit",
+   "dateTabled": "2026-11-17T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1960794,
+   "uin": "43853",
+   "heading": "Food: Imports",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, how the Department ensures that farmers and crofters in Scotland are not facing competition from imported food that does not meet equivalent animal welfare, environmental and productio",
+   "dateTabled": "2026-11-17T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1960793,
+   "uin": "43852",
+   "heading": "Food: Imports",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment has been made of the dependence on imported food on the UK’s resilience to instances of global supply disruptions.",
+   "dateTabled": "2026-11-17T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1959783,
+   "uin": "43048",
+   "heading": "Poultry",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, how she plans to ensure that the Poultry Growth Plan will not deter progress towards legally binding environmental targets and national food security.",
+   "dateTabled": "2026-11-13T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1957477,
+   "uin": "41095",
+   "heading": "Balkans: Security",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what steps his Department is taking regarding security cooperation in the Western Balkans through a) NATO, b) the OSCE, and c) bilateral relationships with Western Balkans co",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1957476,
+   "uin": "41094",
+   "heading": "Balkans: Foreign Relations",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what steps his Department is taking to work with the European Union, the United States and regional partners to strengthen regional cooperation and European integration in th",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1959787,
+   "uin": "43052",
+   "heading": "Migrant Workers: Pay",
+   "questionText": "To ask the Secretary of State for the Home Department, if she will confirm that workers who lawfully met the applicable Indefinite Leave to Remain salary thresholds in earlier years but now fall short will not be retrospectively disadvantaged because thos",
+   "dateTabled": "2026-11-13T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1959786,
+   "uin": "43051",
+   "heading": "Migrant Workers: Pay",
+   "questionText": "To ask the Secretary of State for the Home Department, how the proposed £25,000 annual salary requirement will be assessed, particularly for existing workers who were previously sponsored under lower salary thresholds.",
+   "dateTabled": "2026-11-13T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1959785,
+   "uin": "43050",
+   "heading": "Migrant Workers: Care Workers",
+   "questionText": "To ask the Secretary of State for the Home Department, whether a care worker could be refused Indefinite Leave to Remain on the basis that their employer has paid them £12.71 per hour rather than £12.82 per hour, and what safeguards exist where the shortf",
+   "dateTabled": "2026-11-13T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1957485,
+   "uin": "41103",
+   "heading": "Small Businesses and Sole Traders: Taxation",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment he has made of the potential impact of the implementation of HMRC's Making Tax Digital scheme on small businesses' and sole traders' costs.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1949467,
+   "uin": "35112",
+   "heading": "Property Development: Deposits",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what protections are in place for purchasers who pay deposits towards off-plan residential developments and what safeguards exist to ensure those deposits are retained for the de",
+   "dateTabled": "2026-10-15T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1957479,
+   "uin": "41097",
+   "heading": "Trade Promotion: Balkans",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what steps his Department is taking with the Scottish and Welsh Governments and Northern Ireland Executive to promote trade between the UK and the Western Balkans.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1957475,
+   "uin": "41093",
+   "heading": "Balkans: EU Enlargement",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what assessment he has made of the UK's engagement with the Western Balkan countries through the Berlin Process.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1957478,
+   "uin": "41096",
+   "heading": "Balkans: Development Aid",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what steps his Department is taking to support international development projects in the Western Balkans to (a) facilitate peace and reconciliation, (b) strengthen democratic",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1952100,
+   "uin": "37236",
+   "heading": "International Criminal Court",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, whether he plans to take steps to impose a blocking statute to shield UK based individuals and organisations from the effects of sanctions on the International Criminal Court",
+   "dateTabled": "2026-10-22T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1952098,
+   "uin": "37234",
+   "heading": "International Organisations: International Law",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what assessment his Department has made of the potential impact of foreign sanctions and retaliation on mechanisms, organisations, and individuals that work to uphold interna",
+   "dateTabled": "2026-10-22T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1952097,
+   "uin": "37233",
+   "heading": "International Criminal Court",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what steps his Department is taking to ensure the International Criminal Court can continue to function effectively following the sanctions imposed on it by the United States",
+   "dateTabled": "2026-10-22T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1952092,
+   "uin": "37228",
+   "heading": "Credit: Regulation",
+   "questionText": "To ask the Chancellor of the Exchequer, whether he plans to take steps to adopt section 48 of the EU Consumer Credit Directive in the UK.",
+   "dateTabled": "2026-10-22T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1952094,
+   "uin": "37230",
+   "heading": "Access to Banking Review",
+   "questionText": "To ask the Chancellor of the Exchequer, whether the definition of urban used in the Access to Banking Services Review includes feed-in rural areas.",
+   "dateTabled": "2026-10-22T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1952093,
+   "uin": "37229",
+   "heading": "Access to Banking Review",
+   "questionText": "To ask the Chancellor of the Exchequer, on what date his Department plans to publish the Access to Banking Services Review.",
+   "dateTabled": "2026-10-22T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1949466,
+   "uin": "35111",
+   "heading": "Children: Maintenance",
+   "questionText": "To ask the Secretary of State for Work and Pensions, for what reason contributions are calculated using a paying parent’s gross income as opposed to a net income, and whether there are plans to change this.",
+   "dateTabled": "2026-10-15T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1949475,
+   "uin": "35120",
+   "heading": "Insolvency: Fees and Charges",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what rights individual creditors have to (a) scrutinise and (b) challenge administrator fees and expenditure where those costs may materially reduce the amount available for distri",
+   "dateTabled": "2026-10-15T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1949477,
+   "uin": "35122",
+   "heading": "Insolvency: Regulation",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, whether he plans to review the adequacy of the regulatory and insolvency framework in providing protection for consumers purchasing off-plan property from developers operating thro",
+   "dateTabled": "2026-10-15T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1949473,
+   "uin": "35118",
+   "heading": "Insolvency: Company Investigations",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, whether he is considering the potential merits of changes to insolvency or consumer-protection legislation to provide greater protection to purchasers of off-plan residential prope",
+   "dateTabled": "2026-10-15T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1949476,
+   "uin": "35121",
+   "heading": "Insolvency: Fees and Charges",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, whether he plans to introduce improved rights for purchasers in large property administrations to establish (a) representative creditor committees and (b) equivalent mechanisms to ",
+   "dateTabled": "2026-10-15T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1949472,
+   "uin": "35117",
+   "heading": "Insolvency",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what assessment he has made of the adequacy of the insolvency framework in providing protection to purchasers who have paid deposits for properties that have not yet been completed",
+   "dateTabled": "2026-10-15T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1949470,
+   "uin": "35115",
+   "heading": "Insolvency: Company Investigations",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, when amounts are owed between companies within the same property development group, what mechanisms exist to ensure that potentially recoverable funds or assets are adequately inve",
+   "dateTabled": "2026-10-15T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1949474,
+   "uin": "35119",
+   "heading": "Insolvency: Fees and Charges",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what oversight mechanisms are in place governing the fees and expenses charged by insolvency practitioners in large property administrations involving hundreds of individual purcha",
+   "dateTabled": "2026-10-15T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1949471,
+   "uin": "35116",
+   "heading": "Insolvency: Company Investigations",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what assessment he has made of the adequacy of requirements for disclosure of related-party transactions and intercompany balances to allow purchasers and other unsecured creditors",
+   "dateTabled": "2026-10-15T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1949468,
+   "uin": "35113",
+   "heading": "Corporate Governance: Payments",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, where purchaser funds are transferred between connected companies or used in connection with other developments within the same corporate group, what legal or regulatory requiremen",
+   "dateTabled": "2026-10-15T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1950186,
+   "uin": "901551",
+   "heading": "Defence Nuclear Enterprise: Expenditure",
+   "questionText": "To ask the Secretary of State for Defence, what recent estimate he has made of the cost of the Nuclear Enterprise.",
+   "dateTabled": "2026-10-13T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1949469,
+   "uin": "35114",
+   "heading": "Insolvency: Company Investigations",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what powers and obligations do administrators have to investigate transactions between connected companies within a property development group where one or more companies subsequen",
+   "dateTabled": "2026-10-15T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1946214,
+   "uin": "32359",
+   "heading": "USA: Houthis",
+   "questionText": "To ask the Secretary of State for Defence, whether his Department has reviewed whether any civilian harm incidents identified by the US in their recent ‘1057’ review involved intelligence, targeting information, surveillance, refuelling, basing or other s",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1946213,
+   "uin": "32358",
+   "heading": "USA: Houthis",
+   "questionText": "To ask the Secretary of State for Defence, whether an assessment of civilian harm risks forms part of the decision-making process when determining whether to accept a request from the United States for UK military assistance in operations against the Hout",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1945807,
+   "uin": "31961",
+   "heading": "USA: Houthis",
+   "questionText": "To ask the Secretary of State for Defence, what assessment he has made of the implications for his policies of the recent US Department of Defense findings concerning civilian casualties arising from US military operations against the Houthis in Yemen in ",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1946611,
+   "uin": "32769",
+   "heading": "USA: Houthis",
+   "questionText": "To ask the Secretary of State for Defence, whether UK officials have discussed with their US counterparts the findings that US operations against the Houthis in Yemen in 2025 caused civilian deaths and injuries.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1946606,
+   "uin": "32780",
+   "heading": "Whisky: Origin Marking",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, if she will make an assessment of the potential merits of reversing the decision to allow the English Single malt geographical indication.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1942629,
+   "uin": "29779",
+   "heading": "Security Action for Europe",
+   "questionText": "To ask the Secretary of State for Defence, whether he has made an assessment of the potential merits of the UK rejoining the EU SAFE access scheme.",
+   "dateTabled": "2026-09-14T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1939523,
+   "uin": "28275",
+   "heading": "Israeli Settlements: British Nationals Abroad",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, whether the UK Government will take legal action against British citizens living in Occupied Palestine in illegal settlements who commit acts of terrorism and settler violenc",
+   "dateTabled": "2026-09-08T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1939520,
+   "uin": "28272",
+   "heading": "Israeli Settlements: Sanctions",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, with reference to his statement to the House on 8 September on Israel-Palestine, whether a monitoring body will be established to assess compliance with the sanctions.",
+   "dateTabled": "2026-09-08T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1939521,
+   "uin": "28273",
+   "heading": "Israel: Export Controls",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, with reference to his statement on 8 September 2026 on Israel-Palestine, which licences will be refused where they materially contribute to the occupation.",
+   "dateTabled": "2026-09-08T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1940038,
+   "uin": "28673",
+   "heading": "Sovereignty: Scotland",
+   "questionText": "To ask the Secretary of State for Scotland, if he will make an assessment of the potential merits of amending the Scotland Act to provide that a referendum be arranged in the situation where there is a consensus in Scotland for independence.",
+   "dateTabled": "2026-09-09T00:00:00",
+   "answeringBodyName": "Scotland Office"
+  },
+  {
+   "id": 1938077,
+   "uin": "27221",
+   "heading": "Pakistan: Deportation",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what his Department's policy is on returning to Pakistan any person convicted in absentia by (a) an anti-terrorism court and (b) court martial.",
+   "dateTabled": "2026-09-03T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1938076,
+   "uin": "27220",
+   "heading": "Israel: Export Controls",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what his planned timetable is for the prohibition of illegal settlement trade with Israel.",
+   "dateTabled": "2026-09-03T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1938078,
+   "uin": "27222",
+   "heading": "Sovereignty: Scotland",
+   "questionText": "To ask the Secretary of State for Scotland, if he will set out the required steps for an independence referendum in Scotland.",
+   "dateTabled": "2026-09-03T00:00:00",
+   "answeringBodyName": "Scotland Office"
+  },
+  {
+   "id": 1937630,
+   "uin": "26876",
+   "heading": "Sovereignty: Scotland",
+   "questionText": "To ask the Secretary of State for Scotland, if he will set out the the conditions under which the Government would grant permission for Scotland to hold another Independence Referendum.",
+   "dateTabled": "2026-09-02T00:00:00",
+   "answeringBodyName": "Scotland Office"
+  },
+  {
+   "id": 1938079,
+   "uin": "27223",
+   "heading": "Gaza: Israel",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, when he plans to release the Government's review and response to the ICJ's Provisional Measures of January, March and May 2024 regarding Gaza.",
+   "dateTabled": "2026-09-03T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1937692,
+   "uin": "26879",
+   "heading": "Pakistan: Human Rights",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, whether an assessment under the Overseas Security and Justice Assistance Human Rights Guidance was completed in respect of (a) the £8 million migration cooperation package an",
+   "dateTabled": "2026-09-02T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1937635,
+   "uin": "26877",
+   "heading": "Beef: Brazil",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, if she will ban with immediate effect the import of Brazilian beef.",
+   "dateTabled": "2026-09-02T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1936430,
+   "uin": "25945",
+   "heading": "Discretionary Housing Payments: Scotland",
+   "questionText": "To ask the Secretary of State for Work and Pensions, if he will make an assessment of the potential impact of the bedroom tax and benefit cap through Discretionary Housing Payments (DHPs) in Scotland on the public purse.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1937644,
+   "uin": "26878",
+   "heading": "Eggs: Ukraine",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether she has made a recent assessment of the impact of Ukrainian egg imports on the egg industry in the UK.",
+   "dateTabled": "2026-09-02T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1936429,
+   "uin": "25944",
+   "heading": "Poverty: Children",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what comparative assessment his Department has made of child poverty trends in England and Wales compared to Scotland since the introduction of the Scottish Child Payment.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1927390,
+   "uin": "18508",
+   "heading": "Immigration",
+   "questionText": "To ask the Secretary of State for the Home Department, what assessment she has made of the potential financial impact of paying the Immigration Health Surcharge, National Insurance and Income Tax on individuals and families awaiting a decision on Indefini",
+   "dateTabled": "2026-07-13T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1962896,
+   "uin": "45693",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Scotland, whether he has had discussions with the Secretary of State for Work and Pensions and the Scottish Government on the number of older households at risk of homelessness and levels of housing benefit and private se",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Scotland Office"
+  },
+  {
+   "id": 1962895,
+   "uin": "45692",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Scotland, what representations he has made to the independent Milburn Review regarding devolution in Scotland; and what assessment his Department has made of the implications for its policies of the report's modelling whe",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Scotland Office"
+  },
+  {
+   "id": 1962892,
+   "uin": "45689",
+   "heading": null,
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment HM Treasury has made of the potential fiscal impact on the Scottish Government’s Block Grant Adjustment resulting from the £3.6 billion in welfare savings proposed in the Milburn Review; and whether ",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1962890,
+   "uin": "45687",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Work and Pensions, what assessment he has made of the potential impact of frozen Local Housing Allowance rates on fuel poverty and winter mortality risks among older private renters in Scotland.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1962889,
+   "uin": "45686",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Work and Pensions, what assessment his Department has made of the potential implications for its policies of the findings of Independent Age’s report, The Rent Can’t Wait, published in October 2026; and what steps he is t",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1962888,
+   "uin": "45685",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many pension-age private renters in Scotland are currently in receipt of Housing Benefit; and what proportion of those claimants face a shortfall between their Housing Benefit award and their contra",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1962887,
+   "uin": "45684",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Work and Pensions, what response he has made to the joint representations of 20 October 2026 from the Scottish Social Justice Secretary and Welsh Deputy First Minister calling for the abolition of the benefit cap and spar",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1962935,
+   "uin": "45682",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many households in Scotland are affected by the freeze on Local Housing Allowance (LHA) rates at April 2024 levels; and what estimate his Department has made of the cost of restoring LHA rates to co",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1962934,
+   "uin": "45681",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Work and Pensions, what assessment he has made of the potential impact of the Youth Opportunity Service and Support Guarantee proposed in the Milburn Review on devolved employability programmes in Scotland.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1962932,
+   "uin": "45679",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Work and Pensions, what estimate his Department has made of the number of young disabled people in Scotland who will be affected by proposals in the Milburn Review to replace the health element of Universal Credit for 16 ",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1962927,
+   "uin": "45674",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many full-time equivalent work coaches are employed in Job Centres and what the average caseload figure is for a work coach.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1962926,
+   "uin": "45673",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many hours overtime were worked by staff in the department in each of the last 12 months and if that can be broken down for each directorate.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1962925,
+   "uin": "45672",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Work and Pensions, how much the department has spent on staff overtime in each of the last 12 months and if that figure can be broken down for each directorate.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1962924,
+   "uin": "45671",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Work and Pensions, what the average wait time is for appeals to be processed in (a) Universal Credit, (b) Personal Independent Payments, (c) Disability Living Allowance Child and (d) retirement services.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1962923,
+   "uin": "45670",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many appeals are outstanding for (a) Universal Credit, (b) Personal Independent Payments, (c) Disability Living Allowance Child and (d) retirement services.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1962922,
+   "uin": "45669",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Work and Pensions, what the current wait time is for resolving mandatory reconsiderations for (a) Universal Credit, (b) Personal Independent Payments, (c) Disability Living Allowance Child and (d) retirement services.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1962921,
+   "uin": "45668",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Work and Pensions, what the current number of outstanding mandatory reconsiderations there are for a) Universal Credit, b) Personal Independent Payments, c) Disability Living Allowance Child and d) Retirement services.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1962920,
+   "uin": "45667",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Work and Pensions, what the current average wait time is for a) new Personal Independent Payment claims, b) unplanned PIP reviews, c) PIP reassessments and d) Planned PIP reviews.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1962919,
+   "uin": "45666",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Work and Pensions, what the current number of outstanding cases are for a) new Personal Independent Payment claims, b) unplanned PIP reviews, c) PIP reassessments and d) Planned PIP reviews.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1960789,
+   "uin": "43848",
+   "heading": "Immigration: Overseas Students",
+   "questionText": "To ask the Secretary of State for Education, whether a dependant receives approval on their Indefinite Leave to Remain application midway through their studies, will their fee status be changed from overseas to home.",
+   "dateTabled": "2026-11-17T00:00:00",
+   "answeringBodyName": "Department for Education"
+  }
+ ],
+ "historyComplete": true
+}

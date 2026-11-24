@@ -1,0 +1,780 @@
+{
+ "id": 5012,
+ "fetchedOn": "2026-11-24",
+ "core": {
+  "id": 5012,
+  "nameListAs": "Cameron of Lochiel, L.",
+  "nameDisplayAs": "Lord Cameron of Lochiel",
+  "nameFullTitle": "The Lord Cameron of Lochiel",
+  "nameAddressAs": null,
+  "latestParty": {
+   "id": 4,
+   "name": "Conservative",
+   "abbreviation": "Con",
+   "backgroundColour": "0063ba",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": false,
+   "governmentType": 3,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "Life peer",
+   "membershipFromId": 4,
+   "house": 2,
+   "membershipStartDate": "2024-03-04T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2024-03-04T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/5012/Thumbnail"
+ },
+ "bio": {
+  "representations": [],
+  "electionsContested": [],
+  "houseMemberships": [
+   {
+    "house": 2,
+    "name": "Lords",
+    "id": 2,
+    "startDate": "2024-03-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Lord Cameron of Lochiel",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [
+   {
+    "house": null,
+    "name": "Parliamentary Under-Secretary (Scotland Office)",
+    "id": 537,
+    "startDate": "2024-02-09T00:00:00",
+    "endDate": "2024-07-05T00:00:00",
+    "additionalInfo": "Scotland Office",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/scotland-office"
+   }
+  ],
+  "oppositionPosts": [
+   {
+    "house": 2,
+    "name": "Shadow Minister (Home Office)",
+    "id": 884,
+    "startDate": "2026-06-05T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Home Office",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/home-office"
+   },
+   {
+    "house": 2,
+    "name": "Shadow Minister (Scotland)",
+    "id": 970,
+    "startDate": "2024-09-01T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Scotland Office",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/scotland-office"
+   }
+  ],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 2,
+    "name": "Conservative",
+    "id": 4,
+    "startDate": "2024-03-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": []
+ },
+ "interests": [
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 48031,
+     "interest": "Non-executive Director, CT UK High Income Trust plc (investment company)",
+     "createdWhen": "2026-08-05T13:25:57",
+     "lastAmendedWhen": "2026-08-05T13:26:44.543",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1006,
+   "name": "Category 3: Land and property",
+   "sortOrder": 1046,
+   "interests": [
+    {
+     "id": 43810,
+     "interest": "Estate in Highland Council local authority area supporting a commercial, forestry and agricultural business",
+     "createdWhen": "2024-03-14T18:38:48",
+     "lastAmendedWhen": "2025-04-05T00:00:00",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [],
+ "synopsis": "Lord Cameron of Lochiel's full title is The Lord Cameron of Lochiel. His name is Donald Andrew John Cameron, and he is a current member of the House of Lords.",
+ "history": [
+  {
+   "id": 1958344,
+   "uin": "HL5138",
+   "heading": "Energy Supply: Planning",
+   "questionText": "To ask His Majesty's Government whether they will publish the criteria that will inform their selection of a preferred Strategic Spatial Energy Plan pathway in advance of that decision to allow stakeholders to submit evidence accordingly.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1958350,
+   "uin": "HL5136",
+   "heading": "Energy Supply: Planning",
+   "questionText": "To ask His Majesty's Government how, alongside the National Energy System Operator's assessment of costs, network and environmental impacts, they are assessing the implications of the Strategic Spatial Energy Plan pathway options for (1) regional economic",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1958353,
+   "uin": "HL5135",
+   "heading": "Energy Supply: Planning",
+   "questionText": "To ask His Majesty's Government what criteria they are using to assess and select a preferred pathway for the Strategic Spatial Energy Plan; and how they will determine the relative importance of those criteria.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1955744,
+   "uin": "HL4776",
+   "heading": "Counterfeit Manufacturing: Smuggling",
+   "questionText": "To ask His Majesty's Government what steps they are taking to work with international partners to combat the transport of counterfeit goods to the United Kingdom via (1) airports, (2) ferry terminals, and (3) the Channel Tunnel.",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1955747,
+   "uin": "HL4774",
+   "heading": "Undocumented Migrants: Deportation",
+   "questionText": "To ask His Majesty's Government whether they intend to publish a breakdown, by country of origin, of the average time taken to return people with no lawful basis to remain in the United Kingdom, as of October.",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1955745,
+   "uin": "HL4775",
+   "heading": "Undocumented Migrants: Deportation",
+   "questionText": "To ask His Majesty's Government what plans they have to impose additional measures in relation to the government of Eritrea in the light of their failure to accept the return of Eritrean nationals with no lawful basis to remain in the United Kingdom.",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1955740,
+   "uin": "HL4779",
+   "heading": "City Region Deals: Scotland",
+   "questionText": "To ask His Majesty's Government how much of their funding contribution to Scotland’s City Region and Growth Deals has been (1) spent, and (2) allocated to projects; and how much of that funding remains unallocated.",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Scotland Office"
+  },
+  {
+   "id": 1955741,
+   "uin": "HL4778",
+   "heading": "Satellite Communications: Scotland",
+   "questionText": "To ask His Majesty's Government, in light of their decision to support a hybrid connectivity project in Papa Stour, Shetland, announced on 27 November 2024, what plans they have, if any, to support further hybrid connectivity infrastructure projects in ot",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1955742,
+   "uin": "HL4777",
+   "heading": "Satellite Communications: Shetland",
+   "questionText": "To ask His Majesty's Government how much of the £1 million allocated to the hybrid connectivity project in Papa Stour, Shetland, announced on 27 November 2024 has been spent; and what the outcome of that project has been.",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1950258,
+   "uin": "HL4206",
+   "heading": "Armed Forces: Cash Dispensing",
+   "questionText": "To ask His Majesty's Government what steps they are taking to ensure NATO military personnel who will be stationed in the Isle of Benbecula as part Exercise Formidable Shield in 2027 will be able to access cash facilities, in light of recent reports of di",
+   "dateTabled": "2026-10-19T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1950254,
+   "uin": "HL4210",
+   "heading": "Whisky: Scotland",
+   "questionText": "To ask His Majesty's Government what discussions the Secretary of State for Scotland has had, if any, with (1) the Scotch Whisky Association, and (2) Scotch Whisky producers, regarding the Department for Environment, Food and Rural Affairs' decision to gr",
+   "dateTabled": "2026-10-19T00:00:00",
+   "answeringBodyName": "Scotland Office"
+  },
+  {
+   "id": 1950256,
+   "uin": "HL4208",
+   "heading": "Great British Grid",
+   "questionText": "To ask His Majesty's Government where they intend Great British Grid to be headquartered.",
+   "dateTabled": "2026-10-19T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1950257,
+   "uin": "HL4207",
+   "heading": "Great British Grid: Job Creation",
+   "questionText": "To ask His Majesty's Government how many new jobs they expect the proposed establishment of Great British Grid will create.",
+   "dateTabled": "2026-10-19T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1950255,
+   "uin": "HL4209",
+   "heading": "Great British Grid: Finance",
+   "questionText": "To ask His Majesty's Government how much funding they estimate will be required to (1) establish, and (2) maintain, Great British Grid.",
+   "dateTabled": "2026-10-19T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1947481,
+   "uin": "HL3930",
+   "heading": "Fuel Oil and Liquefied Petroleum Gas: VAT",
+   "questionText": "To ask His Majesty's Government what plans they have, if any, to allow individuals with properties not connected to the electricity grid and who purchase (1) liquefied petroleum gas, or (2) heating oil, during the winter months to claim back VAT, in light",
+   "dateTabled": "2026-10-12T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1947482,
+   "uin": "HL3929",
+   "heading": "Fuel Oil and Liquefied Petroleum Gas: VAT",
+   "questionText": "To ask His Majesty's Government what plans they have, if any, to temporarily remove VAT on (1) liquefied petroleum gas, and (2) heating oil, for properties not connected to the electricity grid and therefore unable to benefit from the temporary zero rate ",
+   "dateTabled": "2026-10-12T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1947561,
+   "uin": "HL3931",
+   "heading": "Immigration Controls: EU Countries",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the reliability of the EU Entry/Exit System and its impact on UK citizens.",
+   "dateTabled": "2026-10-12T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1944025,
+   "uin": "HL3764",
+   "heading": "Immigration Controls: EU Countries",
+   "questionText": "To ask His Majesty's Government how many EU Entry/Exit System faults have been recorded in each month since its launch in October 2025.",
+   "dateTabled": "2026-10-05T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1944027,
+   "uin": "HL3762",
+   "heading": "Immigration Removal Centres",
+   "questionText": "To ask His Majesty's Government how many immigration removal centre beds were available in each year since 2024, and how many beds are currently available.",
+   "dateTabled": "2026-10-05T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1944028,
+   "uin": "HL3761",
+   "heading": "Deportation",
+   "questionText": "To ask His Majesty's Government how many immigration enforcement and return flights were operated in each month since July 2024.",
+   "dateTabled": "2026-10-05T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1944029,
+   "uin": "HL3760",
+   "heading": "National Crime Agency: Labour Turnover",
+   "questionText": "To ask His Majesty's Government how many specialist intelligence and investigations officers have (1) been recruited to, and (2) left, the National Crime Agency since July 2024.",
+   "dateTabled": "2026-10-05T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1944024,
+   "uin": "HL3765",
+   "heading": "Immigration Controls: EU Countries",
+   "questionText": "To ask His Majesty's Government what has been the total cost to UK taxpayers of implementing the EU Entry/Exit System.",
+   "dateTabled": "2026-10-05T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1944026,
+   "uin": "HL3763",
+   "heading": "Immigration Controls: EU Countries",
+   "questionText": "To ask His Majesty's Government whether the £10.5 million announced on 27 August 2024 to prepare the EU Entry/Exit System infrastructure at the Port of Dover, Eurostar and Eurotunnel has been fully spent; and, if not, how any unspent funding has been real",
+   "dateTabled": "2026-10-05T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1939010,
+   "uin": "HL3149",
+   "heading": "Asylum",
+   "questionText": "To ask His Majesty's Government how much the Home Office spent on consultancy fees in relation to their Resources for asylum seekers in the UK leaflets and posters.",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1939012,
+   "uin": "HL3147",
+   "heading": "Bloomsbury Institute: Overseas Students",
+   "questionText": "To ask His Majesty's Government, in the light of the Home Office's decision to revoke the Bloomsbury Institute's licence to sponsor international students, how many other (1) higher, and (2) further, education institutions are under investigation for fail",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1939013,
+   "uin": "HL3146",
+   "heading": "Drugs: Smuggling",
+   "questionText": "To ask His Majesty's Government what was the total weight of Class A, B and C drugs that were seized from British airports in each year since 2024, broken down by drug type and airport.",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1939578,
+   "uin": "HL3225",
+   "heading": "Cameron Barracks",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by Lord Hanson of Flint on 27 July (HL2056), whether the Ministry of Defence plans to publish a timetable for the reopening of Cameron Barracks for use by all previous user groups; and whether",
+   "dateTabled": "2026-09-08T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1939014,
+   "uin": "HL3145",
+   "heading": "Cameron Barracks",
+   "questionText": "To ask His Majesty's Government whether they plan to fund the refurbishment of Cameron Barracks in Inverness, in the light of their decision not to use Cameron Barracks as temporary accommodation for illegal migrants.",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1939011,
+   "uin": "HL3148",
+   "heading": "Human Rights: Scotland",
+   "questionText": "To ask His Majesty's Government whether they have held any meetings with the Scottish Government regarding its proposed Human Rights Bill.",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Scotland Office"
+  },
+  {
+   "id": 1929760,
+   "uin": "HL2649",
+   "heading": "Crisis and Resilience Fund: Fuel Oil",
+   "questionText": "To ask His Majesty's Government how many applications were received for funding from the Crisis and Resilience Fund to assist with rising heating oil costs since its launch on 1 April 2026, broken down by local authority area; and how many (1) have been a",
+   "dateTabled": "2026-07-23T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1929764,
+   "uin": "HL2645",
+   "heading": "Energy: Meters",
+   "questionText": "To ask His Majesty's Government what the total value of fines that levied on applied to energy companies for failing to install smart meters in properties within an appropriate timeframe is, broken down by (1) year, and (2) energy company, since 2023-24.",
+   "dateTabled": "2026-07-23T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1929763,
+   "uin": "HL2646",
+   "heading": "Energy: Meters",
+   "questionText": "To ask His Majesty's Government what meetings they have had with the Scottish Government to discuss the issue of properties in Scotland that still have a radio teleswitch service meter, following the radio teleswitch service switch off on 30 June.",
+   "dateTabled": "2026-07-23T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1929765,
+   "uin": "HL2644",
+   "heading": "Energy: Meters",
+   "questionText": "To ask His Majesty's Government what contingency plans are in place for households in remote and island communities that face delays to getting a radio teleswitch service meter replaced with a smart meter, following the radio teleswitch service switch off",
+   "dateTabled": "2026-07-23T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1929761,
+   "uin": "HL2648",
+   "heading": "Visas: Overseas Students",
+   "questionText": "To ask His Majesty's Government how many student visa applications were (1) accepted, and (2) rejected, in each year since 2023–24.",
+   "dateTabled": "2026-07-23T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1929415,
+   "uin": "HL2302",
+   "heading": "Deportation",
+   "questionText": "To ask His Majesty's Government what test will be applied in determining whether the effect of a person’s deportation on their partner or child would be \"unduly harsh\" under section 117C of the Nationality, Immigration and Asylum Act 2002, as amended by c",
+   "dateTabled": "2026-07-20T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1929762,
+   "uin": "HL2647",
+   "heading": "Development Aid: Devolution",
+   "questionText": "To ask His Majesty's Government what discussions they have had with the Scottish Government about its use of its block grant on international development spending.",
+   "dateTabled": "2026-07-23T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1929418,
+   "uin": "HL2301",
+   "heading": "Immigration",
+   "questionText": "To ask His Majesty's Government what test will be applied in determining whether a person has been “socially and culturally integrated in the United Kingdom” for the purposes of clause 20 of the Immigration and Asylum Bill.",
+   "dateTabled": "2026-07-20T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1927971,
+   "uin": "HL2056",
+   "heading": "Cameron Barracks",
+   "questionText": "To ask His Majesty's Government when they plan to publish a timetable for the reopening of Cameron Barracks for use by all previous user groups; and whether they plan to ensure Highland Council and other affected user groups receive formal notification as",
+   "dateTabled": "2026-07-14T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1929414,
+   "uin": "HL2303",
+   "heading": "Immigration",
+   "questionText": "To ask His Majesty's Government what would be considered a “serious breach of a condition attached to their leave to enter or remain” in clause 19(4) of the Immigration and Asylum Bill.",
+   "dateTabled": "2026-07-20T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1926395,
+   "uin": "HL1881",
+   "heading": "Visas: Immigration Controls",
+   "questionText": "To ask His Majesty's Government how many Notice of Refusal letters they have issued since 2024, broken down by month.",
+   "dateTabled": "2026-07-09T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1926397,
+   "uin": "HL1880",
+   "heading": "Deportation",
+   "questionText": "To ask His Majesty's Government how many Notice of Liability to Remove letters they have issued since 2024, broken down by month.",
+   "dateTabled": "2026-07-09T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1926392,
+   "uin": "HL1882",
+   "heading": "Asylum: Temporary Accommodation",
+   "questionText": "To ask His Majesty's Government how many new-build sites they have considered for temporary housing for asylum seekers in each year since 2024.",
+   "dateTabled": "2026-07-09T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1926389,
+   "uin": "HL1885",
+   "heading": "Asylum: Temporary Accommodation",
+   "questionText": "To ask His Majesty's Government how many asylum seekers were temporarily housed in (1) hotels, and (2) houses, in each month since 2024.",
+   "dateTabled": "2026-07-09T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1926390,
+   "uin": "HL1884",
+   "heading": "Asylum: Immigration Controls",
+   "questionText": "To ask His Majesty's Government what plans they have to prevent abuse by applicants of the proposed new capped safe and legal routes for asylum seekers.",
+   "dateTabled": "2026-07-09T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1926391,
+   "uin": "HL1883",
+   "heading": "Asylum: Immigration Controls",
+   "questionText": "To ask His Majesty's Government how many refugees they intend to allow into the UK under the proposed new capped safe and legal routes.",
+   "dateTabled": "2026-07-09T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1885628,
+   "uin": "HL14929",
+   "heading": "People Smuggling: Boats",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by Lord Hanson of Flint on 9 February (HL13910), whether they will provide an annual breakdown of how many of the 950 small boats and engines related to Channel crossings were seized by the Na",
+   "dateTabled": "2026-02-26T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1885626,
+   "uin": "HL14931",
+   "heading": "Police: Termination of Employment",
+   "questionText": "To ask His Majesty's Government, further to their announcement on 14 January that they will introduce legislation to give the Home Secretary powers to force the retirement, resignation, or suspension of chief constables on performance grounds, what measur",
+   "dateTabled": "2026-02-26T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1885627,
+   "uin": "HL14930",
+   "heading": "Police: Termination of Employment",
+   "questionText": "To ask His Majesty's Government, further to their announcement on 14 January that they will introduce legislation to give the Home Secretary powers to force the retirement, resignation, or suspension of chief constables on performance grounds, whether any",
+   "dateTabled": "2026-02-26T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1885629,
+   "uin": "HL14928",
+   "heading": "Agriculture and Fisheries: Scotland",
+   "questionText": "To ask His Majesty's Government whether the Scottish Government has requested that agricultural and fisheries funding not be ringfenced and therefore subject to the Barnett Formula from 2024–25 onwards; and if so, whether they will publish any details rel",
+   "dateTabled": "2026-02-26T00:00:00",
+   "answeringBodyName": "Scotland Office"
+  },
+  {
+   "id": 1885625,
+   "uin": "HL14932",
+   "heading": "Windrush Compensation Scheme",
+   "questionText": "To ask His Majesty's Government how many claims made to the Windrush Compensation Advocacy Support Fund they have determined to be (1) ineligible, and (2) fraudulent.",
+   "dateTabled": "2026-02-26T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1874802,
+   "uin": "HL13912",
+   "heading": "Asylum: Cameron Barracks ",
+   "questionText": "To ask His Majesty's Government whether they will publish full details of their engagement with the Highland Council regarding the proposed use of Cameron Barracks as asylum accommodation.",
+   "dateTabled": "2026-01-26T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1874805,
+   "uin": "HL13911",
+   "heading": "Immigration: Police Raids",
+   "questionText": "To ask His Majesty's Government how many (1) residential property, and (2) business property, immigration raids they have conducted in each year since 2023.",
+   "dateTabled": "2026-01-26T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1874806,
+   "uin": "HL13910",
+   "heading": "People Smuggling: Boats",
+   "questionText": "To ask Her Majesty's Government how many watercrafts linked to people smugglers have been seized by officials in each year since 2023.",
+   "dateTabled": "2026-01-26T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1874809,
+   "uin": "HL13908",
+   "heading": "Local Growth Fund",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the impact on communities that previously benefited from funding from the UK Shared Prosperity Fund, but which will no longer receive funding following the decision to end that fund and rep",
+   "dateTabled": "2026-01-26T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1874808,
+   "uin": "HL13909",
+   "heading": "Local Growth Fund: Rural Areas",
+   "questionText": "To ask His Majesty's Government why they did not consider the rurality of locations as part of the place selection and allocation methodology for the Local Growth Fund.",
+   "dateTabled": "2026-01-26T00:00:00",
+   "answeringBodyName": "Scotland Office"
+  },
+  {
+   "id": 1874810,
+   "uin": "HL13907",
+   "heading": "Local Growth Fund: Scotland",
+   "questionText": "To ask His Majesty's Government why the Highland and Islands region was not allocated funding from the Local Growth Fund.",
+   "dateTabled": "2026-01-26T00:00:00",
+   "answeringBodyName": "Scotland Office"
+  },
+  {
+   "id": 1871181,
+   "uin": "HL13513",
+   "heading": "Knives: Amnesties",
+   "questionText": "To ask His Majesty's Government what steps they are taking to publicise the locations of their weapon surrender bins.",
+   "dateTabled": "2026-01-13T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1871182,
+   "uin": "HL13512",
+   "heading": "Knives: Amnesties",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the impact of their weapon surrender bins on reducing violent crime.",
+   "dateTabled": "2026-01-13T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1871183,
+   "uin": "HL13511",
+   "heading": "Knives: Amnesties",
+   "questionText": "To ask His Majesty's Government how many of their weapon surrender bins were vandalised in (1) 2023, (2) 2024, and (3) 2025, broken down by region.",
+   "dateTabled": "2026-01-13T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1871184,
+   "uin": "HL13510",
+   "heading": "Knives: Amnesties",
+   "questionText": "To ask His Majesty's Government how much they spent on maintaining weapon surrender bins in (1) 2023, (2) 2024, and (3) 2025.",
+   "dateTabled": "2026-01-13T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1871185,
+   "uin": "HL13509",
+   "heading": "Knives: Amnesties",
+   "questionText": "To ask His Majesty's Government how many weapons were placed in their surrender bins in (1) 2023, (2) 2024, and (3) 2025, broken down by (a) category of weapons, and (b) region.",
+   "dateTabled": "2026-01-13T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1871186,
+   "uin": "HL13508",
+   "heading": "Knives: Amnesties",
+   "questionText": "To ask His Majesty's Government how many weapon surrender bins they had in operation in (1) 2023, (2) 2024, and (3) 2025, broken down by region.",
+   "dateTabled": "2026-01-13T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1865074,
+   "uin": "HL13024",
+   "heading": "Police: Recruitment",
+   "questionText": "To ask His Majesty's Government how many additional (1) neighbourhood police officers, (2) PCSOs, and (3) special constables, have been recruited since the launch of the Neighbourhood Policing Guarantee on 4 December 2024, broken down by territorial polic",
+   "dateTabled": "2025-12-16T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1865069,
+   "uin": "HL13028",
+   "heading": "Neighbourhood Policing",
+   "questionText": "To ask His Majesty's Government how they define (1) a ‘neighbourhood’, and (2) a 'visible patrol', in relation to their Neighbourhood Policing Guarantee.",
+   "dateTabled": "2025-12-16T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1865071,
+   "uin": "HL13026",
+   "heading": "Neighbourhood Policing",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the Neighbourhood Policing Guarantee since it was launched on 4 December 2024.",
+   "dateTabled": "2025-12-16T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1865070,
+   "uin": "HL13027",
+   "heading": "Police: Recruitment",
+   "questionText": "To ask His Majesty's Government how many of the 13,000 additional (1) neighbourhood police officers, (2) PCSOs, and (3) special constables, they plan to deliver as part of the Neighbourhood Policing Guarantee will be (a) newly recruited, and (b) recruited",
+   "dateTabled": "2025-12-16T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1865072,
+   "uin": "HL13025",
+   "heading": "Public Expenditure: Scotland",
+   "questionText": "To ask His Majesty's Government what additional funding they provided to the Scottish Government through the Barnett Formula when they announced the Neighbourhood Policing Guarantee policy on 4 December 2024.",
+   "dateTabled": "2025-12-16T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1865078,
+   "uin": "HL13023",
+   "heading": "Wind Power: Seas and Oceans",
+   "questionText": "To ask His Majesty's Government what proportion of the total funding made available by The Crown Estate’s Supply Chain Accelerator programme was allocated to each of the successful organisations, as announced on 11 December.",
+   "dateTabled": "2025-12-16T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1858174,
+   "uin": "HL12396",
+   "heading": "Police: Stun Guns",
+   "questionText": "To ask His Majesty's Government how long they anticipate it will take for every police force in England and Wales to replace existing taser devices with the new Taser 10 models",
+   "dateTabled": "2025-11-27T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1858175,
+   "uin": "HL12395",
+   "heading": "Police and Crime Commissioners",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the total cost of redundancies that will be incurred as a result of the decision to abolish Police and Crime Commissioners.",
+   "dateTabled": "2025-11-27T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1858177,
+   "uin": "HL12394",
+   "heading": "Police and Crime Commissioners",
+   "questionText": "To ask His Majesty's Government how many civil servants they expect will be made redundant as a result of their decision to abolish Police and Crime Commissioners.",
+   "dateTabled": "2025-11-27T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1858189,
+   "uin": "HL12393",
+   "heading": "Asylum: Temporary Accommodation",
+   "questionText": "To ask His Majesty's Government whether they are considering other sites to temporarily house asylum seekers; and if so, whether they will list any sites actively being considered.",
+   "dateTabled": "2025-11-27T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1858191,
+   "uin": "HL12392",
+   "heading": "Military Bases: Asylum",
+   "questionText": "To ask His Majesty's Government whether they considered any other sites managed by the Ministry of Defence before shortlisting Cameron Barracks and Crowborough army training camp for asylum accommodation; and if so, which sites they considered.",
+   "dateTabled": "2025-11-27T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1962694,
+   "uin": "HL5656",
+   "heading": null,
+   "questionText": "To ask His Majesty's Government whether the Secretary of State for Digital, Culture, Media and Sport plans to extend the export deferral period for the Bust of John Gordon of Invergordon by Edmé Bouchardon beyond 1 December, in light of the planned meetin",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1961960,
+   "uin": "HL5524",
+   "heading": "Immigration: Public Consultation",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the demographic breakdown of respondents to the earned settlement consultation.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1961961,
+   "uin": "HL5523",
+   "heading": "Telemedicine: Scotland",
+   "questionText": "To ask His Majesty's Government how many residential properties in Scotland have residents who rely on telecare devices, broken down by local authority area.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1961951,
+   "uin": "HL5522",
+   "heading": "Voice over Internet Protocol",
+   "questionText": "To ask His Majesty's Government whether they have received any indication from the telecoms industry that it might extend the Voice over Internet Protocol switchover beyond 31 January 2027 in the event that some properties still do not have access to broa",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1961954,
+   "uin": "HL5521",
+   "heading": "Voice over Internet Protocol: Scotland",
+   "questionText": "To ask His Majesty's Government what work they are undertaking with (1) the Scottish Government, and (2) the telecoms industry, to expedite the rollout of broadband infrastructure to ensure that all properties are ready for the Voice over Internet Protoco",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1961955,
+   "uin": "HL5520",
+   "heading": "Broadband: Scotland",
+   "questionText": "To ask His Majesty's Government how many (1) residential properties, (2) business premises, and (3) public buildings, in Scotland are not able to access (a) superfast broadband, or (b) any broadband connection, broken down by local authority area.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1961956,
+   "uin": "HL5519",
+   "heading": "Voice over Internet Protocol: Scotland",
+   "questionText": "To ask His Majesty's Government how many (1) residential properties, (2) business premises, and (3) public buildings, in Scotland have not migrated from the Public Switched Telephone Network to Voice over Internet Protocol, broken down by local authority ",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  }
+ ],
+ "historyComplete": true
+}

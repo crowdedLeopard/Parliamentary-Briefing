@@ -1,0 +1,319 @@
+{
+ "id": 4928,
+ "fetchedOn": "2026-11-24",
+ "core": {
+  "id": 4928,
+  "nameListAs": "Harlech, L.",
+  "nameDisplayAs": "Lord Harlech",
+  "nameFullTitle": "The Lord Harlech",
+  "nameAddressAs": null,
+  "latestParty": {
+   "id": 4,
+   "name": "Conservative",
+   "abbreviation": "Con",
+   "backgroundColour": "0063ba",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": false,
+   "governmentType": 3,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "Life peer",
+   "membershipFromId": 4,
+   "house": 2,
+   "membershipStartDate": "2026-06-16T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2026-06-16T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/4928/Thumbnail"
+ },
+ "bio": {
+  "representations": [],
+  "electionsContested": [],
+  "houseMemberships": [
+   {
+    "house": 2,
+    "name": "Lords",
+    "id": 2,
+    "startDate": "2026-06-16T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Lord Harlech",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 2,
+    "name": "Lords",
+    "id": 2,
+    "startDate": "2021-07-21T00:00:00",
+    "endDate": "2026-04-29T00:00:00",
+    "additionalInfo": "Lord Harlech",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [
+   {
+    "house": 2,
+    "name": "Lord in Waiting (HM Household) (Whip)",
+    "id": 72,
+    "startDate": "2022-09-22T00:00:00",
+    "endDate": "2024-07-05T00:00:00",
+    "additionalInfo": "HM Household",
+    "additionalInfoLink": null
+   }
+  ],
+  "oppositionPosts": [],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 2,
+    "name": "Conservative",
+    "id": 4,
+    "startDate": "2021-07-21T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 2,
+    "name": "Land Use in England Committee",
+    "id": 583,
+    "startDate": "2022-01-19T00:00:00",
+    "endDate": "2022-11-28T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 2,
+    "name": "Electronic Trade Documents Bill [HL] Special Public Bill Committee",
+    "id": 636,
+    "startDate": "2022-12-12T00:00:00",
+    "endDate": "2023-02-20T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 2,
+    "name": "Social Mobility Policy Committee",
+    "id": 772,
+    "startDate": "2025-01-30T00:00:00",
+    "endDate": "2025-11-04T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 2,
+    "name": "Procedure and Privileges Committee",
+    "id": 191,
+    "startDate": "2026-06-22T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 2,
+    "name": "Procedure and Privileges Committee",
+    "id": 191,
+    "startDate": "2026-01-27T00:00:00",
+    "endDate": "2026-04-29T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 38860,
+     "interest": "Army Reservist, 1st Battalion The London Guards",
+     "createdWhen": "2021-08-27T14:44:00",
+     "lastAmendedWhen": "2026-06-16T16:58:11.04",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 44094,
+     "interest": "Designated member, Glyn Cywarch LLP (facilitates private rental and accommodation bookings)",
+     "createdWhen": "2024-04-19T16:33:20",
+     "lastAmendedWhen": "2026-06-16T16:58:03.413",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1002,
+   "name": "Category 2: Shareholdings etc. (a)",
+   "sortOrder": 1042,
+   "interests": [
+    {
+     "id": 44096,
+     "interest": "Glyn Cywarch LLP (facilitates private rental and accommodation bookings)",
+     "createdWhen": "2024-04-19T16:35:16",
+     "lastAmendedWhen": "2026-06-16T16:58:15.99",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1006,
+   "name": "Category 3: Land and property",
+   "sortOrder": 1046,
+   "interests": [
+    {
+     "id": 38864,
+     "interest": "The Glyn Estate, Gwynedd (agricultural and residential holdings, let farmland and self-catering holiday accommodation)",
+     "createdWhen": "2021-08-27T14:46:33",
+     "lastAmendedWhen": "2026-06-16T16:58:35.253",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1009,
+   "name": "Category 6: Gifts, benefits and hospitality",
+   "sortOrder": 1049,
+   "interests": [
+    {
+     "id": 47011,
+     "interest": "As a member of the All-Parliamentary Parliamentary Group for the Armed Forces the member attends breakfast and dinner briefings which during the calendar year together exceed £300 in value and all of which are paid for by sources listed in the register of APPGs\r\n",
+     "createdWhen": "2025-10-17T15:02:56",
+     "lastAmendedWhen": "2026-08-28T11:43:20.56",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1009,
+   "name": "Category 6: Gifts, benefits and hospitality",
+   "sortOrder": 1049,
+   "interests": [
+    {
+     "id": 48007,
+     "interest": "One ticket received from BAE Systems and ADS Group Ltd to attend Farnborough International Air Show, 23 July 2026",
+     "createdWhen": "2026-07-27T15:20:49",
+     "lastAmendedWhen": "2026-10-22T10:52:39.05",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [
+  {
+   "category": "Concerns: UK Areas",
+   "focus": [
+    "Wales"
+   ]
+  },
+  {
+   "category": "Concerns: World Areas",
+   "focus": [
+    "UK"
+   ]
+  },
+  {
+   "category": "Geographic areas of expertise",
+   "focus": [
+    "Agriculture, animals, food and rural affairs",
+    "Culture, media and sport",
+    "Defence",
+    "Energy and environment",
+    "International Affairs"
+   ]
+  }
+ ],
+ "synopsis": "Lord Harlech's full title is The Lord Harlech. His name is Jasset David Cody Ormsby Gore, and he is a current member of the House of Lords.",
+ "history": [
+  {
+   "id": 1957360,
+   "uin": "HL5048",
+   "heading": "Clothing: Exports",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the impact of the withdrawal of the VAT Retail Export Scheme on the UK fashion industry.",
+   "dateTabled": "2026-11-09T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1929899,
+   "uin": "HL2698",
+   "heading": "Rainforests: Environment Protection",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by the Minister of State for Energy Security and Net Zero on 29 January (HC107822), whether they are still considering investing through British international investment in the Tropical Forest",
+   "dateTabled": "2026-07-23T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1929900,
+   "uin": "HL2697",
+   "heading": "Climate Change: Loans",
+   "questionText": "To ask His Majesty's Government, further to the press release of 22 July, Cheaper travel for millions with a third off fares, what the interest rates of the loans the United Kingdom will make to international climate finance projects will be; and which pr",
+   "dateTabled": "2026-07-23T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1929901,
+   "uin": "HL2696",
+   "heading": "Climate Change: Loans",
+   "questionText": "To ask His Majesty's Government, further to the press release of 22 July, Cheaper travel for millions with a third off fares, what the repayment schedules for the United Kingdom’s loans to international climate finance projects will be; and which projects",
+   "dateTabled": "2026-07-23T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1929902,
+   "uin": "HL2695",
+   "heading": "Climate Change: Loans",
+   "questionText": "To ask His Majesty's Government, further to the press release of 22 July, Cheaper travel for millions with a third off fares, what the terms will be of the loans the United Kingdom will give to international climate finance projects, and which projects th",
+   "dateTabled": "2026-07-23T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1929904,
+   "uin": "HL2694",
+   "heading": "Climate Change: Finance",
+   "questionText": "To ask His Majesty's Government how much of the total United Kingdom contribution to the International Climate Finance budget can be turned into loans.",
+   "dateTabled": "2026-07-23T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1929454,
+   "uin": "HL2327",
+   "heading": "Livestock: Carbon Emissions",
+   "questionText": "To ask His Majesty's Government whether their plans for achieving net zero emissions include introducing targets to reduce livestock herd sizes.",
+   "dateTabled": "2026-07-20T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  }
+ ],
+ "historyComplete": true
+}

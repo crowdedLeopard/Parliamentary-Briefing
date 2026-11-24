@@ -1,0 +1,1118 @@
+{
+ "id": 4651,
+ "fetchedOn": "2026-11-24",
+ "core": {
+  "id": 4651,
+  "nameListAs": "Carden, Dan",
+  "nameDisplayAs": "Dan Carden",
+  "nameFullTitle": "Dan Carden MP",
+  "nameAddressAs": "Dan Carden",
+  "latestParty": {
+   "id": 15,
+   "name": "Labour",
+   "abbreviation": "Lab",
+   "backgroundColour": "d50000",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": true,
+   "governmentType": 0,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "Liverpool Walton",
+   "membershipFromId": 4154,
+   "house": 1,
+   "membershipStartDate": "2017-06-08T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2024-07-04T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/4651/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2024-05-31T00:00:00",
+    "constituencyEnd": null,
+    "house": 1,
+    "name": "Liverpool Walton",
+    "id": 4154,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "2010-04-13T00:00:00",
+    "constituencyEnd": "2024-05-30T00:00:00",
+    "house": 1,
+    "name": "Liverpool, Walton",
+    "id": 3582,
+    "startDate": "2017-06-08T00:00:00",
+    "endDate": "2024-05-30T00:00:00",
+    "additionalInfo": "Elected 2 times",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [],
+  "houseMemberships": [
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "2017-06-08T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Dan Carden",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [],
+  "oppositionPosts": [
+   {
+    "house": 1,
+    "name": "Shadow Financial Secretary (Treasury)",
+    "id": 1356,
+    "startDate": "2020-04-10T00:00:00",
+    "endDate": "2020-10-15T00:00:00",
+    "additionalInfo": "HM Treasury",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/hm-treasury"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Secretary of State for International Development",
+    "id": 870,
+    "startDate": "2018-12-03T00:00:00",
+    "endDate": "2020-04-06T00:00:00",
+    "additionalInfo": "Department for International Development",
+    "additionalInfoLink": "http://www.dfid.gov.uk"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Minister (International Development)",
+    "id": 967,
+    "startDate": "2018-01-12T00:00:00",
+    "endDate": "2018-12-02T00:00:00",
+    "additionalInfo": "Department for International Development",
+    "additionalInfoLink": "http://www.dfid.gov.uk"
+   }
+  ],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Labour",
+    "id": 15,
+    "startDate": "2017-06-08T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 1,
+    "name": "Procedure Committee",
+    "id": 126,
+    "startDate": "2017-10-23T00:00:00",
+    "endDate": "2019-03-19T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Statutory Instruments (Select Committee)",
+    "id": 149,
+    "startDate": "2017-10-30T00:00:00",
+    "endDate": "2019-04-29T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Statutory Instruments (Joint Committee)",
+    "id": 148,
+    "startDate": "2017-10-30T00:00:00",
+    "endDate": "2019-04-29T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Environmental Audit Committee",
+    "id": 62,
+    "startDate": "2021-02-22T00:00:00",
+    "endDate": "2022-01-05T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Select Committee on the Armed Forces Bill (2021)",
+    "id": 509,
+    "startDate": "2021-02-25T00:00:00",
+    "endDate": "2021-04-14T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Select Committee on the Armed Forces Bill (2021)",
+    "id": 509,
+    "startDate": "2021-02-22T00:00:00",
+    "endDate": "2021-02-22T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Public Accounts Committee",
+    "id": 127,
+    "startDate": "2021-04-20T00:00:00",
+    "endDate": "2024-01-29T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Online Safety Bill",
+    "id": 592,
+    "startDate": "2022-05-18T00:00:00",
+    "endDate": "2022-06-28T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Foreign Affairs Committee",
+    "id": 78,
+    "startDate": "2024-10-21T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Foreign Affairs Committee",
+    "id": 78,
+    "startDate": "2023-11-28T00:00:00",
+    "endDate": "2024-05-30T00:01:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Foreign Affairs Sub-Committee on the Overseas Territories",
+    "id": 686,
+    "startDate": "2024-01-09T00:00:00",
+    "endDate": "2024-05-30T00:01:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Finance Bill",
+    "id": 691,
+    "startDate": "2024-01-10T00:00:00",
+    "endDate": "2024-01-16T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Finance (No.2) Bill",
+    "id": 733,
+    "startDate": "2024-05-15T00:00:00",
+    "endDate": "2024-05-21T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 12,
+   "name": "1. Employment and earnings",
+   "sortOrder": 0,
+   "interests": [
+    {
+     "id": 12321,
+     "interest": "Role, work or services: Member of the Advisory Board of Steps Together Group\r\nFrom: 1 April 2025.\r\nPayer: Steps Together Group Ltd (Addiction rehabilitation and treatment services), Rear Ground Floor, Hygeia Building, 66-68 College Road, Harrow, Middlesex HA1 1BE\r\n(Registered 30 April 2025)",
+     "createdWhen": "2025-05-13T14:40:08.5366667",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": [
+      {
+       "id": 12322,
+       "interest": "Remuneration: £3,000 a month (£36,000 per annum)\r\nFrom: 1 April 2025.\r\nHours: 12 hrs a month approximately\r\n(Registered 30 April 2025)",
+       "createdWhen": "2025-05-13T14:40:08.5366667",
+       "lastAmendedWhen": null,
+       "deletedWhen": null,
+       "isCorrection": false,
+       "childInterests": []
+      }
+     ]
+    },
+    {
+     "id": 13338,
+     "interest": "Role, work or services: Advisor\r\nFrom: 27 August 2025. Until: 26 August 2027.\r\nPayer: Green Rock Robotics INC. (Robotics and aviation), 3150 N Sheffield Ave #201 Chicago IL 60657 USA\r\n(Registered 19 September 2025)",
+     "createdWhen": "2025-10-08T13:15:18.6966667",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": [
+      {
+       "id": 13339,
+       "interest": "Remuneration: Share options of 0.1% (valued at £35,000 in total), value £1,458 a month\r\nFrom: 27 August 2025. Until: 26 August 2027.\r\nHours: 5 hrs a month approximately\r\n(Registered 19 September 2025)",
+       "createdWhen": "2025-10-08T13:15:18.6966667",
+       "lastAmendedWhen": null,
+       "deletedWhen": null,
+       "isCorrection": false,
+       "childInterests": []
+      }
+     ]
+    },
+    {
+     "id": 14465,
+     "interest": "Role, work or services: Writing articles\r\nPayer: Associated Newspapers Ltd (ANMFS Ltd), Northcliffe House, 2 Derry  Street, London W8 5TT\r\n(Registered 2 February 2026)",
+     "createdWhen": "2026-02-03T11:20:03.83",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": [
+      {
+       "id": 14466,
+       "interest": "Payment: £850 Article published in the Mail on Sunday on 4th January 2026\r\nReceived on: 29 January 2026. Hours: 4 hrs.\r\nDonated to: a charity\r\n(Registered 2 February 2026)",
+       "createdWhen": "2026-02-03T11:20:03.83",
+       "lastAmendedWhen": null,
+       "deletedWhen": null,
+       "isCorrection": false,
+       "childInterests": []
+      }
+     ]
+    },
+    {
+     "id": 16322,
+     "interest": "Role, work or services: Speaking engagements\r\nFrom: 17 June 2026.\r\nPayer: Norton Rose Fulbright LLP (Law firm), 3 More London Riverside, London SE1 2AQ\r\n(Registered 13 July 2026)",
+     "createdWhen": "2026-07-14T09:29:51.8266667",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": [
+      {
+       "id": 16323,
+       "interest": "Payment expected: £1,000 Speaking at breakfast event for law firms\r\nCompleted or provided on: 17 June 2026. Hours: 2 hrs estimated.\r\n(Registered 13 July 2026)",
+       "createdWhen": "2026-07-14T09:29:51.8266667",
+       "lastAmendedWhen": null,
+       "deletedWhen": null,
+       "isCorrection": false,
+       "childInterests": []
+      }
+     ]
+    },
+    {
+     "id": 16560,
+     "interest": "Role, work or services: Speaking engagements\r\nPayer: Arab Investments Limited, 11 Berkeley Street, London W1J 8DS\r\n(Registered 22 July 2026)",
+     "createdWhen": "2026-08-18T09:11:10.8",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": [
+      {
+       "id": 16561,
+       "interest": "Payment: £5,000 Speaking engagement with business leaders\r\nReceived on: 25 June 2026. Hours: 4 hrs estimated.\r\n(Registered 22 July 2026)",
+       "createdWhen": "2026-08-18T09:11:10.8",
+       "lastAmendedWhen": null,
+       "deletedWhen": null,
+       "isCorrection": false,
+       "childInterests": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "name": "2. (b) Any other support not included in Category 2(a)",
+   "sortOrder": 1,
+   "interests": [
+    {
+     "id": 15293,
+     "interest": "Name of donor: Mr Alan Halsall\r\nAddress of donor: private\r\nAmount of donation or nature and value if donation in kind: £5,000 paid to my campaign fund\r\nDate received: 28 April 2026\r\nDate accepted: 28 April 2026\r\nDonor status: individual\r\n(Registered 24 May 2026)",
+     "createdWhen": "2026-06-03T10:07:17.0566667",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 15923,
+     "interest": "Name of donor: Arab Investments Limited\r\nAddress of donor: 11 Berkeley Street, London W1J 8DS\r\nAmount of donation or nature and value if donation in kind: Sponsoring a dinner in central London for 40 guests, value £3,400\r\nDate received: 4 June 2026\r\nDate accepted: 4 June 2026\r\nDonor status: company, registration 01671921\r\n(Registered 28 June 2026)",
+     "createdWhen": "2026-06-30T09:44:38.73",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "name": "3. Gifts, benefits and hospitality from UK sources",
+   "sortOrder": 2,
+   "interests": [
+    {
+     "id": 15181,
+     "interest": "Name of donor: The Jockey Club Racecourses Limited\r\nAddress of donor: 75 High Holborn, London WC1V 6LS\r\nAmount of donation or nature and value if donation in kind: attendance and hospitality for two people at the Grand National at Aintree racecourse for me and my partner, value £460\r\nDate received: 11 April 2026\r\nDate accepted: 11 April 2026\r\nDonor status: company, registration 02909409\r\n(Registered 7 May 2026)",
+     "createdWhen": "2026-05-19T09:45:15.27",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "name": "4. Visits outside the UK",
+   "sortOrder": 3,
+   "interests": [
+    {
+     "id": 13974,
+     "interest": "Name of donor: Friedrich-Ebert-Stiftung\r\nAddress of donor: Hiroshimastraße 28, 10785 Berlin, Germany\r\nEstimate of the probable value (or amount of any donation): Flights (£268.71) and accommodation (£191.29), value £460\r\nDestination of visit: Germany\r\nDates of visit: 12 November 2025 to 14 November 2025\r\nPurpose of visit: To attend the Tiergarten Conference in Berlin.\r\n(Registered 26 November 2025)",
+     "createdWhen": "2025-12-02T09:18:26.1",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 14238,
+     "interest": "Name of donor: Doha Forum\r\nAddress of donor: Ministry of Foreign Affairs  Almirqab Tower West Bay Doha Qatar\r\nEstimate of the probable value (or amount of any donation): Flights, accommodation and food £5957, value £5,957\r\nDestination of visit: Qatar (Doha)\r\nDates of visit: 4 December 2025 to 9 December 2025\r\nPurpose of visit: To attend the Doha Forum and participate in meetings with senior Qatari government representatives and others.\r\n(Registered 30 December 2025)",
+     "createdWhen": "2026-01-06T10:53:38.28",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 14596,
+     "interest": "Name of donor: Embassy of the United Arab Emirates\r\nAddress of donor: 1-2 Grosvenor Crescent, London SW1X 7EE\r\nEstimate of the probable value (or amount of any donation): Flights (£4095), food and accommodation (£2920) and in-country transport (£2349), value £9,364\r\nDestination of visit: United Arab Emirates\r\nDates of visit: 27 January 2026 to 1 February 2026\r\nPurpose of visit: Cross-party visit to engage with parliamentarians and civic society representatives.\r\n(Registered 23 February 2026)",
+     "createdWhen": "2026-02-24T09:59:20.1266667",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 14963,
+     "interest": "Name of donor: Direct News Private Limited\r\nAddress of donor: 275 Piccadilly House, Captain Gaur Marg, Delhi 110065\r\nEstimate of the probable value (or amount of any donation): Outbound flight (£950), accommodation (£780) and return flight (£3746.30), value £5,476.30\r\nDestination of visit: India\r\nDates of visit: 11 March 2026 to 14 March 2026\r\nPurpose of visit: To attend and speak at NXT 2026 Conference.\r\n(Registered 9 April 2026)",
+     "createdWhen": "2026-04-14T09:26:49.9166667",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 17575,
+     "interest": "Name of donor: Middle East Energy Conference Limited\r\nAddress of donor: 28 Lime Street, London EC3M 7HR\r\nEstimate of the probable value (or amount of any donation): Flights (£4,087.98 ), accommodation (£1600), value £5,687.98\r\nDestination of visit: United Arab Emirates\r\nDates of visit: 21 October 2026 to 25 October 2026\r\nPurpose of visit: To make the opening address to the Middle East Energy Conference\r\n(Registered 16 November 2026)",
+     "createdWhen": "2026-11-24T09:40:37.24",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "name": "8. Miscellaneous",
+   "sortOrder": 4,
+   "interests": [
+    {
+     "id": 1744,
+     "interest": "Member of the Commission on Alcohol Harm, established by the Alcohol Harm Alliance (a consortium of over 50 non-governmental organisations) to promote evidence based policies to reduce the harm caused by alcohol.\r\nDate interest arose: 24 June 2021\r\n(Registered 7 July 2021)",
+     "createdWhen": "2024-04-18T15:14:53.1666667",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 1746,
+     "interest": "Unpaid director of Addiction Recovery Now Ltd, a company limited by guarantee. The company researches addiction issues and seeks to promote visible recovery in society.\r\nDate interest arose: 28 July 2021\r\n(Registered 24 August 2021)",
+     "createdWhen": "2024-04-18T15:14:53.1666667",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 3509,
+     "interest": "Treasurer and Executive Member of the British Group of the Inter-Parliamentary Union. This is an unpaid role.\r\nDate interest arose: 30 November 2022\r\n(Registered 1 November 2023)",
+     "createdWhen": "2024-04-18T15:17:56.72",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 3508,
+     "interest": "Executive Member and President of the Board of Young Parliamentarians of the Inter-Parliamentary Union. This is an unpaid role.\r\nDate interest arose: 13 March 2023\r\n(Registered 1 November 2023)",
+     "createdWhen": "2024-04-18T15:17:56.72",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [],
+ "synopsis": "Dan Carden is the Labour MP for <a href='/constituency/4154/overview'>Liverpool Walton</a>, and has been an MP continually since 8 June 2017.",
+ "history": [
+  {
+   "id": 1957915,
+   "uin": "41533",
+   "heading": "Sentencing: Aiding and Abetting",
+   "questionText": "To ask the Secretary of State for Justice, whether he plans to reconsider sentencing arrangements for prisoners convicted under joint enterprise before the changes in the law following the Jogee judgment in 2016.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1957914,
+   "uin": "41532",
+   "heading": "Sentencing: Aiding and Abetting",
+   "questionText": "To ask the Secretary of State for Justice, whether he plans to review minimum terms for prisoners convicted of murder under joint enterprise, particularly where their individual culpability differs from that of the principal offender.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1957917,
+   "uin": "41535",
+   "heading": "Prisoners",
+   "questionText": "To ask the Secretary of State for Justice, what measures are in place to ensure that categorisation decisions are based on accurate prison records; and what procedures exist to review decisions where disputed information has been relied upon.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1957916,
+   "uin": "41534",
+   "heading": "Prisoners' Transfers",
+   "questionText": "To ask the Secretary of State for Justice, how rehabilitation, behaviour and risk assessments are taken into account when prisoners serving life sentences are considered for progression to lower security categories.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1955569,
+   "uin": "39998",
+   "heading": "Derelict Buildings Fund",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, whether the Government will consider the Walton constituency or Liverpool local authority for the Derelict Buildings Fund; and when the Place List for the Fund will be extended.",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1950789,
+   "uin": "36260",
+   "heading": "Aiding and Abetting: Rehabilitation",
+   "questionText": "To ask the Secretary of State for Justice, what assessment the his Department has made of the effectiveness of the rehabilitation of those serving joint-enterprise convictions.",
+   "dateTabled": "2026-10-19T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1950788,
+   "uin": "36259",
+   "heading": "Prisoners' Release: Aiding and Abetting",
+   "questionText": "To ask the Secretary of State for Justice, what assessment he has made of the appropriateness of the early release of people given sentences under joint-enterprise convictions.",
+   "dateTabled": "2026-10-19T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1937478,
+   "uin": "26607",
+   "heading": "Poultry: Animal Welfare",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment her Department has made of differences in animal welfare and meat quality between UK-grown chickens and imported chicken meat sold in the UK.",
+   "dateTabled": "2026-09-02T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1937477,
+   "uin": "26606",
+   "heading": "Poultry: Animal Welfare",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment her Department has made of UK-grown chickens in comparison with those farmed in other countries, particularly with regards to 1) animal welfare, 2) animal lifespan and ",
+   "dateTabled": "2026-09-02T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1937475,
+   "uin": "26605",
+   "heading": "Poultry: Regulation",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what further legislative actions her Department is considering to mandate or ban the use of specific breeds of chicken in UK farming.",
+   "dateTabled": "2026-09-02T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1937474,
+   "uin": "26604",
+   "heading": "Poultry",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment her department has made of the scale of the use of fast-growing chicken breeds in the UK, both in terms of UK farming and UK retail sales.",
+   "dateTabled": "2026-09-02T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1937480,
+   "uin": "26608",
+   "heading": "Nepal and Tibet: Humanitarian Aid",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what steps his Department has taken and plans to take to support rescue efforts and humanitarian relief following the flooding on the Nepal-Tibet border.",
+   "dateTabled": "2026-09-02T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1937482,
+   "uin": "26609",
+   "heading": "Nepal and Tibet: Humanitarian Aid",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what assessment his Department has made of the level of risk of further humanitarian disasters due to flooding around the Nepal-Tibet border 1) in the rest of 2026 and 2) in ",
+   "dateTabled": "2026-09-02T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1927590,
+   "uin": "18686",
+   "heading": "Fractures: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what progress is being made towards establishing Fracture Liaison Services across all NHS trusts by 2030.",
+   "dateTabled": "2026-07-14T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1927578,
+   "uin": "18685",
+   "heading": "Animal Experiments: Research",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what assessment her Department has made of the potential merits of adopting the legislative framework championed by Animal Free Research UK known as Herbie's Law.",
+   "dateTabled": "2026-07-14T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1918940,
+   "uin": "12223",
+   "heading": "Nigeria: Abduction",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, whether she has had discussions with her Nigerian counterpart on the recent kidnapping of schoolchildren and teachers in Oyo State.",
+   "dateTabled": "2026-06-23T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1897550,
+   "uin": "125496",
+   "heading": "Fuels: Liverpool Walton",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what steps his Department is taking to support people with rising fuel costs in Liverpool Walton constituency.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1896953,
+   "uin": "124937",
+   "heading": "Children: Disadvantaged",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment his Department has made of the adequacy of levels of NHS funding for children living in areas of high deprivation and inequality.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1898760,
+   "uin": "126667",
+   "heading": "Water: Social Tariffs",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what recent assessment her Department has made of the potential merits of introducing a national social tariff for water bills.",
+   "dateTabled": "2026-04-13T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1897150,
+   "uin": "125096",
+   "heading": "Dogs: Insurance",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what guidance her Department has issued to dog owners on changes to public liability insurance through the Dogs Trust Companion Club scheme from 1 July 2026.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1897019,
+   "uin": "125003",
+   "heading": "Care Homes and Hospitals: Visits",
+   "questionText": "To ask the Secretary of State for Health and Social Care, if he will outline a timeline for legislative proposals to guarantee visiting rights of family and friends of vulnerable people in health and social care settings.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1896952,
+   "uin": "124936",
+   "heading": "Dental Services: Disadvantaged",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps he is taking to improve access to NHS dental care for (a) children and (b) adults in deprived areas.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1895581,
+   "uin": "124182",
+   "heading": "Highway Code: Publicity",
+   "questionText": "To ask the Secretary of State for Transport, what recent steps her Department has taken to increase awareness of (a) Rule 178 of the Highway Code and (b) the Code more broadly.",
+   "dateTabled": "2026-03-26T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1895679,
+   "uin": "124218",
+   "heading": "Urinary Tract Infections",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps his Department is taking to improve (a) awareness and (b) treatment of (i) chronic and (ii) recurrent urinary tract infections.",
+   "dateTabled": "2026-03-26T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1895563,
+   "uin": "124180",
+   "heading": "Allied Health Professions: Labour Turnover",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment his Department has made of NHS retention of (a) podiatrists and (b) other specialised healthcare professionals.",
+   "dateTabled": "2026-03-26T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1891474,
+   "uin": "120958",
+   "heading": "Further Education: Liverpool Walton",
+   "questionText": "To ask the Secretary of State for Education, what capital funding is available to education providers in Liverpool Walton seeking to increase post-16 education and training capacity.",
+   "dateTabled": "2026-03-16T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1891472,
+   "uin": "120957",
+   "heading": "Further Education: Liverpool Walton",
+   "questionText": "To ask the Secretary of State for Education, what recent assessment her Department has made of the availability of post-16 provision in Liverpool Walton.",
+   "dateTabled": "2026-03-16T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1890215,
+   "uin": "119998",
+   "heading": "Domicil",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment her Department has made of the interaction between the Temporary Repatriation Facility (TRF) and the Transfer of Assets Abroad rules, and whether that could affect the revenue the OBR forecast from t",
+   "dateTabled": "2026-03-11T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1887460,
+   "uin": "117857",
+   "heading": "Rents",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what information his Department holds on the number of households spending more than 30% of income on rent in (a) Liverpool Walton constituency and (b) England.",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1887474,
+   "uin": "117861",
+   "heading": "Private Rented Housing: Rents",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, how long does his Department expect it to take for current housebuilding targets to exert downward pressure on rents.",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1887472,
+   "uin": "117860",
+   "heading": "Private Rented Housing: Rents",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what assessment has been made of whether new housing supply alone can reduce rents in areas where private rent inflation exceeds wage growth.",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1887484,
+   "uin": "117864",
+   "heading": "Rents: Regulation",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what assessment his Department has made of the effectiveness of rent control areas legislation in the Housing (Scotland) 2025 Act.",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1887481,
+   "uin": "117863",
+   "heading": "Rents: Regulation",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what assessment he has made of the potential implications for his policies of the lessons learned from the the use of temporary rent caps in Scotland during the covid-19 pandemic",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1887475,
+   "uin": "117862",
+   "heading": "Rents",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what comparative assessment his Department has made of the effectiveness of rent stabilisation systems in (a) Germany, (b) Austria, and (c) Canada in considering the potential me",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1887485,
+   "uin": "117865",
+   "heading": "Private Rented Housing",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, how many landlords exited the private rented sector in each year since 2020.",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1887470,
+   "uin": "117859",
+   "heading": "Rents: Increases\r\n",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what assessment has been made of the effectiveness of existing protections against unreasonable rent increases.",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1887465,
+   "uin": "117858",
+   "heading": "Rents: Increases\r\n",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, whether mechanisms exist to prevent excessive rent increases during tenancies.",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1887488,
+   "uin": "117868",
+   "heading": "Rents",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, whether he has assessed the potential merits of piloting rent stabilisation in areas with persistently high levels of rent inflation.",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1887487,
+   "uin": "117867",
+   "heading": "Rents: Increases",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, whether his Department has assessed the potential merits of restricting rent increases between tenancies in high-pressure areas.",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1887486,
+   "uin": "117866",
+   "heading": "Rents: Increases",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, whether his Department has considered the potential merits of linking rent increases to changes in the level of Consumer Prices Index or wages.",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1887451,
+   "uin": "117856",
+   "heading": "Private Rented Housing: Rents",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what assessment he has made of the potential impact of private rent inflation on levels of homelessness and housing insecurity.",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1887323,
+   "uin": "117855",
+   "heading": "Energy Company Obligation",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, whether a transitional scheme will be implemented following the conclusion of ECO4; and what steps his Department is taking to ensure continuity for businesses and protection of jobs followin",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1887490,
+   "uin": "117870",
+   "heading": "Rents: Increases",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made with Cabinet colleagues of the potential impact of rent inflation plays on levels of in-work poverty.",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1887489,
+   "uin": "117869",
+   "heading": "Rents: Increases",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of the potential impact of rent inflation on the level of disposable incomes and consumer spending.",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1887491,
+   "uin": "117871",
+   "heading": "Rents: Increases",
+   "questionText": "To ask the Chancellor of the Exchequer, if she will make an assessment with Cabinet colleagues of the potential impact of rent stabilisation on inflation.",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1886452,
+   "uin": "116925",
+   "heading": "Capita: Contracts",
+   "questionText": "To ask the Minister for the Cabinet Office, with reference to the Westminster Hall debate on the Administration of the Civil Service Pensions Scheme of February 4th 2026, whether the Cabinet Office plans to review Government contracts with Capita.",
+   "dateTabled": "2026-03-02T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1883010,
+   "uin": "114275",
+   "heading": "Astronomy and Space: Finance",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what assessment her Department has made of the adequacy of the level of funding for astronomy and space science.",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1876639,
+   "uin": "109583",
+   "heading": "Endometriosis: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps his Department is taking to improve (a) diagnosis, (b) treatment and (c) ongoing care for patients with endometriosis.",
+   "dateTabled": "2026-01-29T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1879197,
+   "uin": "111189",
+   "heading": "Accident and Emergency Departments",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the potential implications for his Department's policies of the analysis by Age UK on A&E wait times, published on 21 January 2026.",
+   "dateTabled": "2026-02-05T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1878487,
+   "uin": "110863",
+   "heading": "Care Homes: Visits",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what his proposed timetable is for publishing the Government review of CQC regulation 9A.",
+   "dateTabled": "2026-02-04T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1878484,
+   "uin": "110862",
+   "heading": "Carers",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what recent assessment his Department has made of the potential merits of introducing primary legislation to guarantee the right for every person in (a) care and (b) health settings to have at leas",
+   "dateTabled": "2026-02-04T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1873278,
+   "uin": "107119",
+   "heading": "Highway Code: Publicity",
+   "questionText": "To ask the Secretary of State for Transport, what steps her Department is taking to increase public awareness of new Highway Code rules.",
+   "dateTabled": "2026-01-20T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1872494,
+   "uin": "106340",
+   "heading": "Kidney Diseases: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps his Department is taking to improve the (a) diagnosis and (b) treatment of kidney disease.",
+   "dateTabled": "2026-01-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1872722,
+   "uin": "106570",
+   "heading": "Large Goods Vehicle Drivers: Conditions of Employment",
+   "questionText": "To ask the Secretary of State for Transport, what steps her Department is taking to help improve working conditions for HGV drivers.",
+   "dateTabled": "2026-01-19T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1871444,
+   "uin": "105795",
+   "heading": "State Retirement Pensions: Women",
+   "questionText": "To ask the Secretary of State for Work and Pensions, if he will make an assessment of the impact of State Pension age changes for 1950s-born women living in the Liverpool Walton constituency.",
+   "dateTabled": "2026-01-14T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1866676,
+   "uin": "101797",
+   "heading": "Immigration",
+   "questionText": "To ask the Secretary of State for the Home Department, what assessment her Department has made of the potential impact of changes to immigration rules on people on current settlement pathways.",
+   "dateTabled": "2026-01-02T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1866682,
+   "uin": "101799",
+   "heading": "Argentina: Blood Transfusions",
+   "questionText": "To ask the Secretary of State for Defence, with reference to adjournment debate of Tuesday 11 November 2025 entitled Blood Transfusions during the Falklands War, what plans his Department has to investigate Argentine blood transfusions to British service ",
+   "dateTabled": "2026-01-02T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1866681,
+   "uin": "101798",
+   "heading": "Ambulance Services: Health and Safety",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment his Department has made of the (a) operational risk and (b) physical demands of Hazardous Area Response Team (HART) personnel within NHS ambulance services; and whether he has plans",
+   "dateTabled": "2026-01-02T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1866195,
+   "uin": "101458",
+   "heading": "Immigration: Hong Kong",
+   "questionText": "To ask the Secretary of State for the Home Department, whether changes to immigration rules will apply retrospectively to BNO visa holders in the UK.",
+   "dateTabled": "2025-12-18T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1866155,
+   "uin": "101457",
+   "heading": "Building Safety Regulator: Workplace Pensions",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, with reference to the proposed transfer of the Building Safety Regulator (BSR) from the Health & Safety Executive (HSE) to the Ministry of Housing, Communities & Local Government",
+   "dateTabled": "2025-12-18T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1862777,
+   "uin": "98922",
+   "heading": "Breasts: Plastic Surgery",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many women in Liverpool Walton have been referred to NHS services in connection with PIP implants since 2011.",
+   "dateTabled": "2025-12-10T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1863331,
+   "uin": "99254",
+   "heading": "Adoption and Special Guardianship Support Fund",
+   "questionText": "To ask the Secretary of State for Education, what assessment her Department has made of the potential impact of the decision to reduce the therapy limit for the Adoption and Special Guardianship Support Fund on children using that fund.",
+   "dateTabled": "2025-12-11T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1862953,
+   "uin": "98974",
+   "heading": "Adoption: Mental Health",
+   "questionText": "To ask the Secretary of State for Education, what specialist support is available to adoptive parents of children with experience of trauma.",
+   "dateTabled": "2025-12-10T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1864092,
+   "uin": "99870",
+   "heading": "Individual Savings Accounts",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment her Department has made of the potential impact of changes to the cash ISA limit on savers nearing retirement.",
+   "dateTabled": "2025-12-15T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1863312,
+   "uin": "99253",
+   "heading": "Aviation: Lithium-ion Batteries",
+   "questionText": "To ask the Secretary of State for Transport, what recent discussions her Department has had with the Civil Aviation Authority on safety incidents involving lithium batteries on commercial flights.",
+   "dateTabled": "2025-12-11T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1862868,
+   "uin": "98961",
+   "heading": "ME/CFS: Research",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether his Department plans to increase funding for research into Myalgic Encephalomyelitis/Chronic Fatigue Syndrome.",
+   "dateTabled": "2025-12-10T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1859323,
+   "uin": "96219",
+   "heading": "NHS Trusts: Waste Management",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what mechanisms exist to support waste-reduction trials with NHS trusts.",
+   "dateTabled": "2025-12-02T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1859322,
+   "uin": "96218",
+   "heading": "Hospital Wards: Polypropylene",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether his Department has had discussions with NHS trusts on the potential reuse of polypropylene ward curtains.",
+   "dateTabled": "2025-12-02T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1859317,
+   "uin": "96214",
+   "heading": "NHS: Waste",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps his Department is taking to reduce levels of NHS waste.",
+   "dateTabled": "2025-12-02T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1962786,
+   "uin": "45758",
+   "heading": null,
+   "questionText": "To ask the Minister for the Cabinet Office, with regards to the contract awarded to Capita for the civil service payroll and HR services, who will be responsible within government for ensuring that Capita delivers the service effectively.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1962884,
+   "uin": "45756",
+   "heading": null,
+   "questionText": "To ask the Minister for the Cabinet Office, how will the Government ensure meaningful consultation with PCS and other recognised unions throughout the transition in the context of the contract awarded to Capita for the civil service payroll and HR service",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1962883,
+   "uin": "45755",
+   "heading": null,
+   "questionText": "To ask the Minister for the Cabinet Office, with regards to the contract awarded to Capita for the civil service payroll and HR services, what contingency measures are in place in the event that Capita does not meet its contractual obligations once the pa",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1962882,
+   "uin": "45754",
+   "heading": null,
+   "questionText": "To ask the Minister for the Cabinet Office, with regards to the contract awarded to Capita for the civil service payroll and HR services, what guarantees will be in place to ensure civil servants are paid accurately and on time during the transition.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1962841,
+   "uin": "45713",
+   "heading": null,
+   "questionText": "To ask the Minister for the Cabinet Office, with regards to the contract awarded to Capita for the civil service payroll and HR services, what specific lessons have been learned from the pension administration contract; and how have these lessons been inc",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1962839,
+   "uin": "45711",
+   "heading": null,
+   "questionText": "To ask the Minister for the Cabinet Office, what assessment she made of the potential merits of awarding the civil service payroll and HR services to Capita.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1957818,
+   "uin": "41436",
+   "heading": "Civil Servants: Workplace Pensions",
+   "questionText": "To ask the Minister for the Cabinet Office, what (a) number and (b) proportion of pension quotations issued by Capita under the Civil Service Pension Scheme contract have been identified as incorrect since the contract commenced.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1957817,
+   "uin": "41435",
+   "heading": "Civil Servants: Workplace Pensions",
+   "questionText": "To ask the Minister for the Cabinet Office, what steps her Department took to perform due diligence prior to the award of the Civil Service Pension Scheme contract to Capita.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1957816,
+   "uin": "41434",
+   "heading": "Civil Servants: Workplace Pensions",
+   "questionText": "To ask the Minister for the Cabinet Office, whether her Department plans to publish the recovery plan agreed with Capita, including performance against its milestones; and whether the Department plans to make this information available to affected members",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1957815,
+   "uin": "41433",
+   "heading": "Civil Servants: Workplace Pensions",
+   "questionText": "To ask the Minister for the Cabinet Office, what assessment her Department has made of the effectiveness of the contractual mechanisms available to it to require Capita to undertake remedial measures in relation to its administration of the contract; and ",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  }
+ ],
+ "historyComplete": true
+}

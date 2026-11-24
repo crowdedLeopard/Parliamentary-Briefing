@@ -1,0 +1,787 @@
+{
+ "id": 214,
+ "fetchedOn": "2026-11-24",
+ "core": {
+  "id": 214,
+  "nameListAs": "Foster of Bath, L.",
+  "nameDisplayAs": "Lord Foster of Bath",
+  "nameFullTitle": "The Rt Hon. the Lord Foster of Bath",
+  "nameAddressAs": null,
+  "latestParty": {
+   "id": 17,
+   "name": "Liberal Democrat",
+   "abbreviation": "LD",
+   "backgroundColour": "fc7d0b",
+   "foregroundColour": "FFFFFF",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": false,
+   "governmentType": null,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "Life peer",
+   "membershipFromId": 4,
+   "house": 2,
+   "membershipStartDate": "2015-10-07T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2015-10-07T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/214/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2010-04-13T00:00:00",
+    "constituencyEnd": "2024-05-30T00:00:00",
+    "house": 1,
+    "name": "Bath",
+    "id": 3308,
+    "startDate": "2010-05-06T00:00:00",
+    "endDate": "2015-03-30T00:00:00",
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "1997-04-09T00:00:00",
+    "constituencyEnd": "2010-04-12T00:00:00",
+    "house": 1,
+    "name": "Bath",
+    "id": 159,
+    "startDate": "1997-05-01T00:00:00",
+    "endDate": "2010-05-06T00:00:00",
+    "additionalInfo": "Elected 3 times",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "1983-05-14T00:00:00",
+    "constituencyEnd": "1997-04-08T00:00:00",
+    "house": 1,
+    "name": "Bath",
+    "id": 158,
+    "startDate": "1992-04-09T00:00:00",
+    "endDate": "1997-05-01T00:00:00",
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [
+   {
+    "house": 1,
+    "name": "Bristol East",
+    "id": 463,
+    "startDate": "1987-06-11T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "houseMemberships": [
+   {
+    "house": 2,
+    "name": "Lords",
+    "id": 2,
+    "startDate": "2015-10-07T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Lord Foster of Bath",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "1992-04-09T00:00:00",
+    "endDate": "2015-03-30T00:00:00",
+    "additionalInfo": "Mr Don Foster",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [
+   {
+    "house": 1,
+    "name": "Comptroller (HM Household) (Deputy Chief Whip, House of Commons)",
+    "id": 44,
+    "startDate": "2013-10-07T00:00:00",
+    "endDate": "2015-05-08T00:00:00",
+    "additionalInfo": "HM Household",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Parliamentary Under-Secretary (Department for Communities and Local Government)",
+    "id": 1015,
+    "startDate": "2012-09-06T00:00:00",
+    "endDate": "2013-10-07T00:00:00",
+    "additionalInfo": "Department for Communities and Local Government",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government"
+   }
+  ],
+  "oppositionPosts": [
+   {
+    "house": 2,
+    "name": "Liberal Democrat Lords Spokesperson (Business, Energy and Industrial Strategy)",
+    "id": 1352,
+    "startDate": "2016-10-28T00:00:00",
+    "endDate": "2017-06-16T00:00:00",
+    "additionalInfo": "Opposition Department",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Shadow Secretary of State for Culture, Media and Sport (also Shadow Deputy Prime Minister)",
+    "id": 872,
+    "startDate": "2003-07-01T00:00:00",
+    "endDate": "2010-05-06T00:00:00",
+    "additionalInfo": "Department for Culture, Media and Sport",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-culture-media-sport"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Secretary of State for Transport",
+    "id": 868,
+    "startDate": "2002-06-01T00:00:00",
+    "endDate": "2003-06-01T00:00:00",
+    "additionalInfo": "Department for Transport",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-transport"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Spokesperson (Environment, Transport and the Regions)",
+    "id": 1053,
+    "startDate": "1999-06-01T00:00:00",
+    "endDate": "2001-06-01T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Shadow Spokesperson (Work and Pensions)",
+    "id": 1006,
+    "startDate": "1995-06-01T00:00:00",
+    "endDate": "1997-06-01T00:00:00",
+    "additionalInfo": "Department for Work and Pensions",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-work-pensions"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Spokesperson (Education)",
+    "id": 982,
+    "startDate": "1992-06-01T00:00:00",
+    "endDate": "1995-06-01T00:00:00",
+    "additionalInfo": "Department for Education",
+    "additionalInfoLink": "http://www.education.gov.uk/"
+   }
+  ],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Liberal Democrat",
+    "id": 17,
+    "startDate": "1992-04-09T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 1,
+    "name": "Education & Employment",
+    "id": 43,
+    "startDate": "1995-11-15T00:00:00",
+    "endDate": "1999-03-29T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 2,
+    "name": "Licensing Act 2003 Committee",
+    "id": 357,
+    "startDate": "2016-06-14T00:00:00",
+    "endDate": "2017-04-04T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 2,
+    "name": "Rural Economy Committee",
+    "id": 388,
+    "startDate": "2018-05-17T00:00:00",
+    "endDate": "2019-03-26T00:00:00",
+    "additionalInfo": "Chair",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 2,
+    "name": "Gambling Industry Committee",
+    "id": 406,
+    "startDate": "2019-06-13T00:00:00",
+    "endDate": "2020-06-16T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 2,
+    "name": "International Agreements Committee",
+    "id": 448,
+    "startDate": "2020-06-30T00:00:00",
+    "endDate": "2021-11-03T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 2,
+    "name": "Communications and Digital Committee",
+    "id": 170,
+    "startDate": "2021-10-13T00:00:00",
+    "endDate": "2024-01-31T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 2,
+    "name": "Justice and Home Affairs Committee",
+    "id": 519,
+    "startDate": "2024-01-31T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Chair",
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 1007,
+   "name": "Category 4: Sponsorship",
+   "sortOrder": 1047,
+   "interests": [
+    {
+     "id": 44334,
+     "interest": "Member benefits from part-time research assistance relating to work on electrical safety, paid for by Electrical Safety First charity",
+     "createdWhen": "2024-05-16T09:56:07",
+     "lastAmendedWhen": "2025-04-05T00:00:00",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1007,
+   "name": "Category 4: Sponsorship",
+   "sortOrder": 1047,
+   "interests": [
+    {
+     "id": 44335,
+     "interest": "Member benefits from part-time research assistance related to work on climate change, paid for by Zero Hour",
+     "createdWhen": "2024-05-16T09:56:44",
+     "lastAmendedWhen": "2026-03-04T16:20:32.717",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1007,
+   "name": "Category 4: Sponsorship",
+   "sortOrder": 1047,
+   "interests": [
+    {
+     "id": 46353,
+     "interest": "The member, as Chair of Peers for Gambling Reform, receives assistance with his parliamentary work on gambling reform from Dentons Global Advisors; the cost of this assistance is met by Mr Derek Webb",
+     "createdWhen": "2025-06-02T16:54:41",
+     "lastAmendedWhen": "2025-06-02T16:54:57.713",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [
+  {
+   "category": "Concerns: Policy Interests",
+   "focus": [
+    "Agriculture, animals, food and rural affairs",
+    "Culture, media and sport",
+    "Education",
+    "Gambling",
+    "Housing and planning",
+    "Transport",
+    "International Aid & Development"
+   ]
+  },
+  {
+   "category": "Concerns: UK Areas",
+   "focus": [
+    "Bristol",
+    "Bath",
+    "Suffolk"
+   ]
+  },
+  {
+   "category": "Concerns: World Areas",
+   "focus": [
+    "Africa",
+    "Iraq",
+    "Taiwan"
+   ]
+  }
+ ],
+ "synopsis": "Lord Foster of Bath's full title is The Rt Hon. the Lord Foster of Bath. His name is Donald Michael Ellison Foster, and he is a current member of the House of Lords.",
+ "history": [
+  {
+   "id": 1957363,
+   "uin": "HL5035",
+   "heading": "Migrants: Offenders",
+   "questionText": "To ask His Majesty's Government, in light of the Home Office consultation response A Fairer Pathway to Settlement, published on 2 November, what definition of criminal record they intend to apply to the mandatory refusal ground in the forthcoming Immigrat",
+   "dateTabled": "2026-11-09T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1956380,
+   "uin": "HL4869",
+   "heading": "Prisons: Monitoring",
+   "questionText": "To ask His Majesty's Government what plans they have, if any, to reform the independent oversight of prisons in England and Wales.",
+   "dateTabled": "2026-11-03T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1956381,
+   "uin": "HL4868",
+   "heading": "Independent Monitoring Boards",
+   "questionText": "To ask His Majesty's Government what plans they have, if any, to amend the role of Independent Monitoring Boards.",
+   "dateTabled": "2026-11-03T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1955739,
+   "uin": "HL4793",
+   "heading": "Gambling: Advertising",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the effectiveness of existing age-targeting restrictions for gambling advertising on social media platforms, particularly in relation to adults aged 18 to 24.",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1955738,
+   "uin": "HL4794",
+   "heading": "Gambling: Advertising",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the impact of gambling advertising during football coverage on the normalisation of gambling among children and young adults.",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1936658,
+   "uin": "HL2850",
+   "heading": "Crown Immunity: Buildings",
+   "questionText": "To ask His Majesty's Government whether (1) high security hospitals or high security units within hospitals, (2) Immigration Removal Centres, and (3) Young Offender institutions and detention centres, are regulated by the Crown Premises Fire Safety Inspec",
+   "dateTabled": "2026-09-01T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1936675,
+   "uin": "HL2848",
+   "heading": "Prisoners: Death",
+   "questionText": "To ask His Majesty's Government, in each of the last ten years, how many (1) deaths in prisons have been judged as preventable by coroners, and (2) deaths in prisons have been judged as preventable by coroners where fire or smoke from a fire was the cause",
+   "dateTabled": "2026-09-01T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1936674,
+   "uin": "HL2849",
+   "heading": "Prisoners: Death",
+   "questionText": "To ask His Majesty's Government, in each of the last ten years, in how many cases have His Majesty's Prison and Probation Service been (1) charged, or (2) convicted, of corporate manslaughter regarding (a) a death in a prison, or (b) a death in a prison w",
+   "dateTabled": "2026-09-01T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1929368,
+   "uin": "HL2256",
+   "heading": "Government Departments: Public Appointments",
+   "questionText": "To ask His Majesty's Government, following delays in recent years in the recruitment and appointment process for inspectorate and regulatory roles leading to (1) the extension of the contract for the current HM Chief Inspector for Prisons to 2027, and (2)",
+   "dateTabled": "2026-07-17T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1929723,
+   "uin": "HL2515",
+   "heading": "Prisons: Fires",
+   "questionText": "To ask His Majesty's Government what assessment they have made of prisoner awareness and understanding of what to do when a fire occurs; and what steps they are taking to ensure prisoners are aware of what to do when fires occur.",
+   "dateTabled": "2026-07-22T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1929724,
+   "uin": "HL2514",
+   "heading": "Prisons: Fire Extinguishers",
+   "questionText": "To ask His Majesty's Government how many prisons are equipped with (1) automatic water misting systems only, (2) manual handling water misting systems only, or (3) both automatic and manual handling water systems.",
+   "dateTabled": "2026-07-22T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1923818,
+   "uin": "HL1585",
+   "heading": "Warm Homes Plan",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by Lord Whitehead on 15 June (HL448), what modelling they have undertaken to estimate the number of individual retrofit measures to be financed through consumer loans under the Warm Homes Plan",
+   "dateTabled": "2026-07-02T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1923819,
+   "uin": "HL1584",
+   "heading": "Warm Homes Plan",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by Lord Whitehead on 15 June (HL448), what estimate they have made of the total number of individual retrofit measures that will be financed through consumer loans under the Warm Homes Plan, b",
+   "dateTabled": "2026-07-02T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1923820,
+   "uin": "HL1583",
+   "heading": "Warm Homes Plan",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by Lord Whitehead on 15 June (HL448), what estimate they have made of the total number of retrofit measures expected to be financed through consumer loans under the Warm Homes Plan over its li",
+   "dateTabled": "2026-07-02T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1922657,
+   "uin": "HL1470",
+   "heading": "Solar Power: Safety",
+   "questionText": "To ask His Majesty's Government why the consultation on proposals to enable the safe and legal use of plug-in solar (plug-in microgeneration) products in the UK lasted two weeks, and what consideration they gave to a longer consultation.",
+   "dateTabled": "2026-06-30T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1918054,
+   "uin": "HL1093",
+   "heading": "Parish and Town Councils: Community Development",
+   "questionText": "To ask His Majesty's Government why the consultation proposals from town and parish councils under the Sustainable Communities Act 2007 were issued in 2012 when the Sustainable Communities Act 2007 (Amendment) Act 2010 which enabled these proposals was pa",
+   "dateTabled": "2026-06-18T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1917664,
+   "uin": "HL1051",
+   "heading": "Local Government: Community Development",
+   "questionText": "To ask His Majesty's Government why the consultation Proposals from town and parish councils under the Sustainable Communities Act 2007 was issued in 2012, when the Sustainable Communities Act 2007 (Amendment) Act 2010 that enabled these proposals was pas",
+   "dateTabled": "2026-06-17T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1910992,
+   "uin": "HL448",
+   "heading": "Warm Homes Plan",
+   "questionText": "To ask His Majesty's Government how many individual retrofit measures will be financed by the consumer loans offered under the Warm Homes Plan.",
+   "dateTabled": "2026-06-01T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1900660,
+   "uin": "HL16459",
+   "heading": "Gambling: Advertising",
+   "questionText": "To ask His Majesty's Government what assessment they have made of restrictions under section 333(6) of the Gambling Act 2005 to the powers of the Secretary of State for Culture, Media and Sport to make regulations on the remote advertising of gambling fol",
+   "dateTabled": "2026-04-16T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1899120,
+   "uin": "HL16194",
+   "heading": "Sustainable Communities Act 2007",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer from Baroness Taylor of Stevenage on 23 March (HL14862), how many proposals they have (1) approved and (2) rejected, following the second invitation under the Sustainable Communities Act 2007.",
+   "dateTabled": "2026-04-13T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1898960,
+   "uin": "HL16193",
+   "heading": "Sustainable Communities Act 2007",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by Baroness Taylor of Stevenage on 24 March (HL14862), how many proposals they have approved following the second invitation under the Sustainable Communities Act 2007.",
+   "dateTabled": "2026-04-13T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1898971,
+   "uin": "HL16192",
+   "heading": "Insulation: Housing",
+   "questionText": "To ask His Majesty's Government what plans they have to introduce smart meter enabled thermal efficiency ratings as a voluntary measure within existing warm home schemes and other policies.",
+   "dateTabled": "2026-04-13T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1898972,
+   "uin": "HL16191",
+   "heading": "Insulation: Housing",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the relative merits of heat transfer coefficients measured through smart meter enabled thermal efficiency ratings compared to those produced using the current Energy Performance Certificate",
+   "dateTabled": "2026-04-13T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1898974,
+   "uin": "HL16190",
+   "heading": "Insulation: Housing",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the benefits of measuring heat transfer coefficients on (1) improving retrofit advice, (2) improving retrofit outcomes, (3) protecting consumers, and (4) de-risking finance offers.",
+   "dateTabled": "2026-04-13T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1893569,
+   "uin": "HL15849",
+   "heading": "Gambling: Licensing",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by Baroness Twycross on 17 March (HL15103), which gambling operators have been found to be operating illegally since 2020; and whether the licences of those operators to offer gambling service",
+   "dateTabled": "2026-03-23T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1893570,
+   "uin": "HL15848",
+   "heading": "Gambling: Licensing",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by Baroness Twycross on 17 March (HL15103), what criteria they expect gambling operators to use to satisfy themselves that they are acting in a lawful manner in other jurisdictions.",
+   "dateTabled": "2026-03-23T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1893572,
+   "uin": "HL15847",
+   "heading": "Gambling: Licensing",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by Baroness Twycross on 17 March (HL15103), which gambling operators have substantial customer bases outside of Britain; and in which jurisdictions those customer bases are.",
+   "dateTabled": "2026-03-23T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1893573,
+   "uin": "HL15846",
+   "heading": "Gambling: Licensing",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by Baroness Twycross on 17 March (HL15103), which gambling operators reported regulatory investigations or findings into other activities in other jurisdictions in (1) 2021–22, (2) 2022–23, (3",
+   "dateTabled": "2026-03-23T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1890411,
+   "uin": "HL15431",
+   "heading": "Gambling: Children",
+   "questionText": "To ask His Majesty's Government, further to the findings of Raffaello Rossi, Edoardo Tozzi and Agnes Nairn published in Psychology and Marketing on 7 March, what assessment they have made of the adequacy of gambling protections for children, including the",
+   "dateTabled": "2026-03-11T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1885176,
+   "uin": "HL14862",
+   "heading": "Sustainable Communities Act 2007",
+   "questionText": "To ask His Majesty's Government how many invitations they have made to local authorities to submit proposals under the Sustainable Communities Act 2007; when any such invitations were made; and what the outcome of each invitation was.",
+   "dateTabled": "2026-02-25T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1887816,
+   "uin": "HL15176",
+   "heading": "Gambling: Advertising",
+   "questionText": "To ask His Majesty's Government what the timetable for the consultation on advertising by unlicensed gambling operators is; and when they plan for any legislative or regulatory changes as a result of that consultation to take effect.",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1887817,
+   "uin": "HL15175",
+   "heading": "Gambling: Addictions",
+   "questionText": "To ask His Majesty's Government which charities they have met with to discuss the commissioning process for new independent provision of gambling harms research, prevention and treatment; and what impact, if any, those discussions have had on the commissi",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1887104,
+   "uin": "HL15102",
+   "heading": "Gambling: Foreign Companies",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the role of the white label system in enabling foreign gambling operators to access British consumers without direct vetting by the Gambling Commission; and whether they plan to reform or a",
+   "dateTabled": "2026-03-03T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1887103,
+   "uin": "HL15103",
+   "heading": "Gambling: Licensing",
+   "questionText": "To ask His Majesty's Government whether they plan to require British-licenced gambling operators to refrain from operating in overseas jurisdictions where they are not licensed.",
+   "dateTabled": "2026-03-03T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1887117,
+   "uin": "HL15098",
+   "heading": "Gambling: Northern Ireland",
+   "questionText": "To ask His Majesty's Government whether remote gambling companies licenced by the Gambling Commission can legally advertise in Northern Ireland; whether a resident in Northern Ireland can raise concerns directly with the Gambling Commission about breaches",
+   "dateTabled": "2026-03-03T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1887116,
+   "uin": "HL15099",
+   "heading": "Gambling: Northern Ireland",
+   "questionText": "To ask His Majesty's Government what consideration they have given to allocating a share of the statutory levy on remote gambling operators to Northern Ireland.",
+   "dateTabled": "2026-03-03T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1887815,
+   "uin": "HL15177",
+   "heading": "Gambling: Advertising",
+   "questionText": "To ask His Majesty's Government what discussions they have had with the Gambling Commission about its failure to take enforcement action against English football clubs advertising unlicensed gambling operators alleged to be accessible from Great Britain.",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1887107,
+   "uin": "HL15101",
+   "heading": "Gambling: Advertising",
+   "questionText": "To ask His Majesty's Government whether any sports clubs have been prosecuted under the Gambling Act 2005 for promoting or advertising gambling operators that are accessible from Great Britain without a licence; and if not, what factors have prevented pro",
+   "dateTabled": "2026-03-03T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1887109,
+   "uin": "HL15100",
+   "heading": "Gambling: Advertising",
+   "questionText": "To ask His Majesty's Government how many investigations the Gambling Commission has undertaken since January 2025 into English football clubs advertising gambling operators alleged to be accessible from Great Britain; and how many prosecutions, fines, lic",
+   "dateTabled": "2026-03-03T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1883517,
+   "uin": "HL14676",
+   "heading": "Energy Performance Certificates",
+   "questionText": "To ask His Majesty's Government what plans they have to reflect the true, in-situ, monitored energy performance of buildings in their future Energy Performance Certificate valuations.",
+   "dateTabled": "2026-02-23T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1883518,
+   "uin": "HL14675",
+   "heading": "Energy: Housing",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the benefits for (1) retrofit spending, (2) quality assurance, and (3) energy models, of including u-values in the Reduced Data Standard Assessment Procedure, the Home Energy Model, and the",
+   "dateTabled": "2026-02-23T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1879569,
+   "uin": "HL14425",
+   "heading": "Social Media: Electrical Goods",
+   "questionText": "To ask His Majesty's Government what regulations and rules are in place to prevent social media influencers from promoting dangerous electrical products online; and what assessment they have made of whether those regulations and rules are sufficient to pr",
+   "dateTabled": "2026-02-09T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1876420,
+   "uin": "HL14056",
+   "heading": "Climate Change: Mortality Rates",
+   "questionText": "To ask His Majesty's Government what estimate they have made of the number of deaths related to climate change in each county in England.",
+   "dateTabled": "2026-01-28T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1877315,
+   "uin": "HL14144",
+   "heading": "Products: Marketing",
+   "questionText": "To ask His Majesty's Government whether they consider social media influencers who promote consumer products through paid, sponsored or affiliate content to be economic operators; and whether they plan to use powers under the Product Regulation and Metrol",
+   "dateTabled": "2026-01-30T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1876866,
+   "uin": "HL14097",
+   "heading": "Gambling: Young People",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the increase in youth gambling participation, including the rise in unregulated gambling reported in the Young People and Gambling Survey 2025; and what further protections they will put in",
+   "dateTabled": "2026-01-29T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1874050,
+   "uin": "HL13786",
+   "heading": "Gambling: Internet",
+   "questionText": "To ask His Majesty's Government what recent discussions they have had with Ofcom regarding the regulation of gambling content and advertising online for young people, including the interaction of those regulations with the framework set out in the Online ",
+   "dateTabled": "2026-01-21T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1871200,
+   "uin": "HL13529",
+   "heading": "Energy: Housing",
+   "questionText": "To ask His Majesty's Government whether they have received specific proposals from (1) the Sustainable Energy Association, and (2) the Green Building Council, about ways to promote and fund domestic energy efficiency; and if so, what consideration they ha",
+   "dateTabled": "2026-01-13T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1871137,
+   "uin": "HL13530",
+   "heading": "Nature Conservation",
+   "questionText": "To ask His Majesty's Government what percentage of (1) national nature reserves, (2) marine conservation zones, (3) special protection areas, and (4) Ramsar sites, are in a favourable condition in each county in England.",
+   "dateTabled": "2026-01-13T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1863002,
+   "uin": "HL12836",
+   "heading": "Immigration: Biometrics",
+   "questionText": "To ask His Majesty's Government why staff are \"strongly advised\" in the Immigration Enforcement Live Facial Recognition Policy Document published in November to refer to that document rather than being required to do so.",
+   "dateTabled": "2025-12-10T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1863003,
+   "uin": "HL12835",
+   "heading": "Immigration: Biometrics",
+   "questionText": "To ask His Majesty's Government when they intend to publish an assessment of the trial use of live facial recognition in immigration enforcement in November; and whether it will be used or trialled again for immigration enforcement purposes before the clo",
+   "dateTabled": "2025-12-10T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1861357,
+   "uin": "HL12736",
+   "heading": "Energy: Housing",
+   "questionText": "To ask His Majesty's Government how many residential properties have had energy efficiency measures installed under the Government policies then in place for each year from 2015 to 2024; and how many are projected to have such measures installed under cur",
+   "dateTabled": "2025-12-08T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1865095,
+   "uin": "HL13030",
+   "heading": "Gambling: Advertising",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by Baroness Twycross on 21 May (HL7312), when the Betting and Gaming Council will publish its report on advertising.",
+   "dateTabled": "2025-12-16T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1864369,
+   "uin": "HL12971",
+   "heading": "Gambling: Advertising",
+   "questionText": "To ask His Majesty's Government what steps they are taking to monitor and regulate the use of personalised algorithms and targeted advertising by online gambling platforms.",
+   "dateTabled": "2025-12-15T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1864366,
+   "uin": "HL12972",
+   "heading": "Gambling: Advertising",
+   "questionText": "To ask His Majesty's Government whether they plan to introduce mandatory transparency requirements on gambling advertising spend and targeting strategies by licensed operators.",
+   "dateTabled": "2025-12-15T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1961270,
+   "uin": "HL5455",
+   "heading": "Immigration: Applications",
+   "questionText": "To ask His Majesty's Government whether the longer qualifying period for settlement proposed in their response to the consultation A Fairer Pathway to Settlement, published on 2 November, will apply to individuals whose existing application for settlement",
+   "dateTabled": "2026-11-17T00:00:00",
+   "answeringBodyName": "Home Office"
+  }
+ ],
+ "historyComplete": true
+}

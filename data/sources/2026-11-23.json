@@ -1,13 +1,2142 @@
 {
- "hansard": [],
- "today": [],
- "committees": [],
- "gaps": [
-  "Hansard Commons 2026-11-23 could not be read (https://hansard.parliament.uk/Commons/2026-11-23)",
-  "Hansard Lords 2026-11-23 could not be read (https://hansard.parliament.uk/Lords/2026-11-23)",
-  "What's On commons 2026-11-24 could not be read (https://whatson.parliament.uk/commons/2026-11-24/)",
-  "What's On lords 2026-11-24 could not be read (https://whatson.parliament.uk/lords/2026-11-24/)",
-  "What's On committees 2026-11-24 could not be read (https://whatson.parliament.uk/committees/2026-11-24/)",
-  "Committee publications could not be read (https://committees.parliament.uk/publications/?DateFrom=23/11/2026&DateTo=23/11/2026)"
- ]
+ "hansard": [
+  {
+   "type": "hansard",
+   "house": "Lords",
+   "date": "2026-11-23",
+   "debate": "Health Bill",
+   "section": "Lords Chamber",
+   "speaker": "Baroness Finlay of Llandaff (CB)",
+   "memberId": 3609,
+   "topics": [
+    "Microsoft and its businesses",
+    "Other technology and AI companies",
+    "Artificial intelligence",
+    "Cloud, data centres and compute",
+    "Data protection and privacy",
+    "Cyber security and resilience"
+   ],
+   "text": "My Lords, this is just a note of warning: we must not be seduced into believing that the single patient record is the answer to all the problems of inadequate care that we see across the NHS. The single patient record must support clinical care, but it is no substitute for person-centred care, with kindness and clinical skills. I declare that I am a member of the Delegated Powers and Regulatory Reform Committee. The report that we issued on this Bill stated that new Section 250E, inserted into the NHS Act 2005 by Clause 52, is not currently fit for purpose; there should be significant amendment or it should be removed from the Bill. I did not put down a notice to object to Clause 52, because I felt it would be completely destructive to the single patient record should Parliament agree. However, this demonstrates the enormous amount of work that needs to be done. Our report also noted that the only statutory safeguard is a duty on the Secretary of State to have regard to the need for adequate safeguards. It does not incorporate a duty to ensure safeguards. The policy on the single patient record should be assessed as critical national infrastructure, with the highest cyber security standards, and that should be in the Bill. A security standard is required in statute, particularly as design remains undecided. Who is liable for inaccurate information, data breaches or inappropriate use? What is the indemnity of clinicians? These are major policy issues. In international conflict, should a hostile state attack the record, it would be possible for our whole health system to collapse. Recent incidents should be a major warning; the noble Lord, Lord Markham, drew attention to the hack into Synnovis. I also remind the Committee that Silicon Practice going into administration le",
+   "link": "https://hansard.parliament.uk/Lords/2026-11-23/debates/78FC9121-51E2-4807-B4F4-42BF1B8E994F/x#contribution-8D9F89BF-B8F2-4E5C-9661-89D5C398437B"
+  },
+  {
+   "type": "hansard",
+   "house": "Lords",
+   "date": "2026-11-23",
+   "debate": "Health Bill",
+   "section": "Lords Chamber",
+   "speaker": "Lord Kamall (Con)",
+   "memberId": 4909,
+   "topics": [
+    "Cloud, data centres and compute",
+    "Data protection and privacy",
+    "Cyber security and resilience",
+    "Digital competition and markets",
+    "Government digital, IT and procurement"
+   ],
+   "text": "My Lords, I am afraid that this group of amendments brings out the inner geek in me. I used to be a geek; I am now the father of geeks. Many people will understand that, having done engineering and written software in my early career, it just all comes back to me, but I will try not to detain noble Lords for too long. The questions that we are asking as a Committee are really practical and focus on how the single patient record will work in practice, in an operational sense. Who will run it, and is the NHS ready for it? Who will be able to write the records and read them? There are three core questions here. The first is on data control and governance. The second is on the readiness of the NHS to do this and how quick the rollout will be. The third is about sharing data between state-run—NHS—and independent providers. As the noble Baroness, Lady Thornton, said, if we are to have a seamless system, there is also sharing between the National Health Service and the proposed national care service. All these questions have to be asked. We welcome the amendments from other noble Lords in this group, many of which raise important questions that we all want to ask. Amendment 136, in my name and those of my noble friend Lord Howe and the noble Lord, Lord Patel, asks a simple question: before the record goes live, who will be responsible for it? The amendment would require the Secretary of State, before making regulations, to lay a report before Parliament. That report would set out who will be the data controller or controllers, the responsibilities of those controllers or joint controllers, and the processes, but also the arrangements for custody, stewardship and security. None of this is clear to noble Lords, and we have to ask those questions. This amendment would also set ou",
+   "link": "https://hansard.parliament.uk/Lords/2026-11-23/debates/78FC9121-51E2-4807-B4F4-42BF1B8E994F/x#contribution-F8D9CD7D-F2EE-459D-84AB-B3F5FBC4C819"
+  },
+  {
+   "type": "hansard",
+   "house": "Lords",
+   "date": "2026-11-23",
+   "debate": "Health Bill",
+   "section": "Lords Chamber",
+   "speaker": "Lord Tarassenko (CB)",
+   "memberId": 5027,
+   "topics": [
+    "Other technology and AI companies",
+    "Artificial intelligence",
+    "Data protection and privacy",
+    "Digital competition and markets"
+   ],
+   "text": "I realise it is very late, but interoperability is such an important issue for electronic health records in the NHS that I wish to support Amendment 127 in the name of the noble Lord, Lord Clement-Jones, to which I have added my name. I declare my interest as senior adviser to the Alan Turing Institute and the holder of an honorary contract with Oxford University Hospitals NHS Foundation Trust. In 2019, the Royal Papworth Hospital, world famous for heart and lung surgery and organ transplantation, moved into a brand new building on the Cambridge Biomedical Campus, next door to Addenbrooke's. Soon afterwards, I met Cambridge colleagues who told me what happened when patients operated on in the Royal Papworth Hospital were transferred to one of the Addenbrooke's wards to continue their recovery. Before the transfer, the patient notes from Papworth's electronic patient record, the Lorenzo EPR, were printed out and placed on the patient's trolley with the patient. At the end of the corridor, Addenbrooke's nurses would take both the patient and the printout and then scan the printout into their own EPR—Epic. This was two of our most digitally advanced hospitals, next to each other but linked by paper. In 2018, before the move, the two trusts built an electronic link between the Lorenzo and Epic EPRs. It took seven months and the integration of five systems, and it covered just blood tests. Eight years on, I am told that the two trusts have still not integrated patient data. In September this year they finally announced their solution to the interoperability problem: Papworth would abandon the Lorenzo EPR and move on to Epic. That sad tale shows that interoperability has never been properly tackled in the NHS. Here is a simple example: there are no standards in common use for",
+   "link": "https://hansard.parliament.uk/Lords/2026-11-23/debates/78FC9121-51E2-4807-B4F4-42BF1B8E994F/x#contribution-E9CF045B-FA04-4095-8877-6E38AB6425C4"
+  },
+  {
+   "type": "hansard",
+   "house": "Lords",
+   "date": "2026-11-23",
+   "debate": "Health Bill",
+   "section": "Lords Chamber",
+   "speaker": "Baroness Kidron (CB)",
+   "memberId": 4258,
+   "topics": [
+    "Other technology and AI companies",
+    "Artificial intelligence",
+    "Data protection and privacy"
+   ],
+   "text": "My Lords, I will speak to my Amendment 279QV. I note that, although they are not in their places this evening, the noble Lord, Lord Singh, and my noble friend Lady Hollins strongly support this amendment. This is a probing amendment to ensure that AI systems are not used to deliver mental health treatments in the NHS until appropriate standards are established and made mandatory. It also seeks to understand what is currently permitted, how these systems are already being used and what guidance is in place. I was recently sent an academic paper from the US titled “Chatbots Don't Care”, by Professors Nir Eisikovits and Maria Granik at the University of Massachusetts and Bentley University. The paper looks at the use of AI for mental health treatments and categorised the risks in two very separate ways. The first were “contingent risks”, such as patient privacy threats, algorithmic bias, hallucinations and addictive design—specifically noting that chatbots' “constant availability, their ingratiating sycophantic tone and the illusion of constant attentiveness that they give off, can become intoxicating and habit forming”. Although the authors were quite clear about the seriousness of those risks, they framed them, at least theoretically, as risks that could be significantly reduced by design, if there were design standards to work to. The second category is somewhat more fundamental. The paper suggests that, even if the problems of privacy, bias and hallucination were solved, a chatbot cannot deliver a form of treatment in which the human relationship itself is part of the therapy. In the words of the paper, “psychotherapy is ultimately an intimate relationship. It turns on the ability of the therapist and the patient to form what practitioners call a therapeutic alliance …",
+   "link": "https://hansard.parliament.uk/Lords/2026-11-23/debates/78FC9121-51E2-4807-B4F4-42BF1B8E994F/x#contribution-D43B88D1-E916-4E87-9481-B0E3B9E4282E"
+  },
+  {
+   "type": "hansard",
+   "house": "Lords",
+   "date": "2026-11-23",
+   "debate": "Health Bill",
+   "section": "Lords Chamber",
+   "speaker": "Baroness in Waiting/Government Whip (Baroness Hyde of Bemerton) (Lab)",
+   "memberId": 5425,
+   "topics": [
+    "Other technology and AI companies",
+    "Artificial intelligence",
+    "Data protection and privacy"
+   ],
+   "text": "I thank all noble Lords for participating in what has indeed been a wide-ranging debate on medicines and medical devices. I appreciate that I may not be able to cover all the points that noble Lords have raised, but I will address each of the issues raised in these amendments in turn. First, on Amendments 184 and 185, I assure the noble Baroness, Lady Pidgeon, that Clause 64 does nothing to change the government commitment to the principle that positive NICE recommendations should normally be implemented within 90 days. Integrated care boards operate within a wider statutory framework and must comply with a range of legal duties, including financial duties and responsibilities. Any future consideration of a longer implementation period for NICE-approved medicines would be expected to occur only in exceptional circumstances and through a robust process involving relevant stakeholders. With respect to access to injectable medicinal products, raised by the noble Baroness, Lady Ritchie, supported by the noble Baronesses, Lady Gerada and Lady Shawcross-Wolfson, although some injectable medicines are intended for self-administration by patients, that does not automatically mean that they are suitable to be supplied without a prescription. As my noble friend Lady Merron noted on an earlier group, patient safety remains our top priority, and a prescription often also ensures that a clinician will diagnose an illness and conduct follow-up monitoring that would not be possible with a pharmacy or over-the-counter medicine. If it would be useful to the noble Baronesses, Lady Ritchie, Lady Gerada and Lady Shawcross-Wolfson, we can arrange for a meeting with officials on this before Report. Moving to Amendment 266, I want to reassure the noble Lord, Lord Crisp, on anti-depressant pre",
+   "link": "https://hansard.parliament.uk/Lords/2026-11-23/debates/78FC9121-51E2-4807-B4F4-42BF1B8E994F/x#contribution-5F98127A-AD3F-46AE-A0DF-AE6D03024CF1"
+  },
+  {
+   "type": "hansard",
+   "house": "Lords",
+   "date": "2026-11-23",
+   "debate": "Health Bill",
+   "section": "Lords Chamber",
+   "speaker": "Baroness Kidron (CB)",
+   "memberId": 4258,
+   "topics": [
+    "Other technology and AI companies",
+    "Online safety and social media",
+    "Data protection and privacy"
+   ],
+   "text": "My Lords, Amendment 152A in my name would require the Secretary of State to establish a national coronial database, with a view to improving public health. In 2022, I was involved in Molly Russell's inquest, in which the coroner established that the material she viewed online had “contributed to her death in a more than minimal way”. Coroner Walker was relentless in pursuing Instagram and Pinterest for data to establish the circumstances of Molly's death. His tenacity, and the failure of other coroners to act in the same way, led me, during the passage of the Online Safety Act and the subsequent passage of both the Data (Use and Access) Act and the Crime and Policing Act, to seek new powers for coroners to access data by enabling Ofcom to require the preservation and sharing of data at a coroner's request. Had we been able to see patterns emerging across earlier inquests, we might have recognised the dangers sooner and prevented similar deaths. However, the public health implications of coronial investigations go far beyond online safety. The lessons are broad and many: from pollution to medication and from housing to road markings, inquest findings provide crucial insight into how and why a person has died. When that information is seen not individually but in concert with findings from other inquests, it could provide an early warning of emerging or otherwise unseen harms. As the noble Baroness, Lady Cass, explained on an earlier group, the difference between an isolated incident and a recognised pattern of harm is often the existence of a reporting system. As it stands, each coronial jurisdiction holds its own data and not in a place where it can be easily accessed by researchers. Transcripts can be made available upon request, but coroners must approve individual ac",
+   "link": "https://hansard.parliament.uk/Lords/2026-11-23/debates/3A4BBA8B-4B72-4BDC-80A1-5A2DE6EF24BD/x#contribution-D499E2CE-8616-4DF5-894B-33836C733722"
+  },
+  {
+   "type": "hansard",
+   "house": "Lords",
+   "date": "2026-11-23",
+   "debate": "Health Bill",
+   "section": "Lords Chamber",
+   "speaker": "Baroness Merron (Lab)",
+   "memberId": 347,
+   "topics": [
+    "Data protection and privacy",
+    "Digital competition and markets",
+    "Government digital, IT and procurement"
+   ],
+   "text": "I was going to come on to my noble friend's point about direct care. This is a legal response, so if he would like something further, he should let me know and I would be pleased to help. Patients must have received health or social care for patient information to be included in their SPR, and providers must be involved in the provision of care to access an individual's SPR. The overarching purpose of the SPR therefore limits what the regulations can contain to direct care. I am happy to elaborate further; I am sure that my noble friend would want me to. Listing every profession in the Bill is not necessary. The detail can more suitably be set out in regulations or guidance and give flexibility to new providers or services. I emphasise again that access to information by professionals is appropriate only to their role in caring for the patient. I reassure the noble Lord, Lord Clement-Jones, that the purpose of the single patient record is primarily to include care, patient experience and, by definition, safety. The clause creates only a new data-sharing gateway for direct care; it creates no new powers to share data for secondary purposes. The SPR can support planning and service improvement only where there is a separate legal basis and all safeguards within the existing legal framework are met. I emphasise that the existing legal framework is exactly what it says: it is the existing one, and it will guide all things to do with the SPR. This would be no different in this respect to existing electronic patient records and other datasets. I say to my noble friend Lady Thornton that adult social care is intended to be included in the single patient record, but not immediately, as further work is needed to enable this. But we have already enabled a widespread rollout of di",
+   "link": "https://hansard.parliament.uk/Lords/2026-11-23/debates/78FC9121-51E2-4807-B4F4-42BF1B8E994F/x#contribution-523BDC71-7C78-43D4-A5ED-425D367154E8"
+  },
+  {
+   "type": "hansard",
+   "house": "Commons",
+   "date": "2026-11-23",
+   "debate": " Finance Bill",
+   "section": "Commons Chamber",
+   "speaker": "Matt Rodda",
+   "memberId": 4654,
+   "topics": [
+    "Microsoft and its businesses",
+    "Government digital, IT and procurement"
+   ],
+   "text": "The hon. Gentleman makes some interesting, but I think slightly unsubstantiated, points. The challenge is to deliver help now, quickly, through an existing IT system. The problem that we have, as do many large organisations—we saw this recently in issues around the world relating to Microsoft and others—is the difficulty of trying to rely on making quick changes to complex IT systems. That is an unwise approach. That would be a kind way of describing what his party is proposing; it is unwise and untested. It is much better to go with a system that we know works, and is deliverable in the near future. I am very pleased with the Government's work to support entrepreneurs, and in particular with the founders' relief support, which in my constituency will offer many growing small businesses and founders a powerful incentive to grow further and take more risks to generate more jobs. In Berkshire—the hon. Gentleman represents a seat in Oxfordshire—there are 300,000 jobs in tech and telecoms in a county with a population of 800,000 people. Those firms are growing rapidly and offer real growth to the UK economy. It is important to reward those setting up those firms and offer them an incentive and drive growth, so I wholeheartedly welcome that measure. It is one of a raft of measures to support small businesses, and that should be noted and supported across the House. The final area that it is important to highlight is planning reform. We heard earlier about some of the benefits and the huge importance of planning reform in driving economic growth, and I would hope that there is a growing consensus on this matter. I would like to describe some of the problems in my town centre. As I said, our part of southern England is lucky to be an area of relatively high growth and enormous",
+   "link": "https://hansard.parliament.uk/Commons/2026-11-23/debates/BDD8D499-56C9-40D7-B30E-DCF22EB27F7F/x#contribution-5A05755E-504B-422E-9AB4-A9732D16AA8F"
+  },
+  {
+   "type": "hansard",
+   "house": "Commons",
+   "date": "2026-11-23",
+   "debate": " Finance Bill",
+   "section": "Commons Chamber",
+   "speaker": "The Financial Secretary to the Treasury and Paymaster General (James Murray)",
+   "memberId": 4797,
+   "topics": [
+    "Other technology and AI companies",
+    "Cloud, data centres and compute"
+   ],
+   "text": "It is a pleasure to close Second Reading of the Finance Bill. Like the hon. Member for Grantham and Bourne (Gareth Davies), I will keep my remarks short, but let me thank all right hon. and hon. Members for their contributions. Before I turn to the points they have raised, let me reflect briefly on the purpose of this Bill. The Budget delivered by my right hon. Friend the Chancellor last month was about providing breathing space now and fresh hope for the future. In the face of global economic storms, we chose to act by providing breathing space now on the cost of living and the cost of business, by creating the conditions for good growth in every postcode and by focusing on the changes that our country needs to be on a better course. All this while maintaining the fiscal discipline on which our economy depends. I turn to some of hon. and right hon. Members' contributions. Let me start by congratulating the hon. Member for Blackburn (Mr Hussain), who is now in his place, on his maiden speech. He spoke with great pride about the people in his constituency and the role that his constituency has played in our country's industrial heritage. He also spoke about the importance of opportunities for all in the next generation, and I am sure that is a sentiment that we all share across this House. We heard from two shadow Ministers this evening. The hon. Member for West Worcestershire (Dame Harriett Baldwin) selectively erased what had happened before July 2024 in her recounting of history. The hon. Member for Grantham and Bourne (Gareth Davies), for whom I have a great deal of respect, was worried about ending up on a Lib Dem leaflet; I am not quite sure what they have got planned in his constituency. I must take exception to his comments about living standards, because the tru",
+   "link": "https://hansard.parliament.uk/Commons/2026-11-23/debates/BDD8D499-56C9-40D7-B30E-DCF22EB27F7F/x#contribution-2493E5DA-6546-49E8-B632-C80EABFFFA7A"
+  },
+  {
+   "type": "hansard",
+   "house": "Lords",
+   "date": "2026-11-23",
+   "debate": "Health Bill",
+   "section": "Lords Chamber",
+   "speaker": "Baroness Pidgeon (LD)",
+   "memberId": 5366,
+   "topics": [
+    "Other technology and AI companies",
+    "Artificial intelligence"
+   ],
+   "text": "My Lords, this has been a wide-ranging debate on a group of amendments, and some important points have been raised. We discussed the amendment from the noble Baroness, Lady Finlay of Llandaff, about wasted medication, in considering the Medicines Security report from the Public Services Committee, and it was a concern that we all had. The amendment from the noble Lord, Lord Tarassenko, raises pressing issues around AI in healthcare and regulation. I will speak to Amendments 184 and 185 in my name, which seek to strengthen the implementation of recommendations made by the National Institute for Health and Care Excellence—better known to us all as NICE. The noble Lord, Lord Lansley, addressed some of the key challenges in this area, but my amendments go to the heart of a long-standing challenge within the NHS. The issue is not whether NICE identifies clinically effective and cost-effective medicines but whether patients receive them in a timely manner once that recommendation has been made. Parliament established a statutory requirement for the NHS to fund NICE-recommended medicines within 90 days because it recognised that patients should not face unnecessary delays in accessing such treatments, yet we know that adoption remains highly variable across the country. Despite the statutory requirement, only about one in four lists of approved medicines, appliances and healthcare treatments are updated within that 90-day period, and significant geographical variation in patient access persists. The Government's 10-year health plan rightly places emphasis on innovation, prevention and improving outcomes, but those ambitions will never be realised if medicines approved by NICE continue to reach patients slowly or unevenly. Indeed, the country already lags behind many comparable",
+   "link": "https://hansard.parliament.uk/Lords/2026-11-23/debates/78FC9121-51E2-4807-B4F4-42BF1B8E994F/x#contribution-2BE8A9A8-6B12-4BE1-AA8D-2A083B98CADA"
+  },
+  {
+   "type": "hansard",
+   "house": "Lords",
+   "date": "2026-11-23",
+   "debate": "Health Bill",
+   "section": "Lords Chamber",
+   "speaker": "Lord Clement-Jones (LD)",
+   "memberId": 3396,
+   "topics": [
+    "Artificial intelligence",
+    "Data protection and privacy"
+   ],
+   "text": "My Lords, I add my voice to the chorus of support for Amendment 172D, tabled by the noble Lord, Lord Tarassenko, and at the same time declare my interest as a consultant to DLA Piper on AI policy and regulation. I will also raise the vital question of medical device traceability. We are considering how the National Health Service evaluates, procures, regulates and safely deploys medical treatments, from innovative pharmaceuticals to complex physical implants and cutting-edge digital algorithms, so this is a pretty broad group. The integration of AI into healthcare is no longer a distant prospect; it is happening across our clinics and hospital wards every single day. AI is reading scans, interpreting pathology, predicting clinical deterioration and transcribing consultations. Yet as software and AI-enabled algorithms increasingly act as diagnostic and clinical decision-making tools—functioning directly as software as a medical device—our regulatory framework, as we have heard, is struggling to keep pace. The MHRA does outstanding work. But, as multiple expert inquiries have shown, our domestic Medical Devices Regulations were designed for static, physical hardware, not for dynamic, adaptive, data-driven algorithms that evolve over time. As the noble Lord, Lord Tarassenko, outlined, and as the noble Baroness, Lady Harding, said, we must welcome the Government's recent confirmation that they have accepted all 44 recommendations of the National Commission into the Regulation of AI in Healthcare. However, accepting recommendations is not the same as implementing them. That is precisely why Amendment 172D matters. It requires the Secretary of State within six months of Royal Assent to lay before Parliament a Statement setting out, first, the steps and timetable to implement ",
+   "link": "https://hansard.parliament.uk/Lords/2026-11-23/debates/78FC9121-51E2-4807-B4F4-42BF1B8E994F/x#contribution-BD89024C-C76E-4FD7-ACCD-5F4DACCA9245"
+  },
+  {
+   "type": "hansard",
+   "house": "Lords",
+   "date": "2026-11-23",
+   "debate": "Health Bill",
+   "section": "Lords Chamber",
+   "speaker": "Lord Clement-Jones (LD)",
+   "memberId": 3396,
+   "topics": [
+    "Artificial intelligence",
+    "Data protection and privacy"
+   ],
+   "text": "My Lords, I will speak to the other amendments in my name in the group. The hour is late, but this is a very long-awaited debate, which in many ways is about the cornerstone of the Government's digital health ambitions: the creation, scope and implementation of the single patient record under Clause 52. I am very grateful to the Minister for her letter of 22 November, received rather late last night, setting out further detail on the Government's intentions ahead of this debate. On these Benches, we strongly support the principle of joined-up, interoperable clinical records. Fragmented information across GP practices, hospitals, community services and social care puts patients at risk and forces people living with complex conditions to repeat their medical histories endlessly. However, as the Delegated Powers and Regulatory Reform Committee rightly warned, Clause 52 will confer sweeping powers on the Secretary of State while leaving almost all the critical questions of scope, governance, controllership and operational safeguards to secondary legislation. Why are the Government taking this route while all the clinical bodies ask for explicit statutory boundaries? In her letter, the Minister states that the regulations “would only be able to lift the Common Law Duty of Confidentiality for the purposes of the SPR which are limited to direct care.” That reassurance is welcome in principle, yet Clause 52, as drafted, does not restrict the single patient record to direct clinical care in the Bill. That is precisely why Amendment 119 would insert into Clause 52 that patient information made available through the single patient record must be for the purpose of delivering or improving patient health or social care. Without an explicit statutory purpose limitation, we risk immed",
+   "link": "https://hansard.parliament.uk/Lords/2026-11-23/debates/78FC9121-51E2-4807-B4F4-42BF1B8E994F/x#contribution-A33C4088-4A5D-46F2-BDB7-6691BE196B1C"
+  },
+  {
+   "type": "hansard",
+   "house": "Lords",
+   "date": "2026-11-23",
+   "debate": "Health Bill",
+   "section": "Lords Chamber",
+   "speaker": "Baroness Finlay of Llandaff (CB)",
+   "memberId": 3609,
+   "topics": [
+    "Artificial intelligence",
+    "Online safety and social media"
+   ],
+   "text": "My Lords, I have Amendments 111 and 205A in this group, concerning the supply of medication to the voluntary sector providers of hospice and end-of-life care. The wording of Amendment 205A takes inspiration from the novel coronavirus—Covid-19—standard operating procedure, running a medicines reuse scheme in a care home or hospice setting, which was applicable in England and replicated in Wales and Scotland but subsequently withdrawn from 6 April 2022. Amendment 111 addresses a bizarre inequity: a patient being cared for in a hospital, in a care home or at home would have their medications and appliances provided by the NHS, even when they are subject to NHS prescription costs in England, often through a prepayment certificate. However, if receiving care in a charitably funded hospice, their medication may need to be paid for in full by the hospice, so that the patient is not charged. I am grateful to my colleagues across hospices in England who helped to obtain data, particularly Dr Ros Taylor and Dr Ben Bowers. Many charitable hospices have to cover the cost of stock medicines for all their hospice in-patients—funding that is not included in their NHS grant. Even when they are bought from a pharmacy wholesaler, pharmacy supplies alone cost around £48,000 a year for 12 to 14 beds: around £4,000 per bed per year. A snapshot survey of hospices in England suggests that this is pretty representative, with medication costs ranging from £36,000 to £95,000 a year, on top of which can be the cost of pharmacist oversight. Extrapolating across all charitable hospice beds, the overall cost of medicines charitably funded by hospices is probably in the region of £7.5 million, estimated at about £250 of medicines cost per patient dying in a charitable hospice bed. So fundraising has ",
+   "link": "https://hansard.parliament.uk/Lords/2026-11-23/debates/78FC9121-51E2-4807-B4F4-42BF1B8E994F/x#contribution-49EA8893-EA22-4B54-9D4E-C09A6CA1116E"
+  },
+  {
+   "type": "hansard",
+   "house": "Commons",
+   "date": "2026-11-23",
+   "debate": " Finance Bill",
+   "section": "Commons Chamber",
+   "speaker": "Calum Miller (Bicester and Woodstock) (LD)",
+   "memberId": 5346,
+   "topics": [
+    "Artificial intelligence",
+    "Cloud, data centres and compute"
+   ],
+   "text": "In his Budget speech, the Chancellor said that the Government had two guiding approaches. First, on immediate action, the Government sought to provide breathing space for families and businesses. Secondly, when it came to the big structural changes, the Chancellor wanted to unlock good growth in every postcode. He said that the Government would deliver more devolution and local leadership, and “back British businesses”. Those phrases were repeated by the Exchequer Secretary to the Treasury when introducing this debate. What would help families and businesses in every postcode would be this Government delivering real and sustained growth. I want to test the Government's claims and the measures in the Bill against the experiences of businesses and residents in Bicester and Woodstock, who want to see good growth. Businesses need the confidence to employ and invest; infrastructure must be ready to support new development; and councils need the resources to deliver the services on which growth depends. Those practical tests must guide a Government who promise good growth in every postcode. First, I will address infrastructure and cumulative development. In his Budget speech, the Chancellor offered “cheaper, faster grid connections”, yet that is not what new businesses and home seekers have experienced in my constituency, where the default connection date is 2037. In Bicester and Woodstock, new housing, businesses and major projects are competing for capacity on the same electricity network and roads, and from the same public services. In North West Bicester, grid constraints have delayed thousands of homes well into the 2030s, leading to a deficit in the housing land supply. Homes, investment and the economic activity that they would have supported are postponed. The Governm",
+   "link": "https://hansard.parliament.uk/Commons/2026-11-23/debates/BDD8D499-56C9-40D7-B30E-DCF22EB27F7F/x#contribution-DC654126-755B-401A-BC8A-0A706A84873A"
+  },
+  {
+   "type": "hansard",
+   "house": "Lords",
+   "date": "2026-11-23",
+   "debate": "Health Bill",
+   "section": "Lords Chamber",
+   "speaker": "Lord Markham (Con)",
+   "memberId": 4948,
+   "topics": [
+    "Data protection and privacy",
+    "Cyber security and resilience"
+   ],
+   "text": "My Lords, I speak to Amendment 149, in my name. In principle, I am very supportive of the single patient record and the health benefits that I know it will bring, but the concern is that, with all this data, there is a heightened cyber security risk. Unfortunately, I had the misfortune when I was Health Minister to have to look after—if that is the right phrase—the cyber attacks that were made on the diagnostic companies in London at the time. I saw at first hand the massive disruption that had to lots of operations and hospital operations—it had real-world effects. As I looked into it, I realised that, although a number of health records had been stolen, these diagnostic companies never needed to have that data in the first place. They had the names of patients and the tests they were performing for them, and the results going back a number of years. The reality is they never needed to know that a patient was called, for example, Nick Markham—they could easily have been “patient number 1234”. I know it is standard procedure, having run diagnostic businesses myself, that you can anonymise the data and have it all through serial numbers; the idea being that if there is no valuable information owned or held by these companies in the first place, they are not a target to be attacked. To be fair to the company involved in this, it has subsequently been very helpful in reviewing this when I asked why it holds this data. It is often held so that it can be used for billing and to invoice the tests the company runs, and for various other uses as well. I must admit that, when I brought this up with the NHS at the time—this was in the dying days of the last Government—there was very little interest in reviewing the data held by all the different organisations and looking at how i",
+   "link": "https://hansard.parliament.uk/Lords/2026-11-23/debates/78FC9121-51E2-4807-B4F4-42BF1B8E994F/x#contribution-12301456-41B0-45DF-96D5-CD9AC738C3F4"
+  },
+  {
+   "type": "hansard",
+   "house": "Lords",
+   "date": "2026-11-23",
+   "debate": "Health Bill",
+   "section": "Lords Chamber",
+   "speaker": "Lord Weir of Ballyholme (DUP)",
+   "memberId": 4970,
+   "topics": [
+    "Data protection and privacy",
+    "Cyber security and resilience"
+   ],
+   "text": "My Lords, I want to tease out some issues relating to Amendments 135 and 148. In doing so, I fully acknowledge that there are many in this House who have a greater level of direct experience and particular expertise, so I am keen to tease out some of the issues and perhaps test out some related concerns. The SPR can be a very positive vehicle and a useful tool if we manage to get it right, although I agree with what the noble Baroness, Lady Finlay, said on the last group: that, in using it, we should not make the SPR some sort of panacea for all our problems. Nevertheless, if we get it right, it can be very positive. Amendments 135 and 148 deal with the issues of explicit consent on sensitive issues. This is one route to address the genuine concerns of a lot of patients who have seen in health issues and across a wide range of other issues that there have been data breaches and data leaks. They have seen malign actors hacking data or, indeed, circumstances in which individuals within the system, for whatever malign reason, seek to access information about an individual. Providing that level of assurance to people is important. In doing so, the emphasis should always be on the stronger case of trying to ensure that, rather than looking first at excluding data, we seek as much as possible to safeguard and secure data as the primary route. Also, there is clearly value in protecting privacy and confidentiality and in enshrining the issue of consent at the heart of the SPR. Those are all virtuous values that we need to put in place. However, we need to acknowledge that there is a tension between exclusion and ensuring that clinicians, when using the SPR, have the maximum amount of data available to them, because we know that the greater the level of clinical data that is ava",
+   "link": "https://hansard.parliament.uk/Lords/2026-11-23/debates/78FC9121-51E2-4807-B4F4-42BF1B8E994F/x#contribution-626C5C08-9AC5-41F9-9CA5-F35EBE2E53B8"
+  },
+  {
+   "type": "hansard",
+   "house": "Lords",
+   "date": "2026-11-23",
+   "debate": "Health Bill",
+   "section": "Lords Chamber",
+   "speaker": "Baroness Nargund (Lab)",
+   "memberId": 5439,
+   "topics": [
+    "Data protection and privacy",
+    "Digital competition and markets"
+   ],
+   "text": "My Lords, I would like to return to the topic of the day and speak to Amendment 279R, in the name of the noble Baroness, Lady Deech. I declare my interest as a member of the Human Fertilisation and Embryology Authority and someone who has previously led IVF in fertility units for more than three decades. But I am speaking in my personal capacity today, having written several academic papers and led an international scientific society to make IVF safer, less drug-intensive, and accessible globally. Our campaign for decades, that protecting the welfare and safety of the women undergoing treatment, must be placed at the heart of the Bill, alongside protecting the welfare and the safety of the child, so that clinics have a statutory duty to protect the health and safety of women undergoing treatment. As the noble Baroness, Lady Deech, said, the UK has been a pioneer in fertility treatment and its regulation. The HFEA has played an important role in maintaining public confidence and improving standards. The reduction in multiple births following IVF demonstrates what effective regulation can achieve. But now we face a patient safety problem because of a dramatically changed market, as the noble Baroness, Lady Owen, said. The burden of fertility treatment falls overwhelmingly on women, who undergo repeated investigations, invasive procedures, multiple ovarian stimulation injections, and ineffective or potentially harmful add-ons, alongside considerable emotional and financial pressures. However, the Bill remains silent on the protection of women. Further, the HFEA's regulatory powers, as the noble Baroness, Lady Owen, said, remain closely tied to licensed premises where IVF itself takes place and around embryos. This leaves huge regulatory gaps across the patient journey. In ",
+   "link": "https://hansard.parliament.uk/Lords/2026-11-23/debates/3A4BBA8B-4B72-4BDC-80A1-5A2DE6EF24BD/x#contribution-63CF01DF-FEC7-4DC6-B4D9-499F77495D24"
+  },
+  {
+   "type": "hansard",
+   "house": "Lords",
+   "date": "2026-11-23",
+   "debate": "Health Bill",
+   "section": "Lords Chamber",
+   "speaker": "Baroness Grey-Thompson (CB)",
+   "memberId": 3862,
+   "topics": [
+    "Data protection and privacy",
+    "Digital skills and education technology"
+   ],
+   "text": "My Lords, I speak to Amendment 126, which would enable a clear, consent-based route for referral or signposting to appropriate specialist, voluntary, community, and social enterprise organisations. For people with life-changing diagnoses, early contact with specialist charities can make a material difference to information, advocacy, peer support, practical help and continuity of care. I was talking earlier to an individual who had a spinal cord injury, and they said that, by their very nature, the first few months in hospital were very much a medical model of treatment and therefore inherently negative. Something like this amendment would be quite important in changing the way that people are treated and changing their experience to something far more positive. Diagnosis Connect is a practical example for those with spinal cord injuries—it connects people with specialist support at the point of diagnosis, rather than leaving them to find help alone. But privacy, data protection, informed consent and appropriate safeguards must be built in. This is not blanket data sharing or automatic disclosure to charities. I believe a digital record should support an effective pathway, not become a passive repository of clinical information. Referral must be accessible and equitable, including for patients who face digital exclusion or communication barriers. Finally, will the Minister confirm how the implementation of the Bill will enable safe, consent-led connections to accredited specialist support, and whether His Majesty's Government will work with the sector on practical delivery?",
+   "link": "https://hansard.parliament.uk/Lords/2026-11-23/debates/78FC9121-51E2-4807-B4F4-42BF1B8E994F/x#contribution-46ACB884-F208-491F-8412-6F16AE538593"
+  },
+  {
+   "type": "hansard",
+   "house": "Commons",
+   "date": "2026-11-23",
+   "debate": " Finance Bill",
+   "section": "Commons Chamber",
+   "speaker": "Shockat Adam",
+   "memberId": 5120,
+   "topics": [
+    "Digital competition and markets",
+    "Government digital, IT and procurement"
+   ],
+   "text": "I thank the hon. Gentleman for his intervention. I feel it more acutely because in Leicester, close to four in 10 children grow up in poverty; in my constituency, the rate is nearly double the national figure. Yet this Bill keeps the local housing allowance frozen. More than half of private renters who rely on it have faced food insecurity this year. Modelling by the Trussell Trust shows that linking the allowance back to real rents would lift 105,000 people out of severe hardship. Lifting the two-child cap was the last fight; this appears to be the next one. Who actually carries the burden? The bank surcharge came in at 3%, not at the expected 8%. There is no 2% wealth tax on assets over £10 million, which would raise around £24 billion. The Government have not delivered the digital services tax they promised and do nothing serious to stop multinationals offshoring their profits. Set that beside the families in my constituency choosing between the rent and the food shop—when the Government choose who carries the load, it should not be them. There are some good measures in the Bill for young people. Apprenticeship training for under-25s will be fully funded, and small firms can receive up to £8,000 for taking on young apprentices, which I welcome. However, the £100 million to expand mayoral apprenticeship brokerage goes, as we would expect, to mayoral areas. After months of graduates watching student loan repayments swallow their pay, the Bill is silent. There is nothing on the repayment threshold and nothing on the years before the debt is written off. A generation is being asked to pay a graduate tax for decades, and then told to save for a home. It is simply not possible. The Your First Home scheme lets a first-time buyer purchase with a 2.5% deposit and a 20% Govern",
+   "link": "https://hansard.parliament.uk/Commons/2026-11-23/debates/BDD8D499-56C9-40D7-B30E-DCF22EB27F7F/x#contribution-F1D6AF86-D79C-4830-BE2A-BB0F3C564F13"
+  },
+  {
+   "type": "hansard",
+   "house": "Lords",
+   "date": "2026-11-23",
+   "debate": "Health Bill",
+   "section": "Lords Chamber",
+   "speaker": "Baroness Pidgeon (LD)",
+   "memberId": 5366,
+   "topics": [
+    "Data protection and privacy",
+    "Digital competition and markets"
+   ],
+   "text": "My Lords, I rise with some trepidation to speak in this group, where we have heard from great experts, including my noble friend Lord Clement-Jones, who raised serious issues around clear boundaries here, while the noble Lord, Lord Tarassenko, has just given that example regarding interoperability, which is astonishing. I have three simple amendments in this group. Amendment 124, to which the noble Baroness, Lady Finlay, has added her name, would allow the single patient record to be available to all palliative and end-of-life care providers. When someone is in the last few months or year of their life, their wishes around key end-of-life decisions need to be clearly visible for practitioners to see. Given the nature of our current system, there may be many providers of services, and those decisions need to be respected; otherwise, there can be unnecessary and unwanted treatments and avoidable hospitalisations. So it is important that providers of palliative and end-of-life care have access to patient information and the single patient record. Amendments 129 and 139 would ensure that optometrists had access to the single patient record. Optometrists can often be the first clinicians to identify signs of serious conditions so having access to the right information, including diagnoses, medications and recent clinical interventions would enable them to make better decisions, avoid duplication and provide more co-ordinated care. Providing appropriate access to single patient records, subject to robust safeguards, for the right clinicians, would support earlier diagnosis, faster intervention and a seamless patient experience, which is what this is all about. The description by the noble Lord, Lord Markham, of data minimisation makes sense, so I hope the Government will pick",
+   "link": "https://hansard.parliament.uk/Lords/2026-11-23/debates/78FC9121-51E2-4807-B4F4-42BF1B8E994F/x#contribution-79461169-4594-490F-BC98-55C9D2FF52CE"
+  },
+  {
+   "type": "hansard",
+   "house": "Commons",
+   "date": "2026-11-23",
+   "debate": "Draft Consumer Subscription Contracts (Cancellation and Information) Regulations 2026  \r\n\r\nDraft Digital Markets, Competition  and Consumers Act 2024 (Subscription Contracts) (Consequential Amendments) Regulations 2026",
+   "section": "General Committees",
+   "speaker": "Sarah Edwards",
+   "memberId": 5001,
+   "topics": [
+    "Microsoft and its businesses",
+    "Digital competition and markets"
+   ],
+   "text": "I thank the right hon. Member for his point. Small businesses can really struggle sometimes where there is complexity, so I hope the guidance will reflect that. I am sure the Minister has put a lot of work into making sure it is something our small and medium-sized enterprises, which contribute so much to the economy, are able to do so that they can grow and become much larger contributors. My one concern is whether our regulators have the powers, resources and capacity to enforce the protections effectively. Introducing legislation is only half the battle. The Government must ensure that the businesses that breach such consumer laws are held accountable, and that bodies such as trading standards and the Competition and Markets Authority have the tools they need to take meaningful action. Consumers deserve not only protections on paper, but the confidence that those protections will be enforced in practice. Ultimately, people should not need to navigate pages of jargon or jump through hoops just to get a fair deal. They deserve transparency and the choice and freedom to walk away. This legislation is an important step towards that. I hope it will be backed by that continued action; I hope the Minister will be able to continue the progress that she is already making and will have further announcements, particularly on additional support for trading standards, for example, which we know has been quite reduced. I would also like to echo the point made by the hon. Member for Bromsgrove on food delivery companies. At the recent roundtables on the Business and Trade Select Committee, there was a real issue and a nuance needed in the guidance to do with this issue. Once it has been dispatched, food cannot be recalled. It would be worth a further look at whether more can be don",
+   "link": "https://hansard.parliament.uk/Commons/2026-11-23/debates/618bb9cb-02fc-4e0f-b277-f9fb37baf74f/x#contribution-485B57D9-EA48-4F71-8D1C-F6478FA99F96"
+  },
+  {
+   "type": "hansard",
+   "house": "Commons",
+   "date": "2026-11-23",
+   "debate": " Finance Bill",
+   "section": "Commons Chamber",
+   "speaker": "Dame Meg Hillier (Hackney South and Shoreditch) (Lab/Co-op)",
+   "memberId": 1524,
+   "topics": [
+    "Other technology and AI companies"
+   ],
+   "text": "One thing on which I agree with the Opposition spokesperson, the hon. Member for West Worcestershire (Dame Harriett Baldwin), is that this is a very large Bill—I counted 469 pages, so we may need to recount. We already have a very complicated tax system, and Budgets from different Governments over the years have made little changes here and there, making it difficult for many businesses and individuals to navigate. The Office of Tax Simplification was retired under one of the previous Conservative Chancellors from the last Government; that is something we perhaps need to reconsider. Does the Minister disagree with Helen Miller, who gave evidence to the Treasury Committee after the Budget? She said: “We have a tax system that is a mess”— she does not mince her words— “It is far more complex than it should be. And that is because, Budget after Budget, chancellors make seemingly small tweaks that lack principle and don't systematically move us to a better place. This approach gives us more complexity and more instability. Both have real economic costs.” Does the Minister acknowledge this complexity? I know that he thinks deeply about taxes and is clear about his plans for taxes when he comes to the Committee. Of course, he chairs the HMRC board, so he has a direct hand in how our tax system works. Does the Treasury acknowledge the economic complexity the system may create? Is there any analysis of the long-term impact when these proposals are put into a Budget? I appreciate that any Government must deal with the here and now. We are in a cost of living crisis. There is the war in Iran, and the ongoing war in Ukraine—huge challenges not just for our country but for the world. We still have instability in the White House, which is causing challenges. However, we need to thin",
+   "link": "https://hansard.parliament.uk/Commons/2026-11-23/debates/BDD8D499-56C9-40D7-B30E-DCF22EB27F7F/x#contribution-AF7715E6-9541-4C97-BBE6-A479710BB4A1"
+  },
+  {
+   "type": "hansard",
+   "house": "Lords",
+   "date": "2026-11-23",
+   "debate": "Health Bill",
+   "section": "Lords Chamber",
+   "speaker": "Lord Hunt of Kings Heath (Lab)",
+   "memberId": 2024,
+   "topics": [
+    "Other technology and AI companies"
+   ],
+   "text": "My Lords, that was a very interesting introduction to personalised care by the noble Baroness, Lady Campbell, and the noble Lord, Lord Lansley. I want to come back to the amendments tabled by my noble friend. I have Amendment 198 and have added my name to a number of others, which have become superfluous in the light of my noble friend's very welcome amendments. I agree with her that we will see a strengthened Healthwatch, both nationally and locally, which is to be welcomed. I particularly like the quality framework backed up by statutory guidance; it is something that my noble friend Lord Harris proposed for community health councils probably 25 to 30 years ago, and I wish that it had been adopted at the time. This is very welcome, but there are a number of points I would like to clarify with my noble friend the Minister. First, given the uncertainty that local Healthwatch organisations have been under—some are really struggling to continue—will the Government advise local authorities very quickly that they have an immediate responsibility to ensure the continuity of current arrangements? We have lost a lot of people in the last 18 months, and it is important that more people do not leave Healthwatch. Secondly, will national Healthwatch or the Minister's department be responsible for monitoring the implementation of the national quality framework? If it is national Healthwatch, what levers will it have to ensure good performance? In other words, if a local Healthwatch is deemed to be failing or the local authority is simply not giving it sufficient support, are there any levers that can be employed to do something about it? There are questions about whether national Healthwatch has the leadership, capability and capacity to discharge these new responsibilities, and ab",
+   "link": "https://hansard.parliament.uk/Lords/2026-11-23/debates/3A4BBA8B-4B72-4BDC-80A1-5A2DE6EF24BD/x#contribution-CBF509A7-6658-4D88-A04F-23D7F402F761"
+  },
+  {
+   "type": "hansard",
+   "house": "Commons",
+   "date": "2026-11-23",
+   "debate": "UK-EU Summit",
+   "section": "Commons Chamber",
+   "speaker": "Callum Anderson (Buckingham and Bletchley) (Lab)",
+   "memberId": 5193,
+   "topics": [
+    "Artificial intelligence"
+   ],
+   "text": "The Prime Minister will know that the UK is the world's third-largest market for artificial intelligence, and is a leader in quantum and other emerging technologies, too. It is clearly in our national interest to deepen our partnership with the EU in this area. Can he provide any update on how the UK intends to use the EU-UK digital partnership to consolidate our position as a leading destination for technology investment and AI adoption?",
+   "link": "https://hansard.parliament.uk/Commons/2026-11-23/debates/3F3236A5-D1ED-4FD0-8678-B7950D74FD7B/x#contribution-FC0416CA-120F-486B-9E0B-A41097530033"
+  },
+  {
+   "type": "hansard",
+   "house": "Lords",
+   "date": "2026-11-23",
+   "debate": "Health Bill",
+   "section": "Lords Chamber",
+   "speaker": "Baroness Harding of Winscombe (Con)",
+   "memberId": 4324,
+   "topics": [
+    "Artificial intelligence"
+   ],
+   "text": "My Lords, I will speak to three amendments which, if noble Lords will forgive me, I think are all linked to the future of the MHRA. This is a very broad group, and my amendments are all about technology. I have added my name to Amendment 172D, in the name of the noble Lord, Lord Tarassenko, but I want to link it to Amendment 279QV in the name of the noble Baroness, Lady Kidron, because Amendment 279QV will not really be able to happen unless the recommendations of the National Commission into the Regulation of AI in Healthcare actually happen. The two, therefore, are very linked. I am pleased to say that I was the commissioner of the Covid testing AI app that the noble Lord developed. We should all be incredibly grateful to the MHRA for the way it acted so flexibly during the pandemic. However, we really want to have much more stable and permanent regulatory guardrails for this future technology, so implementing these recommendations is really important. It is tempting to think it is just about going down a list of actions and ticking them off, but this is really complex work because AI products are not the same as other medical devices. AI in healthcare is going to evolve once it is out of the lab and in the healthcare system. The MHRA, therefore, cannot just approve something or not approve it; we are going to need a different approach to regulating. As the commission itself said, it needs to be both “more proportionate” and “lifecycle-based”, it has to follow the AI out into the real world and it needs to involve the whole system, not just the “manufacturer”. It is going to be about how clinicians use the tech, just as much as how it is developed. This is a long-winded way of saying that it is complex work. I am really worried that when I read the actions the Governm",
+   "link": "https://hansard.parliament.uk/Lords/2026-11-23/debates/78FC9121-51E2-4807-B4F4-42BF1B8E994F/x#contribution-6EC1AD89-B0C8-45A5-8673-C53EA35AA2A0"
+  },
+  {
+   "type": "hansard",
+   "house": "Lords",
+   "date": "2026-11-23",
+   "debate": "Health Bill",
+   "section": "Lords Chamber",
+   "speaker": "Lord Tarassenko (CB)",
+   "memberId": 5027,
+   "topics": [
+    "Artificial intelligence"
+   ],
+   "text": "My Lords, I will speak to Amendment 172D in my name, to which the noble Baroness, Lady Harding of Winscombe, and the noble Lord, Lord Clement-Jones, have added their names. It concerns AI regulation. I declare my interests as senior adviser to the Alan Turing Institute, director of LIO Health, and the holder of an honorary contract with Oxford University Hospitals NHS Foundation Trust. When an AI algorithm has a medical purpose, such as diagnosing, monitoring or guiding treatment, it is regulated as a medical device under the UK Medical Devices Regulations 2002, and the regulator is the MHRA. So how quickly AI can be safely adopted in the NHS depends largely on MHRA and regulations written more than 20 years ago.",
+   "link": "https://hansard.parliament.uk/Lords/2026-11-23/debates/78FC9121-51E2-4807-B4F4-42BF1B8E994F/x#contribution-97EBFAF7-FDE1-44DC-B94A-D2ABFCE9A7A6"
+  },
+  {
+   "type": "hansard",
+   "house": "Lords",
+   "date": "2026-11-23",
+   "debate": "Health Bill",
+   "section": "Lords Chamber",
+   "speaker": "Baroness Shawcross-Wolfson (Con)",
+   "memberId": 5406,
+   "topics": [
+    "Artificial intelligence"
+   ],
+   "text": "My Lords, I will speak briefly in support of Amendment 203 in the name of the noble Baroness, Lady Ritchie of Downpatrick. This is an eminently sensible proposal to enable the MHRA to consider reclassifying suitable self-injectable medicines from prescription only to pharmacy status where it deems it appropriate to do so. As other noble Lords have said, there are two key principles at play here. The first is the need to modernise the law to reflect changes in technology, an issue we have discussed in an earlier group of amendments and that my noble friend Lady Harding set out very clearly. Injectables used to mean conventional syringes and needles; now they frequently come in the form of a pen that can be safely used by patients themselves. As technology has changed, the products and the risks have changed. Regulations should change too, from blanket prohibition to case-by-case consideration. The second principle here is the need to remove unnecessary barriers to healthcare for patients, both to improve their experience and to create a more efficient NHS. As the noble Baroness, Lady Gerada, set out, this is incredibly important across the NHS. When I was in government, I had the privilege to work on the introduction of Pharmacy First, and I am delighted that the Government have continued to support this programme. The policy is simple: where a patient can safely get treatment from a pharmacist, we should make that possible. The same principle applies here: where a treatment can safely be given over the counter, we should make that possible. The amendment is modest; it merely asks Parliament to remove a blanket prohibition and allow an expert regulator to make a considered decision on the evidence. I hope the Minister will be able to support it. I also support the questi",
+   "link": "https://hansard.parliament.uk/Lords/2026-11-23/debates/78FC9121-51E2-4807-B4F4-42BF1B8E994F/x#contribution-B2BA3BE5-64E2-460B-9DEA-F0441F8A07C7"
+  },
+  {
+   "type": "hansard",
+   "house": "Lords",
+   "date": "2026-11-23",
+   "debate": "Health Bill",
+   "section": "Lords Chamber",
+   "speaker": "Baroness Tyler of Enfield (LD)",
+   "memberId": 4231,
+   "topics": [
+    "Artificial intelligence"
+   ],
+   "text": "My Lords, I will speak briefly to signal my strong support for Amendment 279QV in the name of the noble Baroness, Lady Kidron. I am sorry that I did not manage to add my name to the amendment. The noble Baroness set out the case very comprehensively and very well, so I do not feel the need to add to it. It is safe to say that it is a statement of the obvious, at least to me, that you need to have a human being involved in anything to do with the therapeutic relationship. It worries me greatly to think that AI chatbots are being used in an unregulated way in this space, particularly in relation to vulnerable children and young people.",
+   "link": "https://hansard.parliament.uk/Lords/2026-11-23/debates/78FC9121-51E2-4807-B4F4-42BF1B8E994F/x#contribution-4E08A5A8-ACE3-481A-BF40-8BC3D2B500BC"
+  },
+  {
+   "type": "hansard",
+   "house": "Lords",
+   "date": "2026-11-23",
+   "debate": "Health Bill",
+   "section": "Lords Chamber",
+   "speaker": "Baroness Finlay of Llandaff (CB)",
+   "memberId": 3609,
+   "topics": [
+    "Artificial intelligence"
+   ],
+   "text": "My Lords, I am most grateful to all who have spoken in this debate and to the Minister for her remarks at the end. My concerns are that the MHRA needs to be moving very fast because AI is moving incredibly fast, and therefore the dangers highlighted in this debate are all there today, and there certainly will be more tomorrow. I will not go through all the different items—so much has been said in this debate—but I want to challenge on the hospice supply of medicine. If we are going to have equity of ability of patients to have symptom relief across this country, we should not be dependent on people running marathons, doing cake sales, and children doing fundraising in schools in order to pay for morphine, diamorphine, cyclizine and so on, which are absolute basics for symptom control. I dispute the view that it would upset any equity. There is equity for everybody else, apart from hospice in-patients. I will be coming back to this on Report, because I am really worried about it. In the meantime, I beg leave to withdraw the amendment.",
+   "link": "https://hansard.parliament.uk/Lords/2026-11-23/debates/78FC9121-51E2-4807-B4F4-42BF1B8E994F/x#contribution-3D105859-09CA-4951-BAA5-E44E1DEFF237"
+  },
+  {
+   "type": "hansard",
+   "house": "Lords",
+   "date": "2026-11-23",
+   "debate": "Health Bill",
+   "section": "Lords Chamber",
+   "speaker": "Lord Crisp (CB)",
+   "memberId": 3783,
+   "topics": [
+    "Artificial intelligence"
+   ],
+   "text": "My Lords, I will speak to my Amendment 266, but before doing that, let me say how much I support my noble friend's amendment and the way that she has just described it. The analogy that is made is that this is another healthcare product and treatment, and it should be treated in the same way as other healthcare treatments, with safety a priority in that. That seems a fundamental issue here. I also very much like the point about how that may influence how AI is adopted in other areas of our country. I turn to my Amendment 266, which is headed “Discussion of potential harms before prescribing antidepressants”. It basically says that a discussion would be required between the clinician and the patient of foreseeable benefits and foreseeable risks before prescribing, and it should be documented that it has happened.",
+   "link": "https://hansard.parliament.uk/Lords/2026-11-23/debates/78FC9121-51E2-4807-B4F4-42BF1B8E994F/x#contribution-4BEA8FF6-2A81-4A79-A0D6-C7B4B534A90F"
+  },
+  {
+   "type": "hansard",
+   "house": "Lords",
+   "date": "2026-11-23",
+   "debate": "Health Bill",
+   "section": "Lords Chamber",
+   "speaker": "Baroness Campbell of Surbiton (CB) [R]",
+   "memberId": 3831,
+   "topics": [
+    "Artificial intelligence"
+   ],
+   "text": "My Lords, I will now use my AI voice to speak in this group. It is the first time that I have used it remotely, so fingers crossed. I have added my name to Amendment 178 in the name of the noble Lord, Lord Lansley. It would strengthen the rights of people who rely on integrated health and social care to live at home with greater choice and control over their day-to-day lives. This matters enormously to people with complex needs who are currently having to navigate two separate systems, two sets of commissioners and often conflicting decisions as to how their care should be delivered. A personalised, integrated approach would reduce bureaucracy, improve co-ordination and, most importantly, give people a genuine say in how their needs are met. It is the central plank of the NHS plan and a potential blueprint for a national care service. Personal health budgets—PHBs—are one of the most important tools we have for delivering this vision. Since their inception in 2012, they have supported thousands of disabled people with high support needs to live independently and thrive. They enable individuals to shape support around their lives, rather than having to shape their lives around services commissioned by the NHS, but there is a growing gap between the promise of PHBs and the current reality of their delivery. The recent experience of Ravi Mehta, highlighted on “Channel 4 News”, illustrates this only too painfully. Ravi, now 37, has Duchenne muscular dystrophy and lived independently at home for 15 years, using a PHB to employ his own personal assistants. This tailored support provided the continuity of care necessary for a full and active life. After a routine hospital admission for what was intended to be a three-day ventilator check, his care package was withdrawn. More th",
+   "link": "https://hansard.parliament.uk/Lords/2026-11-23/debates/3A4BBA8B-4B72-4BDC-80A1-5A2DE6EF24BD/x#contribution-705125D9-8957-4DB7-B792-3601328C466D"
+  },
+  {
+   "type": "hansard",
+   "house": "Lords",
+   "date": "2026-11-23",
+   "debate": "Health Bill",
+   "section": "Lords Chamber",
+   "speaker": "Baroness Neville-Rolfe (Con)",
+   "memberId": 4284,
+   "topics": [
+    "Artificial intelligence"
+   ],
+   "text": "My Lords, things have moved on in this area with the government decision not to wind up Healthwatch and its local counterparts. It is therefore even more important that Healthwatch represents good value for money. I will speak to the relevant amendments in this large group. I am conscious that I am not a health expert, unlike most of those contributing. However, in my time I have dealt with pharmacies and over-the-counter medicines and the Citizen's Charter for health. More recently, I tried, from the Cabinet Office, to get new hospitals built on time; I was glad to hear of the progress on that programme since. All of this has given me an insight into NHS culture. Last year, Healthwatch had a budget of £3 million and 36 staff, none dedicated to safety matters. The 153 local Healthwatch organisations cost some £25 million and had some 570 full-time equivalent staff. To this must be added the uncosted time and effort spent by the NHS dealing with Healthwatch complaints and proposals, diverting health services from other priorities, some of which may be very important. Since Healthwatch's inception in 2013, we have continued to see bad things happening in the NHS, notably on maternity care. This was well set out in the Ockenden review relating to Shrewsbury and Telford, but there have also been problems at Morecambe Bay and East Kent, and indeed elsewhere, as I know from family experience. A good question is: where was Healthwatch on these occasions? It was established to give patients a voice, but what mechanism ensured that repeated warnings from patients—and indeed their doctors, as we heard on an earlier group of amendments—were translated into action by NHS management and regulations? How can we be sure that that will be effective in future? That brings me on to why I",
+   "link": "https://hansard.parliament.uk/Lords/2026-11-23/debates/3A4BBA8B-4B72-4BDC-80A1-5A2DE6EF24BD/x#contribution-E5BD12C2-8BA3-43A2-9D79-84619D6D0FB6"
+  },
+  {
+   "type": "hansard",
+   "house": "Commons",
+   "date": "2026-11-23",
+   "debate": " Finance Bill",
+   "section": "Commons Chamber",
+   "speaker": "Calum Miller",
+   "memberId": 5346,
+   "topics": [
+    "Cloud, data centres and compute"
+   ],
+   "text": "I thank the right hon. Gentleman for his question. I do not wish to delay the House too much on detailed matters, but I believe it was classified as use class B8, which relates to warehouses; because there is some confusion as to how a data centre should be classified, it is treated as a warehouse for data, and there is therefore no need to apply for a change of use. Residents in my constituency did not become aware of the fact that this large warehouse, which had been consented in 2023, would be converted to house a data centre, with the consequent impact on electricity demand, until a small landscaping condition was applied for. Through that measure, local residents became aware that the purpose and use of the land was to be radically changed. The Budget includes an allocation of £150 million towards the cost of large asylum centres. One is proposed in my constituency at MOD Bicester, as hon. Members may have heard me speak about. The cost is likely to exceed £270 million, however, simply to set up a centre on that one site that has never had accommodation and has no potable or sewage water or electricity connections. The Government's approach to MOD Bicester raises basic questions about the stewardship of public money. Ministers justify large asylum accommodation sites by claiming savings against hotels, but Parliament needs to and should see the full development, operating and local service costs to assess that claim. Any comparison must include the costs of remediation, utilities, transport, security and displaced defence activity alongside clear assumptions about occupancy and the operating period. Ministers should publish a transparent comparison with alternatives before making further financial commitments. The Chancellor made devolution deals a centrepiece of h",
+   "link": "https://hansard.parliament.uk/Commons/2026-11-23/debates/BDD8D499-56C9-40D7-B30E-DCF22EB27F7F/x#contribution-F3F3F320-D622-40D8-8334-0A2768E264C1"
+  },
+  {
+   "type": "hansard",
+   "house": "Commons",
+   "date": "2026-11-23",
+   "debate": " Finance Bill",
+   "section": "Commons Chamber",
+   "speaker": "Jeremy Corbyn (Islington North) (Your Party)",
+   "memberId": 185,
+   "topics": [
+    "Cloud, data centres and compute"
+   ],
+   "text": "The hon. Gentleman makes an important point about data centres ending up in warehouses. Can he tell the House whether that was done through the loophole of permitted development, which avoids any local scrutiny of planning applications?",
+   "link": "https://hansard.parliament.uk/Commons/2026-11-23/debates/BDD8D499-56C9-40D7-B30E-DCF22EB27F7F/x#contribution-1130B9B6-1E73-44DC-9F74-6B47F57A6736"
+  },
+  {
+   "type": "hansard",
+   "house": "Lords",
+   "date": "2026-11-23",
+   "debate": "Health Bill",
+   "section": "Lords Chamber",
+   "speaker": "Lord McColl of Dulwich (Con)",
+   "memberId": 1892,
+   "topics": [
+    "Data protection and privacy"
+   ],
+   "text": "My Lords, I will speak to Amendment 141, to which my noble friend Lord Prior has given his support. It is a simple one, about the single patient record and who can be on it. It merely states that providers of care, including digital and non-NHS, can participate in the single patient record. This is firstly a matter of patient safety and continuity of care. An increasing number of people in the NHS are accessing medications and treatments outside the traditional pathways: online, through pharmacies, and independent of the NHS. A report by the HSSIB earlier this year drew attention to the practice of online prescriptions, which it found to be lacking: the information was rather confusing and it was being shared with the NHS and independent prescribers. That creates a risk. The finding is simple but profound. Having incomplete histories of patients inevitably leads to poor healthcare on either side of the public sector. A single patient record must contain every single medication and treatment, including those that derive from digital providers. Otherwise, the principle of the clause is completely undermined, as is patient safety and the doctor's ability to choose the best course of action. This in no way means unrestricted access. Secondary legislation will work out the appropriate safeguards. This will be limited to genuine care purposes, with suitable data protection requirements. The principle is clear: good-quality care and medication should not be excluded because they lie beyond the traditional means. Pharmacies in particular will benefit from having access to the record. In my professional life, I have seen nothing but excellence and diligence from pharmacies, be they in hospital or outside, and their ability to provide immediate, high-quality care to patients. Thi",
+   "link": "https://hansard.parliament.uk/Lords/2026-11-23/debates/78FC9121-51E2-4807-B4F4-42BF1B8E994F/x#contribution-8951551D-A699-42E1-B67F-F8512D71BDDE"
+  },
+  {
+   "type": "hansard",
+   "house": "Lords",
+   "date": "2026-11-23",
+   "debate": "Health Bill",
+   "section": "Lords Chamber",
+   "speaker": "Baroness Merron (Lab)",
+   "memberId": 347,
+   "topics": [
+    "Online safety and social media"
+   ],
+   "text": "I can probably be more helpful on the second point than on the first at this stage. I cannot directly answer the questions raised by noble Lords about publication, but I can undertake to keep noble Lords updated on where we are with the review and the expectations that will follow its completion by Mr Lock. On Amendments 272 and 279R, we recognise that fertility treatment, as has been spoken of in this debate, has changed significantly since the Act was first introduced in 1990. That was highlighted by a number of noble Lords, including the noble Baronesses, Lady Deech, Lady Owen, Lady Pidgeon and Lady Shawcross-Wolfson. The HFEA has emphasised that the regulatory framework should reflect changes in how patients access information and treatment decisions, including with regard to the growth of online platforms, which could not have been considered way back in 1990, as we know. The amendments would make extensive and complex changes to the existing framework. It is our view—I know noble Lords will understand this—that changes of this scale require careful consideration of their legal and operational implications, alongside appropriate consultation and scrutiny. As I have said to noble Lords in many ways—so please forgive me for trying what is not really a different way—I can confirm that the Government are considering legislative options for reform in what is a very complex area and for when parliamentary time allows. I am sure we all agree that any future reform has to support patient safety and reflect societal change. The noble Baroness, Lady Gerada, made a good point about how the regulatory regime needs to reflect technological change as well as the market.",
+   "link": "https://hansard.parliament.uk/Lords/2026-11-23/debates/3A4BBA8B-4B72-4BDC-80A1-5A2DE6EF24BD/x#contribution-ACA10BB9-5C41-4E60-9720-A04E4A864B2E"
+  },
+  {
+   "type": "hansard",
+   "house": "Commons",
+   "date": "2026-11-23",
+   "debate": " Bereavement Support Payment",
+   "section": "Westminster Hall",
+   "speaker": "Irene Campbell",
+   "memberId": 5145,
+   "topics": [
+    "Online safety and social media"
+   ],
+   "text": "I thank the hon. Member for that point and I look forward to hearing the Minister's response to it. Under the previous system, bereavement payment and widowed parent's allowance were uprated annually with inflation, as was laid out in the Social Security Administration Act 1992. Most benefits are uprated every year to stay in line with inflation, but some, such as bereavement support payment and some extra cost disability benefits, are at the discretion of the Secretary of State for Work and Pensions. If the rates for bereavement support payment had been increased in line with the consumer price index, the lump sum payments are estimated to be £4,822 for those with dependent children and £3,445 for those on the standard rate. The petition was started by Caroline Booth, who is in the Public Gallery. Caroline took the time to meet me and tell her story. Caroline was married to her husband, Steve, for 25 years. She left her job to care for him and returned to work only two days after he died. She was widowed with two sons to care for, and she found out about bereavement support payment from the funeral director, but there is nothing mandatory in place to ensure that bereaved people get that information. Surely, that must be a matter for consideration. Since then, Caroline set up the campaign team called Widow's Fight. With that team, she has worked tirelessly on her campaign, gaining more than 100,000 signatures to this petition and the support of UK charities and many MPs, as well as growing a large social media following.",
+   "link": "https://hansard.parliament.uk/Commons/2026-11-23/debates/C8C8E81B-968B-4B83-A72F-3A02DB5FEE50/x#contribution-AB5E1C8C-9DE3-45C9-B932-9D8CF53F87B9"
+  },
+  {
+   "type": "hansard",
+   "house": "Lords",
+   "date": "2026-11-23",
+   "debate": "State Pension:  Impact of Ending the Triple Lock",
+   "section": "Lords Chamber",
+   "speaker": "Baroness Sherlock (Lab)",
+   "memberId": 4147,
+   "topics": [
+    "Online safety and social media"
+   ],
+   "text": "The noble Baroness made a number of points. To be clear, the same percentage increase will apply both to those on the basic state pension and to those on the new state pension. That is the same percentage increase applied to the main rates of the state pension as now. Of course, the triple lock does not apply to additional elements. The basic state pension pensions are different: they had an earlier retirement age, and many of them contracted out and have additional pensions. Their circumstances are different. However, the noble Baroness is absolutely right that pension credit is the key to this. When the Labour Government introduced pension credit in the early 2000s, pensioner poverty after housing costs was around 25%. It has now come down to 14% and is projected to come down still further. It is not currently possible to do what the noble Baroness described with data matching because we do not hold enough data. We have just run the biggest-ever campaign to take up pension credit, with all kinds of advertising on social media, television and radio, and a big link-up with ITV's “The Chase”, which I am sure most noble Lords have noticed.",
+   "link": "https://hansard.parliament.uk/Lords/2026-11-23/debates/D1C83146-16E5-4578-A662-3A14E32D8FB9/x#contribution-58DD0516-C4BC-41ED-905F-D7569ED2D9AC"
+  },
+  {
+   "type": "hansard",
+   "house": "Lords",
+   "date": "2026-11-23",
+   "debate": "Health Bill",
+   "section": "Lords Chamber",
+   "speaker": "Lord Scriven (LD)",
+   "memberId": 4333,
+   "topics": [
+    "Data protection and privacy"
+   ],
+   "text": "My Lords, Amendment 222 in my name asks one question: is a young boy in England protected by the same basic safeguards as we expect of any other surgical procedure performed on a child? At present, for non-therapeutic male circumcision, he is not. I am grateful to the noble Lord, Lord Birt, for adding his name to this amendment. Let me be clear about what this amendment does not do. It does not ban non-therapeutic male circumcision. It asks that, when a blade is taken to a child, the person holding it is qualified, the setting is safe and someone is accountable when things go wrong. That is a safeguarding principle, and safeguarding does not stop at the door of any one community. Under the law as it stands, anyone can legally circumcise a boy in this country with no medical training and no proven expertise. There is no minimum age to become a circumciser and no requirement to use an anaesthetic. A doctor struck off for dangerous circumcision can carry on circumcising boys as a lay person. Losing their licence removes the oversight, not the practice. The consequences are not theoretical. At least five boys have died after circumcision in recent years from haemorrhaging or sepsis, and in the four most recent cases, the person who performed the procedure had no qualifications to perform surgery. More boys in this country are now dying from circumcision than girls from female genital mutilation, a practice this House rightly treats as a matter of child protection. In February 2023, six month-old Mohamed Abdisamad was circumcised in west London by a circumciser recommended to his parents. A week later, he suffered cardiorespiratory arrest in an ambulance on the way to the hospital and died from an infection following the procedure. The coroner found no requirement for traini",
+   "link": "https://hansard.parliament.uk/Lords/2026-11-23/debates/3A4BBA8B-4B72-4BDC-80A1-5A2DE6EF24BD/x#contribution-E863BC86-72E3-4037-AAAA-79AE6744E294"
+  },
+  {
+   "type": "hansard",
+   "house": "Lords",
+   "date": "2026-11-23",
+   "debate": "Health Bill",
+   "section": "Lords Chamber",
+   "speaker": "Lord Clement-Jones (LD)",
+   "memberId": 3396,
+   "topics": [
+    "Data protection and privacy"
+   ],
+   "text": "On the assumption that the Whips are not getting up at this time, since we are not quite there, I will speak to my Amendments 132, 145 and 146, which deal with the question of how the SPR protects sensitive and confidential clinical information, how patients can audit and challenge unauthorised access, and how Parliament scrutinises the regulations that will govern it. The events reported in the Guardian on Friday and the investigation since opened by the Information Commissioner's Office should be an urgent wake-up call to the Government as regards the SPR. A patient receiving psychotherapy at South London and Maudsley NHS Foundation Trust discovered, by chance, while looking at her GP's screen, that detailed, deeply personal notes from her therapy sessions had been uploaded to the London Care Record, a system accessible to more than 100,000 NHS staff across London, including staff outside the trust treating her. When she discovered this, she felt forced to withdraw from mental health treatment during a family bereavement. In her letter of 22 November, the Minister stated that “there is no intention to simply make available widely the most sensitive information”, and notes that clinicians will be able to restrict access just as they do now. Yet the London Care Record case exposes the flaw in relying on administrative guidance and ministerial intention rather than binding statutory safeguards. First, when the South London and Maudsley and the London Care Record were challenged, neither was able to confirm whether all accesses were legitimate. We understand that the ICO has had to establish who is even acting as data controller, while downstream environments such as OneLondon have drawn data collected for direct care into secondary-use platforms. Secondly, we are told in",
+   "link": "https://hansard.parliament.uk/Lords/2026-11-23/debates/78FC9121-51E2-4807-B4F4-42BF1B8E994F/x#contribution-DF8EDAFD-643B-4A5C-AB6D-897F5D0E8867"
+  },
+  {
+   "type": "hansard",
+   "house": "Commons",
+   "date": "2026-11-23",
+   "debate": "Draft Consumer Subscription Contracts (Cancellation and Information) Regulations 2026  \r\n\r\nDraft Digital Markets, Competition  and Consumers Act 2024 (Subscription Contracts) (Consequential Amendments) Regulations 2026",
+   "section": "General Committees",
+   "speaker": "Kate Dearden",
+   "memberId": 5224,
+   "topics": [
+    "Digital competition and markets"
+   ],
+   "text": "I thank the right hon. Member for his intervention and for his remarks throughout the debate. We have taken account of industry feedback across the consumer protection landscape, consulting on various things, such as dispatch dates particularly for perishable goods, and with different industries and businesses. I reiterate what I said at the start: our primary objective with this legislation is to protect consumers from unwanted recurring payments. That applies across sectors and is an important part of the approach. I mentioned those millions of subscriptions in perishable goods in particular; to have a particular carve-out would not result in the intention of this legislation, which is to protect consumers from that. However, I thank him and I note his remarks. I mentioned the industry feedback and the consultations. I have met with perishable goods businesses recently to hear directly from them; as always, we continue to review the impacts of the legislation closely in the run-up to 2030, and we will be reviewing this legislation. To reiterate, subscription should be a choice and not a trap; I am really glad to have that support from colleagues in the Committee today. It is a significant cost—£2.1 billion per year—on unwanted subscriptions, and this is a really important bit of legislation that we are acting on today. I am glad to have the support of colleagues. I know they will all have heard from constituents up and down the country, who will be welcoming this legislation and who have been really frustrated with the situations they find themselves in. On that note, I commend the regulations to the House and thank everyone for their contributions. Question put and agreed to. DRAFT DIGITAL MARKETS, COMPETITION AND CONSUMERS ACT 2024 (SUBSCRIPTION CONTRACTS) (CONSEQUE",
+   "link": "https://hansard.parliament.uk/Commons/2026-11-23/debates/618bb9cb-02fc-4e0f-b277-f9fb37baf74f/x#contribution-B65BD00C-4B64-4714-9DEB-5F31DF15514F"
+  },
+  {
+   "type": "hansard",
+   "house": "Commons",
+   "date": "2026-11-23",
+   "debate": "Draft Consumer Subscription Contracts (Cancellation and Information) Regulations 2026  \r\n\r\nDraft Digital Markets, Competition  and Consumers Act 2024 (Subscription Contracts) (Consequential Amendments) Regulations 2026",
+   "section": "General Committees",
+   "speaker": "Kate Dearden",
+   "memberId": 5224,
+   "topics": [
+    "Digital competition and markets"
+   ],
+   "text": "I thank hon. Members for their interventions and remarks on this legislation today. I am pleased to have the support of Opposition Members on this important legislation. Colleagues have outlined why it is necessary. My hon. Friend the Member for Tamworth mentioned transparency, choice and freedom, which are key. Colleagues mentioned the commencement period starting from January. As I mentioned in my speech, we want consumers to benefit from the protections as soon as possible. Consumers navigate difficult and complex processes with businesses if they want to cancel a subscription, which is why we are legislating here today. Providing that transparency is key, particularly when we look to January as a time when people might consider budgets and might want to take out or cancel subscriptions to a gym membership— [ Interruption. ] I did not look at anyone there—so we want to ensure that these rights are in place. It is a key time for consumers to be able to keep hold and have control of their hard-earned cash. We heard reflections on a grace period. We felt that that would risk confusion and uncertainty for consumers and for businesses, and we therefore did not think it was appropriate in these circumstances. If a small business is not ready, or a good-faith business makes a minor error, the CMA has set out that in the early months of the regime its focus will be on supporting businesses to get this right and to help to drive the best outcomes for consumers. That is really important in the initial stages of the legislation. However, businesses should not assume that support for compliance means that enforcement of the rules is being delayed. Conduct during this period may still be considered as part of enforcement action—but of course that consideration is for the CMA, par",
+   "link": "https://hansard.parliament.uk/Commons/2026-11-23/debates/618bb9cb-02fc-4e0f-b277-f9fb37baf74f/x#contribution-FD4264A7-D3CF-467F-82B4-B03964C421C0"
+  },
+  {
+   "type": "hansard",
+   "house": "Commons",
+   "date": "2026-11-23",
+   "debate": "Draft Consumer Subscription Contracts (Cancellation and Information) Regulations 2026  \r\n\r\nDraft Digital Markets, Competition  and Consumers Act 2024 (Subscription Contracts) (Consequential Amendments) Regulations 2026",
+   "section": "General Committees",
+   "speaker": "Sarah Edwards (Tamworth) (Lab)",
+   "memberId": 5001,
+   "topics": [
+    "Digital competition and markets"
+   ],
+   "text": "It is an honour to serve under your chairship, Mrs Jardine. This legislation about subscription contracts is not simply a step towards greater fairness and transparency for consumers; it is another example of how this Government are standing up for ordinary working people. It is about rebalancing the playing field and tackling businesses that have used complicated terms and conditions to lock people into unwanted subscriptions or roll them on to expensive contracts without their knowledge. That has obviously applied to many people, whether for gym memberships, food delivery services or digital streaming products: almost everything can now be bought on a subscription. The exploitation has been hidden behind unnecessary complexity. People spend their hard-earned money on things that make their lives a little better, only to be caught in subscriptions that they no longer want and to struggle to cancel them before they pay for more than they ever intended. Although the companies may not technically be deceiving their customers, they are repeatedly misleading them, through a smoke-and-mirrors approach that makes it far too easy to sign up and far too difficult—or even impossible—to leave. Consumers should be able to trust that when they sign up for something, they will receive what they were promised at the price they were promised and will have a straightforward way of cancelling when a service no longer suits them. That is the basic expectation, yet consumers are let down time and again. Such subscription traps are estimated to cost consumers around £170 per person each year, a significant sum. As a member of the Business, Innovation, Science and Trade Committee I have seen at first hand the wider impact of gaps in consumer protection—we have explored that in some of our w",
+   "link": "https://hansard.parliament.uk/Commons/2026-11-23/debates/618bb9cb-02fc-4e0f-b277-f9fb37baf74f/x#contribution-65093B20-318E-42F8-BDC5-AC27D505F5A4"
+  },
+  {
+   "type": "hansard",
+   "house": "Commons",
+   "date": "2026-11-23",
+   "debate": "Draft Consumer Subscription Contracts (Cancellation and Information) Regulations 2026  \r\n\r\nDraft Digital Markets, Competition  and Consumers Act 2024 (Subscription Contracts) (Consequential Amendments) Regulations 2026",
+   "section": "General Committees",
+   "speaker": "Bradley Thomas (Bromsgrove) (Con)",
+   "memberId": 5186,
+   "topics": [
+    "Digital competition and markets"
+   ],
+   "text": "It is a pleasure to serve under your chairmanship, Ms Jardine. As the cost of living continues to rise, every pound matters more than ever for households across the country, and unwanted subscriptions can be far more than an inconvenience. An unexpected charge from a forgotten trial or automatic renewal can wipe out money budgeted for essentials, putting serious strain on a household's finances. Approximately 5.8% of active subscriptions, totalling 9.7 million and costing £2.1 billion annually in 2026 prices, are unwanted. Of those, an estimated 3.6 million are rolled over from free or discounted trials, while roughly 1.3 million came from auto-renewals. We want consumers to have protection from subscription providers that use misleading tactics and hidden renewals, while allowing for a fair and trustworthy relationship with legitimate providers. On the matter of legitimate providers, I am aware that leading fresh food delivery companies have expressed concerns about the proposed 14-day cooling-off rules failing to account for how perishable goods are sourced, prepared and delivered. They suggest that allowing for a penalty-free cancellation at any point until the goods are supplied—which the legislation defines as physical delivery—will force companies to absorb the full loss of ingredients and logistics, while also creating avoidable food waste. Can the Minister explain why the Government have taken the firm position to not allow for an exemption or modification of the rules for fresh food deliveries? Have the Government carried out an assessment of the predicted costs that businesses will be expected to absorb, and the amount of food waste that may be caused? I am aware that concerns have been expressed by other bodies, such as the News Media Association, regarding t",
+   "link": "https://hansard.parliament.uk/Commons/2026-11-23/debates/618bb9cb-02fc-4e0f-b277-f9fb37baf74f/x#contribution-CE9F591F-1B5A-490F-82B8-2AE462CD7BFD"
+  },
+  {
+   "type": "hansard",
+   "house": "Commons",
+   "date": "2026-11-23",
+   "debate": "Draft Consumer Subscription Contracts (Cancellation and Information) Regulations 2026  \r\n\r\nDraft Digital Markets, Competition  and Consumers Act 2024 (Subscription Contracts) (Consequential Amendments) Regulations 2026",
+   "section": "General Committees",
+   "speaker": "Kate Dearden",
+   "memberId": 5224,
+   "topics": [
+    "Digital competition and markets"
+   ],
+   "text": "Charities have explicit charitable purposes and are subject to particular oversight, so in these narrow circumstances we find it justifiable not to introduce this additional consumer protection regulation for, say, not-for-profits and other types of memberships. We are also doing this in recognition of the important work done by cultural and heritage charities to protect the nation's culture, historical places and landscapes. However, I appreciate the hon. Member's remarks. Finally, the regulations set out how return and refund rules work if a consumer exercises their statutory cancellation rights. We have broadly maintained consistency with how the refunds work under the existing Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013. That is to provide consistency to businesses and consumers and to ensure that we do not reduce the protections that consumers currently have. How refunds work depends on whether the contract is for goods, services or digital content. We consulted on our proposals for refunds and engaged closely with consumer groups, enforcement bodies and business representatives from different sectors. For services or hired goods, such as gym or car rental subscriptions, if supply has started before the contract is cancelled, a consumer will receive a proportionate refund. For digital content contracts, we have retained the existing waiver for the initial cooling-off period and applied the service refund rules to the renewal cooling-off period. If a trader supplies goods that can be returned, generally the consumer receives a refund once those goods are returned to the trader. However, we recognise that bespoke or perishable goods, such as personalised stationery or flowers, cannot be returned for resale. In such cases, if",
+   "link": "https://hansard.parliament.uk/Commons/2026-11-23/debates/618bb9cb-02fc-4e0f-b277-f9fb37baf74f/x#contribution-AE7C74BB-E3F0-4FB3-A584-C7CC64F2EB6C"
+  },
+  {
+   "type": "hansard",
+   "house": "Lords",
+   "date": "2026-11-23",
+   "debate": "Health Bill",
+   "section": "Lords Chamber",
+   "speaker": "Lord Markham (Con)",
+   "memberId": 4948,
+   "topics": [
+    "Data protection and privacy"
+   ],
+   "text": "I have just one more point for the letter. The Minister said that data minimisation and anonymisation would follow the existing GDPR guidelines. Of course, those same GDPR guidelines existed when the Synnovis attack happened in 2024, and clearly, they did not make any difference. Perhaps in the letter the Minister could tell us how those same regulations would make the difference now.",
+   "link": "https://hansard.parliament.uk/Lords/2026-11-23/debates/78FC9121-51E2-4807-B4F4-42BF1B8E994F/x#contribution-174CC9B3-91CA-481C-AB41-4F2F4AE8CE5B"
+  },
+  {
+   "type": "hansard",
+   "house": "Commons",
+   "date": "2026-11-23",
+   "debate": "UK-EU Summit",
+   "section": "Commons Chamber",
+   "speaker": "David Davis (Goole and Pocklington) (Con)",
+   "memberId": 373,
+   "topics": [
+    "Data protection and privacy"
+   ],
+   "text": "When the Prime Minister came to office, he rightly and sensibly cancelled his predecessor's digital identity card process and policy. How does he justify involving Britain in Europe's digital ID system, as part of his EU reset process, and risking us having to put that into effect, without this Parliament having any say whatsoever?",
+   "link": "https://hansard.parliament.uk/Commons/2026-11-23/debates/3F3236A5-D1ED-4FD0-8678-B7950D74FD7B/x#contribution-155A1651-3EF0-483B-BF84-E5401F87A523"
+  },
+  {
+   "type": "hansard",
+   "house": "Commons",
+   "date": "2026-11-23",
+   "debate": " Finance Bill",
+   "section": "Commons Chamber",
+   "speaker": "Daisy Cooper",
+   "memberId": 4769,
+   "topics": [
+    "Digital skills and education technology"
+   ],
+   "text": "I thank my hon. Friend for her incredibly well made point. People often say that the phrase “making tax digital” is making tax incredibly complicated and making it almost impossible to run a business. Thinking more broadly about the way our Government work, we often talk about digital exclusion in this place, but in my surgeries I am starting to see digital exhaustion. People of all ages, including older people, are struggling to access public services. The digital systems are just too complicated and require too many bits of ID, so people end up going around in circles with three different websites or apps not talking to each other. It is a huge problem for small business owners who are just trying to run their business. We Liberal Democrats have objected to the Government's increases in alcohol duties, because we see that businesses on our high streets, particularly hospitality businesses, are suffering death by a thousand cuts, whether from the increase in business rates, the jobs taxes or anything else. Alcohol duty is just adding more pain, and ultimately it will put up the price of a pint, which many see as an indicator of how much money they have in their pocket. The UK should be the best place in the world for a start-up to scale and stay, but the new capital gains tax founders relief has been described variously by people as “bonkers”, “dreadful” and “a pointless lottery”. It is estimated that around 600 people at best will benefit, but it could undermine productivity and growth. That is not exactly the ringing endorsement that I believe the Government were after. Have the Government reviewed their plans since those concerns were pointed out? On business asset disposal, the Government's measures do not close the loophole and could hit genuine entrepreneurs. The",
+   "link": "https://hansard.parliament.uk/Commons/2026-11-23/debates/BDD8D499-56C9-40D7-B30E-DCF22EB27F7F/x#contribution-87F8508B-6CF3-4C5E-9FDC-47763A1B294C"
+  },
+  {
+   "type": "hansard",
+   "house": "Commons",
+   "date": "2026-11-23",
+   "debate": "Draft Consumer Subscription Contracts (Cancellation and Information) Regulations 2026  \r\n\r\nDraft Digital Markets, Competition  and Consumers Act 2024 (Subscription Contracts) (Consequential Amendments) Regulations 2026",
+   "section": "General Committees",
+   "speaker": "Kate Dearden",
+   "memberId": 5224,
+   "topics": [
+    "Digital competition and markets"
+   ],
+   "text": "It is a pleasure to serve under your chairship this evening, Mrs Jardine. These regulations, which were laid in draft before this House on 19 October, implement the subscriptions chapter in the Digital Markets, Competition and Consumers Act 2024, known as the DMCCA. For consumers who enter subscription contracts, they offer new protections against being stuck in unwanted contracts. We estimate that there are around 155 million active subscriptions in the United Kingdom. However, although they bring convenience for both businesses and consumers, if they trick or trap consumers into subscriptions they do not want, they can be a source of consumer harm. Subscriptions should be a choice, not a trap, but I frequently receive letters from members of the public saying that they assumed a purchase was a one-off, but then discovered that money continued to leave their account each month. Often these are individuals on low incomes, so even small, unexpected costs create financial worry and hardship. I suspect I am not alone on this Committee in receiving those letters. I am also sure that many in this House have had the experience of signing up to a free trial, only to end up stuck in a costly subscription, because it auto-renewed without warning; or perhaps they have tried to end a subscription, but given up, because the business only allows cancellation by phone and they simply did not have the time. These new rules will put an end to these practices, which frustrate consumers, waste their time and, ultimately, cost them money. We estimate that consumers spend £2.1 billion each year on subscriptions they do not actually want. The subscription regulations implement four broad measures to tackle these problems. First, consumers must have clear information when they sign up. Secon",
+   "link": "https://hansard.parliament.uk/Commons/2026-11-23/debates/618bb9cb-02fc-4e0f-b277-f9fb37baf74f/x#contribution-FEF29FD0-B1EF-4460-8DA6-6ECD95DE42B7"
+  },
+  {
+   "type": "hansard",
+   "house": "Lords",
+   "date": "2026-11-23",
+   "debate": "Health Bill",
+   "section": "Lords Chamber",
+   "speaker": "Lord Scriven (LD)",
+   "memberId": 4333,
+   "topics": [
+    "Data protection and privacy"
+   ],
+   "text": "I know that the Minister was rushing through, but there were a lot of confused faces over who is the controller for the single patient record. We heard that individual GP practices were, for their data, but did the Minister say that the Secretary of State was the data controller for the single patient record, or is that still to be determined?",
+   "link": "https://hansard.parliament.uk/Lords/2026-11-23/debates/78FC9121-51E2-4807-B4F4-42BF1B8E994F/x#contribution-1564E32C-C96E-4C30-915E-81373D4A1481"
+  },
+  {
+   "type": "hansard",
+   "house": "Lords",
+   "date": "2026-11-23",
+   "debate": "Health Bill",
+   "section": "Lords Chamber",
+   "speaker": "Lord Bradley (Lab)",
+   "memberId": 452,
+   "topics": [
+    "Data protection and privacy"
+   ],
+   "text": "My Lords, I will very briefly ask a question associated with this group of amendments. At Second Reading, I asked my noble friend the Minister to clarify the Government's position on access to the single patient record regarding the criminal justice system and its interface with healthcare. I have not yet received a reply, so I will ask again tonight. In the Minister's letter dated 7 October, she states that relevant healthcare professionals providing direct care in criminal justice settings will be able to access the single patient record information, but that this would not give police, courts and other criminal justice personnel general access to the single patient record. However, in responding to the debate on Amendment 90 from the noble Lord, Lord Foster of Bath, last week, the Minister said: “ICBs will have responsibilities for most of the health commissioning pathway from prisons and, to pick up the point about movement, to and from the community … There will be national rules in place to identify which ICB has responsibility for care, and the single patient record will be greatly helpful in ensuring that health information follows the person ”.—[ Official Report , 17/11/26; col. 690.] Will the Minister today provide a clear definition of direct care and confirm that, for example, liaison and diversion staff, especially mental health nurses, who are providing crucial direct care in police stations, courts, prisons, street triage and the community, will have access to these essential records?",
+   "link": "https://hansard.parliament.uk/Lords/2026-11-23/debates/78FC9121-51E2-4807-B4F4-42BF1B8E994F/x#contribution-A1926810-67E2-4554-BB23-CDC73DAC0C3C"
+  },
+  {
+   "type": "hansard",
+   "house": "Lords",
+   "date": "2026-11-23",
+   "debate": "Health Bill",
+   "section": "Lords Chamber",
+   "speaker": "Baroness Freeman of Steventon (CB)",
+   "memberId": 5026,
+   "topics": [
+    "Data protection and privacy"
+   ],
+   "text": "My Lords, at the request of the noble Baroness, Lady Noakes, who is unable to be here today, and with the leave of the Committee, I am the last noble Baroness standing to move Amendment 130, to which I have added my name. I will also briefly speak in support of Amendments 135, 145 and 146 in this group, to which I have also added my name. These amendments are all to do with our rights as patients to control who sees our health data and for what purposes, and to check that it is being used for the purposes we have specified. I start with Amendment 130, which would simply allow patients to opt out of all or any information about them being shared in the single patient record. The single patient record is proposed in order to improve our individual healthcare and there are potentially big advantages to it. However, if individuals want to take the informed decision to opt out of that system, I do not see why they should not have the right to do so. Having our data in the single patient record has potential benefits and possible risks for us as individuals, and different people can legitimately come to different conclusions about the balance of those risks and benefits. As a patient, I have the right to opt out of life-saving care, such as a blood transfusion or chemotherapy, if I am judged competent to make that decision. Given that I can make that decision, what possible reason could there be for not allowing me to make the decision that I do not want my medical data to be shared as part of the single patient record? I cannot see a credible technical reason for denying an opt-out, and no research or planning reason could ethically override my rights as an individual to be able to determine the usage of my own health data. Amendment 135 in the name of the noble Lord, Lord K",
+   "link": "https://hansard.parliament.uk/Lords/2026-11-23/debates/78FC9121-51E2-4807-B4F4-42BF1B8E994F/x#contribution-3EA6A683-4365-4A67-B7B8-271EDF7D228A"
+  },
+  {
+   "type": "hansard",
+   "house": "Lords",
+   "date": "2026-11-23",
+   "debate": "Health Bill",
+   "section": "Lords Chamber",
+   "speaker": "Baroness Finlay of Llandaff (CB)",
+   "memberId": 3609,
+   "topics": [
+    "Data protection and privacy"
+   ],
+   "text": "I would be most grateful if the Minister clarified further the overall governance and the Caldicott guardianship over the data. Will GPs be responsible for verifying that all the data inserted in the single patient record is accurate, or will they have indemnity only for information they insert? What will happen if they take a clinical decision on information that has been wrongly inserted from somewhere else, or the wrong terminology has been used, or there has been a spelling mistake, which could easily happen, which leads to, in effect, a malpractice action?",
+   "link": "https://hansard.parliament.uk/Lords/2026-11-23/debates/78FC9121-51E2-4807-B4F4-42BF1B8E994F/x#contribution-86E0AC7E-C2E0-443E-9AC5-9D206118E5C9"
+  },
+  {
+   "type": "hansard",
+   "house": "Lords",
+   "date": "2026-11-23",
+   "debate": "Health Bill",
+   "section": "Lords Chamber",
+   "speaker": "Baroness Thornton (Lab)",
+   "memberId": 1782,
+   "topics": [
+    "Data protection and privacy"
+   ],
+   "text": "My Lords, Amendment 134 is in my name and that of my noble friend Lord Hunt. I declare two interests. I am a non-executive member of the Whittington Hospital, where we are embarking right now on the procurement process for our single patient record. I am also the chair of the Social Care Institute for Excellence. It is social care that I want to talk about. I thank my noble friend for the wonderfully helpful letter that we all received. Well, I thought it was helpful.",
+   "link": "https://hansard.parliament.uk/Lords/2026-11-23/debates/78FC9121-51E2-4807-B4F4-42BF1B8E994F/x#contribution-0AD7AB7B-C040-4B4E-B0AE-FFBD39DF5853"
+  },
+  {
+   "type": "hansard",
+   "house": "Lords",
+   "date": "2026-11-23",
+   "debate": "Health Bill",
+   "section": "Lords Chamber",
+   "speaker": "Baroness Merron (Lab)",
+   "memberId": 347,
+   "topics": [
+    "Data protection and privacy"
+   ],
+   "text": "My Lords, I am grateful for what I know is widespread overall support for the single patient record, and I appreciate the points that noble Lords have raised. I will do my best to address the broad sweep, but in view of the time, and because we wish to get to the next group—at least to start it—which is linked, I hope noble Lords will understand that I will write further. I say to the noble Baroness, Lady Finlay, that we have already sent the letter again, but if she requires one delivered by hand, I would be glad to do that. To state the obvious, the SPR is a simple idea, but it is technically complex to deliver. The greatest thing I have learned about this is that it is not all going to suddenly happen. Sometimes we are tempted to believe that it will, because we would like that, but it is not. It will develop and evolve, and that is why some of the questions asked do not have immediate answers. This is not a “trust me” situation; it is just the reality of developing a system and making it work. I emphasise that the SPR will build on existing approaches. For example, shared care records already exist, but they are built on local arrangements. In answer to the noble Lord, Lord Kamall, the Bill will give us a legal basis for an effective, nationally rooted SPR and make sure that doctors have confidence—which is the key thing—that they can share data with it. A balance will be maintained between a clear legal basis for the system and an agile approach to developing technology, as well as the secure and effective working arrangements around it. I want first to speak briefly to government Amendment 128. We want services in the devolved Governments to be able to share information with the SPR at their discretion, not least to support cross-border care, but we do not intend ",
+   "link": "https://hansard.parliament.uk/Lords/2026-11-23/debates/78FC9121-51E2-4807-B4F4-42BF1B8E994F/x#contribution-71B721AC-1978-4CD3-8549-ECE274E1F714"
+  },
+  {
+   "type": "hansard",
+   "house": "Commons",
+   "date": "2026-11-23",
+   "debate": "Draft Consumer Subscription Contracts (Cancellation and Information) Regulations 2026  \r\n\r\nDraft Digital Markets, Competition  and Consumers Act 2024 (Subscription Contracts) (Consequential Amendments) Regulations 2026",
+   "section": "General Committees",
+   "speaker": "Kate Dearden",
+   "memberId": 5224,
+   "topics": [
+    "Digital competition and markets"
+   ],
+   "text": "My hon. Friend rightly raises why this legislation will be important for consumers up and down the country who want to cancel their subscriptions. In our guidance, we are making businesses' responsibility clear to them and how they can ensure that information is very clear up front, as I mentioned at the start. It should be as easy to exit a subscription as it is to join; for example, if someone joins online, they should be able to exit online. That is a key part of the legislation and we will make that clear in the guidance, so that businesses can comply. For every unwanted subscription cancelled, consumers will save an average of £19 per month, which provides valuable breathing space and could mean a real difference to whether people are able to pay their bills. Subject to parliamentary approval, the draft regulations will commence on 1 January to ensure that we can protect consumers soon. I hope to have the support of all colleagues in Committee, and I commend the regulations to them.",
+   "link": "https://hansard.parliament.uk/Commons/2026-11-23/debates/618bb9cb-02fc-4e0f-b277-f9fb37baf74f/x#contribution-1E2F266B-7B48-4D75-A6DB-FDFBF7D279B3"
+  },
+  {
+   "type": "hansard",
+   "house": "Commons",
+   "date": "2026-11-23",
+   "debate": "Draft Consumer Subscription Contracts (Cancellation and Information) Regulations 2026  \r\n\r\nDraft Digital Markets, Competition  and Consumers Act 2024 (Subscription Contracts) (Consequential Amendments) Regulations 2026",
+   "section": "General Committees",
+   "speaker": "Dan Carden (Liverpool Walton) (Lab)",
+   "memberId": 4651,
+   "topics": [
+    "Digital competition and markets"
+   ],
+   "text": "I want to make a practical point: often, subscriptions can be quite difficult to get out of, depending on whether people have to go through phone lines or websites. I am probably not the only person who has had to cancel a direct debit at the bank end for a subscription, because I have struggled to get out of a contract. I wonder whether the Minister has any practical points of view about when that happens.",
+   "link": "https://hansard.parliament.uk/Commons/2026-11-23/debates/618bb9cb-02fc-4e0f-b277-f9fb37baf74f/x#contribution-C15B7ABA-3556-4D67-B36B-45835F024B65"
+  },
+  {
+   "type": "hansard",
+   "house": "Commons",
+   "date": "2026-11-23",
+   "debate": "Draft Consumer Subscription Contracts (Cancellation and Information) Regulations 2026  \r\n\r\nDraft Digital Markets, Competition  and Consumers Act 2024 (Subscription Contracts) (Consequential Amendments) Regulations 2026",
+   "section": "General Committees",
+   "speaker": "Graham Stuart",
+   "memberId": 1482,
+   "topics": [
+    "Digital competition and markets"
+   ],
+   "text": "The hon. Lady is quite right to highlight the cost to consumers from abuse of the subscription system. Does she share my concern about small businesses under this legislation? The tendency of legislation is to treat everyone as if they are a big, sophisticated business. A tiny business can make a minor error and find that its cancellation period is stretched to 12 months and can be abused by consumers who knew full well what they were getting and what they were subscribing to, but somehow took that advantage. Does she share my concern that we need to ensure small businesses do not inadvertently get caught out?",
+   "link": "https://hansard.parliament.uk/Commons/2026-11-23/debates/618bb9cb-02fc-4e0f-b277-f9fb37baf74f/x#contribution-CB1D4588-2970-4BD1-B857-C1DDD1C5800A"
+  },
+  {
+   "type": "hansard",
+   "house": "Commons",
+   "date": "2026-11-23",
+   "debate": "Draft Consumer Subscription Contracts (Cancellation and Information) Regulations 2026  \r\n\r\nDraft Digital Markets, Competition  and Consumers Act 2024 (Subscription Contracts) (Consequential Amendments) Regulations 2026",
+   "section": "General Committees",
+   "speaker": "The Minister for the Future of Work (Kate Dearden)",
+   "memberId": 5224,
+   "topics": [
+    "Digital competition and markets"
+   ],
+   "text": "I beg to move, That the Committee has considered the draft Consumer Subscription Contracts (Cancellation and Information) Regulations 2026.",
+   "link": "https://hansard.parliament.uk/Commons/2026-11-23/debates/618bb9cb-02fc-4e0f-b277-f9fb37baf74f/x#contribution-533ED91D-79D0-4487-8B85-996574A36268"
+  },
+  {
+   "type": "hansard",
+   "house": "Commons",
+   "date": "2026-11-23",
+   "debate": "Draft Consumer Subscription Contracts (Cancellation and Information) Regulations 2026  \r\n\r\nDraft Digital Markets, Competition  and Consumers Act 2024 (Subscription Contracts) (Consequential Amendments) Regulations 2026",
+   "section": "General Committees",
+   "speaker": "Bradley Thomas",
+   "memberId": 5186,
+   "topics": [
+    "Digital competition and markets"
+   ],
+   "text": "I wholeheartedly agree with my right hon. Friend; we must be very careful of unintended consequences. I implore the Government to review the implementation of the regulations on an ongoing basis to ensure that they do not put an unfair and unnecessary burden on businesses. The Opposition will not oppose this draft legislation. We know that unwanted subscriptions can cause significant financial trouble for households, and we want consumers to be protected from deceptive subscription providers. However, a careful balancing act is required to ensure that consumers get the protection that they need while ensuring that legitimate providers do not become unintentional collateral damage. I would be interested to hear from the Minister how the Government will ensure that that is achieved.",
+   "link": "https://hansard.parliament.uk/Commons/2026-11-23/debates/618bb9cb-02fc-4e0f-b277-f9fb37baf74f/x#contribution-35065F40-2B19-4D31-9961-03EC12CC9DA6"
+  },
+  {
+   "type": "hansard",
+   "house": "Commons",
+   "date": "2026-11-23",
+   "debate": " Finance Bill",
+   "section": "Commons Chamber",
+   "speaker": "Matt Rodda (Reading Central) (Lab)",
+   "memberId": 4654,
+   "topics": [
+    "Cyber security and resilience"
+   ],
+   "text": "I welcome the hon. Member for Blackburn (Mr Hussain) to the House. As he mentioned, he has illustrious predecessors: Barbara Castle, Jack Straw and, more recently, Kate Hollern. I noted that he advocated very strongly for his community, and for more growth in his town, and I appreciate that. It is a privilege to speak tonight on the Finance Bill. I want to focus on four areas: the effects of the Bill on residents; its effects on high streets; entrepreneurs; and issues related to planning, and setting the right framework to encourage growth. The Budget offered breathing space and hope for the future in what we cannot doubt is a challenging international climate. First, residents in Reading are hard pressed by the cost of living crisis. Many of my residents live in older homes on terraced streets across the town, or in 1930s semis, and the cost of heating those homes is considerable, so I wholeheartedly welcome the Government's measures on energy—particularly the £100 of support—and the measures to tackle standing charges. I also welcome the measures to deal with the cost of travel, which are so important in getting people to work. The recent freeze in fuel duty, the freeze in rail fares and the reduction in bus fares will all provide residents with very real help in getting to work, and will help employers with the recruitment and retention of staff. I should also mention the very positive support for EV charging, which is important at this time. I would like to respond briefly to points made by the Lib Dem spokesperson, the hon. Member for St Albans (Daisy Cooper). I think she was somewhat over-optimistic about the idea of putting together two complex Government datasets to deliver help in a more targeted way. It is essential to have a simple system for delivering help.",
+   "link": "https://hansard.parliament.uk/Commons/2026-11-23/debates/BDD8D499-56C9-40D7-B30E-DCF22EB27F7F/x#contribution-0DFD3B38-927F-475C-B1F1-AE04159C2BDC"
+  },
+  {
+   "type": "hansard",
+   "house": "Lords",
+   "date": "2026-11-23",
+   "debate": "Health Bill",
+   "section": "Lords Chamber",
+   "speaker": "Baroness Merron (Lab)",
+   "memberId": 347,
+   "topics": [
+    "Cyber security and resilience"
+   ],
+   "text": "My Lords, as the noble Lord, Lord Kamall, observed, this has been a wide-ranging debate. There was some inevitability about that, because this is to do with patient safety, which we take extremely seriously. As noble Lords have said, patient safety is absolutely paramount. As I said, I am deeply conscious that every avoidable harm and death is one we should seek to avoid in the future. While we cannot turn the clock back for those affected—to whom I express my sincere condolences, as I know we all do—whether that be harm or death, our duty is to prevent that happening in the future. Every patient should have access to safe and high-quality care, but, as I have said, we know this is not always the case. I will say at the outset that I may not be able to cover all the points noble Lords have raised, but I certainly will try to address each of the issues raised in the amendments. I turn first to Amendment 106 in the name of the noble Baroness, Lady Pidgeon, which concerns action at trust level. I hope I can provide the noble Baroness with some reassurance that trusts are already accountable for reporting medical malpractice, including systemic cases. Therefore, while we understand the intent of Amendment 106, we feel it is not required simply because it duplicates the existing processes, local and national, for addressing the systemic issues—which have rightly been raised. CQC regulations already require trusts to have effective systems to identify, monitor and, importantly, address systemic risks to quality and safety. The NHS provider licence, which we spoke of in the previous group, also requires effective governance and safety reporting. Where governance does fail, NHS England has powers to intervene, and the Bill transfers those powers to the Secretary of State. I tur",
+   "link": "https://hansard.parliament.uk/Lords/2026-11-23/debates/3A4BBA8B-4B72-4BDC-80A1-5A2DE6EF24BD/x#contribution-D51DDE36-CEBB-412D-BCDA-A4ED26AF9EF5"
+  },
+  {
+   "type": "hansard",
+   "house": "Commons",
+   "date": "2026-11-23",
+   "debate": "UK-EU Summit",
+   "section": "Commons Chamber",
+   "speaker": "The Prime Minister",
+   "memberId": 1427,
+   "topics": [
+    "Data protection and privacy"
+   ],
+   "text": "The UK is not joining the EU digital identity wallet. This agreement does not commit us to doing so, or to adopting the EU's digital identity system. It does propose a digital partnership, but that is to deepen co-operation across our digital and technology sectors. That is the reason why it was warmly welcomed by the European chief executive of Vodafone on Friday.",
+   "link": "https://hansard.parliament.uk/Commons/2026-11-23/debates/3F3236A5-D1ED-4FD0-8678-B7950D74FD7B/x#contribution-DA958883-94A7-41BB-9A00-FE581AA0BF7A"
+  }
+ ],
+ "today": [
+  {
+   "type": "whatson",
+   "id": 28541,
+   "house": "Commons",
+   "kind": "Select & Joint Committees",
+   "category": "Oral evidence",
+   "time": "09:00",
+   "location": "Room 15, Palace of Westminster",
+   "committee": "Scottish Affairs Committee",
+   "inquiries": [
+    "The dual role of the Lord Advocate"
+   ],
+   "summary": "Commons - Select & Joint Committees Scottish Affairs Committee - The dual role of the Lord Advocate",
+   "link": "https://whatson.parliament.uk/event/cal28541"
+  },
+  {
+   "type": "whatson",
+   "id": 28753,
+   "house": "Commons",
+   "kind": "Select & Joint Committees",
+   "category": "Oral evidence",
+   "time": "09:15",
+   "location": "The Wilson Room, Portcullis House",
+   "committee": "Education Committee",
+   "inquiries": [
+    "Preparing for Votes at 16: The Role of the Education System"
+   ],
+   "summary": "Commons - Select & Joint Committees Education Committee - Preparing for Votes at 16: The Role of the Education System",
+   "link": "https://whatson.parliament.uk/event/cal28753"
+  },
+  {
+   "type": "whatson",
+   "id": 28618,
+   "house": "Commons",
+   "kind": "General Committee",
+   "category": "Debate",
+   "time": "09:25",
+   "location": "Room 11, Palace of Westminster",
+   "committee": "Building Safety (Remediation of Unsafe Cladding etc) Bill",
+   "inquiries": [
+    "Further to consider the Bill"
+   ],
+   "summary": "Commons - General Committee Building Safety (Remediation of Unsafe Cladding etc) Bill - Further to consider the Bill",
+   "link": "https://whatson.parliament.uk/event/cal28618"
+  },
+  {
+   "type": "whatson",
+   "id": 28830,
+   "house": "Commons",
+   "kind": "General Committee",
+   "category": "Debate",
+   "time": "09:25",
+   "location": "Room 9, Palace of Westminster",
+   "committee": "Financial Services and Markets Bill [Lords]",
+   "inquiries": [
+    "Further to consider the Bill"
+   ],
+   "summary": "Commons - General Committee Financial Services and Markets Bill [Lords] - Further to consider the Bill",
+   "link": "https://whatson.parliament.uk/event/cal28830"
+  },
+  {
+   "type": "whatson",
+   "id": 28501,
+   "house": "Commons",
+   "kind": "Select & Joint Committees",
+   "category": "Oral evidence",
+   "time": "09:30",
+   "location": "Room 16, Palace of Westminster",
+   "committee": "Digital, Culture, Media and Sport Committee",
+   "inquiries": [
+    "Children's tv and video content"
+   ],
+   "summary": "Commons - Select & Joint Committees Digital, Culture, Media and Sport Committee - Children's tv and video content",
+   "link": "https://whatson.parliament.uk/event/cal28501"
+  },
+  {
+   "type": "whatson",
+   "id": 28779,
+   "house": "Commons",
+   "kind": "Select & Joint Committees",
+   "category": "Oral evidence",
+   "time": "09:30",
+   "location": "Room 8, Palace of Westminster",
+   "committee": "Public Administration and Constitutional Affairs Committee",
+   "inquiries": [
+    "Pre-appointment Hearing: Independent Reviewer of Public Sector Fraud Authority"
+   ],
+   "summary": "Commons - Select & Joint Committees Public Administration and Constitutional Affairs Committee - Pre-appointment Hearing: Independent Reviewer of Public Sector Fraud Authority",
+   "link": "https://whatson.parliament.uk/event/cal28779"
+  },
+  {
+   "type": "whatson",
+   "id": 28799,
+   "house": "Commons",
+   "kind": "Select & Joint Committees",
+   "category": "Oral evidence",
+   "time": "09:30",
+   "location": "The Thatcher Room, Portcullis House",
+   "committee": "Housing, Communities and Local Government Committee",
+   "inquiries": [
+    "Modernising Elections"
+   ],
+   "summary": "Commons - Select & Joint Committees Housing, Communities and Local Government Committee - Modernising Elections",
+   "link": "https://whatson.parliament.uk/event/cal28799"
+  },
+  {
+   "type": "whatson",
+   "id": 57242,
+   "house": "Commons",
+   "kind": "Westminster Hall",
+   "category": "Westminster Hall debate",
+   "time": "09:30",
+   "description": "Constitutional role of hon. Members",
+   "members": [
+    "John Slinger"
+   ],
+   "summary": "Commons - Westminster Hall Constitutional role of hon. Members John Slinger",
+   "link": "https://whatson.parliament.uk/event/cal57242"
+  },
+  {
+   "type": "whatson",
+   "id": 28340,
+   "house": "Commons",
+   "kind": "Select & Joint Committees",
+   "category": "Oral evidence",
+   "time": "10:00",
+   "location": "Room 6, Palace of Westminster",
+   "committee": "Administration Committee",
+   "inquiries": [
+    "General Election Planning"
+   ],
+   "summary": "Commons - Select & Joint Committees Administration Committee - General Election Planning",
+   "link": "https://whatson.parliament.uk/event/cal28340"
+  },
+  {
+   "type": "whatson",
+   "id": 28635,
+   "house": "Commons",
+   "kind": "Select & Joint Committees",
+   "category": "Oral evidence",
+   "time": "10:00",
+   "location": "The Grimond Room, Portcullis House",
+   "committee": "Defence Committee",
+   "inquiries": [
+    "MoD Annual Report and Accounts 2025-26"
+   ],
+   "summary": "Commons - Select & Joint Committees Defence Committee - MoD Annual Report and Accounts 2025-26",
+   "link": "https://whatson.parliament.uk/event/cal28635"
+  },
+  {
+   "type": "whatson",
+   "id": 28863,
+   "house": "Lords",
+   "kind": "Select & Joint Committees",
+   "category": "Oral evidence",
+   "time": "10:00",
+   "location": "Room 3, Palace of Westminster",
+   "committee": "Science and Technology Committee",
+   "inquiries": [
+    "Future of UK compute in the age of AI"
+   ],
+   "summary": "Lords - Select & Joint Committees Science and Technology Committee - Future of UK compute in the age of AI",
+   "link": "https://whatson.parliament.uk/event/cal28863"
+  },
+  {
+   "type": "whatson",
+   "id": 27942,
+   "house": "Lords",
+   "kind": "Select & Joint Committees",
+   "category": "Oral evidence",
+   "time": "10:30",
+   "location": "Room 2, Palace of Westminster",
+   "committee": "Justice and Home Affairs Committee",
+   "inquiries": [
+    "Settlement, Citizenship and Integration"
+   ],
+   "summary": "Lords - Select & Joint Committees Justice and Home Affairs Committee - Settlement, Citizenship and Integration",
+   "link": "https://whatson.parliament.uk/event/cal27942"
+  },
+  {
+   "type": "whatson",
+   "id": 28845,
+   "house": "Lords",
+   "kind": "Select & Joint Committees",
+   "category": "Oral evidence",
+   "time": "10:30",
+   "location": "Room 1, Palace of Westminster",
+   "committee": "Built Environment Committee",
+   "inquiries": [
+    "Maintenance and enforcement in public spaces"
+   ],
+   "summary": "Lords - Select & Joint Committees Built Environment Committee - Maintenance and enforcement in public spaces",
+   "link": "https://whatson.parliament.uk/event/cal28845"
+  },
+  {
+   "type": "whatson",
+   "id": 57276,
+   "house": "Commons",
+   "kind": "Westminster Hall",
+   "category": "Westminster Hall debate",
+   "time": "11:00",
+   "description": "Domestic abuse of older people",
+   "members": [
+    "Sonia Kumar"
+   ],
+   "summary": "Commons - Westminster Hall Domestic abuse of older people Sonia Kumar",
+   "link": "https://whatson.parliament.uk/event/cal57276"
+  },
+  {
+   "type": "whatson",
+   "id": 28722,
+   "house": "Lords",
+   "kind": "Select & Joint Committees",
+   "category": "Private Meeting",
+   "time": "11:00",
+   "location": "Room 4, Palace of Westminster",
+   "committee": "Industry and Regulators Committee",
+   "summary": "Lords - Select & Joint Committees Industry and Regulators Committee",
+   "link": "https://whatson.parliament.uk/event/cal28722"
+  },
+  {
+   "type": "whatson",
+   "id": 57028,
+   "house": "Commons",
+   "kind": "Main Chamber",
+   "category": "Oral questions",
+   "time": "11:30",
+   "description": "Health and Social Care (including Topical Questions)",
+   "summary": "Commons - Main Chamber Health and Social Care (including Topical Questions)",
+   "link": "https://whatson.parliament.uk/event/cal57028"
+  },
+  {
+   "type": "whatson",
+   "id": 28802,
+   "house": "Commons",
+   "kind": "Select & Joint Committees",
+   "category": "Oral evidence",
+   "time": "13:00",
+   "location": "The Boothroyd Room, Portcullis House",
+   "committee": "Foreign Affairs Committee",
+   "inquiries": [
+    "Work of the Foreign, Commonwealth and Development Office"
+   ],
+   "summary": "Commons - Select & Joint Committees Foreign Affairs Committee - Work of the Foreign, Commonwealth and Development Office",
+   "link": "https://whatson.parliament.uk/event/cal28802"
+  },
+  {
+   "type": "whatson",
+   "id": 27667,
+   "house": "Commons",
+   "kind": "Select & Joint Committees",
+   "category": "Oral evidence",
+   "time": "14:00",
+   "location": "The Thatcher Room, Portcullis House",
+   "committee": "Home Affairs Committee",
+   "inquiries": [
+    "Work-based immigration"
+   ],
+   "summary": "Commons - Select & Joint Committees Home Affairs Committee - Work-based immigration",
+   "link": "https://whatson.parliament.uk/event/cal27667"
+  },
+  {
+   "type": "whatson",
+   "id": 28620,
+   "house": "Commons",
+   "kind": "General Committee",
+   "category": "Debate",
+   "time": "14:00",
+   "location": "Room 11, Palace of Westminster",
+   "committee": "Building Safety (Remediation of Unsafe Cladding etc) Bill",
+   "inquiries": [
+    "Further to consider the Bill"
+   ],
+   "summary": "Commons - General Committee Building Safety (Remediation of Unsafe Cladding etc) Bill - Further to consider the Bill",
+   "link": "https://whatson.parliament.uk/event/cal28620"
+  },
+  {
+   "type": "whatson",
+   "id": 28751,
+   "house": "Commons",
+   "kind": "Select & Joint Committees",
+   "category": "Oral evidence",
+   "time": "14:00",
+   "location": "The Wilson Room, Portcullis House",
+   "committee": "Justice Committee",
+   "inquiries": [
+    "Children and Young Adults in the Secure Estate"
+   ],
+   "summary": "Commons - Select & Joint Committees Justice Committee - Children and Young Adults in the Secure Estate",
+   "link": "https://whatson.parliament.uk/event/cal28751"
+  },
+  {
+   "type": "whatson",
+   "id": 28831,
+   "house": "Commons",
+   "kind": "General Committee",
+   "category": "Debate",
+   "time": "14:00",
+   "location": "Room 9, Palace of Westminster",
+   "committee": "Financial Services and Markets Bill [Lords]",
+   "inquiries": [
+    "Further to consider the Bill"
+   ],
+   "summary": "Commons - General Committee Financial Services and Markets Bill [Lords] - Further to consider the Bill",
+   "link": "https://whatson.parliament.uk/event/cal28831"
+  },
+  {
+   "type": "whatson",
+   "id": 28736,
+   "house": "Lords",
+   "kind": "Select & Joint Committees",
+   "category": "Oral evidence",
+   "time": "14:00",
+   "location": "Room 3, Palace of Westminster",
+   "committee": "European Affairs Committee",
+   "inquiries": [
+    "Oral evidence - The Rt Hon Hamish Falconer MP, Minister of State (Minister for Intergovernmental Relations and European Relations)"
+   ],
+   "summary": "Lords - Select & Joint Committees European Affairs Committee - Oral evidence - The Rt Hon Hamish Falconer MP, Minister of State (Minister for Intergovernmental Relations and European Relations)",
+   "link": "https://whatson.parliament.uk/event/cal28736"
+  },
+  {
+   "type": "whatson",
+   "id": 28821,
+   "house": "Lords",
+   "kind": "Select & Joint Committees",
+   "category": "Oral evidence",
+   "time": "14:00",
+   "location": "Room 4, Palace of Westminster",
+   "committee": "International Agreements Committee",
+   "inquiries": [
+    "E-Commerce Agreement"
+   ],
+   "summary": "Lords - Select & Joint Committees International Agreements Committee - E-Commerce Agreement",
+   "link": "https://whatson.parliament.uk/event/cal28821"
+  },
+  {
+   "type": "whatson",
+   "id": 28846,
+   "house": "Commons",
+   "kind": "Select & Joint Committees",
+   "category": "Oral evidence",
+   "time": "14:15",
+   "location": "The Grimond Room, Portcullis House",
+   "committee": "Business, Innovation, Science and Trade Committee",
+   "inquiries": [
+    "Entrepreneurship and business"
+   ],
+   "summary": "Commons - Select & Joint Committees Business, Innovation, Science and Trade Committee - Entrepreneurship and business",
+   "link": "https://whatson.parliament.uk/event/cal28846"
+  },
+  {
+   "type": "whatson",
+   "id": 28850,
+   "house": "Commons",
+   "kind": "General Committee",
+   "category": "Debate",
+   "time": "14:30",
+   "location": "Room 10, Palace of Westminster ",
+   "committee": "Third Delegated Legislation Committee",
+   "inquiries": [
+    "The draft Environmental Permitting (England and Wales) (Amendment) (England) Regulations 2026"
+   ],
+   "summary": "Commons - General Committee Third Delegated Legislation Committee - The draft Environmental Permitting (England and Wales) (Amendment) (England) Regulations 2026",
+   "link": "https://whatson.parliament.uk/event/cal28850"
+  },
+  {
+   "type": "whatson",
+   "id": 57277,
+   "house": "Commons",
+   "kind": "Westminster Hall",
+   "category": "Westminster Hall debate",
+   "time": "14:30",
+   "description": "Government policy on a second Scottish independence referendum",
+   "members": [
+    "Seamus Logan"
+   ],
+   "summary": "Commons - Westminster Hall Government policy on a second Scottish independence referendum Seamus Logan",
+   "link": "https://whatson.parliament.uk/event/cal57277"
+  },
+  {
+   "type": "whatson",
+   "id": 56975,
+   "house": "Lords",
+   "kind": "Main Chamber",
+   "category": "Oral questions",
+   "time": "14:30",
+   "description": "Exempting online marketplace retailers from VAT collection obligations on annual sales of second-hand goods under £90,000",
+   "members": [
+    "Lord Leigh of Hurley"
+   ],
+   "summary": "Lords - Main Chamber Exempting online marketplace retailers from VAT collection obligations on annual sales of second-hand goods under £90,000 Lord Leigh of Hurley",
+   "link": "https://whatson.parliament.uk/event/cal56975"
+  },
+  {
+   "type": "whatson",
+   "id": 25906,
+   "house": "Commons",
+   "kind": "Select & Joint Committees",
+   "category": "Private Meeting",
+   "time": "15:00",
+   "location": "Room 8, Palace of Westminster",
+   "committee": "Finance Committee (Commons)",
+   "summary": "Commons - Select & Joint Committees Finance Committee (Commons)",
+   "link": "https://whatson.parliament.uk/event/cal25906"
+  },
+  {
+   "type": "whatson",
+   "id": 28267,
+   "house": "Commons",
+   "kind": "Select & Joint Committees",
+   "category": "Private Meeting",
+   "time": "15:00",
+   "location": "The Macmillan Room, Portcullis House",
+   "committee": "Transport Committee",
+   "summary": "Commons - Select & Joint Committees Transport Committee",
+   "link": "https://whatson.parliament.uk/event/cal28267"
+  },
+  {
+   "type": "whatson",
+   "id": 28761,
+   "house": "Lords",
+   "kind": "Select & Joint Committees",
+   "category": "Oral evidence",
+   "time": "15:00",
+   "location": "Room 2, Palace of Westminster",
+   "committee": "Economic Affairs Committee",
+   "inquiries": [
+    "Fiscal devolution in England"
+   ],
+   "summary": "Lords - Select & Joint Committees Economic Affairs Committee - Fiscal devolution in England",
+   "link": "https://whatson.parliament.uk/event/cal28761"
+  },
+  {
+   "type": "whatson",
+   "id": 28749,
+   "house": "Commons",
+   "kind": "Select & Joint Committees",
+   "category": "Private Meeting",
+   "time": "15:30",
+   "location": "Room 6, Palace of Westminster",
+   "committee": "Public Accounts Commission",
+   "summary": "Commons - Select & Joint Committees Public Accounts Commission",
+   "link": "https://whatson.parliament.uk/event/cal28749"
+  },
+  {
+   "type": "whatson",
+   "id": 25969,
+   "house": "Lords",
+   "kind": "Select & Joint Committees",
+   "category": "Private Meeting",
+   "time": "15:45",
+   "location": "Room 4A, Palace of Westminster",
+   "committee": "Secondary Legislation Scrutiny Committee",
+   "summary": "Lords - Select & Joint Committees Secondary Legislation Scrutiny Committee",
+   "link": "https://whatson.parliament.uk/event/cal25969"
+  },
+  {
+   "type": "whatson",
+   "id": 28804,
+   "house": "Commons",
+   "kind": "Select & Joint Committees",
+   "category": "Oral evidence",
+   "time": "16:00",
+   "location": "Room 16, Palace of Westminster",
+   "committee": "Backbench Business Committee",
+   "inquiries": [
+    "Proposals for backbench debates"
+   ],
+   "summary": "Commons - Select & Joint Committees Backbench Business Committee - Proposals for backbench debates",
+   "link": "https://whatson.parliament.uk/event/cal28804"
+  },
+  {
+   "type": "whatson",
+   "id": 57278,
+   "house": "Commons",
+   "kind": "Westminster Hall",
+   "category": "Westminster Hall debate",
+   "time": "16:00",
+   "description": "Railway infrastructure in the South West",
+   "members": [
+    "Sarah Dyke"
+   ],
+   "summary": "Commons - Westminster Hall Railway infrastructure in the South West Sarah Dyke",
+   "link": "https://whatson.parliament.uk/event/cal57278"
+  },
+  {
+   "type": "whatson",
+   "id": 28851,
+   "house": "Commons",
+   "kind": "General Committee",
+   "category": "Debate",
+   "time": "16:30",
+   "location": "Room 12, Palace of Westminster",
+   "committee": "Fourth Delegated Legislation Committee",
+   "inquiries": [
+    "The draft Social Security (Persons Detained in Hospital) (Amendment) Regulations 2026"
+   ],
+   "summary": "Commons - General Committee Fourth Delegated Legislation Committee - The draft Social Security (Persons Detained in Hospital) (Amendment) Regulations 2026",
+   "link": "https://whatson.parliament.uk/event/cal28851"
+  },
+  {
+   "type": "whatson",
+   "id": 57279,
+   "house": "Commons",
+   "kind": "Westminster Hall",
+   "category": "Westminster Hall debate",
+   "time": "16:30",
+   "description": "Government support for upland farming",
+   "members": [
+    "Ben Maguire"
+   ],
+   "summary": "Commons - Westminster Hall Government support for upland farming Ben Maguire",
+   "link": "https://whatson.parliament.uk/event/cal57279"
+  },
+  {
+   "type": "whatson",
+   "id": 57352,
+   "house": "Lords",
+   "kind": "Main Chamber",
+   "category": "Estimated rising time",
+   "time": "23:00",
+   "summary": "Lords - Main Chamber",
+   "link": "https://whatson.parliament.uk/event/cal57352"
+  },
+  {
+   "type": "whatson",
+   "id": 57345,
+   "house": "Commons",
+   "kind": "Main Chamber",
+   "category": "Urgent question",
+   "description": "To ask the Secretary of State for the Cabinet Office to make a statement on the UK Civil Service Pension Scheme and the performance of Capita",
+   "members": [
+    "Richard Tice"
+   ],
+   "summary": "Commons - Main Chamber To ask the Secretary of State for the Cabinet Office to make a statement on the UK Civil Service Pension Scheme and the performance of Capita Richard Tice",
+   "link": "https://whatson.parliament.uk/event/cal57345"
+  },
+  {
+   "type": "whatson",
+   "id": 57346,
+   "house": "Commons",
+   "kind": "Main Chamber",
+   "category": "Ministerial statement",
+   "description": "Timms Review Final Report",
+   "members": [
+    "Sir Stephen Timms"
+   ],
+   "summary": "Commons - Main Chamber Timms Review Final Report Sir Stephen Timms",
+   "link": "https://whatson.parliament.uk/event/cal57346"
+  },
+  {
+   "type": "whatson",
+   "id": 57347,
+   "house": "Commons",
+   "kind": "Main Chamber",
+   "category": "Ministerial statement",
+   "description": "COP31",
+   "members": [
+    "Miatta Fahnbulleh"
+   ],
+   "summary": "Commons - Main Chamber COP31 Miatta Fahnbulleh",
+   "link": "https://whatson.parliament.uk/event/cal57347"
+  },
+  {
+   "type": "whatson",
+   "id": 57137,
+   "house": "Commons",
+   "kind": "Main Chamber",
+   "category": "Ten Minute Rule Motion",
+   "description": "Funeral Directors etc (Register)",
+   "members": [
+    "Dame Caroline Dinenage"
+   ],
+   "summary": "Commons - Main Chamber Funeral Directors etc (Register) Dame Caroline Dinenage",
+   "link": "https://whatson.parliament.uk/event/cal57137"
+  },
+  {
+   "type": "whatson",
+   "id": 57222,
+   "house": "Commons",
+   "kind": "Main Chamber",
+   "category": "Consideration of Lords amendments",
+   "description": "Consideration of Lords Amendments to the Armed Forces Bill",
+   "summary": "Commons - Main Chamber Consideration of Lords Amendments to the Armed Forces Bill",
+   "link": "https://whatson.parliament.uk/event/cal57222"
+  },
+  {
+   "type": "whatson",
+   "id": 57223,
+   "house": "Commons",
+   "kind": "Main Chamber",
+   "category": "Consideration of Lords amendments",
+   "description": "Consideration of Lords Amendments to the Cyber Security and Resilience (Network and Information Systems) Bill",
+   "summary": "Commons - Main Chamber Consideration of Lords Amendments to the Cyber Security and Resilience (Network and Information Systems) Bill",
+   "link": "https://whatson.parliament.uk/event/cal57223"
+  },
+  {
+   "type": "whatson",
+   "id": 57306,
+   "house": "Commons",
+   "kind": "Main Chamber",
+   "category": "Adjournment",
+   "description": "Government support for Saltend Chemicals Park",
+   "members": [
+    "Graham Stuart"
+   ],
+   "summary": "Commons - Main Chamber Government support for Saltend Chemicals Park Graham Stuart",
+   "link": "https://whatson.parliament.uk/event/cal57306"
+  },
+  {
+   "type": "whatson",
+   "id": 56976,
+   "house": "Lords",
+   "kind": "Main Chamber",
+   "category": "Oral questions",
+   "description": "Involving civic society organisations in boosting economic growth and developing skills for young people",
+   "members": [
+    "Baroness Pitkeathley"
+   ],
+   "summary": "Lords - Main Chamber Involving civic society organisations in boosting economic growth and developing skills for young people Baroness Pitkeathley",
+   "link": "https://whatson.parliament.uk/event/cal56976"
+  },
+  {
+   "type": "whatson",
+   "id": 56977,
+   "house": "Lords",
+   "kind": "Main Chamber",
+   "category": "Oral questions",
+   "description": "Autism strategy",
+   "members": [
+    "Lord Touhig"
+   ],
+   "summary": "Lords - Main Chamber Autism strategy Lord Touhig",
+   "link": "https://whatson.parliament.uk/event/cal56977"
+  },
+  {
+   "type": "whatson",
+   "id": 57339,
+   "house": "Lords",
+   "kind": "Main Chamber",
+   "category": "Oral questions",
+   "description": "Investigatory Powers Tribunal's ruling that hearings on the Technical Capability Notice served on Apple must be held in public",
+   "members": [
+    "Lord Clement-Jones"
+   ],
+   "summary": "Lords - Main Chamber Investigatory Powers Tribunal's ruling that hearings on the Technical Capability Notice served on Apple must be held in public Lord Clement-Jones",
+   "link": "https://whatson.parliament.uk/event/cal57339"
+  },
+  {
+   "type": "whatson",
+   "id": 57349,
+   "house": "Lords",
+   "kind": "Main Chamber",
+   "category": "Statement",
+   "description": "UK-EU Summit",
+   "members": [
+    "Baroness Smith of Basildon"
+   ],
+   "summary": "Lords - Main Chamber UK-EU Summit Baroness Smith of Basildon",
+   "link": "https://whatson.parliament.uk/event/cal57349"
+  },
+  {
+   "type": "whatson",
+   "id": 56804,
+   "house": "Lords",
+   "kind": "Main Chamber",
+   "category": "Legislation",
+   "description": "Representation of the People Bill – committee (day 3) - part one",
+   "members": [
+    "Baroness Taylor of Stevenage"
+   ],
+   "summary": "Lords - Main Chamber Representation of the People Bill – committee (day 3) - part one Baroness Taylor of Stevenage",
+   "link": "https://whatson.parliament.uk/event/cal56804"
+  },
+  {
+   "type": "whatson",
+   "id": 57350,
+   "house": "Lords",
+   "kind": "Main Chamber",
+   "category": "Statement",
+   "description": "Timms Review Final Report (dinner break business)",
+   "members": [
+    "Baroness Sherlock"
+   ],
+   "summary": "Lords - Main Chamber Timms Review Final Report (dinner break business) Baroness Sherlock",
+   "link": "https://whatson.parliament.uk/event/cal57350"
+  },
+  {
+   "type": "whatson",
+   "id": 57351,
+   "house": "Lords",
+   "kind": "Main Chamber",
+   "category": "Legislation",
+   "description": "Representation of the People Bill – committee (day 3) - part two",
+   "members": [
+    "Baroness Taylor of Stevenage"
+   ],
+   "summary": "Lords - Main Chamber Representation of the People Bill – committee (day 3) - part two Baroness Taylor of Stevenage",
+   "link": "https://whatson.parliament.uk/event/cal57351"
+  }
+ ],
+ "committees": [
+  {
+   "type": "committee_publication",
+   "id": 55947,
+   "title": "Letter from the Interim Chief Executive, NS&I relating to Accounting Officer Assessment: NS&I’s Business Transformation (formerly Rainbow) Programme, 31 July 2026",
+   "kind": "Correspondence",
+   "date": "2026-11-23",
+   "inquiries": [
+    "NS&I’s transformation programme"
+   ],
+   "link": "https://committees.parliament.uk/publications/55947/"
+  },
+  {
+   "type": "committee_publication",
+   "id": 55946,
+   "title": "Letter from the Permanet Secretary at the Department for Digital, Culture, Media and Sport relating to Twenty-fourth report of session 2024-2026: Government Cyber Resilience, 18 November 2026",
+   "kind": "Correspondence",
+   "date": "2026-11-23",
+   "link": "https://committees.parliament.uk/publications/55946/"
+  },
+  {
+   "type": "committee_publication",
+   "id": 55945,
+   "title": "Letter from the Permanent Secretary at the Department for Health and Social Care and the Chief Executive Officer at NHS England relating to oral evidence session 2 November 2026 - update, 16 November 2026",
+   "kind": "Correspondence",
+   "date": "2026-11-23",
+   "inquiries": [
+    "Integrated Care Boards: re-organisation"
+   ],
+   "link": "https://committees.parliament.uk/publications/55945/"
+  },
+  {
+   "type": "committee_publication",
+   "id": 55944,
+   "title": "Letter from the Permanent Secretary at the Department for Transport relating to Treasury Minute response – Northern Powerhouse Rail, 13 November 2026",
+   "kind": "Correspondence",
+   "date": "2026-11-23",
+   "inquiries": [
+    "Northern Powerhouse Rail"
+   ],
+   "link": "https://committees.parliament.uk/publications/55944/"
+  },
+  {
+   "type": "committee_publication",
+   "id": 55943,
+   "title": "Letter from the Permanent Secretary at HM Treasury relating to NS&I Transformation Programme: Lessons Learned, 4 November 2026",
+   "kind": "Correspondence",
+   "date": "2026-11-23",
+   "inquiries": [
+    "NS&I’s transformation programme"
+   ],
+   "link": "https://committees.parliament.uk/publications/55943/"
+  },
+  {
+   "type": "committee_publication",
+   "id": 55942,
+   "title": "Letter from Interim Chief Executive, NS&I relating to ARA, Transformation programme update and bereavement claims update, 4 November 2026",
+   "kind": "Correspondence",
+   "date": "2026-11-23",
+   "inquiries": [
+    "NS&I’s transformation programme"
+   ],
+   "link": "https://committees.parliament.uk/publications/55942/"
+  },
+  {
+   "type": "committee_publication",
+   "id": 55941,
+   "title": "Letter from the Secretary of State for Business, Innovation, Science & Trade and President of the Board of Trade relating to UK Export Finance's (UKEF) cover limit for Ukraine, 28 October 2026",
+   "kind": "Correspondence",
+   "date": "2026-11-23",
+   "link": "https://committees.parliament.uk/publications/55941/"
+  },
+  {
+   "type": "committee_publication",
+   "id": 55936,
+   "title": "20 November 2026, Letter from the Rt Hon Hamish Falconer MP to the Chair re. UK - EU Summit and European Partnership Bill",
+   "kind": "Correspondence",
+   "date": "2026-11-23",
+   "link": "https://committees.parliament.uk/publications/55936/"
+  },
+  {
+   "type": "committee_publication",
+   "id": 55938,
+   "title": "Minutes of the 15th Meeting, 10 November 2026",
+   "kind": "Formal Minutes",
+   "date": "2026-11-23",
+   "link": "https://committees.parliament.uk/publications/55938/"
+  },
+  {
+   "type": "committee_publication",
+   "id": 55937,
+   "title": "Minutes of the 14th Meeting, 3 November 2026",
+   "kind": "Formal Minutes",
+   "date": "2026-11-23",
+   "link": "https://committees.parliament.uk/publications/55937/"
+  },
+  {
+   "type": "committee_publication",
+   "id": 55935,
+   "title": "Minutes 12th meeting 19 November 2026",
+   "kind": "Formal Minutes",
+   "date": "2026-11-23",
+   "link": "https://committees.parliament.uk/publications/55935/"
+  },
+  {
+   "type": "committee_publication",
+   "id": 55906,
+   "title": "1st Special Report - Written Parliamentary Questions: Government and House Administration Responses",
+   "kind": "Special Report",
+   "date": "2026-11-23",
+   "inquiries": [
+    "Written Parliamentary Questions"
+   ],
+   "link": "https://committees.parliament.uk/publications/55906/"
+  },
+  {
+   "type": "committee_event",
+   "id": 25906,
+   "title": "Finance Committee",
+   "start": "2026-11-24T15:00:00",
+   "location": "Room 8, Palace of Westminster",
+   "committees": [
+    "Finance Committee (Commons)"
+   ],
+   "link": "https://committees.parliament.uk/event/25906"
+  },
+  {
+   "type": "committee_event",
+   "id": 25969,
+   "title": "Formal Meeting (private meeting)",
+   "start": "2026-11-24T15:45:00",
+   "location": "Room 4A, Palace of Westminster",
+   "committees": [
+    "Secondary Legislation Scrutiny Committee"
+   ],
+   "link": "https://committees.parliament.uk/event/25969"
+  },
+  {
+   "type": "committee_event",
+   "id": 26953,
+   "start": "2026-11-24T09:45:00",
+   "location": "Room 5, Palace of Westminster",
+   "committees": [
+    "Committee on Standards"
+   ],
+   "link": "https://committees.parliament.uk/event/26953"
+  },
+  {
+   "type": "committee_event",
+   "id": 27667,
+   "start": "2026-11-24T14:00:00",
+   "location": "The Thatcher Room, Portcullis House",
+   "committees": [
+    "Home Affairs Committee"
+   ],
+   "inquiries": [
+    "Work-based immigration"
+   ],
+   "link": "https://committees.parliament.uk/event/27667"
+  },
+  {
+   "type": "committee_event",
+   "id": 27942,
+   "start": "2026-11-24T10:30:00",
+   "location": "Room 2, Palace of Westminster",
+   "committees": [
+    "Justice and Home Affairs Committee"
+   ],
+   "inquiries": [
+    "Settlement, Citizenship and Integration"
+   ],
+   "link": "https://committees.parliament.uk/event/27942"
+  },
+  {
+   "type": "committee_event",
+   "id": 28267,
+   "start": "2026-11-24T15:00:00",
+   "location": "The Macmillan Room, Portcullis House",
+   "committees": [
+    "Transport Committee"
+   ],
+   "link": "https://committees.parliament.uk/event/28267"
+  },
+  {
+   "type": "committee_event",
+   "id": 28340,
+   "title": "General Election Planning Inquiry - Oral Evidence session 6",
+   "start": "2026-11-24T10:00:00",
+   "location": "Room 6, Palace of Westminster",
+   "committees": [
+    "Administration Committee"
+   ],
+   "inquiries": [
+    "General Election Planning"
+   ],
+   "link": "https://committees.parliament.uk/event/28340"
+  },
+  {
+   "type": "committee_event",
+   "id": 28474,
+   "start": "2026-11-24T09:25:00",
+   "location": "Room 12, Palace of Westminster",
+   "committees": [
+    "Highways (Financing) Bill"
+   ],
+   "inquiries": [
+    "Further to consider the Bill"
+   ],
+   "link": "https://committees.parliament.uk/event/28474"
+  },
+  {
+   "type": "committee_event",
+   "id": 28475,
+   "start": "2026-11-24T14:00:00",
+   "location": "Room 12, Palace of Westminster",
+   "committees": [
+    "Highways (Financing) Bill"
+   ],
+   "link": "https://committees.parliament.uk/event/28475"
+  },
+  {
+   "type": "committee_event",
+   "id": 28501,
+   "start": "2026-11-24T09:30:00",
+   "location": "Room 16, Palace of Westminster",
+   "committees": [
+    "Digital, Culture, Media and Sport Committee"
+   ],
+   "inquiries": [
+    "Children's tv and video content"
+   ],
+   "link": "https://committees.parliament.uk/event/28501"
+  },
+  {
+   "type": "committee_event",
+   "id": 28541,
+   "title": "Dual role of the Lord Advocate – Session 4",
+   "start": "2026-11-24T09:00:00",
+   "location": "Room 15, Palace of Westminster",
+   "committees": [
+    "Scottish Affairs Committee"
+   ],
+   "inquiries": [
+    "The dual role of the Lord Advocate"
+   ],
+   "link": "https://committees.parliament.uk/event/28541"
+  },
+  {
+   "type": "committee_event",
+   "id": 28618,
+   "start": "2026-11-24T09:25:00",
+   "location": "Room 11, Palace of Westminster",
+   "committees": [
+    "Building Safety (Remediation of Unsafe Cladding etc) Bill"
+   ],
+   "inquiries": [
+    "Further to consider the Bill"
+   ],
+   "link": "https://committees.parliament.uk/event/28618"
+  },
+  {
+   "type": "committee_event",
+   "id": 28620,
+   "start": "2026-11-24T14:00:00",
+   "location": "Room 11, Palace of Westminster",
+   "committees": [
+    "Building Safety (Remediation of Unsafe Cladding etc) Bill"
+   ],
+   "inquiries": [
+    "Further to consider the Bill"
+   ],
+   "link": "https://committees.parliament.uk/event/28620"
+  },
+  {
+   "type": "committee_event",
+   "id": 28635,
+   "title": "Oral Evidence Session",
+   "start": "2026-11-24T10:00:00",
+   "location": "The Grimond Room, Portcullis House",
+   "committees": [
+    "Defence Committee"
+   ],
+   "inquiries": [
+    "MoD Annual Report and Accounts 2025-26"
+   ],
+   "link": "https://committees.parliament.uk/event/28635"
+  },
+  {
+   "type": "committee_event",
+   "id": 28722,
+   "start": "2026-11-24T11:00:00",
+   "location": "Room 4, Palace of Westminster",
+   "committees": [
+    "Industry and Regulators Committee"
+   ],
+   "link": "https://committees.parliament.uk/event/28722"
+  },
+  {
+   "type": "committee_event",
+   "id": 28736,
+   "start": "2026-11-24T14:00:00",
+   "location": "Room 3, Palace of Westminster",
+   "committees": [
+    "European Affairs Committee"
+   ],
+   "inquiries": [
+    "Oral evidence - The Rt Hon Hamish Falconer MP, Minister of State (Minister for Intergovernmental Relations and European Relations)"
+   ],
+   "link": "https://committees.parliament.uk/event/28736"
+  },
+  {
+   "type": "committee_event",
+   "id": 28749,
+   "start": "2026-11-24T15:30:00",
+   "location": "Room 6, Palace of Westminster",
+   "committees": [
+    "Public Accounts Commission"
+   ],
+   "link": "https://committees.parliament.uk/event/28749"
+  },
+  {
+   "type": "committee_event",
+   "id": 28751,
+   "start": "2026-11-24T14:00:00",
+   "location": "The Wilson Room, Portcullis House",
+   "committees": [
+    "Justice Committee"
+   ],
+   "inquiries": [
+    "Children and Young Adults in the Secure Estate"
+   ],
+   "link": "https://committees.parliament.uk/event/28751"
+  },
+  {
+   "type": "committee_event",
+   "id": 28753,
+   "start": "2026-11-24T09:15:00",
+   "location": "The Wilson Room, Portcullis House",
+   "committees": [
+    "Education Committee"
+   ],
+   "inquiries": [
+    "Preparing for Votes at 16: The Role of the Education System"
+   ],
+   "link": "https://committees.parliament.uk/event/28753"
+  },
+  {
+   "type": "committee_event",
+   "id": 28761,
+   "start": "2026-11-24T15:00:00",
+   "location": "Room 2, Palace of Westminster",
+   "committees": [
+    "Economic Affairs Committee"
+   ],
+   "inquiries": [
+    "Fiscal devolution in England"
+   ],
+   "link": "https://committees.parliament.uk/event/28761"
+  },
+  {
+   "type": "committee_event",
+   "id": 28779,
+   "start": "2026-11-24T09:30:00",
+   "location": "Room 8, Palace of Westminster",
+   "committees": [
+    "Public Administration and Constitutional Affairs Committee"
+   ],
+   "inquiries": [
+    "Pre-appointment Hearing: Independent Reviewer of Public Sector Fraud Authority"
+   ],
+   "link": "https://committees.parliament.uk/event/28779"
+  },
+  {
+   "type": "committee_event",
+   "id": 28799,
+   "title": "Formal Evidence Session",
+   "start": "2026-11-24T09:30:00",
+   "location": "The Thatcher Room, Portcullis House",
+   "committees": [
+    "Housing, Communities and Local Government Committee"
+   ],
+   "inquiries": [
+    "Modernising Elections"
+   ],
+   "link": "https://committees.parliament.uk/event/28799"
+  },
+  {
+   "type": "committee_event",
+   "id": 28802,
+   "start": "2026-11-24T13:00:00",
+   "location": "The Boothroyd Room, Portcullis House",
+   "committees": [
+    "Foreign Affairs Committee"
+   ],
+   "inquiries": [
+    "Work of the Foreign, Commonwealth and Development Office"
+   ],
+   "link": "https://committees.parliament.uk/event/28802"
+  },
+  {
+   "type": "committee_event",
+   "id": 28804,
+   "start": "2026-11-24T16:00:00",
+   "location": "Room 16, Palace of Westminster",
+   "committees": [
+    "Backbench Business Committee"
+   ],
+   "inquiries": [
+    "Proposals for backbench debates"
+   ],
+   "link": "https://committees.parliament.uk/event/28804"
+  },
+  {
+   "type": "committee_event",
+   "id": 28821,
+   "start": "2026-11-24T14:00:00",
+   "location": "Room 4, Palace of Westminster",
+   "committees": [
+    "International Agreements Committee"
+   ],
+   "inquiries": [
+    "E-Commerce Agreement"
+   ],
+   "link": "https://committees.parliament.uk/event/28821"
+  },
+  {
+   "type": "committee_event",
+   "id": 28830,
+   "start": "2026-11-24T09:25:00",
+   "location": "Room 9, Palace of Westminster",
+   "committees": [
+    "Financial Services and Markets Bill [Lords]"
+   ],
+   "inquiries": [
+    "Further to consider the Bill"
+   ],
+   "link": "https://committees.parliament.uk/event/28830"
+  },
+  {
+   "type": "committee_event",
+   "id": 28831,
+   "start": "2026-11-24T14:00:00",
+   "location": "Room 9, Palace of Westminster",
+   "committees": [
+    "Financial Services and Markets Bill [Lords]"
+   ],
+   "inquiries": [
+    "Further to consider the Bill"
+   ],
+   "link": "https://committees.parliament.uk/event/28831"
+  },
+  {
+   "type": "committee_event",
+   "id": 28845,
+   "title": "Built Environment Committee Meeting",
+   "start": "2026-11-24T10:30:00",
+   "location": "Room 1, Palace of Westminster",
+   "committees": [
+    "Built Environment Committee"
+   ],
+   "inquiries": [
+    "Maintenance and enforcement in public spaces"
+   ],
+   "link": "https://committees.parliament.uk/event/28845"
+  },
+  {
+   "type": "committee_event",
+   "id": 28846,
+   "start": "2026-11-24T14:15:00",
+   "location": "The Grimond Room, Portcullis House",
+   "committees": [
+    "Business, Innovation, Science and Trade Committee"
+   ],
+   "inquiries": [
+    "Entrepreneurship and business"
+   ],
+   "link": "https://committees.parliament.uk/event/28846"
+  },
+  {
+   "type": "committee_event",
+   "id": 28850,
+   "start": "2026-11-24T14:30:00",
+   "location": "Room 10, Palace of Westminster ",
+   "committees": [
+    "Third Delegated Legislation Committee"
+   ],
+   "inquiries": [
+    "The draft Environmental Permitting (England and Wales) (Amendment) (England) Regulations 2026"
+   ],
+   "link": "https://committees.parliament.uk/event/28850"
+  },
+  {
+   "type": "committee_event",
+   "id": 28851,
+   "start": "2026-11-24T16:30:00",
+   "location": "Room 12, Palace of Westminster",
+   "committees": [
+    "Fourth Delegated Legislation Committee"
+   ],
+   "inquiries": [
+    "The draft Social Security (Persons Detained in Hospital) (Amendment) Regulations 2026"
+   ],
+   "link": "https://committees.parliament.uk/event/28851"
+  },
+  {
+   "type": "committee_event",
+   "id": 28863,
+   "start": "2026-11-24T10:00:00",
+   "location": "Room 3, Palace of Westminster",
+   "committees": [
+    "Science and Technology Committee"
+   ],
+   "inquiries": [
+    "Future of UK compute in the age of AI"
+   ],
+   "link": "https://committees.parliament.uk/event/28863"
+  }
+ ],
+ "gaps": []
 }

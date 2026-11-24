@@ -1,0 +1,3474 @@
+{
+ "id": 4679,
+ "fetchedOn": "2026-11-24",
+ "core": {
+  "id": 4679,
+  "nameListAs": "O'Brien, Neil",
+  "nameDisplayAs": "Neil O'Brien",
+  "nameFullTitle": "Neil O'Brien MP",
+  "nameAddressAs": "Neil O'Brien",
+  "latestParty": {
+   "id": 4,
+   "name": "Conservative",
+   "abbreviation": "Con",
+   "backgroundColour": "0063ba",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": false,
+   "governmentType": 3,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "Harborough, Oadby and Wigston",
+   "membershipFromId": 4081,
+   "house": 1,
+   "membershipStartDate": "2017-06-08T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2024-07-04T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/4679/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2024-05-31T00:00:00",
+    "constituencyEnd": null,
+    "house": 1,
+    "name": "Harborough, Oadby and Wigston",
+    "id": 4081,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "2010-04-13T00:00:00",
+    "constituencyEnd": "2024-05-30T00:00:00",
+    "house": 1,
+    "name": "Harborough",
+    "id": 3514,
+    "startDate": "2017-06-08T00:00:00",
+    "endDate": "2024-05-30T00:00:00",
+    "additionalInfo": "Elected 2 times",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [],
+  "houseMemberships": [
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "2017-06-08T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Neil O'Brien",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [
+   {
+    "house": 1,
+    "name": "Parliamentary Under-Secretary (Department of Health and Social Care)",
+    "id": 1212,
+    "startDate": "2022-09-08T00:00:00",
+    "endDate": "2023-11-13T00:00:00",
+    "additionalInfo": "Department of Health and Social Care",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-of-health-and-social-care"
+   },
+   {
+    "house": 1,
+    "name": "Parliamentary Under Secretary of State (Department for Levelling Up, Housing and Communities)",
+    "id": 1253,
+    "startDate": "2021-09-19T00:00:00",
+    "endDate": "2022-07-06T00:00:00",
+    "additionalInfo": "Department for Levelling Up, Housing and Communities",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities"
+   },
+   {
+    "house": 1,
+    "name": "Parliamentary Under-Secretary (Housing, Communities and Local Government)",
+    "id": 1209,
+    "startDate": "2021-09-16T00:00:00",
+    "endDate": "2021-09-19T00:00:00",
+    "additionalInfo": "Ministry of Housing, Communities and Local Government",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government"
+   }
+  ],
+  "oppositionPosts": [
+   {
+    "house": 1,
+    "name": "Shadow Minister (Policy Renewal and Development)",
+    "id": 1737,
+    "startDate": "2025-07-22T00:00:00",
+    "endDate": null,
+    "additionalInfo": "HM Official Opposition",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Shadow Minister (Education)",
+    "id": 960,
+    "startDate": "2024-11-04T00:00:00",
+    "endDate": "2025-07-22T00:00:00",
+    "additionalInfo": "Department for Education",
+    "additionalInfoLink": "http://www.education.gov.uk/"
+   }
+  ],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Conservative",
+    "id": 4,
+    "startDate": "2017-06-08T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 1,
+    "name": "Science and Technology Committee (Commons)",
+    "id": 135,
+    "startDate": "2017-09-11T00:00:00",
+    "endDate": "2019-01-21T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Levelling-up and Regeneration Bill",
+    "id": 598,
+    "startDate": "2022-06-15T00:00:00",
+    "endDate": "2022-07-11T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Children’s Wellbeing and Schools Bill",
+    "id": 757,
+    "startDate": "2025-01-15T00:00:00",
+    "endDate": "2025-02-11T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Bill [HL]",
+    "id": 784,
+    "startDate": "2025-03-05T00:00:00",
+    "endDate": "2025-03-20T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 9,
+   "name": "8. Miscellaneous",
+   "sortOrder": 0,
+   "interests": [
+    {
+     "id": 1613,
+     "interest": "A member of the advisory board of Onward, a think tank which aims to produce modernising ideas to address some of the biggest challenges facing the UK. This is an unpaid role.\r\nDate interest arose: 25 April 2018\r\n(Registered 16 June 2020)",
+     "createdWhen": "2024-04-18T15:14:38.76",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [],
+ "synopsis": "Neil O'Brien is the Conservative MP for <a href='/constituency/4081/overview'>Harborough, Oadby and Wigston</a>, and has been an MP continually since 8 June 2017. \r\nHe currently undertakes the role of Shadow Minister (Policy Renewal and Development).",
+ "history": [
+  {
+   "id": 1962117,
+   "uin": "44910",
+   "heading": "Compulsorily Detained Psychiatric Patients",
+   "questionText": "To ask the Secretary of State for Justice, what the annual cost was of the Mental Health Casework Section for restricted patients in each year since 2016.",
+   "dateTabled": "2026-11-19T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1962115,
+   "uin": "44908",
+   "heading": "Compulsorily Detained Psychiatric Patients",
+   "questionText": "To ask the Secretary of State for Justice, pursuant to the Answer of 11 September 2026 to Question 28017, what the (a) mean and (b) median time was from becoming subject to a hospital order with restrictions to first conditional discharge for restricted p",
+   "dateTabled": "2026-11-19T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1961557,
+   "uin": "44484",
+   "heading": "Employment: Young People",
+   "questionText": "To ask the Secretary of State for Work and Pensions, with reference to his Department's report entitled From a Welfare State to a Working State: Analytical Annex, published 17 November 2026, if he will publish a breakdown of the 440,000 additional young p",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1961433,
+   "uin": "44360",
+   "heading": "Social Security Benefits: Young People",
+   "questionText": "To ask the Secretary of State for Work and Pensions, with reference to the Analytical Annex of the report entitled From a Welfare State to a Working State, if he will publish the illustrative assumptions used to place PIP inflows aged 18 to 24 in the grou",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1960390,
+   "uin": "43520",
+   "heading": "Asylum: Expenditure",
+   "questionText": "To ask the Secretary of State for the Home Department, pursuant to the Answer of 11 November 2026 to Question 39310, if she will provide that breakdown for the most recent financial year for which data is held.",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1960869,
+   "uin": "43928",
+   "heading": "Railways: Tickets",
+   "questionText": "To ask the Secretary of State for Transport, with reference to the Answer of 16 November 2026 to Question 42373, how many (a) BritRail Passes and (b) All Line Rover tickets were sold in each of the last five years.",
+   "dateTabled": "2026-11-17T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1960895,
+   "uin": "43954",
+   "heading": "Resettlement: Afghanistan",
+   "questionText": "To ask the Secretary of State for the Home Department, what the costs associated with deciding a case, as described in note 4 to tables ASY_01 to ASY_05(M) in the ASY_04 release, were for the Afghan Resettlement Programme in 2025-26.",
+   "dateTabled": "2026-11-17T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1960871,
+   "uin": "43930",
+   "heading": "Resettlement: Afghanistan",
+   "questionText": "To ask the Secretary of State for the Home Department, how many full-time equivalent staff in her Department worked on the Afghan Resettlement Programme in 2025-26, and what their pay bill costs were.",
+   "dateTabled": "2026-11-17T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1960568,
+   "uin": "43698",
+   "heading": "Offenders: Bail",
+   "questionText": "To ask the Secretary of State for Justice, how many offenders granted post-conviction bail at the Crown Court failed to surrender for sentence in each year since 2014, by offence group.",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1960391,
+   "uin": "43521",
+   "heading": "Resettlement: Afghanistan",
+   "questionText": "To ask the Secretary of State for the Home Department, pursuant to the Answer of 11 November 2026 to Question 39306, whether her Department holds an estimate of the cost of the Afghan resettlement schemes on the same basis as ASY_04 Breakdown of Asylum co",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1960393,
+   "uin": "43523",
+   "heading": "British Nationality",
+   "questionText": "To ask the Secretary of State for the Home Department, how many people granted British citizenship in each year since 2015 first entered the UK on (a) a family visa, (b) a work visa, (c) a study visa, (d) an asylum or resettlement route and (e) another ro",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1957852,
+   "uin": "41470",
+   "heading": "Suicide",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps are being taken to increase suicide awareness training and anti-suicide best practice among GPs.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1959716,
+   "uin": "43036",
+   "heading": "Visas: Overseas Students",
+   "questionText": "To ask the Secretary of State for the Home Department, how many people whose most recent leave as a Student was sponsored by a licensed student sponsor were subsequently granted leave on (a) the Graduate route and (b) the Skilled Worker route, broken down",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1959571,
+   "uin": "42891",
+   "heading": "Driving Tests: Waiting Lists\t",
+   "questionText": "To ask the Secretary of State for Transport, if she will publish the weeks to 10%+ weekly appointment availability measure for September and October 2026 for each driving test centre for which that figure was not included in table DRT122F.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1958923,
+   "uin": "42401",
+   "heading": "Private Rented Housing: Income Tax",
+   "questionText": "To ask the Chancellor of the Exchequer, with reference to the Answer to Question 39901, what estimate he has made of the level of (a) the expected impact on rental prices of the increase in property rates from April 2027 and (b) the expected reduction in ",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1958895,
+   "uin": "42373",
+   "heading": "Railways: Concessions",
+   "questionText": "To ask the Secretary of State for Transport, what assessment she has made of the difference in price between the BritRail Pass, available only to non-UK residents, and the All Line Rover; and whether there are any plans to introduce a rail pass for UK res",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1956685,
+   "uin": "40798",
+   "heading": "Borders: Personal Records",
+   "questionText": "To ask the Secretary of State for the Home Department, with reference to the Answer of 14 July 2026 to Question 16690, on what date she plans to resume publication of statistics relating to exit checks.",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1954792,
+   "uin": "39310",
+   "heading": "Asylum: Expenditure",
+   "questionText": "To ask the Secretary of State for the Home Department, with reference to note 4 to tables ASY_01 to ASY_05(M) in the ASY_04 release, if she will provide a breakdown of the Total Asylum Costs figure in each financial year since 2019-20 by (a) costs associa",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1954788,
+   "uin": "39306",
+   "heading": "Resettlement: Afghanistan",
+   "questionText": "To ask the Secretary of State for the Home Department, with reference the answer to Question 30447 on 29 October 2026, what the cost to her Department of the Afghan resettlement schemes was in each financial year since 2021-22, estimated on the same basis",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1955472,
+   "uin": "39901",
+   "heading": "Landlords: Income Tax",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment he has made of the potential impact of raising income tax rates on Property Income from April 2027 on the level of residential rents in the UK, including the i) level of pass-through from residential",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1938505,
+   "uin": "27518",
+   "heading": "Artificial Intelligence",
+   "questionText": "To ask the Minister for the Cabinet Office, what assessment she has made of the potential implications for her policies of the hacking of Hugging Face by collaborating agents, and what plans he has for the further development of AISI and other UK governme",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1954837,
+   "uin": "39355",
+   "heading": "Universal Credit: Mental Illness",
+   "questionText": "To ask the Secretary of State for Work and Pensions, with reference to the department's answer to questions 36174 and 33781, how many Universal Credit claimants with limited capability for work and work-related activity were reported as having the conditi",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1953168,
+   "uin": "37956",
+   "heading": "Driving Tests",
+   "questionText": "To ask the Secretary of State for Transport, what the monthly average waiting time for a car practical driving test was at each (a) driving test centre and (b) zone in each month since April 2015.",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1954009,
+   "uin": "38719",
+   "heading": "Cannabis: Medical Treatments",
+   "questionText": "To ask the Secretary of State for the Home Department, what her planned timetable is for the Advisory Council on the Misuse of Drugs to publish its review of cannabis-based products for medicinal use.",
+   "dateTabled": "2026-10-27T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1950703,
+   "uin": "36174",
+   "heading": "Universal Credit: Mental Illness",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many Universal Credit claimants with limited capability for work and work-related activity had each of the 10 most frequently recorded conditions within the Mental and Behavioural Disorders group re",
+   "dateTabled": "2026-10-19T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1944301,
+   "uin": "30447",
+   "heading": "Resettlement: Afghanistan",
+   "questionText": "To ask the Secretary of State for the Home Department, whether the costs of Afghan settlement schemes are included in the Home Office publication \"ASY_04: Breakdown of Asylum costs and productivity\".",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1951527,
+   "uin": "36791",
+   "heading": "Midland Main Line: Rolling Stock",
+   "questionText": "To ask the Secretary of State for Transport, what progress has been made in introducing new rolling stock on the Midland Main Line and when the full fleet of new trains is expected to be operational.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1951915,
+   "uin": "37178",
+   "heading": "Visas: Skilled Workers",
+   "questionText": "To ask the Secretary of State for the Home Department, how many dependants of main applicants on the Skilled Worker route were granted visas in 2025, broken down by the main applicant’s licensed sponsor.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1947798,
+   "uin": "33781",
+   "heading": "Universal Credit: Mental Illness",
+   "questionText": "To ask the Secretary of State for Work and Pensions, with reference to Figure 9 of the Department’s publication Universal Credit Work Capability Assessment statistics, April 2019 to March 2026 and the response to FOI2026/95977, how many Universal Credit W",
+   "dateTabled": "2026-10-12T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1947797,
+   "uin": "33780",
+   "heading": "Universal Credit: Mental Illness",
+   "questionText": "To ask the Secretary of State for Work and Pensions, with reference to Figure 9 of the Department’s publication Universal Credit Work Capability Assessment statistics, April 2019 to March 2026 and the response to FOI2026/95977, how many Universal Credit W",
+   "dateTabled": "2026-10-12T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1947796,
+   "uin": "33779",
+   "heading": "Universal Credit: Musculoskeletal Disorders",
+   "questionText": "To ask the Secretary of State for Work and Pensions, with reference to Figure 9 of the Department’s publication Universal Credit Work Capability Assessment statistics, April 2019 to March 2026 and to the response to FOI2026/95977, how many Universal Credi",
+   "dateTabled": "2026-10-12T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1943223,
+   "uin": "29968",
+   "heading": "Education: Standards",
+   "questionText": "To ask the Secretary of State for Education, what i) number and b) proportion of each Major and Minor ethnic group were in each decile of national attainment as measured by attainment 8 for that group in 2023/24.",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1943218,
+   "uin": "29963",
+   "heading": "Education: Standards",
+   "questionText": "To ask the Secretary of State for Education, what the Attainment 8 score was at each decile of attainment for each Major and Minor ethnic group in 2023/24.",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1947829,
+   "uin": "33812",
+   "heading": "Undocumented Workers: Fines",
+   "questionText": "To ask the Secretary of State for the Home Department, with reference to the collection 'Employers: illegal working penalties', last updated on 9th September 2026, whether the Department will publish or provide a record of all illegal working civil penalt",
+   "dateTabled": "2026-10-12T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1943208,
+   "uin": "29960",
+   "heading": "Pay: Children and Young People",
+   "questionText": "To ask the Minister for the Cabinet Office, what the average hourly earnings by single year of age for those aged (a) 16, (b) 17, (c) 18, (d) 19, (e) 20, (f) 21, (g) 22, (h) 23, (i) 24 and (j) 25 were in each year between 1997 and 2010.",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1942267,
+   "uin": "29480",
+   "heading": "Asylum: Overseas Students",
+   "questionText": "To ask the Secretary of State for the Home Department, pursuant to the Answer of 11 September 2026 to Question 28021, for what reason a breakdown of asylum claimants who previously held a study visa by sponsoring institution is not currently published.",
+   "dateTabled": "2026-09-14T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1941589,
+   "uin": "29154",
+   "heading": "Environment Agency: Contracts",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, with reference to page 70 of the Environment Agency's Annual Report and Accounts 2015/6, if she will provide a breakdown of the £50.2m spent by the Environment Agency in Hired and Cont",
+   "dateTabled": "2026-09-11T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1939716,
+   "uin": "28389",
+   "heading": "Cannabis: Prescriptions",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether she considers the volume of prescriptions issued for cannabis-based products for medicinal use to be consistent with patient safety.",
+   "dateTabled": "2026-09-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1939715,
+   "uin": "28388",
+   "heading": "Cannabis: Social Media",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps her Department and the MHRA are taking to enforce restrictions on the advertising of cannabis-based products for medicinal use on social media.",
+   "dateTabled": "2026-09-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1937941,
+   "uin": "26968",
+   "heading": "Compulsorily Detained Psychiatric Patients",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many patients detained under Part III of the Mental Health Act 1983 are held in (a) low, (b) medium and (c) high secure hospitals as of the latest date for which figures are available.",
+   "dateTabled": "2026-09-03T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1937488,
+   "uin": "26615",
+   "heading": "Compulsorily Detained Psychiatric Patients",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many patients detained under Part III of the Mental Health Act 1983 were discharged from hospital in the most recent 12 months for which data is available, broken down by section.",
+   "dateTabled": "2026-09-02T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1937487,
+   "uin": "26614",
+   "heading": "Compulsorily Detained Psychiatric Patients",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many patients are currently detained under Part III of the Mental Health Act 1983, broken down by section.",
+   "dateTabled": "2026-09-02T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1939139,
+   "uin": "28019",
+   "heading": "Childcare: Finance",
+   "questionText": "To ask the Secretary of State for Education, how many children were ineligible for government-funded childcare in 2023/4, 2024/5 and 2025/6 as a result of the £100,000 earnings limit; and what her Department's estimate is of the value of funded childcare ",
+   "dateTabled": "2026-09-08T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1939658,
+   "uin": "28387",
+   "heading": "Public Expenditure",
+   "questionText": "To ask the Chancellor of the Exchequer, with reference to Note 8. Purchase of Goods, Services and Other Expenditure on page 177 of the Whole of Government Accounts 2022-3, if she will provide a breakdown of expenditure in the financial years in (a) 2022/3",
+   "dateTabled": "2026-09-09T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1939654,
+   "uin": "28386",
+   "heading": "Department for Energy Security and Net Zero: Communication",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, how much her Department spent on external communications in each of the last three financial years.",
+   "dateTabled": "2026-09-09T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1938367,
+   "uin": "27272",
+   "heading": "Sexual Offences: Medical Treatments",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many people in the custody of HM Prison and Probation Service are currently receiving medication to manage problematic sexual arousal (MMPSA).",
+   "dateTabled": "2026-09-04T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1939119,
+   "uin": "28017",
+   "heading": "Compulsorily Detained Psychiatric Patients",
+   "questionText": "To ask the Secretary of State for Justice, with reference to the Restricted Patients Statistics, England and Wales 2025, published 30 April 2026, what the mean and median length of time is between a patient becoming subject to a hospital order with restri",
+   "dateTabled": "2026-09-08T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1939120,
+   "uin": "28018",
+   "heading": "Compulsorily Detained Psychiatric Patients",
+   "questionText": "To ask the Secretary of State for Justice, how many offenders were sentenced to a hospital and limitation direction under section 45A of the Mental Health Act 1983 in each of the last five calendar years.",
+   "dateTabled": "2026-09-08T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1939214,
+   "uin": "28021",
+   "heading": "Asylum: Overseas Students",
+   "questionText": "To ask the Secretary of State for the Home Department, how many people who claimed asylum in the UK in each of the last five years had previously held a Student visa, by sponsoring institution.",
+   "dateTabled": "2026-09-08T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1939213,
+   "uin": "28020",
+   "heading": "Driving Licences",
+   "questionText": "To ask the Secretary of State for Transport, how many applications for first provisional driving licences were received by DVLA in each of the last five complete calendar years by applicant’s country of birth.",
+   "dateTabled": "2026-09-08T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1938497,
+   "uin": "27517",
+   "heading": "Entry Clearances: Care Workers",
+   "questionText": "To ask the Secretary of State for the Home Department, how many individuals were granted entry clearance under the Health and Care Worker route in the last 12 months for which data is available, broken down by age group.",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1938496,
+   "uin": "27516",
+   "heading": "Entry Clearances: Migrant Workers",
+   "questionText": "To ask the Secretary of State for the Home Department, how many individuals were granted entry clearance under the Graduate route in the last 12 months for which data is available, broken down by age group.",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1938495,
+   "uin": "27515",
+   "heading": "Entry Clearances: Overseas Students",
+   "questionText": "To ask the Secretary of State for the Home Department, how many individuals were granted entry clearance under the Student route in the last 12 months for which data is available, broken down by age group.",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1938494,
+   "uin": "27514",
+   "heading": "Entry Clearances: Skilled Workers",
+   "questionText": "To ask the Secretary of State for the Home Department, how many individuals were granted entry clearance under the Skilled Worker route in the last 12 months for which data is available, broken down by age group.",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1938490,
+   "uin": "27513",
+   "heading": "Entry Clearances: Ministers of Religion",
+   "questionText": "To ask the Secretary of State for the Home Department, how many individuals were granted entry clearance under (a) the Religious Worker route and (b) the Tier 2 (Minister of Religion) route in each of the last five years.",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1938366,
+   "uin": "27271",
+   "heading": "Sexual Offences: Medical Treatments",
+   "questionText": "To ask the Secretary of State for Justice, with reference to the oral contribution of the Justice Secretary in the debate on the Independent Sentencing Review on 22 May 2025, whether he plans to continue to explore mandating medication to manage problemat",
+   "dateTabled": "2026-09-04T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1936625,
+   "uin": "26101",
+   "heading": "British Nationality",
+   "questionText": "To ask the Secretary of State for the Home Department, for what reason her Department has stopped publishing the age of those granted British citizenship since 2021.",
+   "dateTabled": "2026-09-01T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1936516,
+   "uin": "26100",
+   "heading": "Teachers: Workplace Pensions",
+   "questionText": "To ask the Secretary of State for Education, how many people have returned their Remediable Service Statements for the Teachers' Pension Scheme; how many of those who have done so have been found to be owed money; and how many of those people are still ow",
+   "dateTabled": "2026-09-01T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1936515,
+   "uin": "26099",
+   "heading": "Teachers: Workplace Pensions",
+   "questionText": "To ask the Secretary of State for Education, what progress her Department has made on resolving administrative issues with the Teachers' Pensions scheme.",
+   "dateTabled": "2026-09-01T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1937354,
+   "uin": "26612",
+   "heading": "Environment Agency: Contracts",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, with reference to page 102 of the Environment Agency's Annual Report and Accounts 2025/6, if she will provide a breakdown of the £218.4m spent by the Environment Agency in Hired and Co",
+   "dateTabled": "2026-09-02T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1931959,
+   "uin": "21397",
+   "heading": "Pay: Graduates",
+   "questionText": "To ask the Secretary of State for Education, with reference to the Graduate labour market outcomes (LEO) statistics published on 25 June 2026, if she will publish data on graduate and non-graduate earnings broken down by prior attainment at A-Level and BT",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1932069,
+   "uin": "21404",
+   "heading": "Asylum: Sponsorship",
+   "questionText": "To ask the Secretary of State for the Home Department, with reference to the press release entitled \"Mahmood: My reforms will save the asylum system for a generation\", published on 30 June 2026, whether local authorities will retain a role in consenting t",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1932068,
+   "uin": "21403",
+   "heading": "Asylum: Sponsorship",
+   "questionText": "To ask the Secretary of State for the Home Department, with reference to the press release entitled Mahmood: My reforms will save the asylum system for a generation, published on 30 June 2026, what the fundraising and legal status requirements will be for",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1932067,
+   "uin": "21402",
+   "heading": "Asylum: Sponsorship",
+   "questionText": "To ask the Secretary of State for the Home Department, with reference to the press release entitled \"Mahmood: My reforms will save the asylum system for a generation\", published on 30 June 2026, whether universities, employers or local groups sponsoring r",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1932066,
+   "uin": "21401",
+   "heading": "Asylum: Sponsorship",
+   "questionText": "To ask the Secretary of State for the Home Department, with reference to the press release entitled \"Mahmood: My reforms will save the asylum system for a generation\", published on 30 June 2026, whether an annual cap will be placed on the number of arriva",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1932065,
+   "uin": "21400",
+   "heading": "Asylum: Resettlement",
+   "questionText": "To ask the Secretary of State for the Home Department, with reference to the press release entitled \"Mahmood: My reforms will save the asylum system for a generation\", published on 30 June 2026, what estimate has been made of the number of refugees expect",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1932064,
+   "uin": "21399",
+   "heading": "Asylum: Sponsorship",
+   "questionText": "To ask the Secretary of State for the Home Department, with reference to the press release entitled \"Mahmood: My reforms will save the asylum system for a generation\", published on 30 June 2026, whether refugees will be prioritised for resettlement under ",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1932063,
+   "uin": "21398",
+   "heading": "Asylum: Sponsorship",
+   "questionText": "To ask the Secretary of State for the Home Department, with reference to the press release entitled \"Mahmood: My reforms will save the asylum system for a generation\", published on 30 June 2026, whether sponsor groups will be permitted to nominate individ",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1937358,
+   "uin": "26613",
+   "heading": "Warm Homes Plan: Finance",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, with reference to page 50 of the Warm Homes Plan 2026, if she will provide a breakdown of the £4,422m planned spend in the Low-income homes grants described in the Warm Homes Plan by expected",
+   "dateTabled": "2026-09-02T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1928800,
+   "uin": "19426",
+   "heading": "Department for Science, Innovation and Technology: Public Expenditure",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, with reference to the 2025/6 Annual Report and Accounts, for a breakdown of i) the £122m gross outturn on CDEL for \"Support for the Digital, Broadcasting and Media sectors\" described in ",
+   "dateTabled": "2026-07-16T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1928801,
+   "uin": "19427",
+   "heading": "Department for Science, Innovation and Technology: Public Expenditure",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, with reference to the DSIT Main Estimate Memorandum for 2026/7, for a breakdown by programme of the £219.0m in CDEL allocated to Science and Society.",
+   "dateTabled": "2026-07-16T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1928231,
+   "uin": "19072",
+   "heading": "Public Expenditure",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the Answer of 13 July 2026 to Question 16513, if she can confirm that the information requested in that question is internally held.",
+   "dateTabled": "2026-07-15T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1927651,
+   "uin": "18691",
+   "heading": "Office of Rail and Road",
+   "questionText": "To ask the Secretary of State for Transport, with reference to section 5 of the Government Efficiency Framework, if he will publish the most recent quarterly efficiency report provided by the Office of Rail and Road.",
+   "dateTabled": "2026-07-14T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1924280,
+   "uin": "16047",
+   "heading": "Department for Work and Pensions: Public Expenditure",
+   "questionText": "To ask the Secretary of State for Work and Pensions, pursuant to the answer of 2 July 2026 to question 13207, if he will publish a breakdown of the i) spending in Purchase of goods/services - Hosting and ii) spending in Purchase of goods/services - Social",
+   "dateTabled": "2026-07-06T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1922251,
+   "uin": "14423",
+   "heading": "Department for Education: Written Questions",
+   "questionText": "To ask the Secretary of State for Education, when she plans to answer Questions 296, 297, 298, 10703, 10704 and 10705 tabled by the hon. Member for Harborough, Oadby and Wigston.",
+   "dateTabled": "2026-06-30T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1917154,
+   "uin": "10704",
+   "heading": "Students: Loans",
+   "questionText": "To ask the Secretary of State for Education, how many people have received a student loan from the Student Loans Company since 2005, broken down by nationality and by the academic year in which they first received a loan.",
+   "dateTabled": "2026-06-17T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1904322,
+   "uin": "298",
+   "heading": "Overseas Students: Loans",
+   "questionText": "To ask the Secretary of State for Education, how many students who are not United Kingdom nationals received a student loan for the first time in each of the last five academic years, broken down by (a) nationality group and (b) type of loan.",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1904321,
+   "uin": "297",
+   "heading": "Students: Loans",
+   "questionText": "To ask the Secretary of State for Education, if she will publish data on the repayment rate of student loans, by nationality of borrower, in each of the last five years.",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1904320,
+   "uin": "296",
+   "heading": "Students: Loans",
+   "questionText": "To ask the Secretary of State for Education, what the total value of student loans issued was by nationality of recipient in each of the last five years.",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1917155,
+   "uin": "10705",
+   "heading": "Overseas Students: Loans",
+   "questionText": "To ask the Secretary of State for Education, how many overseas borrowers currently classified as non-compliant by the Student Loans Company had their first student loan disbursed in each academic year since 2005, broken down by nationality.",
+   "dateTabled": "2026-06-17T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1917153,
+   "uin": "10703",
+   "heading": "Students: Loans",
+   "questionText": "To ask the Secretary of State for Education, how many individuals have received student loans from the Student Loans Company over the past 20 academic years, broken down by nationality.",
+   "dateTabled": "2026-06-17T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1927552,
+   "uin": "18690",
+   "heading": "Employment Schemes: Finance",
+   "questionText": "To ask the Secretary of State for Work and Pensions, with reference to his answers to questions 8173 and 13206, in particular that the Get Britain Working initiative has been allocated £240m in 2025/6, if he will publish a breakdown of expected spending a",
+   "dateTabled": "2026-07-14T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1925417,
+   "uin": "17001",
+   "heading": "Ministry of Housing, Communities and Local Government: Public Expenditure",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, for a breakdown of the programme gross spend and income of RDEL in the Housing and Planning Estimate Line in FY 2024/5, with reference to MHCLG's Annual Report 2024/5, SoPS 1.1.",
+   "dateTabled": "2026-07-08T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1925623,
+   "uin": "17004",
+   "heading": "Universal Credit: Work Capability Assessment",
+   "questionText": "To ask the Secretary of State for Work and Pensions, pursuant to the Answer of 8 June 2026 to Question 4373 on Universal Credit: Work Capability Assessment and with reference to the Freedom of Information Act response with reference FOI2026/51669, disclos",
+   "dateTabled": "2026-07-08T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1926885,
+   "uin": "18099",
+   "heading": "Ministry of Housing, Communities and Local Government: Written Questions",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, when he plans to answer question 14926 from the hon. Member for Harborough, Oadby and Wigston.",
+   "dateTabled": "2026-07-13T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1926887,
+   "uin": "18100",
+   "heading": "Department for Environment, Food and Rural Affairs: Written Questions",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, when she plans to answer question 14925 from the hon. Member for Harborough, Oadby and Wigston.",
+   "dateTabled": "2026-07-13T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1924281,
+   "uin": "16048",
+   "heading": "Mental Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many people were being cared for in forensic support services in each year since 2013-14, broken down by a) high, b) medium and c) low secure services.",
+   "dateTabled": "2026-07-06T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1924032,
+   "uin": "15730",
+   "heading": "Mental Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how much was spent on forensic support services in each year since 2013/14 by a) high, b) medium and c) low secure services.",
+   "dateTabled": "2026-07-03T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1925990,
+   "uin": "17397",
+   "heading": "Work Capability Assessment: Mental Illness",
+   "questionText": "To ask the Secretary of State for Work and Pensions, with reference to the Department of Work and Pensions Freedom of Information Act response, reference FOI2026/51669 dated 6 June 2026, how many WCA decisions for non-ESA transition claimants in the perio",
+   "dateTabled": "2026-07-09T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1925991,
+   "uin": "17398",
+   "heading": "Work Capability Assessment: Chronic Illnesses",
+   "questionText": "To ask the Secretary of State for Work and Pensions, with reference to the Department of Work and Pensions Freedom of Information Act response, reference FOI2026/51669 dated 6 June 2026, what proportion of WCA decisions for non-ESA transition claimants in",
+   "dateTabled": "2026-07-09T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1922905,
+   "uin": "14926",
+   "heading": "Ministry of Housing, Communities and Local Government: Public Expenditure",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what assessment he has made of the potential impact of the capital budget reduction from 2026/7 to 2029/30 on his Department's delivery of its spending plans, and where reduction",
+   "dateTabled": "2026-07-01T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1922904,
+   "uin": "14925",
+   "heading": "Department for Environment, Food and Rural Affairs: Public Expenditure",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she has made of the potential impact of the capital budget reduction from 2026/7 to 2029/30 on her Department's delivery of its spending plans; and where reductions hav",
+   "dateTabled": "2026-07-01T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1924988,
+   "uin": "16513",
+   "heading": "Public Expenditure",
+   "questionText": "To ask the Chancellor of the Exchequer, with reference to the Answer of 6 July 2026 to Question 14422 and the Answer of 29 June 2026 to Question 12225, if she will provide the total spending in the category of Purchase of Goods, Services and Other Expendi",
+   "dateTabled": "2026-07-07T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1923385,
+   "uin": "15426",
+   "heading": "Food Standards Agency",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference to section 5 of the Government Efficiency Framework, if he will publish the most recent quarterly efficiency report provided by the Food Standards Agency.",
+   "dateTabled": "2026-07-02T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1925602,
+   "uin": "17003",
+   "heading": "Visas: Sponsorship",
+   "questionText": "To ask the Secretary of State for the Home Department, what proportion of UKVI sponsor-compliance decisions are made via a) desk-based assessments and b) on-site visits.",
+   "dateTabled": "2026-07-08T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1925557,
+   "uin": "17002",
+   "heading": "Visas: Sponsorship",
+   "questionText": "To ask the Secretary of State for the Home Department, with reference to the UK Visas and Immigration's document entitled Register of licensed sponsors: students, updated on 8 July 2026, how many students were sponsored by each Higher Education Institutio",
+   "dateTabled": "2026-07-08T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1924861,
+   "uin": "16512",
+   "heading": "Department for Education: Public Expenditure",
+   "questionText": "To ask the Secretary of State for Education, pursuant to the answer of 6 July 2026 to question 14924, what the breakdown is of capital spending in 2024/5 in the category of Other School Funding (Department); and whether any reductions in capital budgets a",
+   "dateTabled": "2026-07-07T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1920293,
+   "uin": "13206",
+   "heading": "Department for Work and Pensions: Public Expenditure",
+   "questionText": "To ask the Secretary of State for Work and Pensions, pusuant to the Answer of 18 June 2026 to Question 8173, if he will publish a breakdown of expected spending across the Get Britain Working Initiative for financial years (i) 2026/7, (ii) 2027/8 and (iii",
+   "dateTabled": "2026-06-25T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1924284,
+   "uin": "16050",
+   "heading": "Approved Premises: Operating Costs",
+   "questionText": "To ask the Secretary of State for Justice, what the total operating cost to HM Prison and Probation Service of running Approved Premises was in each of the last five financial years.",
+   "dateTabled": "2026-07-06T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1924283,
+   "uin": "16049",
+   "heading": "Approved Premises",
+   "questionText": "To ask the Secretary of State for Justice, how many people were resident in Approved Premises in England and Wales on the most recent date for which data is available, and in each of the last five years.",
+   "dateTabled": "2026-07-06T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1922920,
+   "uin": "14928",
+   "heading": "Compulsorily Detained Psychiatric Patients",
+   "questionText": "To ask the Secretary of State for Justice, with reference to Table 8 of the Restricted Patients Statistics, England and Wales, 2025 release, published on 30 April 2026, of the 297 restricted patients recalled to hospital following conditional discharge, h",
+   "dateTabled": "2026-07-01T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1909417,
+   "uin": "4372",
+   "heading": "Depressive Illnesses",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many people in England have a formal clinical diagnosis of mixed anxiety and depressive disorder recorded in NHS primary care records.",
+   "dateTabled": "2026-05-29T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1922906,
+   "uin": "14927",
+   "heading": "Home Office: Public Expenditure",
+   "questionText": "To ask the Secretary of State for the Home Department, what assessment she has made of the potential impact of the 1% capital budget reduction announced in the Defence Investment Plan on her Department's delivery of spending plans; and where those reducti",
+   "dateTabled": "2026-07-01T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1922903,
+   "uin": "14924",
+   "heading": "Department for Education: Public Expenditure",
+   "questionText": "To ask the Secretary of State for Education, what assessment she has made of the potential impact of the 1% capital budget reduction announced in the Defence Investment Plan on her Department's delivery of spending plans; and where those reductions have b",
+   "dateTabled": "2026-07-01T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1922247,
+   "uin": "14422",
+   "heading": "Public Expenditure",
+   "questionText": "To ask the Chancellor of the Exchequer, with reference to the answer to question 12225, what information her Department holds on whether the following bodies have zero procurement spend for the relevant year because they in fact spent no money on procurem",
+   "dateTabled": "2026-06-30T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1920294,
+   "uin": "13207",
+   "heading": "Department for Work and Pensions: Public Expenditure",
+   "questionText": "To ask the Secretary of State for Work and Pensions, with reference both to the Answer of 18 June 2026 to question 8173 and to Core Table 1 on page 269 of the Department's 2024/5 Annual Report, if he will provide a breakdown of the £2,528m spent on 'Purch",
+   "dateTabled": "2026-06-25T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1921576,
+   "uin": "13911",
+   "heading": "Revenue and Customs: Finance",
+   "questionText": "To ask the Chancellor of the Exchequer, with reference to the Answer of 25 June to Question 11183 on Revenue and Customs: Finance for a breakdown of the (a) £386,857,000 and (b) £1,248,283,000.",
+   "dateTabled": "2026-06-29T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1921607,
+   "uin": "13912",
+   "heading": "Combined Authorities: Finance",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, which funding streams are available to Mayoral Combined Authorities which are not available to areas without MCAs, and how much is being spent per year through each of these fund",
+   "dateTabled": "2026-06-29T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1915823,
+   "uin": "9660",
+   "heading": "Mental Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference to the Answer of 10 June to Question 303, how much was spent on forensic support services in each year since 2005.",
+   "dateTabled": "2026-06-15T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1920719,
+   "uin": "13547",
+   "heading": "BBC: Expenditure",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, with reference to Note 8 on Purchase of Goods, Services and Other Expenditure on page 114 of the Whole of Government Accounts 2024-5, if she will provide a breakdown of the spending in that categ",
+   "dateTabled": "2026-06-26T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1919664,
+   "uin": "12798",
+   "heading": "Young People: Pay",
+   "questionText": "To ask the Minister for the Cabinet Office, what the average hourly earnings by single year of age for those aged (a) 16, (b) 17, (c) 18, (d) 19, (e) 20, (f) 21, (g) 22, (h) 23, (i) 24 and (j) 25 were in each year since 2010.",
+   "dateTabled": "2026-06-24T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1919012,
+   "uin": "12225",
+   "heading": "Public Expenditure",
+   "questionText": "To ask the Chancellor of the Exchequer, with reference to Note 8. Purchase of Goods, Services and Other Expenditure on page 114 of the Whole of Government Accounts 2024-5, if she can provide a breakdown of expenditure in the financial years in (a) 2024/5 ",
+   "dateTabled": "2026-06-23T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1919755,
+   "uin": "12799",
+   "heading": "Department for Science, Innovation and Technology: Expenditure",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, with reference to Note 8 on Purchase of Goods, Services and Other Expenditure on page 114 of the Whole of Government Accounts 2024-5, if she will publish a breakdown of spending on that",
+   "dateTabled": "2026-06-24T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1918522,
+   "uin": "11719",
+   "heading": "Prisons: Psychology",
+   "questionText": "To ask the Secretary of State for Justice, with reference to the answer of 11 June 2026 to Question 7174, how many employees in HMPPS under the Occupational Psychologist profession are i) psychology administrators and ii) groupworkers.",
+   "dateTabled": "2026-06-22T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1917925,
+   "uin": "11183",
+   "heading": "Revenue and Customs: Finance",
+   "questionText": "To ask the Chancellor of the Exchequer, with reference to the table SOPS 1.1 Analysis of resource outturn by Estimate line on page 157 of HMRC's document entitled Annual Report and Accounts 2024/5, published on 17 July 2025, for a breakdown of the (a) £1,",
+   "dateTabled": "2026-06-18T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1913391,
+   "uin": "7533",
+   "heading": "East Midlands Railway: Rolling Stock",
+   "questionText": "To ask the Secretary of State for Transport, for what reason trains were moved away from East Midlands Railway prior to the arrival of new rolling stock.",
+   "dateTabled": "2026-06-08T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1914166,
+   "uin": "8173",
+   "heading": "Department for Work and Pensions: Public Expenditure",
+   "questionText": "To ask the Secretary of State for Work and Pensions, with reference to Core Table 1 on page 269 of the Department's 2024/5 Annual Report, if he will provide a breakdown of the £2,722m spent on 'Purchase of Good and Services' in Total Resource DEL in 2024/",
+   "dateTabled": "2026-06-09T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1915680,
+   "uin": "9384",
+   "heading": "HM Prison and Probation Service: Psychology",
+   "questionText": "To ask the Secretary of State for Justice, with reference to the answer of 11 June to Question 7174, how many employees in HMPPS under the Occupational Psychologist profession are i) trainee psychologists and ii) treatment managers.",
+   "dateTabled": "2026-06-12T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1911184,
+   "uin": "5990",
+   "heading": "Dental Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many units of dental activity were (a) commissioned and (b) delivered in each integrated care board in each month since April 2023.",
+   "dateTabled": "2026-06-02T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1911185,
+   "uin": "5991",
+   "heading": "Dental Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many dentists were accepting new NHS patients who were adults not entitled to free dental care, in each month since June 2024.",
+   "dateTabled": "2026-06-02T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1904325,
+   "uin": "301",
+   "heading": "Personal Independence Payment",
+   "questionText": "To ask the Secretary of State for Work and Pensions, whether he will publish data on the number of Personal Independence Payment claimants by (a) daily living component points score and (b) mobility component points score, broken down by primary disabling",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1904324,
+   "uin": "300",
+   "heading": "Personal Independence Payment",
+   "questionText": "To ask the Secretary of State for Work and Pensions, with reference to the Answer of 1 May 2025 to Question 47466, how many Personal Independence Payment claimants there are, broken down by (a) disability category and (b) health condition; and of those cl",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1915226,
+   "uin": "9065",
+   "heading": "Employment and Support Allowance: Graduates",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many claimants of Employment and Support Allowance obtained a higher education qualification in the five years preceding their claim.",
+   "dateTabled": "2026-06-11T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1915225,
+   "uin": "9064",
+   "heading": "Jobseeker's Allowance: Graduates",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many claimants of Jobseeker's Allowance obtained a higher education qualification in the five years preceding their claim.",
+   "dateTabled": "2026-06-11T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1915224,
+   "uin": "9063",
+   "heading": "Universal Credit: Graduates",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many claimants of Universal Credit obtained a higher education qualification in the five years preceding their claim.",
+   "dateTabled": "2026-06-11T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1913392,
+   "uin": "7534",
+   "heading": "East Midlands Railway: Rolling Stock",
+   "questionText": "To ask the Secretary of State for Transport, what assessment she has made of the adequacy of rolling stock on the East Midlands Railway.",
+   "dateTabled": "2026-06-08T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1913071,
+   "uin": "7190",
+   "heading": "Universal Credit: Qualifications",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many and what proportion of Universal Credit claimants in each region had (a) no qualifications, (b) Level 2 qualifications, (c) Level 3 qualifications, (d) Level 4 qualifications, (e) Level 5 quali",
+   "dateTabled": "2026-06-05T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1914594,
+   "uin": "8597",
+   "heading": "Uk Research and Innovation: Environment Protection",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, with reference to Table 2 of the UKRI Budget Allocations explainer of December 2025, how much of the £2,308m allocated to 'Wider Priorities' over the Spending Review period is earmarked",
+   "dateTabled": "2026-06-10T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1912996,
+   "uin": "7174",
+   "heading": "Prisons: Psychology",
+   "questionText": "To ask the Secretary of State for Justice, with reference to the Answer of 4 June 2026 to Question 4454, how many employees in HMPPS are under the Government's \"Occupational Psychologist\" profession, broken down into (a) forensic psychologists and (b) non",
+   "dateTabled": "2026-06-05T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1913118,
+   "uin": "7198",
+   "heading": "Offenders: Nationality",
+   "questionText": "To ask the Secretary of State for Justice, if he will provide a breakdown by place of birth of those people convicted of an offence over the last year.",
+   "dateTabled": "2026-06-05T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1913115,
+   "uin": "7196",
+   "heading": "Offenders: Nationality",
+   "questionText": "To ask the Secretary of State for Justice, if he will publish a breakdown by individual country of birth and the number of offences of (a) violence against the person, (b) sexual offences, (c) robbery, (d) theft offences, (e) criminal damage and arson, (f",
+   "dateTabled": "2026-06-05T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1913114,
+   "uin": "7195",
+   "heading": "Offenders: Nationality",
+   "questionText": "To ask the Secretary of State for Justice, how many offenders had their country of birth recorded as i) UK, ii) any non-UK and iii) not known for offences of (a) violence against the person, (b) sexual offences, (c) robbery, (d) theft offences, (e) crimin",
+   "dateTabled": "2026-06-05T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1904327,
+   "uin": "303",
+   "heading": "Mental Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how much was spent on forensic support services in the most recent year for which data is available; and how many people were dealt with by such services.",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1913116,
+   "uin": "7197",
+   "heading": "Immigration: EU Nationals",
+   "questionText": "To ask the Secretary of State for the Home Department, if she will provide a breakdown of the main reasons that late applications were allowed for Late Applicants to the EU Settlement Scheme who were granted a) settled and b) pre-settled status in the 12 ",
+   "dateTabled": "2026-06-05T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1909416,
+   "uin": "4371",
+   "heading": "Universal Credit: Chronic Illnesses",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many and what proportion of UC Health claimants in England and Wales have a formal clinical diagnosis recorded on their claim.",
+   "dateTabled": "2026-05-29T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1909418,
+   "uin": "4373",
+   "heading": "Universal Credit: Work Capability Assessment",
+   "questionText": "To ask the Secretary of State for Work and Pensions, with reference to the Universal Credit Work Capability Assessment statistics published on 12 March 2026, what proportion of WCA decisions for non-ESA transition claimants in the period January 2022 to N",
+   "dateTabled": "2026-05-29T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1909419,
+   "uin": "4374",
+   "heading": "Universal Credit: Work Capability Assessment",
+   "questionText": "To ask the Secretary of State for Work and Pensions, with reference to the Universal Credit Work Capability Assessment statistics published on 12 March 2026, how many WCA decisions for non-ESA transition claimants in the period January 2022 to November 20",
+   "dateTabled": "2026-05-29T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1909415,
+   "uin": "4370",
+   "heading": "Personal Independence Payment: Chronic Illnesses",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many and what proportion of Personal Independence Payment claimants in England and Wales have a formal clinical diagnosis recorded on their claim.",
+   "dateTabled": "2026-05-29T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1907815,
+   "uin": "3320",
+   "heading": "Housing Benefit: Social Rented Housing",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how much was deducted from payments to claimants in the last year as a result of the social sector under occupancy deduction.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1909499,
+   "uin": "4454",
+   "heading": "Prisons: Psychology",
+   "questionText": "To ask the Secretary of State for Justice, whether forensic psychologists employed by HMPPS are categorised under the Government's 'Occupational Psychologist' profession for the purpose of official Civil Service employment statistics.",
+   "dateTabled": "2026-05-29T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1910543,
+   "uin": "5387",
+   "heading": "Immigration: EU Nationals",
+   "questionText": "To ask the Secretary of State for the Home Department, with reference to table EUSS_D01 published as part of the release entitled Immigration system statistics, year ending March 2026, how many applications to the EU Settlement Scheme were made by applica",
+   "dateTabled": "2026-06-01T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1910542,
+   "uin": "5386",
+   "heading": "Immigration: EU Nationals",
+   "questionText": "To ask the Secretary of State for the Home Department, with reference to table EUSS_D01 published as part of the release entitled Immigration system statistics, year ending March 2026, how many applications to the EU Settlement Scheme made by joining fami",
+   "dateTabled": "2026-06-01T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1909374,
+   "uin": "4329",
+   "heading": "Counter-terrorism: Prisoners",
+   "questionText": "To ask the Secretary of State for the Home Department, with reference to the Answer of 19 February 2024 to Question 13523 on Counter-terrorism: Prisoners, how many referrals were made to the Prevent programme by HM Prison and Probation Service in each fin",
+   "dateTabled": "2026-05-29T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1907890,
+   "uin": "3356",
+   "heading": "Universal Credit",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what proportion of Universal Credit claimants awarded limited capability for work and work-related activity in the last 12 months scored more than 8 points in the mental, cognitive and intellectual func",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1908148,
+   "uin": "3391",
+   "heading": "Compulsorily Detained Psychiatric Patients",
+   "questionText": "To ask the Secretary of State for Justice, with reference to table 4 of the Restricted Patients Statistics, published on 30 April 2026, how many restricted patients detained in hospital and admitted not from prison, who had previously been discharged into",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1907887,
+   "uin": "3355",
+   "heading": "Asylum",
+   "questionText": "To ask the Secretary of State for the Home Department, how many people aged 18 and over currently hold refugee status in the United Kingdom.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1907892,
+   "uin": "3357",
+   "heading": "Asylum",
+   "questionText": "To ask the Secretary of State for the Home Department, how many people with refugee status ceased receiving Home Office asylum support in each of the last 12 months.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1907816,
+   "uin": "3321",
+   "heading": "Asylum: Housing",
+   "questionText": "To ask the Secretary of State for the Home Department, pursuant to the Answer of 19 May 2026 to Question 306, what her planned timetable is to (a) tender and (b) agree the replacement Asylum Accommodation and Support Contracts and Advice, Issue, Reporting",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1907908,
+   "uin": "3360",
+   "heading": "Driving Licences: Migrants",
+   "questionText": "To ask the Secretary of State for Transport, how many foreign driving licences were exchanged for GB licences in each of the last five years, broken down by country of origin.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1904332,
+   "uin": "308",
+   "heading": "Health Professions: Conduct",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many and what proportion of Practitioner Performance Advice cases involving (a) behaviour, (b) misconduct and (c) other (i) clinical and (ii) health concerns have involved practitioners who qua",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1906862,
+   "uin": "2316",
+   "heading": "Universal Credit",
+   "questionText": "To ask the Secretary of State for Work and Pensions, if he will publish the number of Universal Credit claimants with limited capability for work and work-related activity by recorded medical condition.",
+   "dateTabled": "2026-05-18T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1906871,
+   "uin": "2325",
+   "heading": "Convictions: Police National Computer",
+   "questionText": "To ask the Secretary of State for Justice, if he will publish the number of conviction occasions on the Police National Computer split by offence group and nationality of offender, for each quarter since Q3 2024.",
+   "dateTabled": "2026-05-18T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1906863,
+   "uin": "2317",
+   "heading": "Convictions: Police National Computer",
+   "questionText": "To ask the Secretary of State for Justice, if he will publish the number of conviction occasions on the Police National Computer split by disposal category and nationality of offender, for each quarter since Q3 2024.",
+   "dateTabled": "2026-05-18T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1904323,
+   "uin": "299",
+   "heading": "Ministry of Housing, Communities and Local Government: Public Expenditure",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, with reference to his Department's Annual Report 2024-25 and with reference to the Answer of 21 January 2026 to Question 105347 on Ministry of Housing, Communities and Local Gove",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1904329,
+   "uin": "305",
+   "heading": "Data Centres",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what estimate his Department has made of the expected growth in datacentre capacity, measured in MW, from today to 2030.",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1904331,
+   "uin": "307",
+   "heading": "Immigration",
+   "questionText": "To ask the Secretary of State for the Home Department, how many grants of indefinite leave to remain were revoked in January, February and March of this year.",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1904328,
+   "uin": "304",
+   "heading": "Immigration",
+   "questionText": "To ask the Secretary of State for the Home Department, how many grants of indefinite leave to remain were revoked in the last twelve months.",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1904319,
+   "uin": "295",
+   "heading": "Students: Loans",
+   "questionText": "To ask the Secretary of State for Education, with reference to the Answer of 22 April 2026 to Question 124528 and in the context of the March RPI figure being published, what is the estimated total fiscal cost of the policy of capping the maximum interest",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1904326,
+   "uin": "302",
+   "heading": "Mentally Disordered Offenders: Homicide",
+   "questionText": "To ask the Secretary of State for Health and Social Care, according to data supplied to the National Confidential Inquiry into Suicide and Safety in Mental Health, how many patients in recent (12 months) contact with mental health services were convicted ",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1906868,
+   "uin": "2322",
+   "heading": "Universal Credit",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many Universal Credit claimants with limited capability for work and work-related activity are recorded as having autism spectrum disorder as a medical condition.",
+   "dateTabled": "2026-05-18T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1906865,
+   "uin": "2319",
+   "heading": "Universal Credit",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many Universal Credit claimants awarded limited capability for work and work-related activity in the last 12 months did so without scoring 15 points in any single activity descriptor.",
+   "dateTabled": "2026-05-18T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1906864,
+   "uin": "2318",
+   "heading": "Universal Credit",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many Universal Credit claimants assessed as having limited capability for work and work-related activity have a mental and behavioural disorder as their only recorded medical condition.",
+   "dateTabled": "2026-05-18T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1906510,
+   "uin": "2158",
+   "heading": "Tax Collection",
+   "questionText": "To ask the Chancellor of the Exchequer, with reference to the section titled Collecting Tax That is Due in the October 2024 Budget, what additional tax revenue was collected in 2025-26 as a result of the investment in additional HMRC compliance and debt m",
+   "dateTabled": "2026-05-18T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1904333,
+   "uin": "309",
+   "heading": "Homelessness",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, in each of the last three years how many households owed a prevention or relief duty there were a) UK nationals b) EEA nationals c) non-EEA nationals, broken down by the reason f",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1904388,
+   "uin": "364",
+   "heading": "NHS England: Staff",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many people worked for NHS England in every month since July 2024.",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1904330,
+   "uin": "306",
+   "heading": "Asylum: Housing",
+   "questionText": "To ask the Secretary of State for the Home Department, what recent progress her Department has made on agreeing the Future Asylum Contracts Accommodation.",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1902300,
+   "uin": "129239",
+   "heading": "Lord Mandelson",
+   "questionText": "To ask the Minister for the Cabinet Office, whether Lord Mandelson was in Downing Street during the Cabinet reshuffle on 5 September 2025.",
+   "dateTabled": "2026-04-22T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1902566,
+   "uin": "129314",
+   "heading": "Mental Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how much was spent on forensic support services in the most recent year for which data is available; and how many people were dealt with by such services",
+   "dateTabled": "2026-04-22T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1902299,
+   "uin": "129238",
+   "heading": "Mental Illness: Homicide",
+   "questionText": "To ask the Secretary of State for Health and Social Care, according to data supplied to the National Confidential Inquiry into Suicide and Safety in Mental Health, how many patients in recent (12 months) contact with mental health services were convicted ",
+   "dateTabled": "2026-04-22T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1901668,
+   "uin": "128772",
+   "heading": "Personal Independence Payment",
+   "questionText": "To ask the Secretary of State for Work and Pensions, if he will publish a breakdown of the number of mobility points scored by Personal Independence Payment claimants by primary health condition of the claimant.",
+   "dateTabled": "2026-04-21T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1901666,
+   "uin": "128770",
+   "heading": "Personal Independence Payment",
+   "questionText": "To ask the Secretary of State for Work and Pensions, pursuant to the Answer of 1 May 2025 to Question 47466, how many Personal Independence Payment claimants there are, broken down by (a) disability category and (b) health condition; and of those claimant",
+   "dateTabled": "2026-04-21T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1879808,
+   "uin": "111798",
+   "heading": "Ministry of Housing, Communities and Local Government: Public Expenditure",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, with reference to his Department's Annual Report 2024-25 and pursuant to the Answer of 21 January 2026 to Question 105347 on Ministry of Housing, Communities and Local Government",
+   "dateTabled": "2026-02-09T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1902295,
+   "uin": "129234",
+   "heading": "Students: Loans",
+   "questionText": "To ask the Secretary of State for Education, how many students who are not United Kingdom nationals received a student loan for the first time in each of the last five academic years, broken down by (a) nationality group and (b) type of loan.",
+   "dateTabled": "2026-04-22T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1901784,
+   "uin": "128824",
+   "heading": "Students: Loans",
+   "questionText": "To ask the Secretary of State for Education, if she will publish data on the repayment rate of student loans, by nationality of borrower, in each of the last five years.",
+   "dateTabled": "2026-04-21T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1901783,
+   "uin": "128823",
+   "heading": "Students: Loans",
+   "questionText": "To ask the Secretary of State for Education, if she will publish a breakdown of the total value of student loans issued, by nationality of recipient, in each of the last five years.",
+   "dateTabled": "2026-04-21T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1902735,
+   "uin": "129522",
+   "heading": "NHS: Postal Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the adequacy of mail deliveries of NHS correspondence to patients.",
+   "dateTabled": "2026-04-23T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1902734,
+   "uin": "129521",
+   "heading": "NHS: Postal Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what proportion of hospital appointment letters sent by post do not arrive before the appointment.",
+   "dateTabled": "2026-04-23T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1903389,
+   "uin": "129917",
+   "heading": "Students: Loans",
+   "questionText": "To ask the Secretary of State for Education, pursuant to the answer of 22 April 2026 to Question 124528 and in the context of the March RPI figure being published, what is the estimated total fiscal cost of the policy of capping the maximum interest rates",
+   "dateTabled": "2026-04-27T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1901263,
+   "uin": "128354",
+   "heading": "Immigration",
+   "questionText": "To ask the Secretary of State for the Home Department, how many grants of indefinite leave to remain have been revoked this month",
+   "dateTabled": "2026-04-20T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1897332,
+   "uin": "125278",
+   "heading": "Dentistry: Migrant Workers",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the equity of the process for accessing the General Dental Council's Overseas Registration Examination; and whether he has assessed the potential merits of introducin",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1902041,
+   "uin": "128837",
+   "heading": "Police: Powers",
+   "questionText": "To ask the Secretary of State for the Home Department, how many, in each of the last 10 years (a) individuals and (b) organisations were empowered under the Community Safety Accreditation Scheme.",
+   "dateTabled": "2026-04-21T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1901460,
+   "uin": "128379",
+   "heading": "Courts: Fines",
+   "questionText": "To ask the Secretary of State for Justice, what the total value of court-imposed fines outstanding in England and Wales is.",
+   "dateTabled": "2026-04-20T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1901261,
+   "uin": "128352",
+   "heading": "Courts: Fines",
+   "questionText": "To ask the Secretary of State for Justice, how many people paid court fines in the (a) quarter ending in November 2025 and (b) other four most recent quarters for which data is available.",
+   "dateTabled": "2026-04-20T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1901262,
+   "uin": "128353",
+   "heading": "Immigration",
+   "questionText": "To ask the Secretary of State for the Home Department, how many grants of indefinite leave to remain have been revoked and have lapsed in the most recent year or quarter for which data is available.",
+   "dateTabled": "2026-04-20T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1897338,
+   "uin": "125284",
+   "heading": "Community Orders",
+   "questionText": "To ask the Secretary of State for Justice, what the total annual cost of administering the Community Payback scheme was in each of the last five years; and what the average cost per (a) sentence and (b) completed hour of unpaid work was in each of those y",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1897334,
+   "uin": "125280",
+   "heading": "Community Orders",
+   "questionText": "To ask the Secretary of State for Justice, how many hours of unpaid work were (a) sentenced and (b) credited in each of the last five years.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1897439,
+   "uin": "125385",
+   "heading": "Students: Loans",
+   "questionText": "To ask the Secretary of State for Education, with reference to her Department's press release entitled Interest rate cap introduced to protect Plan 2 borrowers, published on 7 April 2026, what estimate her Department has made of the cost to the public pur",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1880165,
+   "uin": "112268",
+   "heading": "Mental Illness: Homicide",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what information his Department holds on the number of homicide incidents in each of the last 12 months which involved a suspect who had been a patient of an NHS mental health trust within the prec",
+   "dateTabled": "2026-02-10T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1862411,
+   "uin": "98537",
+   "heading": "Department of Health and Social Care: Disciplinary Proceedings",
+   "questionText": "To ask the Secretary of State for Health and Social Care, in the past twelve months, how many disciplinary cases were concluded against civil servants in (a) the Department and (b) its agencies broken down by (i) outcome and (ii) whether the primary alleg",
+   "dateTabled": "2025-12-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1898681,
+   "uin": "126674",
+   "heading": "Civil Servants: Canary Wharf",
+   "questionText": "To ask the Minister for the Cabinet Office, whether civil servants relocated to Canary Wharf count as having moved out of central London for statistical purposes.",
+   "dateTabled": "2026-04-13T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1898773,
+   "uin": "126677",
+   "heading": "Adoption and Special Guardianship Orders",
+   "questionText": "To ask the Secretary of State for Justice, how many children aged (a) under one, (b) one, (c) two, (d) three, (e) four, (f) five, (g) six, (h) seven, (i) eight, (j) nine and (k) ten and over years old were (i) adopted and (ii) subject of a Special Guardia",
+   "dateTabled": "2026-04-13T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1898771,
+   "uin": "126676",
+   "heading": "Adoption and Special Guardianship Orders",
+   "questionText": "To ask the Secretary of State for Justice, how many children aged (a) under one years old, (b) aged between one and four years old and (c) aged five years and older were (i) adopted and (ii) given a Special guardianship order in each year since 1996.",
+   "dateTabled": "2026-04-13T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1897336,
+   "uin": "125282",
+   "heading": "Community Orders",
+   "questionText": "To ask the Secretary of State for Justice, what proportion of people who received a sentence of unpaid work failed to (a) start and (b) complete their sentence in each of the last five years.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1897520,
+   "uin": "125466",
+   "heading": "Community Orders",
+   "questionText": "To ask the Secretary of State for Justice, how many and what proportion of sentences given in each of the last five years included an unpaid work requirement.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1897455,
+   "uin": "125401",
+   "heading": "Community Orders",
+   "questionText": "To ask the Secretary of State for Justice, what proportion of individuals sentenced to an unpaid work requirement last year were given a (a) community order, (b) suspended sentence order, (c) youth rehabilitation order, (d) enforcement order and (e) super",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1897335,
+   "uin": "125281",
+   "heading": "Community Orders",
+   "questionText": "To ask the Secretary of State for Justice, how many community sentences were passed in each of the last ten years; and what proportion of these included an unpaid work requirement.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1897340,
+   "uin": "125286",
+   "heading": "Railways: Graffiti",
+   "questionText": "To ask the Secretary of State for Transport, what the cost was to the public purse of graffiti removal across the Network Rail network in each of the last five years.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1897337,
+   "uin": "125283",
+   "heading": "Community Orders: Staff",
+   "questionText": "To ask the Secretary of State for Justice, how many Community Payback supervisors have been employed in each of the last five years.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1897329,
+   "uin": "125275",
+   "heading": "Immigration",
+   "questionText": "To ask the Secretary of State for the Home Department, how many grants of indefinite leave to remain have been revoked and have lapsed in each year since 2004.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1898768,
+   "uin": "126675",
+   "heading": "Universal Credit: Deductions",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many Universal Credit households in the most recent quarter for which data is available are undergoing a third party deduction for the purpose of paying a court fine.",
+   "dateTabled": "2026-04-13T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1893691,
+   "uin": "122783",
+   "heading": "Freedom of Information",
+   "questionText": "To ask the Minister for the Cabinet Office, whether the Government plans to change the law or guidance around Freedom of Information requests.",
+   "dateTabled": "2026-03-23T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1895725,
+   "uin": "124232",
+   "heading": "Universal Credit",
+   "questionText": "To ask the Secretary of State for Work and Pensions, of the households exempt from the Benefit Cap due to receipt of the Limited Capability for Work and Work-Related Activity (LCWRA) element of Universal Credit, how many contain a second working age adult",
+   "dateTabled": "2026-03-26T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1894360,
+   "uin": "123286",
+   "heading": "Asylum",
+   "questionText": "To ask the Secretary of State for the Home Department, how many asylum-related returns there were in 2025 for people from (a) Bangladesh, (b) Afghanistan, (c) Iran and (d) Sri Lanka.",
+   "dateTabled": "2026-03-24T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1894359,
+   "uin": "123285",
+   "heading": "Asylum",
+   "questionText": "To ask the Secretary of State for the Home Department, with reference to sheet Ret_04 of the data release entitled 'Returns summary tables, year ending December 2025', updated on 26 February 2026, if she will publish a further breakdown of the nationaliti",
+   "dateTabled": "2026-03-24T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1893670,
+   "uin": "122782",
+   "heading": "Prison Accommodation: Costs",
+   "questionText": "To ask the Secretary of State for Justice, what is the estimated capital cost for a new prison place in England and Wales, broken down into categories A, B, C and D.",
+   "dateTabled": "2026-03-23T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1891648,
+   "uin": "120993",
+   "heading": "Universal Credit: Housing Benefit",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how much was spent on the housing element of UC in each region and local authority in 2025.",
+   "dateTabled": "2026-03-16T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1891650,
+   "uin": "120994",
+   "heading": "Prisoners' Release: Foreign Nationals",
+   "questionText": "To ask the Secretary of State for the Home Department, how many foreign national offenders in the UK are currently living in the community while liable for deportation after completing prison sentences.",
+   "dateTabled": "2026-03-16T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1887017,
+   "uin": "117401",
+   "heading": "Jobcentres: Sick Leave",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what was the average number of Working Days Lost per staff year was in each jobcentre in the most recent year.",
+   "dateTabled": "2026-03-03T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1877644,
+   "uin": "110057",
+   "heading": "Department for Work and Pensions: Public Expenditure",
+   "questionText": "To ask the Secretary of State for Work and Pensions, with reference to SOPS 1.1. in the Department's 2020-21 Annual Report, if she will publish a breakdown of the £2,402,602 in gross spend on Programme Resource Outturn in A: Operational Delivery in 2020-2",
+   "dateTabled": "2026-02-02T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1877645,
+   "uin": "110058",
+   "heading": "Department for Work and Pensions: Public Expenditure",
+   "questionText": "To ask the Secretary of State for Work and Pensions, with reference to SOPS 1.1 in the Department's 2024-25 Annual Report, if she will publish a breakdown of the £1,030,869,000 in gross spend on Programme Resource Outturn in H: Other Benefits in 2024-25; ",
+   "dateTabled": "2026-02-02T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1889001,
+   "uin": "118860",
+   "heading": "Asylum",
+   "questionText": "To ask the Secretary of State for the Home Department, with reference to sheet Asy_01e of the data release entitled Asylum summary tables, year ending December 2025, updated on 26 February 2026, whether she will publish a further breakdown of the national",
+   "dateTabled": "2026-03-09T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1888986,
+   "uin": "118859",
+   "heading": "Asylum",
+   "questionText": "To ask the Secretary of State for the Home Department, with reference to sheet Asy_01e of the data release entitled Asylum summary tables, year ending December 2025, updated on 26 February 2026, how many people claiming asylum after entering the UK with a",
+   "dateTabled": "2026-03-09T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1877643,
+   "uin": "110056",
+   "heading": "Department for Work and Pensions: Public Expenditure",
+   "questionText": "To ask the Secretary of State for Work and Pensions, with reference to SOPS 1.1. in the Department's 2024-25 Annual Report, if she will publish a breakdown of the £6,156,284,000 spent on Programme Resource Outturn in A: Core Department in 2024-25.",
+   "dateTabled": "2026-02-02T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1884550,
+   "uin": "115566",
+   "heading": "Primary Care",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how much is being spent each year on primary care, and how much is being spent on the core GP contract.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1885336,
+   "uin": "116215",
+   "heading": "Dental Services: Standards",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference to the press release entitled Patients to benefit from improved access to dental appointments, published on 21 February 2026, how many (a) urgent and (b) additional dental appointmen",
+   "dateTabled": "2026-02-26T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1885546,
+   "uin": "116400",
+   "heading": "Crimes of Violence: Sentencing",
+   "questionText": "To ask the Secretary of State for Justice, with reference to the Answer of 2 February 2026 to Question 109196, how many people have been convicted of common assault and battery; and how many of these people did not receive an immediate custodial sentence,",
+   "dateTabled": "2026-02-26T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1885157,
+   "uin": "116101",
+   "heading": "Theft: Sentencing",
+   "questionText": "To ask the Secretary of State for Justice, how many people were (a) convicted of theft from a shop and (b) did not receive an immediate custodial sentence, broken down by (i) year of conviction in each of the past five years, and (ii) the number of previo",
+   "dateTabled": "2026-02-25T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1884877,
+   "uin": "115879",
+   "heading": "Theft: Sentencing",
+   "questionText": "To ask the Secretary of State for Justice, with reference to his Answer of 2 February 2026 to Question 109199, how many unique offenders were convicted for a theft offence and did not receive immediate custody in 2024 with 3, 4, 5, 6, 7, 8, 9 and 10 previ",
+   "dateTabled": "2026-02-25T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1884876,
+   "uin": "115878",
+   "heading": "Reoffenders: Sentencing",
+   "questionText": "To ask the Secretary of State for Justice, with reference to his Answer of 6 February 2026 to Question 109201, how many unique offenders were convicted for an indictable offence and did not receive immediate custody in 2024 with 7, 8, 9 and 10 previous co",
+   "dateTabled": "2026-02-25T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1884873,
+   "uin": "115876",
+   "heading": "Offences against Children: Sentencing",
+   "questionText": "To ask the Secretary of State for Justice, how many people were a) convicted for child sexual offences and b) did not receive an immediate custodial sentence, by year of conviction and number of previous occasions the offender has been convicted for child",
+   "dateTabled": "2026-02-25T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1884875,
+   "uin": "115877",
+   "heading": "Homicide: Police",
+   "questionText": "To ask the Secretary of State for Justice, how many people were convicted of murdering a police officer by year of conviction for the period 2020-2024.",
+   "dateTabled": "2026-02-25T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1884552,
+   "uin": "115568",
+   "heading": "Housing Benefit: Social Rented Housing",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what number and proportion of those living in i) all tenures and ii) the social rented sector have their rent a) partly and b) fully paid by either housing benefit or the housing element of UC.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1884551,
+   "uin": "115567",
+   "heading": "Housing Benefit: Social Rented Housing",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what number and proportion of those claiming a) housing benefit and b) the UC housing element live in the social rented sector.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1882088,
+   "uin": "113832",
+   "heading": "Crimes of Violence and Theft: Sentencing",
+   "questionText": "To ask the Secretary of State for Justice, with reference to his Answers of 2 February 2026 to Question 109197, 109198, 109199 and 109200, if he will publish the number of people who were (a) convicted of and (b) did not receive an immediate custodial sen",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1872624,
+   "uin": "106581",
+   "heading": "Department for Environment, Food and Rural Affairs: Performance Appraisal",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, if she will review the incomplete Answer her Department provided to Question 97203 on 6 January 2026.",
+   "dateTabled": "2026-01-19T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1877225,
+   "uin": "109828",
+   "heading": "Department for Business and Trade: Public Expenditure",
+   "questionText": "To ask the Secretary of State for Business and Trade, with reference to his answer to of 28 January 2026 to Question 107135, if he will publish a breakdown of the £313m in CDEL outturn for 2024/5 in the category of \"Current grants to persons and non-profi",
+   "dateTabled": "2026-01-30T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1880245,
+   "uin": "112313",
+   "heading": "Theft: Foreign Nationals",
+   "questionText": "To ask the Secretary of State for Justice, how many people who were a) convicted for theft and b) did not receive an immediate custodial sentence were foreign nationals, by year of conviction.",
+   "dateTabled": "2026-02-10T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1880626,
+   "uin": "112683",
+   "heading": "Energy Supply: Expenditure",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, pursuant to his Answers of 26 January and 4 February 2026 to Questions 106583 and 109831 on Energy Supply: Expenditure, if he will publish (a) monthly data collected during the year from depa",
+   "dateTabled": "2026-02-11T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1880164,
+   "uin": "112267",
+   "heading": "Compulsorily Detained Psychiatric Patients: Crimes of Violence",
+   "questionText": "To ask the Secretary of State for Justice, in the last 12 months, how many individuals convicted of (a) a violent offence and (b) homicide had a recorded history of detention under the Mental Health Act 1983.",
+   "dateTabled": "2026-02-10T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1879695,
+   "uin": "111797",
+   "heading": "Department for Science, Innovation and Technology: Public Expenditure",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, with reference to SOPS 1.1 in the Department's 2024-25 Annual Report, if she will publish a breakdown of the £209,590,000 in gross spend on D) Capability in 2024-25; and for what reason",
+   "dateTabled": "2026-02-09T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1880029,
+   "uin": "111800",
+   "heading": "Crimes of Violence and Theft: Sentencing",
+   "questionText": "To ask the Secretary of State for Justice, with reference to his Answers to Questions 109199, 109198, 109197 and 109196, if he will publish the spreadsheet with the information requested in these questions with the number of previous occasions the offende",
+   "dateTabled": "2026-02-09T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1879855,
+   "uin": "111799",
+   "heading": "Aerospace Technology Institute: Finance",
+   "questionText": "To ask the Secretary of State for Business and Trade, how much annual grant funding was issued by the Aerospace Technology Institute (a) in total, (b) for Zero Carbon Emission Aircraft Technologies, (c) for Ultra Efficient Aircraft Technologies, (d) for C",
+   "dateTabled": "2026-02-09T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1877672,
+   "uin": "110059",
+   "heading": "Department for Science, Innovation and Technology: Public Expenditure",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, with reference to (a) SOPS 1.1. in the Department's 2024/5 Annual Report, a breakdown of the £209,590,000 spent in gross administration costs on capability and (b) Table 1, Annex A: Com",
+   "dateTabled": "2026-02-02T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1873950,
+   "uin": "107451",
+   "heading": "Civil Aviation Authority: Staff",
+   "questionText": "To ask the Secretary of State for Transport, for what reason (a) the number of staff and (b) and staff costs have increased at the Civil Aviation Authority since April 2017.",
+   "dateTabled": "2026-01-21T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1876114,
+   "uin": "109202",
+   "heading": "England: Anniversaries",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, whether the Government plans to mark the 1,100th anniversary of the unification of England next year.",
+   "dateTabled": "2026-01-28T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1875981,
+   "uin": "109201",
+   "heading": "Sentencing",
+   "questionText": "To ask the Secretary of State for Justice, how many unique offenders were convicted for an indictable offence and did not receive immediate custody in 2024 with i) zero, ii) 1-2, iii) 3-6, iv) 7-10, v) 11-14, vi) 15-25, vii) 26-35, viii) 36-45, ix) 46 - 6",
+   "dateTabled": "2026-01-28T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1877685,
+   "uin": "110060",
+   "heading": "Department for Science, Innovation and Technology: Public Expenditure",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, with reference to SOPS 1.1. in the Department's 2024/5 Annual Report, if she will publish (a) a breakdown of resource spending on G) Modernising and reforming the work of the Government",
+   "dateTabled": "2026-02-02T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1877126,
+   "uin": "109827",
+   "heading": "Department for Science, Innovation and Technology: Public Expenditure",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, with reference to table 1 of Annex A of his Department's Annual Report and Accounts 2024-25, if he will publish a breakdown of the spending of Capital Departmental Expenditure Limit spe",
+   "dateTabled": "2026-01-30T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1876379,
+   "uin": "109203",
+   "heading": "Retail Trade: Empty Property",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, with reference to his Department's publication entitled High Street Rental Auctions: Non-statutory guidance, updated 5 June 2025, what steps her Department has taken to commence ",
+   "dateTabled": "2026-01-28T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1877227,
+   "uin": "109830",
+   "heading": "Department for Business and Trade: Public Expenditure",
+   "questionText": "To ask the Secretary of State for Business and Trade, with reference to his answer of 28 January 2026 Question 107135, if he will publish a breakdown of the £126m in CDEL outturn for 2024/5 in the category of \"Capital grants to private sector companies (n",
+   "dateTabled": "2026-01-30T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1877226,
+   "uin": "109829",
+   "heading": "Department for Business and Trade: Public Expenditure",
+   "questionText": "To ask the Secretary of State for Business and Trade, with reference to his answer of 28 January 2026 to Question 107450, if he will publish a breakdown of the administration and programme expenditure for 2024/5 in the categories of \"Subsidies to private ",
+   "dateTabled": "2026-01-30T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1877247,
+   "uin": "109831",
+   "heading": "Energy Supply: Expenditure",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, with reference to his answer to question 106583, if he will publish a breakdown of the £2bn in capital spending by his Department in 2024-25 in rows 2578, 2579, 9185 and 9197 of the OSCAR Ann",
+   "dateTabled": "2026-01-30T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1870997,
+   "uin": "105368",
+   "heading": "Apprentices",
+   "questionText": "To ask the Secretary of State for Education, how many people started apprenticeships who were aged a) 16, b) 17, c) 18, d) 19, e) 20, f) 21, g) 22, h) 23, i) 24 in each year since 2017-18.",
+   "dateTabled": "2026-01-13T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1876576,
+   "uin": "109585",
+   "heading": "Environment Agency",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, for what reason the (a) number of staff and (b) and operating expenditure have increased at the Environment Agency since April 2017.",
+   "dateTabled": "2026-01-29T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1876575,
+   "uin": "109584",
+   "heading": "Animal and Plant Health Agency",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, for what reason the (a) number of staff and (b) operating expenditure have increased at the Animal Plant Health Agency since April 2017.",
+   "dateTabled": "2026-01-29T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1874955,
+   "uin": "108279",
+   "heading": "Social Security Benefits",
+   "questionText": "To ask the Secretary of State for Work and Pensions, whether the operation of the household benefit cap relies on manual administration; and how many people in his Department work on its administration.",
+   "dateTabled": "2026-01-26T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1875980,
+   "uin": "109200",
+   "heading": "Sexual Offences: Sentencing",
+   "questionText": "To ask the Secretary of State for Justice, how many people were (a) convicted for a sexual offence and (b) did not receive an immediate custodial sentence, by year of conviction and number of previous occasions the offender has been convicted for sexual o",
+   "dateTabled": "2026-01-28T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1875979,
+   "uin": "109199",
+   "heading": "Theft: Sentencing",
+   "questionText": "To ask the Secretary of State for Justice, how many people were (a) convicted of theft and (b) did not receive an immediate custodial sentence, by year of conviction and number of previous occasions the offender has been convicted for theft.",
+   "dateTabled": "2026-01-28T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1875978,
+   "uin": "109198",
+   "heading": "Burglary: Sentencing",
+   "questionText": "To ask the Secretary of State for Justice, how many people were (a) convicted for burglary and b) did not receive an immediate custodial sentence, by year of conviction and number of previous occasions the offender has been convicted for burglary.",
+   "dateTabled": "2026-01-28T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1875977,
+   "uin": "109197",
+   "heading": "Robbery: Sentencing",
+   "questionText": "To ask the Secretary of State for Justice, how many people were (a) convicted for robbery and b) did not receive an immediate custodial sentence, by year of conviction and number of previous occasions the offender has been convicted for robbery.",
+   "dateTabled": "2026-01-28T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1875976,
+   "uin": "109196",
+   "heading": "Crimes of Violence: Sentencing",
+   "questionText": "To ask the Secretary of State for Justice, how many people were (a) convicted for a violence against the person offence and b) did not receive an immediate custodial sentence, by year of conviction and number of previous occassions the offender has been c",
+   "dateTabled": "2026-01-28T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1870910,
+   "uin": "105349",
+   "heading": "Erasmus+ Programme",
+   "questionText": "To ask the Secretary of State for Education, with reference to his Answer of 12 January 2026 to WPQ 101070, of the over 100,000 people that the Government estimates could benefit from mobility and partnership opportunities from Erasmus+ participation in 2",
+   "dateTabled": "2026-01-13T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1871008,
+   "uin": "105369",
+   "heading": "Housing Benefit and Universal Credit",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what was the a) mean and b) median amount of housing support claimed by people in each local authority who were on i) Housing Benefit ii) the Housing Element of UC and iii) either Housing Benefit or the",
+   "dateTabled": "2026-01-13T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1873951,
+   "uin": "107452",
+   "heading": "Competition and Markets Authority: Staff",
+   "questionText": "To ask the Secretary of State for Business and Trade, for what reason (a) the number of staff and (b) staff costs have increased at the Competition and Markets Authority since April 2017.",
+   "dateTabled": "2026-01-21T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1873956,
+   "uin": "107456",
+   "heading": "Information Commissioner's Office: Staff",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, for what reason (a) the number of staff and (b) staff costs have increased at the Information Commissioner's Office since April 2017.",
+   "dateTabled": "2026-01-21T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1873957,
+   "uin": "107457",
+   "heading": "National Physical Laboratory: Staff",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, for what reason (a) the number of staff and (b) staff costs have increased at the National Physical Laboratory since April 2017.",
+   "dateTabled": "2026-01-21T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1873744,
+   "uin": "107450",
+   "heading": "Department for Business and Trade: Public Expenditure",
+   "questionText": "To ask the Secretary of State for Business and Trade, with reference to table SOPS 1.1 from the Department's 2024/5 Annual Report and Accounts, what categories of spending are covered by the total of £1,497,088,000 covering administration and programme ex",
+   "dateTabled": "2026-01-21T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1870270,
+   "uin": "104793",
+   "heading": "Sustainable Farming Incentive",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, as of 1st October 2025 how many SFI agreements included actions SAM1, NUM1, HRW1 and IPM1 broken down by individual action.",
+   "dateTabled": "2026-01-12T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1870269,
+   "uin": "104792",
+   "heading": "Sustainable Farming Incentive",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what the total annual payments made to businesses under the SFI for actions SAM1, NUM1, IPM1 and HRW1 (broken down by individual action) were at 1 October 2025.",
+   "dateTabled": "2026-01-12T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1870267,
+   "uin": "104790",
+   "heading": "Sustainable Farming Incentive",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what the mean and median total income per business for the Sustainable Farming Incentive was in the year to October 2025.",
+   "dateTabled": "2026-01-12T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1870268,
+   "uin": "104791",
+   "heading": "Sustainable Farming Incentive",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what the mean size in hectares was of businesses ranked in the top 4% of SFI annual revenue payments by October 2025.",
+   "dateTabled": "2026-01-12T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1860127,
+   "uin": "96802",
+   "heading": "Department for Education: Career Development",
+   "questionText": "To ask the Secretary of State for Education, how many and what proportion of staff in her Department were promoted (a) in-grade and (b) to a higher grade in the last year broken down by (i) performance marking in the previous year and (ii) grade.",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1873503,
+   "uin": "107135",
+   "heading": "Department for Business and Trade: Public Expenditure",
+   "questionText": "To ask the Secretary of State for Business and Trade, with reference to table SOPS 1.2 from his Department's Annual Report and Accounts 2024/5, if he will publish a breakdown of CDEL in Section A - Department for Business and Trade, covering both gross sp",
+   "dateTabled": "2026-01-20T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1872018,
+   "uin": "106209",
+   "heading": "Housing Benefit",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many households are claiming housing benefits, either housing benefit or the housing element of Universal credit, in each Broad Market Rental Area (a) in total, (b) in the private rented sector and ",
+   "dateTabled": "2026-01-15T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1873552,
+   "uin": "107136",
+   "heading": "Rented Housing",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, if he will publish a lookup table matching census Output Areas to Broad Rental Market Areas.",
+   "dateTabled": "2026-01-20T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1873565,
+   "uin": "107137",
+   "heading": "Housing Benefit and Universal Credit",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many people are claiming (a) housing benefit and (b) the housing element of universal credit in each broad rental market area (BRMA) and what was the average amount claimed in each BRMA in 2025.",
+   "dateTabled": "2026-01-20T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1873463,
+   "uin": "107134",
+   "heading": "Reoffenders: Sentencing",
+   "questionText": "To ask the Secretary of State for Justice, how many people were convicted or cautioned for an indictable offence did not receive an immediate custodial sentence and had a) one, b) two, c) three, d) four and e) five or more prior convictions for burglary i",
+   "dateTabled": "2026-01-20T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1873460,
+   "uin": "107133",
+   "heading": "Reoffenders: Sentencing",
+   "questionText": "To ask the Secretary of State for Justice, how many people were convicted or cautioned for an indictable offence did not receive an immediate custodial sentence and had a) one, b) two, c) three, d) four and e) five or more prior convictions for violence a",
+   "dateTabled": "2026-01-20T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1873459,
+   "uin": "107132",
+   "heading": "Reoffenders: Sentencing",
+   "questionText": "To ask the Secretary of State for Justice, how many people were convicted or cautioned for an indictable offence did not receive an immediate custodial sentence and had a) one, b) two, c) three, d) four and e) five or more prior convictions for theft or r",
+   "dateTabled": "2026-01-20T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1873454,
+   "uin": "107131",
+   "heading": "Reoffenders: Sentencing",
+   "questionText": "To ask the Secretary of State for Justice, how many people who were (a) convicted and (b) cautioned for an indictable offence did not receive an immediate custodial sentence and had (i) one, (ii) two, (iii) three, (iv) four and (iv) five or more prior con",
+   "dateTabled": "2026-01-20T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1874031,
+   "uin": "107458",
+   "heading": "Ministry of Housing, Communities and Local Government: Departmental Expenditure Limits",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, with reference to table SoPS 1.2 of his Department's annual report and accounts 2024 to 2025, if he will publish a breakdown of the Gross Outturn and Income of CDEL in the Local ",
+   "dateTabled": "2026-01-21T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1872673,
+   "uin": "106584",
+   "heading": "Energy Supply: Expenditure",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, with reference to table 1 of Annex A of the Annual Report and Accounts 2024-25, if he will publish a breakdown of the spending of both (a) Resource Departmental Expenditure Limit and (b) Capi",
+   "dateTabled": "2026-01-19T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1872672,
+   "uin": "106583",
+   "heading": "Energy Supply: Expenditure",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, with reference to table 1 of Annex A of the Annual Report and Accounts 2024-25, if he will publish a breakdown of the spending of both (a) Resource Departmental Expenditure Limit and (b) Capi",
+   "dateTabled": "2026-01-19T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1873954,
+   "uin": "107455",
+   "heading": "Financial Reporting Council: Staff",
+   "questionText": "To ask the Secretary of State for Business and Trade, for what reason (a) the number of staff and (b) staff costs have increased at the Financial Reporting Council since April 2017.",
+   "dateTabled": "2026-01-21T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1873952,
+   "uin": "107453",
+   "heading": "Companies House: Staff",
+   "questionText": "To ask the Secretary of State for Business and Trade, for what reason (a) the number of staff and (b) staff costs have increased at Companies House since April 2017.",
+   "dateTabled": "2026-01-21T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1870495,
+   "uin": "104849",
+   "heading": "Social Security Benefits",
+   "questionText": "To ask the Secretary of State for Work and Pensions, with reference to Question 100498, how many households on Housing Benefit and Universal Credit who have flowed off the benefit cap are in the Other outcome category by reason of receiving an exempting b",
+   "dateTabled": "2026-01-12T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1873953,
+   "uin": "107454",
+   "heading": "Insolvency Service: Staff",
+   "questionText": "To ask the Secretary of State for Business and Trade, for what reason (a) the number of staff and (b) staff costs have increased at The Insolvency Service since April 2017.",
+   "dateTabled": "2026-01-21T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1872730,
+   "uin": "106585",
+   "heading": "Research and Science: Finance",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, with reference to table 1 of Annex A of the Annual Report and Accounts 2024-25, if he will publish a breakdown of the spending of Capital Departmental Expenditure Limit (CDEL) spending ",
+   "dateTabled": "2026-01-19T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1872625,
+   "uin": "106582",
+   "heading": "Department for Culture, Media and Sport: Redundancy Pay",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, if she will review the Answer her Department provided to Question 99845 on 18 December 2025, with reference to the Answer provided to Question 99844 on 8 January 2026.",
+   "dateTabled": "2026-01-19T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1867710,
+   "uin": "102836",
+   "heading": "Forestry Commission: Staff",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, with reference to the Forestry Commission's annual reports for 2017-18 and 2024-25, which teams and roles within the Forestry Commission have expanded since April 2017; and for what re",
+   "dateTabled": "2026-01-05T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1870904,
+   "uin": "105348",
+   "heading": "Ministry of Housing, Communities and Local Government: Public Expenditure",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, with reference to MHCLG's Annual Report 2024/5, if he will publish a breakdown of the Gross Outturn and Income of CDEL in the Housing and Planning Estimate Line in FY 2024/5.",
+   "dateTabled": "2026-01-13T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1870903,
+   "uin": "105347",
+   "heading": "Ministry of Housing, Communities and Local Government: Public Expenditure",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, for a breakdown of the programme spend and income of RDEL in the Local Growth and Devolution Estimate Line in FY 2024/5, with reference to MHCLG's Annual Report 2024/5, SoPS 1.1.",
+   "dateTabled": "2026-01-13T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1864015,
+   "uin": "99845",
+   "heading": "Department for Culture, Media and Sport: Redundancy Pay",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what the cost was of (a) settlement agreements and (b) special severance payments made to departing staff in the last year.",
+   "dateTabled": "2025-12-15T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1870859,
+   "uin": "105327",
+   "heading": "Inheritance Tax",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the answer of 13 January 2026 to WPQ 104190, how many estates were liable to inheritance tax by constituency over the last five years aggregated.",
+   "dateTabled": "2026-01-13T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1868432,
+   "uin": "103398",
+   "heading": "HM Land Registry: Pay",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what assessment his Department has made of the drivers of and reasons for the doubling of the wage and salary costs of the Land Registry since April 2017.",
+   "dateTabled": "2026-01-06T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1868429,
+   "uin": "103397",
+   "heading": "Planning Inspectorate: Pay",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what assessment his Department has made of the drivers of and reasons for the doubling of the wage and salary costs of the Planning Inspectorate since April 2017.",
+   "dateTabled": "2026-01-06T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1865645,
+   "uin": "101068",
+   "heading": "Department for Work and Pensions: UK Relations with EU",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what funding has been allocated to programmes relating to the UKs relationship with Europe in the (a) 2026-7, (b) 2028-9 and (c) 2029-30 financial years.",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1868437,
+   "uin": "103401",
+   "heading": "Intellectual Property Office: Pay",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, for what reason employment and wage costs have increased at the Intellectual Property Office since April 2017.",
+   "dateTabled": "2026-01-06T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1860416,
+   "uin": "97193",
+   "heading": "Home Office: Career Development",
+   "questionText": "To ask the Secretary of State for the Home Department, how many and what proportion of staff in her Department were promoted (a) in-grade and (b) to a higher grade in the last year broken down by (i) performance marking in the previous year and (ii) grade",
+   "dateTabled": "2025-12-04T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1868434,
+   "uin": "103400",
+   "heading": "Gambling Commission: Costs",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, for what reason employment and wage costs have increased at the Gambling Commission since April 2017.",
+   "dateTabled": "2026-01-06T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1860429,
+   "uin": "97206",
+   "heading": "Department for Environment, Food and Rural Affairs: Disciplinary Proceedings",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, how many disciplinary cases were concluded against civil servants in (a) the Department and (b) its agencies broken down by (i) outcome and (ii) whether the primary allegation related ",
+   "dateTabled": "2025-12-04T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1868418,
+   "uin": "103394",
+   "heading": "Climate Change Committee: Pay",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, for what reason wage and salary costs have increased at the Committee on Climate Change since April 2017.",
+   "dateTabled": "2026-01-06T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1868421,
+   "uin": "103395",
+   "heading": "Ofgem: Pay",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, for what reason wage and salary costs have increased at Ofgem since April 2017.",
+   "dateTabled": "2026-01-06T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1868416,
+   "uin": "103393",
+   "heading": "Nuclear Decommissioning Authority: Pay",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, for what reason employment and wage costs have increased at the Nuclear Decommisioning Authority since April 2017.",
+   "dateTabled": "2026-01-06T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1868427,
+   "uin": "103396",
+   "heading": "Mining Remediation Authority: Pay",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what assessment his Department has made of the drivers of and reasons for the more than doubling of the wage and salary costs of the Mining Remediation Authority since April 2017.",
+   "dateTabled": "2026-01-06T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1865646,
+   "uin": "101069",
+   "heading": "Erasmus+ Programme",
+   "questionText": "To ask the Secretary of State for Education, what estimate he has made of he number of UK students who will access the Erasmus scheme in 2027-28, 2028-29 and 2029-30.",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1865223,
+   "uin": "100973",
+   "heading": "Cabinet Office: Career Development",
+   "questionText": "To ask the Minister for the Cabinet Office, how many and what proportion of staff were promoted (a) in-grade and (b) to a higher grade in the last year broken down by (i) performance marking in the previous year and (ii) grade.",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1865224,
+   "uin": "100974",
+   "heading": "Cabinet Office: Performance Appraisal",
+   "questionText": "To ask the Minister for the Cabinet Office, how many and what proportion of staff in each grade were rated in the top performance category in the last year.",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1865225,
+   "uin": "100975",
+   "heading": "Cabinet Office: Redundancy Pay",
+   "questionText": "To ask the Minister for the Cabinet Office, what the total cost was of (a) settlement agreements and (b) special severance payments made to departing staff in the last year.",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1869404,
+   "uin": "104190",
+   "heading": "Inheritance Tax",
+   "questionText": "To ask the Chancellor of the Exchequer, how many estates were liable to inheritance tax passing on death in each parliamentary constituency, over the last five year period taken as a whole.",
+   "dateTabled": "2026-01-08T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1865643,
+   "uin": "101066",
+   "heading": "Cabinet Office: UK Relations with EU: Finance",
+   "questionText": "To ask the Minister for the Cabinet Office, what funding has been allocated to programmes relating to the UKs relationship with Europe in the (a) 2026-7, (b) 2028-9 and (c) 2029-30 financial years.",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1865644,
+   "uin": "101067",
+   "heading": "Department for Education: UK Relations with EU",
+   "questionText": "To ask the Secretary of State for Education, what funding has been allocated to programmes relating to the UKs relationship with Europe in the (a) 2026-7, (b) 2028-9 and (c) 2029-30 financial years.",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1868433,
+   "uin": "103399",
+   "heading": "Arts Council England: Pay",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what assessment her Department has made of the drivers of and reasons for the almost trebling of the wage and salary costs of Arts Council England since April 2017.",
+   "dateTabled": "2026-01-06T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1865642,
+   "uin": "101065",
+   "heading": "Foreign, Commonwealth and Development Office: UK Relations with EU",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what funding has been allocated to programmes relating to the UKs relationship with Europe in the (a) 2026-7, (b) 2028-9 and (c) 2029-30 financial years.",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1866261,
+   "uin": "101462",
+   "heading": "UK Research and Innovation: Finance",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, with reference to Table 2 in the UKRI Budget Allocation, published on 17 December 2025, if she will itemise the wider priorities category of targeted investment in industrial strategy g",
+   "dateTabled": "2025-12-18T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1865647,
+   "uin": "101070",
+   "heading": "Erasmus+ Programme",
+   "questionText": "To ask the Minister for the Cabinet Office, what estimate he has made of the number of UK students who will access the Erasmus scheme in 2027-28, 2028-29 and 2029-30.",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1865229,
+   "uin": "100980",
+   "heading": "Foreign, Commonwealth and Development Office: Performance Appraisal",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what the total cost was of (a) settlement agreements and (b) special severance payments made to departing staff in the last year.",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1865227,
+   "uin": "100977",
+   "heading": "Foreign, Commonwealth and Development Office: Sick Leave",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what the average number of working days lost to sickness absence per full-time equivalent member of staff was in (a) the Department and (b) its executive agencies in the last",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1865230,
+   "uin": "100981",
+   "heading": "Foreign, Commonwealth and Development Office: Disciplinary Proceedings",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, how many disciplinary cases were concluded against civil servants in (a) the Department and (b) its agencies broken down by (i) outcome and (ii) whether the primary allegatio",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1865649,
+   "uin": "100979",
+   "heading": "Foreign, Commonwealth and Development Office: Performance Appraisal",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, how many and what proportion of staff in each grade were rated in the top performance category in the last year.",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1865228,
+   "uin": "100978",
+   "heading": "Foreign, Commonwealth and Development Office: Career Development",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, how many and what proportion of staff were promoted (a) in-grade and (b) to a higher grade in the last year broken down by (i) performance marking in the previous year and (i",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1865041,
+   "uin": "100500",
+   "heading": "Social Security Benefits",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many households left the benefit cap by reason of being in receipt of an exempting benefit and where the exempting benefit was receiving Universal Credit with limited capability for work and work-re",
+   "dateTabled": "2025-12-16T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1865040,
+   "uin": "100499",
+   "heading": "Social Security Benefits",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many households left the benefit cap by reason of being in receipt of an exempting benefit and where the exempting benefit was PIP during each of the following periods: the quarter to August 2025, t",
+   "dateTabled": "2025-12-16T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1865039,
+   "uin": "100498",
+   "heading": "Social Security Benefits",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many households left the benefit cap by reason of being in receipt of an exempting benefit during each of the following periods: the quarter to August 2025, the quarter to May 2025, the quarter to F",
+   "dateTabled": "2025-12-16T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1864014,
+   "uin": "99844",
+   "heading": "Department for Culture, Media and Sport: Performance Appraisal",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, how many and what proportion of staff in each grade were rated in the top performance category in the last year.",
+   "dateTabled": "2025-12-15T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1862368,
+   "uin": "98513",
+   "heading": "Apprentices: Pay",
+   "questionText": "To ask the Secretary of State for Education, what the median annual earnings were for apprentices whose prior attainment was equivalent to (a) 4 As or above, (b) 360 points, (c) 300-359 points, (d) 240-299 points, (e) 180-239 points, (f) below 180 points,",
+   "dateTabled": "2025-12-09T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1860425,
+   "uin": "97202",
+   "heading": "Department for Environment, Food and Rural Affairs: Career Development",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, how many and what proportion of staff were promoted (a) in-grade and (b) to a higher grade in the last year broken down by (i) performance marking in the previous year and (ii) grade.",
+   "dateTabled": "2025-12-04T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1862414,
+   "uin": "98540",
+   "heading": "Department for Work and Pensions: Performance Appraisal",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many and what proportion of departmental staff in each grade were rated in the top performance category in the last year.",
+   "dateTabled": "2025-12-09T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1860426,
+   "uin": "97203",
+   "heading": "Department for Environment, Food and Rural Affairs: Performance Appraisal",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, how many and what proportion of staff in each grade were rated in the top performance category in the last year.",
+   "dateTabled": "2025-12-04T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1865226,
+   "uin": "100976",
+   "heading": "Cabinet Office: Disciplinary Proceedings",
+   "questionText": "To ask the Minister for the Cabinet Office, how many disciplinary cases were concluded against civil servants in (a) the Department and (b) its agencies broken down by (i) outcome and (ii) whether the primary allegation related to (A) performance and (B) ",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1865222,
+   "uin": "100972",
+   "heading": "Cabinet Office: Sick Leave",
+   "questionText": "To ask the Minister for the Cabinet Office, what the average number of working days lost to sickness absence per full-time equivalent member of staff was in (a) the Department and (b) its executive agencies in the last year; and how many formal performanc",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1865042,
+   "uin": "100501",
+   "heading": "Social Security Benefits",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many households received benefit payments above the level of the household benefit cap in each of the last 12 months.",
+   "dateTabled": "2025-12-16T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1862415,
+   "uin": "98541",
+   "heading": "Department for Work and Pensions: Redundancy Pay",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what the total cost was of (a) settlement agreements and (b) special severance payments made to departing departmental staff in the last year.",
+   "dateTabled": "2025-12-09T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1862412,
+   "uin": "98538",
+   "heading": "Department for Work and Pensions: Sick Leave",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what the average number of working days lost to sickness absence per full-time equivalent member of staff was in (a) the Department and (b) its executive agencies in the last year; and how many formal p",
+   "dateTabled": "2025-12-09T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1862416,
+   "uin": "98542",
+   "heading": "Department for Work and Pensions: Disciplinary Proceedings",
+   "questionText": "To ask the Secretary of State for Work and Pensions, in the past twelve months, how many disciplinary cases were concluded against civil servants in (a) the Department and (b) its agencies broken down by (i) outcome and (ii) whether the primary allegation",
+   "dateTabled": "2025-12-09T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1860418,
+   "uin": "97195",
+   "heading": "Home Office: Redundancy Pay",
+   "questionText": "To ask the Secretary of State for the Home Department, what the total cost was of (a) settlement agreements and (b) special severance payments made to departing staff in her Department in the last year.",
+   "dateTabled": "2025-12-04T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1860420,
+   "uin": "97197",
+   "heading": "Home Office: Disciplinary Proceedings",
+   "questionText": "To ask the Secretary of State for the Home Department, in the past twelve months, how many disciplinary cases were concluded against civil servants in (a) her Department and (b) its agencies broken down by (i) outcome and (ii) whether the primary allegati",
+   "dateTabled": "2025-12-04T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1860414,
+   "uin": "97191",
+   "heading": "Home Office: Sick Leave",
+   "questionText": "To ask the Secretary of State for the Home Department, what the average number of working days lost to sickness absence per full-time equivalent member of staff was in (a) the Department and (b) its executive agencies in the last year; and how many formal",
+   "dateTabled": "2025-12-04T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1860417,
+   "uin": "97194",
+   "heading": "Home Office: Performance Appraisal",
+   "questionText": "To ask the Secretary of State for the Home Department, how many and what proportion of staff in each grade in her Department were rated in the top performance category in the last year.",
+   "dateTabled": "2025-12-04T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1864970,
+   "uin": "100469",
+   "heading": "Ministry of Housing, Communities and Local Government: Sick Leave",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what the average number of working days lost to sickness absence per full-time equivalent member of staff was in (a) the Department and (b) its executive agencies in the last yea",
+   "dateTabled": "2025-12-16T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1864517,
+   "uin": "100379",
+   "heading": "Department for Business and Trade: Senior Civil Servants",
+   "questionText": "To ask the Secretary of State for Business and Trade, pursuant to the Answer of 12 December 2025 to Question 96808 on Department for Business and Trade: Career Development, how many and what proportion of Senior Civil Servants were rated in each of the bo",
+   "dateTabled": "2025-12-16T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1865045,
+   "uin": "100504",
+   "heading": "Social Security Benefits",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many households are exempt from the household benefit cap because they meet the earnings rule.",
+   "dateTabled": "2025-12-16T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1865044,
+   "uin": "100503",
+   "heading": "Social Security Benefits",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many households have been assessed as qualifying for each exemption from the household benefit cap in each of the last 12 months.",
+   "dateTabled": "2025-12-16T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1865043,
+   "uin": "100502",
+   "heading": "Social Security Benefits",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many households received more than £1,835 per month in benefits in the last period for which data is available.",
+   "dateTabled": "2025-12-16T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1860428,
+   "uin": "97205",
+   "heading": "Department for Environment, Food and Rural Affairs: Redundancy Pay",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what the total cost was of (a) settlement agreements and (b) special severance payments made to departing staff in the last year.",
+   "dateTabled": "2025-12-04T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1864976,
+   "uin": "100474",
+   "heading": "Ministry of Housing, Communities and Local Government: Disciplinary Proceedings",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, how many disciplinary cases were concluded against civil servants in (a) his Department and (b) his Department's agencies broken down by (i) outcome and (ii) whether the primary ",
+   "dateTabled": "2025-12-16T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1864974,
+   "uin": "100472",
+   "heading": "Ministry of Housing, Communities and Local Government: Redundancy Pay",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what the total cost was for (a) settlement agreements and (b) special severance payments made to departing staff from his Department in the last year.",
+   "dateTabled": "2025-12-16T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1864027,
+   "uin": "99856",
+   "heading": "Ministry of Defence: Disciplinary Proceedings",
+   "questionText": "To ask the Secretary of State for Defence, in the past twelve months, how many disciplinary cases were concluded against civil servants in (a) his Department and (b) its agencies broken down by (i) outcome and (ii) whether the primary allegation related t",
+   "dateTabled": "2025-12-15T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1864026,
+   "uin": "99855",
+   "heading": "Ministry of Defence: Redundancy Pay",
+   "questionText": "To ask the Secretary of State for Defence, what the cost was of (a) settlement agreements and (b) special severance payments made to departing staff in the last year.",
+   "dateTabled": "2025-12-15T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1864024,
+   "uin": "99853",
+   "heading": "Ministry of Defence: Performance Appraisal",
+   "questionText": "To ask the Secretary of State for Defence, how many and what proportion of staff in each grade were rated in the top performance category in the last year.",
+   "dateTabled": "2025-12-15T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1864022,
+   "uin": "99851",
+   "heading": "Ministry of Defence: Career Development",
+   "questionText": "To ask the Secretary of State for Defence, how many and what proportion of staff were promoted (a) in-grade and (b) to a higher grade in the last year by (i) performance marking in the previous year and (ii) grade.",
+   "dateTabled": "2025-12-15T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1864020,
+   "uin": "99849",
+   "heading": "Ministry of Defence: Sick Leave",
+   "questionText": "To ask the Secretary of State for Defence, what the average number of working days lost to sickness absence per full-time equivalent member of staff was in (a) his Department and (b) its executive agencies in the last year; and how many formal performance",
+   "dateTabled": "2025-12-15T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1864969,
+   "uin": "100468",
+   "heading": "Department for Science, Innovation and Technology: Disciplinary Proceedings",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, in the past twelve months, how many disciplinary cases were concluded against civil servants in (a) the Department and (b) its agencies broken down by (i) outcome and (ii) whether the p",
+   "dateTabled": "2025-12-16T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1864965,
+   "uin": "100466",
+   "heading": "Department for Science, Innovation and Technology: Performance Appraisal",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, how many and what proportion of staff in each grade were rated in the top performance category in the last year.",
+   "dateTabled": "2025-12-16T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1864963,
+   "uin": "100464",
+   "heading": "Department for Science, Innovation and Technology: Sick Leave",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what the average number of working days lost to sickness absence per full-time equivalent member of staff was in (a) the Department and (b) its executive agencies in the last year; and ",
+   "dateTabled": "2025-12-16T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1864968,
+   "uin": "100467",
+   "heading": "Department for Science, Innovation and Technology: Redundancy Pay",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what the total cost was of (a) settlement agreements and (b) special severance payments made to departing staff in the last year.",
+   "dateTabled": "2025-12-16T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1864964,
+   "uin": "100465",
+   "heading": "Department for Science, Innovation and Technology: Career Development",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, how many and what proportion of staff were promoted (a) in-grade and (b) to a higher grade in the last year broken down by (i) performance marking in the previous year and (ii) grade.",
+   "dateTabled": "2025-12-16T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1864971,
+   "uin": "100470",
+   "heading": "Ministry of Housing, Communities and Local Government: Career Development",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, how many and what proportion of staff in his Department were promoted (a) in-grade and (b) to a higher grade in the last year broken down by (i) performance marking in the previo",
+   "dateTabled": "2025-12-16T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1864973,
+   "uin": "100471",
+   "heading": "Ministry of Housing, Communities and Local Government: Performance Appraisal",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, how many and what proportion of his Department's staff in each grade were rated in the top performance category in the last year.",
+   "dateTabled": "2025-12-16T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1862406,
+   "uin": "98532",
+   "heading": "Department of Health and Social Care: Sick Leave",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what the average number of working days lost to sickness absence per full-time equivalent member of staff was in (a) the Department and (b) its executive agencies in the last year; and how many for",
+   "dateTabled": "2025-12-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1862409,
+   "uin": "98535",
+   "heading": "Department of Health and Social Care: Redundancy Pay",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what the total cost was of (a) settlement agreements and (b) special severance payments made to departing departmental staff in the last year.",
+   "dateTabled": "2025-12-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1862408,
+   "uin": "98534",
+   "heading": "Department of Health and Social Care: Performance Appraisal",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many and what proportion of departmental staff in each grade were rated in the top performance category in the last year.",
+   "dateTabled": "2025-12-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1862407,
+   "uin": "98533",
+   "heading": "Department of Health and Social Care: Career Development",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many and what proportion of departmental staff were promoted (a) in-grade and (b) to a higher grade in the last year broken down by (i) performance marking in the previous year and (ii) grade.",
+   "dateTabled": "2025-12-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1863279,
+   "uin": "99246",
+   "heading": "Treasury: Disciplinary Proceedings",
+   "questionText": "To ask the Chancellor of the Exchequer, how many disciplinary cases were concluded against civil servants in (a) her Department and (b) its agencies by (i) outcome and (ii) whether the primary allegation related to (A) performance and (B) conduct in the l",
+   "dateTabled": "2025-12-11T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1863276,
+   "uin": "99243",
+   "heading": "Treasury: Career Development",
+   "questionText": "To ask the Chancellor of the Exchequer, how many and what proportion of staff were promoted (a) in-grade and (b) to a higher grade in the last year by (i) performance marking in the previous year and (ii) grade.",
+   "dateTabled": "2025-12-11T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1863277,
+   "uin": "99244",
+   "heading": "Treasury: Performance Appraisal",
+   "questionText": "To ask the Chancellor of the Exchequer, how many and what proportion of staff in each grade were rated in the top performance category in the last year.",
+   "dateTabled": "2025-12-11T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1864017,
+   "uin": "99847",
+   "heading": "Department for Culture, Media and Sport: Disciplinary Proceedings",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, how many disciplinary cases were concluded against civil servants in (a) her Department and (b) its agencies by (i) outcome and (ii) whether the primary allegation related to (A) performance and ",
+   "dateTabled": "2025-12-15T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1864013,
+   "uin": "99843",
+   "heading": "Department for Culture, Media and Sport: Career Development",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, how many and what proportion of staff were promoted (a) in-grade and (b) to a higher grade in the last year by (i) performance marking in the previous year and (ii) grade.",
+   "dateTabled": "2025-12-15T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1864012,
+   "uin": "99842",
+   "heading": "Department for Culture, Media and Sport: Sick Leave",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what the average number of working days lost to sickness absence per full-time equivalent member of staff was in (a) her Department and (b) its executive agencies in the last year; and how many f",
+   "dateTabled": "2025-12-15T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1864226,
+   "uin": "99881",
+   "heading": "Department for Science, Innovation and Technology: Public Expenditure",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, with reference to DSIT Main Estimate memorandum 2025 to 2026, if she will provide a breakdown of past and planned capital spending in the category of 'Science and Society'; and for what",
+   "dateTabled": "2025-12-15T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1864236,
+   "uin": "99882",
+   "heading": "Met Office: Finance",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, with reference to the DSIT Main Estimate memoranda for the years 2024 to 2025 and 2025 to 2026, for what reason there has been an increase in the capital spending allocated to the Met O",
+   "dateTabled": "2025-12-15T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1863278,
+   "uin": "99245",
+   "heading": "Treasury: Redundancy Pay",
+   "questionText": "To ask the Chancellor of the Exchequer, what the cost was of (a) settlement agreements and (b) special severance payments made to departing staff in the last year.",
+   "dateTabled": "2025-12-11T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1863275,
+   "uin": "99242",
+   "heading": "Treasury: Sick Leave",
+   "questionText": "To ask the Chancellor of the Exchequer, what the average number of working days lost to sickness absence per full-time equivalent member of staff was in (a) her Department and (b) its executive agencies in the last year; and how many formal performance wa",
+   "dateTabled": "2025-12-11T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1862413,
+   "uin": "98539",
+   "heading": "Department for Work and Pensions: Career Development",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many and what proportion of departmental staff were promoted (a) in-grade and (b) to a higher grade in the last year broken down by (i) performance marking in the previous year and (ii) grade.",
+   "dateTabled": "2025-12-09T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1859906,
+   "uin": "96738",
+   "heading": "Department for Environment, Food and Rural Affairs: Freedom of Information",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, pursuant to the Answer of 8 May 2025 to Question 45822 on Department for Environment, Food and Rural Affairs: Equality, if she will publish the Freedom of Information Act response with",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1860423,
+   "uin": "97200",
+   "heading": "Department for Environment, Food and Rural Affairs: Sick Leave",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what the average number of working days lost to sickness absence per full-time equivalent member of staff was in (a) her Department and (b) its executive agencies in the last year; and",
+   "dateTabled": "2025-12-04T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1861782,
+   "uin": "97909",
+   "heading": "Ministry of Justice: Disciplinary Proceedings",
+   "questionText": "To ask the Secretary of State for Justice, in the past twelve months, how many disciplinary cases were concluded against civil servants in (a) his Department and (b) its agencies broken down by (i) outcome and (ii) whether the primary allegation related t",
+   "dateTabled": "2025-12-08T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1861780,
+   "uin": "97908",
+   "heading": "Ministry of Justice: Redundancy Pay",
+   "questionText": "To ask the Secretary of State for Justice, what the total cost was of (a) settlement agreements and (b) special severance payments made to departing staff in his Department in the last year.",
+   "dateTabled": "2025-12-08T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1861778,
+   "uin": "97906",
+   "heading": "Ministry of Justice: Career Development",
+   "questionText": "To ask the Secretary of State for Justice, how many and what proportion of staff in his Department were promoted (a) in-grade and (b) to a higher grade in the last year broken down by (i) performance marking in the previous year and (ii) grade.",
+   "dateTabled": "2025-12-08T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1861779,
+   "uin": "97907",
+   "heading": "Ministry of Justice: Performance Appraisal",
+   "questionText": "To ask the Secretary of State for Justice, how many and what proportion of staff in each grade in his Department were rated in the top performance category in the last year.",
+   "dateTabled": "2025-12-08T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1861777,
+   "uin": "97905",
+   "heading": "Ministry of Justice: Sick Leave",
+   "questionText": "To ask the Secretary of State for Justice, what the average number of working days lost to sickness absence per full-time equivalent member of staff was in (a) his Department and (b) its executive agencies in the last year; and how many formal performance",
+   "dateTabled": "2025-12-08T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1861772,
+   "uin": "97903",
+   "heading": "Department for Energy Security and Net Zero: Redundancy Pay",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what the total cost was of (a) settlement agreements and (b) special severance payments made to departing staff in the last year.",
+   "dateTabled": "2025-12-08T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1861774,
+   "uin": "97904",
+   "heading": "Department for Energy Security and Net Zero: Disciplinary Proceedings",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, how many disciplinary cases were concluded against civil servants in (a) the Department and (b) its agencies in the past twelve months, broken down by (i) outcome and (ii) whether the primary",
+   "dateTabled": "2025-12-08T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1861768,
+   "uin": "97899",
+   "heading": "Department for Energy Security and Net Zero: Sick Leave",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what the average number of working days lost to sickness absence per full-time equivalent member of staff was in (a) the Department and (b) its executive agencies in the last year; and how ma",
+   "dateTabled": "2025-12-08T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1861769,
+   "uin": "97900",
+   "heading": "Department for Energy Security and Net Zero: Career Development",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, how many and what proportion of staff were promoted (a) in-grade and (b) to a higher grade in the last year broken down by (i) performance marking in the previous year and (ii) grade.",
+   "dateTabled": "2025-12-08T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1861770,
+   "uin": "97901",
+   "heading": "Department for Energy Security and Net Zero: Performance Appraisal",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, how many and what proportion of staff in each grade were rated in the top performance category in the last year.",
+   "dateTabled": "2025-12-08T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1860135,
+   "uin": "96809",
+   "heading": "Department for Business and Trade: Redundancy Pay",
+   "questionText": "To ask the Secretary of State for Business and Trade, what the total cost was of (a) settlement agreements and (b) special severance payments made to departing staff in the last year.",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1862623,
+   "uin": "98869",
+   "heading": "Motability Scheme: VAT",
+   "questionText": "To ask the Chancellor of the Exchequer, what estimate she has made of the cost of VAT relief for Motability in (a) 2025 and (b) each year of the Budget forecast.",
+   "dateTabled": "2025-12-10T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1860129,
+   "uin": "96804",
+   "heading": "Department for Education: Redundancy Pay",
+   "questionText": "To ask the Secretary of State for Education, what the total cost was of (a) settlement agreements and (b) special severance payments made to departing staff in her Department in the last year.",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1860132,
+   "uin": "96807",
+   "heading": "Department for Business and Trade: Career Development",
+   "questionText": "To ask the Secretary of State for Business and Trade, how many and what proportion of staff were promoted (a) in-grade and (b) to a higher grade in the last year broken down by (i) performance marking in the previous year and (ii) grade.",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1860134,
+   "uin": "96808",
+   "heading": "Department for Business and Trade: Career Development",
+   "questionText": "To ask the Secretary of State for Business and Trade, how many and what proportion of staff in each grade were rated in the top performance category in the last year.",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1860136,
+   "uin": "96810",
+   "heading": "Department for Business and Trade: Disciplinary Proceedings",
+   "questionText": "To ask the Secretary of State for Business and Trade, how many disciplinary cases were concluded against civil servants in (a) the Department and (b) its agencies by (i) outcome and (ii) whether the primary allegation related to (A) performance and (B) co",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1860131,
+   "uin": "96806",
+   "heading": "Department for Business and Trade: Sick Leave",
+   "questionText": "To ask the Secretary of State for Business and Trade, what the average number of working days lost to sickness absence per full-time equivalent member of staff was in (a) the Department and (b) its executive agencies in the last year; and how many formal ",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1860128,
+   "uin": "96803",
+   "heading": "Department for Education: Performance Appraisal",
+   "questionText": "To ask the Secretary of State for Education, how many and what proportion of staff in her Department in each grade were rated in the top performance category in the last year.",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1860130,
+   "uin": "96805",
+   "heading": "Department for Education: Disciplinary Proceedings",
+   "questionText": "To ask the Secretary of State for Education, in the past twelve months, how many disciplinary cases were concluded against civil servants in (a) her Department and (b) its agencies broken down by (i) outcome and (ii) whether the primary allegation related",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1860125,
+   "uin": "96801",
+   "heading": "Department for Education: Sick Leave",
+   "questionText": "To ask the Secretary of State for Education, what the average number of working days lost to sickness absence per full-time equivalent member of staff was in (a) the Department and (b) its executive agencies in the last year; and how many formal performan",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1858997,
+   "uin": "95980",
+   "heading": "Social Security Benefits: Social Rented Housing",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many households currently subject to the Household Benefit Cap are living in (a) council housing and (b) housing association accommodation.",
+   "dateTabled": "2025-12-01T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1859910,
+   "uin": "96739",
+   "heading": "Cultural Relations: Expenditure",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what the net expenditure of her Department was on projects related to cultural diplomacy in the last financial year.",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1859261,
+   "uin": "96204",
+   "heading": "Social Security Benefits",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many additional households will become subject to the Household Benefit Cap following the removal of the two-child limit on the Universal Credit child element.",
+   "dateTabled": "2025-12-02T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1859251,
+   "uin": "96200",
+   "heading": "Social Security Benefits",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what proportion of total benefit income received by the average benefit-capped household is accounted for by (a) Universal Credit excluding child elements, (b) the Universal Credit child element, (c) Ho",
+   "dateTabled": "2025-12-02T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1859257,
+   "uin": "96202",
+   "heading": "Social Security Benefits",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many households are exempt from the Household Benefit Cap solely as a result of receiving (a) Personal Independence Payment and (b) Carer’s Allowance by region.",
+   "dateTabled": "2025-12-02T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1859255,
+   "uin": "96201",
+   "heading": "Social Security Benefits",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many households are exempt from the Household Benefit Cap solely as a result of receiving (a) Disability Living Allowance and (b) Attendance Allowance by region.",
+   "dateTabled": "2025-12-02T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1858999,
+   "uin": "95982",
+   "heading": "Social Security Benefits",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what assessment he has made of the impact of each exemption from the Household Benefit Cap on (a) the number of households subject to the cap and (b) overall welfare expenditure.",
+   "dateTabled": "2025-12-01T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1858996,
+   "uin": "95979",
+   "heading": "Social Security Benefits",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what estimate his Department has made of the number of additional households that would become subject to the Household Benefit Cap following the removal of the two-child limit on the Universal Credit C",
+   "dateTabled": "2025-12-01T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1858998,
+   "uin": "95981",
+   "heading": "Social Security Benefits",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many households with total benefit entitlement above the level of the Household Benefit Cap have entitlement above (a) £30,000, (b) £40,000 and (c) £50,000 per year, or the equivalent weekly and mon",
+   "dateTabled": "2025-12-01T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1858065,
+   "uin": "95328",
+   "heading": "Driving Tests: Location",
+   "questionText": "To ask the Secretary of State for Transport, how many and what proportion of driving-test bookings had their test location changed before the test was taken in the last 12 months.",
+   "dateTabled": "2025-11-27T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1962881,
+   "uin": "45753",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for the Home Department, pursuant to the Answer of 23 November 2026 to Question 43930, how many full-time equivalent staff worked on the Afghan Resettlement Programme and the UK Resettlement Scheme combined in 2025-26, and wh",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1963017,
+   "uin": "45589",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many requests for a managed payment to landlord were made by social sector landlords in each month since January 2025; and how many of those requests were (a) granted and (b) refused.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1962116,
+   "uin": "44909",
+   "heading": "Mental Health Services: Expenditure",
+   "questionText": "To ask the Secretary of State for Health and Social Care, pursuant to the Answer of 16 July 2026 to Question 15730, how much was spent on forensic mental health services other than high, medium and low secure services in each year since 2013/14, by (a) co",
+   "dateTabled": "2026-11-19T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1961255,
+   "uin": "44314",
+   "heading": "Employment: Young People",
+   "questionText": "To ask the Secretary of State for Work and Pensions, with reference to the Analytical Annex of the Report, From a Welfare State to a Working State, if he will publish the assumptions used in modelling the \"Gross costs of the 'opportunity and support guara",
+   "dateTabled": "2026-11-17T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1958226,
+   "uin": "41788",
+   "heading": "Education: Standards",
+   "questionText": "To ask the Secretary of State for Education, excluding pupils in London, what i) number and b) proportion of each Major and Minor ethnic group were in each decile of national attainment as measured by attainment 8 for that group in 2023/24.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1958225,
+   "uin": "41787",
+   "heading": "Education: Standards",
+   "questionText": "To ask the Secretary of State for Education, what the Attainment 8 score was at each decile of attainment for each Major and Minor ethnic group in 2023/24, excluding pupils in London.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1957889,
+   "uin": "41507",
+   "heading": "Southwell Minster: Finance",
+   "questionText": "To ask the hon. Member for Battersea, representing the Church Commissioners, what steps are being taken to ensure the financial sustainability of Southwell Minster.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Church Commissioners"
+  },
+  {
+   "id": 1903554,
+   "uin": "130092",
+   "heading": "Data Centres",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what estimate his Department has made of the expected growth in UK datacentre capacity, measured in MW, from today to 2030.",
+   "dateTabled": "2026-04-28T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1903547,
+   "uin": "130090",
+   "heading": "Immigration",
+   "questionText": "To ask the Secretary of State for the Home Department, how many grants of indefinite leave to remain were revoked in the last twelve months.",
+   "dateTabled": "2026-04-28T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1903546,
+   "uin": "130089",
+   "heading": "Immigration",
+   "questionText": "To ask the Secretary of State for the Home Department, how many grants of indefinite leave to remain were revoked in January, February and March of this year.",
+   "dateTabled": "2026-04-28T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1903545,
+   "uin": "130088",
+   "heading": "Asylum: Housing",
+   "questionText": "To ask the Secretary of State for the Home Department, what recent progress her Department has made on agreeing the Future Asylum Contracts Accommodation.",
+   "dateTabled": "2026-04-28T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1903487,
+   "uin": "130068",
+   "heading": "Homelessness",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, in each of the last three years how many households owed a prevention or relief duty were a) UK nationals b) EEA nationals c) non-EEA nationals, broken down by the reason for the",
+   "dateTabled": "2026-04-28T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1903483,
+   "uin": "130067",
+   "heading": "Health Professions: Conduct",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many and what proportion of Practitioner Performance Advice cases involving (a) behaviour, (b) misconduct and (c) other (i) clinical and (ii) health concerns have involved practitioners who qua",
+   "dateTabled": "2026-04-28T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  }
+ ],
+ "historyComplete": true
+}
