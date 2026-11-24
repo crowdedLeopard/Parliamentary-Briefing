@@ -143,9 +143,14 @@ def validation_html(v: dict | None, ed: dict) -> tuple[str, str]:
     """(header badge, coverage block) describing the independent validation pass."""
     if not ed:
         return "", ""
-    if not v:
+    rules = (v or {}).get("ruleChecks") or {"checked": 0, "issues": []}
+    rule_html = (f"<p><b>Rule checks.</b> {rules['checked']} links, UINs and member parties checked against the official data: "
+                 + ("all correct.</p>" if not rules["issues"] else
+                    f"{len(rules['issues'])} problem(s):</p><ul>" + "".join(f"<li>{e(i['where'])}: {e(i['issue'])}</li>" for i in rules["issues"]) + "</ul>"))
+    if not v or v.get("verdict") in (None, "not run"):
+        why = e((v or {}).get("error") or "the validator agent has not run")
         return ('<p class="vb warn">Not yet checked by the validator agent</p>',
-                "<p><b>Validation.</b> The editorial sections have not been through the independent validator agent.</p>")
+                f"<p><b>Validation.</b> The editorial has NOT been through the independent validator agent ({why}).</p>" + rule_html)
     fixes, removed = v.get("fixes", []), v.get("removed", [])
     verdict = {"pass": "Validated", "pass_with_fixes": "Validated with corrections", "fail": "Failed validation"}.get(v.get("verdict"), "Validation not completed")
     cls = "warn" if v.get("verdict") in ("fail", None, "not run") else ""
@@ -154,7 +159,9 @@ def validation_html(v: dict | None, ed: dict) -> tuple[str, str]:
     rows += "".join(f"<li><b>{e(r.get('where'))}</b> removed <small>({e(r.get('reason'))})</small></li>" for r in removed)
     block = (f"<p><b>Validation.</b> Drafted by the writer agent ({e(v.get('writer', 'n/a'))}) and checked claim by claim against the "
              f"same source material by an independent validator agent ({e(v.get('validator', 'n/a'))}). Verdict: {e(verdict)}.</p>"
-             + (f"<details><summary>Corrections and removals</summary><ul>{rows}</ul></details>" if rows else ""))
+             + (f"<details><summary>Corrections and removals</summary><ul>{rows}</ul></details>" if rows else "") + rule_html)
+    if rules["issues"]:
+        badge = badge.replace('class="vb', 'class="vb warn').replace("</p>", f" · {len(rules['issues'])} rule-check problem(s)</p>")
     return badge, block
 
 

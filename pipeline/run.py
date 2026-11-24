@@ -25,6 +25,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 
 from agents import write_and_validate  # noqa: E402
 from api import Api  # noqa: E402
+from checks import run_checks  # noqa: E402
 from feed import build_feed, window  # noqa: E402
 from members import build_profiles  # noqa: E402
 from render import render  # noqa: E402
@@ -90,11 +91,26 @@ def main(argv=None) -> int:
         if validation is not None:
             jsave(paths["validation"], validation)
 
+    # Rule-based checks always run, with or without the AI validator.
+    rules = run_checks(editorial, feed, profiles)
+    validation = dict(validation or {"verdict": "not run", "error": "AI validator did not run (is ANTHROPIC_API_KEY set?)",
+                                     "checked": 0, "fixes": [], "removed": []})
+    validation["ruleChecks"] = rules
+    if editorial is not None:
+        jsave(paths["validation"], validation)
+
     html = render(feed, profiles, editorial, run_date, validation)
     paths["report"].parent.mkdir(exist_ok=True)
     paths["report"].write_text(html)
     (ROOT / "reports" / "latest.html").write_text(html)
     logging.info("report: %s", paths["report"])
+
+    # The validator is mandatory: fail the run (so GitHub notifies) if it did not pass.
+    ok = validation.get("verdict") in ("pass", "pass_with_fixes") and not rules["issues"]
+    if editorial is not None and not ok:
+        logging.error("VALIDATION NOT PASSED: verdict=%s, rule issues=%d. The report is marked unvalidated.",
+                      validation.get("verdict"), len(rules["issues"]))
+        return 2
     return 0
 
 

@@ -28,6 +28,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     timeout-minutes: 120
+    outputs:
+      ran: ${{ steps.run.outputs.ran }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -35,11 +37,20 @@ jobs:
           python-version: "3.12"
           cache: pip
       - run: pip install -r requirements.txt
-      - name: Fetch, profile, write, validate and render
+      - name: Check the validator can run
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          if [ -z "$ANTHROPIC_API_KEY" ]; then
+            echo "::error title=Validator cannot run::Add the ANTHROPIC_API_KEY repository secret. Without it the writer, AI classifier and validator agents are skipped and the briefing is published as NOT VALIDATED."
+          fi
+      - name: Fetch, screen, profile, write, validate and render
+        id: run
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           WRITER_MODEL: ${{ vars.WRITER_MODEL }}
           VALIDATOR_MODEL: ${{ vars.VALIDATOR_MODEL }}
+          CLASSIFIER_MODEL: ${{ vars.CLASSIFIER_MODEL }}
           RUN_DATE: ${{ inputs.run_date }}
           MODE: ${{ inputs.mode }}
           EVENT: ${{ github.event_name }}
@@ -48,15 +59,22 @@ jobs:
           if [ "$EVENT" = "schedule" ]; then ARGS+=(--scheduled); fi
           if [[ "$RUN_DATE" =~ ^[0-9]{4}-[0-9]{2}-[0-9]{2}$ ]]; then ARGS+=(--run-date "$RUN_DATE"); fi
           if [[ "$MODE" =~ ^(full|validate|render)$ ]]; then ARGS+=(--mode "$MODE"); fi
-          # Empty repository variables must not override the code's default models
           [ -z "$WRITER_MODEL" ] && unset WRITER_MODEL
           [ -z "$VALIDATOR_MODEL" ] && unset VALIDATOR_MODEL
+          [ -z "$CLASSIFIER_MODEL" ] && unset CLASSIFIER_MODEL
+          set +e
           python pipeline/run.py "${ARGS[@]}"
+          code=$?
+          set -e
+          if git status --porcelain reports | grep -q .; then echo "ran=true" >> "$GITHUB_OUTPUT"; fi
+          if [ $code -eq 2 ]; then echo "::error title=Briefing not validated::The validator did not pass this edition. It is published marked NOT VALIDATED; see the coverage note."; fi
+          exit $code
       - name: Commit results
+        if: always()
         run: |
           git config user.name "briefing-bot"
           git config user.email "briefing-bot@users.noreply.github.com"
-          git add data reports editorial
+          git add data reports editorial || true
           if git diff --cached --quiet; then echo "No changes"; exit 0; fi
           git commit -m "Briefing for $(date -u +%Y-%m-%d)"
           git pull --rebase --quiet
@@ -71,3 +89,47 @@ jobs:
             editorial/*.json
           if-no-files-found: ignore
           retention-days: 30
+
+  site:
+    # Publishes the private website. Each target switches on only once it is set up safely:
+    #   GitHub Pages: repository variable PAGES_PRIVATE_CONFIRMED=true, set only after
+    #                 Settings > Pages > Visibility is Private (needs a GitHub Enterprise Cloud org).
+    #   Azure Static Web Apps: repository secret AZURE_STATIC_WEB_APPS_API_TOKEN.
+    needs: build
+    if: always() && (needs.build.outputs.ran == 'true' || github.event_name == 'workflow_dispatch')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    env:
+      SWA_TOKEN: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN }}
+      PAGES_OK: ${{ vars.PAGES_PRIVATE_CONFIRMED }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python pipeline/site.py
+      - name: Nothing to deploy yet
+        if: env.SWA_TOKEN == '' && env.PAGES_OK != 'true'
+        run: echo "::notice title=Site not deployed::Set up Azure Static Web Apps or private GitHub Pages (see README) to publish the website."
+      - name: Deploy to Azure Static Web Apps (Microsoft sign-in, invited users only)
+        if: env.SWA_TOKEN != ''
+        uses: Azure/static-web-apps-deploy@v1
+        with:
+          azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN }}
+          action: upload
+          app_location: _site
+          skip_app_build: true
+          skip_api_build: true
+      - name: Upload for private GitHub Pages
+        if: env.PAGES_OK == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - name: Deploy private GitHub Pages
+        if: env.PAGES_OK == 'true'
+        uses: actions/deploy-pages@v4

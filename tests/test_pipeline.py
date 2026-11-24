@@ -91,7 +91,9 @@ def test_end_to_end(tmp_path):
     # Every answered question gets 'Microsoft Azure' only in the full text, so all are screened in via the detail fetch
     assert "45000" in uins and "HL46000" in uins and "47000" in uins
     assert feed["writtenStatements"] == [] and feed["statementsScanned"] == 1
-    assert not feed["warnings"]
+    assert feed["warnings"] == ["AI classifier not run (no ANTHROPIC_API_KEY)"]
+    # DSIT is a watched department, so every question to it is screened in even without keywords
+    assert feed["layers"]["department"] == 1203 and feed["layers"]["semantic"] == 0
 
     profiles = build_profiles(api, feed, run, tmp_path / "members")
     assert {p["id"] for p in profiles} == {7, 8}
@@ -107,32 +109,48 @@ def test_end_to_end(tmp_path):
     (tmp_path / "page.html").write_text(page)
 
 
-def test_sources_parse_hansard_and_whatson(monkeypatch):
+def test_sources_use_parliament_apis(monkeypatch):
     import sources
-    overview = '<a href="/Commons/2026-11-23/debates/AAA/FinanceBill">Finance Bill (item number 6)</a>'
-    section = ('<h2>Finance Bill</h2><div class="contribution">Calum Miller (Bicester and Woodstock) (LD) to contribution 117 '
-               'Share this specific contribution x Copy link There are two huge data centres proposed in my constituency.</div>'
-               '<div class="contribution">Someone (Somewhere) (Lab) to contribution 118 Share this specific contribution x Copy link Potholes again and again.</div>')
-    whatson = ('<main><a href="/event/cal1">View more information about Consideration of Lords Amendments to the Cyber Security and '
-               'Resilience (Network and Information Systems) Bill ) (7)</a></main>')
 
     def h(req):
         u = str(req.url)
-        if u.endswith("/Commons/2026-11-23"):
-            return httpx.Response(200, text=overview)
-        if "/html/Commons/2026-11-23/CommonsChamber" in u:
-            return httpx.Response(200, text=section)
-        if "whatson" in u and "/commons/" in u:
-            return httpx.Response(200, text=whatson)
+        if "hansard-api" in u and "Spoken.json" in u:
+            if "data+centres" in u or "data%20centres" in u:
+                return httpx.Response(200, json={"Results": [{
+                    "MemberName": "Calum Miller", "AttributedTo": "Calum Miller (Bicester and Woodstock) (LD)",
+                    "ContributionExtId": "C1", "ContributionTextFull": "Two huge data centres are proposed in my constituency.",
+                    "DebateSection": "Finance Bill", "DebateSectionExtId": "D1", "House": "Commons",
+                    "SittingDate": "2026-11-23T00:00:00"}]})
+            return httpx.Response(200, json={"Results": []})
+        if "whatson-api" in u:
+            return httpx.Response(200, json=[{"Id": 57223, "House": "Commons", "Type": "Main Chamber", "StartTime": "15:00",
+                                              "Description": "Cyber Security and Resilience Bill: Lords amendments", "CancelledDate": None}])
+        if "committees-api" in u and "Publications" in u:
+            return httpx.Response(200, json={"items": [{"id": 55946, "description": "Letter on Government Cyber Resilience",
+                                                        "committees": [{"name": "Public Accounts Committee"}]}]})
+        if "committees-api" in u and "Events" in u:
+            return httpx.Response(200, json={"items": [{"id": 28501, "name": "Children's TV", "committees": [{"name": "DCMS Committee"}]}]})
         return httpx.Response(404)
 
     real = httpx.Client
     monkeypatch.setattr(sources.httpx, "Client", lambda **kw: real(transport=httpx.MockTransport(h), **{k: v for k, v in kw.items() if k != "transport"}))
     b = sources.gather("2026-11-23", "2026-11-23", "2026-11-24")
-    assert len(b["hansard"]) == 1
-    hp = b["hansard"][0]
-    assert hp["debate"] == "Finance Bill" and hp["link"].endswith("/FinanceBill") and "Calum Miller" in hp["speaker"]
-    assert any(x.get("title", "").startswith("Consideration of Lords Amendments to the Cyber") for x in b["today"])
+    assert len(b["hansard"]) == 1 and b["hansard"][0]["link"] == "https://hansard.parliament.uk/Commons/2026-11-23/debates/D1/x#contribution-C1"
+    assert b["today"][0]["link"] == "https://whatson.parliament.uk/event/cal57223"
+    assert {c["type"] for c in b["committees"]} == {"committee_publication", "committee_event"}
+    assert not b["gaps"]
+
+
+def test_rule_checks_catch_errors():
+    from checks import run_checks
+    feed = {"writtenQuestions": [{"uin": "43125"}], "writtenStatements": []}
+    profiles = [{"name": "Adam Dance", "party": "Liberal Democrat"}]
+    ed = {"very_important": [{"title": "Outage", "who": "Adam Dance (Lab, Yeovil)", "date": "UIN 43125 and UIN 99999",
+                              "link": "https://example.com/x"}]}
+    issues = [i["issue"] for i in run_checks(ed, feed, profiles)["issues"]]
+    assert any("not an official Parliament site" in i for i in issues)
+    assert any("UIN 99999" in i for i in issues) and not any("43125" in i for i in issues)
+    assert any("Adam Dance is listed as Lab" in i for i in issues)
 
 
 def test_render_with_validation():

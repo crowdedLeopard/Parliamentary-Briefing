@@ -112,13 +112,19 @@ def write_and_validate(feed: dict, profiles: list[dict], sources: dict, today: s
             draft = _call(c, writer, BRIEF + "\n\n" + SCHEMA,
                           f"Today is {today}. Review period {feed['fromDate']} to {feed['toDate']}.\n\nEVIDENCE:\n{evidence}")
             draft["today_date"] = today
-        log.info("validator (%s): checking", validator)
-        try:
-            v = _call(c, validator, VALIDATE,
-                      f"DRAFT:\n{json.dumps(draft, ensure_ascii=False)}\n\nEVIDENCE:\n{evidence}")
-        except Exception as e:
-            log.exception("validator failed: %s", e)
-            return draft, {"verdict": "not run", "error": str(e), "checked": 0, "fixes": [], "removed": []}
+        v, last = None, ""
+        for attempt in range(3):  # the validator must run: retry before giving up
+            log.info("validator (%s): checking, attempt %d", validator, attempt + 1)
+            try:
+                v = _call(c, validator, VALIDATE,
+                          f"DRAFT:\n{json.dumps(draft, ensure_ascii=False)}\n\nEVIDENCE:\n{evidence}")
+                break
+            except Exception as e:
+                last = str(e)
+                log.warning("validator attempt %d failed: %s", attempt + 1, e)
+        if v is None:
+            return draft, {"verdict": "not run", "error": last, "checked": 0, "fixes": [], "removed": [],
+                           "writer": writer, "validator": validator}
     edited = v.pop("editorial", None) or draft
     edited["today_date"] = draft.get("today_date", today)
     v["writer"], v["validator"] = writer, validator
