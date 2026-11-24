@@ -1,0 +1,60 @@
+name: Daily parliamentary briefing
+
+on:
+  schedule:
+    # 04:07 UTC on weekdays: 04:07 in winter, 05:07 in British Summer Time.
+    - cron: "7 4 * * 1-5"
+  workflow_dispatch:
+    inputs:
+      run_date:
+        description: "Briefing date (YYYY-MM-DD, UK). Blank = today. Covers the previous working day."
+        required: false
+      render_only:
+        description: "Re-render the report from saved data (e.g. after adding editorial notes)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-briefing
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Fetch, screen, profile and render
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          RUN_DATE: ${{ inputs.run_date }}
+          RENDER_ONLY: ${{ inputs.render_only }}
+        run: |
+          ARGS=()
+          if [[ "$RUN_DATE" =~ ^[0-9]{4}-[0-9]{2}-[0-9]{2}$ ]]; then ARGS+=(--run-date "$RUN_DATE"); fi
+          if [ "$RENDER_ONLY" = "true" ]; then ARGS+=(--render-only); fi
+          python pipeline/run.py "${ARGS[@]}"
+      - name: Commit results
+        run: |
+          git config user.name "briefing-bot"
+          git config user.email "briefing-bot@users.noreply.github.com"
+          git add data reports
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          git commit -m "Briefing data and report for $(ls -t reports/*.html | grep -v latest | head -1 | xargs basename .html)"
+          git push
+      - name: Keep the report as a downloadable artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: briefing
+          path: |
+            reports/*.html
+            data/feed/*.json
+          retention-days: 30
