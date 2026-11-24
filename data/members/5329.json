@@ -1,0 +1,1530 @@
+{
+ "id": 5329,
+ "fetchedOn": "2026-11-24",
+ "core": {
+  "id": 5329,
+  "nameListAs": "Milne, John",
+  "nameDisplayAs": "John Milne",
+  "nameFullTitle": "John Milne MP",
+  "nameAddressAs": null,
+  "latestParty": {
+   "id": 17,
+   "name": "Liberal Democrat",
+   "abbreviation": "LD",
+   "backgroundColour": "fc7d0b",
+   "foregroundColour": "FFFFFF",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": false,
+   "governmentType": null,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "Horsham",
+   "membershipFromId": 4109,
+   "house": 1,
+   "membershipStartDate": "2024-07-04T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2024-07-04T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/5329/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2024-05-31T00:00:00",
+    "constituencyEnd": null,
+    "house": 1,
+    "name": "Horsham",
+    "id": 4109,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [],
+  "houseMemberships": [
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "John Milne",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [],
+  "oppositionPosts": [],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Liberal Democrat",
+    "id": 17,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 1,
+    "name": "Work and Pensions Committee",
+    "id": 164,
+    "startDate": "2024-10-28T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Public Authorities (Fraud, Error and Recovery) Bill",
+    "id": 776,
+    "startDate": "2025-02-12T00:00:00",
+    "endDate": "2025-03-18T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Pension Schemes Bill",
+    "id": 814,
+    "startDate": "2025-07-15T00:00:00",
+    "endDate": "2025-09-11T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Financial Services and Markets Bill [Lords]",
+    "id": 858,
+    "startDate": "2026-11-19T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 12,
+   "name": "1. Employment and earnings",
+   "sortOrder": 0,
+   "interests": [
+    {
+     "id": 6775,
+     "interest": "Role, work or services: West Sussex County Councillor\r\nUntil: 8 April 2025.\r\nPayer: West Sussex County Council, County Hall, Chichester, West Sussex PO19 1RG\r\n(Registered 22 July 2024; updated 15 January 2026)",
+     "createdWhen": "2026-02-09T16:33:11.5488484",
+     "lastAmendedWhen": "2026-01-20T11:05:34.9433333",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": [
+      {
+       "id": 6776,
+       "interest": "Remuneration: £1,174.80 a month \r\nUntil: 8 April 2025.\r\nHours: 15 hrs a month approximate\r\n(Registered 22 July 2024; updated 20 September 2024 and 15 January 2026)",
+       "createdWhen": "2026-02-09T16:33:55.0473134",
+       "lastAmendedWhen": "2026-01-20T11:05:34.9433333",
+       "deletedWhen": null,
+       "isCorrection": false,
+       "childInterests": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "focus": [],
+ "synopsis": "John Milne is the Liberal Democrat MP for <a href='/constituency/4109/overview'>Horsham</a>, and has been an MP continually since 4 July 2024.",
+ "history": [
+  {
+   "id": 1935481,
+   "uin": "25157",
+   "heading": "Travellers: Caravan Sites",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, whether her Department has issued guidance on whether tolerated traveller sites are to included in the calculation of a local planning authorities locally assessed need for trave",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1961081,
+   "uin": "44140",
+   "heading": "Unemployment: Statistics",
+   "questionText": "To ask the Secretary of State for Work and Pensions, whether his Department collects data on the employment outcomes of workers made redundant from technology and digital occupations, including (a) the average length of time before securing new employment",
+   "dateTabled": "2026-11-17T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1928888,
+   "uin": "19741",
+   "heading": "Reservoirs: Farms",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, whether he plans to review and reform permitted development rights for on-farm reservoirs.",
+   "dateTabled": "2026-07-16T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1958469,
+   "uin": "41997",
+   "heading": "Parking: Payment Methods",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what assessment she has made of the adequacy of payment options provided by private parking operators and port authorities; and whether she will consider introducing regulations ",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1957819,
+   "uin": "41437",
+   "heading": "Arts: Tax Allowances",
+   "questionText": "To ask the Chancellor of the Exchequer, whether he has made an assessment of the potential merits of the recommendation made by the 2025 Hodge Review to offer tax relief on corporate donations to arts organisations outside London.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1957797,
+   "uin": "41415",
+   "heading": "Charitable Donations: Tax Allowances",
+   "questionText": "To ask the Chancellor of the Exchequer, whether he has assessed the potential merits of piloting targeted tax incentives for corporate charitable donations, similar to the Aillagon Law in France.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1955309,
+   "uin": "39738",
+   "heading": "Private Rented Housing: Databases",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, how many meetings officials in her Department have held with landlord representative groups regarding the operation and rollout of the Private Rented Sector Database since May 20",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1955308,
+   "uin": "39737",
+   "heading": "Private Rented Housing: Databases",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what categories of information submitted to the Private Rented Sector Database will be publicly accessible and what categories will be restricted to enforcement authorities.",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1955307,
+   "uin": "39736",
+   "heading": "Private Rented Housing: Databases",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what impact assessment her department has done on the effect of the £65 annual registration fee for the Private Rented Sector Database on the supply of privately rented homes and",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1959628,
+   "uin": "42948",
+   "heading": "Health Services: Standards",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what criteria the National Quality Board will use to determine priorities for the next wave of Modern Service Frameworks, and the expected timetable for announcing (a) the criteria and (b) the next",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1956653,
+   "uin": "40766",
+   "heading": "Youth Guarantee",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many Youth Jobs Grants have been awarded since the scheme opened.",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1955395,
+   "uin": "39824",
+   "heading": "Immigration: Applications",
+   "questionText": "To ask the Secretary of State for the Home Department, what steps her Department is taking to ensure timely decisions on fee waiver applications for individuals seeking to extend their leave to remain; and what support is available to applicants whose exi",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1946507,
+   "uin": "32734",
+   "heading": "Special Educational Needs",
+   "questionText": "To ask the Secretary of State for Education, pursuant to the Answer of 7 September 2026 to Question 19297, whether her Department has (a) contacted ITV News to obtain the evidence behind the whistleblower allegations broadcast on 3 July 2026 and (b) taken",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1952747,
+   "uin": "37675",
+   "heading": "Electric Vehicles: Charging Points",
+   "questionText": "To ask the Secretary of State for Transport, what assessment her Department has made of the potential impact of proposed changes to the Zero Emission Vehicle mandate on public charging costs for electric vehicle users without access to off-street parking.",
+   "dateTabled": "2026-10-23T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1953174,
+   "uin": "37962",
+   "heading": "Students: Loans",
+   "questionText": "To ask the Secretary of State for Education, what estimate her Department has made of the proportion of student loan borrowers who (a) have and (b) will have paid back more than their original student loan in England.",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1953262,
+   "uin": "38050",
+   "heading": "Students: Loans",
+   "questionText": "To ask the Secretary of State for Education, what proportion of Plan 1 student loan borrowers in England are projected to repay, in cash terms, more than the principal amount originally borrowed.",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1953261,
+   "uin": "38049",
+   "heading": "Students: Loans",
+   "questionText": "To ask the Secretary of State for Education, what proportion of Plan 2 student loan borrowers in England are projected to repay, in cash terms, more than the principal amount originally borrowed.",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1949700,
+   "uin": "35345",
+   "heading": "Farms: Reservoirs",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, when she plans to inform hon. Members on plans to reform permitted development rights for on-farm reservoirs.",
+   "dateTabled": "2026-10-15T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1950758,
+   "uin": "36229",
+   "heading": "Broadband: Multiple Occupation",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what assessment has been made of the impact on residents of existing multi-dwelling developments where telecommunications operators have determined that full fibre deployment is not comm",
+   "dateTabled": "2026-10-19T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1946578,
+   "uin": "32737",
+   "heading": "Community Infrastructure Levy: Agriculture",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, whether she plans to review the application of Community Infrastructure Levy to agricultural buildings.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1944566,
+   "uin": "30719",
+   "heading": "Community Infrastructure Levy: Agriculture",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what assessment she has made of trends in the level of variation between local planning authorities in the charging of Community Infrastructure Levy on agricultural buildings.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1949757,
+   "uin": "35402",
+   "heading": "ME/CFS: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps her Department is taking to support NHS hospitals to provide safe and appropriate care for people with severe and very severe myalgic encephalomyelitis while the development of specialis",
+   "dateTabled": "2026-10-15T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1949756,
+   "uin": "35401",
+   "heading": "ME/CFS: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, when a decision will be made on whether to commission a specialised service for people with very severe myalgic encephalomyelitis as laid out in the ME/CFS Delivery Plan.",
+   "dateTabled": "2026-10-15T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1950033,
+   "uin": "35622",
+   "heading": "ME/CFS: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, when the national template service specification for mild, moderate and severe ME/CFS will be published and what steps will be taken to support its implementation by integrated care boards.",
+   "dateTabled": "2026-10-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1950032,
+   "uin": "35621",
+   "heading": "ME/CFS: Training",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps she is taking to ensure ME/CFS training for healthcare professionals remains available once NHS England is abolished.",
+   "dateTabled": "2026-10-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1949087,
+   "uin": "34874",
+   "heading": "Respiratory Diseases: Horsham",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what estimate her Department has made of the (a) prevalence of respiratory disease and (b) number of emergency hospital admissions for respiratory conditions in Horsham.",
+   "dateTabled": "2026-10-14T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1950045,
+   "uin": "35634",
+   "heading": "Energy Intensive Industries Exemption Scheme",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what recent discussions she has had with Cabinet colleagues on including food production in the Energy Intensive Industries Exemption Scheme.",
+   "dateTabled": "2026-10-16T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1947437,
+   "uin": "33563",
+   "heading": "Department for Digital, Culture, Media and Sport: Correspondence",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, how many items of correspondence from hon. Members received by the Department since 1 April 2026 have not yet received a substantive reply; what the average response time has been for su",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1947448,
+   "uin": "33566",
+   "heading": "Experts at Hand: Cerebral Palsy\r\n",
+   "questionText": "To ask the Secretary of State for Education, how her Department will evaluate whether Experts at Hand is enabling mainstream settings to access the appropriate level of specialist expertise for the needs of individual children, including those with cerebr",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1947447,
+   "uin": "33565",
+   "heading": "Experts at Hand: Cerebral Palsy\r\n",
+   "questionText": "To ask the Secretary of State for Education, how Experts at Hand will support mainstream settings to access appropriate expertise in cerebral palsy, relating to physical needs, communication, movement and the interaction between health and education.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1947446,
+   "uin": "33564",
+   "heading": "Experts at Hand: Staff\r\n",
+   "questionText": "To ask the Secretary of State for Education, if her Department will establish a threshold of expertise for practitioners providing specialist advice through the Experts at Hand programme, including the role of qualifications, specialist training, professi",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1945588,
+   "uin": "31544",
+   "heading": "Special Educational Needs: Cerebral Palsy",
+   "questionText": "To ask the Secretary of State for Education, whether her Department plans to map existing specialist expertise in cerebral palsy across education, health and the voluntary sector to help local partnerships identify and access expertise through the Experts",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1944584,
+   "uin": "30720",
+   "heading": "Experts at Hand: Cerebral Palsy",
+   "questionText": "To ask the Secretary of State for Education, how the Experts at Hand programme will ensure that the threshold of expertise reflects the individual needs of the child, including children with cerebral palsy who require condition-specific knowledge.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1942634,
+   "uin": "29784",
+   "heading": "Disabled Students' Allowances",
+   "questionText": "To ask the Secretary of State for Education, what assessment has been made of the potential impact of the proposed Disabled Students' Allowance changes on the disability employment commitments in the Get Britain Working White Paper.",
+   "dateTabled": "2026-09-14T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1942633,
+   "uin": "29783",
+   "heading": "Disabled Students' Allowances",
+   "questionText": "To ask the Secretary of State for Education, whether her Department has carried out a cost-benefit analysis of the proposals to restricting funded specialist assistive software through the Disabled Students' Allowance.",
+   "dateTabled": "2026-09-14T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1942632,
+   "uin": "29782",
+   "heading": "Disabled Students' Allowances",
+   "questionText": "To ask the Secretary of State for Education, what assessment her Department has made of the potential impact of restricting funded specialist assistive software through the Disabled Students' Allowance on the course completion and graduate employment rate",
+   "dateTabled": "2026-09-14T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1942631,
+   "uin": "29781",
+   "heading": "Disabled Students' Allowances",
+   "questionText": "To ask the Secretary of State for Education, for what reason and on what evidential basis is the Department proposing to restrict funded specialist assistive software through the Disabled Students' Allowance to exceptional circumstances only.",
+   "dateTabled": "2026-09-14T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1947188,
+   "uin": "33163",
+   "heading": "Experts at Hand",
+   "questionText": "To ask the Secretary of State for Education, how local Experts at Hand partnerships will be supported to draw on specialist expertise beyond their immediate local workforce where this would help meet the needs of an individual child.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1945587,
+   "uin": "31543",
+   "heading": "Experts at Hand",
+   "questionText": "To ask the Secretary of State for Education, what role specialist schools, specialist health services and established centres of expertise will play to support the development and delivery of the Experts at Hand programme.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1946508,
+   "uin": "32735",
+   "heading": "Special Educational Needs",
+   "questionText": "To ask the Secretary of State for Education, pursuant to the Answer of 8 September 2026 to Question 22145, how many times in each of the last five years her Department has used its statutory powers to intervene directly in local authority SEND services; a",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1946515,
+   "uin": "32736",
+   "heading": "Govia Thameslink Railway: Concessions",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 29 April 2026 to Question 129290, what information her Department holds on the outcome of the consultation with staff regarding the ending of reciprocal travel arrangements between Gov",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1949145,
+   "uin": "34932",
+   "heading": "Carer's Allowance: Overpayments",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what assessment he has made of the adequacy of communication provided individuals affected by the Carer’s Allowance overpayment reassessment exercise while their cases remain pending.",
+   "dateTabled": "2026-10-14T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1946588,
+   "uin": "32738",
+   "heading": "Experts at Hand: Local Government",
+   "questionText": "To ask the Secretary of State for Education, whether local authorities will be required to inform schools and families on the range and level of specialist expertise available through their Experts at Hand offer.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1945578,
+   "uin": "31542",
+   "heading": "Personal Independence Payment Assessment Review",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what the planned publication date is of the final report of the Timms Review of Personal Independence Payment and whether this has been impacted by the timing of the Milburn Review.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1943473,
+   "uin": "30275",
+   "heading": "Civil Aviation Authority",
+   "questionText": "To ask the Secretary of State for Transport, what estimate her Department has made of the cost of establishing an ombudsman with jurisdiction over regulatory decisions of the Civil Aviation Authority.",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1943472,
+   "uin": "30274",
+   "heading": "Aviation: Navigation",
+   "questionText": "To ask the Secretary of State for Transport, what representations her Department received on the altitude threshold in the Air Navigation Guidance 2026 from (a) airport operators, (b) airlines and (c) local authorities and community organisations.",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1943470,
+   "uin": "30272",
+   "heading": "Aircraft: Noise",
+   "questionText": "To ask the Secretary of State for Transport, whether her Department assessed the potential health impacts of aircraft noise between 5,000 and 7,000 feet before lowering the noise altitude threshold from 7k to 5k in the Air Navigation Guidance 2026.",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1943467,
+   "uin": "30270",
+   "heading": "Aviation: Navigation",
+   "questionText": "To ask the Secretary of State for Transport, whether an impact assessment was undertaken prior to changes in the Air Navigation Guidance 2026.",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1948792,
+   "uin": "901406",
+   "heading": "Crime: Rural Areas",
+   "questionText": "To ask the Attorney General, what steps she is taking to help ensure the effective prosecution of rural crime.",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Attorney General's Office"
+  },
+  {
+   "id": 1947007,
+   "uin": "33162",
+   "heading": "Agriculture and Business: Inheritance Tax",
+   "questionText": "To ask the Chancellor of the Exchequer, what evidence his Department has collected on the potential impact of the 2026 reforms to Agricultural Property Relief and Business Property Relief on investment and employment decisions by family-owned farming and ",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1946019,
+   "uin": "32319",
+   "heading": "Agriculture and Business: Inheritance Tax",
+   "questionText": "To ask the Chancellor of the Exchequer, what quantitative assessment his Department has made of the potential impact of the 2026 reforms to Agricultural Property Relief and Business Property Relief on business investment, employment, and business growth; ",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1945541,
+   "uin": "31541",
+   "heading": "Private Education: VAT",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the Answer of 16 March 2026 to Question 118609 on Private Education: VAT, whether he plans to publish at the Autumn Budget the outturn VAT receipts from private school fees for (a) 2024-25 and (b) 2025-2",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1940510,
+   "uin": "29063",
+   "heading": "Israel: Arms Trade",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, whether the proposed \"double lock\" on arms sales to Israel will cover incorporation licenses.",
+   "dateTabled": "2026-09-10T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1938905,
+   "uin": "27815",
+   "heading": "Local Government",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, whether she plans to amend the standards and conduct framework for local authorities in England during the course of this Parliament.",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1935616,
+   "uin": "25159",
+   "heading": "Taxation: Electronic Government",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment he has made of the readiness of HMRC-recognised bridging software and agent software for Making Tax Digital for Income Tax ahead of the April 2026 mandation date for taxpayers with qualifying income ",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1935476,
+   "uin": "25156",
+   "heading": "Probate Service: Telephone Services",
+   "questionText": "To ask the Secretary of State for Justice, a) when did the department last make a review of staffing adequacy with regard to the Probate Service telephone service and b) when is the next review due.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1935475,
+   "uin": "25155",
+   "heading": "Probate Service: Telephone Services",
+   "questionText": "To ask the Secretary of State for Justice, what steps he is taking to improve efficiencies in the probate system specifically pertaining to phone waiting times.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1935617,
+   "uin": "25160",
+   "heading": "Taxation: Electronic Government",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment he has made of the suitability of Making Tax Digital's income and expense categories for taxpayers with multiple rural income sources, including farming, forestry, and residential and business lets w",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1935482,
+   "uin": "25158",
+   "heading": "National Grid: Data Centres",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, whether her Department made an impact assessment of the prioritisation of AI data centres in the grid connection process.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1935669,
+   "uin": "25161",
+   "heading": "Taxation: Advisory Services",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment his Department has made of the cumulative impact on small and medium-sized accountancy and tax advisory practices of (a) the mandatory Tax Adviser Registration scheme, (b) the lowered threshold from ",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1928891,
+   "uin": "19742",
+   "heading": "Agriculture: Technology",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what actions, programmes and investment vehicles will be used to support agri-tech as a frontier industry under the Industrial Strategy.",
+   "dateTabled": "2026-07-16T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1928886,
+   "uin": "19740",
+   "heading": "Agriculture: Reservoirs",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, pursuant to the answer of 29 April 2026 to Question HL16697 on Agriculture: Reservoirs, what assessment she has made of whether the current rate of large raised reservoir construction ",
+   "dateTabled": "2026-07-16T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1928884,
+   "uin": "19739",
+   "heading": "Agriculture: Water",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps she is taking to support farmers to improve water resilience through on-farm reservoirs.",
+   "dateTabled": "2026-07-16T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1936481,
+   "uin": "901107",
+   "heading": "Israeli Settlements: Overseas Trade",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what assessment his Department has made of the potential merits of banning trade with illegal settlements in the West Bank and East Jerusalem.",
+   "dateTabled": "2026-08-25T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1928318,
+   "uin": "19280",
+   "heading": "Metropolitan Police",
+   "questionText": "To ask the Secretary of State for the Home Department, whether her Department has made an assessment of the potential impact of the Metropolitan Police's new frontline policing rotation policy on trends in the levels of early retirement among police offic",
+   "dateTabled": "2026-07-15T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1928315,
+   "uin": "19279",
+   "heading": "Metropolitan Police",
+   "questionText": "To ask the Secretary of State for the Home Department, what steps her Department took to consult experienced police personnel in the development of the Metropolitan Police's new frontline policing rotation policy.",
+   "dateTabled": "2026-07-15T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1927928,
+   "uin": "18934",
+   "heading": "Access to Work Programme: Finance",
+   "questionText": "To ask the Chancellor of the Exchequer, whether she has made an assessment of the potential merits of classifying Access to Work expenditure as Annually Managed Expenditure to help ensure the scheme can respond to demand from new and sustained employment ",
+   "dateTabled": "2026-07-14T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1927837,
+   "uin": "18931",
+   "heading": "Agriculture: Technology",
+   "questionText": "To ask the Secretary of State for Business and Trade, whether his Department has designated a team responsible for agri-tech as a frontier industry under the Industrial Strategy.",
+   "dateTabled": "2026-07-14T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1927836,
+   "uin": "18930",
+   "heading": "Agriculture: Technology",
+   "questionText": "To ask the Secretary of State for Business and Trade, how much public funding has been allocated through the Industrial Strategy to support agri-tech as a frontier industry; and how this compares with the funding allocated to each other frontier industry ",
+   "dateTabled": "2026-07-14T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1927905,
+   "uin": "18932",
+   "heading": "Unemployment: Young Carers",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the potential implications for his policies of recent findings by UCL, City St George’s and Carers Trust that young adult carers are more than twice as likely as non-",
+   "dateTabled": "2026-07-14T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1927906,
+   "uin": "18933",
+   "heading": "Young Carers: Education and Employment",
+   "questionText": "To ask the Secretary of State for Education, whether the Government plans to add young carers to the data which local authorities must provide in relation to 'Participation in education, training and NEET' for 16 and 17 year olds.",
+   "dateTabled": "2026-07-14T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1927401,
+   "uin": "18467",
+   "heading": "National Institute for Health and Care Research: Clinical Trials",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many people were recruited into National Institute for Health and Care Research supported (i) phase 1, (ii) phase 2, and (iii) phase 3 trials for (a) dementia, (b) cancer, (c) stroke and (d) co",
+   "dateTabled": "2026-07-13T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1924504,
+   "uin": "16329",
+   "heading": "Planning: Flood Control",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what recent discussions he has had with the Secretary of State for Environment, Food and Rural Affairs on strengthening planning policy to help ensure that new developments do no",
+   "dateTabled": "2026-07-06T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1924501,
+   "uin": "16326",
+   "heading": "Sewers: Housing",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment her Department has made of the potential impact of not commencing Schedule 3 to the Flood and Water Management Act 2010 on surface water flood risk from new housing dev",
+   "dateTabled": "2026-07-06T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1924503,
+   "uin": "16328",
+   "heading": "Housing: Floods",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, whether he plans to update building regulations to require property flood resilience measures in new homes built in areas at risk of flooding.",
+   "dateTabled": "2026-07-06T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1924642,
+   "uin": "16332",
+   "heading": "Pancreatic Cancer",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how his department will work with the NIHR National Speciality Lead for research into rare cancers to develop a national strategy focused on unlocking greater investment in pancreatic cancer resear",
+   "dateTabled": "2026-07-06T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1924640,
+   "uin": "16331",
+   "heading": "Pancreatic Cancer",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps his department is taking to ensure a.) patients with pancreatic cancer can easily access information about relevant clinical trials and b.) they are automatically linked onto clinical tr",
+   "dateTabled": "2026-07-06T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1924502,
+   "uin": "16327",
+   "heading": "Flood Re: Home Insurance",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps her Department is taking to help improve consumer awareness of whether a property is insured through Flood Re.",
+   "dateTabled": "2026-07-06T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1924500,
+   "uin": "16325",
+   "heading": "Flood Re",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment her Department has made of the potential impact of uncertainty over the future of Flood Re on mortgage availability for properties at high risk of flooding.",
+   "dateTabled": "2026-07-06T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1924043,
+   "uin": "15875",
+   "heading": "Secondary Education: Construction",
+   "questionText": "To ask the Secretary of State for Education, what assessment her Department has made of the potential impact of section 68 of the Children's Wellbeing and Schools Act 2026 on the funding routes available for new secondary school provision required to serv",
+   "dateTabled": "2026-07-03T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1924507,
+   "uin": "16330",
+   "heading": "Community Infrastructure Levy",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what assessment his Department has made of the adequacy of legal mechanisms available to local authorities to repay Community Infrastructure Levy charges in cases of genuine home",
+   "dateTabled": "2026-07-06T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1924042,
+   "uin": "15874",
+   "heading": "Housing: Schools",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what discussions he has had with the Secretary of State for Education on ensuring that the timings of funding for secondary school provision for the development of strategic site",
+   "dateTabled": "2026-07-03T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1922408,
+   "uin": "14646",
+   "heading": "Schools: Temperature",
+   "questionText": "To ask the Secretary of State for Education, whether she has made an assessment of the potential merits of introducing a specific legal working temperature for schools.",
+   "dateTabled": "2026-06-30T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1921831,
+   "uin": "14146",
+   "heading": "Hospices: Children",
+   "questionText": "To ask the Secretary of State for Health and Social Care, if he will issue national guidance to reduce variation in children’s hospice funding between ICBs.",
+   "dateTabled": "2026-06-29T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1920012,
+   "uin": "13019",
+   "heading": "Armed Forces: Children",
+   "questionText": "To ask the Secretary of State for Defence, what steps he is taking with the Secretary of State for Education to ensure the Armed Forces Covenant is applied in the provision of education to SEND pupils who are children of service men and women.",
+   "dateTabled": "2026-06-24T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1915754,
+   "uin": "9494",
+   "heading": "Child Maintenance Service: Standards",
+   "questionText": "To ask the Secretary of State for Work and Pensions, pursuant to the answer of 1 June 2026 to question 3164, if he will publish (a) those performance indicators and (b) corresponding performance data.",
+   "dateTabled": "2026-06-12T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1917520,
+   "uin": "10989",
+   "heading": "Local Government",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, whether he plans to hold a consultation on the new neighbourhood governance framework.",
+   "dateTabled": "2026-06-17T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1915755,
+   "uin": "9495",
+   "heading": "Child Maintenance Service: Standards",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what proportion of CMS responses are in compliance with the CMS' 15 days response timeframe.",
+   "dateTabled": "2026-06-12T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1914983,
+   "uin": "8969",
+   "heading": "English Devolution and Community Empowerment Act 2026",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what his proposed timetable is for publishing a new neighbourhood governance framework following the passage of the English Devolution and Community Empowerment Act 2026.",
+   "dateTabled": "2026-06-10T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1912577,
+   "uin": "7055",
+   "heading": "Water Supply",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment his Department has made of the potential impact on small and medium-sized developers of the withdrawal of water neutrality requirements and associated credit schemes; a",
+   "dateTabled": "2026-06-04T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1910637,
+   "uin": "5566",
+   "heading": "Private Rented Housing: Individual Voluntary Arrangements",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what support his Department plans to provide to people who are unable to secure private rented tenancy because they have an active County Court Judgment or are subject to an Indi",
+   "dateTabled": "2026-06-01T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1910592,
+   "uin": "5521",
+   "heading": "Neurology",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what accountability mechanisms are in place to ensure that Integrated Care Boards meet national service specifications for neurological conditions; and what steps he is taking where ICBs do not mee",
+   "dateTabled": "2026-06-01T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1910595,
+   "uin": "5524",
+   "heading": "Batteries: Storage",
+   "questionText": "To ask the Secretary of State for Defence, pursuant to the answer of 20 May 2026 to WQ 935, whether his Department is working on standards and guidance for the construction and management of battery storage energy sites alongside the Department for Energy",
+   "dateTabled": "2026-06-01T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1907686,
+   "uin": "3164",
+   "heading": "Child Maintenance Service",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what the Child Maintenance Service's service level agreement is for contacting clients; and how compliance with that agreement is measured.",
+   "dateTabled": "2026-05-19T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1907687,
+   "uin": "3165",
+   "heading": "Child Maintenance Service",
+   "questionText": "To ask the Secretary of State for Work and Pensions, whether the Child Maintenance Service sends template letters to clients stating that a call was attempted in cases where no call was made.",
+   "dateTabled": "2026-05-19T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1905640,
+   "uin": "1403",
+   "heading": "Arms Trade: Israel",
+   "questionText": "To ask the Secretary of State for Business and Trade, with reference to the Answer of 9 March 2026 to Question 117035 on Arms Trade: Israel, how many of the five licences referenced are for IDF training; and what equipment is covered by those licences.",
+   "dateTabled": "2026-05-14T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1905638,
+   "uin": "1402",
+   "heading": "Watchkeeper WK450: Components",
+   "questionText": "To ask the Secretary of State for Business and Trade, if his Department will conduct an investigation into whether Watchkeeper drone components are being exported from the UK to Israel to support drone exports to Romania.",
+   "dateTabled": "2026-05-14T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1904774,
+   "uin": "696",
+   "heading": "Personal Independence Payment",
+   "questionText": "To ask the Secretary of State for Work and Pensions, (a) how many people have been assessed at a PIP assessment as having a progressive and life-limiting condition who do not qualify for Special Rules, (b) are in receipt of a fixed-term award, and (c) wha",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1905013,
+   "uin": "935",
+   "heading": "Batteries: Storage",
+   "questionText": "To ask the Secretary of State for Defence, if he will publish guidance used by his Department for the a) construction and b) management of battery energy storages sites.",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1905637,
+   "uin": "1401",
+   "heading": "Personal Independence Payment",
+   "questionText": "To ask the Secretary of State for Work and Pensions, whether as part of the Timms Review his Department intends to make reductions in total PIP expenditure.",
+   "dateTabled": "2026-05-14T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1905641,
+   "uin": "1404",
+   "heading": "Food: Academies",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether academies and free schools will be classed as public settings for the purpose of the Government's ambition that half of all food served in public settings is either locally sou",
+   "dateTabled": "2026-05-14T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1904775,
+   "uin": "697",
+   "heading": "Universal Credit",
+   "questionText": "To ask the Secretary of State for Work and Pensions, if his Department will publish figures for how many people are in receipt of a Universal Credit health award and classified as Severe Conditions Criteria.",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1903148,
+   "uin": "129790",
+   "heading": "Arms Trade: Israel",
+   "questionText": "To ask the Secretary of State for Business and Trade, pursuant to question UIN 117033, how many of the 5 ML3 licences referenced are for non-military purposes.",
+   "dateTabled": "2026-04-24T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1889428,
+   "uin": "119759",
+   "heading": "Members: Correspondence",
+   "questionText": "To ask the Secretary of State for Work and Pensions, when his Department plans to respond to the letter from the Hon. Member Horsham sent to the Minister for Pensions on 23 November 2025.",
+   "dateTabled": "2026-03-10T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1889410,
+   "uin": "119758",
+   "heading": "Members: Correspondence",
+   "questionText": "To ask the Secretary of State for Justice, when he plans to reply to the correspondence from the hon. Member for Horsham of 6 January 2026.",
+   "dateTabled": "2026-03-10T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1886847,
+   "uin": "117587",
+   "heading": "Breast Cancer: Screening",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment his Department has made of the potential merits of providing breast cancer screening for women under 40 with Neurofibromatosis type 1.",
+   "dateTabled": "2026-03-03T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1887631,
+   "uin": "118088",
+   "heading": "Employment Schemes: Pilot Schemes",
+   "questionText": "To ask the Secretary of State for Work and Pensions, when the Department plans to publish the findings from its employment support pilot schemes; and what assessment has been made of their potential impact on employment outcomes.",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1886797,
+   "uin": "117586",
+   "heading": "Employment Schemes: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Work and Pensions, whether the Delivery Model Assessment undertaken by his Department for the new Jobs and Careers Service included an assessment of existing AI-powered technologies available in the private sector.",
+   "dateTabled": "2026-03-03T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1887626,
+   "uin": "118087",
+   "heading": "Employment Schemes: Pilot Schemes",
+   "questionText": "To ask the Secretary of State for Work and Pensions, progress his department has made on testing personalised employment support in the Wakefield Pathfinder pilots; and whether an assessment has been made of the potential impact on user experience.",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1886795,
+   "uin": "117584",
+   "heading": "Employment Schemes",
+   "questionText": "To ask the Secretary of State for Work and Pensions, whether the in-house replacement for the Department’s Find a Job digital service will (a) offer additional functions to the current service, (b) if those additional functions will be available on launch",
+   "dateTabled": "2026-03-03T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1886796,
+   "uin": "117585",
+   "heading": "Employment Schemes",
+   "questionText": "To ask the Secretary of State for Work and Pensions, with reference to the in-house digital replacement for the DWP's Find a Job service, whether an assessment has been carried out of its potential impact on (a) jobseeker outcomes and (b) employers abilit",
+   "dateTabled": "2026-03-03T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1885891,
+   "uin": "116664",
+   "heading": "Retail Trade: Rural Areas",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what assessment he has made of the potential impact of local infrastructure planning on the sustainability of retail businesses in rural areas.",
+   "dateTabled": "2026-02-27T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1885892,
+   "uin": "116665",
+   "heading": "Local Government: Reorganisation",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what steps he is taking to ensure that Local Government Reorganisation take account of the needs of rural businesses.",
+   "dateTabled": "2026-02-27T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1885897,
+   "uin": "116669",
+   "heading": "Retail Trade: Crime",
+   "questionText": "To ask the Secretary of State for the Home Department, what steps she is taking to help improve police responses to retail crime in rural areas.",
+   "dateTabled": "2026-02-27T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1885895,
+   "uin": "116668",
+   "heading": "Retail Trade: Crime",
+   "questionText": "To ask the Secretary of State for the Home Department, what assessment she has made of the effectiveness of existing mechanisms for reporting retail crime by businesses in rural areas.",
+   "dateTabled": "2026-02-27T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1885898,
+   "uin": "116670",
+   "heading": "Electricity: Rural Areas",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what assessment he has made of the resilience of electricity networks serving rural businesses.",
+   "dateTabled": "2026-02-27T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1886073,
+   "uin": "117032",
+   "heading": "Arms Trade: Israel",
+   "questionText": "To ask the Secretary of State for Business and Trade, if his Department will list ML3 arms export licences to Israel licensing the transfer of bullets extant for August 2025.",
+   "dateTabled": "2026-03-02T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1886729,
+   "uin": "117583",
+   "heading": "Watchkeeper WK450",
+   "questionText": "To ask the Secretary of State for Defence, whether any UK military facilities have been used for the testing and training of the Watchkeeper X drone.",
+   "dateTabled": "2026-03-03T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1886728,
+   "uin": "117582",
+   "heading": "Standard Individual Export Licences: Israel",
+   "questionText": "To ask the Secretary of State for Business and Trade, how many times the incorporation SIEL, issued on 26 November 2024, for export to Israel by Thales UK has been used; on which dates; and whether that licence has been exhausted.",
+   "dateTabled": "2026-03-03T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1886075,
+   "uin": "117034",
+   "heading": "Arms Trade: Israel",
+   "questionText": "To ask the Secretary of State for Business and Trade, how many of the non-suspended extant military licences to Israel as at 31 July 2025 identified as (a) being for and (b) supporting re-export to third parties outside of Israel are incorporation SIELs.",
+   "dateTabled": "2026-03-02T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1886076,
+   "uin": "117035",
+   "heading": "Arms Trade: Israel",
+   "questionText": "To ask the Secretary of State for Business and Trade, how many export licences covering military training equipment to Israel were extant between 1 January 2025 and 31 September 2025.",
+   "dateTabled": "2026-03-02T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1886077,
+   "uin": "117036",
+   "heading": "Arms Trade: Israel",
+   "questionText": "To ask the Secretary of State for Business and Trade, whether he has assessed the risk of diversion for ammunition for civilian use licensed from the UK to Israel, including to settlers in the West Bank.",
+   "dateTabled": "2026-03-02T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1885899,
+   "uin": "116671",
+   "heading": "Broadband and Mobile Phones: Rural Areas",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what steps his Department is taking to improve the reliability of broadband and mobile connectivity for businesses in rural areas.",
+   "dateTabled": "2026-02-27T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1885865,
+   "uin": "116660",
+   "heading": "Water Supply: Housing",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps her Department is taking to mitigate water demand from new housing developments in water-stressed regions.",
+   "dateTabled": "2026-02-27T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1885864,
+   "uin": "116659",
+   "heading": "Water: Conservation",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps her Department is taking to promote water literacy training.",
+   "dateTabled": "2026-02-27T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1885894,
+   "uin": "116667",
+   "heading": "Deposit Return Schemes: Rural Areas",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment he has made of the potential impact of the Deposit Return Scheme on small retailers in rural areas.",
+   "dateTabled": "2026-02-27T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1885893,
+   "uin": "116666",
+   "heading": "Deposit Return Schemes: Rural Areas",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps he is taking to ensure that exemption arrangements under the Deposit Return Scheme are accessible to rural retailers.",
+   "dateTabled": "2026-02-27T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1886074,
+   "uin": "117033",
+   "heading": "Arms Trade: Israel",
+   "questionText": "To ask the Secretary of State for Business and Trade, if his Department will list ML3 arms export licences to Israel licensing the transfer of ammunition for civilian use extant between 1 January 2025 and 31 September 2025.",
+   "dateTabled": "2026-03-02T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1884945,
+   "uin": "115916",
+   "heading": "Marine Protected Areas: Bottom Trawling",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether her Department plans to introduce measures to manage bottom trawl fishing in the 41 English marine protected areas consulted on in 2025; and if she will set out a timeframe for",
+   "dateTabled": "2026-02-25T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1879897,
+   "uin": "112027",
+   "heading": "Business Rates: Appeals",
+   "questionText": "To ask the Chancellor of the Exchequer, whether her Department has made an assessment of the potential merits of allowing businesses to continue paying rates based on the previous year's valuation where a newly determined business rates valuation is under",
+   "dateTabled": "2026-02-09T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1877500,
+   "uin": "110281",
+   "heading": "Local Government Finance",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, pursuant to the answer of 20 January 2026 to UIN 105608, if he will publish the evidence on the application of the Remoteness Adjustment in the Fair Funding Review.",
+   "dateTabled": "2026-02-02T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1876345,
+   "uin": "109453",
+   "heading": "Social Security Benefits",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many and what proportion of families subject to the household benefit cap are blended families.",
+   "dateTabled": "2026-01-28T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1873353,
+   "uin": "107298",
+   "heading": "Firearms: Licensing",
+   "questionText": "To ask the Secretary of State for the Home Department, pursuant to the Answer of 15 January 2026 to Question 104116 on Firearms Licensing, whether the government will set out a timeline for publication of the consultation on firearms licensing; and whethe",
+   "dateTabled": "2026-01-20T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1873287,
+   "uin": "107296",
+   "heading": "Exports: Ammunition",
+   "questionText": "To ask the Secretary of State for Business and Trade, pursuant to the Answer of 13 January 2026 to Question 103110 on Exports: Ammunition, on what evidential basis the Minister stated that the Government does not licence the export of any bombs or ammunit",
+   "dateTabled": "2026-01-20T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1873310,
+   "uin": "107297",
+   "heading": "Ammunition: Israel",
+   "questionText": "To ask the Chancellor of the Exchequer, whether HMRC holds customs export data identifying exports of live munitions, including bullets or cartridges, from the United Kingdom to Israel; and whether such data distinguishes live munitions from training, spo",
+   "dateTabled": "2026-01-20T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1870986,
+   "uin": "105553",
+   "heading": "Slaughterhouses: Closures",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she has made of potential economic impact of the closure of small and medium-sized abattoirs on (a) farmers, (b) abattoir owners, (c) food producers and (d) consumers i",
+   "dateTabled": "2026-01-13T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1870227,
+   "uin": "104950",
+   "heading": "Neighbourhood Area Committees",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, if he will publish guidance for local authorities on the composition of Neighbourhood Area Committees.",
+   "dateTabled": "2026-01-12T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1871525,
+   "uin": "105978",
+   "heading": "Second Homes: Council Tax",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, whether his department holds data outlining the Local Government Finance Settlement allocations for individual councils discounting second home premium council tax projections.",
+   "dateTabled": "2026-01-14T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1871291,
+   "uin": "105884",
+   "heading": "Second Homes: Council Tax",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, if he will take steps to publish a revised local government finance settlement that excludes consideration of income received through second home council tax premiums.",
+   "dateTabled": "2026-01-14T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1871100,
+   "uin": "105608",
+   "heading": "Local Government Finance",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what data, analysis, and modelling did the Department use to determine the removal of the remoteness factor from the Area Cost Adjustment, and if the Government will publish or s",
+   "dateTabled": "2026-01-13T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1870482,
+   "uin": "105070",
+   "heading": "Employment Schemes: Multiple Sclerosis",
+   "questionText": "To ask the Secretary of State for Work and Pensions, pursuant to question 98653, whether the Department will release the number of people with multiple sclerosis who are in the Work Related Activity Group.",
+   "dateTabled": "2026-01-12T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1868054,
+   "uin": "103111",
+   "heading": "Children: Protection",
+   "questionText": "To ask the Secretary of State for Education, whether her Department has made an assessment of the potential merits of introducing independent Local Authority Designated Officers.",
+   "dateTabled": "2026-01-05T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1867872,
+   "uin": "103110",
+   "heading": "Exports: Ammunition",
+   "questionText": "To ask the Secretary of State for Business and Trade, whether his Department holds UK customs export data identifying shipments of live munitions, including bullets, exported from the United Kingdom to Israel in August 2025; and whether he plans to publis",
+   "dateTabled": "2026-01-05T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1867199,
+   "uin": "102318",
+   "heading": "High Streets Illegality Taskforce",
+   "questionText": "To ask the Secretary of State for the Home Department, what assessment she has made of the effectiveness of the High Streets Illegality Taskforce; and how she measures that effectiveness.",
+   "dateTabled": "2026-01-02T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1865328,
+   "uin": "101133",
+   "heading": "Beer and Public Houses: Business Rates",
+   "questionText": "To ask the Chancellor of the Exchequer, what recent discussions she has had with the Valuation Office Agency on the application of business rates to pubs and breweries.",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1865377,
+   "uin": "101167",
+   "heading": "Visas: Seasonal Workers",
+   "questionText": "To ask the Secretary of State for the Home Department, what process will her Department follow in order to set the visa allocations under the Seasonal Worker Scheme beyond 2026; and what factors will be considered when tapering the allocation.",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1862289,
+   "uin": "98653",
+   "heading": "Employment and Support Allowance: Multiple Sclerosis",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many people with multiple sclerosis on contributory Employment and Support Allowance are in the (i) Support Group and (ii) Work-Related Activity Group.",
+   "dateTabled": "2025-12-09T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1864083,
+   "uin": "100023",
+   "heading": "Slaughterhouses: Small Businesses",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what discussions she has had with the National Farmers’ Union on small and medium sized abattoirs.",
+   "dateTabled": "2025-12-15T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1864082,
+   "uin": "100022",
+   "heading": "Slaughterhouses: Small Businesses",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment his Department has made of the potential impact of the Food Standard Agency’s official control charges on the viability of small and medium sized abattoirs.",
+   "dateTabled": "2025-12-15T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1863256,
+   "uin": "99433",
+   "heading": "Disabled Facilities Grants",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether he plans to grant local authorities powers to apply local means-testing policies to the Disabled Facilities Grant budget.",
+   "dateTabled": "2025-12-11T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1864217,
+   "uin": "100100",
+   "heading": "Military Decorations",
+   "questionText": "To ask the Secretary of State for Defence, what assessment his Department has made of the potential merits of adopting the unofficial Cold War Medal for UK veterans from the Cold War.",
+   "dateTabled": "2025-12-15T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1862718,
+   "uin": "99036",
+   "heading": "Child Trust Fund",
+   "questionText": "To ask the Secretary of State for Justice, pursuant to the answer of 1 December 2025 to question 94597, what information his Department holds on the proportion of the 80,000 families affected by locked Child Trust Funds who will have gained access to thos",
+   "dateTabled": "2025-12-10T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1863255,
+   "uin": "99432",
+   "heading": "Immigration: Hong Kong",
+   "questionText": "To ask the Secretary of State for the Home Department, what assessment her Department has made of the potential impact of the 20-year baseline for refugees on core protection routes for Hong Kongers (a) born after 1997 and (b) whose parents did not regist",
+   "dateTabled": "2025-12-11T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1856917,
+   "uin": "94598",
+   "heading": "Child Trust Fund",
+   "questionText": "To ask the Secretary of State for Justice, what assessment his department has made of the key legal or administrative obstacles to solving the Locked Child Trust fund issue.",
+   "dateTabled": "2025-11-25T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1856916,
+   "uin": "94597",
+   "heading": "Child Trust Fund",
+   "questionText": "To ask the Secretary of State for Justice, without further legislation or guidance, what percentage of the 80,000 families affected by the Locked Child Trust Fund issue does the government expect to be able to access their funds within the next three year",
+   "dateTabled": "2025-11-25T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1962210,
+   "uin": "45003",
+   "heading": "Arms Trade: Israel ",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what end-use guarantees the UK Government has sought under extant licenses issued to Israel for trainer aircraft components which have a combat utility.",
+   "dateTabled": "2026-11-19T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1962208,
+   "uin": "45001",
+   "heading": "Arms Trade: Military Aircraft",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, pursuant to correspondence from the then Minister of State for Trade to the Chair of the Business and Trade Select Committee of 5 November 2025, how many of the then 33 extant lice",
+   "dateTabled": "2026-11-19T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1962206,
+   "uin": "44999",
+   "heading": "Arms Trade: Israel",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, how many extant military licenses to Israel cover components for trainer aircraft.",
+   "dateTabled": "2026-11-19T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1961786,
+   "uin": "44713",
+   "heading": "Parkinson's Disease: Drugs",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment she has made of the effectiveness of NHS England’s Medicines Safety Improvement Programme in improving the timely administration of Parkinson’s medication in hospitals.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1961785,
+   "uin": "44712",
+   "heading": "Parkinson's Disease: Drugs",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps her Department is taking to help ensure that NHS hospitals administer time-critical Parkinson’s medication on time and in accordance with clinical guidance.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1961784,
+   "uin": "44711",
+   "heading": "Universal Credit: Young People",
+   "questionText": "To ask the Secretary of State for Work and Pensions, whether people under 25 who have a cancer diagnosis and are unable to work because of their condition and treatment will keep access to the Universal Credit health element following the recommendations ",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1961783,
+   "uin": "44710",
+   "heading": "Disability Living Allowance: Children",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what plans his Department has to reduce the average wait between diagnosis and first payment of Disability Living Allowance for children with cancer.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1961782,
+   "uin": "44709",
+   "heading": "Universal Credit: Young People",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what estimate his Department has made of the number of people under 25 with a cancer diagnosis who would lose entitlement to the Universal Credit health element under proposed reforms.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1961564,
+   "uin": "44491",
+   "heading": "Social Security Benefits: Young People",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what assessment he has made of the legal and technical feasibility of sharing clinical, education and care records between Government bodies for the purpose of determining eligibility for support for pe",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1961562,
+   "uin": "44489",
+   "heading": "Employment Schemes: Young People",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what estimate he has made of the proportion of support for young people not in education, employment or training, as proposed by the Milburn Review, that would be provided through local discretionary fu",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1961558,
+   "uin": "44485",
+   "heading": "Personal Independence Payment Assessment Review",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many people aged under 25 are members of the Timms Review of Personal Independence Payment steering group and co-production panels.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1957796,
+   "uin": "41414",
+   "heading": "Public Expenditure",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what steps she is taking to encourage corporate donations in support of the Government’s priorities.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1957795,
+   "uin": "41413",
+   "heading": "Charities: Young People",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what steps her Department is taking to encourage corporate support for charities working with young people who are not in education, employment or training.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1903500,
+   "uin": "130117",
+   "heading": "Watchkeeper WK450: Components",
+   "questionText": "To ask the Secretary of State for Business and Trade, if his Department will conduct an investigation into whether Watchkeeper drone components are being exported from the UK to Israel to support drone exports to Romania.",
+   "dateTabled": "2026-04-28T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1903499,
+   "uin": "130116",
+   "heading": "Personal Independence Payment Assessment Review",
+   "questionText": "To ask the Secretary of State for Work and Pensions, whether as part of the Timms Review his Department intends to make reductions in total PIP expenditure.",
+   "dateTabled": "2026-04-28T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1903410,
+   "uin": "130012",
+   "heading": "Food: Academies",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether academies and free schools will be classed as public settings for the purpose of the Government's ambition that half of all food served in public settings is either locally sou",
+   "dateTabled": "2026-04-27T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1903200,
+   "uin": "129918",
+   "heading": "Arms Trade: Israel",
+   "questionText": "To ask the Secretary of State for Business and Trade, with reference to Question UIN 117035, how many of the five licences referenced are for IDF training; and what equipment is covered by those licences.",
+   "dateTabled": "2026-04-27T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  }
+ ],
+ "historyComplete": true
+}

@@ -1,0 +1,1000 @@
+{
+ "id": 5136,
+ "fetchedOn": "2026-11-24",
+ "core": {
+  "id": 5136,
+  "nameListAs": "Walker, Imogen",
+  "nameDisplayAs": "Imogen Walker",
+  "nameFullTitle": "Imogen Walker MP",
+  "nameAddressAs": null,
+  "latestParty": {
+   "id": 15,
+   "name": "Labour",
+   "abbreviation": "Lab",
+   "backgroundColour": "d50000",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": true,
+   "governmentType": 0,
+   "isIndependentParty": false
+  },
+  "gender": "F",
+  "latestHouseMembership": {
+   "membershipFrom": "Hamilton and Clyde Valley",
+   "membershipFromId": 4481,
+   "house": 1,
+   "membershipStartDate": "2024-07-04T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2024-07-04T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/5136/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2024-05-31T00:00:00",
+    "constituencyEnd": null,
+    "house": 1,
+    "name": "Hamilton and Clyde Valley",
+    "id": 4481,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [],
+  "houseMemberships": [
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Imogen Walker",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [
+   {
+    "house": 1,
+    "name": "Assistant Whip",
+    "id": 1206,
+    "startDate": "2025-09-07T00:00:00",
+    "endDate": "2026-07-22T00:00:00",
+    "additionalInfo": "Whips Office (Commons)",
+    "additionalInfoLink": null
+   }
+  ],
+  "oppositionPosts": [],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Labour",
+    "id": 15,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 1,
+    "name": "Bank Resolution (Recapitalisation) Bill [HL]",
+    "id": 774,
+    "startDate": "2025-02-05T00:00:00",
+    "endDate": "2025-02-11T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 7,
+   "name": "6. Land and property portfolio with a value over £100,000 and where indicated, the portfolio provides a rental income of over £10,000 a year",
+   "sortOrder": 0,
+   "interests": [
+    {
+     "id": 7411,
+     "interest": "Type of land/property: Residential property\r\nNumber of properties: 1\r\nLocation: Edinburgh\r\nRental income: Yes\r\n(Registered 29 July 2024)",
+     "createdWhen": "2025-08-01T15:04:12.1783629",
+     "lastAmendedWhen": "2024-08-16T15:00:07.21",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 7661,
+     "interest": "Type of land/property: Residential property\r\nNumber of properties: 1\r\nLocation: Edinburgh\r\nRental income: Yes\r\n(Registered 29 July 2024)",
+     "createdWhen": "2025-08-01T15:04:52.0602163",
+     "lastAmendedWhen": "2024-08-16T15:00:07.21",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "name": "8. Miscellaneous",
+   "sortOrder": 1,
+   "interests": [
+    {
+     "id": 7840,
+     "interest": "Trustee, Royal Society for the Prevention of Cruelty to Animals. This is an unpaid role.\r\n(Registered 28 July 2024)",
+     "createdWhen": "2024-08-16T15:04:52.36",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [],
+ "synopsis": "Imogen Walker is the Labour MP for <a href='/constituency/4481/overview'>Hamilton and Clyde Valley</a>, and has been an MP continually since 4 July 2024.",
+ "history": [
+  {
+   "id": 1960262,
+   "uin": "43392",
+   "heading": "Fireworks: Safety",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what assessment he has made of the effectiveness of UK product-safety rules for fireworks in preventing harm to animals and vulnerable people.",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1960264,
+   "uin": "43394",
+   "heading": "Animal Products: Import Controls",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what progress she has made towards introducing a ban on the import of hunting trophies from endangered animals.",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1960268,
+   "uin": "43398",
+   "heading": "Dogs: Smuggling",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she has made of the effectiveness of the Animal Welfare (Import of Dogs, Cats and Ferrets) Act 2025 in tackling puppy smuggling.",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1960273,
+   "uin": "43403",
+   "heading": "Motor Vehicles: Insurance",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment he has made of the potential impact of rising motor-insurance repair costs on motorists in Hamilton and Clyde Valley constituency.",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1960275,
+   "uin": "43405",
+   "heading": "Public Sector: Procurement",
+   "questionText": "To ask the Minister for the Cabinet Office, what steps she is taking to help small businesses in Hamilton and Clyde Valley constituency bid for UK Government contracts.",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1960269,
+   "uin": "43399",
+   "heading": "Internet: Subscriptions",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what steps he is taking to protect consumers in Scotland from subscription traps.",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1960272,
+   "uin": "43402",
+   "heading": "Tobacco: Retail Trade",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps she is taking to ensure that UK Government guidance on the Tobacco and Vapes Act 2026 enables retailers in Scotland to prepare for restrictions due to take effect on 1 January 2027.",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1956804,
+   "uin": "40917",
+   "heading": "UK Internal Trade: Scotland",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what steps his Department is taking to make it easier for businesses in Scotland to trade with other parts of the UK.",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1956808,
+   "uin": "40921",
+   "heading": "Taxation: Electronic Government",
+   "questionText": "To ask the Chancellor of the Exchequer, what support HMRC is providing to sole traders in preparing for the extension of Making Tax Digital for Income Tax in April 2027 Hamilton and Clyde Valley constituency.",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1956811,
+   "uin": "40924",
+   "heading": "Small Businesses: Parental Pay",
+   "questionText": "To ask the Chancellor of the Exchequer, what steps HMRC is taking to raise awareness of Small Employers' Relief among eligible employers in Hamilton and Clyde Valley.",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1956809,
+   "uin": "40922",
+   "heading": "National Grid: South Lanarkshire",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what steps she is taking to help reduce waiting times for electricity grid connections for businesses in South Lanarkshire.",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1956803,
+   "uin": "40916",
+   "heading": "Armed Forces: Scotland",
+   "questionText": "To ask the Secretary of State for Defence, what steps he is taking to help improve the retention of armed forces personnel based in Scotland.",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1956802,
+   "uin": "40915",
+   "heading": "Armed Forces Compensation Scheme: Scotland",
+   "questionText": "To ask the Secretary of State for Defence, what assessment he has made of the adequacy timescale of decisions on Armed Forces Compensation Scheme claims from applicants in Scotland.",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1956807,
+   "uin": "40920",
+   "heading": "Railways: Freight",
+   "questionText": "To ask the Secretary of State for Transport, what steps her Department is taking to support the movement of freight by rail between Scotland and England.",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1956810,
+   "uin": "40923",
+   "heading": "Railways: Compensation",
+   "questionText": "To ask the Secretary of State for Transport, what discussions she has had with operators of cross-border rail services on simplifying compensation claims for passengers travelling between Scotland and England.",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1956806,
+   "uin": "40919",
+   "heading": "Fuel Oil: Scotland",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what recent discussions he has had with the Competition and Markets Authority the impact of the practices of heating oil suppliers on households in rural Scotland.",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1956812,
+   "uin": "40925",
+   "heading": "Pensions: Self-employed",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what steps he is taking to improve pension saving among self-employed people in Scotland.",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1954941,
+   "uin": "39459",
+   "heading": "Armed Forces: Housing",
+   "questionText": "To ask the Secretary of State for Defence, what progress he has made in improving the condition of service family accommodation in Scotland.",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1954929,
+   "uin": "39447",
+   "heading": "Economic Growth: Hamilton and Clyde Valley",
+   "questionText": "To ask the Chancellor of the Exchequer, what steps he is taking to ensure that economic growth delivers higher real wages for workers in Hamilton and Clyde Valley.",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1954954,
+   "uin": "39472",
+   "heading": "Motor Vehicles: Safety",
+   "questionText": "To ask the Secretary of State for Transport, what steps she is taking to strengthen vehicle safety standards to better protect pedestrians.",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1954934,
+   "uin": "39452",
+   "heading": "Energy: Standing Charges",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what assessment she has made of the impact of energy standing charges on small businesses in Hamilton town centre.",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1954930,
+   "uin": "39448",
+   "heading": "Arts: Tax Allowances",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment he has made of the contribution of creative industry tax reliefs to jobs and investment in Scotland.",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1954948,
+   "uin": "39466",
+   "heading": "Apprenticeship Levy: South Lanarkshire",
+   "questionText": "To ask the Chancellor of the Exchequer, how much Apprenticeship Levy was paid by employers in South Lanarkshire in the latest financial year for which data is available.",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1954959,
+   "uin": "39477",
+   "heading": "Empty Property: Business Premises",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment he has made of the potential benefits of VAT relief for renovating vacant commercial premises in town centres such as Hamilton.",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1954951,
+   "uin": "39469",
+   "heading": "Diplomatic Service: British Nationals Abroad",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what steps he is taking to improve communication with British nationals seeking consular assistance during emergencies overseas.",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1954932,
+   "uin": "39450",
+   "heading": "Help to Save Scheme: Hamilton and Clyde Valley",
+   "questionText": "To ask the Chancellor of the Exchequer, what estimate his Department has made of the number of people in Hamilton and Clyde Valley constituency who have benefited from the Help to Save scheme in each of the last three financial years.",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1953031,
+   "uin": "37819",
+   "heading": "Pensions: Fraud",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what steps he is taking to protect pension savers in Hamilton and Clyde Valley constituency from pension scams.",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1953025,
+   "uin": "37813",
+   "heading": "Financial Services: Complaints",
+   "questionText": "To ask the Chancellor of the Exchequer, what estimate he has made of waiting times for complaints from consumers in Scotland to be resolved by the Financial Ombudsman Service.",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1953036,
+   "uin": "37824",
+   "heading": "Debt Collection: Hamilton and Clyde Valley",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment he has made of the potential impact of debt-collection practices on people in Hamilton and Clyde Valley constituency.",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1953022,
+   "uin": "37810",
+   "heading": "Mortgages: Interest Rates",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment he has made of the potential impact of mortgage interest rates on homeowners in Hamilton and Clyde Valley constituency.",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1953016,
+   "uin": "37804",
+   "heading": "Bank Cards: Fees and Charges",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment he has made of the potential impact of card-payment fees on independent retailers in Hamilton and Clyde Valley constituency.",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1953034,
+   "uin": "37822",
+   "heading": "Revenue and Customs: Hamilton and Clyde Valley",
+   "questionText": "To ask the Chancellor of the Exchequer, what steps he is taking to ensure that people in Hamilton and Clyde Valley constituency who cannot use digital services can access timely support from HM Revenue and Customs.",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1953019,
+   "uin": "37807",
+   "heading": "Small Businesses: Cybersecurity",
+   "questionText": "To ask the Secretary of State for the Home Department, what steps she is taking to help small businesses in Hamilton and Clyde Valley constituency protect themselves from cyber-attacks.",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1953017,
+   "uin": "37805",
+   "heading": "Defence: Contracts",
+   "questionText": "To ask the Secretary of State for Defence, what steps he is taking to help small and medium-sized manufacturers in South Lanarkshire secure contracts in UK defence supply chains.",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1954931,
+   "uin": "39449",
+   "heading": "Manufacturing Industries: South Lanarkshire",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what steps his Department is taking to support the growth of advanced manufacturing businesses in South Lanarkshire through the industrial strategy.",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1949562,
+   "uin": "35207",
+   "heading": "Tourism: Marketing",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what discussions she has had with tourism bodies on the effectiveness of marketing historic towns to domestic visitors, including Lanark.",
+   "dateTabled": "2026-10-15T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1946921,
+   "uin": "33053",
+   "heading": "Mobile Broadband: South Lanarkshire",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what assessment she has made of the adequacy of mobile coverage in (a) Lanark, (b) Lesmahagow and (c) Blackwood and Kirkmuirhill.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1953045,
+   "uin": "37833",
+   "heading": "Animal Experiments",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what progress he has made in reducing the use of animals in regulatory testing.",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1949564,
+   "uin": "35209",
+   "heading": "Internet: Children",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what assessment she has made of the effectiveness of age-assurance requirements in protecting children online.",
+   "dateTabled": "2026-10-15T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1949556,
+   "uin": "35201",
+   "heading": "Postal Services: Scotland",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what recent discussions he has had with Royal Mail on postal deliveries in Scotland.",
+   "dateTabled": "2026-10-15T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1949566,
+   "uin": "35211",
+   "heading": "Cooperatives: Scotland",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what support his Department provides to co-operatives wishing to scale up in central Scotland.",
+   "dateTabled": "2026-10-15T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1949558,
+   "uin": "35203",
+   "heading": "Fuel Oil and Liquefied Petroleum Gas: Hamilton and Clyde Valley",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what estimate she has made of the number of homes in Hamilton and Clyde Valley constituency dependent on heating oil and LPG.",
+   "dateTabled": "2026-10-15T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1949565,
+   "uin": "35210",
+   "heading": "Veterans: Training",
+   "questionText": "To ask the Secretary of State for Defence, what support and training pathways are available to help service leavers access job opportunities in Scotland’s renewable energy industry.",
+   "dateTabled": "2026-10-15T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1949563,
+   "uin": "35208",
+   "heading": "Employment Tribunals Service: Scotland",
+   "questionText": "To ask the Secretary of State for Justice, what recent assessment he has made of the adequacy of current waiting times for employment tribunal cases in Scotland.",
+   "dateTabled": "2026-10-15T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1943354,
+   "uin": "30166",
+   "heading": "AI Growth Zones: North Lanarkshire",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what discussions he has had with the Lanarkshire AI Growth Zone on opportunities for local people to access jobs and training.",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1949561,
+   "uin": "35206",
+   "heading": "Telemedicine: Voice over Internet Protocol",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what steps she is taking to help protect residents in Hamilton and Clyde Valley constituency who rely on telecare devices during the digital landline switchover.",
+   "dateTabled": "2026-10-15T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1949559,
+   "uin": "35204",
+   "heading": "Disability: Veterans",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what steps his Department is taking to improve access to specialist employment support for disabled veterans in South Lanarkshire.",
+   "dateTabled": "2026-10-15T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1946882,
+   "uin": "33051",
+   "heading": "Carer's Allowance: Hamilton and Clyde Valley",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many people in Hamilton and Clyde Valley constituency receive Carer’s Allowance.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1946903,
+   "uin": "33052",
+   "heading": "Electric Bicycles: Anti-social Behaviour",
+   "questionText": "To ask the Secretary of State for the Home Department, what assessment she has made of the potential impact of section 8 of the Crime and Policing Act 2026 on the ability of police forces to tackle the antisocial use of e-bikes.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1945314,
+   "uin": "31443",
+   "heading": "Debts: Advisory Services",
+   "questionText": "To ask the Chancellor of the Exchequer, what steps he is taking to improve access to free debt advice for people in Scotland.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1946114,
+   "uin": "32224",
+   "heading": "Drugs: Research",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what progress she has made in enabling the approval of medicines developed without animal testing.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1944879,
+   "uin": "31014",
+   "heading": "Small Businesses: Exports",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what support is available to small businesses in Hamilton and Clyde Valley constituency seeking to export goods or services.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1946113,
+   "uin": "32223",
+   "heading": "Electricity: Hamilton and Clyde Valley",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what assessment she has made of the resilience of electricity distribution networks serving rural parts of Hamilton and Clyde Valley constituency.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1947286,
+   "uin": "33441",
+   "heading": "State Retirement Pensions: Hamilton and Clyde Valley",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what estimate he has made of the number of pensioners in Hamilton and Clyde Valley constituency who received an increased pension as a result of the State Pension uprating in April 2026.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1945721,
+   "uin": "31825",
+   "heading": "Pension Credit: Hamilton and Clyde Valley",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what assessment he has made of waiting times for Pension Credit claims made by residents in Hamilton and Clyde Valley constituency.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1944916,
+   "uin": "31016",
+   "heading": "Mobile Phones: Rural Areas",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what steps she is taking to improve mobile coverage in the rural parts of Hamilton and Clyde Valley covered by the Shared Rural Network.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1946478,
+   "uin": "32627",
+   "heading": "NHS: Software",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what the estimated total cost was of developing the NHS App.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1945270,
+   "uin": "31441",
+   "heading": "NHS: Software",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what estimate she has made of the potential financial impact of sending patient communications through the NHS App rather than by post on the NHS.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1945685,
+   "uin": "31821",
+   "heading": "Delivery Services: Surcharges",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what assessment he has made of the potential impact of parcel delivery surcharges on (a) consumers and (b) small businesses in rural parts of Hamilton and Clyde Valley constituency",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1947333,
+   "uin": "33443",
+   "heading": "Counterfeit Manufacturing: Sales",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what steps he is taking to prevent online marketplaces from selling counterfeit goods that undercut legitimate retailers in town centres.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1944915,
+   "uin": "31015",
+   "heading": "Tobacco: Smuggling",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment HM Revenue and Customs has made of the impact of illicit tobacco sales on legitimate retailers in Hamilton town centre.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1944511,
+   "uin": "30618",
+   "heading": "Floods: Insurance",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she has made of the availability of affordable flood insurance for households and businesses in Hamilton and Clyde Valley constituency.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1945720,
+   "uin": "31824",
+   "heading": "Electronic Cigarettes: Smuggling",
+   "questionText": "To ask the Chancellor of the Exchequer, what steps HM Revenue and Customs is taking to prevent illicit vaping products from being sold on high streets in Scotland following the introduction of Vaping Products Duty on 1 October 2026.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1944474,
+   "uin": "30617",
+   "heading": "Hospitality Industry: Employers' Contributions",
+   "questionText": "To ask the Chancellor of the Exchequer, what estimate he has made of the number of hospitality businesses in Hamilton and Clyde Valley constituency that will pay less employers' National Insurance due to the increase in the Employment Allowance in 2026/27",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1945687,
+   "uin": "31823",
+   "heading": "Small Businesses: VAT",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment he has made of the potential impact of the VAT registration threshold on small businesses in Hamilton and Clyde Valley constituency.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1945271,
+   "uin": "31442",
+   "heading": "Fuels: Excise Duties",
+   "questionText": "To ask the Chancellor of the Exchequer, what estimate he has made of the potential financial impact of continuing the 5p fuel duty cut until December 2026 on motorists in Hamilton and Clyde Valley constituency.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1943351,
+   "uin": "30163",
+   "heading": "Tourism: South Lanarkshire",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what discussions she has had with VisitBritain on promoting New Lanark to overseas visitors.",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1943352,
+   "uin": "30164",
+   "heading": "Electric Bicycles",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what steps he is taking to prevent online marketplaces from selling e-bike conversion kits.",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1943356,
+   "uin": "30168",
+   "heading": "Small Businesses: Hamilton and Clyde Valley",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what assessment he has made of the potential impact of late payments on small businesses in Hamilton and Clyde Valley constituency.",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1945686,
+   "uin": "31822",
+   "heading": "Jobcentres: Hamilton and Clyde Valley",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what steps he plans to take to provide Jobcentre Plus services in Hamilton and Clyde Valley constituency in future.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1947287,
+   "uin": "33442",
+   "heading": "Post Offices: Hamilton and Clyde Valley",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what assessment he has made of the adequacy of the availability of Post Office services in Hamilton and Clyde Valley constituency, including in Lanark, Larkhall and Lesmahagow.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1943359,
+   "uin": "30171",
+   "heading": "Childcare: Tax Allowances",
+   "questionText": "To ask the Chancellor of the Exchequer, what estimate he has made of the number of families in Scotland eligible for Tax-Free Childcare and not receiving it.",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1943350,
+   "uin": "30162",
+   "heading": "World Heritage Sites: Scotland",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what discussions she has had with UNESCO on support for World Heritage Sites in Scotland, including New Lanark.",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1943353,
+   "uin": "30165",
+   "heading": "Project Gigabit: Hamilton and Clyde Valley",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what estimate she has made of the number of (a) households and (b) businesses in Hamilton and Clyde Valley constituency that will receive gigabit-capable broadband through Project Gigabi",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1943357,
+   "uin": "30169",
+   "heading": "Veterans: Scotland",
+   "questionText": "To ask the Secretary of State for Defence, what steps he is taking to support veterans in Scotland into employment after leaving the armed forces.",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1943355,
+   "uin": "30167",
+   "heading": "Driving Tests: Hamilton and Clyde Valley",
+   "questionText": "To ask the Secretary of State for Transport, what assessment she has made of the adequacy of the availability of practical driving tests at test centres serving Hamilton and Clyde Valley constituency.",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1943358,
+   "uin": "30170",
+   "heading": "Civil Servants: Workplace Pensions",
+   "questionText": "To ask the Minister for the Cabinet Office, what recent assessment she has made of the adequacy of the performance of the Civil Service Pension Scheme in processing retirement claims.",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1939965,
+   "uin": "28538",
+   "heading": "Youth Guarantee: Scotland",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what estimate he has made of the number of young people in Scotland who will be supported through the Youth Guarantee.",
+   "dateTabled": "2026-09-09T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1939979,
+   "uin": "28548",
+   "heading": "Employment: Young People",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what steps he is taking to help support young disabled people into work in Scotland.",
+   "dateTabled": "2026-09-09T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1939977,
+   "uin": "28547",
+   "heading": "Dogs: Smuggling",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she has made of the effectiveness of checks on the welfare and age of dogs imported into Great Britain for sale.",
+   "dateTabled": "2026-09-09T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1939970,
+   "uin": "28543",
+   "heading": "Football: Scotland",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what assessment she has made of the potential impact of proposed restrictions on ticket resale on access to football matches for people in Scotland.",
+   "dateTabled": "2026-09-09T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1939969,
+   "uin": "28542",
+   "heading": "Living Wage: Hamilton and Clyde Valley",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what estimate he has made of the number of workers who benefited from the increase in the National Living Wage in Hamilton and Clyde Valley constituency.",
+   "dateTabled": "2026-09-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1939974,
+   "uin": "28545",
+   "heading": "Royal Mail: Universal Service Obligation",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what recent assessment he has made of Royal Mail’s performance against its universal service obligations in Scotland.",
+   "dateTabled": "2026-09-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1939980,
+   "uin": "28549",
+   "heading": "Defence: Scotland",
+   "questionText": "To ask the Secretary of State for Defence, what steps he is taking to increase apprenticeships in the defence sector in Scotland.",
+   "dateTabled": "2026-09-09T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1939966,
+   "uin": "28539",
+   "heading": "Defence: Scotland",
+   "questionText": "To ask the Secretary of State for Defence, what assessment he has made of the potential impact of the Defence Industrial Strategy on skilled jobs and apprenticeships in Scotland.",
+   "dateTabled": "2026-09-09T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1939971,
+   "uin": "28544",
+   "heading": "Mobile Phones: Rural Areas",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what steps her Department is taking to improve the resilience of mobile networks during power outages in rural communities.",
+   "dateTabled": "2026-09-09T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1939983,
+   "uin": "28550",
+   "heading": "Pension Credit: Hamilton and Clyde Valley",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many pensioners receive Pension Credit in Hamilton and Clyde Valley constituency.",
+   "dateTabled": "2026-09-09T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1939975,
+   "uin": "28546",
+   "heading": "Cash Dispensing: Scotland",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment he has made of the adequacy of (a) access to cash and (b) the level of cash acceptance in towns and rural communities in Scotland.",
+   "dateTabled": "2026-09-09T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1939938,
+   "uin": "28537",
+   "heading": "British Coal Staff Superannuation Scheme: Hamilton and Clyde Valley",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what estimate she has made of the number of former mineworkers and dependants in Hamilton and Clyde Valley constituency impacted by the return of the British Coal Staff Superannuation Scheme ",
+   "dateTabled": "2026-09-09T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1939968,
+   "uin": "28541",
+   "heading": "Bill Discount Scheme",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what progress her Department has made on the implementation of the electricity-bill discount scheme for households living near (a) new and (b) substantially upgraded transmission infrastructu",
+   "dateTabled": "2026-09-09T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1939967,
+   "uin": "28540",
+   "heading": "Electric Bicycles: Safety",
+   "questionText": "To ask the Secretary of State for Transport, what steps she is taking to tackle the dangerous driving of illegally modified e-bikes on public roads.",
+   "dateTabled": "2026-09-09T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1939984,
+   "uin": "28551",
+   "heading": "Universal Credit: Children",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what estimate he has made of the number of children in Hamilton and Clyde Valley who have benefitted from the removal of the Universal Credit two-child limit.",
+   "dateTabled": "2026-09-09T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1934136,
+   "uin": "23650",
+   "heading": "Poverty: Children",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what estimate he has made of levels of child poverty in Hamilton and Clyde Valley constituency; and what steps his Department is taking to reduce those levels.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1934139,
+   "uin": "23653",
+   "heading": "Digital Technology: Scotland",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what recent assessment she has made of barriers to digital connectivity in Scotland.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1934133,
+   "uin": "23647",
+   "heading": "General Practitioners",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what recent discussions she has had with devolved Administrations on the recruitment and retention of GPs.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1939051,
+   "uin": "901229",
+   "heading": "Bank Services: Rural Areas",
+   "questionText": "To ask the Chancellor of the Exchequer, what steps his Department is taking to support face-to-face banking in rural communities.",
+   "dateTabled": "2026-09-02T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1934137,
+   "uin": "23651",
+   "heading": "Veterans: Scotland",
+   "questionText": "To ask the Secretary of State for Defence, how many armed forces veterans reside in Hamilton and Clyde Valley constituency; and what support his Department provides for veterans’ mental health in Scotland.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1934135,
+   "uin": "23649",
+   "heading": "Universal Credit: Hamilton and Clyde Valley",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what recent estimate his Department has made of the number of Universal Credit claimants in Hamilton and Clyde Valley constituency.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1934134,
+   "uin": "23648",
+   "heading": "Energy: Prices",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what recent assessment she has made of the adequacy of support available to households in Scotland for energy costs, particularly in rural and semi-rural communities.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1934138,
+   "uin": "23652",
+   "heading": "Artificial Intelligence: Lanarkshire",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what assessment his Department has made of the potential impact of the Lanarkshire AI Growth Zone on Scotland's computing capacity and artificial intelligence infrastructure.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1934131,
+   "uin": "23645",
+   "heading": "Pride in Place Programme: Scotland",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what steps she is taking through the Pride in Place Programme to support the long-term economic regeneration of town centres in Scotland.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1934132,
+   "uin": "23646",
+   "heading": "Pride in Place Programme: Scotland",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what guidance her Department provides to Neighbourhood Boards in Scotland to ensure local communities can effectively maximise Pride in Place funding.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1934130,
+   "uin": "23644",
+   "heading": "Banking Hubs",
+   "questionText": "To ask the Chancellor of the Exchequer, what recent discussions he has had with LINK on the criteria used to assess communities for Banking Hubs in towns such as Larkhall.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1960270,
+   "uin": "43400",
+   "heading": "Armed Forces Covenant: Scotland",
+   "questionText": "To ask the Secretary of State for Defence, what steps he is taking to implement the expanded Armed Forces Covenant duty in Scotland.",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1960267,
+   "uin": "43397",
+   "heading": "Animal Welfare: Scotland",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what assessment he has made of the impact of the UK Internal Market Act 2020 on Scotland’s ability to introduce animal welfare protections.",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1960263,
+   "uin": "43393",
+   "heading": "Women: Equality",
+   "questionText": "To ask the Minister for Women and Equalities, what assessment she has made of the potential merits of including gynaecological conditions in Equality Act 2010 guidance.",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Women and Equalities"
+  }
+ ],
+ "historyComplete": true
+}

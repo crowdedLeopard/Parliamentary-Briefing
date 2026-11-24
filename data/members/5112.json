@@ -1,0 +1,2800 @@
+{
+ "id": 5112,
+ "fetchedOn": "2026-11-24",
+ "core": {
+  "id": 5112,
+  "nameListAs": "Akehurst, Luke",
+  "nameDisplayAs": "Luke Akehurst",
+  "nameFullTitle": "Luke Akehurst MP",
+  "nameAddressAs": null,
+  "latestParty": {
+   "id": 15,
+   "name": "Labour",
+   "abbreviation": "Lab",
+   "backgroundColour": "d50000",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": true,
+   "governmentType": 0,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "North Durham",
+   "membershipFromId": 4204,
+   "house": 1,
+   "membershipStartDate": "2024-07-04T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2024-07-04T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/5112/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2024-05-31T00:00:00",
+    "constituencyEnd": null,
+    "house": 1,
+    "name": "North Durham",
+    "id": 4204,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [
+   {
+    "house": 1,
+    "name": "Castle Point",
+    "id": 611,
+    "startDate": "2005-05-05T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Aldershot",
+    "id": 41,
+    "startDate": "2001-06-07T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "houseMemberships": [
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Luke Akehurst",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [],
+  "oppositionPosts": [],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Labour",
+    "id": 15,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 1,
+    "name": "Armed Forces Commissioner Bill",
+    "id": 750,
+    "startDate": "2024-12-04T00:00:00",
+    "endDate": "2024-12-12T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Finance Committee (Commons)",
+    "id": 325,
+    "startDate": "2025-01-20T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Administration Estimate Audit and Risk Assurance Committee",
+    "id": 502,
+    "startDate": "2025-03-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Select Committee on the Armed Forces Bill",
+    "id": 826,
+    "startDate": "2026-02-09T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 4,
+   "name": "3. Gifts, benefits and hospitality from UK sources",
+   "sortOrder": 0,
+   "interests": [
+    {
+     "id": 17044,
+     "interest": "Name of donor: Aurelo Group Limited\r\nAddress of donor: Regus House 4 Admiral Way, Doxford International Business Park, Sunderland SR3 3XW\r\nAmount of donation or nature and value if donation in kind: Ticket and hospitality at England vs Sri Lanka one day international cricket match, held at Riverside ground, Chester-le-Street, in my constituency, value £500\r\nDate received: 22 September 2026\r\nDate accepted: 22 September 2026\r\nDonor status: company, registration 17033116\r\n(Registered 23 September 2026)",
+     "createdWhen": "2026-10-13T09:27:10.3533333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "name": "7. (i) Shareholdings: over 15% of issued share capital",
+   "sortOrder": 1,
+   "interests": [
+    {
+     "id": 6794,
+     "interest": "Name of company or organisation: Labour First Ltd\r\nNature of business: Political organisation within the Labour Party\r\n(Registered 22 July 2024)",
+     "createdWhen": "2025-07-30T13:46:41.6992127",
+     "lastAmendedWhen": "2024-08-16T14:56:11.7033333",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 6795,
+     "interest": "Name of company or organisation: Labour to Win Ltd\r\nNature of business: Political organisation within the Labour Party\r\n(Registered 22 July 2024)",
+     "createdWhen": "2025-07-30T13:49:04.6505573",
+     "lastAmendedWhen": "2024-08-16T14:56:11.7033333",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "name": "8. Miscellaneous",
+   "sortOrder": 2,
+   "interests": [
+    {
+     "id": 6796,
+     "interest": "PLP Representative on Labour Party National Executive Committee.\r\nDate interest arose: 17 July 2024\r\n(Registered 22 July 2024)",
+     "createdWhen": "2025-10-17T11:51:21.5120514",
+     "lastAmendedWhen": "2024-08-16T15:04:03.5633333",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 9931,
+     "interest": "Trustee, Friends of Labour Students. This is an unpaid role.\r\n(Registered 3 August 2024)",
+     "createdWhen": "2024-08-16T15:04:03.5633333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 9856,
+     "interest": "Director, Labour to Win Ltd. This is an unpaid role.\r\n(Registered 3 August 2024)",
+     "createdWhen": "2024-08-16T15:04:03.5633333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 9852,
+     "interest": "Director/Secretary, Labour First Ltd. This is an unpaid role.\r\n(Registered 3 August 2024)",
+     "createdWhen": "2024-08-16T15:04:03.5633333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 11621,
+     "interest": "Member, British-American Parliamentary Group Executive Committee. This is an unpaid role.\r\nDate interest arose: 30 October 2024\r\n(Registered 8 January 2025)",
+     "createdWhen": "2025-01-22T13:17:05.97",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [],
+ "synopsis": "Luke Akehurst is the Labour MP for <a href='/constituency/4204/overview'>North Durham</a>, and has been an MP continually since 4 July 2024.",
+ "history": [
+  {
+   "id": 1960977,
+   "uin": "44036",
+   "heading": "NHS Trusts: Antisemitism",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many NHS trusts have adopted the International Holocaust Remembrance Alliance working definition of antisemitism.",
+   "dateTabled": "2026-11-17T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1959595,
+   "uin": "42915",
+   "heading": "Typhoon Aircraft",
+   "questionText": "To ask the Secretary of State for Defence, what assessment his Department has made of the number of Typhoon fleet flying hours achieved in each of the financial years 2024-25 and 2025-26.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1959594,
+   "uin": "42914",
+   "heading": "Defence: Procurement",
+   "questionText": "To ask the Secretary of State for Defence, whether his Department has assessed the potential impact of the requirement for ministerial approval of defence procurement orders valued at more than £500,000 on the timeliness of procurement decisions.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1959593,
+   "uin": "42913",
+   "heading": "Navy: National Security",
+   "questionText": "To ask the Secretary of State for Defence, what steps his Department is taking to strengthen the Royal Navy's capability to protect UK territorial waters and critical national infrastructure from emerging maritime threats.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1959587,
+   "uin": "42907",
+   "heading": "Defence: Photonics",
+   "questionText": "To ask the Secretary of State for Defence, what assessment his Department has made of the role of photonics in defence.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1959632,
+   "uin": "42952",
+   "heading": "Northumbrian Water: Assets",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, how many inspections of assets operated by Northumbrian Water were undertaken by the Environment Agency in County Durham in each of the last five years.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1959597,
+   "uin": "42917",
+   "heading": "Defence",
+   "questionText": "To ask the Secretary of State for Defence, when he expects the Defence Readiness Bill to be introduced to Parliament.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1959591,
+   "uin": "42911",
+   "heading": "BOWMAN Combat Radio System: Procurement",
+   "questionText": "To ask the Secretary of State for Defence, when he expects to finalise a contract to replace or upgrade the Bowman tactical communications system.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1959590,
+   "uin": "42910",
+   "heading": "Photonics",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, whether the Government plans to publish a National Photonics Roadmap.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1959588,
+   "uin": "42908",
+   "heading": "Photonics: Manufacturing Industries",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what steps he is taking to support manufacturers of photonics systems.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1959631,
+   "uin": "42951",
+   "heading": "Northumbrian Water: Sewage",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what monitoring of water quality is undertaken downstream of sewage treatment works operated by Northumbrian Water in County Durham.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1959630,
+   "uin": "42950",
+   "heading": "Northumbrian Water: Sewage",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what information her Department holds on capital investment by Northumbrian Water to reduce sewage discharges in County Durham in the last 5 years.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1959629,
+   "uin": "42949",
+   "heading": "Northumbrian Water: Sewage",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, how many sewage discharges by Northumbrian Water were recorded in (a) North Durham constituency and (b) County Durham in the latest year for which data is available.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1959627,
+   "uin": "42947",
+   "heading": "Northumbrian Water: Standards",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps her Department is taking to improve the environmental performance of Northumbrian Water following the publication of the latest Environmental Performance Assessment Report.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1959624,
+   "uin": "42944",
+   "heading": "Northumbrian Water: Sewage",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether the Environment Agency is conducting, or plans to conduct, any investigations into sewage discharges from Northumbrian Water in or around Lanchester.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1959623,
+   "uin": "42943",
+   "heading": "Sewage: Waste Disposal",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps her Department is taking to reduce health risks to dogs arising from exposure to water affected by sewage pollution.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1959622,
+   "uin": "42942",
+   "heading": "Northumbrian Water: Sewage",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what data her Department holds on the frequency and duration of sewage discharges in Lanchester operated by Northumbrian Water over the last 5 years.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1957970,
+   "uin": "41588",
+   "heading": "Workplace Pensions: Regulation",
+   "questionText": "To ask the Secretary of State for Work and Pensions, whether his Department has assessed the potential impact of the Draft Occupational Pension Schemes (Payments to Employer) Regulations 2027, published for consultation on 10 June 2026, on different age g",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1959626,
+   "uin": "42946",
+   "heading": "Northumbrian Water: Standards",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what discussions she has had with the Environment Agency regarding Northumbrian Water’s rating of requiring improvement in the most recent Environmental Performance Assessment Report.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1959625,
+   "uin": "42945",
+   "heading": "Northumbrian Water: Standards",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she has made of the 2-star rating received by Northumbrian Water in the 2025 Environmental Performance Assessment Report; and what steps she is taking to respond to tha",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1955651,
+   "uin": "40080",
+   "heading": "Visas: British National (Overseas)",
+   "questionText": "To ask the Secretary of State for the Home Department, what training is provided to BN(O) caseworkers on assessing allegations of politically motivated prosecution and serious trial unfairness arising from the 2019 Hong Kong protests, including where the ",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1955646,
+   "uin": "40075",
+   "heading": "Visas: British National (Overseas)",
+   "questionText": "To ask the Secretary of State for the Home Department, how many Hong Kong British National (Overseas) applications involving overseas convictions have been referred to a senior caseworker or the BN(O) Route Policy team in each year since 2021; and how man",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1955644,
+   "uin": "40073",
+   "heading": "Visas: British National (Overseas)",
+   "questionText": "To ask the Secretary of State for the Home Department, what steps her Department are taking to give Hong Kong British National (Overseas) visa applicants an opportunity to respond to material adverse evidence obtained from Hong Kong court records before a",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1955650,
+   "uin": "40079",
+   "heading": "Visas: British National (Overseas)",
+   "questionText": "To ask the Secretary of State for the Home Department, what measures have been implemented following the Government's 2021 response to paragraph 68 of the Home Affairs Committee's report, The UK's offer of visa and settlement routes for residents of Hong ",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1955648,
+   "uin": "40077",
+   "heading": "Visas: British National (Overseas)",
+   "questionText": "To ask the Secretary of State for the Home Department, what guidance is provided to BN(O) caseworkers on assessing the provenance, completeness and reliability of Hong Kong court judgments and prosecution records used in visa suitability decisions.",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1955645,
+   "uin": "40074",
+   "heading": "Visas: British National (Overseas)",
+   "questionText": "To ask the Secretary of State for the Home Department, pursuant to the Answer of 19 October 2026 to Question 32659, what transitional arrangements apply to previously disclosed Hong Kong convictions in (a) BN(O) visa extension applications, (b) settlement",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1955643,
+   "uin": "40072",
+   "heading": "Visas: British National (Overseas)",
+   "questionText": "To ask the Secretary of State for the Home Department, what published policy governs the treatment of evidence of politically motivated prosecution in Hong Kong British National (Overseas) visa applications where paragraph SUI 5.1(a) of Part Suitability a",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1951701,
+   "uin": "36965",
+   "heading": "Digital Technology and Social Media: Education",
+   "questionText": "To ask the Secretary of State for Education, with reference to the joint letter on children’s media literacy from experts and organisations published on 7th October, if her Department will provide schools and teachers with the guidance, training and resou",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1951700,
+   "uin": "36964",
+   "heading": "Digital Technology and Social Media: Curriculum",
+   "questionText": "To ask the Secretary of State for Education, whether she plans to establish a media and digital literacy framework setting out (a) what pupils should know and be able to do at each key stage and (b) how Citizenship, English, Computing, relationships, sex ",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1951699,
+   "uin": "36963",
+   "heading": "Children: Social Media",
+   "questionText": "To ask the Secretary of State for Education, if she will meet representatives of organisations that signed the joint letter on children’s media literacy, coordinated by Internet Matters and Molly Rose Foundation and published on 7 October 2026.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1951698,
+   "uin": "36962",
+   "heading": "Social Media: Government Departments",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what plans she has to coordinate media literacy policy and delivery across all relevant government departments and regulators.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1951697,
+   "uin": "36961",
+   "heading": "Social Media: Children",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, if she will meet representatives of organisations that signed the joint letter on children’s media literacy, coordinated by Internet Matters and Molly Rose Foundation and published on 7t",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1951691,
+   "uin": "36955",
+   "heading": "Occupational Health: Tax Allowances",
+   "questionText": "To ask the Chancellor of the Exchequer, if he will use additional tax incentives to expand occupational health for employees.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1951679,
+   "uin": "36943",
+   "heading": "Occupational Health: Taxation",
+   "questionText": "To ask the Chancellor of the Exchequer, whether he plans to review the tax treatment of employer-funded vocational rehabilitation to support employers, particularly small and medium-sized enterprises, in providing such rehabilitation for disabled people.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1951690,
+   "uin": "36954",
+   "heading": "Occupational Health: Small Businesses",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what steps he will take to support small businesses to offer occupational health services.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1951689,
+   "uin": "36953",
+   "heading": "Occupational Health: Recruitment",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how his Department can help to expand the occupational health workforce and fill existing vacancies.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1951688,
+   "uin": "36952",
+   "heading": "Occupational Health: Disability",
+   "questionText": "To ask the Secretary of State for Work and Pensions, whether his Department has considered establishing a nationally funded occupational health support scheme for small and medium-sized enterprises employing disabled people.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1951687,
+   "uin": "36951",
+   "heading": "Occupational Health",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how his Department plans to use guidance on occupational health to support the goals of Keep Britain Working.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1951686,
+   "uin": "36950",
+   "heading": "Occupational Health: Disability",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what assessment he has made of the effectiveness of in-house and externally commissioned occupational health provision in supporting disabled employees to remain in work.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1951685,
+   "uin": "36949",
+   "heading": "Occupational Health: Disability",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what assessment he has made of the extent to which the way employers use, frame and communicate occupational health services affects disabled employees’ perceptions of those services and their willingne",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1951684,
+   "uin": "36948",
+   "heading": "Occupational Health: Standards",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what assessment his Department has made of the extent to which the quality, effectiveness and degree of tailoring of occupational health services are affected by the way employers specify, procure and c",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1951682,
+   "uin": "36946",
+   "heading": "Occupational Health: Disability",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what assessment has been made of the potential impact of workplace rehabilitation services on reducing economic inactivity amongst disabled people.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1951681,
+   "uin": "36945",
+   "heading": "Occupational Health: Disability",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what steps the his Department is taking to improve employer access to independent occupational health advice to support the recruitment and retention of disabled workers.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1951680,
+   "uin": "36944",
+   "heading": "Occupational Health: Disability",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what assessment he has made of the potential impact of occupational health services on improving access to employment for disabled people.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1951683,
+   "uin": "36947",
+   "heading": "Occupational Health: Disability",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what measures are in place to support employers in implementing workplace adjustments and creating inclusive working environments for disabled employees.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1949852,
+   "uin": "35497",
+   "heading": "Palestine: Recognition of States",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what assessment his Department has made of the Palestinian Authority’s implementation of the terms of the UK-Palestinian Strategic Co-operation MOU; and which areas of concer",
+   "dateTabled": "2026-10-15T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1948921,
+   "uin": "34708",
+   "heading": "Palestine: Terrorism",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, pursuant to the answer to Question 104985, whether he has received assurances from the Palestinian Authority that it will publish the findings of an independent audit it comm",
+   "dateTabled": "2026-10-14T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1945642,
+   "uin": "31816",
+   "heading": "Defence: North East",
+   "questionText": "To ask the Secretary of State for Defence, what assessment he has made of whether the North East of England continues to lag behind other regions of the United Kingdom in the number of defence-related manufacturing and industrial jobs; and what steps his ",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1949716,
+   "uin": "35361",
+   "heading": "Eskdalemuir Seismological Array",
+   "questionText": "To ask the Secretary of State for Defence, what offers his Department has received from renewable energy developers to fund or contribute towards upgrades to the Eskdalemuir Seismic Array.",
+   "dateTabled": "2026-10-15T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1949714,
+   "uin": "35359",
+   "heading": "Eskdalemuir Seismological Array",
+   "questionText": "To ask the Secretary of State for Defence, what assessment he has made of whether technological upgrades to the Eskdalemuir Seismic Array could enable additional onshore wind development without compromising its operational capability.",
+   "dateTabled": "2026-10-15T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1949713,
+   "uin": "35358",
+   "heading": "Eskdalemuir Seismological Array",
+   "questionText": "To ask the Secretary of State for Defence, when the scientific evidence and methodology underpinning restrictions on wind energy development around the Eskdalemuir Seismic Array were last independently reviewed.",
+   "dateTabled": "2026-10-15T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1949712,
+   "uin": "35357",
+   "heading": "Eskdalemuir Seismological Array",
+   "questionText": "To ask the Secretary of State for Defence, what assessment he has made of the costs and benefits of upgrading the Eskdalemuir Seismic Array, including through the installation of borehole seismic monitoring equipment.",
+   "dateTabled": "2026-10-15T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1947973,
+   "uin": "33956",
+   "heading": "Offenders: Electronic Tagging",
+   "questionText": "To ask the Secretary of State for Justice, what plans he has to give police forces routine access to the database holding location data from electronic monitoring tags for use in criminal investigations.",
+   "dateTabled": "2026-10-12T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1945643,
+   "uin": "31817",
+   "heading": "Armoured Fighting Vehicles: Procurement",
+   "questionText": "To ask the Secretary of State for Defence, what weighting is given to sovereign industrial capability, supply chain resilience and retention of specialist skills when evaluating procurement decisions involving transparent armour and vehicle protection sys",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1944841,
+   "uin": "31010",
+   "heading": "Armed Forces: Motor Vehicles",
+   "questionText": "To ask the Secretary of State for Defence, whether his Department identifies the United Kingdom's domestic capability to design and manufacture transparent armour and bullet-resistant glazing systems for military vehicles as a sovereign defence capability",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1947988,
+   "uin": "33971",
+   "heading": "Eating Disorders: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment she has made of the evidence to support NHS eating disorder services routinely considering autism during eating disorder assessment and throughout treatment, including by routinely ",
+   "dateTabled": "2026-10-12T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1943443,
+   "uin": "30255",
+   "heading": "Victim Support Schemes: Rural Areas",
+   "questionText": "To ask the Secretary of State for Justice, what guidance is provided to police and victim support services on supporting victims of rural crime in cases where no suspect is charged.",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1943442,
+   "uin": "30254",
+   "heading": "Crime: Rural Areas",
+   "questionText": "To ask the Secretary of State for the Home Department, what assessment she has made of the consistency of crime recording practices between police forces for offences involving (a) livestock, (b) horses, (c) agricultural vehicles and machinery and (d) fly",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1943440,
+   "uin": "30252",
+   "heading": "Crime: Rural Areas",
+   "questionText": "To ask the Secretary of State for the Home Department, whether her Department is taking steps to ensure that police response times in rural areas are not consistently lower than in urban areas.",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1943439,
+   "uin": "30251",
+   "heading": "Crime: Rural Areas",
+   "questionText": "To ask the Secretary of State for the Home Department, pursuant to the answer to Question 27081, whether her Department has considered whether it should set up a national dataset of average police response times to incident in rural areas.",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1943441,
+   "uin": "30253",
+   "heading": "Crime: Rural Areas",
+   "questionText": "To ask the Secretary of State for the Home Department, whether she can provide an update to the Rural Crime Strategy, including when she expects it to be published, and what performance indicators will be used to assess progress against its objectives.",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1943438,
+   "uin": "30250",
+   "heading": "Agricultural Machinery: Theft",
+   "questionText": "To ask the Secretary of State for the Home Department, whether her Department has assessed the effectiveness of agricultural machinery identification and marking schemes, including CESAR, in reducing theft and increasing recovery rates; and whether she pl",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1943437,
+   "uin": "30249",
+   "heading": "Crime: Rural Areas",
+   "questionText": "To ask the Secretary of State for the Home Department, what discussions she has had since 1 January 2025 with ministers and law enforcement agencies in (a) Scotland, (b) Wales, (c) Northern Ireland and (d) the Republic of Ireland on tackling organised rur",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1943436,
+   "uin": "30248",
+   "heading": "Crime: Rural Areas",
+   "questionText": "To ask the Secretary of State for the Home Department, what central Government funding streams are available in 2026-27 for (a) rural crime prevention, (b) rural crime intelligence activity and (c) support for victims of rural crime; and what criteria are",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1943435,
+   "uin": "30247",
+   "heading": "Crime: Rural Areas",
+   "questionText": "To ask the Secretary of State for the Home Department, whether she plans to publish annual statistics on rural crime by offence category, including for each police force area the number of offences recorded, charges brought and convictions secured.",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1936992,
+   "uin": "26254",
+   "heading": "Lasers: Weapons",
+   "questionText": "To ask the Secretary of State for Defence, what proportion of the funding allocated in the Defence Investment Plan to Directed Energy Weapons will be spent on (a) laser-directed energy weapons, including DragonFire, and (b) Radio Frequency Directed Energy",
+   "dateTabled": "2026-09-01T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1940482,
+   "uin": "28919",
+   "heading": "Ammunition: Finance",
+   "questionText": "To ask the Secretary of State for Defence, what expenditure his Department has forecast on replenishment of munitions stocks between 2026-27 and 2029-30.",
+   "dateTabled": "2026-09-10T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1940484,
+   "uin": "28921",
+   "heading": "Challenger Tanks: Procurement",
+   "questionText": "To ask the Secretary of State for Defence, what assessment his Department has made of the level of requirement for a successor capability to Challenger 3 beyond its planned out-of-service date.",
+   "dateTabled": "2026-09-10T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1940483,
+   "uin": "28920",
+   "heading": "Defence: Procurement",
+   "questionText": "To ask the Secretary of State for Defence, what the estimated value is of defence procurement programmes that have received departmental approval but are awaiting contract signature.",
+   "dateTabled": "2026-09-10T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1940481,
+   "uin": "28918",
+   "heading": "Guided Weapons",
+   "questionText": "To ask the Secretary of State for Defence, whether stockpile holdings for (a) Brimstone, (b) Paveway IV, (c) SPEAR 3, (d) Meteor and (e) ASRAAM munitions are assessed as meeting departmental planning assumptions and needs.",
+   "dateTabled": "2026-09-10T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1940480,
+   "uin": "28917",
+   "heading": "Military Aircraft: Training",
+   "questionText": "To ask the Secretary of State for Defence, what analysis his Department has undertaken of the military flying training systems operated by NATO allies for the purpose of identifying opportunities to improve value for money and pilot output within the UK M",
+   "dateTabled": "2026-09-10T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1940479,
+   "uin": "28916",
+   "heading": "F-35 Aircraft: Repairs and Maintenance",
+   "questionText": "To ask the Secretary of State for Defence, what cost has been incurred by his Department on corrosion inspection and remediation work for the F-35 fleet.",
+   "dateTabled": "2026-09-10T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1940478,
+   "uin": "28915",
+   "heading": "F-35 Aircraft: Repairs and Maintenance",
+   "questionText": "To ask the Secretary of State for Defence, what progress he has made on deep maintenance and corrosion inspection of the F-35 fleet.",
+   "dateTabled": "2026-09-10T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1940477,
+   "uin": "28914",
+   "heading": "Warships: Shipbuilding",
+   "questionText": "To ask the Secretary of State for Defence, what assessment his Department has made of the long-term sustainability of UK naval shipbuilding capacity following the completion of programmes funded under the Defence Investment Plan.",
+   "dateTabled": "2026-09-10T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1940476,
+   "uin": "28913",
+   "heading": "Type 26 Frigates and Type 31 Frigates",
+   "questionText": "To ask the Secretary of State for Defence, what steps he is taking to maintain Royal Navy escort numbers pending the entry into service of the planned fleet of Type 26 and Type 31 frigates.",
+   "dateTabled": "2026-09-10T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1940475,
+   "uin": "28912",
+   "heading": "Type 23 Frigates: Decommissioning",
+   "questionText": "To ask the Secretary of State for Defence, whether his Department has assessed the risk of a reduction in the Royal Navy frigate force resulting from the withdrawal of Type 23 frigates before the entry into service of replacement Type 26 and Type 31 friga",
+   "dateTabled": "2026-09-10T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1940474,
+   "uin": "28911",
+   "heading": "Guided Weapons: Production",
+   "questionText": "To ask the Secretary of State for Defence, what assessment his Department has made of the adequacy of UK missile production capacity in meeting the requirements of a sustained high-intensity conflict; and whether that assessment has been informed by missi",
+   "dateTabled": "2026-09-10T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1938932,
+   "uin": "27842",
+   "heading": "Swimming and Water: Education",
+   "questionText": "To ask the Secretary of State for Education, what assessment she has made of recruitment and retention trends among teachers involved in delivering curriculum swimming and water safety lessons in schools.",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1938931,
+   "uin": "27841",
+   "heading": "Schools: Swimming",
+   "questionText": "To ask the Secretary of State for Education, whether she is taking steps to improve levels of consistency in how swimming attainment is assessed and reported by schools.",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1938930,
+   "uin": "27840",
+   "heading": "Swimming and Water: Curriculum",
+   "questionText": "To ask the Secretary of State for Education, whether she plans to review the statutory swimming and water safety requirements in the National Curriculum.",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1941559,
+   "uin": "29236",
+   "heading": "Neighbourhood Wardens: Electric Bicycles",
+   "questionText": "To ask the Secretary of State for the Home Department, whether her Department has considered introducing powers for Neighbourhood Wardens to seize e-bikes used in anti-social behaviour.",
+   "dateTabled": "2026-09-11T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1938933,
+   "uin": "27843",
+   "heading": "Swimming",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what assessment she has made of the adequacy of the availability and affordability of swimming lessons.",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1938030,
+   "uin": "27078",
+   "heading": "Waste: Organised Crime",
+   "questionText": "To ask the Secretary of State for the Home Department, what discussions she has had with the Secretary of State for Environment, Food and Rural Affairs on the adequacy of the level of protection provided to farmers and landowners who report organised wast",
+   "dateTabled": "2026-09-03T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1938185,
+   "uin": "27083",
+   "heading": "Victim Support Schemes: Rural Areas",
+   "questionText": "To ask the Secretary of State for Justice, what assessment he has made of the level of the barriers to accessing support services for victims of crime who live in rural communities.",
+   "dateTabled": "2026-09-03T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1938028,
+   "uin": "27077",
+   "heading": "Waste: Crime",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what criteria are used to determine eligibility for the Illegal Waste Site Clearance Scheme; and whether any sites in County Durham have been assessed for inclusion.",
+   "dateTabled": "2026-09-03T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1934214,
+   "uin": "23591",
+   "heading": "Syria: Education and Reconstruction",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what arrangements his Department has put in place to monitor significant changes to the Syrian national curriculum; and how the findings of any monitoring will inform the UK'",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1934213,
+   "uin": "23590",
+   "heading": "Palestine: Education",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what information his Department holds regarding the independent audit of the revised Palestinian Authority curriculum, including the experts contracted and the scope of their",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1938035,
+   "uin": "27081",
+   "heading": "Crime: Rural Areas",
+   "questionText": "To ask the Secretary of State for the Home Department, what data her Department holds on average police response times to incidents in rural areas by police force area in each of the last five years.",
+   "dateTabled": "2026-09-03T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1938037,
+   "uin": "27082",
+   "heading": "Crime: Rural Areas",
+   "questionText": "To ask the Secretary of State for the Home Department, what assessment her Department has made of the potential impact of dedicated rural crime officers and rural crime coordinators on preventing and detecting crime in rural communities.",
+   "dateTabled": "2026-09-03T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1938033,
+   "uin": "27080",
+   "heading": "Crime: Rural Areas",
+   "questionText": "To ask the Secretary of State for the Home Department, what steps she is taking to improve cross-border intelligence sharing between police forces to help tackle rural crime.",
+   "dateTabled": "2026-09-03T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1938032,
+   "uin": "27079",
+   "heading": "Agricultural Machinery and Fuels: Theft",
+   "questionText": "To ask the Secretary of State for the Home Department, what assessment her Department has made of recent trends in (a) agricultural machinery theft and (b) fuel theft affecting rural communities.",
+   "dateTabled": "2026-09-03T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1922554,
+   "uin": "14586",
+   "heading": "Ofqual",
+   "questionText": "To ask the Secretary of State for Education, when her Department last reviewed Ofqual’s procedures and policies.",
+   "dateTabled": "2026-06-30T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1922553,
+   "uin": "14585",
+   "heading": "Training: Regulation",
+   "questionText": "To ask the Secretary of State for Education, what assessment her Department has made of the adequacy of Ofqual’s powers in relation to regulating the training sector.",
+   "dateTabled": "2026-06-30T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1922552,
+   "uin": "14584",
+   "heading": "Ofqual: Powers",
+   "questionText": "To ask the Secretary of State for Education, what assessment her Department has made of the adequacy of powers available to Ofqual to protect learners and training providers.",
+   "dateTabled": "2026-06-30T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1927805,
+   "uin": "18813",
+   "heading": "Ukraine: Defence",
+   "questionText": "To ask the Secretary of State for Defence, with reference to the UK/EU-Ukraine Defence Innovation Corridor Parliamentary Roundtable held on 23 June 2026, what steps his Department is taking to support (a) procurement speed, (b) technology transfer between",
+   "dateTabled": "2026-07-14T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1927811,
+   "uin": "18817",
+   "heading": "Ukraine: Defence",
+   "questionText": "To ask the Secretary of State for Defence, what support his Department provides to Ukrainian defence technology companies seeking to establish production facilities in the UK, including through initiatives including the UK/EU-Ukraine Defence Innovation Co",
+   "dateTabled": "2026-07-14T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1927810,
+   "uin": "18816",
+   "heading": "Ukraine: Small Businesses",
+   "questionText": "To ask the Secretary of State for Defence, when the Kyiv Business Centre will be fully operational; and if he will set how UK SMEs will be able to access its services.",
+   "dateTabled": "2026-07-14T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1927809,
+   "uin": "18815",
+   "heading": "Ukraine: Defence",
+   "questionText": "To ask the Secretary of State for Defence, what assessment he has made of the potential impact of the defence technology export mechanism recently approved by the Government of Ukraine on UK defence companies; and what steps he is taking to support UK com",
+   "dateTabled": "2026-07-14T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1927807,
+   "uin": "18814",
+   "heading": "Electronic Warfare and Unmanned Air Systems: Procurement",
+   "questionText": "To ask the Secretary of State for Defence, with reference to the Defence Investment Plan published on 30 June 2026, what milestones have been set for the delivery of counter-drone and electromagnetic warfare capabilities.",
+   "dateTabled": "2026-07-14T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1927812,
+   "uin": "18818",
+   "heading": "Ukraine: Defence",
+   "questionText": "To ask the Secretary of State for Defence, whether he plans to apply the Project Octopus model of manufacturing Ukrainian-designed systems in the UK to other capability areas, including electronic warfare and marine autonomy.",
+   "dateTabled": "2026-07-14T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1926330,
+   "uin": "17530",
+   "heading": "Police: Technology",
+   "questionText": "To ask the Secretary of State for the Home Department, what support her Department is providing to police forces in adopting modern technologies to the identification of trends across complaints, misconduct, training, supervision and welfare data.",
+   "dateTabled": "2026-07-09T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1926329,
+   "uin": "17529",
+   "heading": "Police: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for the Home Department, what steps she is taking to equip police forces to identify patterns of misconduct, welfare issues, and organisational risks through analysis of existing workforce data.",
+   "dateTabled": "2026-07-09T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1926328,
+   "uin": "17528",
+   "heading": "Police: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for the Home Department, what assessment her Department has made of the potential for artificial intelligence technology to allow police forces to securely integrate information from across agencies to identify risk and suppo",
+   "dateTabled": "2026-07-09T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1927717,
+   "uin": "18812",
+   "heading": "Revenue and Customs: Criminal Investigation",
+   "questionText": "To ask the Chancellor of the Exchequer, what mechanisms exist to ensure independent oversight of allegations of serious misconduct or criminality involving HMRC investigators, including compliance with referral requirements and the effectiveness of arrang",
+   "dateTabled": "2026-07-14T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1927713,
+   "uin": "18811",
+   "heading": "Revenue and Customs: Criminal Investigation",
+   "questionText": "To ask the Chancellor of the Exchequer, whether HMRC has undertaken, or plans to undertake, any review of enforcement actions, civil penalties or criminal proceedings that may have been affected by concerns regarding the reliability, authorisation, proven",
+   "dateTabled": "2026-07-14T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1927709,
+   "uin": "18810",
+   "heading": "Revenue and Customs: Criminal Investigation",
+   "questionText": "To ask the Chancellor of the Exchequer, what measures are in place to ensure that forensic testing, intelligence, analytical methodologies and other evidence relied upon by HMRC in enforcement action and criminal proceedings are lawfully obtained and inde",
+   "dateTabled": "2026-07-14T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1926764,
+   "uin": "900978",
+   "heading": "Undocumented Migrants",
+   "questionText": "To ask the Secretary of State for the Home Department, what steps her Department is taking to help reduce illegal migration.",
+   "dateTabled": "2026-07-07T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1922444,
+   "uin": "14583",
+   "heading": "Children: Protection",
+   "questionText": "To ask the Secretary of State for Education, pursuant to the Answer of 16 June 2026 to Question 900535 on Children: Protection, what assessment her Department has made of the potential merits of creating a dedicated mechanism requiring relevant child risk",
+   "dateTabled": "2026-06-30T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1922443,
+   "uin": "14582",
+   "heading": "Children: Protection",
+   "questionText": "To ask the Secretary of State for Education, pursuant to the Answer of 16 June 2026 to Question 900535 on Children: Protection, whether (a) current and (b) proposed measures require relevant child risk information about dangerous adults in children’s live",
+   "dateTabled": "2026-06-30T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1922555,
+   "uin": "14587",
+   "heading": "Training: Marketing",
+   "questionText": "To ask the Secretary of State for Education, what assessment her Department has made of the utility of Lead Generators within the training sector.",
+   "dateTabled": "2026-06-30T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1920595,
+   "uin": "13313",
+   "heading": "Public Sector: Procurement",
+   "questionText": "To ask the Minister for the Cabinet Office, pursuant to the Answer of 23 June 2026 to Question 9768 on bus manufacturing and public procurement, when the Government intends to publish updated procurement guidance reflecting the new definition of social va",
+   "dateTabled": "2026-06-25T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1915025,
+   "uin": "8915",
+   "heading": "Defence: Finance",
+   "questionText": "To ask the Secretary of State for Defence, what assessment his Department has made on the impact of delays to the Defence Investment Plan, including funding for the Global Air Combat Programme, on UK defence-industrial co-operation with Italy and Japan.",
+   "dateTabled": "2026-06-10T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1910742,
+   "uin": "5671",
+   "heading": "Diethylstilbestrol: Side Effects",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps his Department is taking to improve awareness of DES-related risks (a) among general practitioners and (b) within medical education.",
+   "dateTabled": "2026-06-01T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1916023,
+   "uin": "9759",
+   "heading": "Tax Avoidance",
+   "questionText": "To ask the Chancellor of the Exchequer, how many individual disguised remuneration cases are outstanding that need to be resolved by HMRC.",
+   "dateTabled": "2026-06-15T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1918329,
+   "uin": "900535",
+   "heading": "Children: Protection",
+   "questionText": "To ask the Secretary of State for Education, what assessment she has made of the potential merits of introducing a child risk disclosure scheme.",
+   "dateTabled": "2026-06-16T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1916033,
+   "uin": "9769",
+   "heading": "Buses: Procurement",
+   "questionText": "To ask the Minister for the Cabinet Office, what steps he is taking through public procurement policy to support UK bus manufacturers to compete for (a) Government contracts, (b) local authority contracts, and (c) combined authority contracts.",
+   "dateTabled": "2026-06-15T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1916032,
+   "uin": "9768",
+   "heading": "Buses: Procurement",
+   "questionText": "To ask the Minister for the Cabinet Office, if he will make it his policy to include UK bus manufacturing as a national security exemption in the Procurement Act.",
+   "dateTabled": "2026-06-15T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1915496,
+   "uin": "9296",
+   "heading": "Standing Advisory Councils on Religious Education",
+   "questionText": "To ask the Secretary of State for Education, what discussions her Department has had with the Ministry of Housing, Communities and Local Government regarding the role of Standing Advisory Councils for Religious Education since the publication of the Minis",
+   "dateTabled": "2026-06-11T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1915495,
+   "uin": "9295",
+   "heading": "Standing Advisory Councils on Religious Education",
+   "questionText": "To ask the Secretary of State for Education, what assessment she has made of the impact of local government reorganisation on local authorities' ability to (a) convene and (b) support Standing Advisory Councils for Religious Educations effectively.",
+   "dateTabled": "2026-06-11T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1915712,
+   "uin": "9462",
+   "heading": "Armoured Fighting Vehicles: Production",
+   "questionText": "To ask the Secretary of State for Defence, what assessment his Department has made of the potential impact of future UK production of the Patria 6x6 armoured vehicle on the economy; and when such production could begin.",
+   "dateTabled": "2026-06-12T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1915023,
+   "uin": "8913",
+   "heading": "Ministry of Defence: Contracts",
+   "questionText": "To ask the Secretary of State for Defence, what steps his Department is taking to reduce delays and overspend in Ministry of Defence contracts awarded to foreign contractors.",
+   "dateTabled": "2026-06-10T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1915020,
+   "uin": "8910",
+   "heading": "Boeing E-7: Procurement",
+   "questionText": "To ask the Secretary of State for Defence, what the status is of the RAF E-7 Wedgetail AWACS programme.",
+   "dateTabled": "2026-06-10T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1915497,
+   "uin": "9297",
+   "heading": "Religion: Education",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what guidance his Department provides on the role of Standing Advisory Councils for Religious Education in promoting social and community cohesion.",
+   "dateTabled": "2026-06-11T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1915019,
+   "uin": "8909",
+   "heading": "F-35 Aircraft: Procurement",
+   "questionText": "To ask the Secretary of State for Defence, whether his Department remains committed to the acquisition of 12 additional F-35A aircraft.",
+   "dateTabled": "2026-06-10T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1908876,
+   "uin": "3966",
+   "heading": "Diabetes: Medical Devices",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps his Department plans to take to increase the uptake of continuous glucose monitoring technology for people with type 2 diabetes in North Durham.",
+   "dateTabled": "2026-05-21T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1908875,
+   "uin": "3965",
+   "heading": "Diabetes: Medical Devices",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps his Department is taking to support the use of medical technologies that help people living with diabetes in North Durham constituency to (a) better understand the impact of (i) diet and",
+   "dateTabled": "2026-05-21T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1908873,
+   "uin": "3963",
+   "heading": "Diabetes: Medical Devices",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment his Department has made of the adequacy of access to continuous glucose monitoring technology for patients with type 2 diabetes in North Durham constituency; and what comparative as",
+   "dateTabled": "2026-05-21T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1915022,
+   "uin": "8912",
+   "heading": "Armed Forces: Pay",
+   "questionText": "To ask the Secretary of State for Defence, whether he expects the proportion of the defence resource budget allocated to service and civilian staff pay to increase between now and 2029-30.",
+   "dateTabled": "2026-06-10T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1915021,
+   "uin": "8911",
+   "heading": "Ministry of Defence: Contracts",
+   "questionText": "To ask the Secretary of State for Defence, what the total value of financial penalties incurred by defence companies holding Ministry of Defence contracts has been as a result of delays, cost overruns, or non-delivery, broken down by (a) UK-owned companie",
+   "dateTabled": "2026-06-10T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1915018,
+   "uin": "8908",
+   "heading": "Unmanned Air Systems",
+   "questionText": "To ask the Secretary of State for Defence, whether his Department has assessed the potential effectiveness of using acoustic and ultrasound technology to detect drones.",
+   "dateTabled": "2026-06-10T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1913764,
+   "uin": "7755",
+   "heading": "Police: Finance",
+   "questionText": "To ask the Secretary of State for the Home Department, whether she will publish a fully costed plan to reach the Police Efficiency and Collaboration Programme’s target of £354 million in savings by 2028-29.",
+   "dateTabled": "2026-06-08T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1913765,
+   "uin": "7756",
+   "heading": "Gender Based Violence: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for the Home Department, what role Artificial Intelligence tools will play in the Government’s pledge to halve violence against women and girls by 2034.",
+   "dateTabled": "2026-06-08T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1913763,
+   "uin": "7754",
+   "heading": "Neighbourhood Policing: Staff",
+   "questionText": "To ask the Secretary of State for the Home Department, what role new technology adoption and efficiency tools, including artificial intelligence, will play in reaching the Neighbourhood Policing Guarantee target of 13,000 additional police personnel.",
+   "dateTabled": "2026-06-08T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1913766,
+   "uin": "7757",
+   "heading": "Police: Technology",
+   "questionText": "To ask the Secretary of State for the Home Department, which police forces in England and Wales have procured and adopted new technologies and efficiency tools including artificial intelligence; and if she will provide an update on the progress of the ado",
+   "dateTabled": "2026-06-08T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1913646,
+   "uin": "7753",
+   "heading": "Neighbourhood Policing: Staff",
+   "questionText": "To ask the Secretary of State for the Home Department, whether the Government is on track to reach its Neighbourhood Policing Guarantee target of 13,000 additional police personnel.",
+   "dateTabled": "2026-06-08T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1910738,
+   "uin": "5667",
+   "heading": "Joint Expeditionary Force",
+   "questionText": "To ask the Secretary of State for Defence, what assessment his Department has made of the potential merits of an expanded role for the Joint Expeditionary Force in European security over the coming years.",
+   "dateTabled": "2026-06-01T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1910734,
+   "uin": "5663",
+   "heading": "Unmanned Air Systems: Ukraine",
+   "questionText": "To ask the Secretary of State for Defence, what steps his Department is taking to help ensure that the economic benefits from the Ukraine drone package are distributed across all regions of the United Kingdom, including the North East of England; and what",
+   "dateTabled": "2026-06-01T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1910731,
+   "uin": "5660",
+   "heading": "Unmanned Air Systems",
+   "questionText": "To ask the Secretary of State for Defence, what assessment he has made of the threat posed by hostile drone activity to UK critical national infrastructure, what steps his Department is taking to develop (a) drone jamming and (b) electronic signal disrupt",
+   "dateTabled": "2026-06-01T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1910743,
+   "uin": "5672",
+   "heading": "Diethylstilbestrol: Side Effects",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps his Department is taking to support individuals affected by Diethylstilbestrol.",
+   "dateTabled": "2026-06-01T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1910739,
+   "uin": "5668",
+   "heading": "USA: Weapons",
+   "questionText": "To ask the Secretary of State for Defence, whether any Ministry of Defence procurement has been adversely impacted by delays in the delivery of USA-manufactured weapons as a result of the conflict in Iran.",
+   "dateTabled": "2026-06-01T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1910737,
+   "uin": "5666",
+   "heading": "Unmanned Air Systems",
+   "questionText": "To ask the Secretary of State for Defence, what funding has been allocated from the up to £1 billion announced for UK air and missile defence specifically to counter-drone technologies; and what proportion of that funding is directed toward industry-led i",
+   "dateTabled": "2026-06-01T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1910733,
+   "uin": "5662",
+   "heading": "Ukraine: Unmanned Air Systems",
+   "questionText": "To ask the Secretary of State for Defence, what assessment he has made of whether the UK/EU–Ukraine Defence Innovation Corridor could help UK drone manufacturers benefiting from the Ukraine drone package to develop longer-term co-production and technology",
+   "dateTabled": "2026-06-01T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1910730,
+   "uin": "5659",
+   "heading": "Defence Equipment: Procurement",
+   "questionText": "To ask the Secretary of State for Defence, what discussions his Department has had with UK (a) SMEs and (b) early-stage defence technology companies on developing (i) counter-drone and (ii) electronic warfare capabilities informed by lessons from Ukraine.",
+   "dateTabled": "2026-06-01T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1910729,
+   "uin": "5658",
+   "heading": "Defence Equipment: Procurement",
+   "questionText": "To ask the Secretary of State for Defence, with reference to the Answer of 20 April 2026 to Question 125978, what metrics his Department is using to assess the effectiveness of the learn and adapt cycle referenced in relation to lessons from Ukraine; and ",
+   "dateTabled": "2026-06-01T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1910727,
+   "uin": "5656",
+   "heading": "Ballistic Missile Defence: Procurement",
+   "questionText": "To ask the Secretary of State for Defence, what milestones and timelines will be set out in the Defence Investment Plan for the delivery of Integrated Air and Missile Defence capabilities, including counter-drone systems and electromagnetic warfare.",
+   "dateTabled": "2026-06-01T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1910732,
+   "uin": "5661",
+   "heading": "Ukraine: Unmanned Air Systems",
+   "questionText": "To ask the Secretary of State for Defence, what steps his Department is taking to ensure investment into the drone package for Ukraine helps generate sustained UK domestic industrial capacity.",
+   "dateTabled": "2026-06-01T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1910740,
+   "uin": "5669",
+   "heading": "General Lighthouse Authorities",
+   "questionText": "To ask the Secretary of State for Transport, what assessment her Department has made of the effectiveness of the General Lighthouse Authorities in ensuring resilience in maritime security.",
+   "dateTabled": "2026-06-01T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1911977,
+   "uin": "6587",
+   "heading": "National Security: Contracts",
+   "questionText": "To ask the Minister for the Cabinet Office, what recent assessment he has made of the adequacy of public procurement policy in prioritising (a) strategic resilience and (b) national security.",
+   "dateTabled": "2026-06-03T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1911976,
+   "uin": "6586",
+   "heading": "Manufacturing Industries: Contracts",
+   "questionText": "To ask the Minister for the Cabinet Office, if he will make it her policy to increase the proportion of public contracts awarded to UK-based manufacturers, including shipyards.",
+   "dateTabled": "2026-06-03T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1911975,
+   "uin": "6585",
+   "heading": "Shipbuilding: Contracts",
+   "questionText": "To ask the Minister for the Cabinet Office, what steps he is taking through public procurement policy to support UK shipyards to compete for Government contracts.",
+   "dateTabled": "2026-06-03T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1910736,
+   "uin": "5665",
+   "heading": "Ukraine: Defence",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what diplomatic engagement the UK has undertaken with EU partners to clarify the governance, membership criteria, and decision-making structures of the UK/EU–Ukraine Defence ",
+   "dateTabled": "2026-06-01T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1910735,
+   "uin": "5664",
+   "heading": "Defence: Ukraine",
+   "questionText": "To ask the Secretary of State for Business and Trade, what assessment his Department has made of the potential for the UK/EU–Ukraine Defence Innovation Corridor to generate inward investment and export contracts for UK companies.",
+   "dateTabled": "2026-06-01T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1910741,
+   "uin": "5670",
+   "heading": "Diethylstilbestrol: Side Effects",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the long-term health impacts associated with exposure to Diethylstilbestrol (DES).",
+   "dateTabled": "2026-06-01T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1908295,
+   "uin": "3635",
+   "heading": "Shipbuilding",
+   "questionText": "To ask the Secretary of State for Defence, whether subcontracting the construction of Royal Navy support vessels to a Dutch shipbuilder is consistent with the objectives of the National Shipbuilding Strategy.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1908294,
+   "uin": "3634",
+   "heading": "Russia: National Security",
+   "questionText": "To ask the Secretary of State for Defence, what assessment his Department has made of the risk to national security of outsourcing sensitive defence infrastructure to private sub-contractors accused of breaching sanctions against Russia.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1908301,
+   "uin": "3641",
+   "heading": "Taiwan: World Health Assembly",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what recent assessment she has made of the impact of Taiwan’s exclusion from the World Health Organization on global (a) health co-operation and (b) pandemic preparedness.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1908300,
+   "uin": "3640",
+   "heading": "Taiwan: World Health Assembly",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what recent discussions she has had with the World Health Organization on Taiwan’s participation in WHO meetings, activities and mechanisms.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1908298,
+   "uin": "3638",
+   "heading": "Taiwan: World Health Assembly",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, whether the UK supports Taiwan’s participation as an observer at the 78th World Health Assembly.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1908297,
+   "uin": "3637",
+   "heading": "Border Force: Contracts",
+   "questionText": "To ask the Secretary of State for the Home Department, whether UK shipyards will be (a) invited and (b) supported to tender for the Border Force’s new patrol vessel programme.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1908296,
+   "uin": "3636",
+   "heading": "Border Force: Contracts",
+   "questionText": "To ask the Secretary of State for the Home Department, whether she is taking steps to ensure that the contract to renew the Border Force coastal patrol fleet will be awarded to domestic shipyards.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1908292,
+   "uin": "3632",
+   "heading": "Shipbuilding",
+   "questionText": "To ask the Secretary of State for Defence, with reference to answer HL12150, what assessment his Department has made of the impact of the Procurement Act 2023 on increasing the volume of Ministry of Defence-related work for the UK ship-building sector.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1908290,
+   "uin": "3630",
+   "heading": "Shipbuilding",
+   "questionText": "To ask the Secretary of State for Defence, whether his Department plans to increase the proportion of Government ship-building contracts awarded to contractors manufacturing in UK shipyards.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1908289,
+   "uin": "3629",
+   "heading": "Shipbuilding",
+   "questionText": "To ask the Secretary of State for Defence, what steps his Department has taken to support UK shipyards to tender for defence procurement contracts.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1908288,
+   "uin": "3628",
+   "heading": "Visas: Iran",
+   "questionText": "To ask the Secretary of State for the Home Department, what steps her Department has taken to ensure that the visa sponsorship process includes checks against intelligence assessments of Iranian-linked networks.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1908291,
+   "uin": "3631",
+   "heading": "Defence: Procurement",
+   "questionText": "To ask the Secretary of State for Defence, if his Department will increase the proportion of domestic sub-contractors used by Ministry of Defence contractors.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1905039,
+   "uin": "961",
+   "heading": "Fuels: Civil Society",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what assessment he has made of the potential impact of increases in fuel costs on voluntary, community and social enterprise (VCSE) organisations; and whether he plans to extend support measu",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1905037,
+   "uin": "959",
+   "heading": "Health Services: Men",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference Answer of 9 February 2026 to Question HL14107, whether his Department has plans to assess the health needs of male veterans and service personnel in particular.",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1905049,
+   "uin": "971",
+   "heading": "Defence: Procurement",
+   "questionText": "To ask the Secretary of State for Defence, what assessment his Department has made of the potential impact of neo-prime defence companies on returns on investment for defence procurement.",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1905047,
+   "uin": "969",
+   "heading": "Defence: Technology",
+   "questionText": "To ask the Secretary of State for Defence, how his Department intends to evaluate progress towards increasing the proportion of defence spending directed towards emerging technologies during this Parliament.",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1905043,
+   "uin": "965",
+   "heading": "Defence: Software",
+   "questionText": "To ask the Secretary of State for Defence, what steps his Department is taking to improve access to defence research and development funding for small and medium-sized businesses specialising in software, artificial intelligence, and data analytics.",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1905041,
+   "uin": "963",
+   "heading": "Defence: Software",
+   "questionText": "To ask the Secretary of State for Defence, what assessment his Department has made of the role of software firms in advancing defence research and development, compared to traditional prime defence contractors.",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1905040,
+   "uin": "962",
+   "heading": "Defence: Procurement",
+   "questionText": "To ask the Secretary of State for Defence, how his Department defines novel technologies, with regard to the commitment in the Strategic Defence Review that at least 10 per cent of equipment spending be allocated to such technologies.",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1905045,
+   "uin": "967",
+   "heading": "Defence: Technology",
+   "questionText": "To ask the Secretary of State for Defence, what steps his Department is taking to ensure that UK-based defence technology firms are able to remain internationally competitive with firms in allied countries.",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1905044,
+   "uin": "966",
+   "heading": "Defence: Procurement",
+   "questionText": "To ask the Secretary of State for Defence, what changes his Department has made to defence procurement since 2024 to reduce barriers to entry for non-traditional defence suppliers, including businesses specialising in software, artificial intelligence, an",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1900923,
+   "uin": "128143",
+   "heading": "Gender Dysphoria: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many people are currently on the waiting list for gender dysphoria clinics in i) the North East of England and ii) nationally.",
+   "dateTabled": "2026-04-17T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1900922,
+   "uin": "128142",
+   "heading": "Gender Dysphoria: North East",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment his Department has made of the adequacy of the provision of gender dysphoria clinics in the North East of England.",
+   "dateTabled": "2026-04-17T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1899966,
+   "uin": "127574",
+   "heading": "Social Rented Housing: Applications",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what steps he is taking to assess the number of people who are not able to access a social home due to pre-tenancy affordability checks.",
+   "dateTabled": "2026-04-15T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1889382,
+   "uin": "119573",
+   "heading": "Armed Forces: Standards",
+   "questionText": "To ask the Secretary of State for Defence, what progress has been made on improving the lethality of the armed forces since the publication of the Strategic Defence Review.",
+   "dateTabled": "2026-03-10T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1898282,
+   "uin": "126228",
+   "heading": "Ukraine: Innovation and Technology",
+   "questionText": "To ask the Secretary of State for Defence, what assessment he has made of the potential implications for his policies on UK air and missile defence of Ukraine’s approach to air defence, including the role of trained personnel and real-time coordination.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1898032,
+   "uin": "125978",
+   "heading": "Ukraine: Innovation and Technology",
+   "questionText": "To ask the Secretary of State for Defence, what steps his Department is taking to incorporate lessons from Ukraine into the development of UK air and missile defence capabilities, including counter-drone systems and electronic warfare.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1898035,
+   "uin": "125981",
+   "heading": "Ukraine: Exports",
+   "questionText": "To ask the Secretary of State for Defence, what steps his Department is taking to assess the potential for UK companies to access future partnership and export opportunities arising from the UK/EU–Ukraine Defence Innovation Corridor.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1898034,
+   "uin": "125980",
+   "heading": "Ukraine: Innovation and Technology",
+   "questionText": "To ask the Secretary of State for Defence, whether his Department plans to engage with early-stage initiatives such as the UK/EU–Ukraine Defence Innovation Corridor to support collaboration on defence innovation and capability development.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1898041,
+   "uin": "125987",
+   "heading": "Firearms: Manufacturing Industries",
+   "questionText": "To ask the Secretary of State for Defence, what assessment the Department has made of the potential strategic benefits of restoring sovereign UK capability for the manufacture, maintenance and through-life support of small arms used by the British Armed F",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1898037,
+   "uin": "125983",
+   "heading": "Rifles: Procurement",
+   "questionText": "To ask the Secretary of State for Defence, what the proposed timeline is for Project GRAYBURN, including the anticipated date of contract award; and what assessment his Department has made of the principal risks to delivering the first 10,000 new weapons ",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1898038,
+   "uin": "125984",
+   "heading": "Rifles: Procurement",
+   "questionText": "To ask the Secretary of State for Defence, what assessment the Department has made of the industrial lead times associated with establishing UK small arms manufacturing capacity for Project GRAYBURN, including facilities, specialist machinery, and workfor",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1898031,
+   "uin": "125977",
+   "heading": "Ukraine: Innovation and Technology",
+   "questionText": "To ask the Secretary of State for Defence, what assessment he has made of the potential implications for (a) his Department’s policies and (b) the Strategic Defence Review of Ukraine’s use of rapidly developed battlefield technologies, particularly in rel",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1898040,
+   "uin": "125986",
+   "heading": "Rifles: Procurement",
+   "questionText": "To ask the Secretary of State for Defence, whether the Department is considering Project GRAYBURN as the anchor for a longer-term strategic supplier relationship covering wider dismounted close combat weapons and associated support.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1898039,
+   "uin": "125985",
+   "heading": "Rifles: Procurement",
+   "questionText": "To ask the Secretary of State for Defence, what assessment the Department has made of the operational risks of replacing the SA80 service weapon without including modern optics within the scope of Project GRAYBURN.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1898033,
+   "uin": "125979",
+   "heading": "Ukraine: Innovation and Technology",
+   "questionText": "To ask the Secretary of State for Defence, what plans he has to help ensure increased investment in defence innovation and supply chains arising from lessons learned in Ukraine for regional areas including North Durham.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1898279,
+   "uin": "126225",
+   "heading": "Hospices: Children",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the potential role of community-based social palliative care services for children in the context of his policy on shifting care from hospital to community settings.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1898278,
+   "uin": "126224",
+   "heading": "Hospices: Children",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the potential impact of the £80 million funding announced for children’s hospices in October 2025 on the (a) availability and (b) sustainability of community-based so",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1893822,
+   "uin": "122986",
+   "heading": "Foreign Influence Registration Scheme",
+   "questionText": "To ask the Secretary of State for the Home Department, pursuant to the Answer of 11 March 2026 to Question 117978 on Foreign Influence Registration Scheme, how many registrations have been entered on the enhanced tier since the scheme's inception; and whi",
+   "dateTabled": "2026-03-23T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1887406,
+   "uin": "117980",
+   "heading": "Apprentices: Public Sector",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what assessment she has made of the potential impact of changes to eligibility to funding for Level 7 apprenticeships from 1 January 2026 on workforce development in public services, including the NHS.",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1887409,
+   "uin": "117983",
+   "heading": "Apprentices: Finance",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what evidence his Department used to inform its decision to amend eligibility to funding for Level 7 apprenticeships from 1 January 2026; and if she will publish that evidence.",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1887407,
+   "uin": "117981",
+   "heading": "Apprentices: Finance",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what assessment she has made of the potential impact of changes to eligibility to funding for Level 7 apprenticeships from 1 January 2026 on regional inequality (a) in County Durham and (b) England.",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1887405,
+   "uin": "117979",
+   "heading": "Apprentices: Finance",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what assessment she has made of the potential impact of changes to eligibility to funding for Level 7 apprenticeships from 1 January 2026 on trends in the level of social mobility for people from low-in",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1887410,
+   "uin": "117984",
+   "heading": "Apprentices: Finance",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what alternative progression routes he plans to put in place for experienced staff affected by the cut to Level 7 apprenticeship funding who cannot afford postgraduate study but are expected to operate ",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1887408,
+   "uin": "117982",
+   "heading": "Apprentices: Finance",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what discussions he has had with employers on the level of support for retention, succession planning and productivity for jobs affected by the potential impact of changes to eligibility to funding for ",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1890648,
+   "uin": "120440",
+   "heading": "Defence: Procurement",
+   "questionText": "To ask the Secretary of State for Defence, what assessment he has made of the potential impact of the difference in time horizons between venture capital of three to four years, and defence procurement cycles that exceed a decade, on private investment in",
+   "dateTabled": "2026-03-12T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1890645,
+   "uin": "120437",
+   "heading": "France: Guided Weapons",
+   "questionText": "To ask the Secretary of State for Defence, whether his Department has examined options for cooperation with France on the M51.4 submarine-launched missile.",
+   "dateTabled": "2026-03-12T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1889387,
+   "uin": "119577",
+   "heading": "Armed Forces: Health",
+   "questionText": "To ask the Secretary of State for Defence, what proportion of serving British soldiers are classified as medically fit for immediate deployment; and how this compares to NATO readiness benchmarks.",
+   "dateTabled": "2026-03-10T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1886299,
+   "uin": "117127",
+   "heading": "Ajax Vehicles: Procurement",
+   "questionText": "To ask the Secretary of State for Defence, whether contractual mechanisms exist to recover costs if Ajax is cancelled; and what is the estimated financial exposure to the MoD.",
+   "dateTabled": "2026-03-02T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1886300,
+   "uin": "117128",
+   "heading": "Ajax Vehicles: Procurement",
+   "questionText": "To ask the Secretary of State for Defence, what is the timetable expected for a full safety report into Ajax family vehicles.",
+   "dateTabled": "2026-03-02T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1886298,
+   "uin": "117126",
+   "heading": "Ajax Vehicles: Procurement",
+   "questionText": "To ask the Secretary of State for Defence, what investigations are underway into the safety case for Ajax and the decision-making process that led to Initial Operating Capability being signed off.",
+   "dateTabled": "2026-03-02T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1890647,
+   "uin": "120439",
+   "heading": "Type 31 Frigates: Guided Weapons",
+   "questionText": "To ask the Secretary of State for Defence, whether his Department has made an assessment of the potential merits of converting Type 31 frigates into air-defence or land-attack variants through installation of Mk41 Vertical Launch Systems.",
+   "dateTabled": "2026-03-12T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1890646,
+   "uin": "120438",
+   "heading": "Armoured Fighting Vehicles: Procurement",
+   "questionText": "To ask the Secretary of State for Defence, what assessment he has made of the cumulative impact of delays to Challenger 3, Boxer, RCH155 and the Protected Mobility fleet on the British Army’s war-fighting ability.",
+   "dateTabled": "2026-03-12T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1889390,
+   "uin": "119578",
+   "heading": "Defence: Procurement",
+   "questionText": "To ask the Secretary of State for Defence, what steps his Department is taking to ensure that original equipment manufacturers pay their supply-chain suppliers within 30 days; what reporting and transparency requirements apply to foreign prime contractors",
+   "dateTabled": "2026-03-10T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1889229,
+   "uin": "119572",
+   "heading": "Apprentices: Finance",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what assessment he has made of the potential impact of changes to eligibility to funding for Level 7 apprenticeships from 1 January 2026 on raising the status and attractiveness of technical and vocatio",
+   "dateTabled": "2026-03-10T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1889392,
+   "uin": "119579",
+   "heading": "Defence: Procurement",
+   "questionText": "To ask the Secretary of State for Defence, what steps his Department takes to help ensure that overseas-owned original equipment manufacturers keep work in the UK supply chain in the event of delays or pauses to defence programmes.",
+   "dateTabled": "2026-03-10T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1889386,
+   "uin": "119576",
+   "heading": "Military Exercises",
+   "questionText": "To ask the Secretary of State for Defence, how many large-scale brigade-level live exercises have been conducted by the armed forces in the previous five years; and what assessment he has made of the potential impact of those exercises on operational read",
+   "dateTabled": "2026-03-10T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1889383,
+   "uin": "119574",
+   "heading": "Armed Forces: Pay",
+   "questionText": "To ask the Secretary of State for Defence, what assessment his Department has made of the potential impact of the retention payment introduced by the armed forces to private soldiers and lance corporals in 2025 on recruitment and retention of personnel.",
+   "dateTabled": "2026-03-10T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1889384,
+   "uin": "119575",
+   "heading": "Armed Forces: Health Services",
+   "questionText": "To ask the Secretary of State for Defence, what steps his Department is taking to improve the medical capacity of the armed forces.",
+   "dateTabled": "2026-03-10T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1888820,
+   "uin": "119022",
+   "heading": "Artillery: Ammunition",
+   "questionText": "To ask the Secretary of State for Defence, what steps his Department is taking to ensure sufficient artillery ammunition stockpiles for sustained operations in a peer-on-peer conflict.",
+   "dateTabled": "2026-03-09T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1888816,
+   "uin": "119018",
+   "heading": "Warships: Exports",
+   "questionText": "To ask the Secretary of State for Defence, what estimate he has made of the total value of recent UK warship exports, including those of the Type 26 and Type 31 frigate programmes.",
+   "dateTabled": "2026-03-09T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1888818,
+   "uin": "119020",
+   "heading": "Frigates: Procurement",
+   "questionText": "To ask the Secretary of State for Defence, what assessment he has made of the potential implications for his policies of trends in the levels of demand among allied navies for specialised anti-submarine warfare frigates.",
+   "dateTabled": "2026-03-09T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1888817,
+   "uin": "119019",
+   "heading": "Warships: Shipbuilding",
+   "questionText": "To ask the Secretary of State for Defence, what assessment he has made of the capacity of the UK shipbuilding industry to sustain the production of complex warships.",
+   "dateTabled": "2026-03-09T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1888819,
+   "uin": "119021",
+   "heading": "Type 31 Frigates: Repairs and Maintenance",
+   "questionText": "To ask the Secretary of State for Defence, what assessment he has made of the potential merits of adapting Type 31 frigates for enhanced air defence or strike roles to support carrier operations.",
+   "dateTabled": "2026-03-09T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1887416,
+   "uin": "117988",
+   "heading": "Ajax Vehicles: Procurement",
+   "questionText": "To ask the Secretary of State for Defence, what assessment his Department has made of the potential impact of cancelling the Ajax programme on planned British Army equipment numbers.",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1887417,
+   "uin": "117989",
+   "heading": "Army: Deployment",
+   "questionText": "To ask the Secretary of State for Defence, what assessment he has made of the equipment that would be required to enable a UK Army division to operate as a war-fighting formation.",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1887415,
+   "uin": "117987",
+   "heading": "Army: Defence Equipment",
+   "questionText": "To ask the Secretary of State for Defence, what assessment he has made of the adequacy of the level of war stocks held by the British Army to replace damaged or destroyed equipment in a high-intensity conflict.",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1887414,
+   "uin": "117986",
+   "heading": "Armoured Fighting Vehicles",
+   "questionText": "To ask the Secretary of State for Defence, what assessment he has made of the potential implications for this policies of the absence of a mechanised infantry combat vehicle in British Army equipment plans.",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1887412,
+   "uin": "117985",
+   "heading": "Apprentices: Finance",
+   "questionText": "To ask the Secretary of State for Health and Social Care, if he will make an assessment of the potential impact of reducing Level 7 apprenticeship funding on the delivery of the (a) NHS Long Term Workforce Plan and (b) Fit for the Future 10 Year Health Pl",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1886887,
+   "uin": "117513",
+   "heading": "Navy: Antisubmarine Warfare",
+   "questionText": "To ask the Secretary of State for Defence, whether anti-submarine warfare is the primary operational focus of the Royal Navy for the foreseeable future.",
+   "dateTabled": "2026-03-03T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1886888,
+   "uin": "117514",
+   "heading": "USA: Pacific",
+   "questionText": "To ask the Secretary of State for Defence, what assessment he has made of the potential implications for UK maritime security of the United States Navy placing increased strategic emphasis on the Pacific region.",
+   "dateTabled": "2026-03-03T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1887320,
+   "uin": "117978",
+   "heading": "Foreign Influence Registration Scheme",
+   "questionText": "To ask the Secretary of State for the Home Department, how many registrations have been made under the Foreign Influence Registration Scheme; and how many of those registrations have included the Islamic Republic of Iran.",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1886301,
+   "uin": "117129",
+   "heading": "Ajax Vehicles: Procurement",
+   "questionText": "To ask the Secretary of State for Defence, whether his Department expects to incur any cost of safety trials for Ajax vehicles.",
+   "dateTabled": "2026-03-02T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1886890,
+   "uin": "117516",
+   "heading": "Canada and Norway: Type 26 Frigates",
+   "questionText": "To ask the Secretary of State for Defence, what steps is his Department is taking to ensure interoperability of Type 26 frigates across UK, Canadian, and Norwegian fleets.",
+   "dateTabled": "2026-03-03T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1886889,
+   "uin": "117515",
+   "heading": "Navy: North Atlantic Ocean",
+   "questionText": "To ask the Secretary of State for Defence, what role general-purpose frigates within the Royal Navy will have following the development of the Atlantic Bastion concept.",
+   "dateTabled": "2026-03-03T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1886886,
+   "uin": "117512",
+   "heading": "Defence: North Atlantic Ocean",
+   "questionText": "To ask the Secretary of State for Defence, what discussions he has had with Canada, Norway, Denmark and the Netherlands on cooperation in the North Atlantic in connection with the Atlantic Bastion concept.",
+   "dateTabled": "2026-03-03T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1886885,
+   "uin": "117511",
+   "heading": "Type 26 Frigates: Procurement",
+   "questionText": "To ask the Secretary of State for Defence, how many Type 26 anti-submarine warfare frigates are expected to be available for operations in the North Atlantic in support of the Atlantic Bastion concept.",
+   "dateTabled": "2026-03-03T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1886302,
+   "uin": "117130",
+   "heading": "Armoured Fighting Vehicles: Intellectual Property",
+   "questionText": "To ask the Secretary of State for Defence, what steps his Department is taking to help ensure future armoured vehicle programmes secure intellectual property rights to avoid sole-source support contracts.",
+   "dateTabled": "2026-03-02T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1886292,
+   "uin": "116853",
+   "heading": "Motability Scheme: Armed Forces and Veterans",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what assessment he has made of the role of the Motability Scheme in supporting service personnel and disabled veterans and to access transport solutions.",
+   "dateTabled": "2026-03-02T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1883251,
+   "uin": "114606",
+   "heading": "Coal: Regeneration",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what plans the Ministry has to support economic growth in former coalfield communities; and what discussions he has had with the Coalfields Regeneration Trust on its proposal for",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1883252,
+   "uin": "114607",
+   "heading": "Coal: Regeneration",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what assessment he has made of the potential impact on former coalfield communities not covered by the Pride in Place programme of current government growth funding; and what con",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1886291,
+   "uin": "116852",
+   "heading": "Motability Scheme: Exhaust Emissions",
+   "questionText": "To ask the Secretary of State for Transport, what assessment her Department has made of the potential impact of the Motability Scheme in supporting the work to meet ZEV mandate targets.",
+   "dateTabled": "2026-03-02T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1886294,
+   "uin": "116855",
+   "heading": "Transport: Disability",
+   "questionText": "To ask the Secretary of State for Transport, what assessment her Department has made of the potential impact of barriers to transport faced by disabled people across the UK on disabled people; and what steps are being taken to deliver transport equity for",
+   "dateTabled": "2026-03-02T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1886293,
+   "uin": "116854",
+   "heading": "Motability Scheme: North East",
+   "questionText": "To ask the Secretary of State for Business and Trade, what assessment the Department has made of the potential impact of the Motability Scheme in supporting the automotive sector in the North East.",
+   "dateTabled": "2026-03-02T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1884435,
+   "uin": "115520",
+   "heading": "Defence: Finance",
+   "questionText": "To ask the Secretary of State for Defence, what discussions he has had with industry stakeholders on mitigating the impact of delays to the Defence Investment Plan on investment planning.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1884434,
+   "uin": "115519",
+   "heading": "F-35 Aircraft: Procurement",
+   "questionText": "To ask the Secretary of State for Defence, what estimate he has made of the number of F-35As that need to be procured to undertake training for the wider UK F-35 fleet and perform the tactical nuclear delivery mission.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1884432,
+   "uin": "115518",
+   "heading": "F-35 Aircraft: Procurement",
+   "questionText": "To ask the Secretary of State for Defence, what estimate he has made of the cost of the announcement that 12 F-35As will be bought, beyond the £1.1 billion already announced, once weapons, simulators, and infrastructure are taken into account.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1884429,
+   "uin": "115516",
+   "heading": "Oppression",
+   "questionText": "To ask the Secretary of State for the Home Department, if her Department will develop a transnational repression framework to enable the police to recognise and tackle transnational repression.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1882601,
+   "uin": "114367",
+   "heading": "Francesca Albanese",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, whether the UK will join France in calling for the resignation of UN special rapporteur for the Palestinian territories Ms. Francesca Albanese.",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1884430,
+   "uin": "115517",
+   "heading": "Forced Labour: Uyghurs",
+   "questionText": "To ask the Secretary of State for Business and Trade, whether his Department has made an assessment of the effectiveness of the United States’ Uyghur Forced Labor Prevention Act; and whether he plans to introduce similar legislation.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1883745,
+   "uin": "114958",
+   "heading": "Tourette's Syndrome: Diagnosis and Medical Treatments",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps his Department is taking to improve (a) diagnostic and (b) treatment pathways for Tourette syndrome in areas of England that do not have a dedicated service.",
+   "dateTabled": "2026-02-23T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1883744,
+   "uin": "114957",
+   "heading": "Tourette's Syndrome: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether his Department is taking steps to help improve Tourette syndrome services in every region.",
+   "dateTabled": "2026-02-23T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1883743,
+   "uin": "114956",
+   "heading": "Tourette's Syndrome: Diagnosis and Medical Treatments",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what plans his Department has to ensure that Integrated Care Boards provide clear diagnostic and treatment pathways for children and adults with Tourette syndrome.",
+   "dateTabled": "2026-02-23T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1883742,
+   "uin": "114955",
+   "heading": "Tourette's Syndrome: Diagnosis and Medical Treatments",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether he plans to (a) include Tourette syndrome in neurodevelopmental strategy work and (b) mandate Integrated Care Boards to establish diagnostic and treatment pathways similar to those for auti",
+   "dateTabled": "2026-02-23T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1883204,
+   "uin": "114559",
+   "heading": "Emergencies: Public Service Broadcasting",
+   "questionText": "To ask the Minister for the Cabinet Office, what comparative assessment he has made of the resilience of a broadcast-based digital terrestrial television platform with an internet-only service during (a) widespread power outages, (b) cyber incidents, and ",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1884426,
+   "uin": "115515",
+   "heading": "Nicaragua: Human Rights",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what assessment she has made of the human rights situation in Nicaragua.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1883205,
+   "uin": "114560",
+   "heading": "Digital Broadcasting: Television",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what assessment she has made of the potential impact of switching off digital terrestrial television on levels of digital and social exclusion among older people, disabled people, those on low in",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1883202,
+   "uin": "114557",
+   "heading": "Digital Broadcasting: Television",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what estimate she has made of the (a) one-off and (b) ongoing costs to households, including those with low incomes and in fuel poverty, of a switch-off of the digital terrestrial television netw",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1883201,
+   "uin": "114556",
+   "heading": "Future of TV Distribution Stakeholder Forum",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what recent progress has the Future of TV Distribution Stakeholder Forum made.",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1883248,
+   "uin": "114603",
+   "heading": "Small Businesses",
+   "questionText": "To ask the Chancellor of the Exchequer, what steps her Department is taking to ensure small and mid-sized quoted companies (a) invest in and (b) are listed in the UK.",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1882600,
+   "uin": "114366",
+   "heading": "Iran: Elections",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, whether the UK objected to the recent election of Abbas Tajik of Iran as a Vice-Chair to the Bureau for the sixty-fifth session of the UN's Commission for Social Development.",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1883203,
+   "uin": "114558",
+   "heading": "Digital Broadcasting: Television",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, whether the Government has carried out scenario testing of the potential impact of the switch-off of digital terrestrial television on emergency communications.",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1883250,
+   "uin": "114605",
+   "heading": "Companies: Audit",
+   "questionText": "To ask the Secretary of State for Business and Trade, what plans his Department has to reform corporate reporting requirements to support economic growth and competitiveness.",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1883249,
+   "uin": "114604",
+   "heading": "Companies: Audit",
+   "questionText": "To ask the Secretary of State for Business and Trade, what steps his Department is taking to ensure that audit requirements are accessible and affordable for small and mid-sized quoted companies.",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1883247,
+   "uin": "114602",
+   "heading": "Companies: Audit",
+   "questionText": "To ask the Secretary of State for Business and Trade, what steps his Department is taking to simplify audit requirements for quoted companies.",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1880819,
+   "uin": "112794",
+   "heading": "Neurology: Health Professions",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the potential impact of the absence of a regular, comprehensive national workforce census on neurology workforce planning; and if he will commit to establishing such ",
+   "dateTabled": "2026-02-11T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1880821,
+   "uin": "112795",
+   "heading": "Neurology: Health Professions",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the potential merits of increased funding and planning for the neurology workforce; and what steps his Department is taking to increase neurology specialty training p",
+   "dateTabled": "2026-02-11T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1880818,
+   "uin": "112793",
+   "heading": "Neurology: Health Professions",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps is his Department taking to increase neurology specialty training posts and consultant neurologist numbers.",
+   "dateTabled": "2026-02-11T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1880817,
+   "uin": "112792",
+   "heading": "Neurology: Health Professions",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the potential implications for his policies of the Association of British Neurologists’ Workforce Report 2025, which shows that the UK has approximately 1–2 consultan",
+   "dateTabled": "2026-02-11T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1877590,
+   "uin": "110165",
+   "heading": "Palestine: Curriculum",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, pursuant to the answer to Question 104985, whether the Government is aware of which independent audit firm the Palestinian Authority has contracted to complete the review of ",
+   "dateTabled": "2026-02-02T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1875985,
+   "uin": "109320",
+   "heading": "Students: Grants",
+   "questionText": "To ask the Secretary of State for Education, what steps she is taking to ensure that reintroduced maintenance grants reach students who need them most; what proportion of the student population will be eligible for support; and what steps she is taking to",
+   "dateTabled": "2026-01-28T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1875986,
+   "uin": "109321",
+   "heading": "Higher Education: Finance",
+   "questionText": "To ask the Secretary of State for Education, what estimate her Department has made of the (a) revenue from the international student levy on higher education providers’ income from international students and (b) cost of introducing maintenance grants for ",
+   "dateTabled": "2026-01-28T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1874899,
+   "uin": "108392",
+   "heading": "Derwentside Immigration Removal Centre: Transport",
+   "questionText": "To ask the Secretary of State for the Home Department, how the siting and operation of the proposed new vehicle base will improve the logistical servicing of Derwentside IRC; and what interim arrangements are being made to improve escorting and transport ",
+   "dateTabled": "2026-01-26T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1876389,
+   "uin": "109322",
+   "heading": "Companies: Registration",
+   "questionText": "To ask the Secretary of State for Business and Trade, what steps are being taken to prevent organisations with extreme proximity to sanctioned groups, individuals, and jurisdictions from establishing UK-registered companies.",
+   "dateTabled": "2026-01-28T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1876390,
+   "uin": "109323",
+   "heading": "Cancer: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps he is taking to ensure that the views and lived experience of teenagers and young adults with cancer are being incorporated into his forthcoming national cancer plan; and how their invol",
+   "dateTabled": "2026-01-28T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1870280,
+   "uin": "104976",
+   "heading": "Electric Vehicles: Buses",
+   "questionText": "To ask the Secretary of State for Transport, what assessment her Department has made of the risk that electric buses operating in the UK could be remotely rendered inoperable via their internet-connected systems by hostile state actors.",
+   "dateTabled": "2026-01-12T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1870299,
+   "uin": "104985",
+   "heading": "Palestine: Curriculum",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, pursuant to the Answer of 16 December 2025 to Question 98592, what independent audit firm the Palestinian Authority has contracted to complete the review of curriculum reform",
+   "dateTabled": "2026-01-12T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1869029,
+   "uin": "103983",
+   "heading": "Military Alliances",
+   "questionText": "To ask the Secretary of State for Defence, whether there are any formal agreements in place with allied nations for the provision of ground-based air defence for the UK homeland.",
+   "dateTabled": "2026-01-07T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1869030,
+   "uin": "103984",
+   "heading": "Unmanned Air Systems",
+   "questionText": "To ask the Secretary of State for Defence, what progress has been made on developing a policy for the active engagement of unmanned aerial systems.",
+   "dateTabled": "2026-01-07T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1869033,
+   "uin": "103986",
+   "heading": "Guided Weapons: National Security",
+   "questionText": "To ask the Secretary of State for Defence, whether his Department has reviewed existing command arrangements for ground-based air defence in relation to the protection of critical national infrastructure.",
+   "dateTabled": "2026-01-07T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1869031,
+   "uin": "103985",
+   "heading": "Guided Weapons",
+   "questionText": "To ask the Secretary of State for Defence, whether his Department has assessed the role of air defence artillery systems in countering unmanned aerial systems.",
+   "dateTabled": "2026-01-07T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1869022,
+   "uin": "103981",
+   "heading": "Guided Weapons: Procurement",
+   "questionText": "To ask the Secretary of State for Defence, how many additional Aster 30 missiles have been ordered for the Type 45 destroyer fleet since 2022.",
+   "dateTabled": "2026-01-07T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1869021,
+   "uin": "103980",
+   "heading": "Guided Weapons",
+   "questionText": "To ask the Secretary of State for Defence, how many Starstreak and Lightweight Modular Missiles have been ordered since 2022 to replace stocks donated to Ukraine.",
+   "dateTabled": "2026-01-07T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1869020,
+   "uin": "103979",
+   "heading": "Guided Weapons",
+   "questionText": "To ask the Secretary of State for Defence, what assessment he has made of current UK stockpiles of short-range ground-based air defence missiles compared with stock levels held in 2022.",
+   "dateTabled": "2026-01-07T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1869027,
+   "uin": "103982",
+   "heading": "Guided Weapons: Procurement",
+   "questionText": "To ask the Secretary of State for Defence, whether spending on UK ground-based air defence and Integrated Air and Missile Defence effectors will be deferred until the 2030s.",
+   "dateTabled": "2026-01-07T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1869017,
+   "uin": "103978",
+   "heading": "Guided Weapons: Finance",
+   "questionText": "To ask the Secretary of State for Defence, what proportion of planned expenditure on UK Integrated Air and Missile Defence during the current Parliament will be allocated to effectors, as opposed to sensors and command-and-control systems.",
+   "dateTabled": "2026-01-07T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1869015,
+   "uin": "103977",
+   "heading": "Guided Weapons",
+   "questionText": "To ask the Secretary of State for Defence, what assessment he has made of the adequacy of the UK’s ground-based air defence capability in the event of the UK having to operate without direct United States support.",
+   "dateTabled": "2026-01-07T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1869379,
+   "uin": "907243",
+   "heading": "Health Professions: Hazardous Substances",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what steps his Department is taking to protect NHS workers from occupational exposure to hazardous medicinal products.",
+   "dateTabled": "2026-01-07T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1857036,
+   "uin": "94487",
+   "heading": "Guided Weapons and Unmanned Air Systems",
+   "questionText": "To ask the Secretary of State for Defence, what (a) current and (b) planned capabilities the UK has for defence against attacks by (i) cruise missiles, (ii) drone swarms and (iii) ballistic missiles.",
+   "dateTabled": "2025-11-25T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1862107,
+   "uin": "98590",
+   "heading": "Neurology: Neighbourhood Health Centres",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what guidance has been issued to Neighbourhood Health Centre sites on integrating specialist neurology services with neighbourhood-based care teams.",
+   "dateTabled": "2025-12-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1862106,
+   "uin": "98589",
+   "heading": "Neurology: Neighbourhood Health Centres",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many of the first-wave Neighbourhood Health Centre sites have prioritised neurology within a) initial service plans and b) delivery models.",
+   "dateTabled": "2025-12-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1862109,
+   "uin": "98592",
+   "heading": "Palestine: Curriculum",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, pursuant to the Answer of 29 October 2025 to Question 79968, whether she plans to publish the findings of the independent audit of Palestinian Authority curriculum reform.",
+   "dateTabled": "2025-12-09T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1862108,
+   "uin": "98591",
+   "heading": "Palestine: Textbooks",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, whether she plans to review elements of UK support for the Palestinian Authority in the context of textbooks for the 2025–26 school year.",
+   "dateTabled": "2025-12-09T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1856945,
+   "uin": "94418",
+   "heading": "Glioblastoma: Mortality Rates",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps he is taking to improve glioblastoma survival rates.",
+   "dateTabled": "2025-11-25T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1857044,
+   "uin": "94495",
+   "heading": "Unmanned Air Systems: Procurement",
+   "questionText": "To ask the Secretary of State for Defence, how many unmanned aerial vehicles the armed forces have procured in 2025 and will procure in 2026.",
+   "dateTabled": "2025-11-25T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1857031,
+   "uin": "94482",
+   "heading": "Guided Weapons: Procurement",
+   "questionText": "To ask the Secretary of State for Defence, whether his Department plans to expand the Short-Range and Medium-Range Air Defence launcher fleet beyond the eight Sky Sabre units set out in the Strategic Defence Review.",
+   "dateTabled": "2025-11-25T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1857042,
+   "uin": "94493",
+   "heading": "Hawk Aircraft: Procurement",
+   "questionText": "To ask the Secretary of State for Defence, whether the replacement for Hawk fast jet trainer aircraft will be manufactured in the UK.",
+   "dateTabled": "2025-11-25T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1857040,
+   "uin": "94491",
+   "heading": "Defence Equipment: Procurement",
+   "questionText": "To ask the Secretary of State for Defence, what assessment he has made of the UK’s ability to sustain production of major defence equipment during a high-intensity conflict without reliance on overseas supply chains.",
+   "dateTabled": "2025-11-25T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1857039,
+   "uin": "94490",
+   "heading": "Challenger Tanks: Procurement",
+   "questionText": "To ask the Secretary of State for Defence, what assessment he has made of the UK’s ability to improve Challenger 3 production rates.",
+   "dateTabled": "2025-11-25T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1857037,
+   "uin": "94488",
+   "heading": "Boxer Vehicles: Procurement",
+   "questionText": "To ask the Secretary of State for Defence, what steps he is taking to expand the UK industrial footprint for Boxer vehicle assembly to increase surge capacity in the event of a prolonged conflict.",
+   "dateTabled": "2025-11-25T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1857034,
+   "uin": "94485",
+   "heading": "Guided Weapons: Finance",
+   "questionText": "To ask the Secretary of State for Defence, what assessment he has made of the potential operational risks arising from reliance on funding from European allies in Ground-Based Air Defence and Integrated Air and Missile Defence.",
+   "dateTabled": "2025-11-25T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1857046,
+   "uin": "94497",
+   "heading": "Defence: Procurement",
+   "questionText": "To ask the Secretary of State for Defence, what progress he has made on reducing procurement timelines for major military platforms from six years to two.",
+   "dateTabled": "2025-11-25T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1857033,
+   "uin": "94484",
+   "heading": "Conventional Weapons and Tanks: Procurement",
+   "questionText": "To ask the Secretary of State for Defence, what the current lead times are for procuring new tanks, artillery systems and missile platform and how do those times compare to other NATO countries; and what steps he is taking to reduce those timelines.",
+   "dateTabled": "2025-11-25T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1857030,
+   "uin": "94481",
+   "heading": "Artillery: Procurement",
+   "questionText": "To ask the Secretary of State for Defence, whether additional 155mm artillery shell production orders will be placed with BAE Systems’ Washington plant.",
+   "dateTabled": "2025-11-25T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1857022,
+   "uin": "94473",
+   "heading": "Guided Weapons: Procurement",
+   "questionText": "To ask the Secretary of State for Defence, what assessment has been made of whether current and planned orders for Starstreak and Lightweight Modular Missiles are sufficient to replenish stockpiles provided to Ukraine.",
+   "dateTabled": "2025-11-25T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1857021,
+   "uin": "94472",
+   "heading": "Artillery: Procurement",
+   "questionText": "To ask the Secretary of State for Defence, what the status is of the Remote Controlled Howitzer (RCH) 155 gun system programme.",
+   "dateTabled": "2025-11-25T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1857018,
+   "uin": "94469",
+   "heading": "Type 45 Destroyers: Guided Weapons",
+   "questionText": "To ask the Secretary of State for Defence, what progress has been made on adapting Type 45 destroyers to carry Sea Ceptor missiles.",
+   "dateTabled": "2025-11-25T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1857017,
+   "uin": "94468",
+   "heading": "Global Combat Air Programme",
+   "questionText": "To ask the Secretary of State for Defence, what the status is of the Future Combat Air System Tempest programme.",
+   "dateTabled": "2025-11-25T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1857016,
+   "uin": "94467",
+   "heading": "Military Aircraft: Helicopters",
+   "questionText": "To ask the Secretary of State for Defence, what the status is of the New Medium Helicopter programme.",
+   "dateTabled": "2025-11-25T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1857014,
+   "uin": "94465",
+   "heading": "Skynet",
+   "questionText": "To ask the Secretary of State for Defence, what the status is of the SKYNET 6 programme.",
+   "dateTabled": "2025-11-25T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1857047,
+   "uin": "94498",
+   "heading": "Guided Weapons: Procurement",
+   "questionText": "To ask the Secretary of State for Defence, what recent progress he has made on the Land Precision Strike programme.",
+   "dateTabled": "2025-11-25T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1856304,
+   "uin": "93919",
+   "heading": "Disability: Discrimination",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what steps he is taking to help prevent retaliatory actions against staff who have made internal disclosures about disability discrimination.",
+   "dateTabled": "2025-11-24T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1856303,
+   "uin": "93918",
+   "heading": "Government Departments: Reasonable Adjustments",
+   "questionText": "To ask the Secretary of State for Work and Pensions, whether government departments meet duties to provide reasonable adjustments for disabled staff.",
+   "dateTabled": "2025-11-24T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1856946,
+   "uin": "94419",
+   "heading": "Brain Cancer: Vaccination",
+   "questionText": "To ask the Secretary of State for Health and Social Care, when people with brain cancer will have access to personalised vaccines as part of their NHS treatment.",
+   "dateTabled": "2025-11-25T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1963014,
+   "uin": "45586",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, if she will publish an assessment of the national resilience implications of ending digital terrestrial television before taking a decision on TV distribution after 2034.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1963011,
+   "uin": "45583",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, whether her Department consulted the (a) Cabinet Office and (b) Ministry of Defence on the national resilience implications of the options in its consultation on the future of TV distrib",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1963010,
+   "uin": "45582",
+   "heading": null,
+   "questionText": "To ask the Minister for the Cabinet Office, whether digital terrestrial television is included in plans for emergency public communications in the event of a widespread loss of internet connectivity.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1963009,
+   "uin": "45581",
+   "heading": null,
+   "questionText": "To ask the Minister for the Cabinet Office, what the role is of digital terrestrial television in communicating with the public during a major cyber incident affecting internet services.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1963006,
+   "uin": "45578",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps she plans to take to ensure (a) that the phased rollout of GLP-1s is equitable and (b) that people who need these medications most are able to access them.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1963005,
+   "uin": "45577",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps she plans to take to ensure ongoing, equitable access to the NHS Type 2 Diabetes Prevention Programme.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1963004,
+   "uin": "45576",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps she plans to take to (a) ensure national oversight of locally commissioned services, and (b) ensure that the availability and standard of essential services does not vary by location.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1960980,
+   "uin": "44039",
+   "heading": "Radicalism",
+   "questionText": "To ask the Secretary of State for the Home Department, if she will meet Dr Jeremy Havardi and representatives of B'nai B'rith UK to discuss their report Antizionism: The New Face of Anti-Jewish Extremism and its policy recommendations.",
+   "dateTabled": "2026-11-17T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1960979,
+   "uin": "44038",
+   "heading": "Media: Sanctions",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what assessment he has made of the potential merits of sanctioning media outlets linked to the Iranian regime that promote anti-zionism in the UK.",
+   "dateTabled": "2026-11-17T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1960976,
+   "uin": "44035",
+   "heading": "Schools: Antisemitism",
+   "questionText": "To ask the Secretary of State for Education, whether the guidance and teaching resources for schools proposed in Sir David Bell's review of antisemitism in schools and colleges will cover anti-zionism.",
+   "dateTabled": "2026-11-17T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1960974,
+   "uin": "44033",
+   "heading": "Community Relations",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what assessment her Department has made of the potential impact of anti-zionism on the level of social cohesion.",
+   "dateTabled": "2026-11-17T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1960972,
+   "uin": "44031",
+   "heading": "Radicalism",
+   "questionText": "To ask the Secretary of State for the Home Department, if the Government will recognise antizionism as an extremist ideology, as recommended in Dr Jeremy Havardi's report for B'nai B'rith UK, Antizionism: The New Face of Anti-Jewish Extremism.",
+   "dateTabled": "2026-11-17T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1941560,
+   "uin": "29237",
+   "heading": "Tenancy Agreements: Anti-social Behaviour",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what discussions she has had with social housing providers on the use of tenancy agreements to address anti-social behaviour involving off-road e-bikes, including through tenancy",
+   "dateTabled": "2026-09-11T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  }
+ ],
+ "historyComplete": true
+}

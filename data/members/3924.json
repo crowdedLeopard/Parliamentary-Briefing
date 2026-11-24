@@ -1,0 +1,844 @@
+{
+ "id": 3924,
+ "fetchedOn": "2026-11-24",
+ "core": {
+  "id": 3924,
+  "nameListAs": "Qureshi, Yasmin",
+  "nameDisplayAs": "Yasmin Qureshi",
+  "nameFullTitle": "Yasmin Qureshi MP",
+  "nameAddressAs": "Yasmin Qureshi",
+  "latestParty": {
+   "id": 15,
+   "name": "Labour",
+   "abbreviation": "Lab",
+   "backgroundColour": "d50000",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": true,
+   "governmentType": 0,
+   "isIndependentParty": false
+  },
+  "gender": "F",
+  "latestHouseMembership": {
+   "membershipFrom": "Bolton South and Walkden",
+   "membershipFromId": 3926,
+   "house": 1,
+   "membershipStartDate": "2010-05-06T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2024-07-04T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/3924/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2024-05-31T00:00:00",
+    "constituencyEnd": null,
+    "house": 1,
+    "name": "Bolton South and Walkden",
+    "id": 3926,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "2010-04-13T00:00:00",
+    "constituencyEnd": "2024-05-30T00:00:00",
+    "house": 1,
+    "name": "Bolton South East",
+    "id": 3345,
+    "startDate": "2010-05-06T00:00:00",
+    "endDate": "2024-05-30T00:00:00",
+    "additionalInfo": "Elected 4 times",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [
+   {
+    "house": 1,
+    "name": "Brent East",
+    "id": 422,
+    "startDate": "2005-05-05T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "houseMemberships": [
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "2010-05-06T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Yasmin Qureshi",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [],
+  "oppositionPosts": [
+   {
+    "house": 1,
+    "name": "Shadow Minister (Equalities Office)",
+    "id": 964,
+    "startDate": "2022-10-28T00:00:00",
+    "endDate": "2023-11-15T00:00:00",
+    "additionalInfo": "Government Equalities Office",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/government-equalities-office"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Minister (International Development)",
+    "id": 1586,
+    "startDate": "2020-09-02T00:00:00",
+    "endDate": "2021-12-04T00:00:00",
+    "additionalInfo": "Foreign, Commonwealth and Development Office",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Minister (International Development)",
+    "id": 967,
+    "startDate": "2020-04-10T00:00:00",
+    "endDate": "2020-09-02T00:00:00",
+    "additionalInfo": "Department for International Development",
+    "additionalInfoLink": "http://www.dfid.gov.uk"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Minister (Justice)",
+    "id": 968,
+    "startDate": "2016-10-09T00:00:00",
+    "endDate": "2020-04-10T00:00:00",
+    "additionalInfo": "Ministry of Justice",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/ministry-of-justice"
+   }
+  ],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Labour",
+    "id": 15,
+    "startDate": "2010-05-06T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 1,
+    "name": "Justice Committee",
+    "id": 102,
+    "startDate": "2024-04-30T00:00:00",
+    "endDate": "2024-05-30T00:01:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Justice Committee",
+    "id": 102,
+    "startDate": "2010-07-12T00:00:00",
+    "endDate": "2015-03-30T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Political and Constitutional Reform Committee",
+    "id": 200,
+    "startDate": "2011-07-12T00:00:00",
+    "endDate": "2011-12-12T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Privacy and Injunctions (Joint Committee)",
+    "id": 249,
+    "startDate": "2011-07-14T00:00:00",
+    "endDate": "2012-03-12T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Home Affairs Committee",
+    "id": 83,
+    "startDate": "2013-11-04T00:00:00",
+    "endDate": "2015-03-30T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "High Speed Rail (London - West Midlands) Bill (Commons)",
+    "id": 303,
+    "startDate": "2014-04-29T00:00:00",
+    "endDate": "2015-07-07T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Foreign Affairs Committee",
+    "id": 78,
+    "startDate": "2015-07-08T00:00:00",
+    "endDate": "2016-10-31T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Foreign Affairs Sub-Committee",
+    "id": 353,
+    "startDate": "2016-01-05T00:00:00",
+    "endDate": "2016-10-31T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Employment Relations (Flexible Working) Bill",
+    "id": 632,
+    "startDate": "2022-11-30T00:00:00",
+    "endDate": "2022-12-07T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Child Support Collection (Domestic Abuse) Bill",
+    "id": 633,
+    "startDate": "2022-12-07T00:00:00",
+    "endDate": "2022-12-14T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Courts and Tribunals Bill",
+    "id": 837,
+    "startDate": "2026-03-18T00:00:00",
+    "endDate": "2026-04-28T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 5,
+   "name": "4. Visits outside the UK",
+   "sortOrder": 0,
+   "interests": [
+    {
+     "id": 14558,
+     "interest": "Name of donor: Hum TV\r\nAddress of donor: Plot No. 10/11 Hassan Ali Street Off I.I. Chundrigar Road Karachi Pakistan\r\nEstimate of the probable value (or amount of any donation): Flights, value £3,303.31\r\nDestination of visit: Pakistan (Karachi)\r\nDates of visit: 22 January 2026 to 27 January 2026\r\nPurpose of visit: Presentation of the HUM Women Leaders Award.\r\n(Registered 13 February 2026)",
+     "createdWhen": "2026-02-24T09:59:08.8633333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "name": "8. Miscellaneous",
+   "sortOrder": 1,
+   "interests": [
+    {
+     "id": 1493,
+     "interest": "Member of Bolton Town Board. This is an unpaid role.\r\nDate interest arose: 27 January 2020\r\n(Registered 8 June 2020)",
+     "createdWhen": "2026-02-12T12:22:17.145692",
+     "lastAmendedWhen": "2024-04-18T15:15:21.3666667",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 1494,
+     "interest": "A Governor of the Board of the Westminster Foundation for Democracy for a three-year term. This is an unpaid role.\r\nDate interest arose: 7 September 2022\r\nDate interest ended: 7 September 2025\r\n(Registered 26 September 2022; updated 24 April 2026)",
+     "createdWhen": "2026-09-29T08:55:38.7643304",
+     "lastAmendedWhen": "2026-04-29T09:40:04.8433333",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 15031,
+     "interest": "Chair of the Board of the Westminster Foundation for Democracy for a term of up to three years. This is an unpaid role.\r\nDate interest arose: 20 November 2025\r\n(Registered 16 April 2026)",
+     "createdWhen": "2026-04-29T09:40:04.8433333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 15119,
+     "interest": "Chair of the board of the Westminster Foundation for Democracy. This is an unpaid role\r\nDate interest arose: 18 November 2024\r\nDate interest ended: 7 September 2025\r\n(Registered 23 April 2026)",
+     "createdWhen": "2026-04-29T09:40:04.8433333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 15120,
+     "interest": "A Governor of the Board of the Westminster Foundation for Democracy for a three-year term. This is an unpaid role.\r\nDate interest arose: 26 November 2025\r\n(Registered 23 April 2026)",
+     "createdWhen": "2026-09-29T08:56:46.0712215",
+     "lastAmendedWhen": "2026-04-29T09:40:04.8433333",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "name": "9. Family members employed and paid from parliamentary expenses",
+   "sortOrder": 2,
+   "interests": [
+    {
+     "id": 2737,
+     "interest": "Name: Nadeem Ashraf\r\nRelationship: Spouse\r\nRole: Senior Caseworker\r\nWorking pattern: Full time\r\n(Registered 15 March 2016; updated 15 April 2024)",
+     "createdWhen": "2024-04-22T15:49:57.56",
+     "lastAmendedWhen": "2024-04-18T15:22:04.1566667",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [
+  {
+   "category": "Political Interests",
+   "focus": [
+    "Crime, education, young people"
+   ]
+  }
+ ],
+ "synopsis": "Yasmin Qureshi is the Labour MP for <a href='/constituency/3926/overview'>Bolton South and Walkden</a>, and has been an MP continually since 6 May 2010.",
+ "history": [
+  {
+   "id": 1939126,
+   "uin": "27890",
+   "heading": "Data Centres",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, how many datacentre developments are awaiting planning permission in England, and how many of these have opted, or are eligible to opt, into the Nationally Significant Infrastruc",
+   "dateTabled": "2026-09-08T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1939125,
+   "uin": "27889",
+   "heading": "Data Centres",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what assessment she has made of the potential impact of allowing qualifying datacentres to opt into the Nationally Significant Infrastructure Project regime on local authorities'",
+   "dateTabled": "2026-09-08T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1945422,
+   "uin": "31587",
+   "heading": "Universal Credit",
+   "questionText": "To ask the Secretary of State for Work and Pensions, if she will set out the (a) training, (b) apprenticeship and (c) work-placement schemes specifically targeted at over-25s in receipt of Universal Credit.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1950459,
+   "uin": "35930",
+   "heading": "Health Services: Freezers",
+   "questionText": "To ask the Secretary of State for Health and Social Care, when she plans to publish an update on how her Department will support NHS trusts to close the gaps in provision identified by NHS England's gap analysis of freezer capacity.",
+   "dateTabled": "2026-10-19T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1945980,
+   "uin": "31989",
+   "heading": "Immigration",
+   "questionText": "To ask the Secretary of State for the Home Department, whether the outcome of the earned settlement consultation will be presented to Parliament for MPs to consider before it is implemented.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1945152,
+   "uin": "31184",
+   "heading": "Ukraine: Humanitarian Situation",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what steps he is taking to help secure (a) humanitarian access to Oleshky, Ukraine and (b) the safe evacuation of civilians from Oleshky.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1938662,
+   "uin": "27423",
+   "heading": "Endometriosis: Diagnosis",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether she plans to introduce a national mechanism for tracking progress in endometriosis diagnosis and care as part of the Women's Health Strategy.",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1938661,
+   "uin": "27422",
+   "heading": "Endometriosis: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment she has made of the adequacy of the affordability of long-term pain management and hormonal treatment for people with endometriosis, including prescription charge exemptions.",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1938660,
+   "uin": "27421",
+   "heading": "Endometriosis: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps she is taking to ensure earlier specialist assessment and referral for adolescents with suspected endometriosis.",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1938659,
+   "uin": "27420",
+   "heading": "Endometriosis: Diagnosis",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what the average time is between symptom onset and confirmed diagnosis of endometriosis in England, broken down by age group and ethnicity, in each of the last five years.",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1938658,
+   "uin": "27419",
+   "heading": "Endometriosis: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps she is taking to monitor and report on the implementation of NICE guideline NG73 (endometriosis) by integrated care boards, and what plans she has to strengthen accountability for its im",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1939135,
+   "uin": "27899",
+   "heading": "NHS: Crimes of Violence",
+   "questionText": "To ask the Secretary of State for the Home Department, what guidance is issued to police forces on the priority given to reports of violence and aggression against NHS staff, including in emergency departments.",
+   "dateTabled": "2026-09-08T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1939124,
+   "uin": "27888",
+   "heading": "Data Centres",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what assessment he has made of the potential merits of requiring datacentre operators to report on the purpose and end use of their computing capacity as a condition of planning ap",
+   "dateTabled": "2026-09-08T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1939127,
+   "uin": "27891",
+   "heading": "National Grid: Data Centres",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, how many datacentres are currently in the queue to connect to the National Grid, and what the average expected connection wait time is.",
+   "dateTabled": "2026-09-08T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1939134,
+   "uin": "27898",
+   "heading": "Accident and Emergency Departments: Crimes of Violence",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what data her Department holds on the number of recorded incidents of violence and aggression against NHS staff in emergency departments in England in each of the last five years.",
+   "dateTabled": "2026-09-08T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1939132,
+   "uin": "27896",
+   "heading": "Accident and Emergency Departments: Crimes of Violence",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what guidance her Department provides to NHS trusts on support for staff who report incidents of violence or aggression, including access to occupational health, counselling and time off.",
+   "dateTabled": "2026-09-08T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1939131,
+   "uin": "27895",
+   "heading": "Accident and Emergency Departments: Crimes of Violence",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps her Department is taking to reduce levels of violence and aggression against staff working in emergency departments.",
+   "dateTabled": "2026-09-08T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1939130,
+   "uin": "27894",
+   "heading": "Accident and Emergency Departments: Crimes of Violence",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment she has made of the potential implications for her Department's policies of the Royal College of Emergency Medicine's survey findings that 96% of emergency department staff have exp",
+   "dateTabled": "2026-09-08T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1939133,
+   "uin": "27897",
+   "heading": "Emergency Services: Crimes of Violence",
+   "questionText": "To ask the Secretary of State for Justice, how many prosecutions there have been under section 1 of the Assaults on Emergency Workers (Offences) Act 2018 in each of the last five years, broken down by sentencing outcome.",
+   "dateTabled": "2026-09-08T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1939129,
+   "uin": "27893",
+   "heading": "Data Centres: Water Supply",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what discussions she has had with Water UK regarding its warning that the UK does not have sufficient water resources to support planned datacentre expansion.",
+   "dateTabled": "2026-09-08T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1939128,
+   "uin": "27892",
+   "heading": "Data Centres: Water Supply",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what estimate she has made of the water demand of new and planned datacentres, and whether she has made an assessment of the potential risk of their designation as critical national in",
+   "dateTabled": "2026-09-08T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1938665,
+   "uin": "27426",
+   "heading": "Reasonable Adjustments",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what guidance is available to employers on making reasonable adjustments for employees with fluctuating conditions such as endometriosis.",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1938271,
+   "uin": "27242",
+   "heading": "Multiple Sclerosis: Cannabis",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether she has asked NICE to review the position of nabiximols in the treatment pathway for MS-related spasticity, including its use earlier in the pathway.",
+   "dateTabled": "2026-09-04T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1938270,
+   "uin": "27241",
+   "heading": "Multiple Sclerosis: Cannabis",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps she is taking to ensure integrated care boards commission nabiximols in line with NICE guideline NG144.",
+   "dateTabled": "2026-09-04T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1938269,
+   "uin": "27240",
+   "heading": "Multiple Sclerosis: Cannabis",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment her Department has made of trends in the level of regional variation in access to nabiximols for MS-related spasticity since NICE guideline NG144 was published.",
+   "dateTabled": "2026-09-04T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1938268,
+   "uin": "27239",
+   "heading": "Multiple Sclerosis: Cannabis",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many patients with multiple sclerosis were prescribed nabiximols on the NHS in England in each of the last three years by integrated care board.",
+   "dateTabled": "2026-09-04T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1938664,
+   "uin": "27425",
+   "heading": "Pupils: Endometriosis",
+   "questionText": "To ask the Secretary of State for Education, what guidance her Department provides to schools on recognising and accommodating the impact of endometriosis and related conditions on pupils' education and attendance.",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1938663,
+   "uin": "27424",
+   "heading": "Pupils: Endometriosis",
+   "questionText": "To ask the Secretary of State for Education, what assessment her Department has made of the potential impact of endometriosis on school attendance and attainment among girls and young women.",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1926026,
+   "uin": "17307",
+   "heading": "Endometriosis: Prescriptions",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether his Department plans to review the current criteria for medical exemption certificates for prescription charges to include endometriosis.",
+   "dateTabled": "2026-07-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1926824,
+   "uin": "17975",
+   "heading": "Heart Diseases: Screening",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the potential merits of offering electrocardiogram screening to under 35s.",
+   "dateTabled": "2026-07-13T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1918288,
+   "uin": "11389",
+   "heading": "Women's Health Hubs: Greater Manchester",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many women's health hubs have been established in NHS Greater Manchester ICB.",
+   "dateTabled": "2026-06-19T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1926957,
+   "uin": "17977",
+   "heading": "Agriculture: Pesticides",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she has made of the implications for her policies of Greenpeace's report entitled Our Poisoned Land and its calls for the Government to help farmers to (a) reduce agric",
+   "dateTabled": "2026-07-13T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1926955,
+   "uin": "17976",
+   "heading": "Neonicotinoids",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, if she will commit to ending the use of the neonicotinoid acetamiprid.",
+   "dateTabled": "2026-07-13T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1922914,
+   "uin": "14787",
+   "heading": "Dental Services: Exemptions",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many NHS Low Income Scheme certificates (HC2 and HC3) were used to access free or reduced NHS dental treatment in England in each of the last five years; and the associated cost of these exempt",
+   "dateTabled": "2026-07-01T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1922913,
+   "uin": "14786",
+   "heading": "Dental Services: Exemptions",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what the estimated total cost to the NHS was of providing free NHS dental treatment in England under maternity exemption rules in each of the last five years.",
+   "dateTabled": "2026-07-01T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1924290,
+   "uin": "15938",
+   "heading": "Pigs: Animal Housing",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether she intends to publish a consultation on phasing out the use of farrowing crates for sows.",
+   "dateTabled": "2026-07-06T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1923522,
+   "uin": "15283",
+   "heading": "Homelessness: Housing",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what assessment he has made of the potential impact of homelessness accommodation providers' reliance on Housing Benefit as an income source on homelessness services.",
+   "dateTabled": "2026-07-02T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1923524,
+   "uin": "15284",
+   "heading": "Social Services: Homelessness",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what plans his Department has to improve collaboration between adult social care and voluntary sector homelessness services.",
+   "dateTabled": "2026-07-02T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1922915,
+   "uin": "14788",
+   "heading": "Dental Services: Waiting Lists",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what data NHS England holds on Community Dental Service activity and referral waiting times for patients with complex neurological conditions, including epilepsy.",
+   "dateTabled": "2026-07-01T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1922912,
+   "uin": "14785",
+   "heading": "Dental Services: Epilepsy",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether his Department has made an assessment of the potential fiscal cost of introducing a medical exemption from NHS dental charges for the repair of teeth damaged by epileptic seizures.",
+   "dateTabled": "2026-07-01T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1922911,
+   "uin": "14784",
+   "heading": "Dental Services: Databases",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether NHS England requires dental clinics to record the underlying medical cause of traumatic dental injuries in patient datasets; and what plans he has to introduce a specific recording category",
+   "dateTabled": "2026-07-01T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1921577,
+   "uin": "13784",
+   "heading": "Food: Waste",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps her Department is taking to reduce food waste in schools.",
+   "dateTabled": "2026-06-29T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1917195,
+   "uin": "10574",
+   "heading": "Planning Permission",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, how many retrospective planning applications have remained undetermined by local planning authorities for more than (a) six, (b) twelve and (c) eighteen months since validation; ",
+   "dateTabled": "2026-06-17T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1906371,
+   "uin": "1957",
+   "heading": "Free School Meals",
+   "questionText": "To ask the Secretary of State for Education, what assessment her Department has made of potential merits of providing free school meals to all school children.",
+   "dateTabled": "2026-05-18T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1903242,
+   "uin": "129806",
+   "heading": "Conversion Therapy",
+   "questionText": "To ask the Minister for Women and Equalities, if she will include legislation to ban conversion therapy in the King's Speech in May 2026.",
+   "dateTabled": "2026-04-27T00:00:00",
+   "answeringBodyName": "Women and Equalities"
+  },
+  {
+   "id": 1896676,
+   "uin": "124527",
+   "heading": "Infected Blood Inquiry",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference to Recommendation 9(f) of the Infected Blood Inquiry report, what consideration has been given to providing additional funding for the national haemophilia database.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1896675,
+   "uin": "124526",
+   "heading": "Infected Blood Inquiry",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference to Recommendation 9 (d) of the Infected Blood Inquiry report, what progress his Department has made on establishing functioning multi-disciplinary networks.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1896674,
+   "uin": "124525",
+   "heading": "Haemophilia: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps his Department has taken to (a) increase funding and (b) tackle inequities between haemophilia centres.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1901250,
+   "uin": "128234",
+   "heading": "Visas: English Language",
+   "questionText": "To ask the Secretary of State for the Home Department, with reference to paragraph 5.60 of the policy paper entitled Explanatory memorandum to the statement of changes in the Immigration Rules: HC 1691, published on 5 March 2026, whether B2 level English ",
+   "dateTabled": "2026-04-20T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1900059,
+   "uin": "127436",
+   "heading": "Soft Drinks: Taxation",
+   "questionText": "To ask the Chancellor of the Exchequer, whether the Office for Budget Responsibility provided estimates between March 2016 and April 2028 on the potential impact that the proposed Soft Drinks Industry Levy would have on the Consumer Price Index (CPI); and",
+   "dateTabled": "2026-04-15T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1898693,
+   "uin": "126557",
+   "heading": "Epilepsy: Children and Young People",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether his Department has made an assessment of the potential merits of establishing an observational trial for children and young people on private prescriptions for drug-resistant epilepsy who c",
+   "dateTabled": "2026-04-13T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1896524,
+   "uin": "124524",
+   "heading": "King's Guards: Uniforms",
+   "questionText": "To ask the Secretary of State for Defence, what progress has been made in developing King’s Guard’s hats made of faux-fur.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1888705,
+   "uin": "118715",
+   "heading": "Game: Birds",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, how many animal welfare inspections of game bird farms were undertaken in (a) England and (b) Wales in 2025; how many and what proportion of those visits identified the use of barren c",
+   "dateTabled": "2026-03-09T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1884887,
+   "uin": "115798",
+   "heading": "Remand in Custody",
+   "questionText": "To ask the Secretary of State for Justice, what assessment he has made of the potential impact of Crown Court backlogs on the length of time defendants are held on remand prior to trial.",
+   "dateTabled": "2026-02-25T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1884885,
+   "uin": "115796",
+   "heading": "Hearing Aids",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what national guidance is in place for NHS commissioners and providers regarding emergency or out-of-hours support for patients who experience sudden hearing aid failure; and whether he has assesse",
+   "dateTabled": "2026-02-25T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1884888,
+   "uin": "115799",
+   "heading": "Prisoners: Hunger Strikes",
+   "questionText": "To ask the Secretary of State for Justice, what guidance he has issued on engagement between his Department and the legal representatives of prisoners undertaking prolonged hunger strikes.",
+   "dateTabled": "2026-02-25T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1884886,
+   "uin": "115797",
+   "heading": "Remand in Custody",
+   "questionText": "To ask the Secretary of State for Justice, what the average length of time spent on remand in custody was in the most recent 12-month period for which data is available.",
+   "dateTabled": "2026-02-25T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1875886,
+   "uin": "907542",
+   "heading": "Women: Health Services",
+   "questionText": "To ask the Minister for Women and Equalities, what recent discussions she has had with the Secretary of State for Health and Social Care on expanding access to women's health hubs.",
+   "dateTabled": "2026-01-22T00:00:00",
+   "answeringBodyName": "Women and Equalities"
+  },
+  {
+   "id": 1870537,
+   "uin": "104728",
+   "heading": "Roads: Accidents",
+   "questionText": "To ask the Secretary of State for Transport, what assessment his Department has made of trends in the level the risk of road traffic collisions involving young drivers.",
+   "dateTabled": "2026-01-12T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1870532,
+   "uin": "104723",
+   "heading": "Roads: Greater Manchester",
+   "questionText": "To ask the Secretary of State for Transport, how much funding was allocated to Greater Manchester under national road safety funding schemes in each of the last three years.",
+   "dateTabled": "2026-01-12T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1870538,
+   "uin": "104729",
+   "heading": "Road Traffic Offences: Accidents",
+   "questionText": "To ask the Secretary of State for Transport, how lessons from serious and fatal road traffic collisions are incorporated into national road safety policy.",
+   "dateTabled": "2026-01-12T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1870534,
+   "uin": "104725",
+   "heading": "Roads: Accidents",
+   "questionText": "To ask the Secretary of State for the Home Department, what support her Department provide to people affected by fatal road traffic collisions.",
+   "dateTabled": "2026-01-12T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1870533,
+   "uin": "104724",
+   "heading": "Roads: Accidents",
+   "questionText": "To ask the Secretary of State for the Home Department, what steps she is taking to support police forces in reducing serious and fatal road traffic collisions.",
+   "dateTabled": "2026-01-12T00:00:00",
+   "answeringBodyName": "Home Office"
+  }
+ ],
+ "historyComplete": true
+}

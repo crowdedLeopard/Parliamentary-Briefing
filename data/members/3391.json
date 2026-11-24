@@ -1,0 +1,499 @@
+{
+ "id": 3391,
+ "fetchedOn": "2026-11-24",
+ "core": {
+  "id": 3391,
+  "nameListAs": "Clancarty, E.",
+  "nameDisplayAs": "The Earl of Clancarty",
+  "nameFullTitle": "The Earl of Clancarty",
+  "nameAddressAs": null,
+  "latestParty": {
+   "id": 6,
+   "name": "Crossbench",
+   "abbreviation": "XB",
+   "backgroundColour": "C0C0C0",
+   "foregroundColour": "FFFFFF",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": true,
+   "governmentType": null,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "Life peer",
+   "membershipFromId": 4,
+   "house": 2,
+   "membershipStartDate": "2026-06-04T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2026-06-04T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/3391/Thumbnail"
+ },
+ "bio": {
+  "representations": [],
+  "electionsContested": [],
+  "houseMemberships": [
+   {
+    "house": 2,
+    "name": "Lords",
+    "id": 2,
+    "startDate": "2026-06-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "The Earl of Clancarty",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 2,
+    "name": "Lords",
+    "id": 2,
+    "startDate": "2010-06-28T00:00:00",
+    "endDate": "2026-04-29T00:00:00",
+    "additionalInfo": "The Earl of Clancarty",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 2,
+    "name": "Lords",
+    "id": 2,
+    "startDate": "1996-03-29T00:00:00",
+    "endDate": "1999-11-11T00:00:00",
+    "additionalInfo": "The Earl of Clancarty",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [],
+  "oppositionPosts": [],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 2,
+    "name": "Crossbench",
+    "id": 6,
+    "startDate": "1996-03-29T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 2,
+    "name": "Lord Speaker's Advisory Panel on Works of Art",
+    "id": 371,
+    "startDate": "2019-10-24T00:00:00",
+    "endDate": "2026-04-29T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 6607,
+     "interest": "Self-employed artist (visual arts)",
+     "createdWhen": "2010-07-27T14:25:54",
+     "lastAmendedWhen": "2026-06-04T17:46:49.733",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [],
+ "synopsis": "The Earl of Clancarty's full title is The Earl of Clancarty. His name is Nicholas Power Richard Le Poer Trench, and he is a current member of the House of Lords.",
+ "history": [
+  {
+   "id": 1955075,
+   "uin": "HL4713",
+   "heading": "Arts: Vocational Education",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the potential impact of any social media ban for people aged under 16 on the delivery of the Pearson BTEC Level 1/Level 2 Tech Award in Creative Media Production and the proposed GCSE in Cr",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1956984,
+   "uin": "HL4921",
+   "heading": "Museums and Galleries: Ex Gratia Payments",
+   "questionText": "To ask His Majesty's Government what plans they have, if any, to commence sections 15 and 16 of the Charities Act 2022 in relation to national museums and galleries currently excluded from those provisions.",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1956389,
+   "uin": "HL4863",
+   "heading": "Parthenon Sculptures: Restitution",
+   "questionText": "To ask His Majesty's Government what plans, if any, they have to amend the British Museum Act 1963 to allow a decision to be made about permanently returning the Parthenon Sculptures held by the British Museum to Greece.",
+   "dateTabled": "2026-11-03T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1948738,
+   "uin": "HL4040",
+   "heading": "Arts: UK Relations with EU",
+   "questionText": "To ask His Majesty's Government whether the concerns of (1) touring, and (2) temporary and permanent work positions for, performing and other artists will be on the agenda at the UK-EU Summit on 20 November.",
+   "dateTabled": "2026-10-13T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1955806,
+   "uin": "HL4782",
+   "heading": "Arts: Education",
+   "questionText": "To ask His Majesty's Government, further to the remarks by Baroness Mackenzie of Sherwood on 11 September (HL Deb col 924), whether they intend to research the potential links between a lack of vocational and creative education in schools, those not in ed",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1936936,
+   "uin": "HL2825",
+   "heading": "UK relations with EU",
+   "questionText": "To ask His Majesty's Government when the next UK-EU Summit is scheduled to take place.",
+   "dateTabled": "2026-09-01T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1954548,
+   "uin": "HL4650",
+   "heading": "Arts: Copyright",
+   "questionText": "To ask His Majesty's Government what plans they have to pursue a permission-first policy for the protection of individual artists’ work from scraping by tech companies and to ensure all artists who are included in a licensing deal will receive fair remune",
+   "dateTabled": "2026-10-28T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1954550,
+   "uin": "HL4649",
+   "heading": "Arts: Copyright",
+   "questionText": "To ask His Majesty's Government what plans they have to protect the copyright of artists and creatives whose work has been scraped by tech companies; and what plans they have to license such content.",
+   "dateTabled": "2026-10-28T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1954552,
+   "uin": "HL4648",
+   "heading": "Arts: Electronic Equipment",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the Smart Fund proposal to use funds from sales of electronic devices which copy, store, and share creative content to pay creators and performers whose work is accessed, distributed, and s",
+   "dateTabled": "2026-10-28T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1954585,
+   "uin": "HL4647",
+   "heading": "Clothing: UK Trade with EU",
+   "questionText": "To ask His Majesty's Government, further to the answer by Lord Pitt-Watson on 26 October (HL Deb Col 929), whether they intend to seek reciprocal arrangements with the European Union at the EU-UK summit in November to allow fashion collections, samples, a",
+   "dateTabled": "2026-10-28T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1954052,
+   "uin": "HL4600",
+   "heading": "Exports: VAT",
+   "questionText": "To ask His Majesty's Government what discussions they have had with the (1) fashion, (2) hospitality, and (3) tourism sectors regarding a potential reinstatement of a UK retail export scheme.",
+   "dateTabled": "2026-10-27T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1954051,
+   "uin": "HL4601",
+   "heading": "Artificial Intelligence: Publications",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by Baroness Lloyd of Effra on 16 October (HL3770), what discussions they have had with the books trade, including the rare books trade, regarding reports of destructive scanning of physical bo",
+   "dateTabled": "2026-10-27T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1944082,
+   "uin": "HL3771",
+   "heading": "Employment: Proof of Identity",
+   "questionText": "To ask His Majesty's Government whether, following the changes to Right to Work checks on 1 October, performers touring the UK on the Permitted Paid Engagement or Permit Free Festival schemes are allowed to sell merchandise if it is related to their servi",
+   "dateTabled": "2026-10-05T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1944083,
+   "uin": "HL3770",
+   "heading": "Artificial Intelligence: Publications",
+   "questionText": "To ask His Majesty's Government what assessment they have made of reports of destructive scanning of books by or for tech companies; and whether they intend to take action to halt this practice.",
+   "dateTabled": "2026-10-05T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1939538,
+   "uin": "HL3232",
+   "heading": "Higher Education: Costs",
+   "questionText": "To ask His Majesty's Government how much higher education subject courses cost for each of the strategic priority grant groups A, B, C and D; and what is the cut-off point between each group in monetary terms.",
+   "dateTabled": "2026-09-08T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1943732,
+   "uin": "HL3609",
+   "heading": "Ukraine: Cultural Heritage",
+   "questionText": "To ask His Majesty's Government what support they are giving to Ukraine for the protection of Ukraine's civic records and cultural property, including for digitisation.",
+   "dateTabled": "2026-09-16T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1936595,
+   "uin": "HL2824",
+   "heading": "National Lottery: Publicity",
+   "questionText": "To ask His Majesty's Government what plans they have, as part of their current review of National Lottery funding, to promote public awareness of the good causes that the National Lottery supports locally, including at points of purchase such as local ret",
+   "dateTabled": "2026-09-01T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1936603,
+   "uin": "HL2823",
+   "heading": "Employment: Proof of Identity",
+   "questionText": "To ask His Majesty's Government what assessment they have made of whether there is an operational conflict between their new right to work checks and the permitted paid engagement route for artists; and what plans they have to consult the live entertainme",
+   "dateTabled": "2026-09-01T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1936605,
+   "uin": "HL2822",
+   "heading": "Employment: Proof of Identity",
+   "questionText": "To ask His Majesty's Government whether their new right to work checks will apply to (1) artists, (2) bands, and (3) theatre troupes, undertaking short UK tours without visas; and, if so, what plans they have to waive the checks for these groups.",
+   "dateTabled": "2026-09-01T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1929775,
+   "uin": "HL2653",
+   "heading": "Arts: Higher Education",
+   "questionText": "To ask His Majesty's Government on what basis they have removed Strategic Priorities Grant Funding for arts courses for the 2026–27 academic year.",
+   "dateTabled": "2026-07-23T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1929776,
+   "uin": "HL2652",
+   "heading": "Recording Studios: Business Rates",
+   "questionText": "To ask His Majesty's Government what consideration they have given to providing business rates relief for recording studios.",
+   "dateTabled": "2026-07-23T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1929772,
+   "uin": "HL2656",
+   "heading": "Immigration Controls: EU Countries",
+   "questionText": "To ask His Majesty's Government what progress they have made towards agreeing the UK–EU Youth Experience Scheme.",
+   "dateTabled": "2026-07-23T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1929773,
+   "uin": "HL2655",
+   "heading": "Crafts: Visas",
+   "questionText": "To ask His Majesty's Government what steps they are taking to enable UK craftspeople to showcase their work at exhibitions in Europe; and whether this topic will be on the agenda at the next UK–EU Summit.",
+   "dateTabled": "2026-07-23T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1929774,
+   "uin": "HL2654",
+   "heading": "Entertainers: EU Countries",
+   "questionText": "To ask His Majesty's Government whether the concerns of (1) touring, and (2) temporary and permanent work positions for, performing and other artists will be on the agenda at the next UK-EU Summit.",
+   "dateTabled": "2026-07-23T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1929431,
+   "uin": "HL2305",
+   "heading": "Arts: Self-employed",
+   "questionText": "To ask His Majesty's Government when they expect to announce the appointment of a creative freelance champion, as proposed in their Creative Industries sector plan.",
+   "dateTabled": "2026-07-20T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1929777,
+   "uin": "HL2651",
+   "heading": "British Council: Loans",
+   "questionText": "To ask His Majesty's Government what consideration they have given to forgiving the Covid loan issued to the British Council in July 2020.",
+   "dateTabled": "2026-07-23T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1917643,
+   "uin": "HL1050",
+   "heading": "Entertainers: EU Countries",
+   "questionText": "To ask His Majesty's Government whether they plan to discuss the breaking down of barriers for musicians and other creative professionals working and touring in the EU at the next UK–EU summit meeting on 22 July.",
+   "dateTabled": "2026-06-17T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1915542,
+   "uin": "HL853",
+   "heading": "Museums and Galleries: Fees and Charges",
+   "questionText": "To ask His Majesty's Government what plans they have to mark the 25th anniversary in December this year of the introduction of universal free entry to the UK's national museums and galleries.",
+   "dateTabled": "2026-06-11T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1915098,
+   "uin": "HL803",
+   "heading": "British Council: Property",
+   "questionText": "To ask His Majesty's Government what soft power significance they attach to the real estate owned by the British Council across the world; and what steps they are taking to ensure that such property is not sold off.",
+   "dateTabled": "2026-06-10T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1915101,
+   "uin": "HL802",
+   "heading": "British Council: Collections",
+   "questionText": "To ask His Majesty's Government what steps they intend to take to ensure the British Council Collection will remain the property of the British Council, and that no part of it will be sold off.",
+   "dateTabled": "2026-06-10T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1900624,
+   "uin": "HL16444",
+   "heading": "Performing Arts: Scholarships",
+   "questionText": "To ask His Majesty's Government when they will confirm the individual budgets for providers of the Dance and Drama Awards Scheme for the 2026–27 academic year.",
+   "dateTabled": "2026-04-16T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1895874,
+   "uin": "HL16065",
+   "heading": "Culture: UK Relations with EU",
+   "questionText": "To ask His Majesty's Government what consideration they have given to the UK joining the AgoraEU programme.",
+   "dateTabled": "2026-03-26T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1893521,
+   "uin": "HL15797",
+   "heading": "Recording Studios: Finance",
+   "questionText": "To ask His Majesty's Government whether they have considered providing emergency funding to recording studios.",
+   "dateTabled": "2026-03-20T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1889875,
+   "uin": "HL15379",
+   "heading": "Artificial Intelligence: Copyright",
+   "questionText": "To ask The Leader of the House what plans they have to allow parliamentary time for a debate on the report on the use of copyright works in the development of AI systems and the economic impact assessment, required respectively by sections 136 and 135 of ",
+   "dateTabled": "2026-03-10T00:00:00",
+   "answeringBodyName": "Leader of the House of Lords"
+  },
+  {
+   "id": 1887746,
+   "uin": "HL15169",
+   "heading": "Convention for the Protection of Cultural Property in the Event of Armed Conflict",
+   "questionText": "To ask His Majesty's Government what representations, if any, they intend to make at the United Nations Security Council regarding the 1954 Convention for the Protection of Cultural Property in the Event of Armed Conflict, in relation to the protection of",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1887115,
+   "uin": "HL15083",
+   "heading": "Visual Arts: Infrastructure",
+   "questionText": "To ask His Majesty's Government what plans they have to support infrastructure for visual artists, including the retention and capital development of artists' studios.",
+   "dateTabled": "2026-03-03T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1881127,
+   "uin": "HL14522",
+   "heading": "Recording Studios",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the net annual benefit to the UK economy of recording studios.",
+   "dateTabled": "2026-02-11T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1874742,
+   "uin": "HL13864",
+   "heading": "Arts: Education",
+   "questionText": "To ask His Majesty's Government whether they periodically review the effect of the structure of the Progress 8 and accountability measures in arts subjects in schools.",
+   "dateTabled": "2026-01-23T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1871736,
+   "uin": "HL13577",
+   "heading": "Crafts: Departmental Coordination",
+   "questionText": "To ask His Majesty's Government what plans they have to form a cross-departmental group for craft drawing together the responsibilities in this area of the Department for Culture, Media and Sport, the Department for Education and the Department for Busine",
+   "dateTabled": "2026-01-14T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1871177,
+   "uin": "HL13517",
+   "heading": "Listed Places of Worship Grant Scheme",
+   "questionText": "To ask His Majesty's Government when they will provide an update on the status of the listed places of worship grant scheme.",
+   "dateTabled": "2026-01-13T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1871179,
+   "uin": "HL13515",
+   "heading": "Crafts: Public Appointments",
+   "questionText": "To ask His Majesty's Government which departments have responsibility for the heritage crafts sector and associated skills; and whether they plan to consider the appointment of an expert to coordinate policy in that area.",
+   "dateTabled": "2026-01-13T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1871180,
+   "uin": "HL13514",
+   "heading": "Crafts: Vocational Education",
+   "questionText": "To ask His Majesty's Government what the current status is of funding for level 2 and level 3 building crafts and other heritage craft skills diploma courses; and whether they will reinstate level 3 funding for courses including stone masonry and joinery.",
+   "dateTabled": "2026-01-13T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1871726,
+   "uin": "HL13578",
+   "heading": "Crafts: Apprentices",
+   "questionText": "To ask His Majesty's Government what plans they have to provide funds to microbusinesses in the heritage craft industry to support apprentices' salaries and training periods under makers as part of their increased allocation for apprenticeships, including",
+   "dateTabled": "2026-01-14T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1871178,
+   "uin": "HL13516",
+   "heading": "Crafts: Higher Education and Vocational Education",
+   "questionText": "To ask His Majesty's Government whether they plan to encourage the introduction of further university level non-academic heritage craft skills courses across the country.",
+   "dateTabled": "2026-01-13T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1871176,
+   "uin": "HL13518",
+   "heading": "Crafts: Education",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the level of teaching of craft in schools; and whether the Curriculum and Assessment Review will impact the current arrangements for craft teaching.",
+   "dateTabled": "2026-01-13T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1859573,
+   "uin": "HL12546",
+   "heading": "Arts: Artificial Intelligence",
+   "questionText": "To ask His Majesty's Government what plans they have to introduce measures addressing AI-generated digital replicas of an individual's likeness or voice, particularly in relation to the entertainment industry.",
+   "dateTabled": "2025-12-02T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1960127,
+   "uin": "HL5359",
+   "heading": "Crafts: UK Trade with EU",
+   "questionText": "To ask His Majesty's Government, further to the answer by Lord Pitt-Watson on 26 October (HL Deb Col 929), whether they intend to seek reciprocal arrangements with the EU at the EU-UK summit on 20 November to allow craft makers and craft businesses attend",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Treasury"
+  }
+ ],
+ "historyComplete": true
+}

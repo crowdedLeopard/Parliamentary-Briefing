@@ -1,0 +1,936 @@
+{
+ "id": 4608,
+ "fetchedOn": "2026-11-24",
+ "core": {
+  "id": 4608,
+  "nameListAs": "Lamont, John",
+  "nameDisplayAs": "John Lamont",
+  "nameFullTitle": "John Lamont MP",
+  "nameAddressAs": "John Lamont",
+  "latestParty": {
+   "id": 4,
+   "name": "Conservative",
+   "abbreviation": "Con",
+   "backgroundColour": "0063ba",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": false,
+   "governmentType": 3,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "Berwickshire, Roxburgh and Selkirk",
+   "membershipFromId": 4440,
+   "house": 1,
+   "membershipStartDate": "2017-06-08T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2024-07-04T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/4608/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2024-05-31T00:00:00",
+    "constituencyEnd": null,
+    "house": 1,
+    "name": "Berwickshire, Roxburgh and Selkirk",
+    "id": 4440,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "2005-04-12T00:00:00",
+    "constituencyEnd": "2024-05-30T00:00:00",
+    "house": 1,
+    "name": "Berwickshire, Roxburgh and Selkirk",
+    "id": 216,
+    "startDate": "2017-06-08T00:00:00",
+    "endDate": "2024-05-30T00:00:00",
+    "additionalInfo": "Elected 2 times",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [
+   {
+    "house": 1,
+    "name": "Berwickshire, Roxburgh and Selkirk",
+    "id": 216,
+    "startDate": "2015-05-07T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Berwickshire, Roxburgh and Selkirk",
+    "id": 216,
+    "startDate": "2010-05-06T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Berwickshire, Roxburgh and Selkirk",
+    "id": 216,
+    "startDate": "2005-05-05T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "houseMemberships": [
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "2017-06-08T00:00:00",
+    "endDate": null,
+    "additionalInfo": "John Lamont",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [
+   {
+    "house": 1,
+    "name": "Parliamentary Under-Secretary (Scotland Office)",
+    "id": 537,
+    "startDate": "2022-10-27T00:00:00",
+    "endDate": "2024-07-05T00:00:00",
+    "additionalInfo": "Scotland Office",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/scotland-office"
+   }
+  ],
+  "oppositionPosts": [
+   {
+    "house": 1,
+    "name": "Shadow Deputy Leader of the House of Commons",
+    "id": 1,
+    "startDate": "2025-07-22T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Office of the Leader of the House of Commons",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/the-office-of-the-leader-of-the-house-of-commons"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Secretary of State for Scotland",
+    "id": 874,
+    "startDate": "2024-07-08T00:00:00",
+    "endDate": "2024-11-05T00:00:00",
+    "additionalInfo": "Scotland Office",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/scotland-office"
+   }
+  ],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Conservative",
+    "id": 4,
+    "startDate": "2017-06-08T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 1,
+    "name": "Scottish Affairs Committee",
+    "id": 136,
+    "startDate": "2020-05-04T00:00:00",
+    "endDate": "2023-05-22T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Scottish Affairs Committee",
+    "id": 136,
+    "startDate": "2017-09-11T00:00:00",
+    "endDate": "2019-11-06T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Statutory Instruments (Joint Committee)",
+    "id": 148,
+    "startDate": "2020-01-27T00:00:00",
+    "endDate": "2023-01-24T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Statutory Instruments (Joint Committee)",
+    "id": 148,
+    "startDate": "2017-10-30T00:00:00",
+    "endDate": "2019-11-06T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Statutory Instruments (Select Committee)",
+    "id": 149,
+    "startDate": "2020-01-27T00:00:00",
+    "endDate": "2023-01-24T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Statutory Instruments (Select Committee)",
+    "id": 149,
+    "startDate": "2017-10-30T00:00:00",
+    "endDate": "2019-11-06T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Cultural Objects (Protection From Seizure) Bill",
+    "id": 555,
+    "startDate": "2021-11-09T00:00:00",
+    "endDate": "2021-11-17T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Petitions Committee",
+    "id": 326,
+    "startDate": "2024-11-25T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Public Administration and Constitutional Affairs Committee",
+    "id": 327,
+    "startDate": "2024-12-16T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Restoration and Renewal Programme Board",
+    "id": 652,
+    "startDate": "2025-09-15T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Modernisation Committee",
+    "id": 736,
+    "startDate": "2025-09-15T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Procedure Committee",
+    "id": 126,
+    "startDate": "2025-09-15T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 3,
+   "name": "2. (a) Support linked to an MP but received by a local party organisation or indirectly via a central party organisation",
+   "sortOrder": 0,
+   "interests": [
+    {
+     "id": 14063,
+     "interest": "Name of donor: John James\r\nAddress of donor: private\r\nAmount of donation or nature and value if donation in kind: £2,500\r\nDonor status: individual\r\n(Registered 3 December 2025)",
+     "createdWhen": "2025-12-16T10:57:41.7166667",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 15291,
+     "interest": "Name of donor: Ian McVeigh\r\nAddress of donor: private\r\nAmount of donation or nature and value if donation in kind: £10,000\r\nDonor status: individual\r\n(Registered 22 May 2026)",
+     "createdWhen": "2026-06-03T10:07:17.0566667",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "name": "8. Miscellaneous",
+   "sortOrder": 1,
+   "interests": [
+    {
+     "id": 1826,
+     "interest": "Solicitor (non-practising).\r\n(Registered 26 June 2017)",
+     "createdWhen": "2024-04-18T15:14:53.1666667",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 1832,
+     "interest": "I am a member of the Rail Action Group East of Scotland (RAGES).\r\n(Registered 26 June 2017)",
+     "createdWhen": "2024-04-18T15:14:53.1666667",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 1829,
+     "interest": "I am a member of the Law Society of England and Wales.\r\n(Registered 26 June 2017)",
+     "createdWhen": "2024-04-18T15:14:53.1666667",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 1830,
+     "interest": "I am a trustee of the St Abbs Lifeboat Trust.\r\n(Registered 26 June 2017)",
+     "createdWhen": "2024-04-18T15:14:53.1666667",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [],
+ "synopsis": "John Lamont is the Conservative MP for <a href='/constituency/4440/overview'>Berwickshire, Roxburgh and Selkirk</a>, and has been an MP continually since 8 June 2017. \r\nHe currently undertakes the role of Shadow Deputy Leader of the House of Commons.",
+ "history": [
+  {
+   "id": 1950442,
+   "uin": "35913",
+   "heading": "Palace of Westminster: Health and Safety",
+   "questionText": "To ask the hon. Member for Blaenau Gwent and Rhymney, representing the House of Commons Commission, whether any health and safety concerns have been raised with the Commission regarding Carriage Gates.",
+   "dateTabled": "2026-10-19T00:00:00",
+   "answeringBodyName": "House of Commons Commission"
+  },
+  {
+   "id": 1958483,
+   "uin": "42011",
+   "heading": "A1: Repairs and Maintenance",
+   "questionText": "To ask the Secretary of State for Transport, whether she plans to upgrade the A1 from the junction with the A697 to the England / Scotland border.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1958482,
+   "uin": "42010",
+   "heading": "A1: Accidents",
+   "questionText": "To ask the Secretary of State for Transport, how many fatal road traffic accidents there have been on the A1 between the junction with the A697 and the England / Scotland border in each month since 2022.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1958481,
+   "uin": "42009",
+   "heading": "A1: Accidents",
+   "questionText": "To ask the Secretary of State for Transport, how many road traffic accidents there have been on the A1 between the junction with the A697 and the England / Scotland border in each month since 2022.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1950443,
+   "uin": "35914",
+   "heading": "New Palace Yard: Christmas Trees",
+   "questionText": "To ask the hon. Member for Blaenau Gwent and Rhymney, representing the House of Commons Commission, what (1) costs will be incurred to bring the Christmas Tree into New Palace Yard; and (2) what these costs relate to.",
+   "dateTabled": "2026-10-19T00:00:00",
+   "answeringBodyName": "House of Commons Commission"
+  },
+  {
+   "id": 1950441,
+   "uin": "35912",
+   "heading": "Palace of Westminster: Access",
+   "questionText": "To ask the hon. Member for Blaenau Gwent and Rhymney, representing the House of Commons Commission, whether fire engines can access Carriage Gates.",
+   "dateTabled": "2026-10-19T00:00:00",
+   "answeringBodyName": "House of Commons Commission"
+  },
+  {
+   "id": 1956410,
+   "uin": "901816",
+   "heading": "Nuclear Power: Wales",
+   "questionText": "To ask the Secretary of State for Wales, what steps he is taking with the Secretary of State for Energy Security and Net Zero to support nuclear power generation in Wales.",
+   "dateTabled": "2026-10-27T00:00:00",
+   "answeringBodyName": "Wales Office"
+  },
+  {
+   "id": 1952866,
+   "uin": "901697",
+   "heading": "Asylum: Housing",
+   "questionText": "To ask the Secretary of State for the Home Department, what discussions she has had with the Scottish Borders Council on the provision of accommodation for asylum seekers.",
+   "dateTabled": "2026-10-20T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1916653,
+   "uin": "10218",
+   "heading": "Driving Tests: Scottish Borders",
+   "questionText": "To ask the Secretary of State for Transport, what the average waiting time is for driving tests at (a) Hawick, (b) Galashiels, (c) Kelso, (d) Duns and (e) Berwick-On-Tweed test centres.",
+   "dateTabled": "2026-06-16T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1917022,
+   "uin": "900394",
+   "heading": "United Kingdom: Wales",
+   "questionText": "To ask the Secretary of State for Wales, what steps she is taking with Cabinet colleagues to strengthen Wales’ place in the Union.",
+   "dateTabled": "2026-06-09T00:00:00",
+   "answeringBodyName": "Wales Office"
+  },
+  {
+   "id": 1896998,
+   "uin": "124982",
+   "heading": "Poultry: China",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she has made of the potential implications for her policies of trends in the levels of imported chicken products from China since July 2024.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1901303,
+   "uin": "128295",
+   "heading": "Television: Internet",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, pursuant to the Answer of 14 April 2026 to Question 123660 on Television: Internet, whether her Department’s definition of universal access to free-to-air television requires that households be a",
+   "dateTabled": "2026-04-20T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1897002,
+   "uin": "124986",
+   "heading": "Poultry: China",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether she has made an assessment of the extent to which chicken products from China are used to fulfil public procurement contracts in the UK.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1897001,
+   "uin": "124985",
+   "heading": "Poultry: China",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what recent assessment she has made of whether chicken products from China have been produced in compliance with UK animal welfare standards.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1897000,
+   "uin": "124984",
+   "heading": "Poultry: China",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what recent assessment she has made of whether chicken products imported from China comply with UK food standards.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1896999,
+   "uin": "124983",
+   "heading": "Poultry: China",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether her Department holds data on the quantity of chicken products imported from China in each month since July 2024.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1899829,
+   "uin": "908699",
+   "heading": "Local Growth Deals: Borderlands",
+   "questionText": "To ask the Secretary of State for Scotland, how much of the funding allocated to the Borderlands Inclusive Growth Deal remains to be spent.",
+   "dateTabled": "2026-03-26T00:00:00",
+   "answeringBodyName": "Scotland Office"
+  },
+  {
+   "id": 1895493,
+   "uin": "124175",
+   "heading": "Broadband: Digital Broadcasting",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, whether she has made an assessment of the potential merits of providing funding to support households with broadband connectivity costs in a transition from digital terrestrial television to IPTV",
+   "dateTabled": "2026-03-26T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1894940,
+   "uin": "123658",
+   "heading": "Television: Digital Broadcasting",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, whether her Department has assessed the extent to which switching off digital terrestrial television could require households to take out broadband subscriptions in order to access television ser",
+   "dateTabled": "2026-03-25T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1894939,
+   "uin": "123657",
+   "heading": "Television: Digital Broadcasting",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what assessment her Department has made of the adequacy of the reliability of broadband networks, including the frequency and duration of outages, for the delivery of television services compared",
+   "dateTabled": "2026-03-25T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1894938,
+   "uin": "123656",
+   "heading": "Television: Digital Broadcasting",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what assessment her Department has made of the potential implications for her policies of the gap between broadband availability and household take-up in the context of a transition from digital ",
+   "dateTabled": "2026-03-25T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1894942,
+   "uin": "123660",
+   "heading": "Television: Internet",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, if she will make an assessment of how universal access to free-to-air television would be guaranteed under any IPTV-only system.",
+   "dateTabled": "2026-03-25T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1894941,
+   "uin": "123659",
+   "heading": "Television: Internet",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what assessment she has made of the potential impact on household costs of a transition from digital terrestrial television to IPTV, in the context of the requirement for broadband subscriptions ",
+   "dateTabled": "2026-03-25T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1879045,
+   "uin": "111182",
+   "heading": "Lord Mandelson",
+   "questionText": "To ask the Secretary of State for the Home Department, when Home Office ministers or officials last met with Peter Mandelson; and what was discussed at that meeting.",
+   "dateTabled": "2026-02-05T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1879037,
+   "uin": "111180",
+   "heading": "Lord Mandelson",
+   "questionText": "To ask the Secretary of State for the Home Department, whether (a) Ministers and (b) officials in her Department had discussions with Peter Mandelson on the establishment of an inquiry into grooming gangs in the UK.",
+   "dateTabled": "2026-02-05T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1889764,
+   "uin": "119405",
+   "heading": "Nuclear Power: Scotland",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what discussions his Department has had with the (a) Scotland Office and (b) Scottish Government on the promotion of new nuclear development in Scotland.",
+   "dateTabled": "2026-03-10T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1891751,
+   "uin": "908343",
+   "heading": "Offences against Children: Sentencing",
+   "questionText": "To ask the Secretary of State for Justice, what steps his Department is taking ensure that people convicted of charges related to grooming gangs receive adequate sentences.",
+   "dateTabled": "2026-03-11T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1889151,
+   "uin": "908193",
+   "heading": "Taxation",
+   "questionText": "To ask the Chancellor of the Exchequer, what estimate she has made of taxation levels in each of the next five years.",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1883881,
+   "uin": "115007",
+   "heading": "Schools: Uniforms",
+   "questionText": "To ask the Secretary of State for Education, what assessment she has made of the potential impact of the proposed cap on branded school uniform items on specialist academies, including those with a particular sporting or technical focus.",
+   "dateTabled": "2026-02-23T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1883880,
+   "uin": "115006",
+   "heading": "Schools: Uniforms",
+   "questionText": "To ask the Secretary of State for Education, what assessment she has made of the potential impact of changes to school uniform policy on academic outcomes.",
+   "dateTabled": "2026-02-23T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1883879,
+   "uin": "115005",
+   "heading": "Schools: Uniforms",
+   "questionText": "To ask the Secretary of State for Education, what assessment she has made of the potential impact of the proposed cap on branded school uniform items on pupil behaviour and attendance in schools.",
+   "dateTabled": "2026-02-23T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1883878,
+   "uin": "115004",
+   "heading": "Schools: Uniforms",
+   "questionText": "To ask the Secretary of State for Education, what assessment she has made of the potential impact of the proposed uniform cap on the overall cost of school uniform for parents.",
+   "dateTabled": "2026-02-23T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1883877,
+   "uin": "115003",
+   "heading": "Schools: Uniforms",
+   "questionText": "To ask the Secretary of State for Education, what assessment she has made of the potential impact of the proposed cap on branded uniform items on curricular and extracurricular PE participation.",
+   "dateTabled": "2026-02-23T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1883876,
+   "uin": "115002",
+   "heading": "Schools: Uniforms",
+   "questionText": "To ask the Secretary of State for Education, whether she plans to review or clarify aspects of the school uniform guidance prior to the provisions of the Children’s Wellbeing and Schools Bill coming into force.",
+   "dateTabled": "2026-02-23T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1883875,
+   "uin": "115001",
+   "heading": "Schools: Uniforms",
+   "questionText": "To ask the Secretary of State for Education, what feedback her Department has received from schools on the practical application of the three-item cap on branded uniform.",
+   "dateTabled": "2026-02-23T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1883874,
+   "uin": "115000",
+   "heading": "Schools: Uniforms",
+   "questionText": "To ask the Secretary of State for Education, what assessment she has made of the potential impact of the implementation timetable for school uniform guidance on school procurement cycles and existing supplier arrangements.",
+   "dateTabled": "2026-02-23T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1883873,
+   "uin": "114999",
+   "heading": "Schools: Uniforms",
+   "questionText": "To ask the Secretary of State for Education, what assessment has her Department made of the potential merits of allowing a longer implementation period for changes to school uniform policy.",
+   "dateTabled": "2026-02-23T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1883871,
+   "uin": "114998",
+   "heading": "Schools: Uniforms",
+   "questionText": "To ask the Secretary of State for Education, what assessment she has made of the adequacy of time available to schools to implement the recent changes to school uniform guidance ahead of the proposed legislative cap.",
+   "dateTabled": "2026-02-23T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1883870,
+   "uin": "114997",
+   "heading": "Schools: Uniforms",
+   "questionText": "To ask the Secretary of State for Education, what assessment her Department has made of the potential impact of replacing the proposed cap on the number of branded items with a monetary cap set by regulations.",
+   "dateTabled": "2026-02-23T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1879044,
+   "uin": "111181",
+   "heading": "Lord Mandelson",
+   "questionText": "To ask the Secretary of State for Scotland, when Scotland Office ministers or officials last met with Peter Mandleson; and what was discussed at that meeting.",
+   "dateTabled": "2026-02-05T00:00:00",
+   "answeringBodyName": "Scotland Office"
+  },
+  {
+   "id": 1880123,
+   "uin": "112247",
+   "heading": "Cameron Barracks",
+   "questionText": "To ask the Secretary of State for Defence, whether his Department has deployed (a) military police and (b) other personnel to Cameron Barracks.",
+   "dateTabled": "2026-02-10T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1880124,
+   "uin": "112248",
+   "heading": "Cameron Barracks: Asylum",
+   "questionText": "To ask the Secretary of State for Defence, what discussions he has had with the Secretary of State for the Home Department on the potential impact of the proposed use of Cameron Barracks to accommodate asylum seekers on army families.",
+   "dateTabled": "2026-02-10T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1880122,
+   "uin": "112246",
+   "heading": "Asylum: Cameron Barracks",
+   "questionText": "To ask the Secretary of State for the Home Department, whether she has had discussions with the Secretary of State for Defence on the deployment of military police around Cameron Barracks.",
+   "dateTabled": "2026-02-10T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1880121,
+   "uin": "112245",
+   "heading": "Asylum: Cameron Barracks",
+   "questionText": "To ask the Secretary of State for the Home Department, what discussions her Department has had with the Scottish Government on community safety and child welfare in connection with the proposed use of Cameron Barracks to accommodate asylum seekers.",
+   "dateTabled": "2026-02-10T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1880120,
+   "uin": "112244",
+   "heading": "Asylum: Cameron Barracks",
+   "questionText": "To ask the Secretary of State for the Home Department, what discussions her Department has had with Highland Council on the proposed use of Cameron Barracks to accommodate asylum seekers.",
+   "dateTabled": "2026-02-10T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1880119,
+   "uin": "112243",
+   "heading": "Asylum: Cameron Barracks",
+   "questionText": "To ask the Secretary of State for the Home Department, what discussions her Department has had with Police Scotland on the proposed use of Cameron Barracks to accommodate asylum seekers.",
+   "dateTabled": "2026-02-10T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1880126,
+   "uin": "112250",
+   "heading": "Asylum: Cameron Barracks",
+   "questionText": "To ask the Secretary of State for Scotland, what discussions his Department has had with Highland Council and Police Scotland on the housing of asylum seekers at Cameron Barracks.",
+   "dateTabled": "2026-02-10T00:00:00",
+   "answeringBodyName": "Scotland Office"
+  },
+  {
+   "id": 1880125,
+   "uin": "112249",
+   "heading": "Asylum: Cameron Barracks",
+   "questionText": "To ask the Secretary of State for Scotland, what discussions he has had with the Secretary of State for the Home Department on the proposed use of Cameron Barracks to accommodate asylum seekers.",
+   "dateTabled": "2026-02-10T00:00:00",
+   "answeringBodyName": "Scotland Office"
+  },
+  {
+   "id": 1877187,
+   "uin": "109823",
+   "heading": "Biotechnology: Foreign Investment in UK",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps she is taking to ensure that the UK remains a competitive destination for international investment in agricultural biotechnology compared to EU member states.",
+   "dateTabled": "2026-01-30T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1877186,
+   "uin": "109822",
+   "heading": "Genetically Modified Organisms: Crops",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps her Department is taking to ensure that future SPS alignment with the EU does not reintroduce regulatory barriers for precision-bred crops already permitted under the Precis",
+   "dateTabled": "2026-01-30T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1877772,
+   "uin": "907640",
+   "heading": "Offences against Children: Victim Support Schemes",
+   "questionText": "To ask the Secretary of State for Justice, what discussions he has had with the Scottish Government on supporting the victims of cross-border grooming gangs.",
+   "dateTabled": "2026-01-28T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1877354,
+   "uin": "907606",
+   "heading": "Defence: Scotland",
+   "questionText": "To ask the Secretary of State for Defence, what steps he is taking to support employment in the defence sector in Scotland.",
+   "dateTabled": "2026-01-27T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1872003,
+   "uin": "106200",
+   "heading": "Equitable Life Assurance Society: Compensation",
+   "questionText": "To ask the Chancellor of the Exchequer, how much of the £625 million allocated for compensating Equitable Life with-profits annuity holders has been spent up to and including 2024-25; and how much was originally forecast to be spent on a (a) cash and (b) ",
+   "dateTabled": "2026-01-15T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1871207,
+   "uin": "907182",
+   "heading": "Electricity: Infrastructure",
+   "questionText": "To ask the Secretary of State for Scotland, what steps he is taking with Cabinet colleagues to help prevent the overdevelopment of electricity infrastructure in rural communities in Scotland.",
+   "dateTabled": "2026-01-06T00:00:00",
+   "answeringBodyName": "Scotland Office"
+  },
+  {
+   "id": 1862073,
+   "uin": "98417",
+   "heading": "Brain: Tumours",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps is his Department is taking to ensure brain tumour patients have timely access to whole genome sequencing.",
+   "dateTabled": "2025-12-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1856503,
+   "uin": "94032",
+   "heading": "Quarrying: Costs",
+   "questionText": "To ask the Chancellor of the Exchequer, whether she plans to review (a) tax and (b) energy cost burdens facing small quarrying businesses in rural constituencies.",
+   "dateTabled": "2025-11-24T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1856698,
+   "uin": "94289",
+   "heading": "Cultural Heritage: Stone",
+   "questionText": "To ask the Secretary of State for Business and Trade, what steps his Department is taking to support the continued availability of British natural stone for heritage restoration projects.",
+   "dateTabled": "2025-11-25T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1856502,
+   "uin": "94031",
+   "heading": "Stone: Trade Competitiveness",
+   "questionText": "To ask the Secretary of State for Business and Trade, what assessment his Department has made of the potential impact of (a) international trade practices and (b) foreign subsidies on the competitiveness of UK natural stone SMEs.",
+   "dateTabled": "2025-11-24T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1856501,
+   "uin": "94030",
+   "heading": "Planning: Stone",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, whether the Government plans to ensure that local authorities recognise natural stone as a low-carbon material in planning guidance and local plan development.",
+   "dateTabled": "2025-11-24T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1962771,
+   "uin": "45829",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what assessment he has made of the potential impact of the proposed treatment of imported preforms under the polyethylene terephthalate safeguard measure on (a) employment and (b) ",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1962770,
+   "uin": "45828",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, whether he will publish his public interest assessment alongside his decision on the Trade Remedies Authority's recommended safeguard measure on polyethylene terephthalate imports.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1962769,
+   "uin": "45827",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what assessment he has made of the potential impact of including recycled polyethylene terephthalate within the scope of the proposed safeguard measure on the ability of UK manufac",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1962768,
+   "uin": "45826",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what assessment he has made of the potential impact of the proposed polyethylene terephthalate safeguard measure on businesses supplied under existing forward supply agreements.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1962767,
+   "uin": "45825",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, whether he will take account of responses to the Trade Remedies Authority's consultation on its provisional recommendation on polyethylene terephthalate imports before the proposed",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1962766,
+   "uin": "45824",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what assessment he has made of whether UK polyethylene terephthalate production capacity is sufficient to meet domestic demand for the duration of the proposed safeguard measure.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1962765,
+   "uin": "45823",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what assessment he has made of the potential impact of the Trade Remedies Authority's provisional recommendation of a safeguard measure on imports of polyethylene terephthalate on ",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1962764,
+   "uin": "45822",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what assessment he has made of the potential impact of the Trade Remedies Authority's proposed polyethylene terephthalate safeguard measure on (a) the resilience of food and drink ",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1963174,
+   "uin": "45446",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Health and Social Care, in what way stakeholders will contribute evidence to future prostate cancer screening model updates.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1963173,
+   "uin": "45445",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Health and Social Care, if she will publish a timetable for work on biomarkers and risk algorithms identified within the prostate cancer screening model.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1963172,
+   "uin": "45444",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Health and Social Care, what guidance from Government UK NSC is required to follow in relation to Quality Assurance of models used in cancer screening reviews.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1963171,
+   "uin": "45443",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Health and Social Care, what process was used to respond to quality issues raised by York Health Economics Consortium in relation to prostate cancer screening.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1963170,
+   "uin": "45442",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether an external body was given access to a commercially redacted version of the prostate cancer screening model.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1963169,
+   "uin": "45441",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment she has made of the effectiveness of the involvement of York Health Economics Consortium in providing quality assurance in relation to prostate cancer screening; and what comparison",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1962539,
+   "uin": "45228",
+   "heading": "East Coast Main Line: Standards",
+   "questionText": "To ask the Secretary of State for Transport, what assessment has she made of the reliability of the East Coast Mainline between 1 November and 20 November 2026.",
+   "dateTabled": "2026-11-20T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1960998,
+   "uin": "44057",
+   "heading": "Fire and Rescue Services: Zero Hours Contracts",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, how many firefighters are on zero hour contracts.",
+   "dateTabled": "2026-11-17T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  }
+ ],
+ "historyComplete": true
+}

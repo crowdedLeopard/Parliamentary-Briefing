@@ -1,0 +1,2951 @@
+{
+ "id": 4785,
+ "fetchedOn": "2026-11-24",
+ "core": {
+  "id": 4785,
+  "nameListAs": "Spencer, Dr Ben",
+  "nameDisplayAs": "Dr Ben Spencer",
+  "nameFullTitle": "Dr Ben Spencer MP",
+  "nameAddressAs": null,
+  "latestParty": {
+   "id": 4,
+   "name": "Conservative",
+   "abbreviation": "Con",
+   "backgroundColour": "0063ba",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": false,
+   "governmentType": 3,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "Runnymede and Weybridge",
+   "membershipFromId": 4271,
+   "house": 1,
+   "membershipStartDate": "2019-12-12T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2024-07-04T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/4785/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2024-05-31T00:00:00",
+    "constituencyEnd": null,
+    "house": 1,
+    "name": "Runnymede and Weybridge",
+    "id": 4271,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "2010-04-13T00:00:00",
+    "constituencyEnd": "2024-05-30T00:00:00",
+    "house": 1,
+    "name": "Runnymede and Weybridge",
+    "id": 3710,
+    "startDate": "2019-12-12T00:00:00",
+    "endDate": "2024-05-30T00:00:00",
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [
+   {
+    "house": 1,
+    "name": "Camberwell and Peckham",
+    "id": 3384,
+    "startDate": "2017-06-08T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "houseMemberships": [
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "2019-12-12T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Dr Ben Spencer",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [],
+  "oppositionPosts": [
+   {
+    "house": 1,
+    "name": "Shadow Minister (Cabinet Office)",
+    "id": 956,
+    "startDate": "2026-08-31T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Cabinet Office",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/cabinet-office"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Minister (Science, Innovation and Technology)",
+    "id": 1675,
+    "startDate": "2024-11-06T00:00:00",
+    "endDate": "2026-08-31T00:00:00",
+    "additionalInfo": "Department for Science, Innovation and Technology",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Minister (Health and Social Care)",
+    "id": 1413,
+    "startDate": "2024-07-19T00:00:00",
+    "endDate": "2024-11-06T00:00:00",
+    "additionalInfo": "Department of Health and Social Care",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-of-health-and-social-care"
+   }
+  ],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Conservative",
+    "id": 4,
+    "startDate": "2019-12-12T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 1,
+    "name": "Work and Pensions Committee",
+    "id": 164,
+    "startDate": "2020-03-02T00:00:00",
+    "endDate": "2024-05-30T00:01:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Approved Premises (Substance Testing) Bill",
+    "id": 566,
+    "startDate": "2021-12-08T00:00:00",
+    "endDate": "2021-12-15T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Marriage and Civil Partnership (Minimum Age) Bill",
+    "id": 570,
+    "startDate": "2022-01-05T00:00:00",
+    "endDate": "2022-01-12T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Draft Mental Health Bill (Joint Committee)",
+    "id": 605,
+    "startDate": "2022-07-11T00:00:00",
+    "endDate": "2024-05-30T00:01:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Renters (Reform) Bill",
+    "id": 684,
+    "startDate": "2023-11-08T00:00:00",
+    "endDate": "2023-11-28T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Finance (No.2) Bill",
+    "id": 733,
+    "startDate": "2024-05-15T00:00:00",
+    "endDate": "2024-05-21T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Data (Use and Access) Bill [HL]",
+    "id": 781,
+    "startDate": "2025-02-26T00:00:00",
+    "endDate": "2025-03-11T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Cyber Security and Resilience (Network and Information Systems) Bill",
+    "id": 829,
+    "startDate": "2026-01-21T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 3,
+   "name": "2. (a) Support linked to an MP but received by a local party organisation or indirectly via a central party organisation",
+   "sortOrder": 0,
+   "interests": [
+    {
+     "id": 13948,
+     "interest": "Name of donor: Carol and Clive Chase\r\nAddress of donor: private\r\nAmount of donation or nature and value if donation in kind: £6,000 money donated to FTL Club, an unincorporated association, to support my political activities.\r\nDonor status: individual\r\n(Registered 24 November 2025)",
+     "createdWhen": "2025-12-02T09:18:26.1",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 14387,
+     "interest": "Name of donor: Bansols Beta Ltd\r\nAddress of donor: 12 North Bar, Banbury OX16 0TB\r\nAmount of donation or nature and value if donation in kind: £10,000 money donated to FTL Club, an unincorporated association, to support my political activities.\r\nDonor status: company, registration 02878404\r\n(Registered 26 January 2026)",
+     "createdWhen": "2026-02-03T11:19:52.3066667",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "name": "3. Gifts, benefits and hospitality from UK sources",
+   "sortOrder": 1,
+   "interests": [
+    {
+     "id": 16012,
+     "interest": "Name of donor: Informa Connect Holdings Ltd,\r\nAddress of donor: 5 Howick Place, London, SW1P 1WG\r\nAmount of donation or nature and value if donation in kind: VIP pass to London Tech Week which I attended in my role as Shadow Minister of State for Science, Innovation and Technology (value estimated based on the closest commercial equivalent VIP Premium Pass), value £4,999\r\nDate received: 8 June 2026 to 10 June 2026\r\nDate accepted: 8 June 2026\r\nDonor status: company, registration 15615107\r\n(Registered 30 June 2026)",
+     "createdWhen": "2026-07-14T09:29:28.21",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 16161,
+     "interest": "Name of donor: techUK\r\nAddress of donor: 10 St Bride Street,  London  EC4A 4AD\r\nAmount of donation or nature and value if donation in kind: Attendance at the techUK annual dinner 2026.  I attended this event in my role as Shadow Minister of State for Science, Innovation and Technology, value £450\r\nDate received: 30 June 2026\r\nDate accepted: 30 June 2026\r\nDonor status: company, registration 01200318\r\n(Registered 7 July 2026)",
+     "createdWhen": "2026-07-14T09:29:40.0133333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "name": "4. Visits outside the UK",
+   "sortOrder": 2,
+   "interests": [
+    {
+     "id": 13831,
+     "interest": "Name of donor: APPG for Japan\r\nAddress of donor: House of Commons, London SW1A 0AA\r\nEstimate of the probable value (or amount of any donation): Flights (£3,134.90), accommodation (£1,943.14), food and hospitality (£574.65), transport in Japan (£364.97), value £6,017.66\r\nDestination of visit: Japan\r\nDates of visit: 8 October 2025 to 16 October 2025\r\nPurpose of visit: Strengthening UK-Japan relations and engagement with Japanese politicians and businesses, including visits and meetings linked to my role as Shadow DSIT Minister of State.\r\n(Registered 12 November 2025)",
+     "createdWhen": "2025-11-18T10:10:05.49",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [],
+ "synopsis": "Dr Ben Spencer is the Conservative MP for <a href='/constituency/4271/overview'>Runnymede and Weybridge</a>, and has been an MP continually since 12 December 2019. \r\nHe currently undertakes the role of Shadow Minister (Cabinet Office).",
+ "history": [
+  {
+   "id": 1948893,
+   "uin": "34680",
+   "heading": "Artificial Intelligence: Cybersecurity",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, whether a budget has been allocated to the extension of the frontier AI hardening programme announced on 12 October 2026.",
+   "dateTabled": "2026-10-14T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1961522,
+   "uin": "44449",
+   "heading": "Treasury: Artificial Intelligence",
+   "questionText": "To ask the Chancellor of the Exchequer, whether HM Treasury uses any open-weight AI model published by a developer based in China.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1962114,
+   "uin": "44907",
+   "heading": "AI Taskforce",
+   "questionText": "To ask the Minister for the Cabinet Office, how many times the Prime Minister has met the Chair of the Prime Minister's AI Taskforce since 24 July 2026.",
+   "dateTabled": "2026-11-19T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1962118,
+   "uin": "44911",
+   "heading": "AI Taskforce",
+   "questionText": "To ask the Minister for the Cabinet Office, pursuant to answer 24322, whether objectives have been set for the Prime Minister's AI Taskforce.",
+   "dateTabled": "2026-11-19T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1962123,
+   "uin": "44916",
+   "heading": "AI Taskforce: Staff",
+   "questionText": "To ask the Minister for the Cabinet Office, whether staff of the Prime Minister's AI Taskforce previously worked in the Department for Science, Innovation and Technology.",
+   "dateTabled": "2026-11-19T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1962111,
+   "uin": "44904",
+   "heading": "AI Taskforce",
+   "questionText": "To ask the Minister for the Cabinet Office, pursuant to the answer of 18 November 2026 to question 43121, which projects the Prime Minister's AI Taskforce is delivering directly.",
+   "dateTabled": "2026-11-19T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1961836,
+   "uin": "44763",
+   "heading": "AI Taskforce",
+   "questionText": "To ask the Minister for the Cabinet Office, pursuant to the answer of 18 November 2026 to Question 43120, what lessons the AI Taskforce has learned from the operation of the Vaccines Taskforce.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1946713,
+   "uin": "32920",
+   "heading": "Data Centres: Planning Permission",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, how many planning applications for data centres have been (a) submitted and (b) approved within each AI Growth Zone since designation; and what the median determination time was.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1946303,
+   "uin": "32482",
+   "heading": "Data Centres: Planning Permission",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, how many planning applications for data centres were (a) received and (b) determined within each AI Growth Zone local planning authority in each year since 2023; and what the med",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1961493,
+   "uin": "44420",
+   "heading": "Artificial Intelligence: Training",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, how many of the AI training courses completed through the AI Skills Boost programme by the end of July 2026 were completed by employees of the programme's delivery partners.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1961507,
+   "uin": "44434",
+   "heading": "AI Taskforce",
+   "questionText": "To ask the Minister for the Cabinet Office, whether the Prime Minister's AI Taskforce will publish an annual report.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1960851,
+   "uin": "43910",
+   "heading": "Artificial Intelligence: Cybersecurity",
+   "questionText": "To ask the Minister for the Cabinet Office, pursuant to the answer to Question 38199, whether the discussions with US counterparts referred to have included the security of AI models developed in China.",
+   "dateTabled": "2026-11-17T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1961556,
+   "uin": "44483",
+   "heading": "Fly-tipping: Runnymede",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what recent progress her Department has made on clearance of the illegal waste site in Aymer Close.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1961492,
+   "uin": "44419",
+   "heading": "Artificial Intelligence: Government Departments",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, whether the Government Digital Service holds a record of the AI models used by government departments.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1944703,
+   "uin": "30880",
+   "heading": "Digital Regulation Cooperation Forum",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what the Digital Regulation Cooperation Forum's budget and staffing are; and whether the Government intends to give it any statutory function in respect of AI.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1953407,
+   "uin": "38195",
+   "heading": "Artificial Intelligence: Procurement",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, which departments have engaged with the a) Government Digital Service, b) Government Cyber Unit and c) the National Cyber Security Centre in relation to AI procurement.",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1960677,
+   "uin": "43807",
+   "heading": "Artificial Intelligence: Norway",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, whether the Government has allocated funding to activities under the United Kingdom - Norway joint statement of Intent on Artificial Intelligence published on 12 November 2026.",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1960679,
+   "uin": "43809",
+   "heading": "Artificial Intelligence: Norway",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, whether the Government plans to host any national compute assets or public sector workloads in Norway under the United Kingdom - Norway joint statement of intent on Artificial Inte",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1960664,
+   "uin": "43794",
+   "heading": "AI Growth Zones: Investment",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what information his Department holds on how much private investment has been committed to date in the five AI growth zones.",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1960656,
+   "uin": "43786",
+   "heading": "Data Centres: Energy",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what the source is of the estimate in the UK Compute Roadmap that the United Kingdom will need at least 6 gigawatts of AI-capable data centre capacity by 2030, cited in paragraphs ",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1953871,
+   "uin": "38581",
+   "heading": "Artificial Intelligence: UK Trade with EU",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, whether the Government has made an assessment of the potential cost to UK businesses of aligning with the EU AI Act.",
+   "dateTabled": "2026-10-27T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1959855,
+   "uin": "43120",
+   "heading": "AI Taskforce",
+   "questionText": "To ask the Minister for the Cabinet Office, whether objectives have been set for the Prime Minister's AI Taskforce for 2026-2027.",
+   "dateTabled": "2026-11-13T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1959856,
+   "uin": "43121",
+   "heading": "AI Taskforce",
+   "questionText": "To ask the Minister for the Cabinet Office, whether the Prime Minister's AI Taskforce has the authority to direct departments on the delivery of artificial intelligence projects.",
+   "dateTabled": "2026-11-13T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1959854,
+   "uin": "43119",
+   "heading": "AI Taskforce",
+   "questionText": "To ask the Minister for the Cabinet Office, pursuant to the Answer of 16 October 2026 to Question 32923 on Artificial Intelligence: Public Sector, whether the formal governance arrangements between the Prime Minister's AI Taskforce and the Government Digi",
+   "dateTabled": "2026-11-13T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1959857,
+   "uin": "43122",
+   "heading": "Artificial Intelligence",
+   "questionText": "To ask the Minister for the Cabinet Office, whether the AI Opportunities Action Plan, published on 13 January 2025, remains the Government's strategy for artificial intelligence.",
+   "dateTabled": "2026-11-13T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1951281,
+   "uin": "36678",
+   "heading": "Public Sector: Artificial Intelligence",
+   "questionText": "To ask the Minister for the Cabinet Office, which (a) Minister and (b) official is responsible for making decisions about the use of specific vendors of AI technologies in public services.",
+   "dateTabled": "2026-10-20T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1959076,
+   "uin": "42554",
+   "heading": "AI Security Institute and Centre for AI Measurement",
+   "questionText": "To ask the Minister for the Cabinet Office, whether the AI Security Institute has a written agreement with the Centre for AI Measurement on the division of their work on evaluating highly capable AI systems.",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1954225,
+   "uin": "38836",
+   "heading": "Artificial Intelligence: Disease Control",
+   "questionText": "To ask the Minister for the Cabinet Office, on what basis the commitments of model credits and other support made by OpenAI and Anthropic to the AI Biosecurity Lab were valued.",
+   "dateTabled": "2026-10-28T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1953422,
+   "uin": "38210",
+   "heading": "Department for Environment, Food and Rural Affairs: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what discussions her Department has had with (a) the Government Digital Service, (b) Government Cyber Unit, and (c) the National Cyber Security Centre on its procurement of AI products",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1959390,
+   "uin": "42710",
+   "heading": "Cabinet Office: Written Questions",
+   "questionText": "To ask the Minister for the Cabinet Office, when he plans to answer named day question 38196 tabled on 26/10/2026.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1953408,
+   "uin": "38196",
+   "heading": "Artificial Intelligence: China",
+   "questionText": "To ask the Minister for the Cabinet Office, whether an assessment has been made of the security, technical, and commercial implications of using Chinese open weight models by government departments.",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1959391,
+   "uin": "42711",
+   "heading": "Cabinet Office: Written Questions",
+   "questionText": "To ask the Minister for the Cabinet Office, when she plans to answer named day question 38197 tabled on 26/10/2026.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1959388,
+   "uin": "42708",
+   "heading": "Cabinet Office: Written Questions",
+   "questionText": "To ask the Minister for the Cabinet Office, when she plans to answer named day question 37320 tabled on 22/10/2026.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1959392,
+   "uin": "42712",
+   "heading": "Artificial Intelligence: China",
+   "questionText": "To ask the Minister for the Cabinet Office, pursuant to Question 28819, whether she plans to collect information centrally on the use by government departments of open-weight AI models published by developers in China.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1958578,
+   "uin": "42104",
+   "heading": "Artificial Intelligence: China",
+   "questionText": "To ask the Minister for the Cabinet Office, whether she has received advice from AISI regarding Government use of Qwen.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1959858,
+   "uin": "43123",
+   "heading": "AI Security Institute",
+   "questionText": "To ask the Minister for the Cabinet Office, to whom the Director of the AI Security Institute reports.",
+   "dateTabled": "2026-11-13T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1952184,
+   "uin": "37320",
+   "heading": "Government Departments: DeepSeek",
+   "questionText": "To ask the Minister for the Cabinet Office, whether the Government has issued guidance to departments on the use of products and services developed using DeepSeek models.",
+   "dateTabled": "2026-10-22T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1958576,
+   "uin": "42102",
+   "heading": "Government Departments: Cybersecurity",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what proportion of government IT a) hardware and b) software is no longer eligible for vendor security updates.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1959083,
+   "uin": "42561",
+   "heading": "Centre for AI Measurement: Contracts",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, whether the £10.5 million contract for the Centre for AI Measurement is funded from the £11 million AI Assurance Innovation Fund.",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1959089,
+   "uin": "42567",
+   "heading": "Centre for AI Measurement: Contracts",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what assessment the Government made of alternative suppliers before awarding the contract for the Centre for AI Measurement.",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1959056,
+   "uin": "42534",
+   "heading": "Artificial Intelligence: China",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, whether open-weight models published by developers based in China have been deployed on Isambard-AI or Dawn under the AI Research Resource.",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1953409,
+   "uin": "38197",
+   "heading": "Artificial Intelligence: China",
+   "questionText": "To ask the Minister for the Cabinet Office, what advice has been provided to government departments regarding the procurement and use of Chinese open weight AI models.",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1958582,
+   "uin": "42108",
+   "heading": "Administration of Justice: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Justice, what assessment he has made of potential security implications of the use of Chinese open weight AI models in legal proceedings.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1958577,
+   "uin": "42103",
+   "heading": "Artificial Intelligence: China",
+   "questionText": "To ask the Minister for the Cabinet Office, how many Chinese open weight AI models used by Government Departments have been assessed by AISI.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1953411,
+   "uin": "38199",
+   "heading": "DeepSeek: Cybersecurity",
+   "questionText": "To ask the Minister for the Cabinet Office, whether US officials raised security concerns regarding Deepseek with her prior to the US announcement dated 19/10/2026.",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1949447,
+   "uin": "35092",
+   "heading": "Civil Servants: Artificial Intelligence",
+   "questionText": "To ask the Minister for the Cabinet Office, whether she has made an estimate of the time saved per civil servant per day from generative AI tools.",
+   "dateTabled": "2026-10-15T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1944326,
+   "uin": "30475",
+   "heading": "Telecommunications Cables",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what steps the Government is taking to help increase the supply of MTP/MPO Trunk Cables, Ultra-Dense Ribbon Fibre, Single-Mode Fibre, Multimode Fibre and Direct Attach Copper cables into",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1955377,
+   "uin": "39806",
+   "heading": "Artificial Intelligence: Cybersecurity",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, pursuant to 38207, what was the breakdown of token use per frontier model in this exercise.",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1955375,
+   "uin": "39804",
+   "heading": "Artificial Intelligence: Cybersecurity",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, pursuant to the answer to question 38207, what calculation was used to allocated the value of the tokens.",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1955380,
+   "uin": "39809",
+   "heading": "Artificial Intelligence: Cybersecurity",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, with reference to the Department for Science, Innovation and Technology's press release entitled When AI Leaves the Lab: Testing Frontier Models in Government Cyber Defence, published on",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1952329,
+   "uin": "37465",
+   "heading": "Department for Digital, Culture, Media and Sport: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, whether her department has sought advice from the Government Digital Service, Government Cyber Unit, or the National Cyber Security Centre regarding its procurement of AI products, model",
+   "dateTabled": "2026-10-22T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1955369,
+   "uin": "39798",
+   "heading": "Sovereign AI Fund",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, when the Sovereign AI Investment Committee be established.",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1945123,
+   "uin": "31299",
+   "heading": "Artificial Intelligence: Public Appointments",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what conflict of interest arrangements apply to AI Sector Champions who are employees of companies supplying AI services; and if she will publish the register of interests.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1955372,
+   "uin": "39801",
+   "heading": "Artificial Intelligence: Regulation",
+   "questionText": "To ask the Minister for the Cabinet Office, whether the AI Security Institute evaluated Gemini 4 Carbon before its release on 28 October 2026.",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1954678,
+   "uin": "39196",
+   "heading": "AI Security Institute",
+   "questionText": "To ask the Minister for the Cabinet Office, pursuant to the Answer of 28 October 2026 to Question 36255, how does AISI decide which models count as 'frontier or near frontier'.",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1954681,
+   "uin": "39199",
+   "heading": "AI Security Institute: Finance",
+   "questionText": "To ask the Minister for the Cabinet Office, what the budget of the AI Security Institute is in each financial year from 2026-27 to 2029-30 including the additional £120 million announced on 24 October 2026.",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1953861,
+   "uin": "38571",
+   "heading": "Artificial Intelligence: Disease Control",
+   "questionText": "To ask the Minister for the Cabinet Office, whether any of the £100 million for the AI Biosecurity Lab announced on 24 October 2026 is drawn from the £115 million that the Defence Investment Plan states DSIT will spend to strengthen defences against the r",
+   "dateTabled": "2026-10-27T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1953864,
+   "uin": "38574",
+   "heading": "Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, whether the AI Opportunities Unit has been abolished.",
+   "dateTabled": "2026-10-27T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1953862,
+   "uin": "38572",
+   "heading": "AI Growth Zones: Planning Permission",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, which of the five AI Growth Zones have planning consent in place.",
+   "dateTabled": "2026-10-27T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1953877,
+   "uin": "38587",
+   "heading": "Artificial Intelligence: Economic Growth",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, pursuant to the Answer of 26 October 2026 to Question 32092 on Artificial Intelligence: Economic Growth, how the central adoption estimate was derived.",
+   "dateTabled": "2026-10-27T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1953872,
+   "uin": "38582",
+   "heading": "Artificial Intelligence and Digital Service Providers: UK Trade with EU",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, whether the Government has made an assessment of the potential cost to UK businesses of aligning with the EU Cloud and AI Development Act.",
+   "dateTabled": "2026-10-27T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1953849,
+   "uin": "38559",
+   "heading": "AI Security Institute",
+   "questionText": "To ask the Minister for the Cabinet Office, whether the AI Security Institute will publish the findings of its evaluation of Gemini 4 Argon.",
+   "dateTabled": "2026-10-27T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1945530,
+   "uin": "31699",
+   "heading": "Artificial Intelligence",
+   "questionText": "To ask the Minister for the Cabinet Office, how many civil servants support the Cabinet Secretary on AI adoption.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1953874,
+   "uin": "38584",
+   "heading": "Nscale: Essex",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, whether a grid connection date has been offered for the Nscale Loughton development.",
+   "dateTabled": "2026-10-27T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1953944,
+   "uin": "38654",
+   "heading": "Sewers: Runnymede and Weybridge",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what regulatory framework and funding options will help reduce rainwater from entering the foul sewer system in the Runnymede and Weybridge constituency.",
+   "dateTabled": "2026-10-27T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1952214,
+   "uin": "37350",
+   "heading": "Digital Technology: Job Creation",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, if she will publish annual figures on progress towards the ambition in the Digital and Technologies Jobs Plan of around 200,000 entry-level jobs over ten years.",
+   "dateTabled": "2026-10-22T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1954229,
+   "uin": "38840",
+   "heading": "OpenAI: Data Protection",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, with reference to 32378, on what date OpenAI informed the Government that one of its models had accessed publicly available UK government statistics.",
+   "dateTabled": "2026-10-28T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1953421,
+   "uin": "38209",
+   "heading": "Department for Energy Security and Net Zero: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what discussions her Department has had with (a) the Government Digital Service, (b) Government Cyber Unit, and (c) the National Cyber Security Centre on its procurement of AI products, model",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1954679,
+   "uin": "39197",
+   "heading": "AI Security Institute: Canada",
+   "questionText": "To ask the Minister for the Cabinet Office, whether the AI Security Institute shares pre-deployment results with Canada's AI Safety Institute.",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1954675,
+   "uin": "39193",
+   "heading": "Data Centres: Terminology",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, when the definition of a strategic data centre in the Data Centre Covenant will be published.",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1944335,
+   "uin": "30479",
+   "heading": "AI Security Institute: China General Technology Research Institute",
+   "questionText": "To ask the Minister for the Cabinet Office, what meetings the AI Security Institute has had with the China General Technology Research Institute since its inception.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1953859,
+   "uin": "38569",
+   "heading": "Artificial Intelligence: Safety",
+   "questionText": "To ask the Minister for the Cabinet Office, whether the outcomes of the grants awarded under the Alignment Project will be independently evaluated.",
+   "dateTabled": "2026-10-27T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1952186,
+   "uin": "37322",
+   "heading": "AI Taskforce: Staff",
+   "questionText": "To ask the Minister for the Cabinet Office, what the full-time equivalent staffing of the Prime Minister’s AI Taskforce was on 1 October 2026.",
+   "dateTabled": "2026-10-22T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1953873,
+   "uin": "38583",
+   "heading": "AI Security Institute: National Cyber Security Centre",
+   "questionText": "To ask the Minister for the Cabinet Office, whether AISI routinely shares its pre-release evaluation findings with the NCSC.",
+   "dateTabled": "2026-10-27T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1953867,
+   "uin": "38577",
+   "heading": "AI Security Institute",
+   "questionText": "To ask the Minister for the Cabinet Office, with how many developers based outside the UK and the US does AISI has a collaboration agreement.",
+   "dateTabled": "2026-10-27T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1952195,
+   "uin": "37331",
+   "heading": "AI Taskforce: Finance",
+   "questionText": "To ask the Minister for the Cabinet Office, what the budget of the AI Taskforce is for 2026-27.",
+   "dateTabled": "2026-10-22T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1952216,
+   "uin": "37352",
+   "heading": "AI Security Institute",
+   "questionText": "To ask the Minister for the Cabinet Office, on how many occasions since 1 January 2026 the AI Security Institute has recommended changes to a model before its release that the developer did not make.",
+   "dateTabled": "2026-10-22T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1954243,
+   "uin": "38854",
+   "heading": "Artificial Intelligence: Procurement",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, how many contracts have been awarded under the Sovereign AI Research and Development Procurement Scheme.",
+   "dateTabled": "2026-10-28T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1954239,
+   "uin": "38850",
+   "heading": "OpenAI",
+   "questionText": "To ask the Minister for the Cabinet Office, whether the AI Security Institute evaluated OpenAI’s GPT-6.1 Terra before its release on 26 October 2026.",
+   "dateTabled": "2026-10-28T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1954234,
+   "uin": "38845",
+   "heading": "Meta: Artificial Intelligence",
+   "questionText": "To ask the Minister for the Cabinet Office, whether the AI Security Institute evaluated Meta’s Muse Wonder before its release on 12 October 2026.",
+   "dateTabled": "2026-10-28T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1954222,
+   "uin": "38833",
+   "heading": "Ai Economics Institute: Finance",
+   "questionText": "To ask the Minister for the Cabinet Office, whether the sum over three years announced for the AI Economics Institutes on 24 October 2026 is in addition to the sum per year set out in her Department's written statement of 26 October 2026.",
+   "dateTabled": "2026-10-28T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1952208,
+   "uin": "37344",
+   "heading": "Copyright: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what evidence her Department has gathered since March 2026 on the copyright regime influences where AI models are trained.",
+   "dateTabled": "2026-10-22T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1952333,
+   "uin": "37469",
+   "heading": "Department for Education: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Education, whether her Department has sought advice from the Government Digital Service, Government Cyber Unit, or the National Cyber Security Centre regarding its procurement of AI products, models, or services.",
+   "dateTabled": "2026-10-22T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1951150,
+   "uin": "36547",
+   "heading": "Government Departments: Artificial Intelligence",
+   "questionText": "To ask the Minister for the Cabinet Office, whether Departments are required to use the AI Impact Evaluation Framework.",
+   "dateTabled": "2026-10-20T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1953899,
+   "uin": "38609",
+   "heading": "AI Security Institute: Cybersecurity",
+   "questionText": "To ask the Minister for the Cabinet Office, how many persons and organisations affected by unsanctioned actions during AISI’s cyber evaluations of 25 to 28 July 2026 have been notified.",
+   "dateTabled": "2026-10-27T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1952203,
+   "uin": "37339",
+   "heading": "AI Security Institute: ICT",
+   "questionText": "To ask the Minister for the Cabinet Office, how much the AI Security Institute spent on compute in 2025-26.",
+   "dateTabled": "2026-10-22T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1952204,
+   "uin": "37340",
+   "heading": "AI Security Institute",
+   "questionText": "To ask the Minister for the Cabinet Office, whether the AI Security Institute has evaluated any model developed in China other than Kimi K3 since 23 July 2026.",
+   "dateTabled": "2026-10-22T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1953420,
+   "uin": "38208",
+   "heading": "Department for Work and Pensions: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what discussions his Department has had with (a) the Government Digital Service, (b) Government Cyber Unit, and (c) the National Cyber Security Centre on its procurement of AI products, models, and serv",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1952215,
+   "uin": "37351",
+   "heading": "Artificial Intelligence and Digital Technology: Adult Education",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how much of the Adult Skills Fund allocation for 2026-27 is directed to (a) artificial intelligence and (b) digital skills.",
+   "dateTabled": "2026-10-22T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1952330,
+   "uin": "37466",
+   "heading": "Department for Business, Innovation, Science and Trade: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, whether his Department has sought advice from the Government Digital Service, Government Cyber Unit, or the National Cyber Security Centre regarding its procurement of AI products,",
+   "dateTabled": "2026-10-22T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1947123,
+   "uin": "33320",
+   "heading": "Electronic Government: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, for each tool in the Humphrey suite and for Extract and GOV.UK Chat, (a) whether it is live, in beta, transferred or retired, (b) how many users it has and (c) what its cost to date has ",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1946310,
+   "uin": "32486",
+   "heading": "Incubator for Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, which AI tools developed by the Incubator for Artificial Intelligence are in production use; how many users each has; what each cost to develop and operate in 2025-26; and what evaluatio",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1946311,
+   "uin": "32487",
+   "heading": "Electronic Government: Disclosure of Information",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what progress has been made on requiring government data and functionality to be exposed through application programming interfaces; and what the timetable is for mandatory e-invoicing b",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1952192,
+   "uin": "37328",
+   "heading": "AI Security Institute: Secondment",
+   "questionText": "To ask the Minister for the Cabinet Office, how many secondees from AI developers worked in the AI Security Institute on 1 October 2026.",
+   "dateTabled": "2026-10-22T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1945120,
+   "uin": "31296",
+   "heading": "Artificial Intelligence",
+   "questionText": "To ask the Minister for the Cabinet Office, how many AI accelerator procurements have been conducted using the competitive flexible procedure since the commencement of the Procurement Act 2023; what projects those procurements related to; and in how many ",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1951191,
+   "uin": "36588",
+   "heading": "Artificial Intelligence: Safety",
+   "questionText": "To ask the Minister for the Cabinet Office, with reference to the Answer of 12 October 2026 to Question HL3587, how many of the vulnerabilities that the AI Security Institute identified pre-release in 2026 were fixed before release.",
+   "dateTabled": "2026-10-20T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1945926,
+   "uin": "32097",
+   "heading": "China General Technology Research Institute",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what meetings representatives of her Department has had with the China General Technology Research Institute in the last 24 months.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1953419,
+   "uin": "38207",
+   "heading": "Artificial Intelligence: Cybersecurity",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, with reference to 'Political Thinking with Nick Robinson' dated 24/10/2026, which 'frontier ai models' were used to look at cybersecurity vulnerabilities, and from which department did t",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1946721,
+   "uin": "32927",
+   "heading": "National Security: Cryptography ",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what assessment she has made of the readiness of operators of critical national infrastructure to meet the post-quantum cryptography migration milestones set out by the National Cyber Se",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1949922,
+   "uin": "35511",
+   "heading": "Cryptography: Quantum Technology",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, whether she has made an estimate of the cost of migrating government systems to post-quantum cryptography.",
+   "dateTabled": "2026-10-16T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1947134,
+   "uin": "33324",
+   "heading": "Cabinet Office: Staff",
+   "questionText": "To ask the Minister for the Cabinet Office, whether any Cabinet Office Civil Service staff assisting the Minister for AI have been appointed without open competition, through Civil Service recruitment principle exceptions.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1946327,
+   "uin": "32492",
+   "heading": "Special Advisers: Artificial Intelligence",
+   "questionText": "To ask the Minister for the Cabinet Office, with reference to the Cabinet Office news story, Dr Jade Leung appointed Vice-Chair of the AI Security Institute and Security Advisor to the AI Taskforce, of 23 September 2026, whether the Prime Minister intends",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1952212,
+   "uin": "37348",
+   "heading": "Export Controls: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what assessment he has made of the potential impact of the export controls on artificial intelligence proposed by China on 16 October 2026 on United Kingdom businesses.",
+   "dateTabled": "2026-10-22T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1946313,
+   "uin": "32488",
+   "heading": "Quantum Technology",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, whether the Cyber Security and Resilience Bill confers power to require regulated entities to migrate to post-quantum cryptography by a specified date.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1950783,
+   "uin": "36254",
+   "heading": "Artificial Intelligence: Safety",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, how many notifications her Department has received from AI developers of unintended actions by AI agents against UK public sector systems since 1 June 2026.",
+   "dateTabled": "2026-10-19T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1949921,
+   "uin": "35510",
+   "heading": "Government Departments: Cybersecurity",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, how many government departments have completed the full discovery exercise described in the National Cyber Security Centre's guidance of 20 March 2025; and how many have produced an init",
+   "dateTabled": "2026-10-16T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1944307,
+   "uin": "30462",
+   "heading": "Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, over what period Isambard-AI hardware is being depreciated in the accounts of the University of Bristol and UKRI; and what plan exists for its replacement or refresh.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1945512,
+   "uin": "31693",
+   "heading": "Breast Cancer: Screening",
+   "questionText": "To ask the Secretary of State for Health and Social Care, when the EDITH trial of AI in breast screening will report; and whether national procurement of AI screening tools will await its results.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1951025,
+   "uin": "36422",
+   "heading": "AI Security Institute",
+   "questionText": "To ask the Minister for the Cabinet Office, with reference to the Answer of 19 October 2026 to Question 34677 on AI Security Institute, what the collaboration agreement the AI Security Institute signs with each developer provides for on publication of fin",
+   "dateTabled": "2026-10-20T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1950784,
+   "uin": "36255",
+   "heading": "AI Security Institute",
+   "questionText": "To ask the Minister for the Cabinet Office, what criteria the AI Security Institute uses to decide which models it evaluates before release.",
+   "dateTabled": "2026-10-19T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1950786,
+   "uin": "36257",
+   "heading": "AI Security Institute: Anthropic",
+   "questionText": "To ask the Minister for the Cabinet Office, what restrictions applied to the access to Claude Mythos 5.1 that Anthropic offered to the AI Security Institute before that model's release.",
+   "dateTabled": "2026-10-19T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1949920,
+   "uin": "35509",
+   "heading": "Artificial Intelligence: Canada",
+   "questionText": "To ask the Minister for the Cabinet Office, whether the renewed UK-Canada AI security partnership announced on 13 October 2026 includes arrangements for the AI Security Institute and the Canadian AI Safety Institute to share results of pre-deployment eval",
+   "dateTabled": "2026-10-16T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1949446,
+   "uin": "35091",
+   "heading": "River Thames: Flood Control",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, with reference to the response of 9 February 2026 to UIN 110069, for what reason the next stage of the River Thames Scheme has not taken place; and what recent progress she has made on",
+   "dateTabled": "2026-10-15T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1952187,
+   "uin": "37323",
+   "heading": "Google: Outages",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, whether the Government Digital Service has made an assessment of the impact on central government services of the disruption to Google Cloud’s europe-west2 region on 20 October 2026.",
+   "dateTabled": "2026-10-22T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1945935,
+   "uin": "32100",
+   "heading": "AI Security Institute",
+   "questionText": "To ask the Minister for the Cabinet Office, whether the AI Security Institute is required to publish transparency data on gov.uk, in line with the requirements of (a) government departments or (b) Arm’s Length Bodies.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1952188,
+   "uin": "37324",
+   "heading": "AI Energy Council",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, which Minister will co-chair the AI Energy Council in place of the Secretary of State for Science, Innovation and Technology.",
+   "dateTabled": "2026-10-22T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1952183,
+   "uin": "37319",
+   "heading": "AI Energy Council",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, whether the AI Energy Council will continue beyond its first term of meetings.",
+   "dateTabled": "2026-10-22T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1950600,
+   "uin": "36071",
+   "heading": "Sewers",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what discussions she has had with Thames Water on programmes to identify and remove surface water connections from the foul sewer network.",
+   "dateTabled": "2026-10-19T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1950602,
+   "uin": "36073",
+   "heading": "Sewers",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she has made of the potential impact of surface water entering foul sewers on sewer overloading during periods of heavy rainfall.",
+   "dateTabled": "2026-10-19T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1950601,
+   "uin": "36072",
+   "heading": "Sewers",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she has made of the potential impact of reducing surface water inflows to the foul sewer network on storm overflow discharges into rivers and other watercourses.",
+   "dateTabled": "2026-10-19T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1950599,
+   "uin": "36070",
+   "heading": "Sewers",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether she plans to provide (a) funding and (b) incentives for homeowners to install (i) soakaways and (ii) other sustainable drainage measures where rainwater is currently discharged",
+   "dateTabled": "2026-10-19T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1950598,
+   "uin": "36069",
+   "heading": "Sewers",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps her Department has taken to raise public awareness of the impact of directing rainwater into the foul sewer network on sewage overflows and river water quality.",
+   "dateTabled": "2026-10-19T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1950595,
+   "uin": "36066",
+   "heading": "Sewers",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what estimate she has made of the volume of rainwater entering the sewer network from domestic properties.",
+   "dateTabled": "2026-10-19T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1950592,
+   "uin": "36063",
+   "heading": "Sewers",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what targets her Department has set for reducing the amount of surface water entering the foul sewer system by 2030.",
+   "dateTabled": "2026-10-19T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1952211,
+   "uin": "37347",
+   "heading": "Google: Outages",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment HM Treasury has made of the effectiveness of the operation of the Critical Third Parties regime during the Google Cloud disruption of 20 October 2026.",
+   "dateTabled": "2026-10-22T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1952332,
+   "uin": "37468",
+   "heading": "Treasury: Artificial Intelligence",
+   "questionText": "To ask the Chancellor of the Exchequer, what discussions his Department has had with (a) the Government Digital Service, (b) Government Cyber Unit, and (c) the National Cyber Security Centre on its procurement of AI products, models, and services.",
+   "dateTabled": "2026-10-22T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1947125,
+   "uin": "33322",
+   "heading": "Apprentices: Artificial Intelligence and Automation",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many apprenticeship starts there were on the Level 4 AI and Automation Practitioner standard in each quarter since its approval; and what proportion of starters were existing employees of the sponso",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1944711,
+   "uin": "30886",
+   "heading": "Health Services: Data Protection",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment she has made of potential levels of the exposure of NHS systems holding patient data to the harvest-now-decrypt-later risk; and what the confidentiality lifetime of that data is ass",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1945133,
+   "uin": "31304",
+   "heading": "Department for Business, Innovation, Science and Trade: Recruitment",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, whether any BIST Civil Service staff assisting the Minister for AI have been appointed without open competition, through Civil Service recruitment principle exceptions.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1944708,
+   "uin": "30883",
+   "heading": "Artificial Intelligence: Training",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, how many unique individuals have completed at least one course through the AI Skills Hub; how many courses have been completed in total; and what is the definition of completion.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1945919,
+   "uin": "32092",
+   "heading": "Artificial Intelligence: Economic Growth",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what the evidential basis is for the statement in the AI Opportunities Action Plan that AI adoption could add £400 billion to the economy by 2030; and if he will publish the underl",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1946328,
+   "uin": "32493",
+   "heading": "Artificial Intelligence: EU Law",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, whether he intends to (a) statically or (b) dynamically align with the EU AI Act.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1949443,
+   "uin": "35088",
+   "heading": "Civil Servants: Cybersecurity",
+   "questionText": "To ask the Minister for the Cabinet Office, what proportion of civil servants use two factor authentication on a) official government devices and b) personal communication devices used to engage with Government business.",
+   "dateTabled": "2026-10-15T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1944323,
+   "uin": "30473",
+   "heading": "Government Departments: Cryptography",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what the timetable is for compiling a cryptographic inventory of central government systems; and whether a summary of that inventory will be published.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1951146,
+   "uin": "36543",
+   "heading": "Quantum Technology: Cryptography",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, which Minister is responsible for the migration of government systems to post-quantum cryptography.",
+   "dateTabled": "2026-10-20T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1945515,
+   "uin": "31696",
+   "heading": "Artificial Intelligence: Innovation and Research",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what the division of responsibilities is between the Alan Turing Institute's defence and security centres, the AI Security Institute and the Laboratory for AI Security Research; an",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1945509,
+   "uin": "31692",
+   "heading": "Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, which bodies constitute the UK's AI institutional landscape for the purposes of recommendation 30 of the AI Opportunities Action Plan; and whether he has reviewed overlaps between ",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1950782,
+   "uin": "36253",
+   "heading": "Artificial Intelligence: Safety",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, which body an AI developer should notify of an incident in which an AI system affects an organisation in the UK.",
+   "dateTabled": "2026-10-19T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1947124,
+   "uin": "33321",
+   "heading": "NHS: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what estimate has been made of the potential benefits of the NHS AI programme over the next decade; on what evidence it is based; and if she will publish the underlying analysis.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1945933,
+   "uin": "32099",
+   "heading": "Data Centres: Planning",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what assessment he has made of the potential merits of designating data centres as Critical National Priority within the planning system.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1946709,
+   "uin": "32918",
+   "heading": "Artificial Intelligence: Research",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what the oversubscription ratio was for each AI Research Resource access route in each call; and how many awards were made under each.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1944319,
+   "uin": "30469",
+   "heading": "Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what the basis is for the statement that AI could be worth up to £47 billion a year to the UK economy over a decade; which IMF publication and figure it derives from; and whether t",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1945906,
+   "uin": "32087",
+   "heading": "Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, whether the AI Opportunities Unit established in the former Department for Science, Innovation and Technology continues to exist.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1946304,
+   "uin": "32483",
+   "heading": "Data Centres: Planning",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, whether the Government will publish a draft National Policy Statement for data centres for consultation, and which Department will lead this following the machinery of Government c",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1945503,
+   "uin": "31689",
+   "heading": "Data Centres: National Policy Statements",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, when he will publish a draft National Policy Statement for data centres for consultation.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1945928,
+   "uin": "32098",
+   "heading": "Sovereign AI Fund",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, how many individual companies have received investment from the Sovereign AI Fund.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1945132,
+   "uin": "31303",
+   "heading": "Sovereign AI Fund: Capital Investment",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what steps he has taken to increase the private capital available for use by the Sovereign AI Fund.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1945112,
+   "uin": "31294",
+   "heading": "Sovereign AI Fund",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, how many companies have received compute allocations from the Sovereign AI Unit; how many GPU-hours in total; and what the notional value of those hours is.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1944720,
+   "uin": "30888",
+   "heading": "Sovereign AI Fund",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, when the last partner meeting or Investment Committee meeting of the Sovereign AI Fund took place.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1944329,
+   "uin": "30476",
+   "heading": "Sovereign AI Fund: Staff",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, how many people are currently employed by the Sovereign AI Fund.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1944698,
+   "uin": "30877",
+   "heading": "AI Growth Zones",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, for each designated AI Growth Zone, what capacity in megawatts (a) has a firm grid connection offer with a date, (b) has planning consent, (c) is under construction and (d) is oper",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1945111,
+   "uin": "31293",
+   "heading": "Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what is the current timetable for (a) site selection, (b) contract award, (c) Phase 1 operation and (d) Phase 2 operation of the heterogeneous AI supercomputer; and which sites hav",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1945122,
+   "uin": "31298",
+   "heading": "Artificial Intelligence: Public Appointments",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what outputs each AI Sector Champion has produced since appointment; and on what dates the champions have met Ministers.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1944709,
+   "uin": "30884",
+   "heading": "Artificial Intelligence: Training",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what the baseline, interim milestones and measurement methodology are for the target of 10 million workers trained in AI skills by 2030; and whether the methodology has been review",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1945508,
+   "uin": "31691",
+   "heading": "Artificial Intelligence: Finance",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what methodology underlies the estimate that the UK AI assurance market could be worth £6.5 billion by 2035; and how many of the 524 firms counted in the 2024 market study are spec",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1946719,
+   "uin": "32925",
+   "heading": "Artificial Intelligence: Scholarships",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, how many (a) offers were made, (b) places were accepted and (c) students enrolled in the first cohort of Spärck AI Scholarships; at which universities; and what was the total cost ",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1945921,
+   "uin": "32093",
+   "heading": "Alan Turing Institute: Termination of Employment",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what data his Department holds on how many staff left the Alan Turing Institute in each year since 2023; how many were made redundant; and what the current headcount is.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1945513,
+   "uin": "31694",
+   "heading": "Social Security Benefits",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many claims were referred for investigation by AI or machine-learning models in each year since 2023; what proportion were upheld; and what the referral and outcome rates were by protected character",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1945514,
+   "uin": "31695",
+   "heading": "Artificial Intelligence: Training",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what the distribution of course duration is among courses completed through the AI Skills Hub; and how many completions were of courses of (a) under 20 minutes, (b) 20 minutes to 2",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1944702,
+   "uin": "30879",
+   "heading": "Artificial Intelligence: Economic Growth",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what assessment he has made of the potential constitutional implications of powers to disapply sectoral regulation through the AI Growth Lab; and whether such powers would be subje",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1944727,
+   "uin": "30890",
+   "heading": "AI Security Institute: Staff",
+   "questionText": "To ask the Minister for the Cabinet Office, what is the (a) current and (b) planned (i) headcount and (ii) FTE staffing for the AI Security Institute.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1950617,
+   "uin": "36088",
+   "heading": "Cabinet Office: Written Questions",
+   "questionText": "To ask the Minister for the Cabinet Office, pursuant to the overdue responses to Named Day Question 28819 and follow up Question 34343, for what reason has a response not yet been published; and what steps she is taking to ensure a response is provided wi",
+   "dateTabled": "2026-10-19T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1948448,
+   "uin": "34343",
+   "heading": "Cabinet Office: Written Questions",
+   "questionText": "To ask the Minister for the Cabinet Office, when she intends to answer the named day question 28819; and if she will publish statistics on the performance of the Cabinet Office in responding to written questions on time a) before and b) after summer 2026 ",
+   "dateTabled": "2026-10-13T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1940224,
+   "uin": "28819",
+   "heading": "Artificial Intelligence: China",
+   "questionText": "To ask the Minister for the Cabinet Office, whether open weight models from China are being procured for use by government departments.",
+   "dateTabled": "2026-09-10T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1944320,
+   "uin": "30470",
+   "heading": "Adult Education: Finance",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what the Adult Skills Fund allocation is in cash and real terms in each year from 2024-25 to 2028-29; and how much of it is directed to AI or digital skills.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1944325,
+   "uin": "30474",
+   "heading": "UK Research and Innovation: China General Technology Research Institute",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what meetings UKRI has had with the China General Technology Research Institute since July 2024.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1950127,
+   "uin": "35715",
+   "heading": "AI Energy Council",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, when the AI energy council will meet next.",
+   "dateTabled": "2026-10-16T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1948013,
+   "uin": "33996",
+   "heading": "AI Taskforce",
+   "questionText": "To ask the Minister for the Cabinet Office, what the role and remit of the AI Taskforce in the Office for the Prime Minister is; what its membership is; and, for each member, what percentage of their time is allocated on delivering the objectives of the t",
+   "dateTabled": "2026-10-12T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1947121,
+   "uin": "33318",
+   "heading": "Copyright: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what assessment has been made of whether any AI developer has located training activity outside the UK because of the UK copyright regime.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1944316,
+   "uin": "30466",
+   "heading": "Copyright: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what assessment has been made of the potential implications of the judgment in Getty Images v Stability AI for the enforceability of UK copyright against models trained outside the UK; a",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1945917,
+   "uin": "32090",
+   "heading": "Planning: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what the results were of trials of the AI planning tool; whether a control group of authorities was used; and when national rollout will begin.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1946305,
+   "uin": "32484",
+   "heading": "Regulatory Innovation Office",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what the budget outturn of the Regulatory Innovation Office was in 2024-25 and 2025-26; what its budget is for 2026-27; how many staff it employs; and what key performance indicato",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1946306,
+   "uin": "32485",
+   "heading": "Innovation: Finance",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what criteria will be used to evaluate projects funded under Round 4 of the Regulators' Pioneer Fund; whether those projects will be assessed against measurable outcomes and impact",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1945912,
+   "uin": "32088",
+   "heading": "Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what projects were funded under the AI Capability Fund for regulators and the Regulators' Pioneer Fund round 4; what each delivered; and how many are in operation.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1946724,
+   "uin": "32930",
+   "heading": "China General Technology Research Institute",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what meetings representatives of DBT and DSIT have had with the China General Technology Research Institute in the last 24 months.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1948457,
+   "uin": "34352",
+   "heading": "Cryptography: Quantum Technology",
+   "questionText": "To ask the Minister for the Cabinet Office, whether she has adopted the National Cyber Security Centre's guidance entitled Timelines for migration to post-quantum cryptography of 20 March 2025 as the standard for its own departments and arm's length bodie",
+   "dateTabled": "2026-10-13T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1944336,
+   "uin": "30480",
+   "heading": "AI Security Institute: Correspondence",
+   "questionText": "To ask the Minister for the Cabinet Office, what is the contact email address for correspondence by hon. Members with the AI Security Institute.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1944712,
+   "uin": "30887",
+   "heading": "AI Security Institute",
+   "questionText": "To ask the Minister for the Cabinet Office, what assessment she has made of the potential merits of placing the AI Security Institute on a statutory footing.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1947115,
+   "uin": "33316",
+   "heading": "Energy: Data Centres",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what assessment has been made of the potential merits of extending industrial energy price relief to data centres.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1944332,
+   "uin": "30477",
+   "heading": "Artificial Intelligence",
+   "questionText": "To ask the Minister for the Cabinet Office, what steps have been taken by the AI Security Institute to help improve pre-release access to frontier models.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1944322,
+   "uin": "30472",
+   "heading": "Government Departments: Quantum Technology",
+   "questionText": "To ask the Chancellor of the Exchequer, whether HM Treasury has received a costed plan for migration of government systems to post-quantum cryptography; and whether provision has been made for it in departmental settlements to 2029-30.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1945918,
+   "uin": "32091",
+   "heading": "Probation: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Justice, what measured effect Justice Transcribe has had on (a) probation officer contact time with offenders, (b) caseloads and (c) recorded outcomes; what accuracy testing has been undertaken; and what the tool has cost",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1945529,
+   "uin": "31698",
+   "heading": "AI Taskforce: Staff",
+   "questionText": "To ask the Minister for the Cabinet Office, what is the (a) headcount and (b) FTE size of the Government’s AI Taskforce.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1947135,
+   "uin": "33325",
+   "heading": "AI Economics Institute",
+   "questionText": "To ask the Minister for the Cabinet Office, with reference to the policy paper, Introducing the AI Economics Institute, published on 8 June 2026, what is the timetable for the Institute to be fully operational.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1948890,
+   "uin": "34677",
+   "heading": "AI Security Institute",
+   "questionText": "To ask the Minister for the Cabinet Office, whether the AI Security Institute has signed a memorandum of understanding with each developer whose models it evaluates before release.",
+   "dateTabled": "2026-10-14T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1949448,
+   "uin": "35093",
+   "heading": "Artificial Intelligence: Safety",
+   "questionText": "To ask the Minister for the Cabinet Office, how much has been awarded under the Alignment Project; to how many projects; and what proportion of funding came from (a) the UK Government and (b) other funders.",
+   "dateTabled": "2026-10-15T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1946317,
+   "uin": "32489",
+   "heading": "AI Economics Institute: Buildings",
+   "questionText": "To ask the Minister for the Cabinet Office, whether the AI Economics Institute has an allocated office space within HM Treasury.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1944725,
+   "uin": "30889",
+   "heading": "Artificial Intelligence: Public Appointments",
+   "questionText": "To ask the Minister for the Cabinet Office, whether the Minister for AI has made any direct ministerial appointments.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1946318,
+   "uin": "32490",
+   "heading": "AI Security Institute: Recruitment",
+   "questionText": "To ask the Minister for the Cabinet Office, with reference to the Cabinet Office news story, Dr Jade Leung appointed Vice-Chair of the AI Security Institute and Security Advisor to the AI Taskforce, published on 23 September 2026, who is the AI Security I",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1948891,
+   "uin": "34678",
+   "heading": "AI Security Institute: United States",
+   "questionText": "To ask the Minister for the Cabinet Office, on what date the AI Security Institute's access to frontier AI models developed in the United States was (a) interrupted and (b) restored.",
+   "dateTabled": "2026-10-14T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1946715,
+   "uin": "32922",
+   "heading": "Financial Services: Artificial Intelligence",
+   "questionText": "To ask the Chancellor of the Exchequer, how many firms have participated in the Financial Conduct Authority's Supercharged Sandbox and AI Live Testing; what outcomes have been recorded; and whether the FCA will publish an evaluation.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1945129,
+   "uin": "31302",
+   "heading": "Women in Tech Taskforce",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, on what dates the Women in Tech taskforce last met, and who is the current chair.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1946723,
+   "uin": "32929",
+   "heading": "Health Data Research Service",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what the governance structure of the Health Data Research Service is; whether it will operate a federated or centralised data model; and when it will first provide data access to researchers.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1944707,
+   "uin": "30882",
+   "heading": "X-Rays: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what proportion of chest X-rays in England were reported with AI assistance in the latest quarter; and what NICE's recommendation is on the use of AI-assisted chest X-ray interpretation outside res",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1944317,
+   "uin": "30467",
+   "heading": "Diagnosis: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many NHS trusts received funding from the AI Diagnostic Fund; how many of the funded tools are in routine clinical use; and what evaluation of clinical outcomes has been undertaken.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1944321,
+   "uin": "30471",
+   "heading": "Quantum Technology: Innovation",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, how many applications were received for Phase 1 of the ProQure programme, when the successful applicants will be announced, and how many applicants were headquartered in the United",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1947172,
+   "uin": "33327",
+   "heading": "Physical Education and Sports: Disability",
+   "questionText": "To ask the Secretary of State for Education, what steps she is taking as part of the new curriculum to ensure that disabled children can access and participate in PE and sport at school in Surrey.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1947171,
+   "uin": "33326",
+   "heading": "Experts at Hand: Training",
+   "questionText": "To ask the Secretary of State for Education, what estimate her Department has made of the number of training places required to supply the proposed Experts at Hand offer in Surrey.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1944310,
+   "uin": "30464",
+   "heading": "National Grid: Data Centres",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, whether the Government intends to require data centres above a specified capacity to provide a minimum level of demand flexibility as a condition of grid connection.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1946298,
+   "uin": "32480",
+   "heading": "National Grid",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, on what date Ofgem and NESO will publish final decisions on demand connection reform; and when the list of strategically important demand projects will be published.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1944333,
+   "uin": "30478",
+   "heading": "Electricity: Data Centres",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what steps are being taken by the National Energy Systems Operator to help ensure data centres which support essential services to the public and infrastructure have continual power supplies.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1942353,
+   "uin": "29514",
+   "heading": "Local Government: Reorganisation",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, whether the legal advice she has received relating to local government reorganisation also pertains to Surrey.",
+   "dateTabled": "2026-09-14T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1945113,
+   "uin": "31295",
+   "heading": "Electricity: Prices",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what the average industrial electricity price in the UK was in the latest year for which figures are available compared with (a) France, (b) Germany, (c) the United States and (d) Sweden; and",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1946773,
+   "uin": "32932",
+   "heading": "Educational Psychology: Vacancies",
+   "questionText": "To ask the Secretary of State for Education, what plans her Department has to help tackle workforce shortages among educational psychologists in Surrey.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1948892,
+   "uin": "34679",
+   "heading": "Artificial Intelligence: Cybersecurity",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what the total cost was of the two pilot programmes referred to in his written statement of 12 October 2026 (HCWS357) which identified 1,352 vulnerabilities across 548 code repositories;",
+   "dateTabled": "2026-10-14T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1944699,
+   "uin": "30878",
+   "heading": "National Grid",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, how many transmission-connected demand projects have received Gate 2 offers under the Gate 2 to Whole Queue process; how many are data centres; and what the earliest and latest connection dat",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1945924,
+   "uin": "32096",
+   "heading": "Government Departments: Cryptography",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, by what instrument the milestones in the National Cyber Security Centre's guidance Timelines for migration to post-quantum cryptography of 20 March 2025 are given effect for government d",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1945124,
+   "uin": "31300",
+   "heading": "Government Departments: Cryptography",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what proportion of central government cryptographic systems is assessed as capable of being upgraded in place to the standards published by the National Institute of Standards and Techno",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1945128,
+   "uin": "31301",
+   "heading": "Government Departments: Reorganisation",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, whether there has been any expenditure on consultancy in relation to the machinery of government changes to the Department within the last six months.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1944308,
+   "uin": "30463",
+   "heading": "Electricity: Data Centres",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what the estimated annual cost is of the regional electricity discounts available to data centres in AI Growth Zones; and how that cost is funded.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1946710,
+   "uin": "32919",
+   "heading": "National Grid: Data Centres",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what consideration has been given to the potential merits of requiring new data centres above a threshold capacity to provide on-site dispatchable generation or storage as a condition of conn",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1946299,
+   "uin": "32481",
+   "heading": "National Grid",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what criteria will be used to designate strategically important demand projects for prioritised grid connection; and whether all sites within AI Growth Zones will be so designated.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1945504,
+   "uin": "31690",
+   "heading": "Water Supply: Data Centres",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, with reference to the Answer of 16 September 2026 to Question 28747, whether projected demand from data centres is included in water companies' water resource management plans; and wha",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1946720,
+   "uin": "32926",
+   "heading": "Graduates: Average Earnings",
+   "questionText": "To ask the Secretary of State for Education, what the median earnings of graduates of AI-relevant courses were at one, three and five years after graduation in the latest Longitudinal Education Outcomes data; and what proportion of international graduates",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1947126,
+   "uin": "33323",
+   "heading": "Artificial Intelligence and Digital Technology: Higher Education",
+   "questionText": "To ask the Secretary of State for Education, how many students were enrolled on undergraduate and postgraduate courses in artificial intelligence, computer science and data science in each academic year since 2021-22; and what proportion were internationa",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1944311,
+   "uin": "30465",
+   "heading": "Manufacturing Industries: Northern Ireland",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what assessment he has made of the potential impact of the Supply of Machinery (Safety) (Amendment etc.) and the EU Machinery Regulation (Enforcement etc. in Northern Ireland) Regu",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1946722,
+   "uin": "32928",
+   "heading": "Public Sector: Information Sharing",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, with reference to the Industrial Strategy Digital and Technologies Sector Plan, how much of the up to £12 million for UK Data Sharing Infrastructure Initiatives from April 2026 has been ",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1945923,
+   "uin": "32095",
+   "heading": "Research: Databases",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, how many datasets have been made available to (a) accredited researchers and (b) commercial developers through the National Data Library to date; and what the median time from access req",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1945121,
+   "uin": "31297",
+   "heading": "Artificial Intelligence: Public Sector",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, which projects were selected for the Prime Minister's AI Exemplars programme; what each has cost; what scale each has reached; and what evaluation of each has been undertaken.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1947122,
+   "uin": "33319",
+   "heading": "Arts: Licensing and Sales",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, whether the Creative Content Exchange platform has launched.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1944318,
+   "uin": "30468",
+   "heading": "Ministry of Defence: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Defence, what AI systems are in operational use in the Ministry of Defence for non-weapon administrative and analytical purposes; what they have cost; and what evaluation of each has been undertaken.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1947114,
+   "uin": "33315",
+   "heading": "Water Supply: Data Centres",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, how many abstraction licences have been granted to data centre operators in each year since 2022; and in how many cases the site is in an area classified as water-stressed.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1946326,
+   "uin": "32491",
+   "heading": "Water Supply: Data Centres",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, further to the answer of 23 September 2026 to Question HL3327 on Data Centres: Water, what priority do data centres have for access to water supplies during a period of drought.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1945922,
+   "uin": "32094",
+   "heading": "Ministry of Defence: Cryptography",
+   "questionText": "To ask the Secretary of State for Defence, what assessment he has made of the proportion of the Department's cryptographic estate that cannot be upgraded to post-quantum standards without hardware replacement; and what the replacement timetable is.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1946718,
+   "uin": "32924",
+   "heading": "Pupils: Disadvantaged",
+   "questionText": "To ask the Secretary of State for Education, when the trials of AI tutoring for disadvantaged pupils will begin; how many pupils will participate; whether the design is randomised; and who will conduct the evaluation.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1948455,
+   "uin": "34350",
+   "heading": "Artificial Intelligence: Government Departments",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, how many departments have conducted a controlled evaluation of a generative AI tool for use within their department with a comparison group and measured output.",
+   "dateTabled": "2026-10-13T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1948460,
+   "uin": "34355",
+   "heading": "AI Energy Council",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, which Minister chairs the AI Energy Council; and when it last met.",
+   "dateTabled": "2026-10-13T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1948011,
+   "uin": "33994",
+   "heading": "Government Departments: Cryptography",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, who the senior responsible owner is for migration of government systems to post-quantum cryptography; in which department that post sits; and what budget has been allocated to that progr",
+   "dateTabled": "2026-10-12T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1945913,
+   "uin": "32089",
+   "heading": "Artificial Intelligence: UK Relations with EU",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, whether his Department has sought, or intends to seek, an agreement with the European Union under Article 39 of Regulation (EU) 2024/1689 enabling conformity assessment bodies esta",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1946297,
+   "uin": "32479",
+   "heading": "Artificial Intelligence: Research",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, how much of the £59 million backing the Advanced Research and Invention Agency's Safeguarded AI programme has been committed; how the programme's revised objectives are to be measu",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1948008,
+   "uin": "33991",
+   "heading": "AI Security Institute: Finance and Staff",
+   "questionText": "To ask the Minister for the Cabinet Office, what the budget of the AI Security Institute is in each financial year from 2025-26 to 2029-30; and how many staff it employs, by (a) technical and (b) other roles.",
+   "dateTabled": "2026-10-12T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1948019,
+   "uin": "34001",
+   "heading": "AI Economics Institute",
+   "questionText": "To ask the Minister for the Cabinet Office, what the budget and staffing of the AI Economics Institute are for 2026-27; whether a Director and Chief Economist have been appointed; and what is the membership of its advisory board.",
+   "dateTabled": "2026-10-12T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1948088,
+   "uin": "34070",
+   "heading": "AI Security Institute: Ministerial Responsibility",
+   "questionText": "To ask the Minister for the Cabinet Office, which Minister is responsible for the AI Security Institute; and whether its director reports to that Minister or to the Cabinet Secretary.",
+   "dateTabled": "2026-10-12T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1944337,
+   "uin": "30481",
+   "heading": "AI Taskforce",
+   "questionText": "To ask the Minister for the Cabinet Office, what are the full terms of reference of the AI Taskforce.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1946717,
+   "uin": "32923",
+   "heading": "Artificial Intelligence: Public Sector",
+   "questionText": "To ask the Minister for the Cabinet Office, what the governance arrangement is between the Government Digital Service and the Prime Minister's AI Taskforce for public-sector AI adoption; and whether a memorandum of understanding or joint board exists.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1947119,
+   "uin": "33317",
+   "heading": "Artificial Intelligence: Safety",
+   "questionText": "To ask the Minister for the Cabinet Office, what assessment she has made of the risk that voluntary pre-deployment access will not be granted for open-weight models developed outside United Kingdom; and what mitigations are in place.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1946242,
+   "uin": "32478",
+   "heading": "River Thames: Flood Control",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what is the planned timescale for the delivery of the River Thames Scheme and the key milestones for each remaining phase of the project.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1945047,
+   "uin": "31292",
+   "heading": "River Thames: Flood Control",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she has made of the potential merits of the River Thames Scheme in terms of a) reduced flooding risk and b) economic growth.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1942354,
+   "uin": "29515",
+   "heading": "AI Taskforce: Public Appointments",
+   "questionText": "To ask the Minister for the Cabinet Office, if he will publish the membership list of the Prime Minister's AI Taskforce.",
+   "dateTabled": "2026-09-14T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1942355,
+   "uin": "29516",
+   "heading": "AI Security Institute",
+   "questionText": "To ask the Minister for the Cabinet Office, which ministerial office is the AI Security Institute accountable to following recent machinery of government changes.",
+   "dateTabled": "2026-09-14T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1940223,
+   "uin": "28818",
+   "heading": "Artificial Intelligence: China",
+   "questionText": "To ask the Minister for the Cabinet Office, what information her Department holds on the distillation of UK AI models by China.",
+   "dateTabled": "2026-09-10T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1941509,
+   "uin": "29178",
+   "heading": "Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, when he plans to update the AI Opportunities Action Plan Dashboard.",
+   "dateTabled": "2026-09-11T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1940222,
+   "uin": "28817",
+   "heading": "AI Security Institute",
+   "questionText": "To ask the Minister for the Cabinet Office, what steps she is taking to ensure the AI Security Institute is able to access the newest frontier models before their release.",
+   "dateTabled": "2026-09-10T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1939047,
+   "uin": "901224",
+   "heading": "Budget October 2024: Runnymede and Weybridge",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment he has made of the potential impact of the 2024 Budget on businesses in Runnymede and Weybridge constituency.",
+   "dateTabled": "2026-09-02T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1924408,
+   "uin": "16083",
+   "heading": "Park Homes: Discrimination",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what support is available to park home residents who face discriminatory practices by park home site owners.",
+   "dateTabled": "2026-07-06T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1919291,
+   "uin": "12278",
+   "heading": "Artificial Intelligence: Health Services",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, when she will update the House on her plans to regulate LLMs/AI Chatbots providing therapeutic interventions.",
+   "dateTabled": "2026-06-23T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1916141,
+   "uin": "9702",
+   "heading": "River Thames: Flood Control",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what estimate she has made of when River Thames Scheme main construction works will begin.",
+   "dateTabled": "2026-06-15T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1916140,
+   "uin": "9701",
+   "heading": "River Thames: Flood Control",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what the planned timetable is for the submission of the Development Consent Order for the River Thames Scheme.",
+   "dateTabled": "2026-06-15T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1916142,
+   "uin": "9703",
+   "heading": "River Thames: Flood Control",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether it remains Government policy to support the delivery of the River Thames Scheme.",
+   "dateTabled": "2026-06-15T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1912052,
+   "uin": "6662",
+   "heading": "South Western Railway: Standards",
+   "questionText": "To ask the Secretary of State for Transport, what perfomance metrics will be considered as part of SWR's leadership performance review.",
+   "dateTabled": "2026-06-03T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1912051,
+   "uin": "6661",
+   "heading": "South West Main Line: Timetables",
+   "questionText": "To ask the Secretary of State for Transport, whether the potential impact of changes on level crossing down times will be a factor in the upcoming SWR timetable review and consultation.",
+   "dateTabled": "2026-06-03T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1912268,
+   "uin": "6799",
+   "heading": "Special Educational Needs",
+   "questionText": "To ask the Secretary of State for Education, for what reason she has not met with representatives from the National Association of Special Schools as part of her work to improve SEND.",
+   "dateTabled": "2026-06-04T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1912049,
+   "uin": "6659",
+   "heading": "Water Supply: Weybridge",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether she will make an assessment of the a) resilience and b) capacity of the local water provision following shortages in the Weybridge area.",
+   "dateTabled": "2026-06-03T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1912050,
+   "uin": "6660",
+   "heading": "Sewers and Water Supply: Runnymede and Weybridge",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she has made of the potential impact of additional house building on the resilience and capacity of a) water and b) sewerage systems in the Runnymede and Weybridge area",
+   "dateTabled": "2026-06-03T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1911220,
+   "uin": "6019",
+   "heading": "South Western Railway: Public Consultation",
+   "questionText": "To ask the Secretary of State for Transport, what assessment has she made of the adequacy of South Western Railway's community engagement compared to other providers.",
+   "dateTabled": "2026-06-02T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1911222,
+   "uin": "6021",
+   "heading": "South West Main Line: Timetables",
+   "questionText": "To ask the Secretary of State for Transport, what the budget allocation is for a) community engagement and b) external consultants as part of SWR's timetable review in 2026.",
+   "dateTabled": "2026-06-02T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1911224,
+   "uin": "6022",
+   "heading": "South West Main Line: Runnymede and Weybridge",
+   "questionText": "To ask the Secretary of State for Transport, whether her Department has had discussions with South Western Railway regarding ensuring children do not miss school due to rail delays in Runnymede and Weybridge constituency.",
+   "dateTabled": "2026-06-02T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1911219,
+   "uin": "6018",
+   "heading": "Railways: Timetables",
+   "questionText": "To ask the Secretary of State for Transport, what plans she has to consult communities for rail timetable reviews at a) the the pre-consultation stage and b) during the consultation period.",
+   "dateTabled": "2026-06-02T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1911221,
+   "uin": "6020",
+   "heading": "South West Main Line: Timetables",
+   "questionText": "To ask the Secretary of State for Transport, what is the minimum number of community face to face consultation events South Western Railway are required perform in Runnymede and Weybridge constituency as part of the timetable review.",
+   "dateTabled": "2026-06-02T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1910530,
+   "uin": "5412",
+   "heading": "Hospitality Industry: Expenditure",
+   "questionText": "To ask the Chancellor of the Exchequer, what estimate has she made of the proportion of household income spent on hospitality during summer holidays versus other VAT rateable services, for each income quartile.",
+   "dateTabled": "2026-06-01T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1907926,
+   "uin": "3375",
+   "heading": "Armed Forces Compensation Scheme and War Pensions",
+   "questionText": "To ask the Secretary of State for Defence, what assessment he has made of the adequacy of resourcing for War Pension and Armed Forces Compensation Scheme claim processing since the IT transition.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1907927,
+   "uin": "3376",
+   "heading": "Armed Forces Compensation Scheme and War Pensions",
+   "questionText": "To ask the Secretary of State for Defence, whether any additional operational capacity has been introduced to address backlogs in War Pension and Armed Forces Compensation Scheme claims following the IT transition.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1905722,
+   "uin": "1314",
+   "heading": "Antenatal Care",
+   "questionText": "To ask the Secretary of State for Health and Social Care, if he can confirm that all NHS Trusts are no longer using Intergrowth charts as part of their fetal growth surveillance.",
+   "dateTabled": "2026-05-14T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1907585,
+   "uin": "2917",
+   "heading": "Armed Forces Compensation Scheme and War Pensions",
+   "questionText": "To ask the Secretary of State for Defence, what proportion of complaints relating to the War Pension Service and Armed Forces Compensation Scheme were upheld in each of the last three years.",
+   "dateTabled": "2026-05-19T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1907584,
+   "uin": "2916",
+   "heading": "Armed Forces Compensation Scheme and War Pensions",
+   "questionText": "To ask the Secretary of State for Defence, how many complaints were received in relation to the War Pension Service and Armed Forces Compensation Scheme in each of the last three years.",
+   "dateTabled": "2026-05-19T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1907581,
+   "uin": "2913",
+   "heading": "Armed Forces Compensation Scheme and War Pensions",
+   "questionText": "To ask the Secretary of State for Defence, how many War Pension and Armed Forces Compensation Scheme claims are currently awaiting Medical Adviser input.",
+   "dateTabled": "2026-05-19T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1907579,
+   "uin": "2911",
+   "heading": "Armed Forces Compensation Scheme and War Pensions",
+   "questionText": "To ask the Secretary of State for Defence, what the current (a) average and (b) maximum waiting times are for the processing of War Pension Service and Armed Forces Compensation Scheme claims.",
+   "dateTabled": "2026-05-19T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1907557,
+   "uin": "2889",
+   "heading": "Members: Correspondence",
+   "questionText": "To ask the Secretary of State for Justice, when she plans to respond to correspondence dated (a) 30 January 2026, (b) 30 March 2026 and (c) 7 May 2026 from the hon. Member for Runnymede and Weybridge regarding a constituent, ref BS39139, MoJ Ref: MC131442",
+   "dateTabled": "2026-05-19T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1894455,
+   "uin": "123315",
+   "heading": "Roads: Surrey",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what assessment has he made of the adequacy of the preparations for avoiding school exam disruption during the construction a320 HIF scheme.",
+   "dateTabled": "2026-03-24T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1894913,
+   "uin": "123777",
+   "heading": "Pupils: Chronic Illnesses",
+   "questionText": "To ask the Secretary of State for Education, what assessment she has made of the potential impact of the introduction of new statutory guidance for supporting pupils with medical conditions and allergies in schools on costs for schools.",
+   "dateTabled": "2026-03-25T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1893937,
+   "uin": "122836",
+   "heading": "Aviation: Alternative Fuels",
+   "questionText": "To ask the Secretary of State for Transport, what assessment has she made of the potential impact of adjustments to sustainable aviation fuel manufacturing on increasing UK aviation fuel resilience in the context of the conflict in the Middle East.",
+   "dateTabled": "2026-03-23T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1893934,
+   "uin": "122834",
+   "heading": "Aviation: Fuels",
+   "questionText": "To ask the Secretary of State for Transport, what assessment has she made of the potential impact of the conflict in the middle east on uk aviation due to aviation fuel prices and supply disruption.",
+   "dateTabled": "2026-03-23T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1893932,
+   "uin": "122832",
+   "heading": "Kerosene: Supply Chains",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what assessment he has made of the resilience of the kerosene supply chain in the UK.",
+   "dateTabled": "2026-03-23T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1884498,
+   "uin": "115541",
+   "heading": "Pregnancy: Screening",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the effectiveness of fetal growth monitoring practices across NHS Trusts.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1888094,
+   "uin": "118271",
+   "heading": "Internet: Public Consultation",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what assessment has she made of a) the cybersecurity vulnerabilities and b) risk of data manipulation, of the Government Consultation, Growing up in the online world: a national consult",
+   "dateTabled": "2026-03-05T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1888096,
+   "uin": "118272",
+   "heading": "Energy: Prices",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, the steps he is taking to help protect a) park home residents and b) heating oil users from spikes in energy prices.",
+   "dateTabled": "2026-03-05T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1887373,
+   "uin": "117878",
+   "heading": "Emergencies",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what assessment he has made of the adequacy of mechanisms of accountability of Local Resilience Forum Chairs to Members of Parliament.",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1884499,
+   "uin": "115542",
+   "heading": "Maternity Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what his planned timetable is for publication of interim and final findings from the independent maternity services investigation.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1884488,
+   "uin": "115540",
+   "heading": "UK Emissions Trading Scheme: Shipping",
+   "questionText": "To ask the Secretary of State for Northern Ireland, whether he has had discussions with Cabinet colleagues on the differences in shipping tax between Northern Ireland, Scotland, and the Isle of Wight under the Emissions Trading Scheme.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Northern Ireland Office"
+  },
+  {
+   "id": 1878079,
+   "uin": "110472",
+   "heading": "Chronic Illnesses: Children",
+   "questionText": "To ask the Secretary of State for Health and Social Care, if he will review the cost of travel for all families of children with health conditions requiring repeated attendance at specialist centres.",
+   "dateTabled": "2026-02-03T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1884757,
+   "uin": "907999",
+   "heading": "Offshore Industry: Scotland",
+   "questionText": "To ask the Secretary of State for Scotland, what assessment he has made of the potential impact of North Sea oil and gas on the Scottish economy.",
+   "dateTabled": "2026-02-12T00:00:00",
+   "answeringBodyName": "Scotland Office"
+  },
+  {
+   "id": 1877583,
+   "uin": "110069",
+   "heading": "River Thames: Flood Control",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what progress her Department has made on the River Thames Scheme; what her planned timetable is for that scheme; and what the (a) current and (b) projected expenditure is for that sche",
+   "dateTabled": "2026-02-02T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1877991,
+   "uin": "110471",
+   "heading": "Neurodiversity: Children",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference to his Answer of Question 108286 on Surrey and Borders Partnership NHS Foundation Trust: ADHD and Autism, what steps he is taking to help support Surrey and Borders to meet their dia",
+   "dateTabled": "2026-02-03T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1877240,
+   "uin": "109840",
+   "heading": "Drugs: Addictions and Misuse",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the adequacy of support available for families of individuals with substance misuse and addiction.",
+   "dateTabled": "2026-01-30T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1877357,
+   "uin": "907611",
+   "heading": "Defence: Innovation",
+   "questionText": "What role the UK is playing in NATO's Defence Innovation Accelerator for the North Atlantic programme.",
+   "dateTabled": "2026-01-27T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1875216,
+   "uin": "108288",
+   "heading": "Sewers",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what plans she has to increase the level of funding and resources for local authorities for the purpose of regulating and approving Sustainable Drainage Systems.",
+   "dateTabled": "2026-01-26T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1875116,
+   "uin": "108286",
+   "heading": "Neurodiversity: Children",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what discussions he has had with Surrey and Borders Partnership NHS Foundation Trust on meeting national targets on Autism and ADHD assessments in children.",
+   "dateTabled": "2026-01-26T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1875217,
+   "uin": "108289",
+   "heading": "Sewers",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether she plans to issue national guidance on the application of sustainable drainage systems.",
+   "dateTabled": "2026-01-26T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1875213,
+   "uin": "108287",
+   "heading": "Sewers",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, when she expects Schedule 3 of the Flood and Water Management Act 2010 to be brought into force in England.",
+   "dateTabled": "2026-01-26T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1869180,
+   "uin": "103884",
+   "heading": "Members: Correspondence",
+   "questionText": "To ask the Secretary of State for Work and Pensions, when he plans to respond to correspondence dated (a) 29 September 2025, (b) 28 October 2025 and (c) 2 December 2025 from the hon. Member for Runnymede and Weybridge, case reference BS35015 and MC2025/93",
+   "dateTabled": "2026-01-07T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1864219,
+   "uin": "99879",
+   "heading": "Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what discussions she has had with AI companies on the potential risks of the provision of advice by AI programmes that would otherwise be provided by a regulated individual or entity.",
+   "dateTabled": "2025-12-15T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1862325,
+   "uin": "98502",
+   "heading": "Data Protection: EU Law",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology what assessment her Department has made of the potential impact of the Cyber Security and Resilience (Network and Information Systems) Bill on the EU’s data adequacy decisions in relatio",
+   "dateTabled": "2025-12-09T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1862968,
+   "uin": "98977",
+   "heading": "Court of Protection",
+   "questionText": "To ask the Secretary of State for Justice, what steps he is taking to improve timescales for cases in the Court of Protection.",
+   "dateTabled": "2025-12-10T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1856988,
+   "uin": "94449",
+   "heading": "River Thames: Assets",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment has been made of the level of resource required to a) repair and b) maintain essential river assets, including weirs and sluice gates, on the River Thames.",
+   "dateTabled": "2025-11-25T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1859030,
+   "uin": "906684",
+   "heading": "Embassies: Electoral Register",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, whether she has had discussions with the Secretary of State for Housing, Communities and Local Government on the role of British embassies in encouraging overseas voter regis",
+   "dateTabled": "2025-11-26T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1856994,
+   "uin": "94452",
+   "heading": "Electronic Government: Outages",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, pursuant to the Answer of 25 November 2025 to Question 92210 on Internet: Outages, what assessment she has made of the potential impact of the Cyber Security and Resilience (Network and",
+   "dateTabled": "2025-11-25T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1856372,
+   "uin": "93960",
+   "heading": "Cybersecurity",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what assessment she has made of the adequacy of the capacity of (a) sectoral regulators and (b) the NCSC to process and respond to cyber incident reports as a result of the expanded rep",
+   "dateTabled": "2025-11-24T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1962758,
+   "uin": "45816",
+   "heading": null,
+   "questionText": "To ask the Minister for the Cabinet Office, whether the Cabinet Office uses any open-weight AI model published by a developer based in China.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1962755,
+   "uin": "45813",
+   "heading": null,
+   "questionText": "To ask the Minister for the Cabinet Office, whether a head of the GovAI Unit has been appointed.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1962754,
+   "uin": "45812",
+   "heading": null,
+   "questionText": "To ask the Minister for the Cabinet Office, in which financial years the £35 million allocated in the Budget 2026 to set up GovAI will be spent.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1962753,
+   "uin": "45811",
+   "heading": null,
+   "questionText": "To ask the Minister for the Cabinet Office, which Minister is responsible for the GovAI Unit.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1962752,
+   "uin": "45810",
+   "heading": null,
+   "questionText": "To ask the Minister for the Cabinet Office, to whom the head of the GovAI Unit reports.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1962750,
+   "uin": "45808",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, pursuant to the Answer of 23 November 2026 to Question 44483, what assessment her Department has made of the potential impact of delays in clearing the illegal waste site at Aymer Clos",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1962142,
+   "uin": "44935",
+   "heading": "Flood Control: Cobham Mill",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, on how many occasions during calendar year 2025 were sluice gate adjustments at Cobham Mill used to manage flood risk.",
+   "dateTabled": "2026-11-19T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1962132,
+   "uin": "44925",
+   "heading": "Data Centres: Energy",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, pursuant to the Answer of 19 November 2026 to Question 43786, if he will publish the scenario-based modelling commissioned by the Government.",
+   "dateTabled": "2026-11-19T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1962113,
+   "uin": "44906",
+   "heading": "AI Taskforce",
+   "questionText": "To ask the Minister for the Cabinet Office, pursuant to the answer of 18 November 2026 to question 43121, which cross-government priorities for artificial intelligence the Prime Minister's AI Taskforce has set.",
+   "dateTabled": "2026-11-19T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1961561,
+   "uin": "44488",
+   "heading": "AI Biosecurity Lab",
+   "questionText": "To ask the Minister for the Cabinet Office, pursuant to the answer given in 38836, what methodology was used for calculating the value of compute and model credits.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1961521,
+   "uin": "44448",
+   "heading": "Department for Work and Pensions: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Work and Pensions, whether the Department for Work and Pensions uses any open-weight AI model published by a developer based in China.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1961520,
+   "uin": "44447",
+   "heading": "Department for Education: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Education, whether the Department for Education uses any open-weight AI model published by a developer based in China.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1961519,
+   "uin": "44446",
+   "heading": "Department of Health and Social Care: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether the Department of Health and Social Care uses any open-weight AI model published by a developer based in China.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1961517,
+   "uin": "44444",
+   "heading": "Ministry of Defence: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Defence, whether the Ministry of Defence uses any open-weight AI model published by a developer based in China.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1961516,
+   "uin": "44443",
+   "heading": "Home Office: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for the Home Department, whether the Home Office uses any open-weight AI model published by a developer based in China.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1961504,
+   "uin": "44431",
+   "heading": "Government Departments: Artificial Intelligence",
+   "questionText": "To ask the Minister for the Cabinet Office, whether the National Security Unit for Procurement has assessed any supplier of AI (a) models and (b) services to Government.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1960855,
+   "uin": "43914",
+   "heading": "DeepSeek: Exports",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, whether an assessment has been made of the implications for UK suppliers to US federal civilian agencies of the US Department of Homeland Security’s Exclusion and Removal Order #20",
+   "dateTabled": "2026-11-17T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1960854,
+   "uin": "43913",
+   "heading": "DeepSeek: Government Departments",
+   "questionText": "To ask the Minister for the Cabinet Office, whether departments have been asked to report their use of products developed using DeepSeek models since July 2026.",
+   "dateTabled": "2026-11-17T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1960853,
+   "uin": "43912",
+   "heading": "DeepSeek: Government Departments",
+   "questionText": "To ask the Minister for the Cabinet Office, whether the DeepSeek application is on the list of third-party applications approved for use on government devices.",
+   "dateTabled": "2026-11-17T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1960852,
+   "uin": "43911",
+   "heading": "DeepSeek: Cybersecurity",
+   "questionText": "To ask the Minister for the Cabinet Office, whether the National Cyber Security Centre has made an assessment of the US Department of Homeland Security’s Exclusion and Removal Order #2026-01 on DeepSeek products.",
+   "dateTabled": "2026-11-17T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1960661,
+   "uin": "43791",
+   "heading": "Data Centres",
+   "questionText": "To ask the Minister for the Cabinet Office, when she plans for the Ministerial Control Centre for strategic data centres to hold its first meeting.",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1960378,
+   "uin": "43508",
+   "heading": "Children: Maintenance",
+   "questionText": "To ask the Secretary of State for Work and Pensions, whether the Child Maintenance Service what enforcement action may be taken in respect of arrears accrued while a paying parent was habitually resident in the UK, where that parent subsequently becomes h",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1960376,
+   "uin": "43506",
+   "heading": "Children: Maintenance",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what support is available to the primary parent who is unable to obtain Child maintenance payments owed in such circumstances.",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1960374,
+   "uin": "43504",
+   "heading": "Children: Maintenance",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many Child Maintenance Service cases involving outstanding arrears have been closed in each of the last five years because the paying parent was no longer habitually resident in the UK; and what the",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1959077,
+   "uin": "42555",
+   "heading": "Centre for AI Measurement",
+   "questionText": "To ask the Minister for the Cabinet Office, whether government departments will be required to use testing methods developed by the Centre for AI Measurement when procuring AI systems.",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1958579,
+   "uin": "42105",
+   "heading": "Alibaba Group: Software",
+   "questionText": "To ask the Minister for the Cabinet Office, whether she has received advice from the NCSC or AISI on the use of Alibaba's software.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1956629,
+   "uin": "40742",
+   "heading": "Artificial Intelligence: Local Government",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, whether she has issued guidance to local authorities on the use of open-weight AI models published by developers based in China.",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1954676,
+   "uin": "39194",
+   "heading": "Artificial Intelligence: Security",
+   "questionText": "To ask the Minister for the Cabinet Office, which department will run the National Agentic Security Unit.",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1953926,
+   "uin": "38636",
+   "heading": "Artificial Intelligence",
+   "questionText": "To ask the Minister for the Cabinet Office, how many meetings the Minister for Artificial Intelligence has had with hon. Members since his appointment, by political party.",
+   "dateTabled": "2026-10-27T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1952218,
+   "uin": "37354",
+   "heading": "Planning: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, whether a control group will be used in the testing of the AI augmented planning decisions prototype.",
+   "dateTabled": "2026-10-22T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1950128,
+   "uin": "35716",
+   "heading": "Government Departments: Artificial Intelligence",
+   "questionText": "To ask the Minister for the Cabinet Office, what estimate she has made of total expenditure by central government departments on artificial intelligence products and services in the 2025-26 financial year.",
+   "dateTabled": "2026-10-16T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1948453,
+   "uin": "34348",
+   "heading": "Artificial Intelligence: Civil Servants",
+   "questionText": "To ask the Minister for the Cabinet Office, how many full-time equivalent staff working on artificial intelligence policy transferred from the Department for Science, Innovation and Technology to (a) the Cabinet Office, (b) the Department for Business, In",
+   "dateTabled": "2026-10-13T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1946733,
+   "uin": "32931",
+   "heading": "Civil Service: Artificial Intelligence",
+   "questionText": "To ask the Minister for the Cabinet Office, pursuant to the answer of 15 September 2026 to Question 24328 on Civil Service: Artificial Intelligence, what is the evidential basis for the calculation of £45 billion of savings from the use of AI.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1946714,
+   "uin": "32921",
+   "heading": "Artificial Intelligence",
+   "questionText": "To ask the Minister for the Cabinet Office, what the status is of the AI Management Essentials tool and whether it will be made a procurement requirement.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1945527,
+   "uin": "31697",
+   "heading": "Data Centres: Planning Permission",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what estimate she has made of the cost to the applicant of submitting and handling a planning application through the planning permission process for a data centre (a) under the ",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1944710,
+   "uin": "30885",
+   "heading": "Electronic Government: Cryptography",
+   "questionText": "To ask the Minister for the Cabinet Office, which services on the GOV.UK platform have completed migration to post-quantum cryptography; and what the timetable is for the remainder.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1944706,
+   "uin": "30881",
+   "heading": "Artificial Intelligence: Northern Ireland",
+   "questionText": "To ask the Minister for the Cabinet Office, whether the procedures in Schedule 6B to the Northern Ireland Act 1998 will apply to any Joint Committee decision adding Regulation (EU) 2024/1689 to Annex 2; and whether the Northern Ireland Assembly will be co",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  }
+ ],
+ "historyComplete": true
+}
