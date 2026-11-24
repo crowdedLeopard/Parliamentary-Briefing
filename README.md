@@ -81,20 +81,13 @@ Each variable takes a comma-separated list. If a model reports "not available", 
 
 `editorial/<date>.json` holds the writer's sections. Its validation log sits beside it as `<date>.validation.json`. If an editorial already exists for a date, for example one a person wrote, the writer is skipped and the validator checks that version instead. See `editorial/2026-11-23.json` for the format. That edition was written by hand in the session that built this repository, before the agents were enabled, so it has not yet been through the validator.
 
-## Private website
+## Website (public GitHub Pages)
 
-After each run, the `site` job builds `_site/`: a front page with the latest briefing and an archive of every past day, each linking to its full report. It deploys only to targets that are set up as private:
+Every run publishes the website to GitHub Pages: the latest briefing at the top, then the archive with each edition's validation status. It is **public to anyone with the link**. Pages carry `noindex` and the site has a `robots.txt` that blocks crawlers, so it should not appear in search results, but treat the link as shareable, not secret. The run log prints the address as a notice; it is normally `https://crowdedleopard.github.io/Parliamentary-Briefing/`.
 
-- **Azure Static Web Apps.** Recommended: the easiest to share inside Microsoft.
-  1. Create a Static Web App (Free plan) in an approved Azure subscription.
-  2. Copy its deployment token into the repository secret `AZURE_STATIC_WEB_APPS_API_TOKEN`.
-  3. In the Azure portal, go to **Role management > Invite**. Invite the reader (and anyone else) by Microsoft email address with the role `briefing`.
+One-off setup: **Settings > Pages > Build and deployment > Source: GitHub Actions**. This repository is private, so GitHub Pages needs a paid plan on the owning account (GitHub Pro, Team or Enterprise); on GitHub Free the option is offered only for public repositories. To stop publishing, set the repository variable `PAGES_DISABLED` to `true`.
 
-  Viewers sign in with their Microsoft account. Anyone not invited sees a "no access" page, enforced by `staticwebapp.config.json`. To open it to the whole Microsoft tenant without invitations, move to the Standard plan and configure a custom Entra ID provider restricted to the tenant.
-- **Private GitHub Pages.** Only possible in a GitHub Enterprise Cloud organisation, and every viewer needs read access to the repository.
-  1. Move the repo into the organisation.
-  2. Go to **Settings > Pages**, set the source to *GitHub Actions* and the visibility to *Private*.
-  3. Only then set the repository variable `PAGES_PRIVATE_CONFIRMED` to `true`. Until that variable is set, the workflow never publishes to Pages, so nothing can go out publicly by accident.
+For a site that needs a Microsoft sign-in instead, add the `AZURE_STATIC_WEB_APPS_API_TOKEN` secret: the same job then also deploys to Azure Static Web Apps, using `staticwebapp.config.json` to admit only invited users.
 
 ## Getting it into OneDrive
 

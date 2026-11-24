@@ -116,10 +116,10 @@ jobs:
           retention-days: 30
 
   site:
-    # Publishes the private website. Each target switches on only once it is set up safely:
-    #   GitHub Pages: repository variable PAGES_PRIVATE_CONFIRMED=true, set only after
-    #                 Settings > Pages > Visibility is Private (needs a GitHub Enterprise Cloud org).
-    #   Azure Static Web Apps: repository secret AZURE_STATIC_WEB_APPS_API_TOKEN.
+    # Publishes the website on public GitHub Pages (anyone with the link; pages carry noindex so search
+    # engines skip them). Needs Settings > Pages > Source = "GitHub Actions" once. Set the repository
+    # variable PAGES_DISABLED=true to stop publishing. Azure Static Web Apps (sign-in required) also
+    # deploys if the AZURE_STATIC_WEB_APPS_API_TOKEN secret exists.
     needs: build
     if: always() && (needs.build.outputs.ran == 'true' || github.event_name == 'workflow_dispatch')
     runs-on: ubuntu-latest
@@ -127,9 +127,12 @@ jobs:
       contents: read
       pages: write
       id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.pages.outputs.page_url }}
     env:
       SWA_TOKEN: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN }}
-      PAGES_OK: ${{ vars.PAGES_PRIVATE_CONFIRMED }}
+      PAGES_OFF: ${{ vars.PAGES_DISABLED }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -138,9 +141,6 @@ jobs:
         with:
           python-version: "3.12"
       - run: python pipeline/site.py
-      - name: Nothing to deploy yet
-        if: env.SWA_TOKEN == '' && env.PAGES_OK != 'true'
-        run: echo "::notice title=Site not deployed::Set up Azure Static Web Apps or private GitHub Pages (see README) to publish the website."
       - name: Deploy to Azure Static Web Apps (Microsoft sign-in, invited users only)
         if: env.SWA_TOKEN != ''
         uses: Azure/static-web-apps-deploy@v1
@@ -150,11 +150,18 @@ jobs:
           app_location: _site
           skip_app_build: true
           skip_api_build: true
-      - name: Upload for private GitHub Pages
-        if: env.PAGES_OK == 'true'
+      - name: Set up GitHub Pages
+        if: env.PAGES_OFF != 'true'
+        uses: actions/configure-pages@v5
+      - name: Upload for GitHub Pages
+        if: env.PAGES_OFF != 'true'
         uses: actions/upload-pages-artifact@v3
         with:
           path: _site
-      - name: Deploy private GitHub Pages
-        if: env.PAGES_OK == 'true'
+      - name: Deploy to GitHub Pages
+        if: env.PAGES_OFF != 'true'
+        id: pages
         uses: actions/deploy-pages@v4
+      - name: Say where the site is
+        if: env.PAGES_OFF != 'true'
+        run: echo "::notice title=Briefing website::${{ steps.pages.outputs.page_url }}"
