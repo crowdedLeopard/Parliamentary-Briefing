@@ -1,0 +1,1777 @@
+{
+ "id": 4603,
+ "fetchedOn": "2026-11-24",
+ "core": {
+  "id": 4603,
+  "nameListAs": "Gill, Preet Kaur",
+  "nameDisplayAs": "Preet Kaur Gill",
+  "nameFullTitle": "Preet Kaur Gill MP",
+  "nameAddressAs": "Preet Gill",
+  "latestParty": {
+   "id": 15,
+   "name": "Labour (Co-op)",
+   "abbreviation": "Lab",
+   "backgroundColour": "d50000",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": true,
+   "governmentType": 0,
+   "isIndependentParty": false
+  },
+  "gender": "F",
+  "latestHouseMembership": {
+   "membershipFrom": "Birmingham Edgbaston",
+   "membershipFromId": 3907,
+   "house": 1,
+   "membershipStartDate": "2017-06-08T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2024-07-04T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/4603/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2024-05-31T00:00:00",
+    "constituencyEnd": null,
+    "house": 1,
+    "name": "Birmingham Edgbaston",
+    "id": 3907,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "2010-04-13T00:00:00",
+    "constituencyEnd": "2024-05-30T00:00:00",
+    "house": 1,
+    "name": "Birmingham, Edgbaston",
+    "id": 3325,
+    "startDate": "2017-06-08T00:00:00",
+    "endDate": "2024-05-30T00:00:00",
+    "additionalInfo": "Elected 2 times",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [],
+  "houseMemberships": [
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "2017-06-08T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Preet Kaur Gill",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [
+   {
+    "house": 1,
+    "name": "Parliamentary Under-Secretary (Department of Health and Social Care)",
+    "id": 1212,
+    "startDate": "2026-05-12T00:00:00",
+    "endDate": "2026-07-22T00:00:00",
+    "additionalInfo": "Department of Health and Social Care",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-of-health-and-social-care"
+   }
+  ],
+  "oppositionPosts": [
+   {
+    "house": 1,
+    "name": "Shadow Minister (Primary Care and Public Health)",
+    "id": 1645,
+    "startDate": "2023-09-06T00:00:00",
+    "endDate": "2024-07-05T00:00:00",
+    "additionalInfo": "Department of Health and Social Care",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-of-health-and-social-care"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Secretary of State for International Development",
+    "id": 1585,
+    "startDate": "2020-09-02T00:00:00",
+    "endDate": "2023-09-06T00:00:00",
+    "additionalInfo": "Foreign, Commonwealth and Development Office",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Secretary of State for International Development",
+    "id": 870,
+    "startDate": "2020-04-06T00:00:00",
+    "endDate": "2020-09-02T00:00:00",
+    "additionalInfo": "Department for International Development",
+    "additionalInfoLink": "http://www.dfid.gov.uk"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Minister (International Development)",
+    "id": 967,
+    "startDate": "2018-01-12T00:00:00",
+    "endDate": "2020-04-06T00:00:00",
+    "additionalInfo": "Department for International Development",
+    "additionalInfoLink": "http://www.dfid.gov.uk"
+   }
+  ],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Labour",
+    "id": 15,
+    "startDate": "2017-06-08T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 1,
+    "name": "Home Affairs Committee",
+    "id": 83,
+    "startDate": "2026-10-26T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Home Affairs Committee",
+    "id": 83,
+    "startDate": "2017-09-11T00:00:00",
+    "endDate": "2018-02-05T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Tobacco and Vapes Bill",
+    "id": 720,
+    "startDate": "2024-04-24T00:00:00",
+    "endDate": "2024-05-14T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Employment Rights Bill",
+    "id": 747,
+    "startDate": "2024-11-13T00:00:00",
+    "endDate": "2025-01-16T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Cyber Security and Resilience (Network and Information Systems) Bill",
+    "id": 829,
+    "startDate": "2026-01-21T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Civil Aviation (Consumer Protection and Regulatory Reform) Bill",
+    "id": 847,
+    "startDate": "2026-10-15T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 4,
+   "name": "3. Gifts, benefits and hospitality from UK sources",
+   "sortOrder": 0,
+   "interests": [
+    {
+     "id": 12964,
+     "interest": "Name of donor: Warwickshire County Cricket Club\r\nAddress of donor: Edgbaston Stadium, Birmingham B5 7QU\r\nAmount of donation or nature and value if donation in kind: Two tickets including hospitality and entry to chair's lounge, to watch India v England for myself and my guest, value £1,198.80\r\nDate received: 3 July 2025\r\nDate accepted: 3 July 2025\r\nDonor status: company, registration IP27221R\r\n(Registered 9 December 2025)",
+     "createdWhen": "2026-03-25T16:09:16.2074152",
+     "lastAmendedWhen": "2025-12-16T10:57:53.4266667",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "name": "8. Miscellaneous",
+   "sortOrder": 1,
+   "interests": [
+    {
+     "id": 2014,
+     "interest": "An ambassador for Spring Housing Association.\r\nDate interest arose: 29 September 2020\r\nAdditional information: Before 29 September 2020, I was a Non Executive Unpaid Director.\r\n(Registered 5 July 2017; updated 8 December 2020)",
+     "createdWhen": "2024-04-18T15:20:39.1333333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 2019,
+     "interest": "Unpaid Vice President of the Local Government Association (LGA), which works with councils to support, promote and improve local government.\r\nDate interest arose: 23 July 2018\r\n(Registered 28 August 2018)",
+     "createdWhen": "2024-04-18T15:16:03.7533333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 2021,
+     "interest": "An ambassador for the West Bromwich Albion Foundation, which is the charity of West Bromwich Albion Football Club, designed to connect with and support local communities.\r\nDate interest arose: 29 April 2020\r\n(Registered 11 December 2018; updated 1 May 2020)",
+     "createdWhen": "2024-04-18T15:16:03.7533333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 2023,
+     "interest": "Vice-President of West Midlands Labour Finance and Industry Group (WM LFIG), which exists to facilitate constructive dialogue between the Government and prominent persons from industry, finance and the professions within the West Midlands.\r\nDate interest arose: 10 April 2019\r\n(Registered 12 April 2019)",
+     "createdWhen": "2024-04-18T15:16:03.7533333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 2634,
+     "interest": "Member of the Co-operative Party National Executive Committee. This is an unpaid role.\r\nDate interest arose: 12 February 2020\r\n(Registered 25 February 2020)",
+     "createdWhen": "2024-04-18T15:16:24.9166667",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 2026,
+     "interest": "An ambassador for the Greater Birmingham Chambers of Commerce. This is an unpaid role.\r\nDate interest arose: 10 September 2020\r\n(Registered 9 June 2020; updated 16 September 2020)",
+     "createdWhen": "2024-04-18T15:16:03.7533333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [],
+ "synopsis": "Preet Kaur Gill is the Labour (Co-op) MP for <a href='/constituency/3907/overview'>Birmingham Edgbaston</a>, and has been an MP continually since 8 June 2017.",
+ "history": [
+  {
+   "id": 1959583,
+   "uin": "42903",
+   "heading": "Medical Records: Cybersecurity",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment she has made of the impact of the Cloud First Policy on a) sovereign cloud capabilities as opposed to public cloud with regards to health innovation, and b) whether the Cloud First ",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1959010,
+   "uin": "42488",
+   "heading": "Clinical Trials: Standards",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps she is taking to ensure that progress on commercial trial set-up times is matched for non-commercial trials.",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1959008,
+   "uin": "42486",
+   "heading": "Clinical Trials: Standards",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether her Department plans to publish the full data on the 150-day set up target for non-commercial clinical trials.",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1959611,
+   "uin": "42931",
+   "heading": "Energy: Billing",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, whether she plans to take steps to protect consumers through (a) controls on direct debit calculations preventing suppliers from overriding a customer's documented affordability or inflating ",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1958243,
+   "uin": "41805",
+   "heading": "Universal Credit: Young People",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what assessment he has made of the potential merits of using existing evidence from education, health and disability benefit assessments as part of Universal Credit assessments for young adults with pro",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1957679,
+   "uin": "41297",
+   "heading": "Child Maintenance Service: Information Sharing",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what arrangements exist for the Child Maintenance Service to notify Universal Credit teams when it identifies assets that may affect a person’s entitlement to Universal Credit; and whether he will intro",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1951675,
+   "uin": "36939",
+   "heading": "Places of Worship Security Funding Scheme: Sikhs",
+   "questionText": "To ask the Secretary of State for the Home Department, how many gurdwaras applied to the Places of Worship Protective Security Scheme over the last three years; and how many were funded.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1959379,
+   "uin": "42699",
+   "heading": "Offences against Children",
+   "questionText": "To ask the Secretary of State for Justice, when he plans to publish the terms of reference and timetable for the post implementation review of the offences introduced by section 81 of the Crime and Policing Act 2026, and whether the review will examine ca",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1959378,
+   "uin": "42698",
+   "heading": "Offences against Children",
+   "questionText": "To ask the Secretary of State for Justice, whether he will bring forward legislation to remove the requirement in new section 8A(1)(b)(i) of the Sexual Offences Act 2003 for the prosecution to prove that a defendant aged 18 or over did not reasonably beli",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1959377,
+   "uin": "42697",
+   "heading": "Offences against Children",
+   "questionText": "To ask the Secretary of State for Justice, what steps remain to be completed before section 81 of the Crime and Policing Act 2026 can be brought into force, and whether commencement is contingent on the outcome of the consultation on close in age relation",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1959376,
+   "uin": "42696",
+   "heading": "Offences against Children",
+   "questionText": "To ask the Secretary of State for Justice, on what date he plans to bring section 81 of the Crime and Policing Act 2026 into force.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1956676,
+   "uin": "40789",
+   "heading": "Disease Control: Jews and Sikhs",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether the Government’s June 2026 report on implementation of Lord Mann’s recommendations will include a final decision, implementation timetable and named body responsible for delivering separate",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1956675,
+   "uin": "40788",
+   "heading": "Health Services: Racial Discrimination",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what interim measures NHS organisations will be asked to take to identify inequalities and racist abuse affecting Sikh and Jewish patients and staff pending a final decision on separate ethnicity c",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1956673,
+   "uin": "40786",
+   "heading": "Health Services: Racial Discrimination",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment the Department has made of the potential impact of the absence of separate Sikh and Jewish ethnicity categories on its ability to identify and address (a) health inequalities, (b) d",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1956670,
+   "uin": "40783",
+   "heading": "Disease Control: Jews and Sikhs",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference to Lord Mann’s finding that NHS data collection need not await changes to the Government Statistical Service ethnicity standard, what barriers prevent the NHS from introducing separa",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1956667,
+   "uin": "40780",
+   "heading": "Disease Control: Jews and Sikhs",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what evidence the Department requires to reach a decision on whether to introduce Sikh and Jewish ethnicity categories following Lord Mann’s review.",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1956665,
+   "uin": "40778",
+   "heading": "Disease Control: Jews and Sikhs",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what dates have been set for implementing separate Sikh and Jewish ethnicity tick box options in NHS patient and workforce datasets following Lord Mann’s review.",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1956663,
+   "uin": "40776",
+   "heading": "Disease Control: Jews and Sikhs",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference to the Answer of 2 November 2026 to Question 34929, whether her Department has agreed to introduce separate Sikh and Jewish ethnicity tick box options in NHS data collection followin",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1956661,
+   "uin": "40774",
+   "heading": "Health Services: Racial Discrimination",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference to the Answer of 3 November 2026 to Question 34899, whether she has had discussions with the ONS on implementing the antisemitism report recommendations including Sikh and Jewish eth",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1958443,
+   "uin": "41971",
+   "heading": "Insolvency",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, pursuant to the Answers of 4 November 2026 to Questions 39661 and 39654, if he will take steps to require insolvency practitioners to (a) notify proposed defendants and consider ev",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1955412,
+   "uin": "39841",
+   "heading": "Recruitment: Neurodiversity",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what assessment he has made of the adequacy of guidance for employers in addressing the needs of neurodivergent candidates.",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1955411,
+   "uin": "39840",
+   "heading": "Recruitment: Psychometric Testing",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what assessment his Department has made of the potential impact of psychometric and personality testing on autistic job applicants and other disabled groups.",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1956659,
+   "uin": "40772",
+   "heading": "Supported Housing: Birmingham",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, with reference to the answer of 3 November 2026 to Question 35573, what steps the Department is taking to ensure that public bodies other than local authorities, placing people i",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1955213,
+   "uin": "39665",
+   "heading": "Insolvency: Legal Costs",
+   "questionText": "To ask the Secretary of State for Justice, if his Department will make it his policy to review the adequacy of existing powers to stay assigned insolvency claims where a related investigation may produce evidence materially relevant to their determination",
+   "dateTabled": "2026-10-30T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1955212,
+   "uin": "39664",
+   "heading": "Insolvency: Legal Costs",
+   "questionText": "To ask the Secretary of State for Justice, what assessment his Department has made of the accessibility and cost of procedures for defendants to seek an early determination of the validity of an assignment of an insolvency claim.",
+   "dateTabled": "2026-10-30T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1955211,
+   "uin": "39663",
+   "heading": "Insolvency: Legal Costs",
+   "questionText": "To ask the Secretary of State for Justice, whether planned regulation of litigation funding agreements will extend to commercial entities which purchase insolvency claims outright and pursue those claims in their own names.",
+   "dateTabled": "2026-10-30T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1955208,
+   "uin": "39660",
+   "heading": "Insolvency: Complaints",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, further to the Answer of 26 October 2026 to Question 36382, what plans his Department has to introduce an expedited complaints procedure where alleged misconduct in the assignment ",
+   "dateTabled": "2026-10-30T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1955204,
+   "uin": "39656",
+   "heading": "Insolvency: Complaints",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, further to the Answer of 26 October 2026 to Question 36382, whether the Department will introduce an expedited complaints procedure where alleged misconduct in the assignment of a ",
+   "dateTabled": "2026-10-30T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1953338,
+   "uin": "38126",
+   "heading": "Science and Technology: Employment and Training",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what steps his Department is taking with Skills England, the West Midlands Combined Authority and life sciences employers to develop training and employment pathways into laboratory, clinical research a",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1955414,
+   "uin": "39843",
+   "heading": "Recruitment: Disability",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how he monitors inclusivity within the Disability Confident scheme; and whether he is considering (a) guidance and (b) regulation to ensure recruitment assessments do not disadvantage disabled applicant",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1955306,
+   "uin": "39735",
+   "heading": "Electronic Commerce: Payments",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, further to the Answer of 30 October 2026 to Question 36774, what discussions the Small Business Commissioner has held through its ongoing dialogue with Amazon on the impacts on sma",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1953940,
+   "uin": "38650",
+   "heading": "Tax Avoidance",
+   "questionText": "To ask the Chancellor of the Exchequer, with reference to the Answer of 20 October 2026 to Question 36525, if he will make a comparative assessment of the impact of the difference in treatment between (a) people who settled loan charge liabilities before ",
+   "dateTabled": "2026-10-27T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1955200,
+   "uin": "39652",
+   "heading": "Insolvency",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, What mechanisms exist for checking whether claims are assigned appropriately in the process of insolvency of companies.",
+   "dateTabled": "2026-10-30T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1955225,
+   "uin": "39677",
+   "heading": "Insolvency",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, whether recognised professional bodies may investigate the propriety of an insolvency practitioner’s decision to assign a claim after ownership of that claim has transferred.",
+   "dateTabled": "2026-10-30T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1955199,
+   "uin": "39651",
+   "heading": "Insolvency: Complaints",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, how many complaints have been investigated by a Recognised Professional Body in exercising their regulatory functions about (a) an Insolvency Practitioner and (b) the assigning of ",
+   "dateTabled": "2026-10-30T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1955210,
+   "uin": "39662",
+   "heading": "Insolvency: Data Protection",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what assessment his Department has made of the adequacy of safeguards for the transfer and subsequent use of confidential information when insolvency claims arising from related ci",
+   "dateTabled": "2026-10-30T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1955203,
+   "uin": "39655",
+   "heading": "Insolvency",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what requirements apply to insolvency practitioners to consider information concerning ongoing Insolvency Service investigations before assigning civil claims arising from related ",
+   "dateTabled": "2026-10-30T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1955209,
+   "uin": "39661",
+   "heading": "Insolvency",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what requirements apply to insolvency practitioners to notify a proposed defendant before assigning a claim and provide an opportunity to identify material factual errors.",
+   "dateTabled": "2026-10-30T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1955202,
+   "uin": "39654",
+   "heading": "Insolvency",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, further to the Answer of 26 October 2026 to Question 36380, what duties remain on an insolvency practitioner after assigning a claim to notify the assignee of new information mater",
+   "dateTabled": "2026-10-30T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1955201,
+   "uin": "39653",
+   "heading": "Insolvency",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, further to the Answer of 26 October 2026 to Question 36380, what requirements apply to an insolvency practitioner to record and retain their assessment of the evidential basis, ava",
+   "dateTabled": "2026-10-30T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1953330,
+   "uin": "38118",
+   "heading": "Medical Devices: Innovation and Technology",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what criteria her Department uses in nationally funded medical technology pilots to identify (a) a responsible commissioner, (b) an evaluation timetable and (c) a route to routine commissioning.",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1953329,
+   "uin": "38117",
+   "heading": "X-rays: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many NHS trusts have implemented AI-enabled chest X-ray technology supported by national funding; and what assessment she has made of the potential impact of that technology on (a) diagnostic t",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1953328,
+   "uin": "38116",
+   "heading": "Drugs and Medical Devices: Integrated Care Boards",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether she plans to publish annual data on variation between integrated care board areas in the uptake of NICE-recommended medicines and medical technologies.",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1953327,
+   "uin": "38115",
+   "heading": "Medical Devices: Innovation and Technology",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what funding is available to NHS organisations to meet the initial costs of adopting medical technologies where anticipated savings arise in another part of the health and care system.",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1953325,
+   "uin": "38113",
+   "heading": "Medical Devices: Innovation and Technology",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what progress her Department has made on introducing the NHS Innovator Passport; and what steps her Department are taking to prevent duplication of evidence assessments between NHS organisations.",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1953324,
+   "uin": "38112",
+   "heading": "NHS Trusts: Innovation and Technology",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what milestones her Department has set for increasing the adoption of clinically effective and cost-effective medical technologies across NHS trusts in England over the next three years.",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1953405,
+   "uin": "38193",
+   "heading": "Hospitality Industry: Young People",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what discussions he has had with ministerial colleagues on supporting workforce participation among young people through entry-level roles in the hospitality sector.",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1953403,
+   "uin": "38191",
+   "heading": "Hospitality Industry: Young People",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what assessment he has made of the contribution of the hospitality sector in providing accessible routes into employment, skills development and long-term careers for young people.",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1949981,
+   "uin": "35570",
+   "heading": "Supported Housing: Birmingham",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what assessment her Department has made of the adequacy of Birmingham City Council’s existing powers to prevent the concentration of poorly managed supported exempt accommodation",
+   "dateTabled": "2026-10-16T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1949984,
+   "uin": "35573",
+   "heading": "Supported Housing: Birmingham",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what steps the Department is taking to ensure that public bodies placing people in supported exempt accommodation in Birmingham from outside the city (a) notify the receiving aut",
+   "dateTabled": "2026-10-16T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1949983,
+   "uin": "35572",
+   "heading": "Supported Housing: Birmingham",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what discussions the Department has had with Birmingham City Council on safeguarding requirements for supported exempt accommodation, including (a) individual needs and risk asse",
+   "dateTabled": "2026-10-16T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1953335,
+   "uin": "38123",
+   "heading": "Business: Life Sciences",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what support is available to life sciences businesses to move from pilot-scale production to commercial manufacturing in the UK.",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1953334,
+   "uin": "38122",
+   "heading": "Life Sciences: Birmingham",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what assessment he has made of the potential contribution of Birmingham’s Health and Life Sciences District to employment, manufacturing investment and exports over the next five y",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1953402,
+   "uin": "38190",
+   "heading": "Music and Dance Scheme",
+   "questionText": "To ask the Secretary of State for Education, what assessment she has made of the long-term sustainability of specialist schools arising from future plans for the Music and Dance Scheme.",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1949143,
+   "uin": "34930",
+   "heading": "Coronavirus: Jews and Sikhs",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment she has made of whether the potential impact of the absence of separate Sikh and Jewish ethnicity categories in NHS datasets on (a) the identification of and (b) response to COVID-1",
+   "dateTabled": "2026-10-14T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1949142,
+   "uin": "34929",
+   "heading": "Disease Control: Jews and Sikhs",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps she is taking to ensure that Sikh and Jewish communities are separately identifiable in health surveillance data used to inform future pandemic responses.",
+   "dateTabled": "2026-10-14T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1949140,
+   "uin": "34927",
+   "heading": "Coronavirus: Jews and Sikhs",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment she has made of the potential impact on NHS ethnicity recording of the Office for National Statistics' findings of higher age-standardised COVID-19 mortality among Sikh and Jewish c",
+   "dateTabled": "2026-10-14T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1949112,
+   "uin": "34899",
+   "heading": "Health Services: Racial Discrimination",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps he has taken to implement recommendation 2 of Lord Mann’s review of antisemitism and other forms of racism in the NHS and healthcare regulatory system on including Jewish and Sikh as eth",
+   "dateTabled": "2026-10-14T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1953336,
+   "uin": "38124",
+   "heading": "Life Sciences Innovative Manufacturing Fund",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, whether his Department records the number of jobs created and retained through the Life Sciences Innovative Manufacturing Fund by region and occupation.",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1953404,
+   "uin": "38192",
+   "heading": "Employment Schemes",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what steps his Department is taking to ensure that employment support programmes provide effective routes into work in labour-intensive sectors such as hospitality.",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1953333,
+   "uin": "38121",
+   "heading": "Life Sciences: Research",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what joint governance arrangements his Department has established with the Department of Health and Social Care to coordinate life sciences research funding, NHS adoption and manuf",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1953337,
+   "uin": "38125",
+   "heading": "Manufacturing Industries: Drugs",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what discussions he has had with the West Midlands Combined Authority on linking the Clinical Commercial Catalyst to investment in manufacturing capacity and the development of loc",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1951510,
+   "uin": "36774",
+   "heading": "Electronic Commerce: Payments",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what discussions he has had with Amazon on changes to its DD+7 policy and the impact on payments to small and medium size enterprises.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1951511,
+   "uin": "36775",
+   "heading": "Home Shopping: Taxation",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment he has made of the number requests for Time to Pay arrangements with HMRC regarding VAT settlements, PAYE and NI payments arising from changes to the Amazon DD+7 policy to impose a delay in the payme",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1953590,
+   "uin": "38300",
+   "heading": "Insolvency: Complaints",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, how many complaints have been investigated by the Insolvency Service about the way a Recognised Professional Body has dealt with a complaint about an Insolvency Practitioner in the",
+   "dateTabled": "2026-10-27T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1950988,
+   "uin": "36385",
+   "heading": "Insolvency: Complaints",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, if the Department will review the effectiveness of the insolvency practitioner complaints system in cases where disciplinary action cannot provide compensation or resolve the under",
+   "dateTabled": "2026-10-20T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1950981,
+   "uin": "36378",
+   "heading": "Insolvency: Legal Costs",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what routes to financial redress are available to people who incur losses as a result of misconduct by an insolvency practitioner; and whether the Department has assessed the affor",
+   "dateTabled": "2026-10-20T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1949988,
+   "uin": "35577",
+   "heading": "Anti-social Behaviour: Birmingham",
+   "questionText": "To ask the Secretary of State for the Home Department, what discussions the Department has had with West Midlands Police and Birmingham City Council on tackling antisocial behaviour associated with the management of exempt accommodation in Birmingham; and",
+   "dateTabled": "2026-10-16T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1951128,
+   "uin": "36525",
+   "heading": "Tax Avoidance",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment he has made of the effects for people who settled loan charge liabilities before implementation of the Ray McCann review recommendations compared to people offered the the new settlement opportunity ",
+   "dateTabled": "2026-10-20T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1949989,
+   "uin": "35578",
+   "heading": "Supported Housing: Birmingham",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what assessment she has made of the potential social and economic impact of high concentrations of supported exempt accommodation in Birmingham.",
+   "dateTabled": "2026-10-16T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1949982,
+   "uin": "35571",
+   "heading": "Supported Housing: Birmingham",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what steps the Department is taking to ensure that the new supported housing licensing regime enables Birmingham City Council to prevent individuals responsible for serious breac",
+   "dateTabled": "2026-10-16T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1949980,
+   "uin": "35569",
+   "heading": "Supported Housing: Birmingham",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what funding will be provided to Birmingham City Council to (a) establish the supported housing licensing regime and (b) recruit and retain staff to inspect properties, assess su",
+   "dateTabled": "2026-10-16T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1949979,
+   "uin": "35568",
+   "heading": "Supported Housing: Birmingham",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, with reference to the supported housing licensing consultation published on 15 October 2026, when the Government expects (a) to lay the final regulations before Parliament and (b",
+   "dateTabled": "2026-10-16T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1949986,
+   "uin": "35575",
+   "heading": "Housing Benefit: Supported Housing",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how much Housing Benefit was paid in respect of supported exempt accommodation in Birmingham in each of the last three financial years; and how much was (a) identified as overpaid and (b) recovered in e",
+   "dateTabled": "2026-10-16T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1951561,
+   "uin": "36825",
+   "heading": "Hate Crime: Hinduism and Sikhs",
+   "questionText": "To ask the Secretary of State for the Home Department, what steps her Department is taking to improve how hate crime against Sikhs and Hindus is recorded.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1950985,
+   "uin": "36382",
+   "heading": "Insolvency: Complaints",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what arrangements exist for urgent consideration of complaints about insolvency practitioners where the complainant is continuing to incur financial losses while the complaint is b",
+   "dateTabled": "2026-10-20T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1950982,
+   "uin": "36379",
+   "heading": "Insolvency Service",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what guidance the Insolvency Service provides to former company directors on the distinction between the closure of a director conduct investigation without further action and sepa",
+   "dateTabled": "2026-10-20T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1950991,
+   "uin": "36388",
+   "heading": "Insolvency: Risk Assessment",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what procedures the Insolvency Service uses to assess the risk of further harm where allegations about a director’s conduct are under investigation and that director continues to e",
+   "dateTabled": "2026-10-20T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1950980,
+   "uin": "36377",
+   "heading": "Insolvency: Legal Costs",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what assessment the Department has made of the adequacy of protections against legal costs for former company directors facing claims brought by liquidators and those litigation fu",
+   "dateTabled": "2026-10-20T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1950986,
+   "uin": "36383",
+   "heading": "Insolvency: Complaints",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what powers recognised professional bodies have to take interim regulatory action where a complaint about an insolvency practitioner raises concerns.",
+   "dateTabled": "2026-10-20T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1950993,
+   "uin": "36390",
+   "heading": "Insolvency Service",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what criteria the Insolvency Service applies when prioritising investigations into alleged director misconduct.",
+   "dateTabled": "2026-10-20T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1951015,
+   "uin": "36412",
+   "heading": "Insolvency: Misconduct",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what assessment he has made of the number of regulatory enforcement actions for misconduct taken against a) administrators and b) insolvency practitioners in the 2025 and the first",
+   "dateTabled": "2026-10-20T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1951014,
+   "uin": "36411",
+   "heading": "Insolvency: Misconduct",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what assessment he has made of the number of regulatory enforcement investigations of misconduct taken against a) administrators and b) insolvency practitioners in the last three y",
+   "dateTabled": "2026-10-20T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1950983,
+   "uin": "36380",
+   "heading": "Insolvency",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what requirements apply to insolvency practitioners to review the evidential basis and proportionality of civil claims against former directors when new evidence becomes available.",
+   "dateTabled": "2026-10-20T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1949987,
+   "uin": "35576",
+   "heading": "Housing Benefit: Supported Housing",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what additional support the Department will provide to Birmingham City Council to investigate supported exempt accommodation Housing Benefit claims where there are concerns about whether qualifying care",
+   "dateTabled": "2026-10-16T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1949985,
+   "uin": "35574",
+   "heading": "Housing Benefit: Supported Housing",
+   "questionText": "To ask the Secretary of State for Work and Pensions, when the Department plans to introduce changes to the definition of care, support and supervision in Housing Benefit regulations; and what assessment it has made of the effect of those changes on suppor",
+   "dateTabled": "2026-10-16T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1951013,
+   "uin": "36410",
+   "heading": "Insolvency: Fraud",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, how many companies currently being investigated for alleged fraudulent voluntary insolvency have been declared insolvent by the same directors and involve appointment of the same a",
+   "dateTabled": "2026-10-20T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1951012,
+   "uin": "36409",
+   "heading": "Insolvency: Fraud",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, how many cases of alleged fraudulent voluntary insolvency of companies have been the subject of investigation in the last three years where the Department, agencies or regulators h",
+   "dateTabled": "2026-10-20T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1950989,
+   "uin": "36386",
+   "heading": "Insolvency: Complaints",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what service standards apply to (a) the initial assessment of complaints submitted to the Insolvency Service’s Complaints Gateway and (b) subsequent investigations by recognised pr",
+   "dateTabled": "2026-10-20T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1950995,
+   "uin": "36392",
+   "heading": "Insolvency",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, if his Department will publish guidance setting out the respective responsibilities of the Insolvency Service, insolvency practitioners’ regulators and the courts when an individua",
+   "dateTabled": "2026-10-20T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1950987,
+   "uin": "36384",
+   "heading": "Insolvency: Information Sharing",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what guidance applies to the sharing of relevant information between the Insolvency Service, recognised professional bodies and liquidators where director conduct investigations an",
+   "dateTabled": "2026-10-20T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1948963,
+   "uin": "34750",
+   "heading": "Schools: Admissions",
+   "questionText": "To ask the Secretary of State for Education, what assessment she has made of the potential impact of the movements of families housed in temporary accommodation during 2024 and 2025 on schools’ numbers and transience in schools’ populations.",
+   "dateTabled": "2026-10-14T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1939814,
+   "uin": "28363",
+   "heading": "Ritual Slaughter",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she has made of the potential merits of the proposals of the Jhatka Council for commercial Jhatka slaughter.",
+   "dateTabled": "2026-09-09T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1939140,
+   "uin": "27996",
+   "heading": "Postnatal Depression",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many diagnoses of Postpartum Psychosis there were in England in 2025.",
+   "dateTabled": "2026-09-08T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1939141,
+   "uin": "27997",
+   "heading": "Remittances: Iran",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment he has made of (a) trends in the level of displacement of UK-Iran personal remittances into unregulated channels and (b) the potential impact of visibility of those flows on law enforcement.",
+   "dateTabled": "2026-09-08T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1896944,
+   "uin": "124928",
+   "heading": "Strokes: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps he is taking to improve support for stroke survivors and their families during the transition from hospital to home.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1896945,
+   "uin": "124929",
+   "heading": "Strokes: Mental Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps he is taking to ensure timely access to mental health services for stroke survivors and their families.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1896980,
+   "uin": "124964",
+   "heading": "Radiotherapy: West Midlands",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps he is taking to improve access to radiotherapy for cancer patients in the West Midlands.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1896943,
+   "uin": "124927",
+   "heading": "Strokes: Rehabilitation",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment his Department has made of the adequacy of stroke rehabilitation provision across England; and what steps are being taken to reduce regional disparities in access to specialist reha",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1896946,
+   "uin": "124930",
+   "heading": "Strokes: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps his Department is taking to improve early intervention for strokes.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1896951,
+   "uin": "124935",
+   "heading": "Health Services: Innovation",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what consideration has been given to the West Midlands and Birmingham as an early Regional Health Innovation Zone.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1896950,
+   "uin": "124934",
+   "heading": "Health Services: Innovation",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what progress has been made in establishing Regional Health Innovation Zones as part of the Life Sciences Sector Plan.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1894946,
+   "uin": "123663",
+   "heading": "Equal Pay: Gender",
+   "questionText": "To ask the Minister for Women and Equalities, whether Gender Pay Gap Reporting will use biological sex.",
+   "dateTabled": "2026-03-25T00:00:00",
+   "answeringBodyName": "Women and Equalities"
+  },
+  {
+   "id": 1895658,
+   "uin": "124210",
+   "heading": "Equal Pay: Disability",
+   "questionText": "To ask the Minister for Women and Equalities, what assessment she has made of the potential impact of using the Government Statistical Service categories in the Government's response to the consultation on ethnicity and disability pay gap reporting on the",
+   "dateTabled": "2026-03-26T00:00:00",
+   "answeringBodyName": "Women and Equalities"
+  },
+  {
+   "id": 1894945,
+   "uin": "123662",
+   "heading": "Employment: Women",
+   "questionText": "To ask the Minister for Cabinet Office, what information his Department holds on the number of women who are employed by companies with more than 250 employees.",
+   "dateTabled": "2026-03-25T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1869380,
+   "uin": "104184",
+   "heading": "Organs: Donors",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many registered organ donors there are, listed by (a) religious and (b) ethnic group.",
+   "dateTabled": "2026-01-08T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1888464,
+   "uin": "118544",
+   "heading": "Government Departments: Ethnic Groups",
+   "questionText": "To ask the Minister for the Cabinet Office, which Departments submitted evidence to the Office for National Statistics' review of the ethnicity harmonised standard.",
+   "dateTabled": "2026-03-06T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1888465,
+   "uin": "118545",
+   "heading": "Cabinet Office: Ethnic Groups",
+   "questionText": "To ask the Minister for the Cabinet Office, what evidence his Department submitted to the Office for National Statistics' review of the ethnicity harmonised standard, including in relation to the recording of Sikhs and Jewish people as ethnic groups.",
+   "dateTabled": "2026-03-06T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1887360,
+   "uin": "117830",
+   "heading": "Cabinet Office: Ethnic Groups",
+   "questionText": "To ask the Minister for the Cabinet Office, whether his Department was invited by the Office for National Statistics to provide evidence or input into its review of the ethnicity harmonised standard.",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1885139,
+   "uin": "116089",
+   "heading": "Gender: Databases",
+   "questionText": "To ask the Minister for the Cabinet Office, what steps he is taking to ensure that administrative datasets, including health, justice, education and crime datasets, will collect data on biological sex.",
+   "dateTabled": "2026-02-25T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1885141,
+   "uin": "116091",
+   "heading": "Gender: Databases",
+   "questionText": "To ask the Minister for the Cabinet Office, whether the Office for National Statistics has a timetable to implement the Sullivan Review’s recommendation that biological sex is collected as a distinct data variable in all Government statistical outputs.",
+   "dateTabled": "2026-02-25T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1885140,
+   "uin": "116090",
+   "heading": "Gender: Census and Surveys",
+   "questionText": "To ask the Minister for the Cabinet Office, how the ONS will ensure that the design of questions in major surveys and censuses, including ONS surveys, departmental surveys and Census outputs, conform with the Sullivan Review recommendation that “sex shoul",
+   "dateTabled": "2026-02-25T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1885138,
+   "uin": "116088",
+   "heading": "Gender: Databases",
+   "questionText": "To ask the Minister for the Cabinet Office, pursuant to the Sullivan Review’s recommendation that data on biological sex should be collected as the default and distinct from gender identity, what formal guidance and harmonised data standards the UK Statis",
+   "dateTabled": "2026-02-25T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1887359,
+   "uin": "117829",
+   "heading": "Department for Education: Ethnic Groups",
+   "questionText": "To ask the Secretary of State for Education, whether her Department was invited by the Office for National Statistics to provide evidence or input into its review of the ethnicity harmonised standard.",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1888468,
+   "uin": "118548",
+   "heading": "Department for Education: Ethnic Groups",
+   "questionText": "To ask the Secretary of State for Education, what evidence her Department submitted to the Office for National Statistics' review of the ethnicity harmonised standard, including in relation to the recording of Sikhs and Jewish people as ethnic groups.",
+   "dateTabled": "2026-03-06T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1887646,
+   "uin": "117834",
+   "heading": "Hate Crime",
+   "questionText": "To ask the Secretary of State for the Home Department, pursuant to question 85264 answered on 5 November 2025, whether her Department has had recent discussions with the Office for National Statistics on the linking of Census data to hate crime data.",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1888477,
+   "uin": "118556",
+   "heading": "Scotland Office: Ethnic Groups",
+   "questionText": "To ask the Secretary of State for Scotland, what evidence his Department submitted to the Office for National Statistics' review of the ethnicity harmonised standard, including in relation to the recording of Sikhs and Jewish people as ethnic groups.",
+   "dateTabled": "2026-03-06T00:00:00",
+   "answeringBodyName": "Scotland Office"
+  },
+  {
+   "id": 1888480,
+   "uin": "118559",
+   "heading": "Department for Work and Pensions: Ethnic Groups",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what evidence his Department submitted to the Office for National Statistics' review of the ethnicity harmonised standard, including in relation to the recording of Sikhs and Jewish people as ethnic gro",
+   "dateTabled": "2026-03-06T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1888471,
+   "uin": "118551",
+   "heading": "Department for Culture, Media and Sport: Ethnic Groups",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what evidence her Department submitted to the Office for National Statistics' review of the ethnicity harmonised standard, including in relation to the recording of Sikhs and Jewish people as eth",
+   "dateTabled": "2026-03-06T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1888474,
+   "uin": "118553",
+   "heading": "Department for Environment, Food and Rural Affairs: Ethnic Groups",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what evidence her Department submitted to the Office for National Statistics' review of the ethnicity harmonised standard, including in relation to the recording of Sikhs and Jewish pe",
+   "dateTabled": "2026-03-06T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1888759,
+   "uin": "118837",
+   "heading": "Child Maintenance Service: Complaints",
+   "questionText": "To ask the Secretary of State for Work and Pensions, whether complaints to the Child Maintenance Service that are time-sensitive to payment deadlines are prioritised.",
+   "dateTabled": "2026-03-09T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1888758,
+   "uin": "118836",
+   "heading": "Child Maintenance Service: Complaints",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what steps he is taking to help improve complaint response times from the Child Maintenance Service.",
+   "dateTabled": "2026-03-09T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1888757,
+   "uin": "118835",
+   "heading": "Child Maintenance Service: Complaints",
+   "questionText": "To ask the Secretary of State for Work and Pensions, for complaints investigations in the Child Maintenance Service that lasted longer than 15 working days, what percentage of complainants received written confirmation of this delay in the last year.",
+   "dateTabled": "2026-03-09T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1888756,
+   "uin": "118834",
+   "heading": "Child Maintenance Service: Complaints",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many complaints to the Child Maintenance Service were resolved (a) within 15 working days, (b) between 15-20 working days, (c) between 20-30 working days and (d) after 30 working days in each year s",
+   "dateTabled": "2026-03-09T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1888476,
+   "uin": "118555",
+   "heading": "Northern Ireland Office: Ethnic Groups",
+   "questionText": "To ask the Secretary of State for Northern Ireland, what evidence his Department submitted to the Office for National Statistics' review of the ethnicity harmonised standard, including in relation to the recording of Sikhs and Jewish people as ethnic grou",
+   "dateTabled": "2026-03-06T00:00:00",
+   "answeringBodyName": "Northern Ireland Office"
+  },
+  {
+   "id": 1890249,
+   "uin": "119971",
+   "heading": "Equal Pay: Disability and Ethnic Groups",
+   "questionText": "To ask the Minister for Women and Equalities, when she plans to respond to the Equality (Race and Disability) Bill: mandatory ethnicity and disability pay gap reporting consultation which closed on 10 June 2025.",
+   "dateTabled": "2026-03-11T00:00:00",
+   "answeringBodyName": "Women and Equalities"
+  },
+  {
+   "id": 1888470,
+   "uin": "118550",
+   "heading": "Attorney General's Office: Ethnic Groups",
+   "questionText": "To ask the Solicitor General, what evidence her Department submitted to the Office for National Statistics' review of the ethnicity harmonised standard, including in relation to the recording of Sikhs and Jewish people as ethnic groups.",
+   "dateTabled": "2026-03-06T00:00:00",
+   "answeringBodyName": "Attorney General"
+  },
+  {
+   "id": 1888481,
+   "uin": "118560",
+   "heading": "Treasury: Ethnic Groups",
+   "questionText": "To ask the Chancellor of the Exchequer, what evidence her Department submitted to the Office for National Statistics' review of the ethnicity harmonised standard, including in relation to the recording of Sikhs and Jewish people as ethnic groups.",
+   "dateTabled": "2026-03-06T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1888472,
+   "uin": "118552",
+   "heading": "Department for Energy Security and Net Zero: Ethnic Groups",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what evidence his Department submitted to the Office for National Statistics' review of the ethnicity harmonised standard, including in relation to the recording of Sikhs and Jewish people as",
+   "dateTabled": "2026-03-06T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1888475,
+   "uin": "118554",
+   "heading": "Ministry of Defence: Ethnic Groups",
+   "questionText": "To ask the Secretary of State for Defence, what evidence his Department submitted to the Office for National Statistics' review of the ethnicity harmonised standard, including in relation to the recording of Sikhs and Jewish people as ethnic groups.",
+   "dateTabled": "2026-03-06T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1888478,
+   "uin": "118557",
+   "heading": "Wales Office: Ethnic Groups",
+   "questionText": "To ask the Secretary of State for Wales, what evidence her Department submitted to the Office for National Statistics' review of the ethnicity harmonised standard, including in relation to the recording of Sikhs and Jewish people as ethnic groups.",
+   "dateTabled": "2026-03-06T00:00:00",
+   "answeringBodyName": "Wales Office"
+  },
+  {
+   "id": 1888466,
+   "uin": "118546",
+   "heading": "Department for Business and Trade: Ethnic Groups",
+   "questionText": "To ask the Secretary of State for Business and Trade, what evidence his Department submitted to the Office for National Statistics' review of the ethnicity harmonised standard, including in relation to the recording of Sikhs and Jewish people as ethnic gr",
+   "dateTabled": "2026-03-06T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1888761,
+   "uin": "118839",
+   "heading": "Warm Home Discount Scheme",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, whether an eligible individual can receive the Warm Homes Discount if there is no name on their energy bill but only the address.",
+   "dateTabled": "2026-03-09T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1888760,
+   "uin": "118838",
+   "heading": "Warm Home Discount Scheme",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, if he will make an assessment of the number of people eligible for the Warm Homes Discount who do not have their name on their energy bill.",
+   "dateTabled": "2026-03-09T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1888467,
+   "uin": "118547",
+   "heading": "Ministry of Justice: Ethnic Groups",
+   "questionText": "To ask the Secretary of State for Justice, what evidence his Department submitted to the Office for National Statistics' review of the ethnicity harmonised standard, including in relation to the recording of Sikhs and Jewish people as ethnic groups.",
+   "dateTabled": "2026-03-06T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1888469,
+   "uin": "118549",
+   "heading": "Department for Transport: Ethnic Groups",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the answer of 6 March 2026 to question 117378, what evidence her Department submitted to the Office for National Statistics' consultation regarding possible changes to the standard for ethnicity cat",
+   "dateTabled": "2026-03-06T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1887046,
+   "uin": "117381",
+   "heading": "Scotland Office: Ethnic Groups",
+   "questionText": "To ask the Secretary of State for Scotland, whether his Department was invited by the Office for National Statistics to provide input into its review of the ethnicity harmonised standard.",
+   "dateTabled": "2026-03-03T00:00:00",
+   "answeringBodyName": "Scotland Office"
+  },
+  {
+   "id": 1887041,
+   "uin": "117377",
+   "heading": "Department for Environment, Food and Rural Affairs: Ethnic Groups",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether her Department was invited by the Office for National Statistics to provide evidence or input into its review of the ethnicity harmonised standard.",
+   "dateTabled": "2026-03-03T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1888479,
+   "uin": "118558",
+   "heading": "Foreign, Commonwealth and Development Office: Ethnic Groups",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what evidence her Department submitted to the Office for National Statistics' review of the ethnicity harmonised standard, including in relation to the recording of Sikhs and",
+   "dateTabled": "2026-03-06T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1887048,
+   "uin": "117383",
+   "heading": "Foreign, Commonwealth and Development Office: Ethnic Groups",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, whether her Department was invited by the Office for National Statistics to provide input into its review of the ethnicity harmonised standard.",
+   "dateTabled": "2026-03-03T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1887040,
+   "uin": "117376",
+   "heading": "Department for Energy Security and Net Zero: Ethnic Groups",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, whether his Department was invited by the Office for National Statistics to provide evidence or input into its review of the ethnicity harmonised standard.",
+   "dateTabled": "2026-03-03T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1887012,
+   "uin": "117369",
+   "heading": "Government Departments: Ethnic Groups",
+   "questionText": "To ask the Minister for the Cabinet Office, whether the Office for National Statistics sought input from Government departments as part of its review of harmonised standards on ethnicity classification.",
+   "dateTabled": "2026-03-03T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1887043,
+   "uin": "117379",
+   "heading": "Ministry of Defence: Ethnic Groups",
+   "questionText": "To ask the Secretary of State for Defence, whether his Department was invited by the Office for National Statistics to provide evidence or input into its review of the ethnicity harmonised standard.",
+   "dateTabled": "2026-03-03T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1887044,
+   "uin": "117380",
+   "heading": "Northern Ireland Office: Ethnic Groups",
+   "questionText": "To ask the Secretary of State for Northern Ireland, whether his Department was invited by the Office for National Statistics to provide evidence or input into its review of the ethnicity harmonised standard.",
+   "dateTabled": "2026-03-03T00:00:00",
+   "answeringBodyName": "Northern Ireland Office"
+  },
+  {
+   "id": 1887024,
+   "uin": "117370",
+   "heading": "Department for Business and Trade: Ethnic Groups",
+   "questionText": "To ask the Secretary of State for Business and Trade, whether his Department was invited by the Office for National Statistics to provide input into its review of the ethnicity harmonised standard.",
+   "dateTabled": "2026-03-03T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1887027,
+   "uin": "117372",
+   "heading": "Home Office: Ethnic Groups",
+   "questionText": "To ask the Secretary of State for the Home Department, whether her Department was invited by the Office for National Statistics to provide evidence or input into its review of the ethnicity harmonised standard; and what evidence it submitted, including in",
+   "dateTabled": "2026-03-03T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1887362,
+   "uin": "117832",
+   "heading": "Treasury: Ethnic Groups",
+   "questionText": "To ask the Chancellor of the Exchequer, her Department was invited by the Office for National Statistics to provide evidence or input into its review of the ethnicity harmonised standard.",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1887038,
+   "uin": "117374",
+   "heading": "Attorney General's Office: Ethnic Groups",
+   "questionText": "To ask the Solicitor General, whether her Department was invited by the Office for National Statistics to provide evidence or input into its review of the ethnicity harmonised standard.",
+   "dateTabled": "2026-03-03T00:00:00",
+   "answeringBodyName": "Attorney General"
+  },
+  {
+   "id": 1887039,
+   "uin": "117375",
+   "heading": "Department for Culture, Media and Sport: Ethnic Groups",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, whether her Department was invited by the Office for National Statistics to provide evidence or input into its review of the ethnicity harmonised standard.",
+   "dateTabled": "2026-03-03T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1887361,
+   "uin": "117831",
+   "heading": "Department for Work and Pensions: Ethnic Groups",
+   "questionText": "To ask the Secretary of State for Work and Pensions, whether his Department was invited by the Office for National Statistics to provide evidence or input into its review of the ethnicity harmonised standard.",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1884347,
+   "uin": "115483",
+   "heading": "Gender Identity Development Service",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps his Department is taking to implement the recommendation in the Cass Review to undertake a comprehensive tracing and long-term follow-up study of the approximately 9,000 children and you",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1884344,
+   "uin": "115482",
+   "heading": "Gender Identity Development Service",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what timetable he has set for commissioning and commencing a tracing and follow-up study of former GIDS patients.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1884343,
+   "uin": "115481",
+   "heading": "Gender Dysphoria: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, if his Department will mandate data sharing across NHS trusts and adult gender services to enable a robust, independent longitudinal study consistent with the recommendations of the Cass Review.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1884341,
+   "uin": "115480",
+   "heading": "Gender Identity Development Service",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether he has held discussions with NHS adult gender clinics on cooperation with researchers commissioned to undertake follow-up work on former Gender Identity Development Service patients.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1884340,
+   "uin": "115479",
+   "heading": "Gender Identity Development Service",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the potential impact of the absence of outcome data on the cohort of young people treated by the Gender Identity Development Service during the period in which referr",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1887030,
+   "uin": "117373",
+   "heading": "Department of Health and Social Care: Ethnic Groups",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether his Department was invited by the Office for National Statistics to provide evidence or input into its review of the ethnicity harmonised standard; and what evidence it submitted, including",
+   "dateTabled": "2026-03-03T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1887047,
+   "uin": "117382",
+   "heading": "Wales Office: Ethnic Groups",
+   "questionText": "To ask the Secretary of State for Wales, whether her Department was invited by the Office for National Statistics to provide input into its review of the ethnicity harmonised standard.",
+   "dateTabled": "2026-03-03T00:00:00",
+   "answeringBodyName": "Wales Office"
+  },
+  {
+   "id": 1887363,
+   "uin": "117833",
+   "heading": "Ministry of Justice: Ethnic Groups",
+   "questionText": "To ask the Secretary of State for Justice, whether his Department was invited by the Office for National Statistics to provide evidence or input into its review of the ethnicity harmonised standard.",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1887026,
+   "uin": "117371",
+   "heading": "Ministry of Housing, Communities and Local Government: Ethnic Groups",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, whether his Department was invited by the Office for National Statistics to provide evidence or input into its review of the ethnicity harmonised standard; and what evidence it s",
+   "dateTabled": "2026-03-03T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1887042,
+   "uin": "117378",
+   "heading": "Department for Transport: Ethnic Groups",
+   "questionText": "To ask the Secretary of State for Transport, whether her Department was invited by the Office for National Statistics to provide evidence or input into its review of the ethnicity harmonised standard.",
+   "dateTabled": "2026-03-03T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1883901,
+   "uin": "115017",
+   "heading": "Armenia: Religious Freedom",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, pursuant to the Answer 17 November 2026 to Question 89462 on Armenia: Religious Freedom, what steps her Department is taking to monitor developments in relations between the ",
+   "dateTabled": "2026-02-23T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1883860,
+   "uin": "114990",
+   "heading": "Music and Dance Scheme",
+   "questionText": "To ask the Secretary of State for Education, what plans she to help support the Music and Dance Scheme Schools that face financial challenges.",
+   "dateTabled": "2026-02-23T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1883858,
+   "uin": "114988",
+   "heading": "Music and Dance Scheme",
+   "questionText": "To ask the Secretary of State for Education, what plans her Department has to help provide long-term funding certainty for schools supported by the Music and Dance Scheme.",
+   "dateTabled": "2026-02-23T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1883857,
+   "uin": "114987",
+   "heading": "Dance and Music: Education",
+   "questionText": "To ask the Secretary of State for Education, what steps she is taking to help ensure that children from non-privileged backgrounds have access to music and dance training, including through supporting the Music and Dance Scheme Schools.",
+   "dateTabled": "2026-02-23T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1878121,
+   "uin": "110454",
+   "heading": "Ethnic Groups: Statistics",
+   "questionText": "To ask the Minister for the Cabinet Office, what assessment he has made of the level of respondent burden to provide evidence on the need for an additional data point in the consultation entitled Assessing User Needs for Additional Response Options for th",
+   "dateTabled": "2026-02-03T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1874218,
+   "uin": "107740",
+   "heading": "Equal Pay: Ethnic Groups",
+   "questionText": "To ask the Minister for the Cabinet Office, whether the ethnic pay gap reporting framework will require employers to record and report pay gap data for Jewish and Sikh employees as distinct ethnic groups.",
+   "dateTabled": "2026-01-22T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1872918,
+   "uin": "106567",
+   "heading": "Bangladesh: Religious Freedom",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what recent representations she has made to her Bangladeshi counterpart on reports of violence against Hindu communities and the safety of religious minorities.",
+   "dateTabled": "2026-01-19T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1870922,
+   "uin": "105356",
+   "heading": "Iran: Religious Freedom",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what steps she is taking, in collaboration with the Government of Iran, to preserve freedom of religion or belief amid ongoing protests in Iran.",
+   "dateTabled": "2026-01-13T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1871920,
+   "uin": "106181",
+   "heading": "Placenta Accreta Spectrum: Diagnosis",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps he is taking to ensure frontline diagnostic capability for Placenta Accreta Spectrum at every level of maternity care.",
+   "dateTabled": "2026-01-15T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1871919,
+   "uin": "106180",
+   "heading": "Placenta Accreta Spectrum: Diagnosis",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what proportion of the maternity workforce has received Placenta Accreta Spectrum diagnostic training in each of the last five years.",
+   "dateTabled": "2026-01-15T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1871918,
+   "uin": "106179",
+   "heading": "Placenta Accreta Spectrum: Diagnosis",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether his Department plans to mandate frontline Placenta Accreta Spectrum diagnostic training for relevant maternity clinicians.",
+   "dateTabled": "2026-01-15T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1871922,
+   "uin": "106183",
+   "heading": "Placenta Accreta Spectrum: Diagnosis",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many cases of suspected Placenta Accreta Spectrum were (a) recorded antenatally and (b) confirmed at delivery in each of the last five years; and what the rate of missed antenatal diagnosis was",
+   "dateTabled": "2026-01-15T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1870125,
+   "uin": "104758",
+   "heading": "Immigration: Hong Kong",
+   "questionText": "To ask the Secretary of State for the Home Department, with reference to the consultation entitled Earned settlement, published on 20 November 2025, whether it is her policy that the salary scale should apply to British National (Overseas) applicants.",
+   "dateTabled": "2026-01-12T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1869383,
+   "uin": "104187",
+   "heading": "Racially Aggravated Offences and Religiously Aggravated Offences",
+   "questionText": "To ask the Secretary of State for the Home Department, for what reasons police forces reported to the Home Office the ethnicity of victims of racially and religiously aggravated crimes in 40 per cent of cases in the year ending 31 March 2025.",
+   "dateTabled": "2026-01-08T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1869384,
+   "uin": "104188",
+   "heading": "Hate Crime",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what estimate he has made of number of hate crimes reported to the a) Sikh Guard and b) Rakkha that were not passed on the police in the last three years.",
+   "dateTabled": "2026-01-08T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1870365,
+   "uin": "104828",
+   "heading": "Human Remains: Inquiries",
+   "questionText": "To ask the Secretary of State for Health and Social Care, which recommendations from the Fuller Inquiry he plans to implement; and in what timeline.",
+   "dateTabled": "2026-01-12T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1869487,
+   "uin": "104204",
+   "heading": "Data, Statistics and Research on Sex and Gender Independent Review",
+   "questionText": "To ask the Minister for the Cabinet Office, whether he plans to implement the recommendations of the Independent review of data, statistics and research on sex and gender in full.",
+   "dateTabled": "2026-01-08T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1869381,
+   "uin": "104185",
+   "heading": "Offences against Children: West Midlands",
+   "questionText": "To ask the Secretary of State for Education, how many child sexual exploitation cases were closed with no action in children's services in (a) Birmingham and (b) the west midlands in the last five years.",
+   "dateTabled": "2026-01-08T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1869382,
+   "uin": "104186",
+   "heading": "Supported Housing (Regulatory Oversight) Act 2023",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, when she expects to publish a response to the consultation seeking views on the implementation of measures in the Supported Housing (Regulatory Oversight) Act 2023, which closed ",
+   "dateTabled": "2026-01-08T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1865468,
+   "uin": "101042",
+   "heading": "Housing Benefit: Birmingham",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many supported exempt accommodation housing benefit claims in Birmingham during 2024-25 were referred to the Single Fraud Investigation Service; how many of these claims led to an investigation; how",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1865467,
+   "uin": "101041",
+   "heading": "Housing Benefit: Birmingham",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many fraud and error reviews under the Housing Benefit Award Accuracy Initiative were carried out during 2024-25 for supported exempt accommodation housing benefit claims in Birmingham; and what pro",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1961478,
+   "uin": "44405",
+   "heading": "Offences against Children",
+   "questionText": "To ask the Secretary of State for Justice, pursuant to the Answer of 17 November 2026 to Question 42699 on Offences against Children, if he will set a target date for publishing the terms of reference and timetable for the post-implementation review.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1961477,
+   "uin": "44404",
+   "heading": "Offences against Children: Prosecutions",
+   "questionText": "To ask the Attorney General, pursuant to the Answer of 17 November 2026 to Questions 42698 and 42699, whether she will ask the Crown Prosecution Service to examine cases involving children aged 13 to 15 in which a charge was not brought, was changed or wa",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Attorney General's Office"
+  },
+  {
+   "id": 1961476,
+   "uin": "44403",
+   "heading": "Offences against Children",
+   "questionText": "To ask the Secretary of State for Justice, pursuant to the Answer of 17 November 2026 to Question 42696 on Offences against Children, in which month he expects to lay the regulations bringing section 81 of the Crime and Policing Act 2026 into force.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1961475,
+   "uin": "44402",
+   "heading": "Offences against Children",
+   "questionText": "To ask the Secretary of State for Justice, pursuant to the Answer of 17 November 2026 to Question 42697, what specific operational steps remain before section 81 of the Crime and Policing Act 2026 can be brought into force; which body is responsible for e",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1960535,
+   "uin": "43665",
+   "heading": "Insolvency",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, pursuant to the Answer of 16 November 2026 to Question 41971, when the a) last review was undertaken, b) what findings and recommendations arose from the review, and c) what action",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1959380,
+   "uin": "42700",
+   "heading": "Offences against Children: Prosecutions",
+   "questionText": "To ask the Attorney General, when the Crown Prosecution Service plans to publish charging guidance on the new offence of rape of a child under 16, and what guidance it will give prosecutors on choosing between that offence and sexual activity with a child",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Attorney General's Office"
+  }
+ ],
+ "historyComplete": true
+}

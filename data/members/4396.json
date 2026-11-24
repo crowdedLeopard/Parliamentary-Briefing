@@ -1,0 +1,745 @@
+{
+ "id": 4396,
+ "fetchedOn": "2026-11-24",
+ "core": {
+  "id": 4396,
+  "nameListAs": "Long Bailey, Rebecca",
+  "nameDisplayAs": "Rebecca Long Bailey",
+  "nameFullTitle": "Rebecca Long Bailey MP",
+  "nameAddressAs": "Ms Long Bailey",
+  "latestParty": {
+   "id": 15,
+   "name": "Labour",
+   "abbreviation": "Lab",
+   "backgroundColour": "d50000",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": true,
+   "governmentType": 0,
+   "isIndependentParty": false
+  },
+  "gender": "F",
+  "latestHouseMembership": {
+   "membershipFrom": "Salford",
+   "membershipFromId": 4274,
+   "house": 1,
+   "membershipStartDate": "2015-05-07T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2024-07-04T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/4396/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2024-05-31T00:00:00",
+    "constituencyEnd": null,
+    "house": 1,
+    "name": "Salford",
+    "id": 4274,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "2010-04-13T00:00:00",
+    "constituencyEnd": "2024-05-30T00:00:00",
+    "house": 1,
+    "name": "Salford and Eccles",
+    "id": 3714,
+    "startDate": "2015-05-07T00:00:00",
+    "endDate": "2024-05-30T00:00:00",
+    "additionalInfo": "Elected 3 times",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [],
+  "houseMemberships": [
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "2015-05-07T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Rebecca Long Bailey",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [],
+  "oppositionPosts": [
+   {
+    "house": 1,
+    "name": "Shadow Secretary of State for Education",
+    "id": 864,
+    "startDate": "2020-04-06T00:00:00",
+    "endDate": "2020-06-25T00:00:00",
+    "additionalInfo": "Department for Education",
+    "additionalInfoLink": "http://www.education.gov.uk/"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Secretary of State for Business, Energy and Industrial Strategy",
+    "id": 1318,
+    "startDate": "2017-02-09T00:00:00",
+    "endDate": "2020-04-06T00:00:00",
+    "additionalInfo": "Department for Business, Energy and Industrial Strategy",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Chief Secretary to the Treasury",
+    "id": 13,
+    "startDate": "2016-06-27T00:00:00",
+    "endDate": "2017-02-09T00:00:00",
+    "additionalInfo": "HM Treasury",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/hm-treasury"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Minister (Treasury)",
+    "id": 972,
+    "startDate": "2015-09-18T00:00:00",
+    "endDate": "2016-06-27T00:00:00",
+    "additionalInfo": "HM Treasury",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/hm-treasury"
+   }
+  ],
+  "otherPosts": [
+   {
+    "house": 1,
+    "name": "Member, Labour Party National Executive Committee",
+    "id": 803,
+    "startDate": "2015-09-27T00:00:00",
+    "endDate": "2019-11-06T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Labour",
+    "id": 15,
+    "startDate": "2025-02-05T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Independent",
+    "id": 8,
+    "startDate": "2024-07-23T00:00:00",
+    "endDate": "2025-02-05T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Labour",
+    "id": 15,
+    "startDate": "2015-05-07T00:00:00",
+    "endDate": "2024-07-23T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 1,
+    "name": "Science and Technology Committee (Commons)",
+    "id": 135,
+    "startDate": "2021-02-22T00:00:00",
+    "endDate": "2024-05-30T00:01:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Leasehold Reform (Ground Rent) Bill [HL]",
+    "id": 559,
+    "startDate": "2021-12-01T00:00:00",
+    "endDate": "2021-12-09T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Product Security and Telecommunications Infrastructure Bill",
+    "id": 590,
+    "startDate": "2022-03-02T00:00:00",
+    "endDate": "2022-03-22T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Social Housing (Regulation) Bill [HL]",
+    "id": 628,
+    "startDate": "2022-11-23T00:00:00",
+    "endDate": "2022-11-29T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Data Protection and Digital Information (No. 2) Bill",
+    "id": 665,
+    "startDate": "2023-05-03T00:00:00",
+    "endDate": "2023-05-23T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Zoological Society of London (Leases) Bill",
+    "id": 707,
+    "startDate": "2024-02-21T00:00:00",
+    "endDate": "2024-02-28T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Petitions Committee",
+    "id": 326,
+    "startDate": "2026-11-16T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 3,
+   "name": "2. (b) Any other support not included in Category 2(a)",
+   "sortOrder": 0,
+   "interests": [
+    {
+     "id": 13929,
+     "interest": "Name of donor: Bakers, Food and Allied Workers Union\r\nAddress of donor: Stanborough House, Great North Road, Stanborough, Welwyn Garden City AL8 7TA\r\nAmount of donation or nature and value if donation in kind: Administration and coordination of the BFAWU Parliamentary Group, which I chair, provided by Solidarity Consulting Ltd, value £19,440\r\nDate received: 30 October 2025 to 29 October 2026\r\nDate accepted: 30 October 2025\r\nDonor status: trade union\r\n(Registered 19 November 2025)",
+     "createdWhen": "2025-12-02T09:18:14.72",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 13928,
+     "interest": "Name of donor: National Union of Journalists\r\nAddress of donor: 72 Acton Street, London WC1X 9NB\r\nAmount of donation or nature and value if donation in kind: The administration and coordination of the NUJ Parliamentary Group of which I am the Co-Chair, provided by Solidarity Consulting Ltd between 22 October 2025 to 21 October 2026, value £19,606\r\nDate received: 22 October 2025 to 21 October 2026\r\nDate accepted: 22 October 2025\r\nDonor status: trade union\r\n(Registered 19 November 2025)",
+     "createdWhen": "2025-12-02T09:18:14.72",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 14436,
+     "interest": "Name of donor: Key Cities (Network)\r\nAddress of donor: Salford City Council, Salford Civic Centre, Chorley Road, Swinton, Salford M27 5FJ\r\nAmount of donation or nature and value if donation in kind: Estimated amount for services in kind comprising the administration and coordination to re-establish the Key Cities APPG of which I was previously the Co-Chair, value £1,667\r\nDate received: 5 January 2026 to 10 February 2026\r\nDate accepted: 5 January 2026\r\nDonor status: other (special interest group - key cities network is a special interest group of  the Local Government Association (company number of the LGA 11177145) comprising 24 statutory local urban city authorities and administered by Salford City Council)\r\n(Registered 28 January 2026)",
+     "createdWhen": "2026-02-03T11:19:52.3066667",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [],
+ "synopsis": "Rebecca Long Bailey is the Labour MP for <a href='/constituency/4274/overview'>Salford</a>, and has been an MP continually since 7 May 2015.",
+ "history": [
+  {
+   "id": 1959494,
+   "uin": "42814",
+   "heading": "Members: Correspondence",
+   "questionText": "To ask the Secretary of State for Health and Social Care, when the Minister of State for Care plans to respond to the letter dated 3 July 2026 from the hon. Member for Salford regarding delays in paediatric post-mortem processes, communication with bereav",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1961401,
+   "uin": "44328",
+   "heading": "Meta: Social Media",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, whether he has considered asking the Competition and Markets Authority to conduct a Strategic Market Status investigation of the social media services provided by Meta, following t",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1959499,
+   "uin": "42819",
+   "heading": "Migrant Workers: Sports Competitors",
+   "questionText": "To ask the Secretary of State for the Home Department, with reference to the Answer of 22 July 2025 to Question 67713, what routes are available for dependent children to become eligible to enroll at an academy of a professional or semi-professional sport",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1959498,
+   "uin": "42818",
+   "heading": "Migrant Workers: Sports Competitors",
+   "questionText": "To ask the Secretary of State for the Home Department, with reference to the Answer of 22 July 2025 to Question 67713, concerning the restriction on work as a ‘professional sportsperson’ in certain routes’ visa conditions, including for dependent children",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1959497,
+   "uin": "42817",
+   "heading": "Migrant Workers: Sports Competitors",
+   "questionText": "To ask the Secretary of State for the Home Department, with reference to the Answer of 22 July 2025 to Question 67713, what progress has been made on the review of the definition and visa conditions restricting work as a ‘professional sportsperson’ in cer",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1951762,
+   "uin": "37026",
+   "heading": "Work Experience: Safety",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what discussions he has held with the Minister for Women and Equalities, on safeguarding measures in place for the protection of NEET young people engaged in government sponsored hospitality work placem",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1947753,
+   "uin": "33736",
+   "heading": "Railways: Freight",
+   "questionText": "To ask the Secretary of State for Transport, what the average age is of (a) diesel-electric and (b) electric locomotives that will deliver annual rail freight growth targets to 2029-30.",
+   "dateTabled": "2026-10-12T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1947754,
+   "uin": "33737",
+   "heading": "Railways: Freight",
+   "questionText": "To ask the Secretary of State for Transport, how many wagons are (a) owned and (b) leased by rail freight operating companies on the UK network.",
+   "dateTabled": "2026-10-12T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1947752,
+   "uin": "33735",
+   "heading": "Railways: Freight",
+   "questionText": "To ask the Secretary of State for Transport, what steps she is taking to protect rail freight (a) jobs and (b) assets in response to Deutsche Bahn’s decision to sell DB Cargo (UK).",
+   "dateTabled": "2026-10-12T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1945164,
+   "uin": "31239",
+   "heading": "Mental Illness: Drugs",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment his Department has made of the potential role of psychedelic-assisted therapies in the treatment of (a) treatment-resistant depression, (b) PTSD and (c) other mental health conditio",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1947751,
+   "uin": "33734",
+   "heading": "Railways: Freight",
+   "questionText": "To ask the Secretary of State for Transport, with reference to her Department’s response to the Transport Committee’s recommendations and to the public consultation, whether the National Policy Statement for Ports will be amended to reflect the revised ta",
+   "dateTabled": "2026-10-12T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1944348,
+   "uin": "30408",
+   "heading": "Roads: Repairs and Maintenance",
+   "questionText": "To ask the Secretary of State for Transport, whether the durability of road repairs will be taken into account when determining future highways maintenance funding allocations or Local Road Maintenance Ratings.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1947755,
+   "uin": "33738",
+   "heading": "Railways: Freight",
+   "questionText": "To ask the Secretary of State for Transport, what proportion of (a) locomotives and (b) wagons in the rail freight sector are owned by DB Cargo UK.",
+   "dateTabled": "2026-10-12T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1946736,
+   "uin": "32859",
+   "heading": "Roads: Repairs and Maintenance",
+   "questionText": "To ask the Secretary of State for Transport, whether her Department plans to require local highway authorities to publish standardised measures of the longevity of road repairs and rates of repeat defects at previously repaired locations.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1947139,
+   "uin": "33265",
+   "heading": "Roads: Repairs and Maintenance",
+   "questionText": "To ask the Secretary of State for Transport, whether her Department plans to include the durability of completed road repairs as a scored component of Local Road Maintenance Ratings.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1931478,
+   "uin": "21160",
+   "heading": "Private Education: Regulation",
+   "questionText": "To ask the Secretary of State for Education, what her planned timetable is for consultation on and implementation of the provisions of Clause 43 of the Children’s Wellbeing and Schools Act 2026.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1931482,
+   "uin": "21163",
+   "heading": "Revenue and Customs: Disciplinary Proceedings",
+   "questionText": "To ask the Chancellor of the Exchequer, whether HMRC has taken steps to ensure that managers who are the subject of a formal complaint of bullying, harassment or discrimination do not retain supervisory or safeguarding authority over the employee who made",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1931481,
+   "uin": "21162",
+   "heading": "Revenue and Customs: Disciplinary Proceedings",
+   "questionText": "To ask the Chancellor of the Exchequer, what independent safeguarding arrangements were established for employees of the former Valuation Office Agency following its merger into HMRC on 1 April 2026 for employees who report harassment, bullying, or discri",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1931483,
+   "uin": "21164",
+   "heading": "Revenue and Customs: Disciplinary Proceedings",
+   "questionText": "To ask the Chancellor of the Exchequer, whether steps have been taken to ensure that managers within the former Valuation Office Agency, following its merger into HMRC on 1 April 2026, who are the subject of a formal complaint of bullying, harassment or d",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1931485,
+   "uin": "21166",
+   "heading": "Revenue and Customs: Disciplinary Proceedings",
+   "questionText": "To ask the Chancellor of the Exchequer, what authority and responsibility did the HR function within HMRC hold for former Valuation Office Agency employees following the merger into HMRC on 1 April 2026, in relation to safeguarding arrangements where the ",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1931484,
+   "uin": "21165",
+   "heading": "Revenue and Customs: Disciplinary Proceedings",
+   "questionText": "To ask the Chancellor of the Exchequer, what authority and responsibility does the HR function within HMRC hold for determining and implementing safeguarding arrangements for employees who have raised a formal complaint of bullying, harassment or discrimi",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1931480,
+   "uin": "21161",
+   "heading": "Revenue and Customs: Disciplinary Proceedings",
+   "questionText": "To ask the Chancellor of the Exchequer, what independent safeguarding arrangements exist within HM Revenue and Customs for employees who report harassment, bullying, or discrimination during an active internal investigation into the reported conduct.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1928198,
+   "uin": "19050",
+   "heading": "Social Media",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what steps she is taking to promote healthier social media consumption for adult consumers.",
+   "dateTabled": "2026-07-15T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1928197,
+   "uin": "19049",
+   "heading": "Social Media",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what steps she is taking to promote greater user content viewing control on social media platforms for adult consumers.",
+   "dateTabled": "2026-07-15T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1928196,
+   "uin": "19048",
+   "heading": "Artificial Intelligence: Internet",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what assessment she has made of the potential merits of regulating the use of online retention algorithms directed at adult consumers.",
+   "dateTabled": "2026-07-15T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1928195,
+   "uin": "19047",
+   "heading": "Artificial Intelligence: Social Media",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what assessment she has made of the potential impact of the use of online retention algorithms on adult social media consumers, particularly those with accessibility needs.",
+   "dateTabled": "2026-07-15T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1931473,
+   "uin": "21159",
+   "heading": "Construction: Billing",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, when he plans to consult on the timetable for implementing the provisions of the Commercial Payments Bill relating to retention payments in construction contracts; and whether he p",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1924137,
+   "uin": "900820",
+   "heading": "Veterans: Medical Records",
+   "questionText": "To ask the Secretary of State for Defence, what progress he has made on reviewing the documentation held by his Department on the medical records of nuclear test veterans.",
+   "dateTabled": "2026-06-30T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1917198,
+   "uin": "10659",
+   "heading": "Department for Work and Pensions: Women against State Pension Inequality",
+   "questionText": "To ask the Secretary of State for Work and Pensions, on how many occasions Ministers or officials from his Department have met representatives of the WASPI Campaign since September 2024.",
+   "dateTabled": "2026-06-17T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1917199,
+   "uin": "10660",
+   "heading": "Department for Work and Pensions: Women against State Pension Inequality",
+   "questionText": "To ask the Secretary of State for Work and Pensions, whether the Department has considered participating in Alternative Dispute Resolution or mediation in relation to the ongoing legal proceedings brought by WASPI.",
+   "dateTabled": "2026-06-17T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1917200,
+   "uin": "10661",
+   "heading": "State Retirement Pensions: Women",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what assessment he has made of the comparative cost to the public purse of (a) compensating women affected by maladministration in State Pension Age communications and (b) losses to the Department arisi",
+   "dateTabled": "2026-06-17T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1917201,
+   "uin": "10662",
+   "heading": "State Retirement Pensions: Women",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what estimate he has made of the further legal costs that may be incurred by the Department in relation to ongoing litigation concerning compensation for women affected by maladministration in State Pen",
+   "dateTabled": "2026-06-17T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1915886,
+   "uin": "9616",
+   "heading": "Respiratory Diseases: Salford",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment his Department has made of (a) the prevalence of respiratory disease and (b) the number of emergency hospital admissions for respiratory conditions in Salford; and what steps he is ",
+   "dateTabled": "2026-06-15T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1907988,
+   "uin": "3303",
+   "heading": "McDonalds Restaurants: Work Experience",
+   "questionText": "To ask the Secretary of State for Work and Pensions, whether he has made an assessment of the adequacy of safeguarding measures for in-person work experience placements at i) outlets centrally owned by and ii) franchisee-owned stores operated by McDonald'",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1909135,
+   "uin": "4249",
+   "heading": "Energy Comapny Obligation: Supply Chains",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what oversight mechanisms are in place in relation to (a) payment delays, (b) retentions and (c) wider commercial practices by obligated suppliers within the ECO scheme supply chain.",
+   "dateTabled": "2026-05-29T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1909134,
+   "uin": "4248",
+   "heading": "Energy Comapny Obligation: Supply Chains",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what steps the Government is taking to ensure that (a) installers and (b) other businesses within the ECO supply chain are paid (i) appropriately and (ii) promptly for completed works.",
+   "dateTabled": "2026-05-29T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1903364,
+   "uin": "129851",
+   "heading": "Overseas Workers: Taxation",
+   "questionText": "To ask the Chancellor of the Exchequer, when HMRC last reviewed the overseas subsistence scale rates; what assessment she has made of the potential impact of those rates on employees working abroad, in the context of increases in the cost of food; and whe",
+   "dateTabled": "2026-04-27T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1893645,
+   "uin": "122696",
+   "heading": "Development Aid: Climate Change",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what proportion of the UK’s international climate finance is delivered as (a) grants and (b) loans; and what steps she is taking to ensure that financial support to countries",
+   "dateTabled": "2026-03-23T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1882336,
+   "uin": "113666",
+   "heading": "Warm Homes Plan",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what progress he has made on establishing the Warm Homes Plan workforce.",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1882333,
+   "uin": "113663",
+   "heading": "Energy Company Obligation: Small Businesses",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what estimate he has made of the number of SMEs and microbusinesses in the energy efficiency sector and wider supply chains that are dependent on ECO scheme funding.",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1882335,
+   "uin": "113665",
+   "heading": "Energy Company Obligation: Small Businesses",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what steps he is taking to provide support to energy efficiency (a) SMEs and (b) microbusinesses dependent on ECO scheme funding.",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1882337,
+   "uin": "113667",
+   "heading": "Warm Homes Agency",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what progress he has made on establishing the Warm Homes Agency.",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1882332,
+   "uin": "113662",
+   "heading": "Insulation: Housing",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what funding is currently available for energy efficiency retrofitting of insulation for low-income households; and what funding will be available through the (a) Warm Homes Plan and (b) othe",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1882334,
+   "uin": "113664",
+   "heading": "Energy Company Obligation",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what assessment he has made of the potential impact of ending the ECO scheme on energy efficiency sector workers and businesses.",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1880176,
+   "uin": "112186",
+   "heading": "McDonalds Restaurants",
+   "questionText": "To ask the Secretary of State for Business and Trade, what steps he has taken to encourage McDonald's Restaurants UK to take up the offer from the UK National Contact Point to provide mediation with complainants regarding the corporation's compliance with",
+   "dateTabled": "2026-02-10T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1877267,
+   "uin": "109812",
+   "heading": "Members: Correspondence",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, when he plans to respond to correspondence from the hon. Member for Salford of 11 September 2025 on the British Coal Staff Superannuation Scheme.",
+   "dateTabled": "2026-01-30T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1877128,
+   "uin": "109810",
+   "heading": "Broadcasting: Disclosure of Information",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what assessment she has made of trends in the use of extension of probationary periods in publicly owned broadcasters to detriment whistleblowing employees.",
+   "dateTabled": "2026-01-30T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1877127,
+   "uin": "109809",
+   "heading": "Broadcasting: Disclosure of Information",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what external oversight mechanisms are in place to ensure that publicly owned broadcasters investigate whistleblowing concerns independently of senior management.",
+   "dateTabled": "2026-01-30T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1877265,
+   "uin": "109811",
+   "heading": "Members: Correspondence",
+   "questionText": "To ask the Secretary of State for Justice, when he plans to respond to correspondence from the hon. Member for Salford of 30 October 2025 on deaths in custody and prison management at HMP Forest Bank, reference number MC128673.",
+   "dateTabled": "2026-01-30T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1875009,
+   "uin": "108244",
+   "heading": "Broadcasting: Disclosure of Information",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what assessment she has made of the effectiveness of whistleblowing protections for employees of publicly owned broadcasters under the Public Interest Disclosure Act 1998.",
+   "dateTabled": "2026-01-26T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1873982,
+   "uin": "107389",
+   "heading": "Food Poverty",
+   "questionText": "To ask the Secretary of State for Work and Pensions, if he will publish a list of organisations represented at his Department's conference on food poverty on 14 and 15 January 2026.",
+   "dateTabled": "2026-01-21T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1869824,
+   "uin": "104479",
+   "heading": "Horizon IT System: Compensation",
+   "questionText": "To ask the Secretary of State for Business and Trade, which Horizon Shortfall Scheme payments are 1) exempt from tax and 2) subject to tax, and whether these taxation rules apply to all historical payments already paid out.",
+   "dateTabled": "2026-01-09T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1859964,
+   "uin": "96757",
+   "heading": "Alaa Abd El-Fattah",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what recent progress her Department has made in ensuring British-Egyptian national Alaa Abd El-Fattah's safe travel to the UK.",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1858857,
+   "uin": "95653",
+   "heading": "Railways: Access",
+   "questionText": "To ask the Secretary of State for Transport, what guidance she has given to train companies contracted to her Department on the usage of Withdrawal of Implied Permission notices.",
+   "dateTabled": "2025-12-01T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1858858,
+   "uin": "95654",
+   "heading": "Railways: Access",
+   "questionText": "To ask the Secretary of State for Transport, which train companies contracted to her Department utilise Withdrawal of Implied Permission notices.",
+   "dateTabled": "2025-12-01T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1858859,
+   "uin": "95655",
+   "heading": "Railways: Access",
+   "questionText": "To ask the Secretary of State for Transport, whether the sanction of a Withdrawal of Implied Permission notice by one Train Operating Company is confined to the services of the train operating company applying that sanction.",
+   "dateTabled": "2025-12-01T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1858860,
+   "uin": "95656",
+   "heading": "Railways: Access",
+   "questionText": "To ask the Secretary of State for Transport, what steps she is taking to support the development of a railway-wide Withdrawal of Implied Permission notice.",
+   "dateTabled": "2025-12-01T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1858861,
+   "uin": "95657",
+   "heading": "Railways: Access",
+   "questionText": "To ask the Secretary of State for Transport, what data she holds on the use of Withdrawal of Implied Permission notices by train operating companies.",
+   "dateTabled": "2025-12-01T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1903523,
+   "uin": "130076",
+   "heading": "State Retirement Pensions: Women",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what consideration he has made of joining inclusive mediation with 1950s born women about the maladministration of state pension age changes.",
+   "dateTabled": "2026-04-28T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1903501,
+   "uin": "130069",
+   "heading": "McDonalds Restaurants: Work Experience",
+   "questionText": "To ask the Secretary of State for Work and Pensions, whether he has had discussions with McDonalds UK on the adequacy of safeguarding measures in relation to the \"in-person work experience placements\" at (i) outlets centrally owned by McDonald's UK and (i",
+   "dateTabled": "2026-04-28T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  }
+ ],
+ "historyComplete": true
+}

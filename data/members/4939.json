@@ -1,0 +1,496 @@
+{
+ "id": 4939,
+ "fetchedOn": "2026-11-24",
+ "core": {
+  "id": 4939,
+  "nameListAs": "Camrose, V.",
+  "nameDisplayAs": "Viscount Camrose",
+  "nameFullTitle": "The Viscount Camrose",
+  "nameAddressAs": null,
+  "latestParty": {
+   "id": 4,
+   "name": "Conservative",
+   "abbreviation": "Con",
+   "backgroundColour": "0063ba",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": false,
+   "governmentType": 3,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "Life peer",
+   "membershipFromId": 4,
+   "house": 2,
+   "membershipStartDate": "2026-06-12T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2026-06-12T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/4939/Thumbnail"
+ },
+ "bio": {
+  "representations": [],
+  "electionsContested": [],
+  "houseMemberships": [
+   {
+    "house": 2,
+    "name": "Lords",
+    "id": 2,
+    "startDate": "2026-06-12T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Viscount Camrose",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 2,
+    "name": "Lords",
+    "id": 2,
+    "startDate": "2022-04-06T00:00:00",
+    "endDate": "2026-04-29T00:00:00",
+    "additionalInfo": "Viscount Camrose",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [
+   {
+    "house": 2,
+    "name": "Parliamentary Under-Secretary of State (Department for Science, Innovation and Technology)",
+    "id": 1280,
+    "startDate": "2023-03-07T00:00:00",
+    "endDate": "2024-07-05T00:00:00",
+    "additionalInfo": "Department for Science, Innovation and Technology",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
+   }
+  ],
+  "oppositionPosts": [
+   {
+    "house": 2,
+    "name": "Shadow Minister (Cabinet Office) (AI and Cyber)",
+    "id": 1764,
+    "startDate": "2026-09-17T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Cabinet Office",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/cabinet-office"
+   },
+   {
+    "house": 2,
+    "name": "Shadow Minister (Science, Innovation and Technology)",
+    "id": 1675,
+    "startDate": "2026-06-15T00:00:00",
+    "endDate": "2026-07-22T00:00:00",
+    "additionalInfo": "Department for Science, Innovation and Technology",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
+   },
+   {
+    "house": 2,
+    "name": "Shadow Minister (Science, Innovation and Technology)",
+    "id": 1675,
+    "startDate": "2024-09-01T00:00:00",
+    "endDate": "2026-04-29T00:00:00",
+    "additionalInfo": "Department for Science, Innovation and Technology",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
+   }
+  ],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 2,
+    "name": "Conservative",
+    "id": 4,
+    "startDate": "2022-04-06T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 2,
+    "name": "AI in Weapon Systems Committee",
+    "id": 646,
+    "startDate": "2023-01-31T00:00:00",
+    "endDate": "2023-03-07T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 40195,
+     "interest": "Non-executive director, The 140 Investment Managers Limited (principal activity is to act as the authorised corporate director of Broadway Investment Company ICVC) (interest ceased 19 March 2026)",
+     "createdWhen": "2022-05-20T13:35:02",
+     "lastAmendedWhen": "2026-03-19T11:39:57.85",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 45420,
+     "interest": "Non-executive director, Lumi (educational and recruitment technology provider)",
+     "createdWhen": "2024-12-17T17:40:48",
+     "lastAmendedWhen": "2026-03-19T11:40:02.873",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 45984,
+     "interest": "Adviser on business development, Conquer Technologies Ltd (software engineering consultancy)",
+     "createdWhen": "2025-03-25T16:10:59",
+     "lastAmendedWhen": "2025-08-20T11:39:16.013",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 46397,
+     "interest": "Adviser on business development, Veles Consulting Ltd (management consultancy)",
+     "createdWhen": "2025-06-10T18:14:22",
+     "lastAmendedWhen": "2025-06-10T18:14:54.557",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 46805,
+     "interest": "Chairman, Aquapulse Ltd (subsea monitoring and data analytics)",
+     "createdWhen": "2025-08-20T11:21:45",
+     "lastAmendedWhen": "2025-08-20T11:22:10.047",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 46806,
+     "interest": "Adviser on on corporate affairs, compliance and business development, Vortexia Ltd (game developer for engagement of football and music fans)",
+     "createdWhen": "2025-08-20T11:24:50",
+     "lastAmendedWhen": "2025-08-20T11:26:05.817",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 47567,
+     "interest": "Non-executive director, Stamford Investment Trust Limited and The 140 Trustee Company Limited (family private office)",
+     "createdWhen": "2026-03-19T11:40:21",
+     "lastAmendedWhen": "2026-03-19T11:41:45.3",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1002,
+   "name": "Category 2: Shareholdings etc. (a)",
+   "sortOrder": 1042,
+   "interests": [
+    {
+     "id": 40259,
+     "interest": "Tickle Hudson Ltd (consultancy on environmental technology for domestic use)",
+     "createdWhen": "2022-06-07T14:04:59",
+     "lastAmendedWhen": "2025-04-05T00:00:00",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1003,
+   "name": "Category 2: Shareholdings etc. (b)",
+   "sortOrder": 1043,
+   "interests": [
+    {
+     "id": 40204,
+     "interest": "British American Tobacco",
+     "createdWhen": "2022-05-20T13:53:31",
+     "lastAmendedWhen": "2025-04-05T00:00:00",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1003,
+   "name": "Category 2: Shareholdings etc. (b)",
+   "sortOrder": 1043,
+   "interests": [
+    {
+     "id": 40205,
+     "interest": "The 140 Investment Managers Limited (principal activity is to act as the authorised corporate director of Broadway Investment Company ICVC)",
+     "createdWhen": "2022-05-20T13:54:01",
+     "lastAmendedWhen": "2025-04-05T00:00:00",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1003,
+   "name": "Category 2: Shareholdings etc. (b)",
+   "sortOrder": 1043,
+   "interests": [
+    {
+     "id": 40206,
+     "interest": "Addactive Ltd (online bookings for campsites in the UK)",
+     "createdWhen": "2022-05-20T13:54:37",
+     "lastAmendedWhen": "2025-04-05T00:00:00",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1003,
+   "name": "Category 2: Shareholdings etc. (b)",
+   "sortOrder": 1043,
+   "interests": [
+    {
+     "id": 47564,
+     "interest": "JC Carmel (family investment company)",
+     "createdWhen": "2026-03-19T10:25:21",
+     "lastAmendedWhen": "2026-03-19T10:25:33.717",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1003,
+   "name": "Category 2: Shareholdings etc. (b)",
+   "sortOrder": 1043,
+   "interests": [
+    {
+     "id": 47565,
+     "interest": "Stamford Investment Trust Limited",
+     "createdWhen": "2026-03-19T10:26:07",
+     "lastAmendedWhen": "2026-03-19T10:26:19.513",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [],
+ "synopsis": "Viscount Camrose's full title is The Viscount Camrose. His name is Jonathan William Berry, and he is a current member of the House of Lords.",
+ "history": [
+  {
+   "id": 1959197,
+   "uin": "HL5232",
+   "heading": "Artificial Intelligence: Security",
+   "questionText": "To ask His Majesty's Government whether any funding conditions or terms of reference which they plan to set for the AI Biosecurity Lab will permit the use of open-weight AI models published by developers based in China.",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1959193,
+   "uin": "HL5236",
+   "heading": "Artificial Intelligence: Procurement",
+   "questionText": "To ask His Majesty's Government which departments have engaged with the (1) Government Digital Service, (2) Government Cyber Unit, and (3) the National Cyber Security Centre, in relation to AI procurement.",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1950191,
+   "uin": "HL4211",
+   "heading": "Bioengineering: Finance",
+   "questionText": "To ask His Majesty's Government what plans they have to continue funding regulatory sandboxes for engineering biology beyond February 2027, including the Food Standards Agency's cell-cultivated products regulatory sandbox; and what assessment they have ma",
+   "dateTabled": "2026-10-19T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1929823,
+   "uin": "HL2650",
+   "heading": "South Western Railway: Nationalisation",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by Lord Hendy of Richmond Hill on 8 July (HL1838), what are the specific punctuality, cancellations, and passenger experience metrics which the Department for Transport is using to monitor the",
+   "dateTabled": "2026-07-23T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1960112,
+   "uin": "HL5355",
+   "heading": "Artificial Intelligence",
+   "questionText": "To ask His Majesty's Government how many full-time equivalent staff working on artificial intelligence policy transferred from the Department for Science, Innovation and Technology to (1) the Cabinet Office, (2) the Department for Business, Innovation, Sc",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1960113,
+   "uin": "HL5354",
+   "heading": "Artificial Intelligence",
+   "questionText": "To ask His Majesty's Government whether a budget has been allocated to the extension of the frontier AI hardening programme announced on 12 October.",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1960114,
+   "uin": "HL5353",
+   "heading": "Civil Servants: Artificial Intelligence",
+   "questionText": "To ask His Majesty's Government whether they have made an estimate of the time saved per civil servant per day arising from the use of generative-AI tools.",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1960115,
+   "uin": "HL5352",
+   "heading": "Government Departments: Artificial Intelligence",
+   "questionText": "To ask His Majesty's Government what estimate they have made of total expenditure by central government departments on artificial intelligence products and services in the financial year 2025–26.",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1960116,
+   "uin": "HL5351",
+   "heading": "Public Sector: Artificial Intelligence",
+   "questionText": "To ask His Majesty's Government who is responsible for making decisions about the use of specific vendors of AI technologies in public services.",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1959192,
+   "uin": "HL5237",
+   "heading": "Artificial Intelligence: Security",
+   "questionText": "To ask His Majesty's Government whether they have issued guidance to departments on the use of products and services developed using DeepSeek AI models.",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1959194,
+   "uin": "HL5235",
+   "heading": "Artificial Intelligence: Security",
+   "questionText": "To ask His Majesty's Government whether an assessment has been made of the security, technical and commercial implications of using Chinese open-weight models by government departments.",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1959195,
+   "uin": "HL5234",
+   "heading": "Artificial Intelligence: Procurement",
+   "questionText": "To ask His Majesty's Government what advice they have provided to departments regarding the procurement and use of Chinese open-weight AI models.",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1959196,
+   "uin": "HL5233",
+   "heading": "DeepSeek: Cybersecurity",
+   "questionText": "To ask His Majesty's Government whether officials from the government of the United States raised security concerns regarding DeepSeek with them prior to the publication of the US's notice of order 2026-21447 on 20 October.",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1958359,
+   "uin": "HL5144",
+   "heading": "Artificial Intelligence: Cybersecurity",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by the Minister of State (Department for Digital, Culture, Media and Sport) on 29 October (HC38207), what calculation was used to allocate the value of the tokens.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1958361,
+   "uin": "HL5143",
+   "heading": "Artificial Intelligence: Cybersecurity",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by the Minister of State (Department for Digital, Culture, Media and Sport) on 29 October (HC38207), what the breakdown of token use was for each frontier model used in that exercise.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1958370,
+   "uin": "HL5142",
+   "heading": "Artificial Intelligence: Disease Control",
+   "questionText": "To ask His Majesty's Government on what basis the commitments of model credits and other support made by OpenAI and Anthropic to the AI Biosecurity Lab were valued.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1958373,
+   "uin": "HL5141",
+   "heading": "Artificial Intelligence: Security",
+   "questionText": "To ask His Majesty's Government which department will be responsible for the National Agentic Security Unit.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1958374,
+   "uin": "HL5140",
+   "heading": "Cybersecurity: Artificial Intelligence",
+   "questionText": "To ask His Majesty's Government, with reference to the Department for Science, Innovation and Technology's press release When AI Leaves the Lab: Testing Frontier Models in Government Cyber Defence, published on 12 June, which nine Government organisations",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1958376,
+   "uin": "HL5139",
+   "heading": "Local Government: Artificial Intelligence",
+   "questionText": "To ask His Majesty's Government whether they have issued guidance to local authorities on the use of open-weight artificial intelligence models published by developers based in China.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  }
+ ],
+ "historyComplete": true
+}

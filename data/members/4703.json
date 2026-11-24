@@ -1,0 +1,405 @@
+{
+ "id": 4703,
+ "fetchedOn": "2026-11-24",
+ "core": {
+  "id": 4703,
+  "nameListAs": "Barran, B.",
+  "nameDisplayAs": "Baroness Barran",
+  "nameFullTitle": "The Baroness Barran MBE",
+  "nameAddressAs": null,
+  "latestParty": {
+   "id": 4,
+   "name": "Conservative",
+   "abbreviation": "Con",
+   "backgroundColour": "0063ba",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": false,
+   "governmentType": 3,
+   "isIndependentParty": false
+  },
+  "gender": "F",
+  "latestHouseMembership": {
+   "membershipFrom": "Life peer",
+   "membershipFromId": 4,
+   "house": 2,
+   "membershipStartDate": "2018-06-21T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2018-06-21T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/4703/Thumbnail"
+ },
+ "bio": {
+  "representations": [],
+  "electionsContested": [],
+  "houseMemberships": [
+   {
+    "house": 2,
+    "name": "Lords",
+    "id": 2,
+    "startDate": "2018-06-21T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Baroness Barran",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [
+   {
+    "house": 2,
+    "name": "Lords Spokesperson (Equalities)",
+    "id": 1294,
+    "startDate": "2023-12-01T00:00:00",
+    "endDate": "2024-07-05T00:00:00",
+    "additionalInfo": "Government Equalities Office",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/government-equalities-office"
+   },
+   {
+    "house": 2,
+    "name": "Parliamentary Under-Secretary (Department for Education)",
+    "id": 949,
+    "startDate": "2021-09-17T00:00:00",
+    "endDate": "2024-07-05T00:00:00",
+    "additionalInfo": "Department for Education",
+    "additionalInfoLink": "http://www.education.gov.uk/"
+   },
+   {
+    "house": 2,
+    "name": "Parliamentary Under-Secretary of State (Department for Digital, Culture, Media and Sport)",
+    "id": 1204,
+    "startDate": "2019-07-26T00:00:00",
+    "endDate": "2021-09-17T00:00:00",
+    "additionalInfo": "Department for Digital, Culture, Media and Sport",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-digital-culture-media-and-sport"
+   },
+   {
+    "house": 2,
+    "name": "Baroness in Waiting (HM Household) (Whip)",
+    "id": 23,
+    "startDate": "2018-11-22T00:00:00",
+    "endDate": "2019-07-26T00:00:00",
+    "additionalInfo": "HM Household",
+    "additionalInfoLink": null
+   }
+  ],
+  "oppositionPosts": [
+   {
+    "house": 2,
+    "name": "Shadow Minister (Education)",
+    "id": 960,
+    "startDate": "2024-09-01T00:00:00",
+    "endDate": "2026-04-29T00:00:00",
+    "additionalInfo": "Department for Education",
+    "additionalInfoLink": "http://www.education.gov.uk/"
+   },
+   {
+    "house": 2,
+    "name": "Shadow Minister (Women and Equalities)",
+    "id": 1699,
+    "startDate": "2024-09-01T00:00:00",
+    "endDate": "2024-11-10T00:00:00",
+    "additionalInfo": "Government Equalities Office",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/government-equalities-office"
+   }
+  ],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 2,
+    "name": "Conservative",
+    "id": 4,
+    "startDate": "2018-06-21T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 2,
+    "name": "Charities Bill [HL] Special Public Bill Committee",
+    "id": 533,
+    "startDate": "2021-07-22T00:00:00",
+    "endDate": "2021-09-17T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 2,
+    "name": "Domestic Abuse Act 2021 Committee",
+    "id": 831,
+    "startDate": "2026-01-27T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 2,
+    "name": "Built Environment Committee",
+    "id": 518,
+    "startDate": "2026-06-22T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 45944,
+     "interest": "Non-executive Adviser, Phoenix Court Group Limited (investment advisory firm)",
+     "createdWhen": "2025-03-14T13:17:19",
+     "lastAmendedWhen": "2026-10-30T13:24:18.517",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1007,
+   "name": "Category 4: Sponsorship",
+   "sortOrder": 1047,
+   "interests": [
+    {
+     "id": 48175,
+     "interest": "The member receives research support from a PhD student from King’s College London, as part of a training scheme for which the student receives a stipend",
+     "createdWhen": "2026-09-30T14:10:03",
+     "lastAmendedWhen": "2026-09-30T14:10:28.307",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [
+  {
+   "category": "Concerns: Policy Interests",
+   "focus": [
+    "Communities and families",
+    "Economy and finance",
+    "Education",
+    ""
+   ]
+  }
+ ],
+ "synopsis": "Baroness Barran's full title is The Baroness Barran MBE. Her name is Diana Francesca Caroline Barran, and she is a current member of the House of Lords.",
+ "history": [
+  {
+   "id": 1955003,
+   "uin": "HL4694",
+   "heading": "Education: Technology",
+   "questionText": "To ask His Majesty's Government whether the standards assessed by the proposed education technology certification scheme will include (1) children’s physical and mental health implications, (2) data privacy implications, and (3) superiority of learning ou",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1955004,
+   "uin": "HL4693",
+   "heading": "Education: Technology",
+   "questionText": "To ask His Majesty's Government whether participation in the proposed education technology (EdTech) certification scheme will be mandatory or voluntary for suppliers of EdTech products.",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1955005,
+   "uin": "HL4692",
+   "heading": "Education: Technology",
+   "questionText": "To ask His Majesty's Government when they plan to hold a consultation on their proposal for an education technology certification scheme; and when they anticipate that scheme becoming operational.",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1955006,
+   "uin": "HL4691",
+   "heading": "Primary Education: Assessments",
+   "questionText": "To ask His Majesty's Government what assessment they made of the accuracy of the digitised Reception Baseline Assessment as a measure of children's starting points.",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1955007,
+   "uin": "HL4690",
+   "heading": "Primary Education: Assessments",
+   "questionText": "To ask His Majesty's Government whether the Department for Education has consulted (1) paediatricians, (2) optometrists or ophthalmologists, or (3) speech and language therapists, on the touchscreen elements of the Reception Baseline Assessment; and what ",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1952943,
+   "uin": "HL4520",
+   "heading": "V-levels",
+   "questionText": "To ask His Majesty's Government, further to the remarks by Baroness Ramsey of Wall Heath on 21 October (HL Deb col 679), when they expect to launch and publish the public consultation on V Levels; and whether that consultation will set out how universitie",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1952946,
+   "uin": "HL4517",
+   "heading": "Swimming: Physical Education",
+   "questionText": "To ask His Majesty's Government what measures they will use to evaluate the PE and School Sport Partnerships Network’s effect on (1) access to curriculum swimming and top-up swimming lessons, and (2) swimming attainment; and when they expect to publish th",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1952947,
+   "uin": "HL4516",
+   "heading": "Physical Education and Sports",
+   "questionText": "To ask His Majesty's Government whether the national delivery partner for the PE and School Sport Partnerships Network has been appointed; if not, when they expect the appointment to be made; and what role the partner will have in coordinating swimming pr",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1952944,
+   "uin": "HL4519",
+   "heading": "V-levels",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the effect of university recognition of V Levels on access to higher education for students from disadvantaged backgrounds; and what measures they intend to use to monitor and report that e",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1952945,
+   "uin": "HL4518",
+   "heading": "V-levels",
+   "questionText": "To ask His Majesty's Government what discussions they have had with universities and higher education admissions organisations about the recognition of V Levels for university entry; and what guidance they will publish before the first V Level students ap",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1949348,
+   "uin": "HL4080",
+   "heading": "Pupils: Discipline",
+   "questionText": "To ask His Majesty's Government when they intend to publish the results of the 2026 national behaviour survey.",
+   "dateTabled": "2026-10-14T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1928489,
+   "uin": "HL2120",
+   "heading": "Schools: ICT",
+   "questionText": "To ask His Majesty's Government how many (1) primary schools, and (2) secondary schools, in England provide a one-to-one screen-based device to every pupil.",
+   "dateTabled": "2026-07-15T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1928487,
+   "uin": "HL2122",
+   "heading": "Education: Digital Technology",
+   "questionText": "To ask His Majesty's Government whether educational technology products adopted by schools are required to undergo a data protection impact assessment before deployment.",
+   "dateTabled": "2026-07-15T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1928488,
+   "uin": "HL2121",
+   "heading": "Education: ICT",
+   "questionText": "To ask His Majesty's Government, further to the report by the Information Commissioner's Office Edtech examined, published on 24 June, which highlighted a number of compliance gaps across the EdTech sector, what assessment they have made of the collection",
+   "dateTabled": "2026-07-15T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1928452,
+   "uin": "HL2124",
+   "heading": "Education: Digital Technology",
+   "questionText": "To ask His Majesty's Government what is the cost of (1) one-to-one screen-based devices, and (2) educational technology software and licences, provided for use in schools in England in each of the last three academic years.",
+   "dateTabled": "2026-07-15T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1928486,
+   "uin": "HL2123",
+   "heading": "Education: Digital Technology",
+   "questionText": "To ask His Majesty's Government what process they use to verify the safety, privacy, and educational value of educational technology products being used in schools in England.",
+   "dateTabled": "2026-07-15T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1929615,
+   "uin": "HL2473",
+   "heading": "Special Educational Needs",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the effects on SEND provision of transferring SEND responsibilities from central government to regional authorities.",
+   "dateTabled": "2026-07-22T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1929616,
+   "uin": "HL2472",
+   "heading": "Special Educational Needs: Finance",
+   "questionText": "To ask His Majesty's Government what safeguards they will retain to ensure national consistency in educational standards following the implementation of plans to reform funding for special educational needs and disabilities provision in mainstream and spe",
+   "dateTabled": "2026-07-22T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1929531,
+   "uin": "HL2386",
+   "heading": "Education: Local Government",
+   "questionText": "To ask His Majesty's Government what discussions they have had regarding the devolution of education and skills powers to mayoral combined authorities.",
+   "dateTabled": "2026-07-21T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1929533,
+   "uin": "HL2384",
+   "heading": "Private Education: Finance",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the financial sustainability of the private school sector.",
+   "dateTabled": "2026-07-21T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1929534,
+   "uin": "HL2383",
+   "heading": "Special Educational Needs: Finance",
+   "questionText": "To ask His Majesty's Government what plans they have to reform funding for special educational needs and disabilities provision in mainstream and specialist schools.",
+   "dateTabled": "2026-07-21T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1929532,
+   "uin": "HL2385",
+   "heading": "Nuclear Power",
+   "questionText": "To ask His Majesty's Government what assessment they have made of restoring the 24 Gigawatts target for nuclear energy.",
+   "dateTabled": "2026-07-21T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1867852,
+   "uin": "HL13213",
+   "heading": "Teachers: Pay",
+   "questionText": "To ask His Majesty's Government, further to the answer by Baroness Smith of Malvern on 16 December 2025 (HL Deb col 645), whether the 6.5 per cent pay increase over three years that they recommended to the School Teachers’ Review Body will be met through ",
+   "dateTabled": "2026-01-05T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1856531,
+   "uin": "HL12225",
+   "heading": "Secure Accommodation",
+   "questionText": "To ask His Majesty's Government, further to the remarks by Baroness Smith of Malvern on 17 June (HL Deb col 1963), and following the publication on 17 November of updated guidance for placing children in secure accommodation, whether they still intend to ",
+   "dateTabled": "2025-11-24T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1856533,
+   "uin": "HL12226",
+   "heading": "Children in Care",
+   "questionText": "To ask His Majesty's Government, further to the remarks by Baroness Smith of Malvern on 17 June (HL Deb col 1926), whether they have published the interim evaluation led by Ecorys UK of the Regional Care Co-operative pathfinders; and, if so, what the eval",
+   "dateTabled": "2025-11-24T00:00:00",
+   "answeringBodyName": "Department for Education"
+  }
+ ],
+ "historyComplete": true
+}
