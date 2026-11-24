@@ -2,10 +2,11 @@ name: Daily parliamentary briefing
 
 on:
   schedule:
-    # 06:00 UK time every day. GitHub cron is UTC, so fire at both 05:02 and 06:02 UTC;
-    # the script runs only on the one that falls at 06:xx London time (GMT or BST).
-    - cron: "2 5 * * *"
-    - cron: "2 6 * * *"
+    # 04:32 UK time every day, so the briefing is built and validated before the page refresh
+    # just before 06:00. GitHub cron is UTC, so fire at both 03:32 and 04:32 UTC; the script
+    # runs only on the one that falls at 04:xx London time (GMT or BST).
+    - cron: "32 3 * * *"
+    - cron: "32 4 * * *"
   workflow_dispatch:
     inputs:
       run_date:
