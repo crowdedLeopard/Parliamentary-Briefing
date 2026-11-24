@@ -81,18 +81,13 @@ Each variable takes a comma-separated list. If a model reports "not available", 
 
 `editorial/<date>.json` holds the writer's sections. Its validation log sits beside it as `<date>.validation.json`. If an editorial already exists for a date, for example one a person wrote, the writer is skipped and the validator checks that version instead. See `editorial/2026-11-23.json` for the format. That edition was written by hand in the session that built this repository, before the agents were enabled, so it has not yet been through the validator.
 
-## Website (public GitHub Pages, separate repo)
+## Website (public GitHub Pages)
 
-This repository stays private. After every run, the workflow pushes **only the finished website** (latest briefing, archive, validation status) to a separate **public** repository, which GitHub Pages serves for free. Code, saved data, editorial files and the run history never leave this repo. The site is public to anyone with the link; pages carry `noindex` and `robots.txt` blocks crawlers, so it should not show up in search results.
+The repository is public, and every run publishes the website (latest briefing at the top, then the archive with each edition's validation status) to GitHub Pages at **https://crowdedleopard.github.io/Parliamentary-Briefing/**. Pages carry `noindex` and `robots.txt` blocks crawlers, so it should not show up in search results, but anyone with the link can read it.
 
-One-off setup:
-1. Create a new **public**, empty repository: `crowdedLeopard/parliamentary-briefing-site` (no README).
-2. Create a fine-grained personal access token (github.com/settings/personal-access-tokens/new): repository access **Only select repositories → parliamentary-briefing-site**, permission **Contents: Read and write**.
-3. In this repo, add it as the secret `SITE_DEPLOY_TOKEN` (Settings → Secrets and variables → Actions).
-4. Run the workflow once (Actions → Daily parliamentary briefing → Run workflow, mode `render`) so the site repo gets its first files.
-5. In the site repo: Settings → Pages → Source **Deploy from a branch**, branch **main**, folder **/ (root)**.
+One-off setup: **Settings → Pages → Build and deployment → Source: GitHub Actions**, then run the workflow once (mode `render`). To stop publishing, set the variable `PAGES_DISABLED=true`.
 
-The address is then `https://crowdedleopard.github.io/parliamentary-briefing-site/`. To use another repo name, set the variable `SITE_REPO`. To serve Pages from this repo instead (needs a paid plan while it is private), set `PAGES_SAME_REPO=true`. For a site that needs a Microsoft sign-in, add the `AZURE_STATIC_WEB_APPS_API_TOKEN` secret.
+Alternatives: to keep this repo private and publish only the website, create a public repo and add a `SITE_DEPLOY_TOKEN` secret (fine-grained token, Contents read/write on that repo only); the run then pushes the built site there instead (repo name: variable `SITE_REPO`, default `crowdedLeopard/parliamentary-briefing-site`). For a site that needs a Microsoft sign-in, add the `AZURE_STATIC_WEB_APPS_API_TOKEN` secret.
 
 ## Getting it into OneDrive
 
