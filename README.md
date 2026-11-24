@@ -44,7 +44,7 @@ Each run:
 
    It works only from the evidence above.
 6. **Validator agent** (default `claude-opus-5-5`, a separate call to a separate model) checks every claim in the draft against the same evidence: names, parties, numbers, dates, quotes and links. It corrects or removes anything unsupported and returns a log of its changes. The report header shows the verdict, and the coverage note lists every correction.
-7. **Renders** `reports/<date>.html` (and `reports/latest.html`) and commits everything back to the repo. The report is also attached to each run as a downloadable artifact.
+7. **Renders** `reports/<date>.html` (and `reports/latest.html`). It also prints a reading-edition PDF, `reports/<date>.pdf` and `reports/latest.pdf`: the briefing plus compact member profiles, without the full question list. OneDrive previews PDFs but won't render HTML. Everything is then committed back to the repo. The report is also attached to each run as a downloadable artifact.
 
 **The validator is mandatory.** Rule checks (`pipeline/checks.py`) run every time. They confirm every link is an official Parliament page, every UIN quoted exists in the data, and every member's party matches the Members API. If the AI validator does not run (no `ANTHROPIC_API_KEY`, or three failed attempts), fails, or the rule checks find a problem, the run is marked failed so GitHub emails the repo owner, and the briefing and website are labelled **Not validated**. To change the models, set the repository variables `WRITER_MODEL`, `VALIDATOR_MODEL` and `CLASSIFIER_MODEL`.
 
@@ -81,6 +81,17 @@ After each run, the `site` job builds `_site/`: a front page with the latest bri
   1. Move the repo into the organisation.
   2. Go to **Settings > Pages**, set the source to *GitHub Actions* and the visibility to *Private*.
   3. Only then set the repository variable `PAGES_PRIVATE_CONFIRMED` to `true`. Until that variable is set, the workflow never publishes to Pages, so nothing can go out publicly by accident.
+
+## Getting it into OneDrive
+
+OneDrive and SharePoint download HTML files rather than display them, so the OneDrive copy is the PDF. Power Automate's standard GitHub connector has no action that downloads a file, so it can't do the copy. Two routes that do work:
+
+- **Scheduled `git pull` on a PC.** No scripts needed: create a sparse clone of `reports/` inside a OneDrive folder, then add a Windows Task Scheduler job at 06:45 running `git.exe` with the arguments `-C "<that folder>" pull --ff-only`. Share the folder with Hugh.
+  ```
+  git clone --filter=blob:none --sparse https://github.com/crowdedLeopard/Parliamentary-Briefing.git "%OneDriveCommercial%\Parliament briefing"
+  git -C "%OneDriveCommercial%\Parliament briefing" sparse-checkout set reports
+  ```
+- **Direct upload from the Action.** Needs an Entra app registration with OneDrive or SharePoint write permission, approved by IT. Ask and this step can be added.
 
 ## Copilot Cowork
 

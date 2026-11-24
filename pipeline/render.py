@@ -265,6 +265,7 @@ details summary{{cursor:pointer;color:var(--g);font-size:14px;margin-top:4px}}de
 .lab{{font-weight:700;font-size:14px;margin:10px 0 2px}}.pl{{margin:0;padding-left:18px;font-size:15px}}.small{{font-size:15px;margin:0}}
 .links{{display:flex;flex-wrap:wrap;gap:4px 12px;font-size:14px;margin:12px 0 0;padding-top:10px;border-top:1px solid var(--rule)}}
 .vb{{display:inline-block;margin:0 0 18px;padding:6px 12px;background:#fff;color:#0b6b4b;font-weight:700;border-radius:3px;font-size:15px}}.vb.warn{{color:#a2192f}}
+.printonly{{display:none}}
 .cov{{max-width:82ch}}.cov li{{margin:4px 0}}
 @media(max-width:860px){{.grid{{grid-template-columns:minmax(0,1fr)}}}}
 @media(max-width:600px){{table{{font-size:13px}}.stack thead{{display:none}}.stack tr{{display:grid;padding-block:10px;border-bottom:1px solid var(--rule)}}.stack td{{border:0;padding:3px 0}}.bar{{grid-template-columns:minmax(0,9em) minmax(0,1fr) 2em;font-size:14px}}.today li{{grid-template-columns:minmax(0,1fr);gap:2px}}}}
@@ -273,7 +274,7 @@ details summary{{cursor:pointer;color:var(--g);font-size:14px;margin-top:4px}}de
 <div><p class="kick">Parliamentary briefing · {e(period)}{f" · Parliament Today {e(nice(ed['today_date']))}" if ed.get("today_date") else ""}</p>
 <h1>{e(headline)}</h1><p class="dek">{e(summary)}</p>{vbadge}
 <div class="figs"><div><b>{feed["questionsScanned"]:,}</b><span>written questions screened</span></div>
-<div><b>{nq}</b><span>keyword matches</span></div><div><b>{len(profiles)}</b><span>members profiled</span></div>
+<div><b>{nq}</b><span>items screened in</span></div><div><b>{len(profiles)}</b><span>members profiled</span></div>
 <div><b>{ns}</b><span>relevant statements of {feed.get("statementsScanned", "?")}</span></div></div></div>
 <div class="pic"><h2>Where the matches fell</h2><p class="key">Written questions and statements by first topic<i style="background:var(--g)"></i>Commons<i style="background:var(--r)"></i>Lords</p>{chart(feed)}</div>
 </div></header>
@@ -282,7 +283,8 @@ details summary{{cursor:pointer;color:var(--g);font-size:14px;margin-top:4px}}de
 {section("today", f"Parliament Today{(' · ' + nice(ed['today_date'])) if ed.get('today_date') else ''}", today)}
 {section("debates", "Issues arising in debates", debates)}
 <section class="band" id="questions"><div class="wrap"><h2>Questions</h2>{qed}
-<h3 class="grp" style="margin-top:28px">All screened written questions, by topic</h3><p class="meta">Every keyword match, including some that review shows are only incidentally relevant. Open a row for the full text.</p>{question_rows(feed, pid)}</div></section>
+<div class="allq"><h3 class="grp" style="margin-top:28px">All screened written questions, by topic</h3><p class="meta">Every item the screening layers caught, including some that review shows are only incidentally relevant. Open a row for the full text.</p>{question_rows(feed, pid)}</div>
+<p class="printonly meta">The full list of all {nq} screened written questions, with question and answer text, is in the HTML edition of this briefing.</p></div></section>
 {section("committees", "Committees", committees)}
 <section class="band" id="other"><div class="wrap"><h2>Other sources</h2>{other}
 <h3 class="grp">Written ministerial statements</h3>{f"<ul>{stm}</ul>" if stm else f"<p>None of the {feed.get('statementsScanned', 0)} written statements made in the period touched these topics.</p>"}</div></section>
