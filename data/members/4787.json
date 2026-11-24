@@ -1,0 +1,2115 @@
+{
+ "id": 4787,
+ "fetchedOn": "2026-11-23",
+ "core": {
+  "id": 4787,
+  "nameListAs": "Wild, James",
+  "nameDisplayAs": "James Wild",
+  "nameFullTitle": "James Wild MP",
+  "nameAddressAs": null,
+  "latestParty": {
+   "id": 4,
+   "name": "Conservative",
+   "abbreviation": "Con",
+   "backgroundColour": "0063ba",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": false,
+   "governmentType": 3,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "North West Norfolk",
+   "membershipFromId": 4220,
+   "house": 1,
+   "membershipStartDate": "2019-12-12T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2024-07-04T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/4787/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2024-05-31T00:00:00",
+    "constituencyEnd": null,
+    "house": 1,
+    "name": "North West Norfolk",
+    "id": 4220,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "2010-04-13T00:00:00",
+    "constituencyEnd": "2024-05-30T00:00:00",
+    "house": 1,
+    "name": "North West Norfolk",
+    "id": 3658,
+    "startDate": "2019-12-12T00:00:00",
+    "endDate": "2024-05-30T00:00:00",
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [
+   {
+    "house": 1,
+    "name": "North Norfolk",
+    "id": 3647,
+    "startDate": "2017-06-08T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "houseMemberships": [
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "2019-12-12T00:00:00",
+    "endDate": null,
+    "additionalInfo": "James Wild",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [],
+  "oppositionPosts": [
+   {
+    "house": 1,
+    "name": "Shadow Minister (Digital, Culture, Media and Sport)",
+    "id": 1753,
+    "startDate": "2026-08-31T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Department for Digital, Culture, Media and Sport",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-digital-culture-media-and-sport"
+   },
+   {
+    "house": 1,
+    "name": "Opposition Whip (Commons)",
+    "id": 10,
+    "startDate": "2024-11-20T00:00:00",
+    "endDate": "2026-08-31T00:00:00",
+    "additionalInfo": "Whips Office (Commons)",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Shadow Exchequer Secretary (Treasury)",
+    "id": 1547,
+    "startDate": "2024-11-06T00:00:00",
+    "endDate": "2026-08-31T00:00:00",
+    "additionalInfo": "HM Treasury",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/hm-treasury"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Parliamentary Under Secretary (Education)",
+    "id": 1685,
+    "startDate": "2024-07-19T00:00:00",
+    "endDate": "2024-11-06T00:00:00",
+    "additionalInfo": "Department for Education",
+    "additionalInfoLink": "http://www.education.gov.uk/"
+   }
+  ],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Conservative",
+    "id": 4,
+    "startDate": "2019-12-12T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 1,
+    "name": "Public Accounts Committee",
+    "id": 127,
+    "startDate": "2020-03-02T00:00:00",
+    "endDate": "2022-11-29T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Charities Bill [HL] Second Reading Committee",
+    "id": 574,
+    "startDate": "2022-01-12T00:00:00",
+    "endDate": "2022-01-18T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Charities Bill [HL]",
+    "id": 576,
+    "startDate": "2022-01-19T00:00:00",
+    "endDate": "2022-01-25T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Child Support Collection (Domestic Abuse) Bill",
+    "id": 633,
+    "startDate": "2022-12-13T00:00:00",
+    "endDate": "2022-12-14T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Pensions (Extension of Automatic Enrolment) (No. 2) Bill",
+    "id": 660,
+    "startDate": "2023-03-08T00:00:00",
+    "endDate": "2023-03-15T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Pensions (Special Rules for End of Life) Bill",
+    "id": 718,
+    "startDate": "2024-04-17T00:00:00",
+    "endDate": "2024-04-24T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Finance (No.2) Bill",
+    "id": 733,
+    "startDate": "2024-05-15T00:00:00",
+    "endDate": "2024-05-21T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Employment Rights Bill",
+    "id": 747,
+    "startDate": "2024-11-13T00:00:00",
+    "endDate": "2024-11-19T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Finance Bill",
+    "id": 765,
+    "startDate": "2025-01-22T00:00:00",
+    "endDate": "2025-01-30T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Crown Estate Bill [HL]",
+    "id": 767,
+    "startDate": "2025-01-29T00:00:00",
+    "endDate": "2025-02-06T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Finance (No. 2) Bill",
+    "id": 827,
+    "startDate": "2026-01-15T00:00:00",
+    "endDate": "2026-02-03T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 4,
+   "name": "3. Gifts, benefits and hospitality from UK sources",
+   "sortOrder": 0,
+   "interests": [
+    {
+     "id": 16140,
+     "interest": "Name of donor: Silverstone Circuits Ltd\r\nAddress of donor: The Jimmy Brown Centre, Silverstone Circuit, Towcester NN12 8TN\r\nAmount of donation or nature and value if donation in kind: Two tickets with hospitality for myself and a family member to attend Friday session of the British Grand Prix, value £1,100\r\nDate received: 3 July 2026\r\nDate accepted: 3 July 2026\r\nDonor status: company, registration 00882843\r\n(Registered 6 July 2026)",
+     "createdWhen": "2026-07-14T09:29:28.21",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 16141,
+     "interest": "Name of donor: Ascot Racecourse Limited\r\nAddress of donor: Ascot Racecourse, Ascot, Berkshire SL5 7JX\r\nAmount of donation or nature and value if donation in kind: Two tickets and hospitality to attend Ascot Races, value £590\r\nDate received: 18 June 2026\r\nDate accepted: 18 June 2026\r\nDonor status: company, registration 04320977\r\n(Registered 6 July 2026)",
+     "createdWhen": "2026-07-14T09:29:28.21",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "name": "4. Visits outside the UK",
+   "sortOrder": 1,
+   "interests": [
+    {
+     "id": 14368,
+     "interest": "Name of donor: (1) Horatius Advisory Ltd.  (2) Deltroit Asset Management (UK) LLP\r\nAddress of donor: (1) 53 Davies Street, London W1K 5JH  (2) 50 Pall Mall, London SW1Y 5JH\r\nEstimate of the probable value (or amount of any donation): (1) £1,375 contribution to travel, accommodation and associated costs of The Lords & Commons Cricket team  (2) £1,375 contribution to travel, accommodation and associated costs of The Lords & Commons Cricket team visit to Australia.\r\nDestination of visit: Australia (Melbourne and Sydney)\r\nDates of visit: 26 December 2025 to 6 January 2026\r\nPurpose of visit: Building inter-Parliamentary relations with Australian MPs and Senators, competing for the Parliamentary Ashes and supporting English cricket.\r\n(Registered 21 January 2026)",
+     "createdWhen": "2026-02-03T11:19:40.87",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "name": "8. Miscellaneous",
+   "sortOrder": 2,
+   "interests": [
+    {
+     "id": 1255,
+     "interest": "Member of the King’s Lynn Town Deal Board. This is an unpaid role.\r\nDate interest arose: 29 January 2020\r\n(Registered 30 January 2020)",
+     "createdWhen": "2024-04-18T15:14:10.5733333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 1256,
+     "interest": "Governor, King Edward VII Academy. This is an unpaid position on the Academy Committee.\r\nDate interest arose: 3 November 2021\r\n(Registered 8 November 2021)",
+     "createdWhen": "2024-04-18T15:14:10.5733333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [],
+ "synopsis": "James Wild is the Conservative MP for <a href='/constituency/4220/overview'>North West Norfolk</a>, and has been an MP continually since 12 December 2019. \r\nHe currently undertakes the role of Shadow Minister (Digital, Culture, Media and Sport).",
+ "history": [
+  {
+   "id": 1960637,
+   "uin": "43767",
+   "heading": "Telecommunications",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, if she will make an assessment of the potential merits of establishing a supplier of last resort mechanism for the telecoms sector.",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1960436,
+   "uin": "43566",
+   "heading": "Driving Licences: Health",
+   "questionText": "To ask the Secretary of State for Transport, what steps DVLA is taking to increase awareness of the ability of people under Section 88 of the Road Traffic Act to continue driving while a medical application is being processed.",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1960435,
+   "uin": "43565",
+   "heading": "Driving Licences: Standards",
+   "questionText": "To ask the Secretary of State for Transport, what steps she is taking to reduce the average and maximum waiting times by DVLA for processing licence applications and renewals for medical related cases.",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1956182,
+   "uin": "40507",
+   "heading": "Fen Line: Standards",
+   "questionText": "To ask the Secretary of State for Transport, what discussions she has had with Network Rail on the frequency of weekend closures of the Fen line to King's Lynn.",
+   "dateTabled": "2026-11-03T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1959453,
+   "uin": "42773",
+   "heading": "Universal Destinations and Experiences: Subsidies",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, with reference to the Motion to pay financial assistance under section 8 of the Industrial Development Act 1982 to UDX Development Company Ltd, whether that funding (i) has been ac",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1958255,
+   "uin": "41817",
+   "heading": "Electric Scooters",
+   "questionText": "To ask the Secretary of State for Transport, what estimate he has made of the number of privately owned e-scooters that are used on public roads each week.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1958251,
+   "uin": "41813",
+   "heading": "Energy Supply: Location",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, if she will consider the potential merits of ensuring that where multiple energy generation projects are based in a concentrated geographic area a single community benefit fund can be establi",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1958254,
+   "uin": "41816",
+   "heading": "Driving Licences: Health",
+   "questionText": "To ask the Secretary of State for Transport, what (I) the average and (II) maximum waiting times for processing driving licence applications and renewals for medical related cases were in (a) North West Norfolk and (b) in England in each of the last three",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1956186,
+   "uin": "40511",
+   "heading": "A11 and A47: Repairs and Maintenance",
+   "questionText": "To ask the Secretary of State for Transport, what discussions her Department has had with National Highways on the potential impact of increasing the working hours and days on (i) A47 and (ii) A11 upgrades on the completion time of the improvements.",
+   "dateTabled": "2026-11-03T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1955488,
+   "uin": "39917",
+   "heading": "Maternity Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what her policy is on the viability of maternity units delivering fewer than 2,000 births a year.",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1955448,
+   "uin": "39877",
+   "heading": "nexfibre: Substantial Topco",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what discussions her Department has had with No. 10 officials and special advisers concerning the nexfibre substantial merger inquiry.",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1956184,
+   "uin": "40509",
+   "heading": "Railway Stations: King's Lynn",
+   "questionText": "To ask the Secretary of State for Transport, what estimate her Department has made of the number of daily passengers using King's Lynn station and what assessment she has made of the adequacy of toilet provision.",
+   "dateTabled": "2026-11-03T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1955447,
+   "uin": "39876",
+   "heading": "Regeneration: Finance",
+   "questionText": "To ask the Chancellor of the Exchequer, what criteria were used to assess and score bids under the Growth Mission Fund.",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1955483,
+   "uin": "39912",
+   "heading": "Midwives and Nurses: Employment",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what estimate she has made of the number of roles created under the graduate guarantee for newly qualified (i) midwives and (ii) nurses since its launch.",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1955476,
+   "uin": "39905",
+   "heading": "Midwives: Unemployment",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many newly qualified midwives who joined the Nursing and Midwifery Council register last year have not yet been employed as midwives.",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1955407,
+   "uin": "39836",
+   "heading": "Supermarkets: Cybersecurity",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps her Department is taking to work with the supermarket sector to improve cyber resilience.",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1948284,
+   "uin": "34179",
+   "heading": "Arms Length Bodies",
+   "questionText": "To ask the Minister for the Cabinet Office, when she expects the review of Arms Length Bodies launched in April 2025 to report; whether any bodies have been abolished or merged; and what savings have been made to date.",
+   "dateTabled": "2026-10-13T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1949288,
+   "uin": "35075",
+   "heading": "Dentistry: Retirement",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what estimate she has made of a) the number and b) the proportion of dental clinical academics expected to retire over the next 10 years.",
+   "dateTabled": "2026-10-14T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1949287,
+   "uin": "35074",
+   "heading": "Dental Services: Training",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment she has made of whether sufficient teaching capacity exists to support the planned expansion of dental training places from 2027.",
+   "dateTabled": "2026-10-14T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1944347,
+   "uin": "30483",
+   "heading": "Mobile Broadband",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, whether she has made an assessment of the effectiveness of mobile network performance and coverage projections supplied by mobile network operators used in national reporting and Ofcom c",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1951799,
+   "uin": "37063",
+   "heading": "Heart Diseases: Surgery",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment has been made of the gap between NHS England’s 2018 commissioning target of 1,000 LAAO procedures per annum and current delivery.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1948365,
+   "uin": "34260",
+   "heading": "BT Group: TalkTalk Group",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, further to the Public Interest Intervention Notice issued on 5 October 2026, whether she has had discussions with the Competition and Markets Authority on potential structural remedies, ",
+   "dateTabled": "2026-10-13T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1948281,
+   "uin": "34176",
+   "heading": "BT Group: TalkTalk Group",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, with reference to the Public Interest Intervention Notice she issued on 5 October 2026, what alternative options to ensure continuity of service for customers were considered.",
+   "dateTabled": "2026-10-13T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1948279,
+   "uin": "34174",
+   "heading": "BT Group: TalkTalk Group",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, with reference to the Public Interest Intervention Notice she issued on 5 October, if she will make an assessment of whether the time for the Competition and Markets Authority to investi",
+   "dateTabled": "2026-10-13T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1945017,
+   "uin": "31305",
+   "heading": "Hospitals: Inspections",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many and what proportion of inspections of NHS hospitals by the Care Quality Commission were (a) announced and (b) unannounced in each of the last three years.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1947907,
+   "uin": "33890",
+   "heading": "Railways: Standards",
+   "questionText": "To ask the Secretary of State for Transport, with reference to the Prime Minister's Oral Statement of 1 September 2026 on Direction of Government, Official Report, column 68, what progress her Department has made on convening a rail summit.",
+   "dateTabled": "2026-10-12T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1948286,
+   "uin": "34181",
+   "heading": "Department for Digital, Culture, Media and Sport: Temporary Employment",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, how much her department spent on contingent or contracted labour in each year since 2024.",
+   "dateTabled": "2026-10-13T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1948675,
+   "uin": "34570",
+   "heading": "Logistics: Business Rates",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment his Department has made of the potential impact of changes to the business rates multiplier on warehouses and logistics infrastructure on inflation since April 2026.",
+   "dateTabled": "2026-10-13T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1948709,
+   "uin": "34604",
+   "heading": "War Pensions",
+   "questionText": "To ask the Secretary of State for Defence, what steps the Department is taking to ensure War Pension Scheme claims are processed in a timely manner.",
+   "dateTabled": "2026-10-13T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1948708,
+   "uin": "34603",
+   "heading": "War Pensions",
+   "questionText": "To ask the Secretary of State for Defence, what factors affect the time taken to process War Pension Scheme claims.",
+   "dateTabled": "2026-10-13T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1948707,
+   "uin": "34602",
+   "heading": "War Pensions",
+   "questionText": "To ask the Secretary of State for Defence, what proportion of War Pension Scheme claims are processed within six months.",
+   "dateTabled": "2026-10-13T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1948706,
+   "uin": "34601",
+   "heading": "War Pensions",
+   "questionText": "To ask the Secretary of State for Defence, how many War Pension Scheme claims are being considered.",
+   "dateTabled": "2026-10-13T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1948705,
+   "uin": "34600",
+   "heading": "War Pensions",
+   "questionText": "To ask the Secretary of State for Defence, how many applications for War Pension Scheme claims are from people who are (i) terminally ill or (ii) over 90 years old.",
+   "dateTabled": "2026-10-13T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1948704,
+   "uin": "34599",
+   "heading": "War Pensions",
+   "questionText": "To ask the Secretary of State for Defence, what the (i) shortest (i) average and (ii) maximum processing time is for War Pension Scheme claims.",
+   "dateTabled": "2026-10-13T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1944204,
+   "uin": "30482",
+   "heading": "Dentistry: Training",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what percentage increase in dental training places is planned for each year of this Parliament.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1942285,
+   "uin": "29532",
+   "heading": "Aerials: Shared Rural Network",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, where the 40 government-funded mast upgrades to be delivered as part of the Shared Rural Network before January 2027 are located.",
+   "dateTabled": "2026-09-14T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1942283,
+   "uin": "29530",
+   "heading": "Online Safety Act 2023",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what assessment she has made of the effectiveness of the Online Safety Act 2023 in protecting children and adults online.",
+   "dateTabled": "2026-09-14T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1942583,
+   "uin": "29535",
+   "heading": "Boiler Upgrade Scheme",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what recent assessment she has made of the effectiveness of the Boiler Upgrade Scheme; and what the (i) target (ii) average and (iii) longest time taken to approve voucher applications under ",
+   "dateTabled": "2026-09-14T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1948674,
+   "uin": "34569",
+   "heading": "Fuels: Excise Duties",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment his Department has made of the potential impact of changes in the levels of fuel duty on (a) logistics business costs and (b) inflation in 2027.",
+   "dateTabled": "2026-10-13T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1942286,
+   "uin": "29533",
+   "heading": "Mobile Broadband: Rural Areas",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what assessment she has made of the potential effectiveness of the commercial rollout in filling remaining coverage gaps once the Shared Rural Network programme ends in January 2027.",
+   "dateTabled": "2026-09-14T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1942377,
+   "uin": "29534",
+   "heading": "Project Gigabit: Contracts",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, if she will list for each regional Project Gigabit contract agreed the (i) value (ii) date signed (iii) the number of premises to be connected and deadline for completion of rollout and ",
+   "dateTabled": "2026-09-14T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1942284,
+   "uin": "29531",
+   "heading": "Broadband",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what the latest estimated percentage is of premises with access to gigabit-capable broadband, and how this compares with the Government’s 99% by 2032 target under Project Gigabit.",
+   "dateTabled": "2026-09-14T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1942280,
+   "uin": "29527",
+   "heading": "Television: Digital Broadcasting",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what public information activity is expected ahead of a Digital Terrestrial Television switch-off decision.",
+   "dateTabled": "2026-09-14T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1942279,
+   "uin": "29526",
+   "heading": "Television: Digital Broadcasting",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what assessment has been made of the potential impact of a 2034 Digital Terrestrial Television switch-off on older and disabled viewers and people living in rural areas.",
+   "dateTabled": "2026-09-14T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1942278,
+   "uin": "29525",
+   "heading": "Television: Digital Broadcasting",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what conditions must be met before a Digital Terrestrial Television switch-off in 2034 can proceed.",
+   "dateTabled": "2026-09-14T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1942277,
+   "uin": "29524",
+   "heading": "Social Media: Disinformation",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, whether she has received representations from international counterparts on the Media Green Paper’s proposal to require social media platforms to make news content from public service me",
+   "dateTabled": "2026-09-14T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1942276,
+   "uin": "29523",
+   "heading": "Media: Disinformation",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what assessment she has made of the potential impact of state involvement in determining which news providers are “trustworthy” on editorial independence and press freedom.",
+   "dateTabled": "2026-09-14T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1942275,
+   "uin": "29522",
+   "heading": "Social Media: Disinformation",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what criteria the Government is using to define a “trustworthy news provider” in the Media Green Paper’s proposals on news prominence on social media platforms.",
+   "dateTabled": "2026-09-14T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1942282,
+   "uin": "29529",
+   "heading": "Media Act 2024",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what assessment she has made of the effectiveness of the implementation of the Media Act 2024.",
+   "dateTabled": "2026-09-14T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1942274,
+   "uin": "29521",
+   "heading": "Swimming Pools",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, when her Department plans to set out further details on funding for lidos.",
+   "dateTabled": "2026-09-14T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1943510,
+   "uin": "30122",
+   "heading": "Members: Correspondence",
+   "questionText": "To ask the Secretary of State for Transport, when she plans to respond to the correspondence from the hon. Member for North West Norfolk sent on the 1 September 2026 under case ref JW46075.",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1943509,
+   "uin": "30121",
+   "heading": "Revenue and Customs: Correspondence",
+   "questionText": "To ask the Chancellor of the Exchequer, when the Chief Executive of HMRC plans to respond to the urgent correspondence from the hon. member for North West Norfolk sent on the 8 September 2026 under case ref JW45776.",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1942281,
+   "uin": "29528",
+   "heading": "BBC: Royal Charters",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, when the Government plans to publish a White Paper setting out policy decisions for the next BBC Royal Charter.",
+   "dateTabled": "2026-09-14T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1932404,
+   "uin": "21907",
+   "heading": "Brain: Tumours",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps her Department is taking to ensure that funding decisions for brain tumour research reflect the prevalence and clinical impact of low-grade glioma.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1932402,
+   "uin": "21905",
+   "heading": "Brain: Tumours",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether her Department plans to increase investment in research relating to low-grade glioma over the next spending period.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1932401,
+   "uin": "21904",
+   "heading": "Brain: Tumours",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what funding her Department has allocated to research into low-grade glioma in each of the last five years.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1938506,
+   "uin": "27561",
+   "heading": "Economic Growth",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment he has made of the levels of GDP growth per capita in each postcode in the United Kingdom since July 2024.",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1938507,
+   "uin": "27562",
+   "heading": "Sodium Valproate and Surgical Mesh Implants",
+   "questionText": "To ask the Secretary of State for Health and Social Care, when she plans to respond to the Hughes Report on valporate and pelvic mesh.",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1932405,
+   "uin": "21908",
+   "heading": "Brain: Tumours",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment she has made of the availability of specialist treatment services for patients diagnosed with low-grade glioma across England.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1932403,
+   "uin": "21906",
+   "heading": "Brain: Tumours",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what estimate she has made of the annual NHS expenditure on the treatment and management of low-grade glioma patients in England.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1920329,
+   "uin": "13225",
+   "heading": "Housing Ombudsman: Standards",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what the caseworker-to-complaint ratio is within the Housing Ombudsman service.",
+   "dateTabled": "2026-06-25T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1920328,
+   "uin": "13224",
+   "heading": "Housing Ombudsman: Standards",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what the longest recorded time is for a complaint currently being handled by the Housing Ombudsman.",
+   "dateTabled": "2026-06-25T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1920327,
+   "uin": "13223",
+   "heading": "Housing Ombudsman: Standards",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what proportion of complaints to the Housing Ombudsman were resolved within target timeframes in each of the last five years.",
+   "dateTabled": "2026-06-25T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1920326,
+   "uin": "13222",
+   "heading": "Housing Ombudsman: Standards",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what the current backlog of unresolved cases at the Housing Ombudsman is, and how that figure compares to each year since 2020.",
+   "dateTabled": "2026-06-25T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1920324,
+   "uin": "13221",
+   "heading": "Housing Ombudsman: Standards",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what the average waiting time was for cases handled by the Housing Ombudsman in each of the last five years.",
+   "dateTabled": "2026-06-25T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1926897,
+   "uin": "18151",
+   "heading": "Agriculture: Reservoirs",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she has made of the potential impact of extending permitted development rights for agricultural reservoirs.",
+   "dateTabled": "2026-07-13T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1925393,
+   "uin": "17021",
+   "heading": "Electronic Cigarettes: Excise Duties",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of HM Revenue and Custom’s readiness to implement the vaping products duty stamp scheme on schedule.",
+   "dateTabled": "2026-07-08T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1927111,
+   "uin": "18154",
+   "heading": "Department of Health and Social Care: Public Expenditure",
+   "questionText": "To ask the Secretary of State for Health and Social Care, pursuant to the Answer of 13 July 2026 to Question 15445 on Department of Health and Social Care: Public Expenditure, if she will set out which capital programmes have been identified as having fle",
+   "dateTabled": "2026-07-13T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1925561,
+   "uin": "17030",
+   "heading": "CJD: Research",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps his Department is taking to support research to identify a cure for Creutzfeldt-Jakob disease.",
+   "dateTabled": "2026-07-08T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1926901,
+   "uin": "18153",
+   "heading": "Agriculture: Water Abstraction",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps his Department is taking to support the establishment of additional Agricultural Water Abstractor groups.",
+   "dateTabled": "2026-07-13T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1926899,
+   "uin": "18152",
+   "heading": "Water Abstraction: Licensing",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what plans she has to expand the use of dynamic abstraction licensing to support water resource management across catchments.",
+   "dateTabled": "2026-07-13T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1926895,
+   "uin": "18150",
+   "heading": "Agriculture: Water",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what plans her Department has for future rounds of the Water Management Grant.",
+   "dateTabled": "2026-07-13T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1926893,
+   "uin": "18149",
+   "heading": "Farms: Water Abstraction",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she has made of the adequacy of the duration of abstraction licences for farms.",
+   "dateTabled": "2026-07-13T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1926891,
+   "uin": "18148",
+   "heading": "Farms: Water",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps her Department is taking to support increased on-farm water storage capacity to capture high winter flows for use during periods of lower water availability.",
+   "dateTabled": "2026-07-13T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1925395,
+   "uin": "17022",
+   "heading": "Electronic Cigarettes: Excise Duties",
+   "questionText": "To ask the Chancellor of the Exchequer, what contingency measures HM Revenue and Customs has developed in the event that the digital duty stamp system for vaping products is not fully operational by 1 October 2026.",
+   "dateTabled": "2026-07-08T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1925397,
+   "uin": "17023",
+   "heading": "Electronic Cigarettes: Excise Duties",
+   "questionText": "To ask the Chancellor of the Exchequer, when HM Revenue and Customs plan to issue retailer-facing guidance on their requirements under the vaping products duty stamp scheme.",
+   "dateTabled": "2026-07-08T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1925553,
+   "uin": "17029",
+   "heading": "Landfill: Taxation",
+   "questionText": "To ask the Chancellor of the Exchequer, whether her Department holds data or evidence indicating that Section 43 (5) of the Finance Act 1996 causes compliance issues or unintended outcomes.",
+   "dateTabled": "2026-07-08T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1924949,
+   "uin": "16586",
+   "heading": "Waste Disposal",
+   "questionText": "To ask the Chancellor of the Exchequer, what estimate she has made of the surplus market capacity within non-landfill treatment sites for the processing of additional Air Pollution Control Residues.",
+   "dateTabled": "2026-07-07T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1924945,
+   "uin": "16585",
+   "heading": "Waste Disposal",
+   "questionText": "To ask the Chancellor of the Exchequer, what estimate she has made of the annual tonnage of Air Pollution Control Residues used as a stabiliser to dehydrate dredgings under Section 43 (5) of the Finance Act 1996.",
+   "dateTabled": "2026-07-07T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1924943,
+   "uin": "16584",
+   "heading": "Waste Disposal",
+   "questionText": "To ask the Chancellor of the Exchequer, what estimate she has made of the tonnage of Air Pollution Control Residues committed to non- landfill treatments in the most recent year for which data is available.",
+   "dateTabled": "2026-07-07T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1924941,
+   "uin": "16583",
+   "heading": "Landfill",
+   "questionText": "To ask the Chancellor of the Exchequer, what estimate she has made of the tonnage of Air Pollution Control Residues committed to landfill in the most recent year for which data is available.",
+   "dateTabled": "2026-07-07T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1924937,
+   "uin": "16582",
+   "heading": "Renewable Energy: Waste",
+   "questionText": "To ask the Chancellor of the Exchequer, what projection she has made of the annual tonnage of Air Pollution Control Residues arising from energy from waste plants by 2030.",
+   "dateTabled": "2026-07-07T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1924935,
+   "uin": "16581",
+   "heading": "Renewable Energy: Waste",
+   "questionText": "To ask the Chancellor of the Exchequer, what estimate she has made of the annual tonnage of Air Pollution Control Residues arising from energy from waste plants.",
+   "dateTabled": "2026-07-07T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1924929,
+   "uin": "16580",
+   "heading": "Landfill: Taxation",
+   "questionText": "To ask the Chancellor of the Exchequer, what consideration she has given to amending Section 43 (5) of the Finance Act 1996 such that materials added for the purposes of dehydrating dredgings are subject to the lower rate of landfill tax.",
+   "dateTabled": "2026-07-07T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1924974,
+   "uin": "16589",
+   "heading": "Breast Cancer: Drugs",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what recent assessment his Department has made of the potential merits of introducing Enhertu for use in the NHS.",
+   "dateTabled": "2026-07-07T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1924972,
+   "uin": "16588",
+   "heading": "Breast Cancer: Drugs",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what discussions his Department has had with AstraZeneca and Diiachi Sankyo on making Enhertu breast cancer drugs viable for introduction to the NHS.",
+   "dateTabled": "2026-07-07T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1924970,
+   "uin": "16587",
+   "heading": "Breast Cancer: Drugs",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps his Department has taken to make Enhertu breast cancer drugs available to the NHS.",
+   "dateTabled": "2026-07-07T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1925415,
+   "uin": "17028",
+   "heading": "Pigs: Animal Housing",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether she intends to consult on phasing out the use of farrowing crates for sows.",
+   "dateTabled": "2026-07-08T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1925409,
+   "uin": "17027",
+   "heading": "Pigs: Animal Housing",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment her department has made of the potential impact of farrowing crates on piglet mortality rates.",
+   "dateTabled": "2026-07-08T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1925407,
+   "uin": "17026",
+   "heading": "Pigs: Animal Housing",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what recent assessment her department has made on the effectiveness of farrowing crates for sows in rearing piglets.",
+   "dateTabled": "2026-07-08T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1925405,
+   "uin": "17025",
+   "heading": "Pigs: Animal Housing",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what support will be available for pig producers to transition to free farrowing systems.",
+   "dateTabled": "2026-07-08T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1925403,
+   "uin": "17024",
+   "heading": "Pigs: Animal Housing",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she has made of the comparative costs of transitioning from farrowing crates to (a) temporary crating systems and (b) free farrowing systems, and if she will ask the An",
+   "dateTabled": "2026-07-08T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1923399,
+   "uin": "15445",
+   "heading": "Department of Health and Social Care: Public Expenditure",
+   "questionText": "To ask the Secretary of State for Health and Social Care, pursuant to the Defence Investment Plan Funding Explainer published on 30 June 2026, which projects will be affected by the reduction in his department’s capital budget in (I) 2026-27 (II) 2027-28 ",
+   "dateTabled": "2026-07-02T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1923433,
+   "uin": "15447",
+   "heading": "Members: Correspondence",
+   "questionText": "To ask the Secretary of State for Health and Social Care, when he plans to respond to correspondence from the hon Member for North West Norfolk of 10 June 2026.",
+   "dateTabled": "2026-07-02T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1922201,
+   "uin": "14449",
+   "heading": "Revenue and Customs: Productivity",
+   "questionText": "To ask the Chancellor of the Exchequer, what productivity targets have been set for HMRC in each year of this Parliament.",
+   "dateTabled": "2026-06-30T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1922198,
+   "uin": "14446",
+   "heading": "Taxation",
+   "questionText": "To ask the Chancellor of the Exchequer, with reference to the HMRC publication entitled Measuring tax gaps 2026 edition: tax gap estimates for 2024 to 2025, what HMRC’s targets are to reduce the tax gap for each year of this Parliament.",
+   "dateTabled": "2026-06-30T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1922199,
+   "uin": "14447",
+   "heading": "Taxation",
+   "questionText": "To ask the Chancellor of the Exchequer, what discussions she has had with the Chief Executive of HMRC on reducing the tax gap.",
+   "dateTabled": "2026-06-30T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1922197,
+   "uin": "14445",
+   "heading": "Taxation",
+   "questionText": "To ask the Chancellor of the Exchequer, with reference to the HMRC publication entitled Measuring tax gaps 2026 edition: tax gap estimates for 2024 to 2025, what assessment HMRC has made of the contribution of complexity to the tax gap for (i) income tax ",
+   "dateTabled": "2026-06-30T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1922196,
+   "uin": "14444",
+   "heading": "Corporation Tax",
+   "questionText": "To ask the Chancellor of the Exchequer, with reference to the HMRC publication entitled Measuring tax gaps 2026 edition: tax gap estimates for 2024 to 2025, what steps HMRC is taking to reduce the corporation tax gap.",
+   "dateTabled": "2026-06-30T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1922200,
+   "uin": "14448",
+   "heading": "Taxation",
+   "questionText": "To ask the Chancellor of the Exchequer, if she will list all the taxes levied in the UK and the amount of revenue raised by each tax.",
+   "dateTabled": "2026-06-30T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1922202,
+   "uin": "14450",
+   "heading": "State Retirement Pensions",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what plans he has to review the level of the Age Addition of 25p per week payable for the State Pensions from 80th birthday to pensioners.",
+   "dateTabled": "2026-06-30T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1920711,
+   "uin": "13559",
+   "heading": "Individual Savings Accounts: Interest Rates",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of the impact of a 22% charge on ISA-held interest on household savings behaviour, particularly among low- and middle-income savers.",
+   "dateTabled": "2026-06-26T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1922701,
+   "uin": "900744",
+   "heading": "Project Gigabit",
+   "questionText": "?To ask the Secretary of State for Science, Innovation and Technology, what progress her Department has made on the rollout of Project Gigabit.",
+   "dateTabled": "2026-06-25T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1917106,
+   "uin": "10728",
+   "heading": "Treasury: Catering",
+   "questionText": "To ask the Chancellor of the Exchequer, whether free tea and coffee is available to Treasury civil servants working in Horse Guards Road.",
+   "dateTabled": "2026-06-17T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1917104,
+   "uin": "10726",
+   "heading": "Voluntary Contributions",
+   "questionText": "To ask the Chancellor of the Exchequer, how much was received in voluntary donations by (a) individuals and (b) businesses towards public expenditure in each of last three years.",
+   "dateTabled": "2026-06-17T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1917105,
+   "uin": "10727",
+   "heading": "Darlington Economic Campus: Staff",
+   "questionText": "To ask the Chancellor of the Exchequer, if she will list dates in the last year when Treasury ministers worked from the Darlington Economic Campus.",
+   "dateTabled": "2026-06-17T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1917103,
+   "uin": "10725",
+   "heading": "Public Sector Debt: Voluntary Contributions",
+   "questionText": "To ask the Chancellor of the Exchequer, how much was received in the Donations and Bequest Account established by the National Debt Reduction Act 1823 and what the largest individual donation amount was.",
+   "dateTabled": "2026-06-17T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1909464,
+   "uin": "4419",
+   "heading": "Pet Travel Scheme",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what progress she has made on securing an agreement for a multiuse pet passport valid for travel to the EU.",
+   "dateTabled": "2026-05-29T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1916657,
+   "uin": "10229",
+   "heading": "Income Tax: Pensioners",
+   "questionText": "To ask the Chancellor of the Exchequer, what steps HM Revenue and Customs is taking to (a) identify for each of the last four financial years those pensioners who may have been overcharged income tax due to incorrect state pension data, (b) notify affecte",
+   "dateTabled": "2026-06-16T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1917152,
+   "uin": "10729",
+   "heading": "Dental Services: North West Norfolk",
+   "questionText": "To ask the Secretary of State for Health and Social Care, pursuant to the Answer of 15 June 2026 to Question 6636 on Dental Services: Norfolk, what estimate his Department has made of the median travel time for adult patients to access an NHS dental pract",
+   "dateTabled": "2026-06-17T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1916015,
+   "uin": "9706",
+   "heading": "Sustainable Farming Incentive",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what estimate she has made of the (a) range and (b) scale of environmental actions that can be delivered by farm businesses within the £100,000 annual agreement cap under the Sustainab",
+   "dateTabled": "2026-06-15T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1916014,
+   "uin": "9705",
+   "heading": "Sustainable Farming Incentive",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what evidence was used to inform the decision to set the Sustainable Farming Incentive annual agreement cap at £100,000.",
+   "dateTabled": "2026-06-15T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1916013,
+   "uin": "9704",
+   "heading": "Sustainable Farming Incentive",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment her Department has made of the potential impact of limiting farm businesses to a single Sustainable Farming Incentive agreement on farm-level participation and flexibil",
+   "dateTabled": "2026-06-15T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1915227,
+   "uin": "9066",
+   "heading": "Navy: Cadets",
+   "questionText": "To ask the Secretary of State for Defence, what funding the Royal Navy plans to make available in 2026-27 to the Marine Society & Sea Cadets and to Sea Cadet units for equipment used for training.",
+   "dateTabled": "2026-06-11T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1914040,
+   "uin": "8124",
+   "heading": "HM Coastguard: Voluntary Work",
+   "questionText": "To ask the Secretary of State for Transport, with reference to the Maritime and Coastguard Agency’s announcement that Coastguard Rescue Officers will move to a volunteer-with-expenses model from mid-September 2026, what assessment she has made of the pote",
+   "dateTabled": "2026-06-09T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1914041,
+   "uin": "8125",
+   "heading": "HM Coastguard: Voluntary Work",
+   "questionText": "To ask the Secretary of State for Transport, with reference to the Maritime and Coastguard Agency’s announcement on the transition of Coastguard Rescue Officers to a volunteer-with-expenses model from mid-September 2026, whether a formal impact assessment",
+   "dateTabled": "2026-06-09T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1914042,
+   "uin": "8126",
+   "heading": "HM Coastguard: Voluntary Work",
+   "questionText": "To ask the Secretary of State for Transport, with reference to the Maritime and Coastguard Agency’s announcement regarding the future model for Coastguard Rescue Officers, what alternative operating models were considered prior to the decision.",
+   "dateTabled": "2026-06-09T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1914043,
+   "uin": "8127",
+   "heading": "HM Coastguard: Voluntary Work",
+   "questionText": "To ask the Secretary of State for Transport, with reference to the Maritime and Coastguard Agency’s announcement concerning the future status of Coastguard Rescue Officers, whether Ministers formally endorsed the decision to move to a volunteer-with-expen",
+   "dateTabled": "2026-06-09T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1912026,
+   "uin": "6636",
+   "heading": "Dental Services: Norfolk",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what proportion of NHS dental practices are accepting new adult NHS patients in (a) North West Norfolk constituency and (b) Norfolk.",
+   "dateTabled": "2026-06-03T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1912359,
+   "uin": "6800",
+   "heading": "Prisoners' Release",
+   "questionText": "To ask the Secretary of State for Justice, pursuant to the Answer of 1 June 2026 to Question 3327 on Prisoners' Release, in which part of the referenced data the figures can be found for the number of prisoners who (a) have been returned to prison and (b)",
+   "dateTabled": "2026-06-04T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1911937,
+   "uin": "6547",
+   "heading": "Taxation: Electronic Government",
+   "questionText": "To ask the Chancellor of the Exchequer, whether HMRC will publish regular statistics on exemption applications, outcomes and processing times under Making Tax Digital.",
+   "dateTabled": "2026-06-03T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1911936,
+   "uin": "6546",
+   "heading": "Taxation: Electronic Government",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of the risk that people who should qualify for exemption will incur penalties under the Making Tax Digital regime; and what steps she is taking to mitigate that risk.",
+   "dateTabled": "2026-06-03T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1911935,
+   "uin": "6545",
+   "heading": "Taxation: Electronic Government",
+   "questionText": "To ask the Chancellor of the Exchequer, what steps HMRC is taking to ensure that digitally excluded people are aware of their right to apply for an exemption.",
+   "dateTabled": "2026-06-03T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1911934,
+   "uin": "6544",
+   "heading": "Taxation: Electronic Government",
+   "questionText": "To ask the Chancellor of the Exchequer, how many HMRC staff are assigned to process Making Tax Digital exemption applications by (a) headcount and (b) full-time equivalent.",
+   "dateTabled": "2026-06-03T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1911933,
+   "uin": "6543",
+   "heading": "Self-assessment",
+   "questionText": "To ask the Chancellor of the Exchequer, what estimate her Department has made of the number of people who meet the eligibility criteria for exemption from Making Tax Digital for Income Tax Self Assessment.",
+   "dateTabled": "2026-06-03T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1911932,
+   "uin": "6542",
+   "heading": "Self-assessment",
+   "questionText": "To ask the Chancellor of the Exchequer, how many appeals against decisions to refuse exemption from Making Tax Digital for Income Tax Self Assessment have been (a) submitted, (b) upheld and (c) rejected.",
+   "dateTabled": "2026-06-03T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1911931,
+   "uin": "6541",
+   "heading": "Taxation: Electronic Government",
+   "questionText": "To ask the Chancellor of the Exchequer, how many and what proportion of applications for exemption from Making Tax Digital have (a) been granted, (b) been refused and (c) are pending decision.",
+   "dateTabled": "2026-06-03T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1909375,
+   "uin": "4330",
+   "heading": "Agricultural Shows: VAT",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of the level of delays by HMRC in processing VAT rebate claims submitted by agricultural shows in respect of VAT exempt admissions income; and what steps she is taking to ensure timely p",
+   "dateTabled": "2026-05-29T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1909376,
+   "uin": "4331",
+   "heading": "Agricultural Shows: VAT",
+   "questionText": "To ask the Chancellor of the Exchequer, with reference to the Upper Tribunal decision in Yorkshire Agricultural Society [2025] UKUT 00004, handed down on 9 January 2025, what assessment she has made of the application of VAT to admissions income for agric",
+   "dateTabled": "2026-05-29T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1909465,
+   "uin": "4420",
+   "heading": "Animal Welfare: Sentencing",
+   "questionText": "To ask the Secretary of State for Justice, what assessment he has made of trends in the level of the use of custodial sentences for animal cruelty offences since the Animal Welfare (Sentencing) Act 2021 became law.",
+   "dateTabled": "2026-05-29T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1909463,
+   "uin": "4418",
+   "heading": "Animal Welfare: Sentencing",
+   "questionText": "To ask the Secretary of State for Justice, what assessment he has made of the effectiveness of Sentencing Council guidelines for animal cruelty.",
+   "dateTabled": "2026-05-29T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1907862,
+   "uin": "3340",
+   "heading": "Crisis and Resilience Fund: Fuel Oil",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many applications have been received by (i) English local authorities and (ii) Norfolk County Council for support through the Heating Oil Crisis Fund; and how much has been paid to date in (a) total",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1909387,
+   "uin": "4342",
+   "heading": "Multinational Companies: Taxation",
+   "questionText": "To ask the Chancellor of the Exchequer, with reference to her oral statement of 21 May on Middle East: Economic Response, whether additional resourcing will be provided to HM Revenue and Customs to (a) administer and enforce changes to the taxation of for",
+   "dateTabled": "2026-05-29T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1909386,
+   "uin": "4341",
+   "heading": "Multinational Companies: Taxation",
+   "questionText": "To ask the Chancellor of the Exchequer, with reference to her oral statement of 21 May on Middle East: Economic Response, what assumptions on oil and gas prices, trading volumes, and company behavioural responses underlie the forecast that reforms to the ",
+   "dateTabled": "2026-05-29T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1909385,
+   "uin": "4340",
+   "heading": "Multinational Companies: Taxation",
+   "questionText": "To ask the Chancellor of the Exchequer, with reference to her Oral Statement of 21 May 2026 on Middle East: Economic Response, Official Report, columns 731-733, whether the projected additional tax income from the proposed reforms to foreign branch profit",
+   "dateTabled": "2026-05-29T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1909384,
+   "uin": "4339",
+   "heading": "Multinational Companies: Taxation",
+   "questionText": "To ask the Chancellor of the Exchequer, with reference to her Oral Statement of 21 May 2026 on Middle East: Economic Response, Official Report, columns 731-733, what estimate she has made of the amount of annual revenue from the proposed changes to the ta",
+   "dateTabled": "2026-05-29T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1909383,
+   "uin": "4338",
+   "heading": "Multinational Companies: Taxation",
+   "questionText": "To ask the Chancellor of the Exchequer, with reference to her Oral Statement of 21 May 2026 on Middle East: Economic Response, Official Report, columns 731-733, whether her Department has made an impact assessment of the proposed reforms to foreign branch",
+   "dateTabled": "2026-05-29T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1909382,
+   "uin": "4337",
+   "heading": "Multinational Companies: Taxation",
+   "questionText": "To ask the Chancellor of the Exchequer, with reference to her Oral Statement of 21 May 2026 on Middle East: Economic Response, Official Report, columns 731-733, whether a full Tax Information and Impact Note will be published for the proposed reforms to t",
+   "dateTabled": "2026-05-29T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1909381,
+   "uin": "4336",
+   "heading": "Multinational Companies: Taxation",
+   "questionText": "To ask the Chancellor of the Exchequer, with reference to her Oral Statement of 21 May 2026 on Middle East: Economic Response, Official Report, columns 731-733, how she intends to legislate for the proposed changes to the taxation of foreign branch profit",
+   "dateTabled": "2026-05-29T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1909380,
+   "uin": "4335",
+   "heading": "Multinational Companies: Taxation",
+   "questionText": "To ask the Chancellor of the Exchequer, with reference to her Oral Statement of 21 May 2026 on Middle East: Economic Response, Official Report, columns 731-733, whether her Department plans to conduct a public consultation on the detailed design of the pr",
+   "dateTabled": "2026-05-29T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1909379,
+   "uin": "4334",
+   "heading": "Multinational Companies: Taxation",
+   "questionText": "To ask the Chancellor of the Exchequer, with reference to her Oral Statement of 21 May 2026 on Middle East: Economic Response, Official Report, columns 731-733, what assessment she has made of the potential impact of the proposed reforms to the taxation o",
+   "dateTabled": "2026-05-29T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1909378,
+   "uin": "4333",
+   "heading": "Multinational Companies: Taxation",
+   "questionText": "To ask the Chancellor of the Exchequer, with reference to her Oral Statement of 21 May 2026 on Middle East: Economic Response, Official Report, columns 731-733, from which accounting periods the changes to the taxation of foreign branch profits will have ",
+   "dateTabled": "2026-05-29T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1909377,
+   "uin": "4332",
+   "heading": "Multinational Companies: Taxation",
+   "questionText": "To ask the Chancellor of the Exchequer, with reference to her Oral Statement of 21 May 2026 on Middle East: Economic Response, Official Report, columns 731-733, on what date the changes to the taxation of foreign branch profits will be (a) legislated for ",
+   "dateTabled": "2026-05-29T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1907840,
+   "uin": "3328",
+   "heading": "Prisoners' Release",
+   "questionText": "To ask the Secretary of State for Justice, what steps he is taking to reduce the time taken for the Prison Service to inform the police when a prisoner has been released in error.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1907837,
+   "uin": "3327",
+   "heading": "Prisoners' Release",
+   "questionText": "To ask the Secretary of State for Justice, how many of the prisoners released in error since July 2024 (i) were returned to prison and (ii) remain at large.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1906867,
+   "uin": "2321",
+   "heading": "Horticulture",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what progress her Department has made on the Horticulture Sector Growth Plan.",
+   "dateTabled": "2026-05-18T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1906866,
+   "uin": "2320",
+   "heading": "Food Supply",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps her Department is taking to improve the resilience of UK food supply chains.",
+   "dateTabled": "2026-05-18T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1906861,
+   "uin": "2315",
+   "heading": "Electronic Cigarettes: Excise Duties",
+   "questionText": "To ask the Chancellor of the Exchequer, with reference to the oral response of the Exchequer Secretary to the Treasury during the debate on Draft Vaping Duty Stamps (Requirements, Reviews and Appeals) Regulations 2026, on 27 April 2026, Official Report, c",
+   "dateTabled": "2026-05-18T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1906842,
+   "uin": "2296",
+   "heading": "Taxation",
+   "questionText": "To ask the Chancellor of the Exchequer, what HMRC's policy is on commenting on the outcome of tax investigations where a member of the public has publicly referred to the findings.",
+   "dateTabled": "2026-05-18T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1906843,
+   "uin": "2297",
+   "heading": "Politically Exposed Persons: Taxation",
+   "questionText": "To ask the Chancellor of the Exchequer, whether the Chief Executive of HMRC is informed of the outcome of investigations into the tax affairs of politically exposed persons.",
+   "dateTabled": "2026-05-18T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1907343,
+   "uin": "2860",
+   "heading": "Ring-fencing and Proprietary Trading Independent Review",
+   "questionText": "To ask the Chancellor of the Exchequer, further to the Written Statement of 18 May 2026 titled HM Treasury Review of the Ring-Fencing Regime, if she will publish any correspondence or representations received from banks or banking representatives regardin",
+   "dateTabled": "2026-05-19T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1906844,
+   "uin": "2298",
+   "heading": "Members: Correspondence",
+   "questionText": "To ask the Secretary of State for Business and Trade, when he intends to respond to the correspondence from the hon. members for North West Norfolk and Brigg and Immingham of 17 March 2026 regarding tariffs on imports of UAN.",
+   "dateTabled": "2026-05-18T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1897422,
+   "uin": "125368",
+   "heading": "A47: Wisbech",
+   "questionText": "To ask the Secretary of State for Transport, what assessment she has made of the potential impact of removing the A47/A1101 Elm Road Junction scheme from the Road Investment Strategy pipeline on the level of road safety, congestion, and economic growth.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1887720,
+   "uin": "117882",
+   "heading": "Sodium Valproate and Surgical Mesh Implants: Compensation",
+   "questionText": "To ask the Secretary of State for Health and Social Care, if it is his policy to make interim payments to valporate and pelvic mesh victims this calendar year.",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1894852,
+   "uin": "123759",
+   "heading": "National Insurance Contributions",
+   "questionText": "To ask the Chancellor of the Exchequer, with reference to the response of the Minister for Pensions of 23 March 2026, Official Report, column 95, on the National Insurance Contributions (Employer Pension Contributions) Bill, whether her estimate of the pr",
+   "dateTabled": "2026-03-25T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1894284,
+   "uin": "123263",
+   "heading": "Crisis and Resilience Fund: Fuel Oil",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what proportion of the £53 million support package to be administered under the Crisis and Resilience Fund for off-gas grid households using heating oil will be allocated to Norfolk.",
+   "dateTabled": "2026-03-24T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1894298,
+   "uin": "123264",
+   "heading": "Biodiversity: Nationally Significant Infrastructure Projects",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what her proposed timeline is for the implementation of Biodiversity Net Gain requirements for Nationally Significant Infrastructure Projects.",
+   "dateTabled": "2026-03-24T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1894383,
+   "uin": "123300",
+   "heading": "Dental Services: North West Norfolk",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference to the answer of the Minister for Care in response to the hon. Member for Bridgwater of 24 February 2026, Official Report, column 169 on Access to NHS Dental Service, if his Departme",
+   "dateTabled": "2026-03-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1893066,
+   "uin": "122284",
+   "heading": "Fuel Oil: Prices",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment her Department has made of the adequacy of support available to households using heating oil, in the context of rising global oil prices linked to the conflict in Iran.",
+   "dateTabled": "2026-03-19T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1893063,
+   "uin": "122282",
+   "heading": "Crisis and Resilience Fund: Fuel Oil",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what guidance has his department given to local authorities on making payments to households with Fuel Oil costs through the Crisis Resilience Fund.",
+   "dateTabled": "2026-03-19T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1893037,
+   "uin": "122278",
+   "heading": "Taxation: Domicil",
+   "questionText": "To ask the Chancellor of the Exchequer, what estimate she has made of the number of high net worth individuals who have left the UK in each year since 2024.",
+   "dateTabled": "2026-03-19T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1893036,
+   "uin": "122277",
+   "heading": "Landfill Tax: Exemptions",
+   "questionText": "To ask the Chancellor of the Exchequer, with reference to the proposed removal of landfill tax exemptions for stabilisers used in dredged material, what assessment she has made of the potential environmental consequences of (a) delays to dredging, (b) red",
+   "dateTabled": "2026-03-19T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1893035,
+   "uin": "122276",
+   "heading": "Landfill Tax: Exemptions",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of the potential impact of removing landfill tax exemptions relevant to ports on the viability of major industrial and green energy projects around UK waterways, including projects relat",
+   "dateTabled": "2026-03-19T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1893034,
+   "uin": "122275",
+   "heading": "Landfill Tax: Exemptions",
+   "questionText": "To ask the Chancellor of the Exchequer, what engagement her Department has had with (a) the British Ports Association, (b) individual port operators and (c) river and canal authorities regarding the proposal to remove landfill tax exemptions relevant to d",
+   "dateTabled": "2026-03-19T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1893033,
+   "uin": "122274",
+   "heading": "Landfill Tax: Exemptions",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of the potential impact on UK ports and harbour authorities of removing the landfill tax exemption for dredged material and stabilisers used in the treatment of dredgings from April 2027",
+   "dateTabled": "2026-03-19T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1893038,
+   "uin": "122279",
+   "heading": "Taxation: Domicil",
+   "questionText": "To ask the Chancellor of the Exchequer, what estimate she has made of the impact on Exchequer revenues of high net worth individuals leaving the UK in each year since 2024.",
+   "dateTabled": "2026-03-19T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1892018,
+   "uin": "121466",
+   "heading": "Charities: Investment and Pension Funds",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment has she made of the impact of section 57 of the Finance Act 2012 on (a) investment costs for charities and (b) the ability of charities to access the low-cost, tax-efficient vehicles available to pen",
+   "dateTabled": "2026-03-17T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1892010,
+   "uin": "121458",
+   "heading": "Gift Aid",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of how the level of usability of the Gift Aid system affects donor behaviour, including for younger donors or other donors who may be digitally excluded.",
+   "dateTabled": "2026-03-17T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1892008,
+   "uin": "121456",
+   "heading": "Charitable Donations: Bank Services",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of the potential implications for philanthropic giving of proposals to link charitable donations to individual bank accounts.",
+   "dateTabled": "2026-03-17T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1892006,
+   "uin": "121454",
+   "heading": "Gift Aid: Pilot Schemes",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of the Future of Gift Aid pilot, and what assessment has been made of its potential impact on the charity sector.",
+   "dateTabled": "2026-03-17T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1892003,
+   "uin": "121452",
+   "heading": "Gift Aid",
+   "questionText": "To ask the Chancellor of the Exchequer, what discussions she has had with the Secretary of State for Culture, Media and Sport on launching a full review of Gift Aid, including digital automation and linking donations to personal tax accounts.",
+   "dateTabled": "2026-03-17T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1893065,
+   "uin": "122283",
+   "heading": "Crisis and Resilience Fund",
+   "questionText": "To ask the Secretary of State for Work and Pensions, if he will publish a full timeline for the roll out of the Crisis Resilience Fund and when Local Authorities can start making payments to households.",
+   "dateTabled": "2026-03-19T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1892017,
+   "uin": "121465",
+   "heading": "Disability: VAT Zero Rating",
+   "questionText": "To ask the Chancellor of the Exchequer, what steps she has taken to simplify the evidence requirements for disability related zero rating.",
+   "dateTabled": "2026-03-17T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1892016,
+   "uin": "121464",
+   "heading": "Assistive Technology: VAT",
+   "questionText": "To ask the Chancellor of the Exchequer, what steps she has taken to review Groups 4 and 12 of Schedule 8 of the Value Added Tax Act 1994 to ensure disability VAT reliefs reflect modern assistive technology.",
+   "dateTabled": "2026-03-17T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1892015,
+   "uin": "121463",
+   "heading": "Social Media: VAT",
+   "questionText": "To ask the Chancellor of the Exchequer, whether she has had discussions with the Secretary of State for Culture, Media and Sport on updating HMRC guidance and amending Group 15 of Schedule 8 to the Value Added Tax Act 1994 to not exclude social media adve",
+   "dateTabled": "2026-03-17T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1892014,
+   "uin": "121462",
+   "heading": "Social Media: VAT",
+   "questionText": "To ask the Chancellor of the Exchequer, whether she has made an assessment of the potential impact of VAT on social media advertising on the reach of charity campaigns aimed at vulnerable groups who predominantly consume information online.",
+   "dateTabled": "2026-03-17T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1892012,
+   "uin": "121460",
+   "heading": "Social Media: VAT",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made about the level of financial burden placed on charities arising from having to pay VAT on targeted social media advertising.",
+   "dateTabled": "2026-03-17T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1892011,
+   "uin": "121459",
+   "heading": "Social Media: VAT",
+   "questionText": "To ask the Chancellor of the Exchequer, whether she is taking steps to update VAT guidance to recognise all social media advertising as qualifying for zero-rated charity advertising.",
+   "dateTabled": "2026-03-17T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1887613,
+   "uin": "117880",
+   "heading": "Stationery: Contracts",
+   "questionText": "To ask the hon. Member for Blaenau Gwent and Rhymney, representing the House of Commons Commission, for what reasons changes have been made to the contract to limit printing to only green stationery.",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "House of Commons Commission"
+  },
+  {
+   "id": 1892556,
+   "uin": "121871",
+   "heading": "Dental Services: North West Norfolk",
+   "questionText": "To ask the Secretary of State for Health and Social Care, if he will publish (a) constituency and (b) integrated care board level data on access to NHS dental services in North West Norfolk constituency.",
+   "dateTabled": "2026-03-18T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1887607,
+   "uin": "117879",
+   "heading": "Stamp Duty Land Tax: Tax Avoidance",
+   "questionText": "To ask the Chancellor of the Exchequer, what the average length of time is for HMRC investigations into the potential underpayment of stamp duty land tax by individuals.",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1887009,
+   "uin": "117423",
+   "heading": "Stamp Duty Land Tax: Tax Avoidance",
+   "questionText": "To ask the Chancellor of the Exchequer, how many HMRC investigations into the potential underpayment of stamp duty land tax are ongoing.",
+   "dateTabled": "2026-03-03T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1887714,
+   "uin": "117881",
+   "heading": "Cabinet Office: Buildings",
+   "questionText": "To ask the Minister for the Cabinet Office, what recent progress has been made in determining future use of 36 Whitehall.",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1885916,
+   "uin": "116684",
+   "heading": "Domestic Abuse and Sexual Offences: Victim Support Schemes",
+   "questionText": "To ask the Secretary of State for Justice, how much ringfenced funding (a) Norfolk Constabulary, and (b) the Office of the Police and Crime Commissioner for Norfolk received for Domestic Abuse and Sexual Violence victim support services in 2025/26.",
+   "dateTabled": "2026-02-27T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1885915,
+   "uin": "116683",
+   "heading": "Victim Support Schemes: Norfolk",
+   "questionText": "To ask the Secretary of State for Justice, what funding he plans to allocate from the Victims General Fund to the Office of the Police and Crime Commissioner for Norfolk in 2026/27, and when he plans to publish details of that funding.",
+   "dateTabled": "2026-02-27T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1884560,
+   "uin": "115572",
+   "heading": "Homicide: Foreign Nationals",
+   "questionText": "To ask the Secretary of State for Justice, how many foreign national offenders in UK prisons have been sentenced for causing the death of one or more people.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1884559,
+   "uin": "115571",
+   "heading": "Offenders: Deportation",
+   "questionText": "To ask the Secretary of State for Justice, what guidance is provided to the Chief Executive of HMPPS regarding assessing the potential impact on public confidence in the Early Removal Scheme or the criminal justice system of a decision to authorise remova",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1884557,
+   "uin": "115570",
+   "heading": "Offenders: Deportation",
+   "questionText": "To ask the Secretary of State for Justice, what guidance is provided to Prison Governors considering authorising the removal of foreign national offenders to assess the potential impact on public confidence in the Early Removal Scheme or the criminal just",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1884554,
+   "uin": "115569",
+   "heading": "Offenders: Deportation",
+   "questionText": "To ask the Secretary of State for Justice, how many cases under the Early Removal Scheme where the removal may undermine confidence in the scheme or criminal justice system were referred to the Chief Executive of HMPPS for decision in each of the last fiv",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1882977,
+   "uin": "114242",
+   "heading": "Religious Practice: Babies",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what recent assessment she has made of the adequacy of the application of data protection law to the collection and retention of personal data in connection with infant baptisms and oth",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1879866,
+   "uin": "111839",
+   "heading": "Eurostar: Musical Instruments",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether she has held discussions with Eurostar on the carriage of musical instruments on cross border services.",
+   "dateTabled": "2026-02-09T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1879865,
+   "uin": "111838",
+   "heading": "Musical Instruments: Convention on International Trade in Endangered Species",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what recent discussions she has had with representatives of the music sector on delays at UK ports linked to the inspection of CITES regulated instruments.",
+   "dateTabled": "2026-02-09T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1879864,
+   "uin": "111837",
+   "heading": "Musical Instruments: Convention on International Trade in Endangered Species",
+   "questionText": "To ask the Secretary of State for the Home Department, what training is provided to Border Force officers on the handling of CITES documentation for musical instruments.",
+   "dateTabled": "2026-02-09T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1879088,
+   "uin": "111210",
+   "heading": "Office for Budget Responsibility: Disclosure of Information",
+   "questionText": "To ask the Chancellor of the Exchequer, with reference to the oral contribution of the Chief Secretary to the Treasury in the urgent question on the resignation of the chair of the OBR at column 991, 3 December 2025, whether special advisers have been req",
+   "dateTabled": "2026-02-05T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1879086,
+   "uin": "111209",
+   "heading": "Office for Budget Responsibility: Disclosure of Information",
+   "questionText": "To ask the Chancellor of the Exchequer, with reference to the oral contribution of the Chief Secretary to the Treasury of 3 December 2025 on OBR: Resignation of Chair, Official Report, column 991, if she will provide an update on the progress of the leak ",
+   "dateTabled": "2026-02-05T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1877418,
+   "uin": "110071",
+   "heading": "Norfolk Constabulary",
+   "questionText": "To ask the Secretary of State for the Home Department, how many full time equivalent police officers there were in Norfolk Constabulary on (a) 1 September 2024 and (b) 1 September 2025.",
+   "dateTabled": "2026-02-02T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1877420,
+   "uin": "110073",
+   "heading": "Fly-tipping: Rural Areas",
+   "questionText": "To ask the Secretary of State for the Home Department, what assessment her Department has made of the potential impact on the Police Funding Settlement (England and Wales) 2026-27 on the provisions for tackling fly tipping in rural areas.",
+   "dateTabled": "2026-02-02T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1877419,
+   "uin": "110072",
+   "heading": "Crime: North West Norfolk",
+   "questionText": "To ask the Secretary of State for the Home Department, what assessment her Department has made on the potential impact of the Police Funding Settlement (England and Wales) 2026-27 on the response times to rural crime incidents in North West Norfolk consti",
+   "dateTabled": "2026-02-02T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1877417,
+   "uin": "110070",
+   "heading": "Police: North West Norfolk",
+   "questionText": "To ask the Secretary of State for the Home Department, what assessment her Department has made on the potential impact of the Police Funding Settlement (England and Wales) 2026-27 on the number of police officers in North West Norfolk constituency.",
+   "dateTabled": "2026-02-02T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1878678,
+   "uin": "110880",
+   "heading": "Dental Services: Norfolk",
+   "questionText": "To ask the Secretary of State for Health and Social Care, pursuant to the oral answer of 25 November 2025, Official Report Column 201, on NHS Dental Services in Norfolk, when he will issue a direction to the Office for Students.",
+   "dateTabled": "2026-02-04T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1877712,
+   "uin": "110074",
+   "heading": "Dental Services: North West Norfolk",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many emergency dental appointments have been delivered under the Urgent Dental Care Incentive Scheme in (a) Norfolk and Waveney and (b) North West Norfolk; and (b) what progress his Department ",
+   "dateTabled": "2026-02-02T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1874924,
+   "uin": "108290",
+   "heading": "Members: Correspondence",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, when she plans to reply to the letter from the hon. Member for North West Norfolk of 11 December 2025 regarding Daesh.",
+   "dateTabled": "2026-01-26T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1870158,
+   "uin": "104780",
+   "heading": "Firearms: Licensing",
+   "questionText": "To ask the Secretary of State for the Home Department, when she plans to announce the (a) scope and (b) timetable of the forthcoming consultation on proposals to merge shotgun and firearms licensing regimes.",
+   "dateTabled": "2026-01-12T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1873134,
+   "uin": "907377",
+   "heading": "Iran: Demonstrations",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what diplomatic steps she is taking to hold Iran to account for the repression of protesters.",
+   "dateTabled": "2026-01-14T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1863620,
+   "uin": "99516",
+   "heading": "CAFCASS: Accountability",
+   "questionText": "To ask the Secretary of State for Justice, whether he has recently considered measures to improve the accountability of CAFCASS.",
+   "dateTabled": "2025-12-12T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1863617,
+   "uin": "99515",
+   "heading": "Family Conciliation Services: Voucher Schemes",
+   "questionText": "To ask the Secretary of State for Justice, pursuant to the Answer of 10 November 2025 to Question 87077 on Children: Custody, what plans his Department has to fund the Family Mediation Voucher Scheme beyond March 2026.",
+   "dateTabled": "2025-12-12T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1863616,
+   "uin": "99514",
+   "heading": "Family Conciliation Services: Norfolk",
+   "questionText": "To ask the Secretary of State for Justice, pursuant to the Answer of 10 November 2025 to Question 87077 on Children: Custody, what estimate he has made of the number of families reached by the Family Mediation Voucher Scheme in a) Norfolk and b) North Wes",
+   "dateTabled": "2025-12-12T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1863615,
+   "uin": "99513",
+   "heading": "Family Conciliation Services: Voucher Schemes",
+   "questionText": "To ask the Secretary of State for Justice, pursuant to the Answer of 10 November 2025 to Question 87077 on Children: Custody, whether his Department has made a recent assessment of the potential merits of expanding the Family Mediation Voucher Scheme.",
+   "dateTabled": "2025-12-12T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1863622,
+   "uin": "99561",
+   "heading": "Child Arrangements Orders",
+   "questionText": "To ask the Secretary of State for Justice, whether his Department has recently assessed the potential merits of reviewing the weighting given to a child's views in child arrangement orders in cases where there is an unresolved disagreement between parents",
+   "dateTabled": "2025-12-12T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1863621,
+   "uin": "99560",
+   "heading": "Child Arrangements Orders",
+   "questionText": "To ask the Secretary of State for Justice, whether he has considered changes to child arrangement orders that would affect child maintenance requirements for parents without custody.",
+   "dateTabled": "2025-12-12T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1863614,
+   "uin": "99512",
+   "heading": "Child Arrangements Orders",
+   "questionText": "To ask the Secretary of State for Justice, pursuant to the Answer of 10 November 2025 to Question 87080 on Child Arrangement Orders, if he will make such an assessment.",
+   "dateTabled": "2025-12-12T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1861876,
+   "uin": "97927",
+   "heading": "Public Bodies",
+   "questionText": "To ask the Minister for the Cabinet Office, with reference to the press release entitled, Hundreds of quangos to be examined for potential closure as Government takes back control, published on 7 April 2025, if he will provide an update on progress of the",
+   "dateTabled": "2025-12-08T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1859735,
+   "uin": "96701",
+   "heading": "Crown Estate",
+   "questionText": "To ask the Chancellor of the Exchequer, if she will provide a list of assets held by the Crown Estate.",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1859734,
+   "uin": "96700",
+   "heading": "Crown Estate: Great British Energy",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the answer of of 7 May 2025 to question 48538, what the timetable is for the Crown Estate negotiating a Partnership Agreement with GB Energy.",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1860445,
+   "uin": "97221",
+   "heading": "Poverty: Children",
+   "questionText": "To ask the Secretary of State for Work and Pensions, with reference to section 5.3: Tackling child poverty and reforming welfare of the Budget 2025, when he expects to bring forward legislative changes.",
+   "dateTabled": "2025-12-04T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1856453,
+   "uin": "93994",
+   "heading": "Russia: Warships",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, with reference to the oral answer of 20 November 2025, Official Report, column 851, whether she will make it her policy to summon the Russian Ambassador if lasers are directe",
+   "dateTabled": "2025-11-24T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1962565,
+   "uin": "45254",
+   "heading": "Sodium Valproate and Surgical Mesh Implants: Compensation",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether her Department has completed an assessment of the estimated cost of (a) interim payments and (b) a main financial redress scheme for people harmed by sodium valproate; and whether any such ",
+   "dateTabled": "2026-11-20T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1962564,
+   "uin": "45253",
+   "heading": "Sodium Valproate and Surgical Mesh Implants: Compensation",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what estimate her Department has made of the number of people who could be eligible for fixed-sum interim payments under the financial redress scheme recommended in the Hughes Report.",
+   "dateTabled": "2026-11-20T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1962558,
+   "uin": "45247",
+   "heading": "Social Media: Children",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, whether she has established an advisory group with technology companies regarding the forthcoming regulations to restrict access to social media for under 16s.",
+   "dateTabled": "2026-11-20T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1962555,
+   "uin": "45244",
+   "heading": "Social Media: Children",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what her planned timetable is for setting the age-assurance requirements to limit access by under 16s to social media content.",
+   "dateTabled": "2026-11-20T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1962550,
+   "uin": "45239",
+   "heading": "Public Sector: Procurement",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, if he will publish (i) a map and (ii) a list of postcodes in the North West Norfolk constituency which will be covered by Call Off Contract 8.",
+   "dateTabled": "2026-11-20T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1958250,
+   "uin": "41812",
+   "heading": "Offences against Children: Internet",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what discussions her department has had with (I) Vinted and (II) eBay regarding the effectiveness of their messaging services in preventing access to harmful or explicit content.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1958249,
+   "uin": "41811",
+   "heading": "Offences against Children: Internet",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what assessment her department has made of the number of incidents of grooming of children on (I) Vinted and (ii) eBay.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1948285,
+   "uin": "34180",
+   "heading": "Department for Digital, Culture, Media and Sport: Buildings",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what progress she has made in reducing (i) the department’s and (ii) public bodies estate footprint.",
+   "dateTabled": "2026-10-13T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1948282,
+   "uin": "34177",
+   "heading": "Exercise: Families",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, whether any public funds were used to pay for celebrity participation in the promotion of the “New moves club\".",
+   "dateTabled": "2026-10-13T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  }
+ ],
+ "historyComplete": true
+}

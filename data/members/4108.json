@@ -1,0 +1,803 @@
+{
+ "id": 4108,
+ "fetchedOn": "2026-11-23",
+ "core": {
+  "id": 4108,
+  "nameListAs": "Williamson, Sir Gavin",
+  "nameDisplayAs": "Sir Gavin Williamson",
+  "nameFullTitle": "Rt Hon Sir Gavin Williamson MP",
+  "nameAddressAs": "Sir Gavin",
+  "latestParty": {
+   "id": 4,
+   "name": "Conservative",
+   "abbreviation": "Con",
+   "backgroundColour": "0063ba",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": false,
+   "governmentType": 3,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "Stone, Great Wyrley and Penkridge",
+   "membershipFromId": 4338,
+   "house": 1,
+   "membershipStartDate": "2010-05-06T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2024-07-04T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/4108/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2024-05-31T00:00:00",
+    "constituencyEnd": null,
+    "house": 1,
+    "name": "Stone, Great Wyrley and Penkridge",
+    "id": 4338,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "2010-04-13T00:00:00",
+    "constituencyEnd": "2024-05-30T00:00:00",
+    "house": 1,
+    "name": "South Staffordshire",
+    "id": 3750,
+    "startDate": "2010-05-06T00:00:00",
+    "endDate": "2024-05-30T00:00:00",
+    "additionalInfo": "Elected 4 times",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [
+   {
+    "house": 1,
+    "name": "Blackpool North and Fleetwood",
+    "id": 331,
+    "startDate": "2005-05-05T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "houseMemberships": [
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "2010-05-06T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Sir Gavin Williamson",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [
+   {
+    "house": 1,
+    "name": "Minister of State (Cabinet Office) (Minister without Portfolio)",
+    "id": 1257,
+    "startDate": "2022-10-25T00:00:00",
+    "endDate": "2022-11-08T00:00:00",
+    "additionalInfo": "Cabinet Office",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/cabinet-office"
+   },
+   {
+    "house": 1,
+    "name": "Secretary of State for Education",
+    "id": 829,
+    "startDate": "2019-07-24T00:00:00",
+    "endDate": "2021-09-15T00:00:00",
+    "additionalInfo": "Department for Education",
+    "additionalInfoLink": "http://www.education.gov.uk/"
+   },
+   {
+    "house": 1,
+    "name": "Secretary of State for Defence",
+    "id": 691,
+    "startDate": "2017-11-02T00:00:00",
+    "endDate": "2019-05-01T00:00:00",
+    "additionalInfo": "Ministry of Defence",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/ministry-of-defence"
+   },
+   {
+    "house": 1,
+    "name": "Parliamentary Secretary to the Treasury and Chief Whip",
+    "id": 529,
+    "startDate": "2016-07-14T00:00:00",
+    "endDate": "2017-11-02T00:00:00",
+    "additionalInfo": "Whips Office (Commons)",
+    "additionalInfoLink": null
+   }
+  ],
+  "oppositionPosts": [],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Conservative",
+    "id": 4,
+    "startDate": "2010-05-06T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 1,
+    "name": "Northern Ireland Affairs Committee",
+    "id": 120,
+    "startDate": "2010-07-26T00:00:00",
+    "endDate": "2011-11-28T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "National Security Strategy (Joint Committee)",
+    "id": 111,
+    "startDate": "2025-06-30T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Procedure Committee",
+    "id": 126,
+    "startDate": "2025-06-30T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 12,
+   "name": "1. Employment and earnings",
+   "sortOrder": 0,
+   "interests": [
+    {
+     "id": 5017,
+     "interest": "Role, work or services: Adviser\r\nFrom: 21 February 2023.\r\nPayer: RTC Education Ltd (A provider of undergraduate and postgraduate education programmes to UK and international students.), 153 Great Titchfield Street, London W1W 5BD\r\nACOBA consulted: Yes",
+     "createdWhen": "2024-04-20T10:11:13.0264584",
+     "lastAmendedWhen": "2024-04-18T15:20:39.1333333",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": [
+      {
+       "id": 5018,
+       "interest": "Remuneration: £60,000 a year paid quarterly\r\nFrom: 21 February 2023.\r\nHours: 80 hrs a year \r\nAdditional information: I provide general strategic advice on international business expansion and chairing regular advisory board meetings.\r\n(Registered 15 March 2023; updated 12 September 2024)",
+       "createdWhen": "2024-10-02T15:00:57.33",
+       "lastAmendedWhen": "2024-04-18T15:20:39.1333333",
+       "deletedWhen": null,
+       "isCorrection": false,
+       "childInterests": []
+      }
+     ]
+    },
+    {
+     "id": 13571,
+     "interest": "Role, work or services: Consultant\r\nFrom: 15 September 2025.\r\nPayer: Odysight AI, USA Office, 112 North Curry Street, Carson City, Nevada, 897703\r\n(Registered 11 November 2025)",
+     "createdWhen": "2026-02-23T12:41:55.9644634",
+     "lastAmendedWhen": "2025-11-18T10:10:05.49",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": [
+      {
+       "id": 13832,
+       "interest": "Remuneration: £4,000 a month \r\nFrom: 15 September 2025.\r\nHours: 7 hrs a week \r\n(Registered 14 November 2025)",
+       "createdWhen": "2026-02-23T12:42:26.3752457",
+       "lastAmendedWhen": "2025-11-18T10:10:16.8066667",
+       "deletedWhen": null,
+       "isCorrection": false,
+       "childInterests": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "name": "3. Gifts, benefits and hospitality from UK sources",
+   "sortOrder": 1,
+   "interests": [
+    {
+     "id": 3408,
+     "interest": "Name of donor: Carlton Club\r\nAddress of donor: 69 St James's Street, London SW1A 1PJ\r\nAmount of donation or nature and value if donation in kind: Honorary membership for life (value provided is that in 2024), value £760\r\nDate received: 30 September 2016\r\nDate accepted: 30 September 2016\r\nDonor status: company, registration 00573221\r\n(Registered 25 March 2019; updated 24 January 2024)",
+     "createdWhen": "2026-02-23T12:43:24.8819288",
+     "lastAmendedWhen": "2025-01-29T12:00:48.6100239",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "name": "4. Visits outside the UK",
+   "sortOrder": 2,
+   "interests": [
+    {
+     "id": 14821,
+     "interest": "Name of donor: Somaliland Mission\r\nAddress of donor: 43-45 E Smithfield, London E1W 1AP\r\nEstimate of the probable value (or amount of any donation): £1,400 for flights\r\nDestination of visit: United States (Washington)\r\nDates of visit: 24 February 2026 to 28 February 2026\r\nPurpose of visit: To speak at the Hudson Institute\r\n(Registered 23 March 2026)",
+     "createdWhen": "2026-03-24T10:21:44.42",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 17578,
+     "interest": "Name of donor: Somaliland Foreign Ministry\r\nAddress of donor: Shaab area presidency road, 1 Hargeisa\r\nEstimate of the probable value (or amount of any donation): Flights to and from Hargeisa as well as accommodation, value £6,545\r\nDestination of visit: Somalia\r\nDates of visit: 16 May 2026 to 21 May 2026\r\nPurpose of visit: The launch of the Somaliland independent recognition institute, and to participate in the national day celebrations.\r\n(Registered 16 November 2026)",
+     "createdWhen": "2026-11-24T09:40:37.24",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "name": "7. (i) Shareholdings: over 15% of issued share capital",
+   "sortOrder": 3,
+   "interests": [
+    {
+     "id": 2552,
+     "interest": "Name of company or organisation: Gratton Lansdowne\r\nNature of business: A company set up to manage my financial affairs and investments.\r\nInterest held: from 25 October 2021\r\n(Registered 19 November 2021)",
+     "createdWhen": "2024-04-18T15:16:17.8666667",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 11595,
+     "interest": "Name of company or organisation: Ravenscar Group\r\nNature of business: A company set up to manage my financial affairs and investments.\r\nInterest held: from 22 November 2024\r\n(Registered 6 January 2025)",
+     "createdWhen": "2026-02-23T12:44:12.0661026",
+     "lastAmendedWhen": "2025-01-07T12:10:30.29",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 13324,
+     "interest": "Name of company or organisation: Oberons Petroleum Limited\r\nInterest held: from 12 August 2025 until 2 November 2026\r\n(Registered 17 September 2025; updated 16 November 2026)",
+     "createdWhen": "2026-11-24T09:40:37.24",
+     "lastAmendedWhen": "2026-09-23T09:27:58.000571",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "name": "8. Miscellaneous",
+   "sortOrder": 4,
+   "interests": [
+    {
+     "id": 12963,
+     "interest": "Unpaid member of the advisory board of Buenassa SARL.\r\nDate interest arose: 2 July 2025\r\n(Registered 22 July 2025)",
+     "createdWhen": "2026-07-28T08:28:03.2466466",
+     "lastAmendedWhen": "2025-08-05T09:51:22.8233333",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 13146,
+     "interest": "Member of the advisory board for Restore Britain. This is an unpaid role.\r\nDate interest arose: 31 July 2025\r\nDate interest ended: 13 March 2026\r\n(Registered 19 August 2025; updated 10 July 2026)",
+     "createdWhen": "2026-09-01T09:57:55.3826391",
+     "lastAmendedWhen": "2026-07-14T09:29:51.8266667",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 16231,
+     "interest": "Chairman of Somaliland IRI (a not for profit organisation designed to help and assist Somaliland). This is an unpaid role.\r\nDate interest arose: 18 May 2026\r\n(Registered 8 July 2026)",
+     "createdWhen": "2026-07-14T09:29:51.8266667",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [],
+ "synopsis": "The Rt Hon Sir Gavin Williamson is the Conservative MP for <a href='/constituency/4338/overview'>Stone, Great Wyrley and Penkridge</a>, and has been an MP continually since 6 May 2010.",
+ "history": [
+  {
+   "id": 1959553,
+   "uin": "42873",
+   "heading": "Mobile Phones: Infrastructure",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what comparative assessment she has made of the approach taken in (a) other European countries to valuing payments to landowners for hosting mobile network infrastructure and (b) paragra",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1959552,
+   "uin": "42872",
+   "heading": "Telecommunications: Infrastructure",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what assessment her Department has made of (a) the reasons for telecommunications sites ceasing operation and (b) the potential impact of the Electronic Communications Code on site provi",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1959554,
+   "uin": "42874",
+   "heading": "Mobile Phones: Infrastructure",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what estimate she has made of the number of new mobile sites required between now and 2030 to achieve the Government’s 5G Standalone ambitions.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1959551,
+   "uin": "42871",
+   "heading": "Mobile Phones: Staffordshire",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what estimate her Department has made of the (a) change in the number of mobile masts and (b) number of notices to quit served to mobile operators in Staffordshire since 2017.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1958170,
+   "uin": "41732",
+   "heading": "Bricks: Research",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, for what reason the Government has funded research into alternative construction products to clay brick.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1958168,
+   "uin": "41730",
+   "heading": "UK Emissions Trading Scheme: Ceramics",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, if her Department will consider bringing forward exemptions to the UK Emissions Trading Scheme for UK ceramic manufacturers who export to countries with no equivalent carbon taxation schemes.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1958165,
+   "uin": "41727",
+   "heading": "Ceramics: Energy Intensive Industries",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what steps his Department is taking to ensure that industry support under BICS and the electricity supercharger scheme reaches the ceramics sector.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1958182,
+   "uin": "41744",
+   "heading": "Ceramics: Government Assistance",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, On what date the Department expects the first payments under the Ceramics Industry Support Scheme to be made.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1958164,
+   "uin": "41726",
+   "heading": "Ceramics: Statistics",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what plans does his Department have to work with the ONS to improve the accuracy of data on the ceramics industry.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1958179,
+   "uin": "41741",
+   "heading": "Ceramics: Energy Intensive Industries",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, What assessment the Department has made of the effect on household ceramics manufacturers (SIC 23.41) that electrify their kilns of their exclusion from the British Industrial Comp",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1958183,
+   "uin": "41745",
+   "heading": "Ceramics: Government Assistance",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, On what date the Department will publish the eligibility criteria and application guidance for the Ceramics Industry Support Scheme, and on what date applications will open.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1958181,
+   "uin": "41743",
+   "heading": "Ceramics: Energy Intensive Industries",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, Whether the £60 million for operating costs under the Ceramics Industry Support Scheme can be used to meet the higher energy costs that manufacturers incur when they replace gas-fi",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1958180,
+   "uin": "41742",
+   "heading": "Ceramics: Government Assistance",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, Whether capital projects under the Ceramics Industry Support Scheme that depend on a grid connection upgrade will remain eligible where the network operator's connection date falls",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1955566,
+   "uin": "39995",
+   "heading": "High Speed 2 Line: Staffordshire",
+   "questionText": "To ask the Secretary of State for Transport, what discussions her Department has had with HS2 Ltd on the potential merits of taking preventative action on surface water from land owned by HS2 Ltd flooding the highway in the Ingestre and Tixall area during",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1954310,
+   "uin": "38921",
+   "heading": "Bridges: Staffordshire",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, if she will ask the Canal and River Trust to publish a full repair programme for Brewood Bridge, including (a) the start date for works, and (b) the expected reopening date.",
+   "dateTabled": "2026-10-28T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1952818,
+   "uin": "37746",
+   "heading": "Railways: West Midlands",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what assessment her Department has made of the potential impact of the grant of separate planning permission under the Town and Planning Act 1990 for development functionally ass",
+   "dateTabled": "2026-10-23T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1922223,
+   "uin": "14325",
+   "heading": "Offences against Children: Prisoners' Release",
+   "questionText": "To ask the Secretary of State for Justice, how many victims of the rapists and child groomers released early under the scheme were notified in advance through the Victim Contact Scheme in the constituency of Stone, Great Wyrley and Penkridge.",
+   "dateTabled": "2026-06-30T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1922224,
+   "uin": "14326",
+   "heading": "Sexual Offences: Prisoners' Release",
+   "questionText": "To ask the Secretary of State for Justice, which offences under the Sexual Offences Act 2003 are excluded from eligibility for the early release scheme.",
+   "dateTabled": "2026-06-30T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1922222,
+   "uin": "14324",
+   "heading": "Offences against Children: Prisoners' Release",
+   "questionText": "To ask the Secretary of State for Justice, what estimate he has made of the number of people convicted of (a) rape and (b) sexual offences involving children that will be released under the early release scheme in the next five years in Stone, Great Wyrle",
+   "dateTabled": "2026-06-30T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1920806,
+   "uin": "13487",
+   "heading": "Maternity Services: Standards",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference to his Oral Statement of 24 June 2026 on Nottingham Maternity and Neonatal Services, Official Report, column 346, if he will make it his policy to set a target response time for NHS ",
+   "dateTabled": "2026-06-26T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1920805,
+   "uin": "13486",
+   "heading": "Maternity Services: Standards",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference to his Oral Statement of 24 June 2026 on Nottingham Maternity and Neonatal Services, Official Report, column 346, whether the extension of Martha’s Rule to maternity services will be",
+   "dateTabled": "2026-06-26T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1920804,
+   "uin": "13485",
+   "heading": "Maternity Services: Standards",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference to his Oral Statement of 24 June 2026 on Nottingham Maternity and Neonatal Services, Official Report, column 346, whether second opinions requested under Martha’s Rule in maternity s",
+   "dateTabled": "2026-06-26T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1920395,
+   "uin": "13126",
+   "heading": "Freeview Service",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what estimate her Department has made of the cost to households on fixed incomes of switching from Freeview to broadband television.",
+   "dateTabled": "2026-06-25T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1920394,
+   "uin": "13125",
+   "heading": "Freeview Service",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what assessment her Department has made of the potential impact of ending licenses for digital terrestrial television in 2034 on people who rely on Freeview as their primary means of accessing te",
+   "dateTabled": "2026-06-25T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1920392,
+   "uin": "13124",
+   "heading": "Freeview Service",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, whether he plans to extend the Freeview contract beyond 2034.",
+   "dateTabled": "2026-06-25T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1905377,
+   "uin": "1126",
+   "heading": "Perinatal Mortality: Coroners",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference to correspondence from the Chair of the Maternity and Neonatal Investigation confirming that the Investigation is not limited to 37 weeks’ gestation and considers stillbirth from 24 ",
+   "dateTabled": "2026-05-14T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1905532,
+   "uin": "1197",
+   "heading": "Police and Crime Commissioners",
+   "questionText": "To ask the Secretary of State for the Home Department, what independent oversight arrangements exist to scrutinise complaints of misconduct against Police and Crime Commissioners; and how many such complaints have been investigated in each of the last thr",
+   "dateTabled": "2026-05-14T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1905531,
+   "uin": "1196",
+   "heading": "Police and Crime Commissioners",
+   "questionText": "To ask the Secretary of State for the Home Department, whether she has made an assessment of the effectiveness of accountability frameworks for Police and Crime Commissioners; and whether she plans to reform those frameworks to help prevent institutional ",
+   "dateTabled": "2026-05-14T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1905530,
+   "uin": "1195",
+   "heading": "Police and Crime Commissioners",
+   "questionText": "To ask the Secretary of State for the Home Department, what steps she is taking to improve transparency requirements for Police and Crime Commissioners, particularly regarding the handling of complaints and potential conflicts of interest.",
+   "dateTabled": "2026-05-14T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1896672,
+   "uin": "124582",
+   "heading": "Farms: Tenancy Agreements",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, if she will make an assessment of the potential merits of increasing the length of short term Farm Business Tenancies beyond two years.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1896620,
+   "uin": "124581",
+   "heading": "Bovine Tuberculosis: Vaccination",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps she is taking to accelerate the process of TB vaccinations for cows.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1899289,
+   "uin": "908661",
+   "heading": "Health Services: Asylum",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what estimate his Department has made of the cost to the NHS of providing healthcare to asylum seekers.",
+   "dateTabled": "2026-03-26T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1890199,
+   "uin": "119864",
+   "heading": "Jobcentres: Closures",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what criteria will be taken into consideration in decisions on job centre closures.",
+   "dateTabled": "2026-03-11T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1892574,
+   "uin": "121723",
+   "heading": "Coroners: Perinatal Mortality",
+   "questionText": "To ask the Secretary of State for Justice, whether responsibility for reporting to Parliament on coronial investigations of stillbirths following the 2019 consultation rests with his Department.",
+   "dateTabled": "2026-03-18T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1892573,
+   "uin": "121722",
+   "heading": "Coroners: Perinatal Mortality",
+   "questionText": "To ask the Secretary of State for Justice, what information his Department holds on whether the Maternity and Neonatal Investigation commissioned by the Department of Health and Social Care will report to Parliament on coronial investigations of stillbirt",
+   "dateTabled": "2026-03-18T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1892572,
+   "uin": "121721",
+   "heading": "Coroners: Perinatal Mortality",
+   "questionText": "To ask the Secretary of State for Justice, whether his Department plans to limit consideration of coronial investigations to stillbirths occurring at 37 weeks' gestation or later; and on what statutory basis gestational thresholds may be applied.",
+   "dateTabled": "2026-03-18T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1892571,
+   "uin": "121720",
+   "heading": "Coroners: Perinatal Mortality",
+   "questionText": "To ask the Secretary of State for Justice, what assessment the Department has made of the potential impact of the delay in reporting on coronial investigations of stillbirths following the 2019 consultation on bereaved families.",
+   "dateTabled": "2026-03-18T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1890202,
+   "uin": "119866",
+   "heading": "Employment Schemes",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what assessment she has made of the effectiveness of different types of support in helping the unemployed into work.",
+   "dateTabled": "2026-03-11T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1890201,
+   "uin": "119865",
+   "heading": "Unemployment: Young People",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what assessments she has made of the effectiveness of job centre staff in helping NEETs into work or training.",
+   "dateTabled": "2026-03-11T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1890198,
+   "uin": "119863",
+   "heading": "Jobcentres",
+   "questionText": "To ask the Secretary of State for Work and Pensions, whether he plans to reduce the number of job centres.",
+   "dateTabled": "2026-03-11T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1887934,
+   "uin": "118173",
+   "heading": "Coroners: Perinatal Mortality",
+   "questionText": "To ask the Secretary of State for Justice, when he plans to publish a report under section 4 of the Civil Partnerships, Marriages and Deaths (Registration etc) Act 2019 on whether, and if so how, the law ought to be changed to enable or require coroners t",
+   "dateTabled": "2026-03-05T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1876796,
+   "uin": "109535",
+   "heading": "Snooker: Business Rates",
+   "questionText": "To ask the Chancellor of the Exchequer, what the total business rate support package available to snooker and clubs is in (a) 2026, (b) 2027 and (c) 2028.",
+   "dateTabled": "2026-01-29T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1876798,
+   "uin": "109536",
+   "heading": "Snooker: Business Rates",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment has been made by the Valuation Office Agency of the footprint for snooker clubs and venues to accommodate snooker tables in calculating the 2026 business rates revaluation.",
+   "dateTabled": "2026-01-29T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1864209,
+   "uin": "99784",
+   "heading": "Snooker: Business Rates",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of the impact of the increase in rateable values on snooker clubs and venues.",
+   "dateTabled": "2025-12-15T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1864210,
+   "uin": "99785",
+   "heading": "Snooker",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what support her Department provides to snooker (a) tournaments and (b) clubs and venues.",
+   "dateTabled": "2025-12-15T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1861204,
+   "uin": "97515",
+   "heading": "Genomics: Information Sharing",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what reporting, monitoring, or public disclosure requirements exist regarding the transfer of UK citizens’ genomic data to foreign entities, including approvals, audits, or security ass",
+   "dateTabled": "2025-12-05T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1861205,
+   "uin": "97516",
+   "heading": "Genomics: Information Sharing",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, in cases where genomic data has been found to have been transferred in violation of UK law or national security standards, what steps has the government taken or plans to take to remedi",
+   "dateTabled": "2025-12-05T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1859966,
+   "uin": "96650",
+   "heading": "Varun Chandra",
+   "questionText": "To ask the Minister for the Cabinet Office, whether (a) specific recusals and (b) mitigation measures have been applied to Varun Chandra in relation to any Government (i) decisions, (ii) policies, and (iii) meetings that may intersect with (A) Hakluyt & C",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1859965,
+   "uin": "96649",
+   "heading": "Varun Chandra",
+   "questionText": "To ask the Minister for the Cabinet Office, To ask the Minister for the Cabinet Office, pursuant to the Special Advisers’ Code of Conduct, whether Varun Chandra has declared any financial interests.",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1859967,
+   "uin": "96651",
+   "heading": "Varun Chandra",
+   "questionText": "To ask the Minister for the Cabinet Office, whether Varun Chandra has had (a) meetings, (b) correspondence and (c) formal communications with representatives of former clients of Hakluyt & Company since taking up his role as Special Adviser.",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1861203,
+   "uin": "97514",
+   "heading": "Genomics: Information Sharing",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what mechanisms are in place to ensure that UK institutions and companies comply with the GDPR, the Data Protection Act 2018, and other relevant national security requirements when shar",
+   "dateTabled": "2025-12-05T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1861202,
+   "uin": "97513",
+   "heading": "Genomics: Foreign Companies",
+   "questionText": "To ask the Secretary of State for Business and Trade, how does the government assess the risks to UK citizens’ personal data and national security when collaborating with foreign genomics companies, especially in countries with restrictive or divergent da",
+   "dateTabled": "2025-12-05T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1859972,
+   "uin": "96655",
+   "heading": "Genomics: Information Sharing",
+   "questionText": "To ask the Minister for the Cabinet Office, what formal guidance, policies and risk assessments he has issued to research institutions, NHS bodies and private genomics companies on the sharing of genomic data with foreign entities.",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1861201,
+   "uin": "97512",
+   "heading": "Genomics: Information Sharing",
+   "questionText": "To ask the Minister for the Cabinet Office, what formal guidance, policies, or risk assessments has the UK government issued to UK research institutions, NHS bodies, and private genomics companies regarding the sharing of genomic data with foreign entitie",
+   "dateTabled": "2025-12-05T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1861200,
+   "uin": "97511",
+   "heading": "National Security: Procurement",
+   "questionText": "To ask the Minister for the Cabinet Office, what criteria does the Government use to determine whether a company constitutes a threat to national security and is thus placed under investigation by the Procurement Act 2023.",
+   "dateTabled": "2025-12-05T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1859970,
+   "uin": "96654",
+   "heading": "Contracts: National Security",
+   "questionText": "To ask the Minister for the Cabinet Office, what criteria he uses to determine whether companies (a) constitute a threat to national security and (b) are placed under investigation under the Procurement Act 2023.",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1859969,
+   "uin": "96653",
+   "heading": "Contracts: China",
+   "questionText": "To ask the Minister for the Cabinet Office, whether any Chinese companies have been debarred under the Procurement Act 2023.",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1859968,
+   "uin": "96652",
+   "heading": "Contracts: China",
+   "questionText": "To ask the Minister for the Cabinet Office, whether any Chinese companies are under investigation under the Procurement Act 2023.",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1958172,
+   "uin": "41734",
+   "heading": "Materials: Manufacturing Industries",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, how many times her Department has met in the last twelve months with (1) The Building Alliance, (2) The Brick Development Associations and (3) Ceramics UK .",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  }
+ ],
+ "historyComplete": true
+}

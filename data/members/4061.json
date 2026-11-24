@@ -1,0 +1,420 @@
+{
+ "id": 4061,
+ "fetchedOn": "2026-11-23",
+ "core": {
+  "id": 4061,
+  "nameListAs": "Esterson, Bill",
+  "nameDisplayAs": "Bill Esterson",
+  "nameFullTitle": "Bill Esterson MP",
+  "nameAddressAs": "Bill Esterson",
+  "latestParty": {
+   "id": 15,
+   "name": "Labour",
+   "abbreviation": "Lab",
+   "backgroundColour": "d50000",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": true,
+   "governmentType": 0,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "Sefton Central",
+   "membershipFromId": 4278,
+   "house": 1,
+   "membershipStartDate": "2010-05-06T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2024-07-04T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/4061/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2024-05-31T00:00:00",
+    "constituencyEnd": null,
+    "house": 1,
+    "name": "Sefton Central",
+    "id": 4278,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "2010-04-13T00:00:00",
+    "constituencyEnd": "2024-05-30T00:00:00",
+    "house": 1,
+    "name": "Sefton Central",
+    "id": 3719,
+    "startDate": "2010-05-06T00:00:00",
+    "endDate": "2024-05-30T00:00:00",
+    "additionalInfo": "Elected 4 times",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [],
+  "houseMemberships": [
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "2010-05-06T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Bill Esterson",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [],
+  "oppositionPosts": [
+   {
+    "house": 1,
+    "name": "Shadow Minister (Transport)",
+    "id": 971,
+    "startDate": "2023-09-05T00:00:00",
+    "endDate": "2024-05-30T00:00:00",
+    "additionalInfo": "Department for Transport",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-transport"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Minister (Business and Industrial Strategy)",
+    "id": 1620,
+    "startDate": "2021-12-04T00:00:00",
+    "endDate": "2023-09-05T00:00:00",
+    "additionalInfo": "Department for Business, Energy and Industrial Strategy",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Minister (International Trade)",
+    "id": 1345,
+    "startDate": "2016-10-18T00:00:00",
+    "endDate": "2021-12-04T00:00:00",
+    "additionalInfo": "Department for Business and Trade",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-business-and-trade"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Minister (Business, Energy and Industrial Strategy)",
+    "id": 1336,
+    "startDate": "2016-07-01T00:00:00",
+    "endDate": "2020-04-10T00:00:00",
+    "additionalInfo": "Department for Business and Trade",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-business-and-trade"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Minister (Business, Innovation and Skills)",
+    "id": 15,
+    "startDate": "2015-09-18T00:00:00",
+    "endDate": "2016-06-30T00:00:00",
+    "additionalInfo": "Department for Business, Innovation and Skills",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-business-innovation-skills"
+   }
+  ],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Labour",
+    "id": 15,
+    "startDate": "2010-05-06T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 1,
+    "name": "Environment, Food and Rural Affairs Committee",
+    "id": 52,
+    "startDate": "2010-07-12T00:00:00",
+    "endDate": "2011-06-27T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Education Committee",
+    "id": 203,
+    "startDate": "2010-11-02T00:00:00",
+    "endDate": "2015-03-30T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Draft House of Lords Reform Bill (Joint Committee)",
+    "id": 248,
+    "startDate": "2011-06-23T00:00:00",
+    "endDate": "2012-03-26T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Housing, Communities and Local Government Committee",
+    "id": 17,
+    "startDate": "2011-11-07T00:00:00",
+    "endDate": "2013-02-25T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Treasury Committee",
+    "id": 158,
+    "startDate": "2015-07-08T00:00:00",
+    "endDate": "2015-10-26T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Subsidy Control Bill",
+    "id": 546,
+    "startDate": "2021-10-20T00:00:00",
+    "endDate": "2021-11-18T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Professional Qualifications Bill [HL]",
+    "id": 571,
+    "startDate": "2022-01-12T00:00:00",
+    "endDate": "2022-01-18T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Trade (Australia and New Zealand) Bill",
+    "id": 611,
+    "startDate": "2022-09-07T00:00:00",
+    "endDate": "2022-10-18T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Automated Vehicles Bill [HL]",
+    "id": 714,
+    "startDate": "2024-03-13T00:00:00",
+    "endDate": "2024-03-19T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Energy Security and Net Zero Committee",
+    "id": 664,
+    "startDate": "2024-09-11T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Chair",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "National Security Strategy (Joint Committee)",
+    "id": 111,
+    "startDate": "2024-12-02T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Liaison Committee (Commons)",
+    "id": 103,
+    "startDate": "2024-12-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 4,
+   "name": "3. Gifts, benefits and hospitality from UK sources",
+   "sortOrder": 0,
+   "interests": [
+    {
+     "id": 15204,
+     "interest": "Name of donor: The Jockey Club\r\nAddress of donor: 75 High Holborn, London WC1V 6LS\r\nAmount of donation or nature and value if donation in kind: Two tickets with hospitality at Aintree Racecourse, (estimated value), value £2,000\r\nDate received: 11 April 2026\r\nDate accepted: 11 April 2026\r\nDonor status: unincorporated association\r\n(Registered 11 May 2026)",
+     "createdWhen": "2026-05-19T09:45:15.27",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "name": "4. Visits outside the UK",
+   "sortOrder": 1,
+   "interests": [
+    {
+     "id": 13861,
+     "interest": "Name of donor: Parliamentary Renewable & Sustainable Energy Group (PRASEG)\r\nAddress of donor: PRASEG, 10 Dean Farrar Street, London SW1H 0DX\r\nEstimate of the probable value (or amount of any donation): Accommodation, return flights, subsistence, ground transport, value £1,185\r\nDestination of visit: Denmark (Copenhagen)\r\nDates of visit: 22 October 2025 to 24 October 2025\r\nPurpose of visit: APPG visit to high-level meetings and site visits in Copenhagen cross-channel cooperation for decarbonising heat and energy.\r\n(Registered 13 November 2025)",
+     "createdWhen": "2025-11-18T10:10:05.49",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 13919,
+     "interest": "Name of donor: Nuclear Industry Association\r\nAddress of donor: 4th Floor, York House, 23 Kingsway, London WC2B 6UJ\r\nEstimate of the probable value (or amount of any donation): Return flights to Helsinki, hotel accommodation, transport and meals, value £882.55\r\nDestination of visit: Finland\r\nDates of visit: 26 October 2025 to 28 October 2025\r\nPurpose of visit: To visit the Olkiluoto 3 Nuclear Power Plant, Onkalo Geological Disposal Facility and Radiation and Nuclear Safety Authority (STUK)\r\n(Registered 18 November 2025)",
+     "createdWhen": "2025-12-19T12:24:29.2754931",
+     "lastAmendedWhen": "2025-12-02T09:18:14.72",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 15478,
+     "interest": "Name of donor: Great Britain-China Centre\r\nAddress of donor: Kings Building, 16 Smith Square, London SW1P 3HQ\r\nEstimate of the probable value (or amount of any donation): hotels, flights, food and ground transport, value £4,895\r\nDestination of visit: China\r\nDates of visit: 24 May 2026 to 29 May 2026\r\nPurpose of visit: Part of the Great Britain-China Centre delegation.\r\n(Registered 17 June 2026)",
+     "createdWhen": "2026-06-30T09:44:15.2233333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 17183,
+     "interest": "Name of donor: UK Friends of Ukraine\r\nAddress of donor: C/O O'Meara Fitzmaurice & Co, Brimstage Hall, Brimstage Road, Wirral CH63 6JA\r\nEstimate of the probable value (or amount of any donation): Travel, accommodation and meals (estimated cost), value £800\r\nDestination of visit: Ukraine and Poland\r\nDates of visit: 10 September 2026 to 16 September 2026\r\nPurpose of visit: Attending Yalta European Strategy Conference.\r\n(Registered 11 October 2026)",
+     "createdWhen": "2026-10-13T09:27:33.89",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 17306,
+     "interest": "Name of donor: Mina Travel Ltd\r\nAddress of donor: 2 Parkway, Bramhall SK7 3DH\r\nEstimate of the probable value (or amount of any donation): Travel and accommodation, value £4,080\r\nDestination of visit: India\r\nDates of visit: 2 October 2026 to 9 October 2026\r\nPurpose of visit: Meetings with businesses, academics and government officials and visits to industrial sites.\r\n(Registered 21 October 2026)",
+     "createdWhen": "2026-10-27T13:54:32.9766667",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "name": "7. (i) Shareholdings: over 15% of issued share capital",
+   "sortOrder": 2,
+   "interests": [
+    {
+     "id": 2469,
+     "interest": "Name of company or organisation: Bill Esterson Campaigns Ltd\r\nInterest held: from 26 September 2016\r\nAdditional information: I am the director and sole shareholder.\r\n(Registered 14 October 2016)",
+     "createdWhen": "2024-04-18T15:16:31.96",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [
+  {
+   "category": "Political Interests",
+   "focus": [
+    "Children's service"
+   ]
+  }
+ ],
+ "synopsis": "Bill Esterson is the Labour MP for <a href='/constituency/4278/overview'>Sefton Central</a>, and has been an MP continually since 6 May 2010.",
+ "history": [
+  {
+   "id": 1959956,
+   "uin": "43221",
+   "heading": "Civil Servants: Workplace Pensions",
+   "questionText": "To ask the Minister for the Cabinet Office, whether she has made an assessment of the potential impact of delays in the administration of Civil Service pensions by Capita on decisions by civil servants to postpone retirement or delay engaging with the pen",
+   "dateTabled": "2026-11-13T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1952873,
+   "uin": "901738",
+   "heading": "Climate Change: National Security",
+   "questionText": "What assessment he has made of the potential impact of international action on climate change on the UK's national security.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1939052,
+   "uin": "901230",
+   "heading": "Offshore Industry: Taxation",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment he has made of the potential impact of changes to taxation on oil and gas production in the North Sea.",
+   "dateTabled": "2026-09-02T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1919671,
+   "uin": "12659",
+   "heading": "ME/CFS: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference to the action in the ME/CFS Final Delivery Plan to explore whether a specialised service should be prescribed for people with very severe ME/CFS, whether his Department has made an a",
+   "dateTabled": "2026-06-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1919082,
+   "uin": "12091",
+   "heading": "Parking Offences: Sefton",
+   "questionText": "To ask the Secretary of State for Transport, with reference to the report entitled BCP Council: Increased Penalty Charge Notice and Associated Charges Trial, published in February 2026, whether her Department will be extending the trials of increased Pena",
+   "dateTabled": "2026-06-23T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1915893,
+   "uin": "9554",
+   "heading": "Tax Avoidance",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of whether people who previously settled Loan Charge liabilities with HMRC will be offered equivalent terms to those available under the new settlement opportunity following the McCann R",
+   "dateTabled": "2026-06-15T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1915891,
+   "uin": "9553",
+   "heading": "Tax Avoidance",
+   "questionText": "To ask the Chancellor of the Exchequer, what estimates she has made of the number of how many taxpayers with outstanding Loan Charge liabilities HMRC expects to be eligible for the new settlement opportunity following the McCann Review; and how many have ",
+   "dateTabled": "2026-06-15T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1906223,
+   "uin": "1674",
+   "heading": "Real Estate Investment Trusts: Taxation",
+   "questionText": "To ask the Chancellor of the Exchequer, how much HMRC paid in (a) withheld tax repayments and (b) rebates relating to UK Real Estate Investment Trust distributions to non-UK residents in financial years (i) 2023-24 and (ii) 2024-25; and what compliance an",
+   "dateTabled": "2026-05-15T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1903099,
+   "uin": "129671",
+   "heading": "Submarines: Deployment",
+   "questionText": "To ask the Secretary of State for Defence, what welfare, health and family-support provisions are available to submariners completing exceptionally long patrols.",
+   "dateTabled": "2026-04-24T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  }
+ ],
+ "historyComplete": true
+}

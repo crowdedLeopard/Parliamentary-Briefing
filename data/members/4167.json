@@ -1,0 +1,515 @@
+{
+ "id": 4167,
+ "fetchedOn": "2026-11-23",
+ "core": {
+  "id": 4167,
+  "nameListAs": "Benjamin, B.",
+  "nameDisplayAs": "Baroness Benjamin",
+  "nameFullTitle": "The Baroness Benjamin OM DBE DL",
+  "nameAddressAs": null,
+  "latestParty": {
+   "id": 17,
+   "name": "Liberal Democrat",
+   "abbreviation": "LD",
+   "backgroundColour": "fc7d0b",
+   "foregroundColour": "FFFFFF",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": false,
+   "governmentType": null,
+   "isIndependentParty": false
+  },
+  "gender": "F",
+  "latestHouseMembership": {
+   "membershipFrom": "Life peer",
+   "membershipFromId": 4,
+   "house": 2,
+   "membershipStartDate": "2010-06-26T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2010-06-26T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/4167/Thumbnail"
+ },
+ "bio": {
+  "representations": [],
+  "electionsContested": [],
+  "houseMemberships": [
+   {
+    "house": 2,
+    "name": "Lords",
+    "id": 2,
+    "startDate": "2010-06-26T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Baroness Benjamin",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [],
+  "oppositionPosts": [],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 2,
+    "name": "Liberal Democrat",
+    "id": 17,
+    "startDate": "2010-06-26T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 2,
+    "name": "Communications and Digital Committee",
+    "id": 170,
+    "startDate": "2015-06-08T00:00:00",
+    "endDate": "2019-07-01T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 2,
+    "name": "COVID-19 Committee",
+    "id": 460,
+    "startDate": "2020-06-11T00:00:00",
+    "endDate": "2022-04-28T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 6561,
+     "interest": "Partner, Benjamin Taylor Associates (partnership with husband; manages the member's professional activities, speaking engagements etc; receives all remuneration etc payable to member)",
+     "createdWhen": "2010-07-22T15:23:39",
+     "lastAmendedWhen": "2025-04-05T00:00:00",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1009,
+   "name": "Category 6: Gifts, benefits and hospitality",
+   "sortOrder": 1049,
+   "interests": [
+    {
+     "id": 48002,
+     "interest": "Two tickets received from Ascot Authority to attend Royal Ascot meeting, Ascot Racecourse, 18 June 2026",
+     "createdWhen": "2026-07-27T11:16:39",
+     "lastAmendedWhen": "2026-07-27T11:18:07.163",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1009,
+   "name": "Category 6: Gifts, benefits and hospitality",
+   "sortOrder": 1049,
+   "interests": [
+    {
+     "id": 48003,
+     "interest": "Two tickets received from Marylebone Cricket Club to attend ICC Women’s T20 World Cup Final, Lord's Cricket Ground, London, 5 July 2026",
+     "createdWhen": "2026-07-27T11:18:08",
+     "lastAmendedWhen": "2026-07-27T11:19:58.96",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [
+  {
+   "category": "Concerns: Policy Interests",
+   "focus": [
+    "Communities and families",
+    "Crime, civil law, justice and rights",
+    "Culture, media and sport",
+    "Education",
+    "Employment and training"
+   ]
+  },
+  {
+   "category": "Concerns: UK Areas",
+   "focus": [
+    "Birmingham",
+    "London",
+    "South West"
+   ]
+  },
+  {
+   "category": "Concerns: World Areas",
+   "focus": [
+    "Caribbean"
+   ]
+  }
+ ],
+ "synopsis": "Baroness Benjamin's full title is The Baroness Benjamin OM DBE DL. Her name is Floella Karen Yunies Benjamin, and she is a current member of the House of Lords.",
+ "history": [
+  {
+   "id": 1952833,
+   "uin": "HL4493",
+   "heading": "NHS: Data Protection",
+   "questionText": "To ask His Majesty's Government what legal obligations apply to AI developers which are not NHS suppliers to report unauthorised access by their systems to NHS data, and within what timeframe.",
+   "dateTabled": "2026-10-23T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1952834,
+   "uin": "HL4492",
+   "heading": "Mental Health Services: Artificial Intelligence",
+   "questionText": "To ask His Majesty's Government what steps they are taking to ensure that digital and AI-enabled mental health support for children and young people complements, rather than replaces, human support.",
+   "dateTabled": "2026-10-23T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1952835,
+   "uin": "HL4491",
+   "heading": "Artificial Intelligence: Children and Young People",
+   "questionText": "To ask His Majesty's Government what assessment they have made of whether existing regulatory and safeguarding frameworks provide sufficient protection for children and young people using AI-enabled mental health tools.",
+   "dateTabled": "2026-10-23T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1952836,
+   "uin": "HL4490",
+   "heading": "Mental Health Services: Artificial Intelligence",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the use of AI-enabled tools by children and young people seeking mental health support.",
+   "dateTabled": "2026-10-23T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1952832,
+   "uin": "HL4494",
+   "heading": "NHS: Cybersecurity",
+   "questionText": "To ask His Majesty's Government what plans they have to commission an assessment of the vulnerability of NHS systems to unauthorised access by autonomous AI agents.",
+   "dateTabled": "2026-10-23T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1952831,
+   "uin": "HL4495",
+   "heading": "NHS: Data Protection",
+   "questionText": "To ask His Majesty's Government what measures are in place to ensure that NHS data, including children's heath records, are held and processed under UK control.",
+   "dateTabled": "2026-10-23T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1943623,
+   "uin": "HL3520",
+   "heading": "Caribbean: Hurricanes and Tornadoes",
+   "questionText": "To ask His Majesty's Government what support they have offered to Commonwealth countries in the Caribbean to strengthen resilience during the current hurricane season, and what is the nature and value of that support for each country.",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1943617,
+   "uin": "HL3522",
+   "heading": "Saint Lucia",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the impact of the requirement for Saint Lucian nationals to obtain a visa to visit the UK on the bilateral relationship between Saint Lucia and the UK.",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1943621,
+   "uin": "HL3521",
+   "heading": "Visas: Overseas Students",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the impact of changes to the ability of those on student visas to bring dependants to the UK on the ability of those in the Caribbean to access higher education in the UK.",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1927967,
+   "uin": "HL2049",
+   "heading": "Universities: Finance",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the financial sustainability of universities; and what measures they intend to take to ensure that institutions can maintain teaching and research excellence without reducing academic provi",
+   "dateTabled": "2026-07-14T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1927969,
+   "uin": "HL2048",
+   "heading": "Universities: Finance",
+   "questionText": "To ask His Majesty's Government what steps they are taking to improve the long-term financial sustainability of universities, particularly in the light of rising operating costs, the declining real-terms value of tuition fees, and changes in international",
+   "dateTabled": "2026-07-14T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1927330,
+   "uin": "HL1964",
+   "heading": "Children in Care: Safety",
+   "questionText": "To ask His Majesty's Government what steps they are taking to ensure girls in care who have been moved far from their home communities receive consistent and regular oversight and support from social work professionals.",
+   "dateTabled": "2026-07-13T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1927334,
+   "uin": "HL1963",
+   "heading": "Children in Care: Safety",
+   "questionText": "To ask His Majesty's Government what steps they are taking to prevent children in care from being moved to areas that do not reflect their cultural, racial, linguistic, or religious identity or community.",
+   "dateTabled": "2026-07-13T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1927338,
+   "uin": "HL1962",
+   "heading": "Children in Care: Safety",
+   "questionText": "To ask His Majesty's Government what steps they are taking to reduce the number of girls in care moved far from their communities in circumstances where it is not in their best interests.",
+   "dateTabled": "2026-07-13T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1927345,
+   "uin": "HL1961",
+   "heading": "Children in Care: Relationships and Sex Education",
+   "questionText": "To ask His Majesty's Government what steps they are taking to ensure that children in care are supported to develop the skills, confidence, and security to develop and maintain healthy relationships.",
+   "dateTabled": "2026-07-13T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1927347,
+   "uin": "HL1960",
+   "heading": "Children in Care: Safety",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the report by Become, Gone Too Far: How being moved far away puts care-experienced girls at risk, published in July 2026; and what assessment they have made of the risks posed by distant pl",
+   "dateTabled": "2026-07-13T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1927353,
+   "uin": "HL1959",
+   "heading": "Children in Care: Safety",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the relationship between out-of-area placements for girls in care and the risk of exploitation, sexual abuse, or other forms of violence against women and girls.",
+   "dateTabled": "2026-07-13T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1926428,
+   "uin": "HL1872",
+   "heading": "Artificial Intelligence: Intimate Image Abuse",
+   "questionText": "To ask His Majesty's Government what steps they are taking to prevent AI-generated sexual images of children being used to blackmail people.",
+   "dateTabled": "2026-07-09T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1926429,
+   "uin": "HL1871",
+   "heading": "Artificial Intelligence: Intimate Image Abuse",
+   "questionText": "To ask His Majesty's Government what steps they are taking to prevent AI-generated images that sexualise children being created based on images posted on social media by parents or family members.",
+   "dateTabled": "2026-07-09T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1921502,
+   "uin": "HL1374",
+   "heading": "Internet: Children",
+   "questionText": "To ask His Majesty's Government whether their forthcoming measures on persuasive design will address features such as communication streaks and network expansion prompts that may encourage children to begin or continue contact with unknown or abusive user",
+   "dateTabled": "2026-06-29T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1921501,
+   "uin": "HL1375",
+   "heading": "Internet: Children",
+   "questionText": "To ask His Majesty's Government, further to the remarks by the Secretary of State for Science, Innovation and Technology on 15 June (HC Deb 592), whether they plan to take steps to prevent AI chatbots providing inadequate safeguarding advice and misleadin",
+   "dateTabled": "2026-06-29T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1920653,
+   "uin": "HL1314",
+   "heading": "House of Lords: Cleaning Services",
+   "questionText": "To ask The Senior Deputy Speaker why the House of Lords decided to outsource the provision of cleaning services; and what discussions have been had with the contractors who now provide these services over the numbers of cleaners made redundant since the s",
+   "dateTabled": "2026-06-25T00:00:00",
+   "answeringBodyName": "The Senior Deputy Speaker"
+  },
+  {
+   "id": 1916435,
+   "uin": "HL916",
+   "heading": "Mobile Phones: Children",
+   "questionText": "To ask His Majesty's Government, following their decision to mandate on-device nudity safeguards, what steps they intend to take to ensure that the public is aware that the relevant technology does not collect, transfer, or store user data.",
+   "dateTabled": "2026-06-15T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1916429,
+   "uin": "HL920",
+   "heading": "Mobile Phones: Children",
+   "questionText": "To ask His Majesty's Government, following their decision to mandate on-device nudity safeguards, what consideration they have given to requiring the use of the same technology to deploy real-time age estimation so that when an adult’s phone is picked up ",
+   "dateTabled": "2026-06-15T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1916428,
+   "uin": "HL921",
+   "heading": "Mobile Phones: Children",
+   "questionText": "To ask His Majesty's Government, following their decision to mandate on-device nudity safeguards, what consideration they have given to requiring the use of the same technology to identify and block (1) hate speech, racism and other text-based harms, and ",
+   "dateTabled": "2026-06-15T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1916431,
+   "uin": "HL919",
+   "heading": "Mobile Phones: Children",
+   "questionText": "To ask His Majesty's Government, following their decision to mandate on-device nudity safeguards, what consideration they have given to requiring the use of the same technology to deploy universal screen time limits on every device used by a child.",
+   "dateTabled": "2026-06-15T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1916432,
+   "uin": "HL918",
+   "heading": "Mobile Phones: Children",
+   "questionText": "To ask His Majesty's Government, following their decision to mandate on-device nudity safeguards, what consideration they have given to requiring the use of the same technology to temporarily disable the camera and certain applications on students’ mobile",
+   "dateTabled": "2026-06-15T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1916434,
+   "uin": "HL917",
+   "heading": "Social Media: Children",
+   "questionText": "To ask His Majesty's Government, following their decision to mandate on-device nudity safeguards, what consideration they have given to requiring the use of the same technology to prevent children from (1) accessing proscribed social media sites, and (2) ",
+   "dateTabled": "2026-06-15T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1891727,
+   "uin": "HL15569",
+   "heading": "Windrush Lessons Learned Review",
+   "questionText": "To ask His Majesty's Government when they expect to implement the recommendations made by the independent review by Wendy Williams, Windrush Lessons Learned Review, in full.",
+   "dateTabled": "2026-03-16T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1891728,
+   "uin": "HL15568",
+   "heading": "Windrush Lessons Learned Review",
+   "questionText": "To ask His Majesty's Government to what extent they have implemented the recommendations made by the independent review by Wendy Williams, Windrush Lessons Learned Review, published in March 2020; and whether they plan to provide an update on implementati",
+   "dateTabled": "2026-03-16T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1891731,
+   "uin": "HL15565",
+   "heading": "Windrush Generation: Public Inquiries",
+   "questionText": "To ask His Majesty's Government, following the report by Birthmark of Africa, The Windrush Justice Inquiry Report, Towards Justice: Truth, Accountability, and Repair, published in June 2025, which found that the current readdress scheme fails to meet inte",
+   "dateTabled": "2026-03-16T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1891726,
+   "uin": "HL15570",
+   "heading": "Windrush Compensation Scheme",
+   "questionText": "To ask His Majesty's Government whether they plan to replace the Windrush Compensation Scheme's mechanism for escalating complaints with a direct and independent right of appeal for Windrush claimants.",
+   "dateTabled": "2026-03-16T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1891729,
+   "uin": "HL15567",
+   "heading": "Windrush Generation: Mental Health Services",
+   "questionText": "To ask His Majesty's Government what steps they are taking to ensure that Windrush survivors have access to targeted mental health support and holistic public services to address harms suffered.",
+   "dateTabled": "2026-03-16T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1891730,
+   "uin": "HL15566",
+   "heading": "Windrush Compensation Scheme",
+   "questionText": "To ask His Majesty's Government whether they will provide free and independent legal representation to claimants of the Windrush Compensation Scheme.",
+   "dateTabled": "2026-03-16T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1885645,
+   "uin": "HL14918",
+   "heading": "Film and Television: Mental Health",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the impact on the UK's creative economy of findings in the Film and TV Charity's report Looking Glass Survey 2024, published on 3 February 2025, that 73 per cent of workers in the screen pr",
+   "dateTabled": "2026-02-26T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1885646,
+   "uin": "HL14917",
+   "heading": "Film and Television: Mental Health",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the findings in the Film and TV Charity's report Looking Glass Survey 2024, published on 3 February 2025, that instability of employment and high-pressure working conditions in the screen p",
+   "dateTabled": "2026-02-26T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1885652,
+   "uin": "HL14915",
+   "heading": "Film and Television: Mental Health",
+   "questionText": "To ask His Majesty's Government what steps they are taking to encourage the adoption of the Principles for Mentally Healthy Productions, launched by the Film and TV Charity on 25 February, across publicly funded broadcasters, studios and production compan",
+   "dateTabled": "2026-02-26T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1885653,
+   "uin": "HL14914",
+   "heading": "Film and Television: Mental Health",
+   "questionText": "To ask His Majesty's Government what discussions they have had with industry bodies and broadcasters regarding the finding in the Film and TV Charity's report Looking Glass Survey 2024, published on 3 February 2025, that 30 per cent of film and television",
+   "dateTabled": "2026-02-26T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1885654,
+   "uin": "HL14913",
+   "heading": "Film and Television: Mental Health",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the finding in the Film and TV Charity's report Looking Glass Survey 2024, published on 3 February 2025, that 35 per cent of UK film and television workers describe their mental health as p",
+   "dateTabled": "2026-02-26T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1885650,
+   "uin": "HL14916",
+   "heading": "Film and Television: Health and Safety",
+   "questionText": "To ask His Majesty's Government what steps they are taking to ensure that existing obligations under health and safety legislation, including psychological health and safety guidance such as ISO 45003, are consistently applied within film and television p",
+   "dateTabled": "2026-02-26T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1962634,
+   "uin": "HL5629",
+   "heading": "Toys and Games: Artificial Intelligence",
+   "questionText": "To ask His Majesty's Government what guidance they have issued to early years childcare settings on the use of AI-enabled toys with young children.",
+   "dateTabled": "2026-11-20T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1962636,
+   "uin": "HL5628",
+   "heading": "Toys and Games: Artificial Intelligence",
+   "questionText": "To ask His Majesty's Government what evidence they hold that toys with built-in AI chatbots marketed as emotional companions for young children benefit their emotional development; and what steps they intend to take to stop such claims being made without ",
+   "dateTabled": "2026-11-20T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1962637,
+   "uin": "HL5627",
+   "heading": "Toys and Games: Artificial Intelligence",
+   "questionText": "To ask His Majesty's Government whether they intend to use their powers under the Product Regulation and Metrology Act 2025 to prohibit the supply of toys with built-in generative AI chatbots to children under 16 until they have been independently tested ",
+   "dateTabled": "2026-11-20T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  }
+ ],
+ "historyComplete": true
+}

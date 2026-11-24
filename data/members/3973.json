@@ -1,0 +1,1959 @@
+{
+ "id": 3973,
+ "fetchedOn": "2026-11-23",
+ "core": {
+  "id": 3973,
+  "nameListAs": "Morris, Grahame",
+  "nameDisplayAs": "Grahame Morris",
+  "nameFullTitle": "Grahame Morris MP",
+  "nameAddressAs": "Grahame Morris",
+  "latestParty": {
+   "id": 15,
+   "name": "Labour",
+   "abbreviation": "Lab",
+   "backgroundColour": "d50000",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": true,
+   "governmentType": 0,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "Easington",
+   "membershipFromId": 4026,
+   "house": 1,
+   "membershipStartDate": "2010-05-06T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2024-07-04T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/3973/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2024-05-31T00:00:00",
+    "constituencyEnd": null,
+    "house": 1,
+    "name": "Easington",
+    "id": 4026,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "2010-04-13T00:00:00",
+    "constituencyEnd": "2024-05-30T00:00:00",
+    "house": 1,
+    "name": "Easington",
+    "id": 3458,
+    "startDate": "2010-05-06T00:00:00",
+    "endDate": "2024-05-30T00:00:00",
+    "additionalInfo": "Elected 4 times",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [],
+  "houseMemberships": [
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "2010-05-06T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Grahame Morris",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [],
+  "oppositionPosts": [
+   {
+    "house": 1,
+    "name": "Shadow Secretary of State for Communities and Local Government and Shadow Minister for the Constitutional Convention",
+    "id": 1264,
+    "startDate": "2016-06-28T00:00:00",
+    "endDate": "2016-10-07T00:00:00",
+    "additionalInfo": "Department for Communities and Local Government",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government"
+   },
+   {
+    "house": 1,
+    "name": "Opposition Whip (Commons)",
+    "id": 10,
+    "startDate": "2015-09-18T00:00:00",
+    "endDate": "2016-06-28T00:00:00",
+    "additionalInfo": "Whips Office (Commons)",
+    "additionalInfoLink": null
+   }
+  ],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Labour",
+    "id": 15,
+    "startDate": "2010-05-06T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 1,
+    "name": "Health and Social Care Committee",
+    "id": 81,
+    "startDate": "2010-07-12T00:00:00",
+    "endDate": "2015-03-30T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Consolidation, &c., Bills (Joint Committee)",
+    "id": 171,
+    "startDate": "2020-03-09T00:00:00",
+    "endDate": "2020-07-06T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Consolidation, &c., Bills (Joint Committee)",
+    "id": 171,
+    "startDate": "2017-11-06T00:00:00",
+    "endDate": "2019-11-06T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Consolidation, &c., Bills (Joint Committee)",
+    "id": 171,
+    "startDate": "2015-11-09T00:00:00",
+    "endDate": "2017-05-03T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Transport Committee",
+    "id": 153,
+    "startDate": "2020-03-02T00:00:00",
+    "endDate": "2024-05-30T00:01:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Transport Committee",
+    "id": 153,
+    "startDate": "2018-02-05T00:00:00",
+    "endDate": "2019-11-06T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Animal Welfare (Sentience) Bill [HL]",
+    "id": 586,
+    "startDate": "2022-02-09T00:00:00",
+    "endDate": "2022-02-10T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "High Speed Rail (Crewe - Manchester) Bill Select Committee (Commons)",
+    "id": 597,
+    "startDate": "2022-12-13T00:00:00",
+    "endDate": "2024-05-30T00:01:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Seafarers' Wages Bill [HL]",
+    "id": 638,
+    "startDate": "2023-01-11T00:00:00",
+    "endDate": "2023-01-17T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Equipment Theft (Prevention) Bill",
+    "id": 642,
+    "startDate": "2023-01-25T00:00:00",
+    "endDate": "2023-02-01T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Workers (Predictable Terms and Conditions) Bill",
+    "id": 658,
+    "startDate": "2023-03-01T00:00:00",
+    "endDate": "2023-03-08T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Building Societies Act 1986 (Amendment) Bill",
+    "id": 703,
+    "startDate": "2024-01-31T00:00:00",
+    "endDate": "2024-02-07T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Licensing Hours Extensions Bill",
+    "id": 704,
+    "startDate": "2024-02-07T00:00:00",
+    "endDate": "2024-05-30T00:01:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Automated Vehicles Bill [HL]",
+    "id": 714,
+    "startDate": "2024-03-13T00:00:00",
+    "endDate": "2024-03-19T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Secure 16 to 19 Academies Bill",
+    "id": 723,
+    "startDate": "2024-04-24T00:00:00",
+    "endDate": "2024-05-01T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Space Industry (Indemnities) Bill",
+    "id": 726,
+    "startDate": "2024-05-01T00:00:00",
+    "endDate": "2024-05-08T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 9,
+   "name": "8. Miscellaneous",
+   "sortOrder": 0,
+   "interests": [
+    {
+     "id": 1579,
+     "interest": "Trustee (unpaid) of the East Durham Veterans Trust.\r\nDate interest arose: 1 February 2020\r\n(Registered 18 January 2022)",
+     "createdWhen": "2024-04-18T15:14:31.7066667",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [
+  {
+   "category": "Countries of interest",
+   "focus": [
+    "Palestine, China, Cuba, Czech Republic, Slovakia"
+   ]
+  },
+  {
+   "category": "Political Interests",
+   "focus": [
+    "Health, local government, economic regeneration, tackling anti-social behaviour"
+   ]
+  }
+ ],
+ "synopsis": "Grahame Morris is the Labour MP for <a href='/constituency/4026/overview'>Easington</a>, and has been an MP continually since 6 May 2010.",
+ "history": [
+  {
+   "id": 1959837,
+   "uin": "43102",
+   "heading": "Shipping: Minimum Wage",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what recent discussions he has had with ministerial colleagues in the Department for Transport regarding employer deductions from seafarers’ wages for accommodation costs; and when",
+   "dateTabled": "2026-11-13T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1959505,
+   "uin": "42825",
+   "heading": "Civil Service: Pay Settlements",
+   "questionText": "To ask the Minister for the Cabinet Office, what plans does she currently have to reduce the number of pay bargaining units across the Civil Service, and if she will make a statement.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1959506,
+   "uin": "42826",
+   "heading": "Civil Service: Pay Settlements",
+   "questionText": "To ask the Minister for the Cabinet Office, what plans does she currently have to introduce sectoral bargaining in respect of civil service pay and if she will make a statement.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1958908,
+   "uin": "42386",
+   "heading": "Addictions: Medical Treatments",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment has her Department made of the potential role of digitally-enabled addiction treatment.",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1958907,
+   "uin": "42385",
+   "heading": "Alcoholism: Rehabilitation Centres",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment her Department has made of the adequacy of the availability of community-based medically-assisted withdrawal in each local treatment system in England.",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1958906,
+   "uin": "42384",
+   "heading": "Alcoholism: Rehabilitation",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what proportion of people completing medically-assisted alcohol withdrawal in 2024/25 went on to receive structured treatment or recovery support.",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1958905,
+   "uin": "42383",
+   "heading": "Alcoholism: Rehabilitation",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what the (a) median and (b) 90th percentile waiting times were from referral to the start of medically assisted alcohol withdrawal in each region of England in 2024/25.",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1958897,
+   "uin": "42375",
+   "heading": "Alcoholism: Rehabilitation",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many medically-assisted alcohol withdrawals were delivered in England in each of the last three years; and how many of these took place in (a) community, (b) specialist inpatient and (c) acute ",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1945964,
+   "uin": "31992",
+   "heading": "Syringes: Disease Control",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment her Department has made of the potential implications for her policies of the Out of Reach report, published recently by the Hepatitis C Trust, and if she will be responding to its ",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1958432,
+   "uin": "41960",
+   "heading": "Royal Mail: Universal Service Obligation",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, if he will bring forward legislative proposals to remove Royal Mail's entitlement to use wording, branding and imagery associated with the Royal Family if it continues to fail to m",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1958427,
+   "uin": "41955",
+   "heading": "Royal Mail: Universal Service Obligation",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, if he will establish an independent public inquiry into Royal Mail's fulfilment of its Universal Service Obligation.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1958429,
+   "uin": "41957",
+   "heading": "Postal Services: Easington",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what avenues of redress are available to residents of Easington constituency affected by persistent delays in the delivery of letters by Royal Mail.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1951130,
+   "uin": "36527",
+   "heading": "BBC World Service: Finance",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what recent discussions she has held with the Ministerial Colleagues regarding the future funding arrangements for BBC World Service.",
+   "dateTabled": "2026-10-20T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1945163,
+   "uin": "31191",
+   "heading": "Freedom of Information: Crime",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, how many allegations of offences under section 77 of the Freedom of Information Act 2000 were received by the Information Commissioner's Office in each of the last five years; and how ma",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1952223,
+   "uin": "37359",
+   "heading": "Ferries",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the answer of 20 October 2026 to Question 34741, whether any surcharges have been imposed by harbour authorities on any operators of international ferry services under the (a) Seafarers’ Wages (Amen",
+   "dateTabled": "2026-10-22T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1952225,
+   "uin": "37361",
+   "heading": "Ferries",
+   "questionText": "To ask the Secretary of State for Transport, If she will provide an estimate of the number of merchant seafarers working on short sea international ferry services in scope of Section 5 of the Seafarers Wages Act 2023 (as amended).",
+   "dateTabled": "2026-10-22T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1952228,
+   "uin": "37364",
+   "heading": "Shipping: Crew",
+   "questionText": "To ask the Secretary of State for Transport, what recent discussions she has had with the Maritime and Coastguard Agency on (a) enforcement and (b) compliance of the Seafarers Wages Act 2023 (as amended).",
+   "dateTabled": "2026-10-22T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1952230,
+   "uin": "37366",
+   "heading": "Ferries and Passenger Ships: Complaints",
+   "questionText": "To ask the Secretary of State for Transport, how many investigations of passenger complaints against (a) ferry and (b) cruise operators regarding accessibility of services from ports in (i) England, (ii) Wales, (iii) Scotland and (iv) Northern Ireland the",
+   "dateTabled": "2026-10-22T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1952232,
+   "uin": "37368",
+   "heading": "Merchant Shipping: Conditions of Employment",
+   "questionText": "To ask the Secretary of State for Transport, what progress has she made on the implementation of Make Work Pay policies for merchant seafarers regularly working from UK ports; and when he last had discussions with the Secretary of State for (a) Business, ",
+   "dateTabled": "2026-10-22T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1951131,
+   "uin": "36528",
+   "heading": "BBC World Service: Finance",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what recent discussions he has held with Ministerial Colleagues regarding the future funding arrangements for BBC World Service.",
+   "dateTabled": "2026-10-20T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1948954,
+   "uin": "34741",
+   "heading": "Ferries",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the answer of 12 October 2026 to Question 29386 on Ferries, whether surcharges have been imposed on any operators of international ferry services from UK ports on any other routes in scope of the Se",
+   "dateTabled": "2026-10-14T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1945797,
+   "uin": "31991",
+   "heading": "Health Services: Offenders",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether funding for health services in criminal justice settings is ring-fenced; and whether she expects this to change as a result of any proposed NHS reorganisation.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1944597,
+   "uin": "30773",
+   "heading": "Offenders: Health Services",
+   "questionText": "To ask the Secretary of State for Justice, what recent assessment he has made of the potential impact of the Sentencing Act 2026 on the healthcare treatment of offenders who commit minor crimes.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1944613,
+   "uin": "30774",
+   "heading": "Buses: Driving Instruction",
+   "questionText": "To ask the Secretary of State for Transport, what discussions her Department has had with the Department for Education on including Category D driving licence training for coaches within the Skills Bootcamps programme; and what assessment she made of the ",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1942304,
+   "uin": "29387",
+   "heading": "Ferries",
+   "questionText": "To ask the Secretary of State for Transport, when she last had discussions with her French counterpart on the enforcement of seafarer rights in the short sea ferry sector.",
+   "dateTabled": "2026-09-14T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1942303,
+   "uin": "29386",
+   "heading": "Ferries",
+   "questionText": "To ask the Secretary of State for Transport, how many operators of ferry routes between England and France have been issued with a surcharge for non-compliance with the Seafarers’ Wages Regulations 2024 to date.",
+   "dateTabled": "2026-09-14T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1939231,
+   "uin": "27902",
+   "heading": "Heating: Housing",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, whether she agrees with ADE: Demand’s \"No Home Left Behind\" report findings that public policy should actively support households to install the clean-heat technology, such as compact heat ba",
+   "dateTabled": "2026-09-08T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1939232,
+   "uin": "27903",
+   "heading": "Heat Batteries",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, with reference to ADE: Demand’s \"No Home Left Behind\" report, what role she sees for heat batteries in easing grid pressure and supporting Clean Power 2030.",
+   "dateTabled": "2026-09-08T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1939230,
+   "uin": "27901",
+   "heading": "Carbon Emissions",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what steps she is taking to ensure that lower-income families are not priced out of decarbonisation.",
+   "dateTabled": "2026-09-08T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1939233,
+   "uin": "27904",
+   "heading": "Heat Batteries: Finance",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, whether she will commit to providing a £7,500 grant for heat batteries.",
+   "dateTabled": "2026-09-08T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1937915,
+   "uin": "26919",
+   "heading": "Vehicle Number Plates",
+   "questionText": "To ask the Secretary of State for Transport, whether she plans to strengthen enforcement and prosecution powers available to the Driver and Vehicle Licensing Agency against suppliers who fail to comply with vehicle registration plate regulations.",
+   "dateTabled": "2026-09-03T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1937914,
+   "uin": "26918",
+   "heading": "Vehicle Number Plates",
+   "questionText": "To ask the Secretary of State for Transport, what plans she has to fund police technology, capability and training to assist police forces in detecting and enforcing offences relating to illegal vehicle registration plates.",
+   "dateTabled": "2026-09-03T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1937912,
+   "uin": "26916",
+   "heading": "Vehicle Number Plates",
+   "questionText": "To ask the Secretary of State for Transport, what steps her Department is taking to raise public awareness of the risks associated with purchasing vehicle registration plates from unauthorised and non-compliant suppliers.",
+   "dateTabled": "2026-09-03T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1937909,
+   "uin": "26915",
+   "heading": "Vehicle Number Plates",
+   "questionText": "To ask the Secretary of State for Transport, whether she plans to introduce enhanced screening and background checks for vehicle registration plate suppliers, including criminal record checks where appropriate.",
+   "dateTabled": "2026-09-03T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1937907,
+   "uin": "26914",
+   "heading": "Vehicle Number Plates",
+   "questionText": "To ask the Secretary of State for Transport, whether she has considered increasing penalties available for the manufacture, supply and use of illegal vehicle registration plates.",
+   "dateTabled": "2026-09-03T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1937913,
+   "uin": "26917",
+   "heading": "Vehicle Number Plates",
+   "questionText": "To ask the Secretary of State for Transport, if she will introduce mandatory vehicle registration plate compliance checks as part of the MOT testing regime.",
+   "dateTabled": "2026-09-03T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1928136,
+   "uin": "18979",
+   "heading": "Alcoholic Drinks: Misuse",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what his Department currently estimates the cost of alcohol harm to be in a) England, b) Wales, c) Scotland and d) Northern Ireland.",
+   "dateTabled": "2026-07-15T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1928140,
+   "uin": "18981",
+   "heading": "Addictions: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps he has taken to roll out the Addiction Healthcare Goals programme.",
+   "dateTabled": "2026-07-15T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1928139,
+   "uin": "18980",
+   "heading": "Addictions: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps he will take to address unmet treatment needs for dependence on a) alcohol and b) other drugs, in the context of a recent report from the Forward Trust that estimates that 750,000 UK cit",
+   "dateTabled": "2026-07-15T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1928149,
+   "uin": "18984",
+   "heading": "Addictions: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what plans he has to address a) low pay, b) a lack of formal training and development pathways, and c) job insecurity and organisational changes, highlighted in the May 2025 Ipsos Drug and Alcohol ",
+   "dateTabled": "2026-07-15T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1928147,
+   "uin": "18983",
+   "heading": "Addictions: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what recent steps his Department has taken to implement the 2024 Drug and Alcohol Workforce Plan.",
+   "dateTabled": "2026-07-15T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1928145,
+   "uin": "18982",
+   "heading": "Addictions: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what recent steps he has taken in relation to plans announced in the July 2024 Drug and Alcohol Workforce Plan for a national Centre for Addiction.",
+   "dateTabled": "2026-07-15T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1923985,
+   "uin": "15691",
+   "heading": "Ministry of Defence: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Justice, whether the Department maintains a public register or internal inventory of automated decision-making systems.",
+   "dateTabled": "2026-07-03T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1923419,
+   "uin": "15292",
+   "heading": "Ministry of Defence: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Defence, what measures are in place to ensure that human oversight is substantive and effective, rather than limited to formal or nominal review.",
+   "dateTabled": "2026-07-02T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1923986,
+   "uin": "15692",
+   "heading": "Department for Science, Innovation and Technology: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, whether her Department maintains a public register or internal inventory of automated decision-making systems.",
+   "dateTabled": "2026-07-03T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1923981,
+   "uin": "15687",
+   "heading": "Ministry of Justice: Data Protection",
+   "questionText": "To ask the Secretary of State for Justice, what steps his Department is taking to help ensure compliance with data protection requirements relating to the processing of special category data, including data relating to health or protected characteristics.",
+   "dateTabled": "2026-07-03T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1923430,
+   "uin": "15302",
+   "heading": "Ministry of Justice: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Justice, what steps has the Department taken to assess and mitigate risks of bias or discrimination arising from the use of automated decision-making systems.",
+   "dateTabled": "2026-07-02T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1923426,
+   "uin": "15298",
+   "heading": "Ministry of Justice: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Justice, what consultation has taken place with recognised trade unions regarding the introduction or use of automated decision-making systems affecting staff.",
+   "dateTabled": "2026-07-02T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1923422,
+   "uin": "15294",
+   "heading": "Civil Service: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Justice, to what extent are automated decision-making systems used in relation to civil service employment, including recruitment, performance management, discipline, or allocation of work.",
+   "dateTabled": "2026-07-02T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1923416,
+   "uin": "15290",
+   "heading": "Ministry of Justice: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Justice, what measures are in place to ensure that human oversight is substantive and effective, rather than limited to formal or nominal review.",
+   "dateTabled": "2026-07-02T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1923411,
+   "uin": "15286",
+   "heading": "Ministry of Justice: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Justice, how does the Department define and ensure meaningful human involvement in decisions supported or made by automated systems.",
+   "dateTabled": "2026-07-02T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1922812,
+   "uin": "14813",
+   "heading": "Ministry of Justice: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Justice, what processes are in place to enable individuals to seek human review and to challenge decisions made by automated systems in the context of the Data (Use and Access) Act 2025.",
+   "dateTabled": "2026-07-01T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1922808,
+   "uin": "14809",
+   "heading": "Data Protection: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Justice, how individuals are informed that decisions have been taken in (a) whole and (b) part by automated means in the context of the Data (Use and Access) Act 2025.",
+   "dateTabled": "2026-07-01T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1922804,
+   "uin": "14805",
+   "heading": "Data Protection: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Justice, what safeguards he has implemented to ensure compliance with statutory requirements relating to automated decision-making, including rights to information, human review and challenge in the context of the Data (U",
+   "dateTabled": "2026-07-01T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1922796,
+   "uin": "14801",
+   "heading": "Ministry of Justice: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Justice, what internal guidance his Department has issued on the potential impact of the Data (Use and Access) Act 2025 on automated decision-making.",
+   "dateTabled": "2026-07-01T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1922786,
+   "uin": "14797",
+   "heading": "Ministry of Justice: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Justice, whether significant Automated Decision-Making is taking place or planned within his Department, and if he will make a statement.",
+   "dateTabled": "2026-07-01T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1923982,
+   "uin": "15688",
+   "heading": "Department for Science, Innovation and Technology: Data Protection",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what steps her Department is taking to ensure compliance with data protection requirements under the Data (Use and Access) Act 2025 relating to the processing of special category data, ",
+   "dateTabled": "2026-07-03T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1922810,
+   "uin": "14811",
+   "heading": "Ministry of Defence: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Defence, how individuals are informed that decisions have been taken in (a) whole and (b) part by automated means in the context of the Data (Use and Access) Act 2025.",
+   "dateTabled": "2026-07-01T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1923428,
+   "uin": "15300",
+   "heading": "Ministry of Defence: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Defence, what consultation has taken place with recognised trade unions regarding the introduction or use of automated decision-making systems affecting staff.",
+   "dateTabled": "2026-07-02T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1923424,
+   "uin": "15296",
+   "heading": "Ministry of Defence: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Defence, to what extent are automated decision-making systems used in relation to civil service employment, including recruitment, performance management, discipline, or allocation of work.",
+   "dateTabled": "2026-07-02T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1923987,
+   "uin": "15693",
+   "heading": "Ministry of Defence: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Defence, whether the Department maintains a public register or internal inventory of automated decision-making systems; and whether it plans to publish such information.",
+   "dateTabled": "2026-07-03T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1923432,
+   "uin": "15304",
+   "heading": "Ministry of Defence: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Defence, what steps his Department has taken to assess and mitigate risks of bias or discrimination arising from the use of automated decision-making systems.",
+   "dateTabled": "2026-07-02T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1922801,
+   "uin": "14803",
+   "heading": "Ministry of Defence: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Defence, what internal guidance his Department has issued on the potential impact of the Data (Use and Access) Act 2025 on automated decision-making.",
+   "dateTabled": "2026-07-01T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1922806,
+   "uin": "14807",
+   "heading": "Ministry of Defence: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Defence, what safeguards he has implemented to ensure compliance with statutory requirements relating to automated decision-making, including rights to information, human review and challenge in the context of the Data (U",
+   "dateTabled": "2026-07-01T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1922814,
+   "uin": "14815",
+   "heading": "Ministry of Defence: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Defence, what processes are in place to enable individuals to seek human review and to challenge decisions made by automated systems in the context of the Data (Use and Access) Act 2025.",
+   "dateTabled": "2026-07-01T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1923984,
+   "uin": "15690",
+   "heading": "Department for Transport: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Transport, whether the Department maintains a public register or internal inventory of automated decision-making systems.",
+   "dateTabled": "2026-07-03T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1923431,
+   "uin": "15303",
+   "heading": "Department for Science, Innovation and Technology: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what steps has the Department taken to assess and mitigate risks of bias or discrimination arising from the use of automated decision-making systems.",
+   "dateTabled": "2026-07-02T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1923427,
+   "uin": "15299",
+   "heading": "Department for Science, Innovation and Technology: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what consultation has taken place with recognised trade unions regarding the introduction or use of automated decision-making systems affecting staff.",
+   "dateTabled": "2026-07-02T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1923423,
+   "uin": "15295",
+   "heading": "Artificial Intelligence: Civil Service",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, to what extent are automated decision-making systems used in relation to civil service employment, including recruitment, performance management, discipline, or allocation of work.",
+   "dateTabled": "2026-07-02T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1923417,
+   "uin": "15291",
+   "heading": "Department for Science, Innovation and Technology: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what measures are in place to ensure that human oversight is substantive and effective, rather than limited to formal or nominal review.",
+   "dateTabled": "2026-07-02T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1923412,
+   "uin": "15287",
+   "heading": "Department for Science, Innovation and Technology: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, how does the Department define and ensure meaningful human involvement in decisions supported or made by automated systems.",
+   "dateTabled": "2026-07-02T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1922813,
+   "uin": "14814",
+   "heading": "Data Protection: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what processes are in place to enable individuals to seek human review and to challenge decisions made by automated systems in the context of the Data (Use and Access) Act 2025.",
+   "dateTabled": "2026-07-01T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1922809,
+   "uin": "14810",
+   "heading": "Data Protection",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, how individuals are informed that decisions have been taken in (a) whole and (b) part by automated means in the context of the Data (Use and Access) Act 2025.",
+   "dateTabled": "2026-07-01T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1922805,
+   "uin": "14806",
+   "heading": "Data (Use and Access) Act 2025",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what safeguards she has implemented to ensure compliance with statutory requirements relating to automated decision-making, including rights to information, human review and challenge i",
+   "dateTabled": "2026-07-01T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1922798,
+   "uin": "14802",
+   "heading": "Data Protection: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what internal guidance her Department has issued on the potential impact of the Data (Use and Access) Act 2025 on automated decision-making.",
+   "dateTabled": "2026-07-01T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1922787,
+   "uin": "14798",
+   "heading": "Department for Science, Innovation and Technology: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, whether significant Automated Decision-Making is taking place or planned within her Department, and if she will make a statement.",
+   "dateTabled": "2026-07-01T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1923413,
+   "uin": "15288",
+   "heading": "Ministry of Defence: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Defence, how does the Department define and ensure meaningful human involvement in decisions supported or made by automated systems.",
+   "dateTabled": "2026-07-02T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1923983,
+   "uin": "15689",
+   "heading": "Ministry of Defence: Data Protection",
+   "questionText": "To ask the Secretary of State for Defence, what steps his Department is taking to help ensure compliance with data protection requirements relating to the processing of special category data, including data relating to health or protected characteristics.",
+   "dateTabled": "2026-07-03T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1923978,
+   "uin": "15685",
+   "heading": "Misuse of Drugs Ministerial Group",
+   "questionText": "To ask the Secretary of State for the Home Department, on what date the Inter-Ministerial Group on drugs (a) last met and (b) will next meet.",
+   "dateTabled": "2026-07-03T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1923979,
+   "uin": "15686",
+   "heading": "Department for Transport: Data Protection",
+   "questionText": "To ask the Secretary of State for Transport, what steps she is taking to help ensure compliance with data protection requirements relating to the processing of special category data, including data relating to health or protected characteristics.",
+   "dateTabled": "2026-07-03T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1923420,
+   "uin": "15293",
+   "heading": "Department for Transport: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Transport, to what extent are automated decision-making systems used in relation to civil service employment, including recruitment, performance management, discipline, or allocation of work.",
+   "dateTabled": "2026-07-02T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1923425,
+   "uin": "15297",
+   "heading": "Department for Transport: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Transport, what consultation has taken place with recognised trade unions regarding the introduction or use of automated decision-making systems affecting staff.",
+   "dateTabled": "2026-07-02T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1923429,
+   "uin": "15301",
+   "heading": "Department for Transport: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Transport, what steps has the Department taken to assess and mitigate risks of bias or discrimination arising from the use of automated decision-making systems.",
+   "dateTabled": "2026-07-02T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1923415,
+   "uin": "15289",
+   "heading": "Department for Transport: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Transport, what measures are in place to ensure that human oversight is substantive and effective, rather than limited to formal or nominal review.",
+   "dateTabled": "2026-07-02T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1923410,
+   "uin": "15285",
+   "heading": "Department for Transport: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Transport, how does the Department define and ensure meaningful human involvement in decisions supported or made by automated systems.",
+   "dateTabled": "2026-07-02T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1922789,
+   "uin": "14799",
+   "heading": "Ministry of Defence: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Defence, whether significant Automated Decision-Making is taking place or planned within his Department, and if he will make a statement.",
+   "dateTabled": "2026-07-01T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1922811,
+   "uin": "14812",
+   "heading": "Department for Transport: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Transport, what processes are in place to enable individuals to seek human review and to challenge decisions made by automated systems in the context of the Data (Use and Access) Act 2025.",
+   "dateTabled": "2026-07-01T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1922807,
+   "uin": "14808",
+   "heading": "Department for Transport: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Transport, how individuals are informed that decisions have been taken in (a) whole and (b) part by automated means in the context of the Data (Use and Access) Act 2025.",
+   "dateTabled": "2026-07-01T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1922803,
+   "uin": "14804",
+   "heading": "Department for Transport: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Transport, what safeguards she has implemented to ensure compliance with statutory requirements relating to automated decision-making, including rights to information, human review and challenge in the context of the Data",
+   "dateTabled": "2026-07-01T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1922794,
+   "uin": "14800",
+   "heading": "Department for Transport: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Transport, given the passage of the Data (Use and Access) Act 2025 what internal guidance her Department issued on the potential impact of the Data (Use and Access) Act 2025 on automated decision-making.",
+   "dateTabled": "2026-07-01T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1922783,
+   "uin": "14796",
+   "heading": "Department for Transport: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Transport, whether significant Automated Decision-Making is taking place or planned within her Department, and if she will make a statement.",
+   "dateTabled": "2026-07-01T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1916660,
+   "uin": "10100",
+   "heading": "Tees, Esk and Wear Valleys NHS Foundation Trust",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what his planned timetable is for appointing a Chair to the statutory public inquiry into Tees, Esk and Wear Valleys NHS Foundation Trust.",
+   "dateTabled": "2026-06-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1914683,
+   "uin": "8521",
+   "heading": "HM Coastguard: Resignations",
+   "questionText": "To ask the Secretary of State for Transport, how many Coastguard Rescue Officers have resigned in each of the last 12 months.",
+   "dateTabled": "2026-06-10T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1914681,
+   "uin": "8520",
+   "heading": "HM Coastguard: Pay",
+   "questionText": "To ask the Secretary of State for Transport, what alternative remuneration models were considered by the Maritime and Coastguard Agency prior to the decision to remove hourly remuneration for Coastguard Rescue Officers attending incidents, training exerci",
+   "dateTabled": "2026-06-10T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1914680,
+   "uin": "8519",
+   "heading": "HM Coastguard: Pay",
+   "questionText": "To ask the Secretary of State for Transport, will the Department carry out an impact assessment on the removal of remuneration for Coastguard Rescue Officers on coastal communities within in the Easington constituency.",
+   "dateTabled": "2026-06-10T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1914679,
+   "uin": "8518",
+   "heading": "HM Coastguard: Pay",
+   "questionText": "To ask the Secretary of State for Transport, what assessment the Maritime and Coastguard Agency has made of the impact of the removal of remuneration for Coastguard Rescue Officers on (a) recruitment, (b) retention, and (c) operational capability.",
+   "dateTabled": "2026-06-10T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1914685,
+   "uin": "8522",
+   "heading": "HM Coastguard: Pay",
+   "questionText": "To ask the Secretary of State for Transport, whether consultation took place with Ministers before the Maritime and Coastguard Agency decided to remove remuneration for Coastguard Rescue Officers.",
+   "dateTabled": "2026-06-10T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1907902,
+   "uin": "3213",
+   "heading": "HM Prison and Probation Service: Vetting",
+   "questionText": "To ask the Secretary of State for Justice, how many people are awaiting completion of security and vetting checks before commencing employment within His Majesty’s Prison and Probation Service.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1907903,
+   "uin": "3214",
+   "heading": "HM Prison Service: Vetting",
+   "questionText": "To ask the Secretary of State for Justice, how many people have been waiting (a) more than three months, (b) more than six months and (c) more than 12 months for security and vetting clearance required for employment in the prison service.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1909239,
+   "uin": "4080",
+   "heading": "Homelessness: Disclosure of Information",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what steps his Department is taking to ensure compliance with statutory homelessness data returns.",
+   "dateTabled": "2026-05-29T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1909238,
+   "uin": "4079",
+   "heading": "Homelessness: Disclosure of Information",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what discussions his Department has had with the 18 local authorities which did not return data for the Statutory Homelessness Detailed Local Authority Data 2024-25 dataset on th",
+   "dateTabled": "2026-05-29T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1907905,
+   "uin": "3216",
+   "heading": "HM Prison Service: Vetting",
+   "questionText": "To ask the Secretary of State for Justice, what steps is the Minister taking to improve the speed of security and vetting checks for prison service applicants.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1907904,
+   "uin": "3215",
+   "heading": "HM Prison Service: Vetting",
+   "questionText": "To ask the Secretary of State for Justice, what assessment he has made of the potential impact of delays in security and vetting processes on staffing levels across the prison estate.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1907236,
+   "uin": "2708",
+   "heading": "Prisoners' Release",
+   "questionText": "To ask the Secretary of State for Justice, what assessment he has made of the potential implications for his policies of the statistical analysis of prison leavers in England entitled Prison leavers in substance misuse treatment: 4-week outcomes – report,",
+   "dateTabled": "2026-05-19T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1904207,
+   "uin": "108",
+   "heading": "Advisory Council on the Misuse of Drugs",
+   "questionText": "To ask the Secretary of State for the Home Department, what recent assessment she has made of the adequacy of the (a) independence, (b) integrity and (c) expertise of the Advisory Council on the Misuse of Drugs.",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1904205,
+   "uin": "106",
+   "heading": "Ketamine",
+   "questionText": "To ask the Secretary of State for the Home Department, with reference to the report entitled Ketamine: An updated review of use and harms published by the Advisory Council on the Misuse of Drugs on 28 January 2026, what (a) research and (b) consultations ",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1904183,
+   "uin": "96",
+   "heading": "Police: Neurodiversity",
+   "questionText": "To ask the Secretary of State for the Home Department, what safeguards exist to reduce the risk of unnecessary (a) arrest and (b) restraint of neurodivergent people during police encounters.",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1904181,
+   "uin": "94",
+   "heading": "Police: Neurodiversity",
+   "questionText": "To ask the Secretary of State for the Home Department, what guidance her Department has issued to police forces on de-escalation techniques when interacting with neurodivergent people during police incidents.",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1904180,
+   "uin": "93",
+   "heading": "Police Custody: Neurodiversity",
+   "questionText": "To ask the Secretary of State for the Home Department, what guidance her Department provides to custody sergeants on determining whether a neurodivergent detainee requires an appropriate adult.",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1904206,
+   "uin": "107",
+   "heading": "Ketamine",
+   "questionText": "To ask the Secretary of State for the Home Department, what her planned timeline is for responding to (a) the report entitled Ketamine: An updated review of use and harms published by the Advisory Council on the Misuse of Drugs on 28 January 2026 and (b) ",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1904182,
+   "uin": "95",
+   "heading": "Police: Neurodiversity",
+   "questionText": "To ask the Secretary of State for the Home Department, what recent discussions she has had with the National Police Chiefs' Council on improving police responses to neurodivergent (a) victims, (b) witnesses and (c) suspects.",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1904178,
+   "uin": "91",
+   "heading": "Police: Neurodiversity",
+   "questionText": "To ask the Secretary of State for the Home Department, what proportion of police forces provide specialist neurodiversity training beyond the minimum national requirements.",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1904177,
+   "uin": "90",
+   "heading": "Police: Neurodiversity",
+   "questionText": "To ask the Secretary of State for the Home Department, whether her Department plans to introduce mandatory neurodiversity awareness training for all frontline police officers and call handlers.",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1904176,
+   "uin": "89",
+   "heading": "Police: Neurodiversity",
+   "questionText": "To ask the Secretary of State for the Home Department, what assessment she has made of the adequacy of training provided to frontline police officers on recognising and responding to neurodivergent people, including autistic people and people with ADHD.",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1904179,
+   "uin": "92",
+   "heading": "Police: Neurodiversity",
+   "questionText": "To ask the Secretary of State for the Home Department, whether her Department collects data on complaints involving police interactions with neurodivergent people.",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1902378,
+   "uin": "129093",
+   "heading": "Public Sector: Procurement",
+   "questionText": "To ask the Minister for the Cabinet Office, with reference to the Government’s objective of delivering “the biggest wave of insourcing for a generation”, which specific previous wave of insourcing the Government is using as a comparator, and what assessme",
+   "dateTabled": "2026-04-22T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1895632,
+   "uin": "124100",
+   "heading": "Revenue and Customs: Managed Service Companies",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment HMRC has made of the net staffing impact of the Managed Service Provider, taking account of both Managed Service Provider recruitment and HMRC staffing levels.",
+   "dateTabled": "2026-03-26T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1895631,
+   "uin": "124099",
+   "heading": "Revenue and Customs: Staff",
+   "questionText": "To ask the Chancellor of the Exchequer, what are the HMRC Customer Service Group outputs – Baseline Plan, as of 12 February 2026, for each month from April 2026 to March 2027 for the Customer Service Group, excluding Debt Management, for (a) FTE Total (Pa",
+   "dateTabled": "2026-03-26T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1895630,
+   "uin": "124098",
+   "heading": "Revenue and Customs: Staff",
+   "questionText": "To ask the Chancellor of the Exchequer, what is the HMRC Personal Tax (PT) Directorate workforce distribution projection, including Managed Service Provider provision for (a) Total Personal Tax Paid Supply, (b) Permanent Supply, (c) Contingent Labour, (d)",
+   "dateTabled": "2026-03-26T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1895629,
+   "uin": "124097",
+   "heading": "Revenue and Customs: Staff",
+   "questionText": "To ask the Chancellor of the Exchequer, hat are the staffing projection figures, given in full-time equivalent supply numbers before any rebalance, in HMRC Customer Service Group for the following directorates, (a) Benefits, Family and Customs, including ",
+   "dateTabled": "2026-03-26T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1896494,
+   "uin": "124539",
+   "heading": "Gambling: Regulation",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, how she will ensure Financial Risk Assessments are carried out in a frictionless manner as stated in the Gambling Act Review White Paper.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1896493,
+   "uin": "124538",
+   "heading": "Gambling: Regulation",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what estimate her Department has made of the number of betting and gaming customers required to submit financial documents under Financial Risk Assessments; and what assessment she has made of th",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1884364,
+   "uin": "115350",
+   "heading": "Royal Fleet Auxiliary: Shipping",
+   "questionText": "To ask the Secretary of State for Defence, what assessment he has made of the potential impact of using bareboat chartering commercial vessels to augment the Royal Fleet Auxiliary’s work supporting Royal Navy operations.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1894266,
+   "uin": "123145",
+   "heading": "Transfer of Undertakings (Protection of Employment) Regulations 2006",
+   "questionText": "To ask the Secretary of State for Business and Trade, when he expects to launch the call for evidence in relation to the Transfer of Undertakings (Protection of Employment) (TUPE) regulations and related processes.",
+   "dateTabled": "2026-03-24T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1894268,
+   "uin": "123146",
+   "heading": "Freight",
+   "questionText": "To ask the Secretary of State for Transport, what recent assessment she has made of the potential effect of the cost profile of (a) rail and (b) road freight operations on modal shift.",
+   "dateTabled": "2026-03-24T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1894477,
+   "uin": "123165",
+   "heading": "Infected Blood Compensation Scheme",
+   "questionText": "To ask the Minister for the Cabinet Office, what steps his Department is taking to ensure that the (a) consultation responses and (b) feedback from impacted people on proposed changes to the Infected Blood Compensation Scheme are taken into account.",
+   "dateTabled": "2026-03-24T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1894270,
+   "uin": "123148",
+   "heading": "Large Goods Vehicles: Electric Vehicles",
+   "questionText": "To ask the Secretary of State for Transport, if she will list the total funding received to date by each freight transport company in the infrastructure development phase of the Zero Emission HGV and Infrastructure Demonstrator (ZEHID) programme.",
+   "dateTabled": "2026-03-24T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1894269,
+   "uin": "123147",
+   "heading": "Railways: Freight",
+   "questionText": "To ask the Secretary of State for Transport, what information her Department holds on the average age of (a) locomotives and (b) wagons on the rail freight network.",
+   "dateTabled": "2026-03-24T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1892158,
+   "uin": "121287",
+   "heading": "Iran: USA",
+   "questionText": "To ask the Secretary of State for Defence, whether any UK military personnel were onboard the USS Charlotte (SSN-766) on 4 March 2026 and, if so, how many personnel were onboard.",
+   "dateTabled": "2026-03-17T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1891459,
+   "uin": "120785",
+   "heading": "Pharmacy: Staff",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the potential impact of (a) increases in the levels of wages and (b) the level of staff shortages on community pharmacies' ability to deliver additional NHS services.",
+   "dateTabled": "2026-03-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1891458,
+   "uin": "120784",
+   "heading": "Pharmacy: Rural Areas",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the potential impact of Pharmacy First payment thresholds on smaller rural community pharmacies.",
+   "dateTabled": "2026-03-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1891457,
+   "uin": "120783",
+   "heading": "Pharmacy: Rural Areas",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether he plans to provide additional support to rural community pharmacies to mitigate the potential impact of increases in costs, including for (a) wages, (b) energy, (c) business rates and (d) ",
+   "dateTabled": "2026-03-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1891456,
+   "uin": "120782",
+   "heading": "Pharmacy",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps he is taking to address the shortage of and the level of prices paid for basic medicines by community pharmacies.",
+   "dateTabled": "2026-03-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1891455,
+   "uin": "120781",
+   "heading": "Pharmacy",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps he is taking to reform NHS Drug Tariff reimbursement to ensure community pharmacies are not required to dispense medicines at a loss.",
+   "dateTabled": "2026-03-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1890195,
+   "uin": "119845",
+   "heading": "Electricity: Heat Networks",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, if he will direct the National Energy System Operator to account for the reduced need for offshore wind and solar capacity resulting from heat network expansion in its future strategic planni",
+   "dateTabled": "2026-03-11T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1890194,
+   "uin": "119844",
+   "heading": "Electricity: Heat Networks",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, whether he has made an assessment of the potential merits of using heat networks with thermal storage to provide cheaper flexibility for the electricity system in comparison with lithium batt",
+   "dateTabled": "2026-03-11T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1890192,
+   "uin": "119843",
+   "heading": "Electricity: Heat Networks",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, if he will make an assessment of the potential for former coal mining communities to benefit from the estimated £86.5 billion in electricity system savings from heat networks as identified in",
+   "dateTabled": "2026-03-11T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1885415,
+   "uin": "116136",
+   "heading": "Brain: Injuries",
+   "questionText": "To ask the Secretary of State for Health and Social Care, which stakeholders the Department engaged in the development of the forthcoming Action Plan on Acquired Brain Injury, including any (a) sports governing bodies, (b) football organisations, and (c) ",
+   "dateTabled": "2026-02-26T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1882517,
+   "uin": "113514",
+   "heading": "Bowel Cancer: Screening",
+   "questionText": "To ask the Secretary of State for Health and Social Care, if he will extend the upper age limit beyond 74 years for routine invitations under the NHS Bowel Cancer Screening Programme.",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1882516,
+   "uin": "113513",
+   "heading": "Breast Cancer: Screening",
+   "questionText": "To ask the Secretary of State for Health and Social Care, will he extend the upper age limit beyond 71 years for routine invitations under the NHS Breast Screening Programme.",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1889653,
+   "uin": "119234",
+   "heading": "Shipping: Pay",
+   "questionText": "To ask the Secretary of State for Business and Trade, what recent discussions he has had with the Secretary of State for Transport regarding employer deductions from seafarers’ wages for accommodation costs.",
+   "dateTabled": "2026-03-10T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1889652,
+   "uin": "119233",
+   "heading": "Shipping: Minimum Wage",
+   "questionText": "To ask the Secretary of State for Business and Trade, if he will provide a response to the recommendation in the National Minimum Wage: Low Pay Commission Report 2022 CP 758 that seafarers be exempted from the Accommodation Offset.",
+   "dateTabled": "2026-03-10T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1889312,
+   "uin": "119232",
+   "heading": "Prison Officers: Length of Service",
+   "questionText": "To ask the Secretary of State for Justice, if he will make an estimate of the cumulative number of years of experience held by prison officers in each year since 2010.",
+   "dateTabled": "2026-03-10T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1886954,
+   "uin": "117259",
+   "heading": "International Fund for Israeli-Palestinian Peace",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, if she will publish the list of invitees to the Lancaster House conference taking place on 12 March 2026 to establish an International Peace Fund for Israel and Palestine.",
+   "dateTabled": "2026-03-03T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1885128,
+   "uin": "115806",
+   "heading": "Israel: Palestine",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, if she will re-publish online the report entitled Value for Money: Investment in People-to-People Programming in Israel and Palestine, originally commissioned by the Departme",
+   "dateTabled": "2026-02-25T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1879090,
+   "uin": "111102",
+   "heading": "Alcoholic Drinks: Marketing",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment his Department has made of the potential implications for its policies of the report by the Institute of Alcohol Studies entitled Now You See It, Now You Don't, published on 29 Janu",
+   "dateTabled": "2026-02-05T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1884369,
+   "uin": "115353",
+   "heading": "Royal Fleet Auxiliary: Tankers",
+   "questionText": "To ask the Secretary of State for Defence, how many replenishments at sea RFA’s Tide-class tankers have provided for international allies in each year since 2017 to date.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1884373,
+   "uin": "115357",
+   "heading": "Royal Fleet Auxiliary",
+   "questionText": "To ask the Secretary of State for Defence, if he will make an assessment of the adequacy of the requirements in the Regulations for Royal Fleet Auxiliaries BRd 875 for Royal Fleet Auxiliary ships to carry copies of merchant navy legislation.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1884370,
+   "uin": "115354",
+   "heading": "Merchant Shipping",
+   "questionText": "To ask the Secretary of State for Defence, if he will publish the commercially managed ships currently in MoD service.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1884676,
+   "uin": "115362",
+   "heading": "Royal Fleet Auxiliary: Conditions of Employment",
+   "questionText": "To ask the Secretary of State for Defence, whether it is his department’s policy to apply, on a voluntary basis, the provisions of the Maritime Labour Convention to the (a) merchant navy seafarers and (b) vessels in the Royal Fleet Auxiliary.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1884377,
+   "uin": "115361",
+   "heading": "RFA Wave Knight and RFA Wave Ruler: Sales",
+   "questionText": "To ask the Secretary of State for Defence, with reference to reports of the sale of the former Royal Fleet Auxiliary vessels Wave Ruler and Wave Knight to Inocea Group, what discussions he has had with (a) Cabinet colleagues, (b) shipping industry represe",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1884376,
+   "uin": "115360",
+   "heading": "Royal Fleet Auxiliary: Safety",
+   "questionText": "To ask the Secretary of State for Defence, with reference to Section C5 of the Memorandum of Understanding between the Ministry of Defence and the Maritime and Coastguard Agency, what information his Department holds on when the Royal Fleet Auxiliaries (R",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1884375,
+   "uin": "115359",
+   "heading": "Royal Fleet Auxiliary: Safety",
+   "questionText": "To ask the Secretary of State for Defence, what recent discussions he has had with the (a) Royal Fleet Auxiliary and (b) the Secretary of State for Transport on the Memorandum of Understanding between his department and the Maritime and Coastguard Agency.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1884374,
+   "uin": "115358",
+   "heading": "Royal Fleet Auxiliary",
+   "questionText": "To ask the Secretary of State for Defence, if he will make an assessment of the adequacy of the binding merchant shipping Statutory Instruments applicable under the MoD Ships Order in Council, listed in Annex A1 of the Regulations for Royal Fleet Auxiliar",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1884372,
+   "uin": "115356",
+   "heading": "Royal Fleet Auxiliary",
+   "questionText": "To ask the Secretary of State for Defence, what recent discussions he has had with (a) the Secretary of State for Transport and (b) Department for Transport agencies on the Royal Fleet Auxiliary’s adherence to applicable Merchant Shipping Regulations.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1884371,
+   "uin": "115355",
+   "heading": "Shipping",
+   "questionText": "To ask the Secretary of State for Defence, if he will publish the names of the vessels on the UK Defence Shipping Register.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1884367,
+   "uin": "115352",
+   "heading": "Royal Fleet Auxiliary",
+   "questionText": "To ask the Secretary of State for Defence, how many and what the proportion of the Royal Fleet Auxiliary’s work has been outsourced to (a) commercial contractors and (b) international allies since January 2015 to date.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1884366,
+   "uin": "115351",
+   "heading": "Royal Fleet Auxiliary",
+   "questionText": "To ask the Secretary of State for Defence, what recent discussions he has had with (a) Royal Fleet Auxiliary and (b) recognised trade unions on the Strategic Defence Review’s recommendations on the operational role of the RFA.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1884361,
+   "uin": "115349",
+   "heading": "Royal Fleet Auxiliary: Staff",
+   "questionText": "To ask the Secretary of State for Defence, how many vacancies currently exist in the Royal Fleet Auxiliary by seafarer grade.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1884360,
+   "uin": "115348",
+   "heading": "Royal Fleet Auxiliary: Staff",
+   "questionText": "To ask the Secretary of State for Defence, if he will publish the number of (a) women and (b) men employed by the Royal Fleet Auxiliary by seafarer grade.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1882238,
+   "uin": "113512",
+   "heading": "Sports: Chronic Traumatic Encephalopathy",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, if will make an estimate of the number of people at risk of developing chronic traumatic encephalopathy as a result of participation in contact sports.",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1882237,
+   "uin": "113511",
+   "heading": "Football: Chronic Traumatic Encephalopathy",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what steps her Department is taking to raise public awareness of the risks associated with football-related chronic traumatic encephalopathy.",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1879091,
+   "uin": "111103",
+   "heading": "Public Sector: Procurement",
+   "questionText": "To ask the Minister for the Cabinet Office, how he plans to measure progress on increasing public sector insourcing.",
+   "dateTabled": "2026-02-05T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1880352,
+   "uin": "112118",
+   "heading": "Football: Chronic Traumatic Encephalopathy",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, pursuant to the Answer of 4 February 2026 to Question 110748 on Football: Chronic Traumatic Encephalopathy, what mechanisms the Government uses to hold National Governing Bodies to account for pl",
+   "dateTabled": "2026-02-10T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1869212,
+   "uin": "103742",
+   "heading": "Offshore Industry: Death",
+   "questionText": "To ask the Secretary of State for Work and Pensions, when he expects the Health and Safety Executive to publish its report into the fatality on the Liberian flagged jackup drill rig Valaris 121 on 14 November 2025.",
+   "dateTabled": "2026-01-07T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1869209,
+   "uin": "103741",
+   "heading": "Offshore Industry: Missing Persons",
+   "questionText": "To ask the Secretary of State for Work and Pensions, when he expects the report into the loss of a crew member on the Valaris 121 jackup drill on 22 January 2023 to be published; and on what date did his officials most recently discuss the case with the (",
+   "dateTabled": "2026-01-07T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1879344,
+   "uin": "111417",
+   "heading": "International Fund for Israeli-Palestinian Peace",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, whether her Department has made an assessment of the value for money of the International Fund for Israeli-Palestinian Peace.",
+   "dateTabled": "2026-02-06T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1879345,
+   "uin": "111418",
+   "heading": "Israel and Palestine: Development Aid",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, whether the Department for International Development commissioned a study on the value for money of people to people programmes in Israel and Palestine in 2021.",
+   "dateTabled": "2026-02-06T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1879402,
+   "uin": "111419",
+   "heading": "Energy Company Obligation: Unemployment",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what steps he is taking to help mitigate potential job losses in the energy efficiency sector and associated supply chains following plans to close the Energy Company Obligation scheme.",
+   "dateTabled": "2026-02-06T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1879403,
+   "uin": "111420",
+   "heading": "Warm Homes Plan",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what delivery mechanisms will be used to implement the Warm Homes Scheme to ensure effective and timely delivery of funding.",
+   "dateTabled": "2026-02-06T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1879105,
+   "uin": "111107",
+   "heading": "Merchant Shipping: Crew",
+   "questionText": "To ask the Secretary of State for Defence, if he will make an estimate of the number of civilian seafarers in scope of the (a) Defence Maritime Regulator and (b) the Memorandum of Understanding between the MoD and the Maritime and Coastguard Agency.",
+   "dateTabled": "2026-02-05T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1879095,
+   "uin": "111106",
+   "heading": "Royal Fleet Auxiliary: Maritime Labour Convention",
+   "questionText": "To ask the Secretary of State for Defence, whether his Department applies the provisions of the Maritime Labour Convention to the (a) merchant navy seafarers and (b) vessels in the Royal Fleet Auxiliary.",
+   "dateTabled": "2026-02-05T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1879094,
+   "uin": "111105",
+   "heading": "Royal Fleet Auxiliary: Inspections",
+   "questionText": "To ask the Secretary of State for Defence, what the (a) inspection dates and (b) deficiencies recorded were by officials from the Maritime and Coastguard Agency following inspection of Royal Fleet Auxiliary vessels in each year since 2014.",
+   "dateTabled": "2026-02-05T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1879093,
+   "uin": "111104",
+   "heading": "Royal Fleet Auxiliary: Inspections",
+   "questionText": "To ask the Secretary of State for Defence, how many inspections of Royal Fleet Auxiliary vessels have been carried out by officials from the Maritime and Coastguard Agency since the updated Memorandum of Understanding was published in November 2024.",
+   "dateTabled": "2026-02-05T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1878615,
+   "uin": "110750",
+   "heading": "Football: Chronic Traumatic Encephalopathy",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, if she will have discussions with sports authorities on ensuring that (a) football-related Chronic Traumatic Encephalopathy is recognised as a public health issue and (b) appropriate education an",
+   "dateTabled": "2026-02-04T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1878614,
+   "uin": "110749",
+   "heading": "Football: Chronic Traumatic Encephalopathy",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, if she will work with sports charities to create a national education programme and slogan to raise awareness of Chronic Traumatic Encephalopathy in football.",
+   "dateTabled": "2026-02-04T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1878613,
+   "uin": "110748",
+   "heading": "Football: Chronic Traumatic Encephalopathy",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what steps he is taking to raise awareness of football related Chronic Traumatic Encephalopathy caused by repetitive head impacts from heading a football.",
+   "dateTabled": "2026-02-04T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1875235,
+   "uin": "108187",
+   "heading": "Tobacco: Excise Duties",
+   "questionText": "To ask the Chancellor of the Exchequer, what estimate her Department has made of the potential impact of the level of CPI inflation on the proposed change in tobacco duty on 1 October 2026.",
+   "dateTabled": "2026-01-26T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1872411,
+   "uin": "106304",
+   "heading": "Fire and Rescue Services: Recruitment",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what steps his Department is taking to help increase firefighter recruitment.",
+   "dateTabled": "2026-01-16T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1872410,
+   "uin": "106303",
+   "heading": "Fire and Rescue Services: Staff",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what assessment his Department has made of the adequacy of the number of firefighters to meet operational demand.",
+   "dateTabled": "2026-01-16T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1866252,
+   "uin": "101346",
+   "heading": "Cancer: Diagnosis",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what estimate his Department has made of the additional number of people expected to be diagnosed with cancer as a result of increases in NHS cancer screening uptake in a) 2026, b) 2027 and c) 2028",
+   "dateTabled": "2025-12-18T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1866251,
+   "uin": "101345",
+   "heading": "Cancer: Diagnosis",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether his Department has made an estimate of the number of people expected to be diagnosed with cancer as a result of NHS cancer screening programmes in a) 2026, b) 2027 and c) 2028.",
+   "dateTabled": "2025-12-18T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1869217,
+   "uin": "103744",
+   "heading": "Offshore Industry: Accidents",
+   "questionText": "To ask the Secretary of State for Transport, in light of the fatal incident on the Valaris 121 jackup drilling rig on the UK Continental Shelf on 14 November 2025, if she will provide an update on the Liberian Ship Registry’s investigation into its causes",
+   "dateTabled": "2026-01-07T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1869216,
+   "uin": "103743",
+   "heading": "Offshore Industry: Accidents",
+   "questionText": "To ask the Secretary of State for Transport, with reference to the fatal incident on the Valaris 121 jackup drill rig on 14 November 2025, whether the Maritime Accident and Investigation Branch (a) registered the UK as a Substantially Interested State and",
+   "dateTabled": "2026-01-07T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1866253,
+   "uin": "101347",
+   "heading": "Cancer: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what discussions he has had with radiotherapy professionals on the upcoming national cancer plan.",
+   "dateTabled": "2025-12-18T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1869782,
+   "uin": "104467",
+   "heading": "Offshore Industry: Health and Safety",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what discussion he has had with (a) the Secretary of State for Energy Security and Net Zero, (b) trade unions and (c) employers on the Health and Safety Executive's news report entitled Offshore process",
+   "dateTabled": "2026-01-09T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1864216,
+   "uin": "99712",
+   "heading": "Gambling: Rehabilitation",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment his Department has made of the potential impact of changes to the funding for statutory gambling levy harms-related programme from April 2026 on treatment providers; and what specif",
+   "dateTabled": "2025-12-15T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1864215,
+   "uin": "99711",
+   "heading": "Gambling",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference to the Written Ministerial Statement UIN HCWS1118, of 2 December 2025, and the transition to the statutory gambling levy system and consequential changes in April 2026, what steps he",
+   "dateTabled": "2025-12-15T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1869659,
+   "uin": "104149",
+   "heading": "Offshore Industry: Health and Safety",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what recent assessment he has made of trends in the level of compliance with the safety regime amongst duty holders in the offshore oil and gas industry.",
+   "dateTabled": "2026-01-08T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1869843,
+   "uin": "104470",
+   "heading": "Parking: Fines",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, if he will make an assessment of the potential merits of requiring private parking enforcement companies to provide an online appeals option for motorists to challenge parking ch",
+   "dateTabled": "2026-01-09T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1860621,
+   "uin": "97121",
+   "heading": "Teachers: Workplace Pensions",
+   "questionText": "To ask the Secretary of State for Education, what assessment she has made of the potential impact of delays in issuing Remediable Service Statements on teachers' retirement planning and financial wellbeing.",
+   "dateTabled": "2025-12-04T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1860620,
+   "uin": "97120",
+   "heading": "Teachers: Workplace Pensions",
+   "questionText": "To ask the Secretary of State for Education, what her current estimated timetable is for the completion of all Remediable Service Statements for members of the Teachers’ Pension Scheme affected by the McCloud judgment.",
+   "dateTabled": "2025-12-04T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1860619,
+   "uin": "97119",
+   "heading": "Teachers: Workplace Pensions",
+   "questionText": "To ask the Secretary of State for Education, how many Remediable Service Statements have been issued by Teachers’ Pensions to date; and how many remain outstanding further to the McCloud judgment.",
+   "dateTabled": "2025-12-04T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1858930,
+   "uin": "95618",
+   "heading": "Northern: East Durham",
+   "questionText": "To ask the Secretary of State for Transport, if he will make an assessment of the reliability of Northern's services on the East Durham coastline from (a) Seaham (b) Horden stations.",
+   "dateTabled": "2025-12-01T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1858381,
+   "uin": "95385",
+   "heading": "British Transport Police: Finance",
+   "questionText": "To ask the Secretary of State for Transport, what assessment she has made of the potential impact of planned cuts to British Transport Police (a) staffing and (b) stations due to the 2025/26 funding shortfall on the prevalence of crime, including anti-soc",
+   "dateTabled": "2025-11-28T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1858387,
+   "uin": "95390",
+   "heading": "Geothermal Power",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, if he will consider the potential merits of a specific grant scheme for mine water heat projects.",
+   "dateTabled": "2025-11-28T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1858385,
+   "uin": "95389",
+   "heading": "East Coast Main Line: Standards",
+   "questionText": "To ask the Secretary of State for Transport, how many trains on the East Coast Main Line have been cancelled due to train faults in 2025 to date.",
+   "dateTabled": "2025-11-28T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1858384,
+   "uin": "95388",
+   "heading": "Grand Central Rail Company: Rolling Stock",
+   "questionText": "To ask the Secretary of State for Transport, how many Grand Central Rail services have been cancelled due to train faults in 2025 to date.",
+   "dateTabled": "2025-11-28T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1858379,
+   "uin": "95384",
+   "heading": "British Transport Police: Finance",
+   "questionText": "To ask the Secretary of State for Transport, what assessment she has made of the potential impact of planned cuts to British Transport Police (a) staffing and (b) stations due to the 2025/26 funding shortfall on the level of (i) passenger and (ii) staff s",
+   "dateTabled": "2025-11-28T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1858382,
+   "uin": "95386",
+   "heading": "British Transport Police: Finance",
+   "questionText": "To ask the Secretary of State for Transport, what estimate she has made of the funding uplift necessary to restore the number of British Transport Police police officers to 2009/10 levels.",
+   "dateTabled": "2025-11-28T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1858378,
+   "uin": "95383",
+   "heading": "British Transport Police: Finance",
+   "questionText": "To ask the Secretary of State for Transport, what guidance has she given to the British Transport Police Authority on British Transport Police funding in the 2026-27 financial year.",
+   "dateTabled": "2025-11-28T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1858383,
+   "uin": "95387",
+   "heading": "Grand Central Rail Company: Rolling Stock",
+   "questionText": "To ask the Secretary of State for Transport, what the age is of Grand Central Rail's current rolling stock.",
+   "dateTabled": "2025-11-28T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1962431,
+   "uin": "45332",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Transport, whether she plans to introduce measures to strengthen traceability and accountability throughout the vehicle registration plate supply chain, including in relation to online marketplaces.",
+   "dateTabled": "2026-11-20T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1962466,
+   "uin": "45331",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Transport, whether the Government plans to provide funding to support the adoption by police forces of technologies being trialled to detect illegal number plates.",
+   "dateTabled": "2026-11-20T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1962464,
+   "uin": "45330",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Transport, whether the Government plans to establish national reporting on (a) the prevalence of illegal number plates, (b) enforcement outcomes relating to illegal number plates and (c) links between the use of illegal n",
+   "dateTabled": "2026-11-20T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1962462,
+   "uin": "45329",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Transport, what the operational outcomes were of the nationwide crackdown on illegal number plates announced by the National Roads Policing Coordination Centre in September 2026.",
+   "dateTabled": "2026-11-20T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1962458,
+   "uin": "45327",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Transport, when the Government expects to bring into force the proposed amendments to the British Standard for vehicle registration plates that would prohibit raised and \"ghost\" characteristics and require finished plates",
+   "dateTabled": "2026-11-20T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1959509,
+   "uin": "42829",
+   "heading": "Arms Length Bodies: Contracts for Services",
+   "questionText": "To ask the Minister for the Cabinet Office, what a) discussions and b) assessments have taken place to limit Government Arms Length Bodies outsourcing work or services prior to the introduction of the Public Interest Test from 1st April 2027, and if she w",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  }
+ ],
+ "historyComplete": true
+}

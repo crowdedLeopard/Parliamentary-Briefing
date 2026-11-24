@@ -1,0 +1,943 @@
+{
+ "id": 5050,
+ "fetchedOn": "2026-11-23",
+ "core": {
+  "id": 5050,
+  "nameListAs": "Cocking, Lewis",
+  "nameDisplayAs": "Lewis Cocking",
+  "nameFullTitle": "Lewis Cocking MP",
+  "nameAddressAs": null,
+  "latestParty": {
+   "id": 4,
+   "name": "Conservative",
+   "abbreviation": "Con",
+   "backgroundColour": "0063ba",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": false,
+   "governmentType": 3,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "Broxbourne",
+   "membershipFromId": 3954,
+   "house": 1,
+   "membershipStartDate": "2024-07-04T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2024-07-04T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/5050/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2024-05-31T00:00:00",
+    "constituencyEnd": null,
+    "house": 1,
+    "name": "Broxbourne",
+    "id": 3954,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [],
+  "houseMemberships": [
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Lewis Cocking",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [],
+  "oppositionPosts": [
+   {
+    "house": 1,
+    "name": "Shadow Parliamentary Under Secretary (Housing, Communities and Local Government)",
+    "id": 1676,
+    "startDate": "2026-08-31T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Ministry of Housing, Communities and Local Government",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government"
+   },
+   {
+    "house": 1,
+    "name": "Opposition Whip (Commons)",
+    "id": 10,
+    "startDate": "2026-08-31T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Whips Office (Commons)",
+    "additionalInfoLink": null
+   }
+  ],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Conservative",
+    "id": 4,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 1,
+    "name": "Housing, Communities and Local Government Committee",
+    "id": 17,
+    "startDate": "2024-10-21T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Non-Domestic Rating (Multipliers and Private Schools) Bill",
+    "id": 749,
+    "startDate": "2024-12-04T00:00:00",
+    "endDate": "2024-12-12T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Bank Resolution (Recapitalisation) Bill [HL]",
+    "id": 774,
+    "startDate": "2025-02-05T00:00:00",
+    "endDate": "2025-02-11T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Planning and Infrastructure Bill",
+    "id": 788,
+    "startDate": "2025-04-24T00:00:00",
+    "endDate": "2025-05-22T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "English Devolution and Community Empowerment Bill",
+    "id": 816,
+    "startDate": "2025-09-15T00:00:00",
+    "endDate": "2025-10-28T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Representation of the People Bill",
+    "id": 835,
+    "startDate": "2026-03-11T00:00:00",
+    "endDate": "2026-04-16T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Social Housing Bill [Lords]",
+    "id": 849,
+    "startDate": "2026-10-22T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Building Safety (Remediation of Unsafe Cladding etc) Bill",
+    "id": 856,
+    "startDate": "2026-11-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 4,
+   "name": "3. Gifts, benefits and hospitality from UK sources",
+   "sortOrder": 0,
+   "interests": [
+    {
+     "id": 13888,
+     "interest": "Name of donor: ITV Breakfast Broadcasting Ltd\r\nAddress of donor: Itv White City, 201 Wood Lane, London W12 7RU\r\nAmount of donation or nature and value if donation in kind: Taxi travel provided to and from studios - to go on Good Morning Britain, value £101.84\r\nDate received: 17 November 2025 to 17 November 2025\r\nDate accepted: 17 November 2025\r\nDonor status: company, registration 07698963\r\n(Registered 17 November 2025)",
+     "createdWhen": "2025-11-18T10:10:16.8066667",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [],
+ "synopsis": "Lewis Cocking is the Conservative MP for <a href='/constituency/3954/overview'>Broxbourne</a>, and has been an MP continually since 4 July 2024. \r\nHe currently undertakes the roles of Shadow Parliamentary Under Secretary (Housing, Communities and Local Government), and Opposition Whip (Commons).",
+ "history": [
+  {
+   "id": 1961643,
+   "uin": "44570",
+   "heading": "Consumer Prices Index",
+   "questionText": "To ask the Minister for the Cabinet Office, pursuant to the answer of 19 October 206, to Question 30405, on Inflation: Statistics, and further to the associated ONS letter of 13 October 2026, what proportion of the percentage point increase in the CPI ind",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1945355,
+   "uin": "31354",
+   "heading": "Council Housing: Construction",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, whether she has a numeric target for the number of council homes, with social rent, to be built each year in this Parliament.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1946940,
+   "uin": "32978",
+   "heading": "Home Ownership Incentive Schemes",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what changes have been made to affordable or low-cost home ownership schemes, supported by her department or Homes England, since July 2024.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1946555,
+   "uin": "32551",
+   "heading": "Social and Affordable Homes Programme: Finance",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, further to the point on departmental capital budgets in the Ministry of Defence joint document entitled Defence Investment Plan Funding explainer, published on 30 June 2026, whet",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1946149,
+   "uin": "32144",
+   "heading": "Ministry of Housing, Communities and Local Government: Conflict of Interests",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what steps she taken to recuse herself on matters relating to companies from whom she has received political donations.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1959512,
+   "uin": "42832",
+   "heading": "Taxation: Sole Traders",
+   "questionText": "To ask the Chancellor of the Exchequer, how many additional hours does HMRC estimate sole traders will spend complying with 'making tax digital' each year.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1959514,
+   "uin": "42834",
+   "heading": "Taxation: Sole Traders",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment has been made as to whether the additional compliance costs could discourage people from becoming self-employed, or lead existing sole traders to cease trading.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1959508,
+   "uin": "42828",
+   "heading": "Taxation: Electronic Government",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment he has made of the potential impact of Making Tax Digital on sole traders, particularly those operating small businesses with limited administrative resources.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1959539,
+   "uin": "42859",
+   "heading": "Road Works: National Underground Asset Register",
+   "questionText": "To ask the Secretary of State for Transport, if she has plans to make an assessment of the impact of the National Underground Asset Register on roadworks and traffic delays.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1955405,
+   "uin": "39834",
+   "heading": "Electric Bicycles and Electric Scooters: Licensing",
+   "questionText": "To ask the Secretary of State for Transport, whether accessibility requirements for people with sight loss will form part of the conditions attached to future rental micromobility licences.",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1955403,
+   "uin": "39832",
+   "heading": "Electric Bicycles and Electric Scooters: Licensing",
+   "questionText": "To ask the Secretary of State for Transport, whether Guide Dogs and other organisations representing people with sight loss will be consulted on the development of the micromobility licensing framework.",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1955404,
+   "uin": "39833",
+   "heading": "Electric Bicycles and Electric Scooters: Parking",
+   "questionText": "To ask the Secretary of State for Transport, whether the proposed licensing framework for rental micromobility companies will require operators to ensure vehicles are parked in designated off-pavement bays only.",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1946944,
+   "uin": "32979",
+   "heading": "Local Government: Devolution",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, with reference to the letter Local government reorganisation: programme review and decisions withdrawal letter to council leaders, of 7 September 2026, whether she plans to publi",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1944357,
+   "uin": "30535",
+   "heading": "Local Government: Reorganisation",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, pursuant to the Answer of 18 September 2026 to Question HL3255 on Unitary Councils, and with reference to the her Department's press release entitled Review of local government r",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1947354,
+   "uin": "33375",
+   "heading": "Local Government: Elections",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what was the total cost to her Department of the legal action, including (a) legal advice, (b) legal fees and (c) claimant costs, in relation to the proposed cancellation of the ",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1945340,
+   "uin": "31353",
+   "heading": "Local Government: Elections",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, with reference to her Department's press release entitled Review of local government reorganisation launched, published on 7 September 2026, and to her Department's guidance enti",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1944941,
+   "uin": "30948",
+   "heading": "Travellers: Caravan Sites",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, if she will make it her policy to enhance councils' enforcement powers and penalties to stop unauthorised traveller development taking place on (a) weekends and (b) bank holiday ",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1946505,
+   "uin": "32546",
+   "heading": "Council Tax: City of Westminster and Wandsworth",
+   "questionText": "To ask the Minister for the Cabinet Office, pursuant to the answer of 16 September 2026, to Question 28983, on Council Tax: City of Westminster and Wandsworth, whether the decision not to apply council tax referendum thresholds in the six councils was app",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1951107,
+   "uin": "36504",
+   "heading": "Diabetes: Medical Devices",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether Integrated Care Boards follow National Institute for Health and Care Excellence eligibility criteria for continuous glucose monitoring devices.",
+   "dateTabled": "2026-10-20T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1946953,
+   "uin": "32980",
+   "heading": "Electoral Register",
+   "questionText": "To ask the Right hon. Member for Kenilworth and Southam, representing the Speaker's Committee on the Electoral Commission, pursuant to the Answer of 12 June 2026 to Question 7841 on Electoral Register, what guidance the Electoral Commission has provided o",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Speaker's Committee on the Electoral Commission"
+  },
+  {
+   "id": 1946553,
+   "uin": "32549",
+   "heading": "Elections: Campaigns",
+   "questionText": "To ask the Right hon. Member for Kenilworth and Southam, representing the Speaker's Committee on the Electoral Commission, what advice and guidance the Electoral Commission has provided in relation to whether a political party imprint is required on digit",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Speaker's Committee on the Electoral Commission"
+  },
+  {
+   "id": 1945744,
+   "uin": "31751",
+   "heading": "Electoral Register: Commonwealth",
+   "questionText": "To ask the Right hon. Member for Kenilworth and Southam, representing the Speaker's Committee on the Electoral Commission, whether the Electoral Commission has issued guidance on whether asylum seekers, from Commonwealth countries, may be considered quali",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Speaker's Committee on the Electoral Commission"
+  },
+  {
+   "id": 1949111,
+   "uin": "34898",
+   "heading": "Parking: Pedestrian Areas",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the answer of 29 June to question 11865, on Parking: Pedestrian Areas, when her Department intends to lay secondary legislation on pavement parking.",
+   "dateTabled": "2026-10-14T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1946094,
+   "uin": "32141",
+   "heading": "Council Tax: City of Westminster and Wandsworth",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, pursuant to the answer of 16 September 2026, to Question 28983, on Council Tax: City of Westminster and Wandsworth, whether the then Prime Minister was consulted over the decisio",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1946148,
+   "uin": "32143",
+   "heading": "Political Parties: Finance",
+   "questionText": "To ask the Right hon. Member for Kenilworth and Southam, representing the Speaker's Committee on the Electoral Commission, pursuant to the Answer of 8 September 2026 to Question 20285 on Political Parties: Finance, whether the Electoral Commission has ass",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Speaker's Committee on the Electoral Commission"
+  },
+  {
+   "id": 1946138,
+   "uin": "32142",
+   "heading": "Elections: Combined Authorities",
+   "questionText": "To ask the Right hon. Member for Kenilworth and Southam, representing the Speaker's Committee on the Electoral Commission, whether the Electoral Commission was consulted on the Government (a) moving the dates of the 2026 combined authority mayoral electio",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Speaker's Committee on the Electoral Commission"
+  },
+  {
+   "id": 1945299,
+   "uin": "31351",
+   "heading": "Census: Housing",
+   "questionText": "To ask the Minister for the Cabinet Office, whether the Office for National Statistics has supplied the HMRC Valuation Office with property attribute data from the 2021 Census for individual dwellings.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1944900,
+   "uin": "30945",
+   "heading": "Asylum: Housing",
+   "questionText": "To ask the Secretary of State for the Home Department, with reference to the Asylum Support Accommodation Programme (ASAP): SRO appointment letter for Becca Jones, January 2026, updated 2 July 2026, what work has the National Infrastructure and Service Tr",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1944368,
+   "uin": "30536",
+   "heading": "Council Tax: Greater London",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the Answer of 16 September 2026 to Question 28983 on Council Tax: City of Westminster and Wandsworth, whether he had discussions with the Secretary of State for Housing, Communities and Local Government ",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1945743,
+   "uin": "31750",
+   "heading": "Taxation: Research",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the answer of 8 September 2026, to Question 20227, on Taxation: Research, if he will place in the Library a copy of each of the four research reports.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1946093,
+   "uin": "32140",
+   "heading": "Council Tax: Valuation",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, pursuant to the answer of 4 September 2026, to Question 19147, on Council tax: Valuation, and further to page 85 of the Explanatory Memorandum to the Local Government Finance (Wa",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1946902,
+   "uin": "32977",
+   "heading": "Small Businesses: Business Rates",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the answer of 9 September 2026, to Question 20482, on Business Rates: Small Businesses, for what reason the thresholds for small business rate relief were not uprated by the average increase in Rateable ",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1946506,
+   "uin": "32547",
+   "heading": "Representation of the People Bill",
+   "questionText": "To ask the Attorney General, pursuant to the answer of 8 September 2026, to Question 20417, on Retrospective Legislation, on what date or dates the Law Officers gave their consent for the retrospective political finance measures in the Representation of t",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Attorney General's Office"
+  },
+  {
+   "id": 1944938,
+   "uin": "30946",
+   "heading": "Public Houses: Business Rates",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the answer of 8 September 2026, to Question 20404, on Public Houses: Business Rates, what number and proportion of pubs were estimated to be part of a wider business group chain.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1945300,
+   "uin": "31352",
+   "heading": "Elections: Northern Ireland",
+   "questionText": "To ask the Secretary of State for Northern Ireland, with reference to the Explanatory Note to the Local Elections (Northern Ireland) (Uprating Election Expenses) Order 2026, if he will publish the inflation methodology for the uprating of each of the elec",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Northern Ireland Office"
+  },
+  {
+   "id": 1947293,
+   "uin": "33374",
+   "heading": "Continuing Care: Finance",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps she is taking to reduce waiting times for receiving continuous healthcare funding.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1947674,
+   "uin": "33657",
+   "heading": "ADHD and Autism: Diagnosis",
+   "questionText": "To ask the Secretary of State for Health and Social Care, pursuant to the answer of 2 September 2026, to Question 19725, on ADHD and Autism: Diagnosis, what steps is NHS England taking to ensure integrated care boards meet targets for improving autism and",
+   "dateTabled": "2026-10-12T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1946539,
+   "uin": "32548",
+   "heading": "Parish and Town Councils: Council Tax",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, whether new town and parish councils created following unitary local government restructuring will be subject to council tax referendum principles.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1944942,
+   "uin": "30949",
+   "heading": "Local Government: Reorganisation",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, with reference to her Oral Statement of 7 September 2026 on Local Government Reorganisation, Official Report, columns 667-669, what is her policy on imposing strategic authoritie",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1946554,
+   "uin": "32550",
+   "heading": "Forestry Commission: Appeals",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, pursuant to the Answer of 2 July 2026 to Question 13144 on Forestry Commission: Appeals, how many current panel members are former employees of the Forestry Commission.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1944939,
+   "uin": "30947",
+   "heading": "Local Government: Reorganisation",
+   "questionText": "To ask the Right hon. Member for Kenilworth and Southam, representing the Speaker's Committee on the Electoral Commission, what role has the Local Government Boundary Commission for England played in reviewing the electoral wards and divisions being propo",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Speaker's Committee on the Electoral Commission"
+  },
+  {
+   "id": 1942545,
+   "uin": "29594",
+   "heading": "No 10 North: Broxbourne",
+   "questionText": "To ask the Minister for the Cabinet Office, what assessment he has made of the potential impact of Number 10 North on the constituency of Broxbourne.",
+   "dateTabled": "2026-09-14T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1938705,
+   "uin": "27584",
+   "heading": "Surrogacy",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what her Department's planned timetable is for publishing a response to the Law Commission’s 2023 report on surrogacy.",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1932815,
+   "uin": "22297",
+   "heading": "Telemedicine",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, whether customers with telecare equipment are only permitted to use BT landline services.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1932851,
+   "uin": "22298",
+   "heading": "Mayors: Hertfordshire",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, whether she has plans to establish a Mayor for Hertfordshire.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1923933,
+   "uin": "15776",
+   "heading": "Jobcentres: Standards",
+   "questionText": "To ask the Secretary of State for Work and Pensions, with reference to the press release entitled Funding for businesses who give youngsters a chance as Government ramps up youth jobs drive, of 29 June 2026, what assessment he made of the effectiveness of",
+   "dateTabled": "2026-07-03T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1924499,
+   "uin": "16118",
+   "heading": "Leasehold: Service Charges",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, when his Department plans to respond to the consultation on Strengthening leaseholder protections over charges and services.",
+   "dateTabled": "2026-07-06T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1917826,
+   "uin": "11209",
+   "heading": "Glioblastoma: Medical Treatments",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the impact of unregulated overseas treatments for glioblastoma on UK based patients traveling abroad to obtain such treatment.",
+   "dateTabled": "2026-06-18T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1917825,
+   "uin": "11208",
+   "heading": "Glioblastoma: Medical Treatments",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what comparative assessment he has made of international best practice in glioblastoma treatment and treatments and outcomes in England.",
+   "dateTabled": "2026-06-18T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1918638,
+   "uin": "11804",
+   "heading": "Employment Schemes: Young People",
+   "questionText": "To ask the Secretary of State for Work and Pensions, with reference to the press release entitled Cardiff's biggest ever jobs fair sees thousands of young people connect with local employers, of 15 May 2026, whether his Department has plans to hold jobs f",
+   "dateTabled": "2026-06-22T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1917827,
+   "uin": "11210",
+   "heading": "Glioblastoma: Clinical Trials",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment his Department has made of the extent of barriers to recruitment for glioblastoma clinical trials in the UK.",
+   "dateTabled": "2026-06-18T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1918637,
+   "uin": "11803",
+   "heading": "Banking Hubs",
+   "questionText": "To ask the Chancellor of the Exchequer, if she will make an estimate of the number of towns that have been left without a bank but are not eligible for a banking hub.",
+   "dateTabled": "2026-06-22T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1918636,
+   "uin": "11802",
+   "heading": "Banking Hubs",
+   "questionText": "To ask the Chancellor of the Exchequer, what steps her Department is taking to support the rollout of 350 banking hubs by the end of this Parliament.",
+   "dateTabled": "2026-06-22T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1915380,
+   "uin": "9178",
+   "heading": "Universities: Strikes",
+   "questionText": "To ask the Secretary of State for Education, what assessment she has made of the impact of marking boycotts on university students.",
+   "dateTabled": "2026-06-11T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1915379,
+   "uin": "9177",
+   "heading": "University of Nottingham: Industrial Action",
+   "questionText": "To ask the Secretary of State for Education, what recent discussions her Department has had with the University and College Union on industrial action at the University of Nottingham; and what steps she is taking to ensure students are not adversely affec",
+   "dateTabled": "2026-06-11T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1912271,
+   "uin": "6884",
+   "heading": "Dedicated Schools Grant",
+   "questionText": "To ask the Secretary of State for Education, how much funding her Department has allocated for the high needs block of dedicated schools grants for each local authority for (a) this year and b) each of the last five years.",
+   "dateTabled": "2026-06-04T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1911540,
+   "uin": "6264",
+   "heading": "Inland Waterways",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, if she will take steps to ensure that recreational water users, including paddlers, are considered in the development of the Clean Water Bill, including in relation to public access to",
+   "dateTabled": "2026-06-02T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1904859,
+   "uin": "781",
+   "heading": "Dentistry: Training",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps he is taking to support dental educational supervisors.",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1904841,
+   "uin": "763",
+   "heading": "Palliative Care",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what date his Department expects to publish the interim statement on the Modern Service Framework for Palliative and End of Life Care.",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1904860,
+   "uin": "782",
+   "heading": "Dental Services: Contracts",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what recent discussions he conducted with dentists before introducing changes to the NHS dentistry contract.",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1887612,
+   "uin": "117935",
+   "heading": "Dentistry: Training",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether he will make an assessment of the potential merits of increasing the maximum fundable limits for dental schools in England.",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1887610,
+   "uin": "117934",
+   "heading": "Dentistry: Training",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps he is taking to increase the allocation of new dental school places.",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1883075,
+   "uin": "114340",
+   "heading": "Wheelchairs",
+   "questionText": "To ask the Secretary of State for Health and Social Care, pursuant to the Answer of 29 October 2025 to Question 69859 on AJM Healthcare: Wheelchairs, what steps his Department is taking to help ensure that Integrated Care Boards adequately deal with compl",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1883074,
+   "uin": "114339",
+   "heading": "AJM Healthcare",
+   "questionText": "To ask the Secretary of State for Health and Social Care, pursuant to the Answer of 17 February 2026 to Question 111545 on AJM Healthcare, what discussions his Department has had with ICBs on complaints about the quality of services provided by AJM Health",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1879683,
+   "uin": "111903",
+   "heading": "Sportsgrounds",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what steps she is taking to help support the provision of multi-use pitches.",
+   "dateTabled": "2026-02-09T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1879679,
+   "uin": "111901",
+   "heading": "Hockey: Clubs",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what steps she is taking to support England Hockey to help ensure there is appropriate provision of playing facilities for amateur hockey clubs.",
+   "dateTabled": "2026-02-09T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1879680,
+   "uin": "111902",
+   "heading": "Sport England",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what steps she is taking to support Sport England.",
+   "dateTabled": "2026-02-09T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1878082,
+   "uin": "110503",
+   "heading": "Fly-tipping: Enforcement",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps she taking to help support councils to seize and crush vehicles involved in fly-tipping.",
+   "dateTabled": "2026-02-03T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1876762,
+   "uin": "109642",
+   "heading": "Roads: Repairs and Maintenance",
+   "questionText": "To ask the Secretary of State for Transport, with reference to Written Statement HCWS1232 on 12 January 2025, what steps she is taking to minimise disruption to road users as a result of additional highways maintenance.",
+   "dateTabled": "2026-01-29T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1876760,
+   "uin": "109641",
+   "heading": "Roads: Repairs and Maintenance",
+   "questionText": "To ask the Secretary of State for Transport, if she will make an estimate of the potential impact of roadworks on the economy.",
+   "dateTabled": "2026-01-29T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1874157,
+   "uin": "107802",
+   "heading": "Property Development: Planning Permission",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what steps he is taking to help ensure local planning authorities enforce Construction Environmental Management Plans.",
+   "dateTabled": "2026-01-22T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1872622,
+   "uin": "106640",
+   "heading": "Department of Health and Social Care: Written Questions",
+   "questionText": "To ask the Secretary of State for Health and Social Care, when he plans to answer Question 99357, tabled on 11 December 2025.",
+   "dateTabled": "2026-01-19T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1863430,
+   "uin": "99357",
+   "heading": "Glioblastoma: Medical Treatments",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what recent discussions he has had with industry on the expansion of manufacturing sites for glioblastoma treatment development.",
+   "dateTabled": "2025-12-11T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1870066,
+   "uin": "104881",
+   "heading": "Public Houses and Pubs Code Adjudicator: Reviews",
+   "questionText": "To ask the Secretary of State for Business and Trade, when he plans to publish a response to the Statutory review of Pubs Code and Pubs Code Adjudicator 2022 to 2025.",
+   "dateTabled": "2026-01-12T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1870109,
+   "uin": "104907",
+   "heading": "Beer and Public Houses: Regulation",
+   "questionText": "To ask the Secretary of State for Business and Trade, what steps he is taking to regulate pub-owning companies and breweries with fewer than 500 tied tenants.",
+   "dateTabled": "2026-01-12T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1863428,
+   "uin": "99356",
+   "heading": "Glioblastoma: Medical Treatments",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what funding the Government has allocated to support new or expanded manufacturing facilities for advanced glioblastoma treatments.",
+   "dateTabled": "2025-12-11T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1864234,
+   "uin": "100102",
+   "heading": "Local Government: Reorganisation",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, pursuant to the Answer of 4 December 2025 to Question 97317 on Local Government: Reorganisation, whether he expects the abolition of Police and Crime Commissioners and the re-org",
+   "dateTabled": "2025-12-15T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1863431,
+   "uin": "99358",
+   "heading": "Glioblastoma: Medical Treatments",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what discussions he has had with the MHRA on the potential impact of regulatory reform on the time taken to develop glioblastoma treatments.",
+   "dateTabled": "2025-12-11T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1860373,
+   "uin": "97317",
+   "heading": "Local Government: Reorganisation",
+   "questionText": "To ask the Chancellor of the Exchequer, with reference to the Autumn Budget 2025, published on 26 November, HC 1492, on what evidential basis she estimated the saving arising from the abolition of Police and Crime Commissioners and re-organising local gov",
+   "dateTabled": "2025-12-04T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1860375,
+   "uin": "97318",
+   "heading": "Schools: Admissions",
+   "questionText": "To ask the Secretary of State for Education, what her Department's policy is on supporting schools with falling pupil numbers.",
+   "dateTabled": "2025-12-04T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1860372,
+   "uin": "97316",
+   "heading": "Road Traffic",
+   "questionText": "To ask the Secretary of State for Transport, if she will make an estimate of the potential impact of traffic congestion on the economy.",
+   "dateTabled": "2025-12-04T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1857470,
+   "uin": "94919",
+   "heading": "New Towns",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, pursuant to the Answer of 21 November 2024 to Question 90424 on New Towns, in which sections of the New Towns Taskforce: Report to government and the Initial government response ",
+   "dateTabled": "2025-11-26T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1856910,
+   "uin": "94405",
+   "heading": "Local Government: Reorganisation",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what his Department's policy is on local authorities who do not wish to engage in local government reorganisation.",
+   "dateTabled": "2025-11-25T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1961654,
+   "uin": "44581",
+   "heading": "Brownfield Sites",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, pursuant to the answer of 10 November 2026, to Question 20063, on Brownfield sites, if she will make it her policy to maintain a database of vacant and surplus brownfield land ow",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1961652,
+   "uin": "44579",
+   "heading": "Visitor Levy",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, with reference to paragraph 72 of the Explanatory Notes to the Visitor Levy (England) Bill, for what reason asylum seeker hotel accommodation is exempt from the levy given the ne",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1961649,
+   "uin": "44576",
+   "heading": "Local Government: Marketing",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, pursuant to the answer of 4 November 2026, to Question 39011, on West Surrey Council, what guidance has her Department given to local authorities on whether a council can have di",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1961647,
+   "uin": "44574",
+   "heading": "Planning Permission",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, pursuant to the answer of 4 November 2026, to Question 20221, on Local Government: Planning, what assessment has been made of the trends in the level of the issuing of Section 97",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1961645,
+   "uin": "44572",
+   "heading": "Sleeping Rough: Finance",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, with reference to the No10 press release, PM confident every rough sleeper will have route off the street by Christmas as funding doubles, of 25 October 2026, in what financial y",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1961644,
+   "uin": "44571",
+   "heading": "Homelessness: Foreign Nationals",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, whether the (a) homelessness and (b) rough sleeping funding provided by the department may be used by local authorities to provide housing for foreign nationals.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1961642,
+   "uin": "44569",
+   "heading": "Business Rates: Tax Allowances",
+   "questionText": "To ask the Chancellor of the Exchequer, with reference to his Department’s publication, Hope on the High Street, 28 October 2026, paragraph 63, whether the removal of business rate relief from businesses that do not make a positive contribution to communi",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1961641,
+   "uin": "44568",
+   "heading": "JP Morgan: Business Rates",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the answer of 8 September 2026, to Question 20419, on JP Morgan: Business Rates, on what date was the final Memorandum of Understanding signed by Ministers.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1961639,
+   "uin": "44566",
+   "heading": "Council Tax: Surcharges",
+   "questionText": "To ask the Chancellor of the Exchequer, with reference to the HM Treasury guidance entitled High Value Council Tax Surcharge, updated 28 October 2026, whether leasehold flats with a lease less than 99 years will be assumed to have a 99 year lease when bei",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1961638,
+   "uin": "44565",
+   "heading": "Electoral Register: Information Sharing",
+   "questionText": "To ask the Chancellor of the Exchequer, what plans HMRC has to share its live data with local authorities to facilitate Automatic Voter Registration.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Treasury"
+  }
+ ],
+ "historyComplete": true
+}

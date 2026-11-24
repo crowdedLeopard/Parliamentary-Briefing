@@ -1,0 +1,1203 @@
+{
+ "id": 1593,
+ "fetchedOn": "2026-11-23",
+ "core": {
+  "id": 1593,
+  "nameListAs": "Wilson, Sammy",
+  "nameDisplayAs": "Sammy Wilson",
+  "nameFullTitle": "Rt Hon Sammy Wilson MP",
+  "nameAddressAs": "Sammy Wilson",
+  "latestParty": {
+   "id": 7,
+   "name": "Democratic Unionist Party",
+   "abbreviation": "DUP",
+   "backgroundColour": "d46a4c",
+   "foregroundColour": "FFFFFF",
+   "isLordsMainParty": false,
+   "isLordsSpiritualParty": true,
+   "governmentType": null,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "East Antrim",
+   "membershipFromId": 4425,
+   "house": 1,
+   "membershipStartDate": "2005-05-05T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2024-07-04T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/1593/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2024-05-31T00:00:00",
+    "constituencyEnd": null,
+    "house": 1,
+    "name": "East Antrim",
+    "id": 4425,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "2010-04-13T00:00:00",
+    "constituencyEnd": "2024-05-30T00:00:00",
+    "house": 1,
+    "name": "East Antrim",
+    "id": 3459,
+    "startDate": "2010-05-06T00:00:00",
+    "endDate": "2024-05-30T00:00:00",
+    "additionalInfo": "Elected 4 times",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "1997-04-09T00:00:00",
+    "constituencyEnd": "2010-04-12T00:00:00",
+    "house": 1,
+    "name": "East Antrim",
+    "id": 959,
+    "startDate": "2005-05-05T00:00:00",
+    "endDate": "2010-05-06T00:00:00",
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [
+   {
+    "house": 1,
+    "name": "East Antrim",
+    "id": 959,
+    "startDate": "2001-06-07T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Strangford",
+    "id": 2825,
+    "startDate": "1992-04-09T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "houseMemberships": [
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "2005-05-05T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Sammy Wilson",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [],
+  "oppositionPosts": [
+   {
+    "house": 1,
+    "name": "Shadow DUP Spokesperson (Brexit)",
+    "id": 1400,
+    "startDate": "2017-07-01T00:00:00",
+    "endDate": "2024-05-30T00:00:00",
+    "additionalInfo": "Opposition Department",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Shadow DUP Spokesperson (Education)",
+    "id": 1275,
+    "startDate": "2015-05-08T00:00:00",
+    "endDate": "2017-06-08T00:00:00",
+    "additionalInfo": "Opposition Department",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Shadow DUP Spokesperson (Treasury)",
+    "id": 1123,
+    "startDate": "2015-05-08T00:00:00",
+    "endDate": "2024-05-30T00:00:00",
+    "additionalInfo": "Opposition Department",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Shadow DUP Spokesperson (Work and Pensions)",
+    "id": 1116,
+    "startDate": "2015-05-08T00:00:00",
+    "endDate": "2024-05-30T00:00:00",
+    "additionalInfo": "Opposition Department",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Shadow DUP Spokesperson (Treasury)",
+    "id": 1123,
+    "startDate": "2010-05-12T00:00:00",
+    "endDate": "2015-03-30T00:00:00",
+    "additionalInfo": "Opposition Department",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Shadow Spokesperson (Education)",
+    "id": 982,
+    "startDate": "2010-05-12T00:00:00",
+    "endDate": "2012-03-30T00:00:00",
+    "additionalInfo": "Department for Education",
+    "additionalInfoLink": "http://www.education.gov.uk/"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Spokesperson (Treasury)",
+    "id": 994,
+    "startDate": "2009-06-01T00:00:00",
+    "endDate": "2010-05-06T00:00:00",
+    "additionalInfo": "HM Treasury",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/hm-treasury"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Spokesperson (Communities and Local Government)",
+    "id": 979,
+    "startDate": "2007-06-01T00:00:00",
+    "endDate": "2009-06-01T00:00:00",
+    "additionalInfo": "Department for Communities and Local Government",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Spokesperson (Education)",
+    "id": 982,
+    "startDate": "2007-06-01T00:00:00",
+    "endDate": "2010-06-01T00:00:00",
+    "additionalInfo": "Department for Education",
+    "additionalInfoLink": "http://www.education.gov.uk/"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Spokesperson (Innovation, Universities and Skills)",
+    "id": 1032,
+    "startDate": "2007-06-01T00:00:00",
+    "endDate": "2008-06-01T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Shadow Spokesperson (Communities and Local Government)",
+    "id": 979,
+    "startDate": "2005-06-01T00:00:00",
+    "endDate": "2007-06-01T00:00:00",
+    "additionalInfo": "Department for Communities and Local Government",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government"
+   },
+   {
+    "house": null,
+    "name": "Shadow Spokesperson (Education)",
+    "id": 982,
+    "startDate": "2003-06-01T00:00:00",
+    "endDate": "2007-06-01T00:00:00",
+    "additionalInfo": "Department for Education",
+    "additionalInfoLink": "http://www.education.gov.uk/"
+   }
+  ],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Democratic Unionist Party",
+    "id": 7,
+    "startDate": "2005-05-05T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 1,
+    "name": "Northern Ireland Affairs Committee",
+    "id": 120,
+    "startDate": "2005-07-12T00:00:00",
+    "endDate": "2008-11-10T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Transport Committee",
+    "id": 153,
+    "startDate": "2008-11-10T00:00:00",
+    "endDate": "2009-11-09T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Committee on the Future Relationship with the European Union",
+    "id": 366,
+    "startDate": "2017-09-11T00:00:00",
+    "endDate": "2019-11-06T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Committee on the Future Relationship with the European Union",
+    "id": 366,
+    "startDate": "2016-10-31T00:00:00",
+    "endDate": "2017-05-03T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Cultural Objects (Protection From Seizure) Bill",
+    "id": 555,
+    "startDate": "2021-11-09T00:00:00",
+    "endDate": "2021-11-17T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Hunting Trophies (Import Prohibition) Bill",
+    "id": 640,
+    "startDate": "2023-01-18T00:00:00",
+    "endDate": "2023-01-25T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "European Scrutiny Committee",
+    "id": 69,
+    "startDate": "2024-04-23T00:00:00",
+    "endDate": "2024-05-30T00:01:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Space Industry (Indemnities) Bill",
+    "id": 726,
+    "startDate": "2024-05-01T00:00:00",
+    "endDate": "2024-05-08T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Speaker's Conference (2024)",
+    "id": 741,
+    "startDate": "2024-12-18T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Environmental Audit Committee",
+    "id": 62,
+    "startDate": "2025-02-24T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 5,
+   "name": "4. Visits outside the UK",
+   "sortOrder": 0,
+   "interests": [
+    {
+     "id": 13838,
+     "interest": "Name of donor: Embassy of Israel\r\nAddress of donor: Embassy of Israel, 2 Palace Green, London W8 4QB\r\nEstimate of the probable value (or amount of any donation): Flights (£800),  food and transport (£1760), accommodation (£1250), value £3,810\r\nDestination of visit: Israel\r\nDates of visit: 23 October 2025 to 30 October 2025\r\nPurpose of visit: This was a fact finding visit which included visiting Israeli Jews, Christians, Muslims, Druze and others, meeting members of civil and political society (including Government and opposition MK's) being briefed by eyewitnesses to the murderous terrorist attacks by Hamas, Hezbollah, Iran and the Houthis.\r\n(Registered 12 November 2025)",
+     "createdWhen": "2025-11-18T10:10:05.49",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "name": "8. Miscellaneous",
+   "sortOrder": 1,
+   "interests": [
+    {
+     "id": 1271,
+     "interest": "Board Member of the Centre for Brexit Policy. This is an unpaid role.\r\nDate interest arose: 1 June 2019\r\n(Registered 2 February 2022)",
+     "createdWhen": "2024-04-18T15:14:17.6133333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [
+  {
+   "category": "Political Interests",
+   "focus": [
+    "Social issues, policing, education"
+   ]
+  }
+ ],
+ "synopsis": "The Rt Hon Sammy Wilson is the Democratic Unionist Party MP for <a href='/constituency/4425/overview'>East Antrim</a>, and has been an MP continually since 5 May 2005.",
+ "history": [
+  {
+   "id": 1958914,
+   "uin": "42392",
+   "heading": "Uzbekistan: Religious Freedom",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what assessment he has made of the implications for his policies of reports that independent Muslims in Uzbekistan are being detained, fined or imprisoned for peaceful religi",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1951606,
+   "uin": "36870",
+   "heading": "Gaming Machines: Excise Duties",
+   "questionText": "To ask the Chancellor of the Exchequer, what recent assessment he has made of whether revenues from Machine Games Duty are sufficient to offset the costs to public services associated with gambling-related harm linked to Category B machines.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1958915,
+   "uin": "42393",
+   "heading": "Hunting: Animal Products",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, when does she plan to (a) conclude her round of engagements with relevant stakeholders on banning imports of hunting trophies, and (b) bring forward legislation banning imports of hunt",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1955348,
+   "uin": "39777",
+   "heading": "Kyrgyzstan: Religious Freedom",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, whether he has made representations to the Government of Kyrgyzstan on the treatment of members of the True and Free Reform Seventh-day Adventist Church, including the detent",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1955347,
+   "uin": "39776",
+   "heading": "Pakistan: Religious Freedom",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what assessment he has made of reports of abduction, forced religious conversion and forced marriage of Hindu and Christian girls and women in Pakistan; and what diplomatic s",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1951492,
+   "uin": "36756",
+   "heading": "Georgia: Religious Buildings",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what assessment he has made of the potential implications for his policies of reports that the predominantly Sunni Adjarian Muslim community in Batumi, Georgia, has experienc",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1951605,
+   "uin": "36869",
+   "heading": "Gaming Machines: Fines",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what assessment she has made of the effectiveness of financial penalties for gambling operators in relation to breaches involving adult gaming centres, and whether further measures are n",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1951505,
+   "uin": "36769",
+   "heading": "Hunting: Animal Products",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, if she will consider employing the Tiger precedent to implement Stricter National Measures under the UK Wildlife Trade Regulations to ban imports of hunting trophies of highly vulnerab",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1946994,
+   "uin": "33210",
+   "heading": "Gaming Machines: Excise Duties",
+   "questionText": "To ask the Chancellor of the Exchequer, what recent assessment he has made of whether the current rate of Machine Gaming Duty appropriately reflects the estimated £2.33 billion cost of machine gaming to the UK economy.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1946198,
+   "uin": "32383",
+   "heading": "Gaming Machines: Excise Duties",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment he has made of the potential revenue impact of increasing Machine Games Duty on Category B machines from 20 per cent to 40 per cent.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1945915,
+   "uin": "31988",
+   "heading": "Afghanistan: Religious Freedom",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what representations he has made to the Government of Afghanistan in relation to the treatment of religious communities by the Taliban.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1942352,
+   "uin": "29385",
+   "heading": "Indonesia: Ahmadiyya",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what recent discussions he has had with the Government of Indonesia concerning restrictions on the Ahmadiyya Muslim Community’s freedom to worship and reports of discriminati",
+   "dateTabled": "2026-09-14T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1941544,
+   "uin": "29116",
+   "heading": "Offences against Children",
+   "questionText": "To ask the Secretary of State for the Home Department, how many individuals identified as members of organised grooming gangs have been charged with and convicted of rape offences in the United Kingdom in each of the last ten years.",
+   "dateTabled": "2026-09-11T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1941545,
+   "uin": "29117",
+   "heading": "Schools: Uniforms",
+   "questionText": "To ask the Chancellor of the Exchequer, whether he plans to review VAT on school uniforms.",
+   "dateTabled": "2026-09-11T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1941546,
+   "uin": "29118",
+   "heading": "Wind Power: Land",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she has made of the potential impact of Biodiversity Net Gain and peatland restoration funding on land subsequently developed for onshore wind.",
+   "dateTabled": "2026-09-11T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1930340,
+   "uin": "19919",
+   "heading": "Controlled Burning",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment her Department has made of the impact of restrictions on the mowing, burning and grazing of vegetation on (i) its volume, (ii) its age structure, (iii) its moisture con",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1930339,
+   "uin": "19918",
+   "heading": "Peatlands",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, in developing her Department’s peatland calculator for carbon losses, whether the Government will include peat destruction caused by (i) wind farm developments and (ii) wildfires cause",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1924024,
+   "uin": "15684",
+   "heading": "Gambling: Licensing",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, whether her Department has made an assessment of the adequacy of the Gambling Commission’s licensing checks in identifying whether gambling software providers supply unlicensed gambling websites.",
+   "dateTabled": "2026-07-03T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1919726,
+   "uin": "12653",
+   "heading": "Warm Homes Plan",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, if he will work with the Northern Ireland Executive to ensure that low-carbon and sustainable heating technologies other than heat pumps are included within the final capital support framewor",
+   "dateTabled": "2026-06-24T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1919080,
+   "uin": "12082",
+   "heading": "Armenia: Conscientious Objectors",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what recent discussions she has had with her Armenian counterpart on access to alternative civilian service for religious conscientious objectors.",
+   "dateTabled": "2026-06-23T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1919014,
+   "uin": "12081",
+   "heading": "Dementia: Palliative Care",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether the Modern Service Framework for Palliative and End of Life Care will include condition specific measures to address the palliative and end of life care needs of people living with dementia",
+   "dateTabled": "2026-06-23T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1919013,
+   "uin": "12080",
+   "heading": "Dementia: Palliative Care",
+   "questionText": "To ask the Secretary of State for Health and Social Care, if he will commit to the Modern Service Framework for Palliative and End of Life Care including guidance on ensuring reviewed advance care planning for people living with dementia.",
+   "dateTabled": "2026-06-23T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1916639,
+   "uin": "10098",
+   "heading": "Hepatitis: Compensation",
+   "questionText": "To ask the Minister for the Cabinet Office, Will the Paymaster confirm how many chronic Hepatitis B and chronic Hepatitis C victims received their compensation and how many do the IBCA intend to review because of administrative mistakes on the redefinitio",
+   "dateTabled": "2026-06-16T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1916640,
+   "uin": "10099",
+   "heading": "Kyrgyzstan: Baptist Church",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what recent discussions she has had with the Government of Kyrgyzstan on registration requirements affecting Council of Churches Baptist congregations and their ability to me",
+   "dateTabled": "2026-06-16T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1911216,
+   "uin": "5895",
+   "heading": "Gambling: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what discussions she has had with technology companies on tackling AI-generated guidance on circumventing gambling regulation.",
+   "dateTabled": "2026-06-02T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1911215,
+   "uin": "5894",
+   "heading": "Gambling: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what assessment her Department has made of the role of generative AI chatbots in facilitating access to unlicensed gambling operators.",
+   "dateTabled": "2026-06-02T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1911217,
+   "uin": "5896",
+   "heading": "World Cup: Gambling",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what steps the Government is taking to prevent children from being targeted with online gambling advertisements during the FIFA World Cup 2026.",
+   "dateTabled": "2026-06-02T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1911218,
+   "uin": "5897",
+   "heading": "Cuba: Christianity",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, whether she has made representations to her Cuban counterpart on (a) the detention of Jonathan Muir Burgos and (b) the Christian community in the last 12 months.",
+   "dateTabled": "2026-06-02T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1904102,
+   "uin": "76",
+   "heading": "Republic of Ireland: Soft Power",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what assessment she has made of the potential impact of Cultural and Educational Programs on UK soft power in Ireland.",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1904264,
+   "uin": "114",
+   "heading": "Alternative Fuels: Aviation",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, whether his Department plans to bring forward the timetable for recognising emissions reductions associated with Sustainable Aviation Fuel under the UK Emissions Trading Scheme.",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1904263,
+   "uin": "113",
+   "heading": "Alternative Fuels: Aviation",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what assessment he has made of the potential impact of a delay in the implementation of reforms to the UK Emissions Trading Scheme treatment of Sustainable Aviation Fuel on sustainable aviati",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1904099,
+   "uin": "75",
+   "heading": "Northern Ireland: British Council",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what recent assessment she has made of the potential impact of British Council programs in Northern Ireland on that country; and whether she plans to support the continuation",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1904104,
+   "uin": "77",
+   "heading": "Pakistan: International Asssitance",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what assessment she has made of the potential impact of UK (a) bilateral and (b) multilateral assistance to Pakistan on (i) improvements in freedom of religion or belief and ",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1896575,
+   "uin": "124522",
+   "heading": "Defence Equipment: Exports",
+   "questionText": "To ask the Secretary of State for Defence, what measures has his Department put in place to support UK firms supplying defence equipment to Ukraine to adopt rapid innovation cycles based on operational experience.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1896573,
+   "uin": "124520",
+   "heading": "Defence Equipment: Exports",
+   "questionText": "To ask the Secretary of State for Defence, what support his Department is providing to UK companies exporting defence technologies to Ukraine to help them leverage battlefield-tested innovations for wider international markets.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1899473,
+   "uin": "127071",
+   "heading": "Public Expenditure: Northern Ireland",
+   "questionText": "To ask the Chancellor of the Exchequer, did the Northern Ireland Executive receive a Barnett consequential payment as a result of the £42.3 million top-up to the English apprenticeship budget for the year 2025/2026.",
+   "dateTabled": "2026-04-14T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1896576,
+   "uin": "124523",
+   "heading": "Ukraine: Armed Conflict",
+   "questionText": "To ask the Secretary of State for Defence, whether the Government plans to integrate lessons from operational innovation in Ukraine into UK defence procurement and research strategy.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1896570,
+   "uin": "124517",
+   "heading": "Refineries: UK Carbon Border Adjustment Mechanism",
+   "questionText": "To ask the Chancellor of the Exchequer, whether her Department has made an assessment of the potential impact of including refined products in the Carbon Border Adjustment Mechanism on the the level of economic growth.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1896569,
+   "uin": "124516",
+   "heading": "Refineries: UK Carbon Border Adjustment Mechanism",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of the potential impact of not including refined products within the Carbon Border Adjustment Mechanism from January 2028.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1896572,
+   "uin": "124519",
+   "heading": "Gambling: Video Games",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what assessment she has made of the effectiveness of PEGI’s self-regulatory framework in enforcing age ratings for video games containing loot boxes.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1896571,
+   "uin": "124518",
+   "heading": "Gambling: Video Games",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what discussions she has had with the Games Rating Authority on their proposals for monitoring compliance with the minimum age requirement for games featuring loot boxes.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1896574,
+   "uin": "124521",
+   "heading": "Ukraine: Armed Conflict",
+   "questionText": "To ask the Secretary of State for Defence, what steps his Department is taking with Cabinet colleagues to facilitate knowledge transfer from Ukraine’s battlefield innovation experience to UK-based defence SMEs.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1893413,
+   "uin": "122471",
+   "heading": "Peatlands: Conservation",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether she has identified any peatland site which has been demonstrated to be wildfire resilient because of rewetting alone.",
+   "dateTabled": "2026-03-20T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1890272,
+   "uin": "119840",
+   "heading": "Animal Experiments",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what steps she is taking to phase out of the use of animals in science.",
+   "dateTabled": "2026-03-11T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1890285,
+   "uin": "119841",
+   "heading": "Heathrow Airport: Construction",
+   "questionText": "To ask the Secretary of State for Transport, what assessment her Department has made of the potential impact of the building of the third runway at Heathrow on flights from non-London airports.",
+   "dateTabled": "2026-03-11T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1890270,
+   "uin": "119839",
+   "heading": "Animal Experiments",
+   "questionText": "To ask the Secretary of State for the Home Department, what plans she has to review the adequacy of her Department's enforcement of section 2A of the Animals (Scientific Procedures) Act 1986.",
+   "dateTabled": "2026-03-11T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1890267,
+   "uin": "119838",
+   "heading": "Nadeem Masih",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what representations she has made to her Pakistani counterpart on the denial of bail to Nadeem Masih; and what diplomatic steps she is taking to help tackle the impact of Pak",
+   "dateTabled": "2026-03-11T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1890293,
+   "uin": "119842",
+   "heading": "Malaysia: Rohingya",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what discussions she has had with her Malaysian counterpart on the protection and support of Rohingya refugees.",
+   "dateTabled": "2026-03-11T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1885730,
+   "uin": "116463",
+   "heading": "UK Shared Prosperity Fund: Northern Ireland",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, whether (a) the UK Shared Prosperity Fund programme was representative geographically and based on evidenced need across Northern Ireland; (b) any gaps were identified in the UK ",
+   "dateTabled": "2026-02-27T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1885728,
+   "uin": "116461",
+   "heading": "UK Shared Prosperity Fund: Northern Ireland",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what are the outcomes of the UK shared Prosperity Fund programme in Northern Ireland including (a) the total number of participants engaged across the region; (b) the number and ",
+   "dateTabled": "2026-02-27T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1887520,
+   "uin": "117688",
+   "heading": "Malaysia: Rohingya",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, pursuant to the Answer of 10 February to Question 110802 on Malaysia: Rohingya, whether (a) enforcement mechanisms, (b) monitoring arrangements and (c) safeguards have been e",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1885729,
+   "uin": "116462",
+   "heading": "UK Shared Prosperity Fund: Northern Ireland",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, whether the UK Shared Prosperity Fund programme contributed to the Northern Ireland Economic Strategy.",
+   "dateTabled": "2026-02-27T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1885724,
+   "uin": "116458",
+   "heading": "UK Shared Prosperity Fund",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, how much under-spending was identified in the first two years of the Shared Prosperity Fund and was any of this under-spending used to support funding in the third year.",
+   "dateTabled": "2026-02-27T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1885725,
+   "uin": "116459",
+   "heading": "Local Growth Fund",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, whether there will be an open call for the new Local Growth Fund.",
+   "dateTabled": "2026-02-27T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1885726,
+   "uin": "116460",
+   "heading": "Local Growth Fund: Northern Ireland",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what assessment he has made of whether the proposed funding allocations of the Local Growth Fund align with the Northern Ireland Economic Strategy.",
+   "dateTabled": "2026-02-27T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1885715,
+   "uin": "116455",
+   "heading": "Refineries: UK Carbon Border Adjustment Mechanism",
+   "questionText": "To ask the Chancellor of the Exchequer, whether she plans to include refineries in the Carbon Border Adjustment Mechanism from January 2028.",
+   "dateTabled": "2026-02-27T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1885718,
+   "uin": "116456",
+   "heading": "Carbon Emissions: Refineries",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what assessment his Department has made of the potential impact of carbon pricing on the refinery sector.",
+   "dateTabled": "2026-02-27T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1885719,
+   "uin": "116457",
+   "heading": "Carbon Emissions: Refineries",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what assessment he has made of the potential impact of carbon price linkage within the EU on the oil refining sector in the UK.",
+   "dateTabled": "2026-02-27T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1882134,
+   "uin": "113504",
+   "heading": "Environment Protection: Regulation",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she has made of the potential impact of levels of environmental regulation since 2010 on trends in environmental outcomes, including the condition of protected sites, s",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1882136,
+   "uin": "113505",
+   "heading": "Environment Protection: Regulation",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, which body is responsible for monitoring the outcomes of environmental regulation; and what corrective mechanisms are in place when environmental targets are not met.",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1882518,
+   "uin": "113506",
+   "heading": "Refineries: UK Carbon Border Adjustment Mechanism",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, whether his Department has contingency plans for alternate support measures to the Carbon Border Adjustment Mechanism for refineries.",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1882519,
+   "uin": "113507",
+   "heading": "Refineries: UK Carbon Border Adjustment Mechanism",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of the potential impact of the refining sector not being included in the Carbon Border Adjustment Mechanism or a similar support measure on trends in the level of growth of that sector.",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1879026,
+   "uin": "111099",
+   "heading": "UK Emissions Trading Scheme: Shipping",
+   "questionText": "To ask the Secretary of State for Transport, what steps her Department is taking to ensure that the proposed expansion of the UK Emissions Trading Scheme to international maritime voyages is not in addition to the International Maritime Organisation’s exp",
+   "dateTabled": "2026-02-05T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1879024,
+   "uin": "111097",
+   "heading": "UK Emissions Trading Scheme: Northern Ireland",
+   "questionText": "To ask the Secretary of State for Transport, what analysis her Department has undertaken on the potential impact of the UK Emissions Trading Scheme expansion to maritime on the competitiveness of Northern Irish ports in attracting cruise business.",
+   "dateTabled": "2026-02-05T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1879025,
+   "uin": "111098",
+   "heading": "UK Emissions Trading Scheme: Shipping",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what discussions he has had with Cabinet colleagues and the Northern Irish Government on using funds raised by the expansion of the UK Emissions Trading Scheme to maritime to support maritime",
+   "dateTabled": "2026-02-05T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1876700,
+   "uin": "109526",
+   "heading": "Gambling: Excise Duties",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of the potential impact of the Remote Gaming Duty tax on reducing gambling related harm.",
+   "dateTabled": "2026-01-29T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1876698,
+   "uin": "109525",
+   "heading": "Planning Permission",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether her Department has made an assessment of the potential impact of false applications for the de minimis exemption on delays within the planning system.",
+   "dateTabled": "2026-01-29T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1876696,
+   "uin": "109524",
+   "heading": "Biodiversity: Property Development",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment her Department has made of the potential impact of misapplication of the de minimis exemption on the rollout of biodiversity net gain obligations.",
+   "dateTabled": "2026-01-29T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1876692,
+   "uin": "109523",
+   "heading": "Biodiversity: Property Development",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether the Government response to the Improving biodiversity net gain for minor, medium and brownfield development consultation will set out plans for addressing concerns regarding mi",
+   "dateTabled": "2026-01-29T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1874886,
+   "uin": "108183",
+   "heading": "Refineries: Carbon Emissions",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what assessment he has made of the potential impact of the European Commission’s proposals for the EU Carbon Border Adjustment Mechanism on the competitiveness and decarbonisation of the UK o",
+   "dateTabled": "2026-01-26T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1874897,
+   "uin": "108185",
+   "heading": "Refineries: UK Carbon Border Adjustment Mechanism",
+   "questionText": "To ask the Chancellor of the Exchequer, what progress she has made on considering the feasibility and impact of including refined products in the Carbon Border Adjustment Mechanism.",
+   "dateTabled": "2026-01-26T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1874896,
+   "uin": "108184",
+   "heading": "Refineries: UK Carbon Border Adjustment Mechanism",
+   "questionText": "To ask the Chancellor of the Exchequer, whether her Department plans to include the UK oil refining sector in the scope of the UK Carbon Border Adjustment Mechanism.",
+   "dateTabled": "2026-01-26T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1873766,
+   "uin": "107354",
+   "heading": "Afghanistan: Religious Freedom",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what steps she is taking to support international monitoring and accountability mechanisms on freedom of religion or belief in Afghanistan.",
+   "dateTabled": "2026-01-21T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1873767,
+   "uin": "107355",
+   "heading": "Algeria: Ahmadiyya",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what representations they have made to the government of Algeria regarding restrictions on the freedom of worship of the Ahmadiyya Muslims.",
+   "dateTabled": "2026-01-21T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1871925,
+   "uin": "106097",
+   "heading": "Gambling and Video Games: Children and Young People",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what comparative assessment her Department has made of (a) loot boxes in video games and (b) gambling products; and what steps she is taking to mitigate potential harms associated with loot box m",
+   "dateTabled": "2026-01-15T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1872446,
+   "uin": "106307",
+   "heading": "Peatlands",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what comparative assessment she has made of wildfire risks under (a) prescribed burning, (b) mechanical cutting and (c) no active vegetation management.",
+   "dateTabled": "2026-01-16T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1872443,
+   "uin": "106306",
+   "heading": "Peatlands",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she has made of the potential impact of unmanaged vegetation fuel loads on upland peatland and the severity of wildfires.",
+   "dateTabled": "2026-01-16T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1870929,
+   "uin": "105213",
+   "heading": "India: Armed Conflict",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what recent discussions she has had with her Indian counterpart on the protection of civilians, including members of the Muslim community.",
+   "dateTabled": "2026-01-13T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1861899,
+   "uin": "97761",
+   "heading": "Aluminium: Exports",
+   "questionText": "To ask the Secretary of State for Business and Trade, what plans he has to restrict the export of scrap aluminium from the UK to address the challenge of scarce critical minerals identified in the Critical Mineral Strategy, published on the 22nd of Novemb",
+   "dateTabled": "2025-12-08T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1859421,
+   "uin": "96101",
+   "heading": "Gambling: Advertising",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what assessment has been made of the effectiveness of current regulatory protections, such as age verification and advertising restrictions, in preventing gambling among young people.",
+   "dateTabled": "2025-12-02T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1859408,
+   "uin": "96097",
+   "heading": "Gambling: Advertising",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what assessment she has made of the effectiveness of current regulatory frameworks governing gambling advertising across broadcast, online, and social media platforms.",
+   "dateTabled": "2025-12-02T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1859410,
+   "uin": "96098",
+   "heading": "Gambling: Advertising",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, whether she plans to require gambling operators and online platforms to provide greater transparency regarding how gambling advertisements are targeted and delivered to users.",
+   "dateTabled": "2025-12-02T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1859406,
+   "uin": "96096",
+   "heading": "Cameroon: Christianity",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what recent discussions she has had with the Cameroon authorities concerning the recent kidnapping and detention of Christian clergy in the Northeast region.",
+   "dateTabled": "2025-12-02T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1859424,
+   "uin": "96103",
+   "heading": "Fuels: Excise Duties",
+   "questionText": "To ask the Chancellor of the Exchequer, what recent estimate she has made of the contribution of fuel duty to inflation and the cost of living; and whether she will review current rates in the context of wider price pressures.",
+   "dateTabled": "2025-12-02T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1859417,
+   "uin": "96100",
+   "heading": "Gambling: Rehabilitation",
+   "questionText": "To ask the Secretary of State for Justice, what assessment he has made of the availability and effectiveness of rehabilitation support for individuals with a gambling addiction within the criminal justice system.",
+   "dateTabled": "2025-12-02T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1859415,
+   "uin": "96099",
+   "heading": "Gambling: Rehabilitation",
+   "questionText": "To ask the Secretary of State for Justice, what assessment he has made of the prevalence of gambling-related harm among individuals within the criminal justice system; and what steps he is taking to improve screening and support for problem gambling in pr",
+   "dateTabled": "2025-12-02T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1859432,
+   "uin": "96104",
+   "heading": "Ports: Energy",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what steps he is taking to support the provision of onshore power supply for ports across the UK, including in Northern Ireland, in relation to onshore power supply for ferries and cruise shi",
+   "dateTabled": "2025-12-02T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1859422,
+   "uin": "96102",
+   "heading": "Fuels: Excise Duties",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of the impact of current fuel duty rates on the road freight and logistics sector; and whether her Department plans to bring forward measures to reduce transport costs.",
+   "dateTabled": "2025-12-02T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1859435,
+   "uin": "96106",
+   "heading": "Shipping: UK Emissions Trading Scheme",
+   "questionText": "To ask the Secretary of State for Transport, what steps her Department is taking to provide certainty to industry in relation to the expansion of the UK Emissions Trading Scheme to maritime.",
+   "dateTabled": "2025-12-02T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1859434,
+   "uin": "96105",
+   "heading": "Ports: Electrification",
+   "questionText": "To ask the Secretary of State for Transport, what discussions her Department has had with the Department for Energy Security and Net Zero on prioritising access to the national grid for port electrification to support ports who wish to offer onshore power",
+   "dateTabled": "2025-12-02T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1856888,
+   "uin": "94163",
+   "heading": "China: Falun Gong",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what recent discussions she had with international counterparts concerning ongoing reports of (a) detention and (b) killing of the Falun Gong in China.",
+   "dateTabled": "2025-11-25T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1856880,
+   "uin": "94162",
+   "heading": "Zhan Zhang",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what assessment she has made of the potential implications for her policies of reports of increased prison restrictions for human rights activist Zhang Zhan; and what diploma",
+   "dateTabled": "2025-11-25T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1856867,
+   "uin": "94160",
+   "heading": "Hydrogen",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, when he will publish the Hydrogen Allocation Round 3 market engagement exercise.",
+   "dateTabled": "2025-11-25T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1856865,
+   "uin": "94159",
+   "heading": "Hydrogen: Production",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what steps he is taking to increase the levels of UK content used in hydrogen production projects as part of the upcoming Hydrogen Allocation Round 3.",
+   "dateTabled": "2025-11-25T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1856861,
+   "uin": "94157",
+   "heading": "Fires: Farmers and Gamekeepers",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, if she will make an assessment of the potential impact of farmers and gamekeepers on fighting wildfires.",
+   "dateTabled": "2025-11-25T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1856868,
+   "uin": "94161",
+   "heading": "Hydrogen: Supply Chains",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what steps he is taking to introduce monitoring and evaluation to determine the health and success of the UK hydrogen supply chain.",
+   "dateTabled": "2025-11-25T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1856852,
+   "uin": "94156",
+   "heading": "Minerals",
+   "questionText": "To ask the Secretary of State for Business and Trade, to what extent the Critical Minerals Strategy will align with the EU’s Steel and Metals Action Plan.",
+   "dateTabled": "2025-11-25T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1856187,
+   "uin": "93693",
+   "heading": "Democratic Republic of the Congo: Homicide",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what assessment she has made of the potential implications of her policies of the recent murder of 20 people following an attack on a Christian-run hospital in North Kivu, De",
+   "dateTabled": "2025-11-24T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1856851,
+   "uin": "94155",
+   "heading": "Aluminium: Waste Disposal",
+   "questionText": "To ask the Secretary of State for Business and Trade, whether his Department will assess the economic and environmental impacts of exporting aluminium scrap to non-EU countries.",
+   "dateTabled": "2025-11-25T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1856862,
+   "uin": "94158",
+   "heading": "Fuel Cells and Hydrogen: Exports",
+   "questionText": "To ask the Secretary of State for Business and Trade, what steps he is taking to help ensure that the value of hydrogen and fuel cell exports reaches the target set out in the Industrial Strategy.",
+   "dateTabled": "2025-11-25T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1962456,
+   "uin": "45326",
+   "heading": "Football: Gambling",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what assessment she has made of the potential implications for her policies of recent University of Bristol research identifying 15,571 gambling advertising messages during the opening w",
+   "dateTabled": "2026-11-20T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1962454,
+   "uin": "45325",
+   "heading": "Football: Gambling",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, whether she has considered introducing restrictions on gambling sponsorship on football shirt sleeves and training kits.",
+   "dateTabled": "2026-11-20T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1962452,
+   "uin": "45324",
+   "heading": "Turkey: Alevism",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what discussions he has had with his Turkish counterpart on reports published in September 2026 that Alevi sites of worship continue to lack recognition as places of worship;",
+   "dateTabled": "2026-11-20T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1947894,
+   "uin": "33877",
+   "heading": "Fires: Scotland",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, if the Government will invite the Scottish Government to his wildfire summit to discuss its approach to managing the vegetation which sits above the UK's deep peat.",
+   "dateTabled": "2026-10-12T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  }
+ ],
+ "historyComplete": true
+}

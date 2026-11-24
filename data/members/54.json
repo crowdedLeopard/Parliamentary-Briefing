@@ -1,0 +1,1288 @@
+{
+ "id": 54,
+ "fetchedOn": "2026-11-23",
+ "core": {
+  "id": 54,
+  "nameListAs": "Lewis, Sir Julian",
+  "nameDisplayAs": "Sir Julian Lewis",
+  "nameFullTitle": "Rt Hon Sir Julian Lewis MP",
+  "nameAddressAs": "Sir Julian Lewis",
+  "latestParty": {
+   "id": 4,
+   "name": "Conservative",
+   "abbreviation": "Con",
+   "backgroundColour": "0063ba",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": false,
+   "governmentType": 3,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "New Forest East",
+   "membershipFromId": 4188,
+   "house": 1,
+   "membershipStartDate": "1997-05-01T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2024-07-04T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/54/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2024-05-31T00:00:00",
+    "constituencyEnd": null,
+    "house": 1,
+    "name": "New Forest East",
+    "id": 4188,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "2010-04-13T00:00:00",
+    "constituencyEnd": "2024-05-30T00:00:00",
+    "house": 1,
+    "name": "New Forest East",
+    "id": 3621,
+    "startDate": "2010-05-06T00:00:00",
+    "endDate": "2024-05-30T00:00:00",
+    "additionalInfo": "Elected 4 times",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "1997-04-09T00:00:00",
+    "constituencyEnd": "2010-04-12T00:00:00",
+    "house": 1,
+    "name": "New Forest East",
+    "id": 2040,
+    "startDate": "1997-05-01T00:00:00",
+    "endDate": "2010-05-06T00:00:00",
+    "additionalInfo": "Elected 3 times",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [
+   {
+    "house": 1,
+    "name": "Swansea West",
+    "id": 2887,
+    "startDate": "1983-06-09T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "houseMemberships": [
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "1997-05-01T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Sir Julian Lewis",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [],
+  "oppositionPosts": [
+   {
+    "house": 1,
+    "name": "Shadow Minister (Defence)",
+    "id": 959,
+    "startDate": "2005-05-10T00:00:00",
+    "endDate": "2010-05-06T00:00:00",
+    "additionalInfo": "Ministry of Defence",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/ministry-of-defence"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Minister (Cabinet Office)",
+    "id": 956,
+    "startDate": "2004-07-01T00:00:00",
+    "endDate": "2005-05-10T00:00:00",
+    "additionalInfo": "Cabinet Office",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/cabinet-office"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Minister (Defence)",
+    "id": 959,
+    "startDate": "2002-07-01T00:00:00",
+    "endDate": "2004-07-01T00:00:00",
+    "additionalInfo": "Ministry of Defence",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/ministry-of-defence"
+   },
+   {
+    "house": 1,
+    "name": "Opposition Whip (Commons)",
+    "id": 10,
+    "startDate": "2001-07-01T00:00:00",
+    "endDate": "2002-07-01T00:00:00",
+    "additionalInfo": "Whips Office (Commons)",
+    "additionalInfoLink": null
+   }
+  ],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Conservative",
+    "id": 4,
+    "startDate": "2020-12-30T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Independent",
+    "id": 8,
+    "startDate": "2020-07-15T00:00:00",
+    "endDate": "2020-12-30T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Conservative",
+    "id": 4,
+    "startDate": "1997-05-01T00:00:00",
+    "endDate": "2020-07-16T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 1,
+    "name": "Welsh Affairs Committee",
+    "id": 162,
+    "startDate": "1998-06-22T00:00:00",
+    "endDate": "2001-05-11T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Defence Committee",
+    "id": 24,
+    "startDate": "2017-07-12T00:00:00",
+    "endDate": "2019-11-06T00:00:00",
+    "additionalInfo": "Chair",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Defence Committee",
+    "id": 24,
+    "startDate": "2015-06-18T00:00:00",
+    "endDate": "2017-05-03T00:00:00",
+    "additionalInfo": "Chair",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Defence Committee",
+    "id": 24,
+    "startDate": "2014-11-03T00:00:00",
+    "endDate": "2015-03-30T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Defence Committee",
+    "id": 24,
+    "startDate": "2000-02-03T00:00:00",
+    "endDate": "2001-10-29T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Intelligence and Security Committee of Parliament",
+    "id": 97,
+    "startDate": "2020-07-13T00:00:00",
+    "endDate": "2024-05-30T00:01:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Intelligence and Security Committee of Parliament",
+    "id": 97,
+    "startDate": "2010-09-13T00:00:00",
+    "endDate": "2015-03-16T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Committees on Arms Export Controls",
+    "id": 15,
+    "startDate": "2014-11-03T00:00:00",
+    "endDate": "2015-03-30T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Defence Sub-Committee",
+    "id": 343,
+    "startDate": "2017-09-12T00:00:00",
+    "endDate": "2019-11-06T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Defence Sub-Committee",
+    "id": 343,
+    "startDate": "2015-09-08T00:00:00",
+    "endDate": "2017-05-03T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Liaison Committee (Commons)",
+    "id": 103,
+    "startDate": "2017-11-06T00:00:00",
+    "endDate": "2019-11-06T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Liaison Committee (Commons)",
+    "id": 103,
+    "startDate": "2015-09-10T00:00:00",
+    "endDate": "2017-05-03T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "National Security Strategy (Joint Committee)",
+    "id": 111,
+    "startDate": "2024-11-25T00:00:00",
+    "endDate": "2025-06-30T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "National Security Strategy (Joint Committee)",
+    "id": 111,
+    "startDate": "2017-10-30T00:00:00",
+    "endDate": "2019-11-06T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "National Security Strategy (Joint Committee)",
+    "id": 111,
+    "startDate": "2015-11-30T00:00:00",
+    "endDate": "2017-05-03T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Liaison Committee Sub-committee on the effectiveness and influence of the select committee system",
+    "id": 398,
+    "startDate": "2019-02-13T00:00:00",
+    "endDate": "2019-11-06T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 4,
+   "name": "3. Gifts, benefits and hospitality from UK sources",
+   "sortOrder": 0,
+   "interests": [
+    {
+     "id": 14638,
+     "interest": "Name of donor: Henry Jackson Society\r\nAddress of donor: Millbank Tower, 21-24 Millbank, London SW1P 4QP\r\nAmount of donation or nature and value if donation in kind: I was a participant and panel member in the Reagan/Jackson Security Dialogue held in Cambridge. The hospitality consisted of 2 nights’ stay at the conference hotel (£272.72p per night), and 2 conference dinners - at the Cambridge Union (£77.19p) and at Corpus Christi College(£75.85p), value £699\r\nDate received: 18 February 2026 to 19 February 2026\r\nDate accepted: 18 February 2026\r\nDonor status: company, registration 07465741\r\n(Registered 25 February 2026)",
+     "createdWhen": "2026-03-10T14:50:54.6866667",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "name": "6. Land and property portfolio with a value over £100,000 and where indicated, the portfolio provides a rental income of over £10,000 a year",
+   "sortOrder": 1,
+   "interests": [
+    {
+     "id": 2401,
+     "interest": "Type of land/property: Residential property (flat)\r\nNumber of properties: 1\r\nLocation: London\r\nInterest held: from 22 December 2014\r\nRental income: from 5 February 2015\r\n(Registered 5 February 2015)",
+     "createdWhen": "2024-04-18T15:16:46.0833333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [
+  {
+   "category": "Countries of interest",
+   "focus": [
+    "Western Europe, Central and Eastern Europe, Russia"
+   ]
+  },
+  {
+   "category": "Political Interests",
+   "focus": [
+    "Defence, security, foreign affairs, European affairs, mental health"
+   ]
+  }
+ ],
+ "synopsis": "The Rt Hon Sir Julian Lewis is the Conservative MP for <a href='/constituency/4188/overview'>New Forest East</a>, and has been an MP continually since 1 May 1997.",
+ "history": [
+  {
+   "id": 1961900,
+   "uin": "44827",
+   "heading": "Ministry of Defence: Written Questions",
+   "questionText": "To ask the Secretary of State for Defence, when he plans to answer Question 40520 tabled on 3 November 2026 on NATO: Finance.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1956195,
+   "uin": "40520",
+   "heading": "NATO: Finance",
+   "questionText": "To ask the Secretary of State for Defence, with reference to the 2025 Hague Summit Declaration committing NATO allies to investing 5 percent of GDP annually from 2035 in a combination of (a) core defence requirements and (b) defence-and-security-related s",
+   "dateTabled": "2026-11-03T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1961902,
+   "uin": "44829",
+   "heading": "Department for Business, Innovation, Science and Trade: Written Questions",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, when he plans to answer Question 41803 tabled on 10 November 2026 on Business: Regulation.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1958241,
+   "uin": "41803",
+   "heading": "Business: Regulation",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, pursuant to the Answer of 26 October to Question 37074 on the Responsible Business Conduct Review, whether in the last three years his Department has withheld a completed review wi",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1958242,
+   "uin": "41804",
+   "heading": "Emergencies: Warnings",
+   "questionText": "To ask the Minister for the Cabinet Office, to what extent (a) security, (b) environmental and (c) other potential threats are responsible for recent advice to UK citizens to stock up with three days of supplies to build resilience; and whether requiring ",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1956129,
+   "uin": "40454",
+   "heading": "Petitions: New Forest",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what her planned timetable is for a Government response to the Petition of more than 32,000 signatures delivered to 10 Downing Street by the New Forest Together campaign on 7 Sep",
+   "dateTabled": "2026-11-03T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1956197,
+   "uin": "40522",
+   "heading": "Russia: Armed Conflict",
+   "questionText": "To ask the Secretary of State for Defence, what recent comparative assessment his Department has made of the levels of Russian military threat to UK interests (a) during 1979 to 1989 and (b) currently.",
+   "dateTabled": "2026-11-03T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1955937,
+   "uin": "40262",
+   "heading": "Migrants: Deportation",
+   "questionText": "To ask the Secretary of State for the Home Department, pursuant to her oral statement of 2 November 2026 on Immigration: Earned Settlement, what estimate she has made of the relative deterrent effect on immigrants if they are informed in advance that they",
+   "dateTabled": "2026-11-03T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1955344,
+   "uin": "39773",
+   "heading": "Local Government: Bullying",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what steps she will take to protect council staff from bullying; whether sanctions against such misconduct will be specified in legislation to strengthen the standards and conduc",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1949857,
+   "uin": "35502",
+   "heading": "Mefloquine: Veterans",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what guidance her Department has issued to general practitioners for treating armed forces veterans; and what assessment she has made of the impact on the formulation of this guidance of NHS Englan",
+   "dateTabled": "2026-10-15T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1952110,
+   "uin": "37246",
+   "heading": "Diego Garcia and Falkland Islands: UN Convention on the Law of the Sea",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, whether the United Kingdom's declaration, under Article 298 of the United Nations Convention on the Law of the Sea, to exclude military activities from the compulsory jurisdi",
+   "dateTabled": "2026-10-22T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1952109,
+   "uin": "37245",
+   "heading": "Psilocybin: Misuse",
+   "questionText": "To ask the Secretary of State for the Home Department, if she will commission a review by the Advisory Council on the Misuse of Drugs of the available evidence upon which psilocybin (a) was originally and (b) is currently classified as a Schedule 1 drug; ",
+   "dateTabled": "2026-10-22T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1950946,
+   "uin": "36343",
+   "heading": "Houthis: Proscribed Organisations",
+   "questionText": "To ask the Secretary of State for the Home Department, if she will take steps to designate the Houthis as a proscribed terrorist organisation.",
+   "dateTabled": "2026-10-20T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1951810,
+   "uin": "37074",
+   "heading": "Business: Regulation",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, when the Responsible Business Conduct Review will be published.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1951320,
+   "uin": "36717",
+   "heading": "Down's Syndrome",
+   "questionText": "To ask the Secretary of State for Health and Social Care, pursuant to the answer of 16 October 2026 to question 34598, if she will meet with the National Down Syndrome Policy Group and the All-Party Parliamentary Group on Down Syndrome.",
+   "dateTabled": "2026-10-20T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1951319,
+   "uin": "36716",
+   "heading": "Down's Syndrome",
+   "questionText": "To ask the Secretary of State for Health and Social Care, pursuant to the answer of 16 October 2026 to question 34598, whether the final guidance will reflect concerns raised by the National Down Syndrome Policy Group.",
+   "dateTabled": "2026-10-20T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1951318,
+   "uin": "36715",
+   "heading": "Down's Syndrome",
+   "questionText": "To ask the Secretary of State for Health and Social Care, pursuant to the answer of 16 October 2026 to question 34598, what work remains to be done on that statutory guidance prior to publication.",
+   "dateTabled": "2026-10-20T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1948703,
+   "uin": "34598",
+   "heading": "Down's Syndrome",
+   "questionText": "To ask the Secretary of State for Health and Social Care, when the statutory guidance for implementing the provisions of the Down Syndrome Act, 2022, will be published; what work on that guidance remains to be done prior to publication; whether the final ",
+   "dateTabled": "2026-10-13T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1938280,
+   "uin": "27225",
+   "heading": "Television Channels",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what plans she has to maintain the availability of free terrestrial television channels beyond (a) 2029 and (b) 2034; and what assessment she has made of the (i) financial impact on view",
+   "dateTabled": "2026-09-04T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1939123,
+   "uin": "27859",
+   "heading": "New Forest and Waterside",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what steps she plans to take in response to the petition, signed by 30,000 people and delivered to 10 Downing Street on 7 September, on the issue of splitting the local governmen",
+   "dateTabled": "2026-09-08T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1939122,
+   "uin": "27858",
+   "heading": "New Forest and Waterside",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, when she plans to next visit the New Forest and Waterside to assess their (a) societal, (b) cultural, (c) economic and (d) historical ties and interdependence.",
+   "dateTabled": "2026-09-08T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1938279,
+   "uin": "27224",
+   "heading": "Infected Blood Compensation Scheme",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what criteria the Infected Blood Compensation Authority applies in deciding which categories of (i) infected people and (ii) bereaved family members will have cases prioritised; and where in that p",
+   "dateTabled": "2026-09-04T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1937486,
+   "uin": "26479",
+   "heading": "Vehicle Number Plates",
+   "questionText": "To ask the Secretary of State for Transport, what steps she will take to help tackle the use of vehicle number plates which are (a) false or (b) unreadable by automatic number plate recognition technology, with regard to (i) increasing penalties for (A) u",
+   "dateTabled": "2026-09-02T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1930320,
+   "uin": "19788",
+   "heading": "Social Media: Children",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what checks will be introduced to ensure that no-one under 16 can participate in social media; how such age-checks will be introduced for children without age-screening social media part",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1936796,
+   "uin": "25947",
+   "heading": "Women against State Pension Inequality",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what steps he is planning to take support the WASPI women's campaign for redress, in the context of the pledge of support given by the Prime Minister during his by-election campaign.",
+   "dateTabled": "2026-09-01T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1930385,
+   "uin": "19789",
+   "heading": "Parliamentary and Health Service Ombudsman: Compensation",
+   "questionText": "To ask the Minister for the Cabinet Office, if she will list the instances when recommendations by the Parliamentary and Health Service Ombudsman for redress to be paid to successful complainants have been rejected in each of the last three years.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1926866,
+   "uin": "17935",
+   "heading": "Bus Services: Cycleways",
+   "questionText": "To ask the Secretary of State for Transport, for what reason her Department did not pause the installation of additional floating bus stops until further research on safety had been carried out in the context of the advice of the Disabled Persons Transpor",
+   "dateTabled": "2026-07-13T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1926488,
+   "uin": "17691",
+   "heading": "Veterans: Mefloquine",
+   "questionText": "To ask the Secretary of State for Defence, if he will ensure that the MOD Defence Medical Service updates its policy on Mefloquine-damaged veterans to (a) acknowledge the recent confirmation by NHS England that Mefloquine neurotoxicity (i) exists and (ii)",
+   "dateTabled": "2026-07-10T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1926000,
+   "uin": "17293",
+   "heading": "Osteoporosis: Diagnosis",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps he has taken to improve (a) awareness and (b) early diagnosis of osteoporosis before people suffer bone fractures as a result of the disease.",
+   "dateTabled": "2026-07-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1925993,
+   "uin": "17291",
+   "heading": "Armed Conflict: Women",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, if she will make an assessment of the findings and recommendations of research conducted by the University of Essex on the prevalence of non-sexual violence against women and",
+   "dateTabled": "2026-07-09T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1925994,
+   "uin": "17292",
+   "heading": "Parental Leave",
+   "questionText": "To ask the Secretary of State for Business and Trade, what assessment his Department has made of the costs and benefits of paid paternity leave, with reference to the comparative costs and benefits in European countries with a higher level of take-up, inc",
+   "dateTabled": "2026-07-09T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1925379,
+   "uin": "16835",
+   "heading": "LGBT Financial Recognition Scheme",
+   "questionText": "To ask the Secretary of State for Defence, whether he has met with Fighting with Pride to discuss the operation of the Financial Recognition Scheme.",
+   "dateTabled": "2026-07-08T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1925377,
+   "uin": "16834",
+   "heading": "LGBT Financial Recognition Scheme",
+   "questionText": "To ask the Secretary of State for Defence, what assessment he has made of whether the Independent Impact Panel has sufficient capacity to determine all outstanding claims, before the Financial Recognition Scheme closes, made by veterans pressured into lea",
+   "dateTabled": "2026-07-08T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1925375,
+   "uin": "16833",
+   "heading": "LGBT Financial Recognition Scheme",
+   "questionText": "To ask the Secretary of State for Defence, if he will make it his policy to include within the Financial Recognition Scheme (\"FRS\") those veterans who resigned from the armed forces as a result of pressure to do so on account of their sexual orientation; ",
+   "dateTabled": "2026-07-08T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1923935,
+   "uin": "15666",
+   "heading": "Electric Vehicles: Tyres",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, pursuant to the Answer of 30 June 2026 to Question 13075 on Electric Vehicles: Tyres, if he will make an assessment of the availability of butyl for tyres for electric vehicles other than fro",
+   "dateTabled": "2026-07-03T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1922272,
+   "uin": "14304",
+   "heading": "Independent Review of Maternity Services at Nottingham University Hospitals NHS Trust",
+   "questionText": "To ask the Secretary of State for Health and Social Care, if he will publish the (a) names and (b) roles of all senior clinicians who declined to take part in the Ockenden Review of Nottingham Maternity and Neonatal Services.",
+   "dateTabled": "2026-06-30T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1921582,
+   "uin": "13757",
+   "heading": "Sodium Valproate and Surgical Mesh Implants: Compensation",
+   "questionText": "To ask the Secretary of State for Health and Social Care, if he will take steps to supply the Patient Safety Commissioner, by 16 July 2026, with the information she has formally requested on (a) Government discussions, (b) actions taken across Government ",
+   "dateTabled": "2026-06-29T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1920341,
+   "uin": "13076",
+   "heading": "Students: Refugees",
+   "questionText": "To ask the Secretary of State for Education, what (a) opportunities and (b) obstacles she has identified to admission to university and other higher education establishments of Ukrainian children who came to the UK as refugees from the Russian invasion an",
+   "dateTabled": "2026-06-25T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1920259,
+   "uin": "13075",
+   "heading": "Electric Vehicles: Tyres",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what plans he has for tyre manufacture for electric vehicles when butyl is no longer available from fossil fuel sources.",
+   "dateTabled": "2026-06-25T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1920359,
+   "uin": "13077",
+   "heading": "Immigration: Ukraine",
+   "questionText": "To ask the Secretary of State for the Home Department, if she will make it her policy to include the time spent by Ukrainian refugees in the UK since the invasion of Ukraine in the qualifying period necessary to be granted permanent residence.",
+   "dateTabled": "2026-06-25T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1918474,
+   "uin": "11584",
+   "heading": "Eastern Europe: BBC World Service",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what recent assessment her department has made of the effectiveness of BBC World Service long-wave broadcasts into (a) Eastern Europe and (b) Russia in reaching audiences wit",
+   "dateTabled": "2026-06-22T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1915860,
+   "uin": "9499",
+   "heading": "Fishing Catches: Enforcement",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she has made of the extent to which the legal requirement for fishermen to report marine mammal bycatch to the Marine Management Organisation is being fulfilled; and wh",
+   "dateTabled": "2026-06-15T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1915859,
+   "uin": "9498",
+   "heading": "Fishing Catches",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, which techniques used by fishermen in UK waters are assessed by her Department to pose the most risk of inflicting bycatch losses; and what measures she will put in place to minimise s",
+   "dateTabled": "2026-06-15T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1915858,
+   "uin": "9497",
+   "heading": "Fishing Catches",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment her Department has made of the accuracy of the statistics published by Wildlife and Countryside Link showing the unintentional killing of (a) seals, (b) dolphins and (c",
+   "dateTabled": "2026-06-15T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1908618,
+   "uin": "3740",
+   "heading": "Hemiplegia: Children",
+   "questionText": "To ask the Secretary of State for Health and Social Care, if he will make it his policy to promote the drafting of NICE guidelines on early intervention by clinicians to treat infants diagnosed with Hemiplegia; and what recent assessment his department ha",
+   "dateTabled": "2026-05-21T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1907224,
+   "uin": "2673",
+   "heading": "Armed Forces: Mefloquine",
+   "questionText": "To ask the Secretary of State for Defence, what guidance his Department has provided to the NHS on appropriate treatment for former Service personnel presenting with suicidal ideation resulting from brain injury caused by neurological side-effects of Lari",
+   "dateTabled": "2026-05-19T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1907225,
+   "uin": "2674",
+   "heading": "Armed Forces: Mefloquine",
+   "questionText": "To ask the Secretary of State for Defence, what steps have (a) the Surgeon General’s Office and (b) the Ministry of Defence more widely taken as a result of the 2016 recommendations of the Defence Committee report (HC567) on its inquiry into the harmful e",
+   "dateTabled": "2026-05-19T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1907223,
+   "uin": "2672",
+   "heading": "Armed Forces: Malaria",
+   "questionText": "To ask the Secretary of State for Defence, when he plans to publish the results of his Department's research study number 713/MoDREC/15 on anti-malarial chemoprophylaxis, including Lariam (Mefloquine).",
+   "dateTabled": "2026-05-19T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1907222,
+   "uin": "2670",
+   "heading": "Armed Forces: Malaria",
+   "questionText": "To ask the Secretary of State for Defence, with reference to the Fourth Report of the Defence Committee of Session 2014-15 entitled An acceptable risk? The use of Lariam for military personnel, HC 567, published on 10 May 2016, how many Service personnel ",
+   "dateTabled": "2026-05-19T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1905433,
+   "uin": "1098",
+   "heading": "Developing Countries: Debts",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what recent representations she has received from the Catholic Agency for Overseas Development on the effects of global debt on low-income countries; and what action she plan",
+   "dateTabled": "2026-05-14T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1905432,
+   "uin": "1097",
+   "heading": "Developing Countries: Debts",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what recent assessment she has made of the potential impact of high-interest debt repayments by low-income countries on the ability of those countries to provide adequate (a)",
+   "dateTabled": "2026-05-14T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1905431,
+   "uin": "1096",
+   "heading": "Developing Countries: Debts",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what her policy is on the (a) amelioration and (b) cancellation of high-interest debts incurred by low-income countries; and what steps she plans to take to implement that po",
+   "dateTabled": "2026-05-14T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1902736,
+   "uin": "129450",
+   "heading": "Lord Mandelson",
+   "questionText": "To ask the Minister for the Cabinet Office, who first suggested to the Prime Minister that Peter Mandelson should be appointed as Ambassador to the United States.",
+   "dateTabled": "2026-04-23T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1901812,
+   "uin": "128632",
+   "heading": "Prison Officers: Protective Clothing",
+   "questionText": "To ask the Secretary of State for Justice, whether representatives of prison officers were consulted over the (a) design, and (b) procurement of new protective body armour.",
+   "dateTabled": "2026-04-21T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1901818,
+   "uin": "128633",
+   "heading": "Prison Officers: Protective Clothing",
+   "questionText": "To ask the Secretary of State for Justice, how many bids were accepted for the contract to provide up to 10,000 sets of protective body armour for prison officers; and whether any provider of new sets of protective body armour for prison officers has prev",
+   "dateTabled": "2026-04-21T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1901811,
+   "uin": "128630",
+   "heading": "Prison Officers: Protective Clothing",
+   "questionText": "To ask the Secretary of State for Justice, whether the tender for providing up to 10,000 sets of protective body armour for prison officers was made public, and if he will make a statement.",
+   "dateTabled": "2026-04-21T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1901810,
+   "uin": "128629",
+   "heading": "Prison Officers: Protective Clothing",
+   "questionText": "To ask the Secretary of State for Justice, what steps he is taking to ensure that the process of procuring up to 10,000 sets of protective body armour for prison officers is (a) open, (b) transparent, and (c) effective.",
+   "dateTabled": "2026-04-21T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1901820,
+   "uin": "128634",
+   "heading": "Tax Avoidance",
+   "questionText": "To ask the Chancellor of the Exchequer, how many individuals have settled their loan charge liability (a) in full or (b) through a Time to Pay arrangement since the publication of the Ray McCann review on 26 November 2025 until the most recent date for wh",
+   "dateTabled": "2026-04-21T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1895500,
+   "uin": "124049",
+   "heading": "Diego Garcia: Military Bases",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, if she will make an assessment of the potential implications for her policies of the timing of the public commentary by the government of Mauritius on the Iranian missile att",
+   "dateTabled": "2026-03-26T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1895498,
+   "uin": "124047",
+   "heading": "Paul Bérenger",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, if she will make an assessment of the potential implications for her policies of (a) the resignation of Deputy Prime Minister Paul Bérenger in Mauritius and (b) his allegatio",
+   "dateTabled": "2026-03-26T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1898680,
+   "uin": "126514",
+   "heading": "Money Laundering: Mauritius",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, whether she has had discussions with her Mauritian counterpart on the arrest of the former Prime Minister of that country in relation to money laundering issues.",
+   "dateTabled": "2026-04-13T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1898692,
+   "uin": "126515",
+   "heading": "Chagos Islands: Humanitarian Aid",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, whether it is her policy to prevent the provision of (a) mosquito nets, (b) sunglasses and (c) water purifying systems from entering the British Indian Ocean Territory on ves",
+   "dateTabled": "2026-04-13T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1898678,
+   "uin": "126512",
+   "heading": "Chagos Islands: Humanitarian Aid",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what the cost was of deploying a patrol vessel and personnel for the interception at sea of humanitarian aid for British Chagossian resettlers on 11 April 2026; and whether a",
+   "dateTabled": "2026-04-13T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1898679,
+   "uin": "126513",
+   "heading": "Foreign, Commonwealth and Development Office: Mauritius",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what the purpose is of the visit to Mauritius by UK officials on 22 April 2026; and what the principal subjects to be discussed are.",
+   "dateTabled": "2026-04-13T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1895499,
+   "uin": "124048",
+   "heading": "South Africa: Military Exercises",
+   "questionText": "To ask the Secretary of State for Defence, if he will make an assessment of the potential implications for his policies on the Chagos Islands of the joint naval exercises undertaken by South Africa with (a) China, (b) Russia and (c) other BRICS partners i",
+   "dateTabled": "2026-03-26T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1894358,
+   "uin": "123109",
+   "heading": "Outdoor Education: Apprentices",
+   "questionText": "To ask the Secretary of State for Work and Pensions, if he will continue to fund the Level 5 Outdoor Learning Specialist Apprenticeship in order to allow (a) the cohort already accepted for the scheme to continue and (b) substantive consultation with the ",
+   "dateTabled": "2026-03-24T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1895501,
+   "uin": "124050",
+   "heading": "Chagos Islands: Sovereignty",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what assessment she has made of the potential impact of sovereignty over the Chagos Islands being ceded to Mauritius on (a) observance of and (b) the operation of AFCONE’s in",
+   "dateTabled": "2026-03-26T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1891602,
+   "uin": "120745",
+   "heading": "Veterans: Radiation Exposure",
+   "questionText": "To ask the Secretary of State for Defence, when Ministers were first made aware of documents (a) confirming abnormal levels of radiation in fish near UK atomic test sites in the Pacific and (b) advising that their contents are incompatible with official s",
+   "dateTabled": "2026-03-16T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1884647,
+   "uin": "115329",
+   "heading": "Cabinet Office: Written Questions",
+   "questionText": "To ask the Minister for the Cabinet Office, for what reason Question 111416 on Jeffrey Epstein and Lord Mandelson, tabled on 6 February for answer on 11 February 2026, has not been answered; and when he plans to answer it.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1889256,
+   "uin": "119198",
+   "heading": "Iran: Unmanned Air Systems",
+   "questionText": "To ask the Secretary of State for Defence, if he will take steps to acquire from Ukraine (a) cheap anti-drone military assets and (b) instruction in maximising their effective operation in order to augment the protection of United Kingdom and allied perso",
+   "dateTabled": "2026-03-10T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1882321,
+   "uin": "113436",
+   "heading": "Naloxone",
+   "questionText": "To ask the Secretary of State for Health and Social Care, if he will take steps to increase awareness of naloxone as an effective emergency treatment among (a) people at risk of opioid overdose and (b) people who may witness an opioid overdose.",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1884869,
+   "uin": "115777",
+   "heading": "Property: National Security",
+   "questionText": "To ask the Secretary of State for the Home Department, what (a) steps she will take and (b) powers she possesses to protect (i) military bases and (ii) other sensitive locations from the threat posed by the piecemeal purchase of properties in their vicini",
+   "dateTabled": "2026-02-25T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1888704,
+   "uin": "118676",
+   "heading": "Chagos Islands: Sovereignty",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, whether she has had discussions with her US counterpart on the statement issued by the United Nations’ Committee for the Elimination of Racial Discrimination on 8 December 20",
+   "dateTabled": "2026-03-09T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1889029,
+   "uin": "118679",
+   "heading": "Refugees: Higher Education",
+   "questionText": "To ask the Secretary of State for the Home Department, if she will make an assessment of the likely impact of the recent changes in immigration rules on the practicability of continuing the rescue from oppressive regimes of academics in danger by awarding",
+   "dateTabled": "2026-03-09T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1888921,
+   "uin": "118678",
+   "heading": "Local Government: Standards",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, when the Government’s response to its 2025 public consultation on (a) strengthening local government standards and (b) addressing misconduct and bullying by town and parish counc",
+   "dateTabled": "2026-03-09T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1888841,
+   "uin": "118677",
+   "heading": "Fuel Oil: Rural Areas",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, if he will take steps to support small rural communities dependent on oil supplies whose commercial suppliers have said than none will be available for a period of weeks.",
+   "dateTabled": "2026-03-09T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1888207,
+   "uin": "118144",
+   "heading": "British Indian Ocean Territory: Visits Abroad",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, when the last trip was organised by the Government to the British Indian Ocean Territory for Chagossians to visit their homeland; and how many Chagossians participated in tha",
+   "dateTabled": "2026-03-05T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1888206,
+   "uin": "118143",
+   "heading": "British Indian Ocean Territory: Visits",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, how many applications were made by (a) Chagossians and (b) other nationalities to visit the British Indian Ocean Territory in each of the last 5 years; and how many of those ",
+   "dateTabled": "2026-03-05T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1887076,
+   "uin": "117231",
+   "heading": "Foreign, Commonwealth and Development Office: Written Questions",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, for what reason Questions 113021 and 113433 on UNCLOS and the Chagos Islands, tabled on 12 February for answer on 24 and 25 February 2026 respectively, have not been answered",
+   "dateTabled": "2026-03-03T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1881722,
+   "uin": "113021",
+   "heading": "Chagos Islands: USA",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, pursuant to the answer of 10 February 2026 to Question 110708, whether she plans to derogate from Article 298 of UNCLOS.",
+   "dateTabled": "2026-02-12T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1879321,
+   "uin": "111416",
+   "heading": "Jeffrey Epstein and Lord Mandelson",
+   "questionText": "To ask the Minister for the Cabinet Office, what procedures will apply to enable access by the Intelligence and Security Committee to such documentation necessary to fulfil the duties placed upon it n relation to dealings between Peter Mandelson and Jeffr",
+   "dateTabled": "2026-02-06T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1887051,
+   "uin": "117230",
+   "heading": "Ministry of Defence: Written Questions",
+   "questionText": "To ask the Secretary of State for Defence, for what reason Question 113434 on UNCLOS and the Chagos Islands, tabled on 12 February for answer on 25 February 2026, has not been answered; and when he plans to answer it.",
+   "dateTabled": "2026-03-03T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1882087,
+   "uin": "113433",
+   "heading": "UN Convention on the Law of the Sea",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what assessment she has made of the utility of the provisions of Article 298 of UNCLOS for protecting UK interests in a territorial dispute within the jurisdiction of the Int",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1886165,
+   "uin": "116690",
+   "heading": "BBC Monitoring: Finance",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, pursuant to the Answer of 25 February 2026 to Question 113435 on BBC Monitoring: Finance, whether she has made an assessment of the potential merits of restoring dedicated fu",
+   "dateTabled": "2026-03-02T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1882090,
+   "uin": "113434",
+   "heading": "Diego Garcia: Military Bases",
+   "questionText": "To ask the Secretary of State for Defence, with reference to his oral contribution in response to the Rt hon. Member for New Forest East during the Oral Statement of 22 May 2025 on Diego Garcia Military Base, Official Report, column 1291, if it remains hi",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1884871,
+   "uin": "115779",
+   "heading": "Myanmar: Religious Freedom",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, when her Department last published a report on religious persecution in Myanmar; and for what reason the frequency of such reports has reduced.",
+   "dateTabled": "2026-02-25T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1884874,
+   "uin": "115781",
+   "heading": "Myanmar: Military Coups",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what assessment she has made of the implications for her policies of differences between the (a) former State Administrative Council and (b) current State Security and Peace ",
+   "dateTabled": "2026-02-25T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1884870,
+   "uin": "115778",
+   "heading": "Myanmar: Military Coups",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what steps she (a) has taken and (b) intends to take to persuade (i) India and (ii) China to cease providing armaments to the Burmese military regime; and for what reason tha",
+   "dateTabled": "2026-02-25T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1884872,
+   "uin": "115780",
+   "heading": "Jimmy Lai",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what recent assessment she has made of the effectiveness of the representations made by the Government to the Chinese authorities (a) before and (b) since the imposition of t",
+   "dateTabled": "2026-02-25T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1879319,
+   "uin": "111414",
+   "heading": "Chagos Islands: Sovereignty",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, if she will provide the Intelligence and Security Committee with (a) correspondence and (b) a list of engagements between (i) Peter Mandelson, and (ii) other advisers to and ",
+   "dateTabled": "2026-02-06T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1879320,
+   "uin": "111415",
+   "heading": "Diego Garcia Military Base and British Indian Ocean Territory Bill ",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, if she will make it her policy to pause the passage of the Diego Garcia Military Base and British Indian Ocean Territory Bill until after the (a) release and (b) full assessm",
+   "dateTabled": "2026-02-06T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1879709,
+   "uin": "111606",
+   "heading": "Prostate Cancer: Screening",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether the recent review by the UK National Screening Committee of evidence on prostate cancer screening considered the potential value for money of adopting (a) shorter and (b) simplified MRI pro",
+   "dateTabled": "2026-02-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1879708,
+   "uin": "111605",
+   "heading": "Prostate Cancer: Screening",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what the average national unit cost is to the NHS for a local anaesthetic transperineal prostate biopsy, used in prostate cancer detection; and how that cost is calculated.",
+   "dateTabled": "2026-02-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1879713,
+   "uin": "111608",
+   "heading": "Work Capability Assessment: Immunosuppression",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what recent assessment he has made of the potential impact of proposed reforms to Work Capability Assessments on severely immunocompromised people who are recovering from (a) stem cell transplants, (b) ",
+   "dateTabled": "2026-02-09T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1883825,
+   "uin": "114766",
+   "heading": "LGBT Financial Recognition Scheme",
+   "questionText": "To ask the Secretary of State for Defence, if he will make it his policy to apply the principle of constructive dismissal, when applying the provisions of the LGBT Financial Recognition Scheme (FRS), to veterans who resigned from the armed forces after be",
+   "dateTabled": "2026-02-23T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1882320,
+   "uin": "113435",
+   "heading": "BBC Monitoring: Finance",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, if she will take steps to (a) ensure the funding of the BBC Monitoring service and (b) restore dedicated funding for BBC Monitoring by her Department.",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1879712,
+   "uin": "111607",
+   "heading": "Patients: Travel",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what plans he has for financial support for patients required to travel very long distances to access (a) stem cell transplants, (b) CAR-T immunotherapy and (c) other specialist treatments; what re",
+   "dateTabled": "2026-02-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1878428,
+   "uin": "110707",
+   "heading": "Chagos Islands: Sovereignty",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, with reference to the Diego Garcia military base, whether an exemption will exist from the Africa Nuclear Weapon-Free Zone provisions of the Pelindaba Treaty after sovereignt",
+   "dateTabled": "2026-02-04T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1878429,
+   "uin": "110708",
+   "heading": "Chagos Islands: USA",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, whether (a) she and (b) her immediate predecessor had discussions with their United States counterparts on the opt-out provisions applying to (i) Diego Garcia and (ii) the Ch",
+   "dateTabled": "2026-02-04T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1878427,
+   "uin": "110706",
+   "heading": "Diego Garcia: Military Bases",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, if she has had discussions with her United States counterpart the potential security implications of the existence of opt-outs in respect of (a) Diego Garcia and (b) the Chag",
+   "dateTabled": "2026-02-04T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1876589,
+   "uin": "109503",
+   "heading": "Diego Garcia: Nuclear Weapons",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, with reference to the Pelindaba Treaty, what discussions she has with the Secretary of State for Defence on the long-term potential capability of storing nuclear weapons on D",
+   "dateTabled": "2026-01-29T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1870122,
+   "uin": "104605",
+   "heading": "Mefloquine: Veterans",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps he has taken with the Secretary of State for Defence to ensure that NHS practitioners are informed of the vulnerability to suicidal ideation of veterans impacted by Lariam; and what step",
+   "dateTabled": "2026-01-12T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1871301,
+   "uin": "105618",
+   "heading": "Chinese Embassy: Security",
+   "questionText": "To ask the Minister for the Cabinet Office, whether the National Security Adviser (a) has briefed and (b) will brief the Intelligence and Security Committee on the sensitive security implications of the proposed new Chinese super-embassy in London.",
+   "dateTabled": "2026-01-14T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1870167,
+   "uin": "104607",
+   "heading": "Parkinson's Disease: Research",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference to the oral contribution of the Parliamentary Under-Secretary of State for Health and Social Care in the Westminster Hall debate on Parkinson's disease on 17 November 2025, col. 230W",
+   "dateTabled": "2026-01-12T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1870173,
+   "uin": "104608",
+   "heading": "Schools: Sports",
+   "questionText": "To ask the Secretary of State for Education, what assessment she has made of the risk of using rubber crumb infill in synthetic turf pitches in schools, in light of the ban on safety grounds on disposing of shredded tyre material in landfill sites and wit",
+   "dateTabled": "2026-01-12T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1870132,
+   "uin": "104606",
+   "heading": "Iron and Steel: China",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what his policy is on the awarding of Government contracts to China for ready-fabricated steel; what assessment he has made of the potential impact of those contracts on the Government's envi",
+   "dateTabled": "2026-01-12T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1870120,
+   "uin": "104604",
+   "heading": "Veterans: Mefloquine",
+   "questionText": "To ask the Secretary of State for Defence, what steps he has taken with the Secretary of State for Health and Social Care to ensure that NHS practitioners are informed of the vulnerability to suicidal ideation of veterans impacted by Lariam; and what step",
+   "dateTabled": "2026-01-12T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1869807,
+   "uin": "104461",
+   "heading": "Myanmar: Armed Conflict",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what assessment she has made of the potential implications for her policies of the role of (a) Russia and (b) China in (i) supplying military aircraft and other offensive wea",
+   "dateTabled": "2026-01-09T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1869438,
+   "uin": "104123",
+   "heading": "Ukraine: Peacekeeping Operations",
+   "questionText": "To ask the Secretary of State for Defence, further to his oral statement of 7 January 2026 on Ukraine, whether the multinational force to be led by the UK and France would be be deployed to Ukraine (a) as part of a ceasefire agreement or (b) only after a ",
+   "dateTabled": "2026-01-08T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1857516,
+   "uin": "94627",
+   "heading": "Undocumented Migrants: Nationality and Proof of Identity",
+   "questionText": "To ask the Secretary of State for the Home Department, pursuant to the Answer of 24 November 2025 to Question 91895 on Undocumented Migrants: Nationality and Proof of Identity, and with reference to the oral contribution of the Minister of State for Borde",
+   "dateTabled": "2025-11-26T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1857514,
+   "uin": "94626",
+   "heading": "State Retirement Pensions: Women",
+   "questionText": "To ask the Secretary of State for Work and Pensions, pursuant to the Answer of 25 November 2025 to Question 92953 on State Retirement Pensions: Women, if he will make an estimate of the number of women born in the 1950s who have died since the publication",
+   "dateTabled": "2025-11-26T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1857534,
+   "uin": "94628",
+   "heading": "Terrorism: Northern Ireland",
+   "questionText": "To ask the Secretary of State for Northern Ireland, pursuant to the Answer of 24 November 2025 to Question 92498 on Terrorism: Northern Ireland, what the evidential basis is that removing immunity from prosecution of perpetrators of crimes during the Trou",
+   "dateTabled": "2025-11-26T00:00:00",
+   "answeringBodyName": "Northern Ireland Office"
+  },
+  {
+   "id": 1962538,
+   "uin": "45227",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, pursuant to the oral exchanges between the rt Hon member for New Forest East and the Minister of State for Security on 27 October 2026, following the Statement on Strengthening Community",
+   "dateTabled": "2026-11-20T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1961899,
+   "uin": "44826",
+   "heading": "Department for Education: Written Questions",
+   "questionText": "To ask the Secretary of State for Education, when she plans to answer Question 40260 tabled on 3 November 2026 on Pupils: Per Capita Costs.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1955935,
+   "uin": "40260",
+   "heading": "Pupils: Per Capita Costs",
+   "questionText": "To ask the Secretary of State for Education, what recent assessment she has made of the causes of inequity in respect of funding per pupil in different parts of the country via (a) Dedicated Schools Grant and (b) Special Educational Needs funding; what pl",
+   "dateTabled": "2026-11-03T00:00:00",
+   "answeringBodyName": "Department for Education"
+  }
+ ],
+ "historyComplete": true
+}

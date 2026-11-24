@@ -1,0 +1,362 @@
+{
+ "verdict": "pass_with_fixes",
+ "checked": 586,
+ "fixes": [
+  {
+   "where": "headline",
+   "was": "A landmark Investigatory Powers Tribunal ruling on Apple's challenge to a UK encryption order, new data-centre water/energy rules, and a government response on AI and human rights headline a period otherwise dominated by Capita's Civil Service pension failures and public-sector AI procurement scrutiny.",
+   "now": "Questions on Apple's Investigatory Powers Tribunal proceedings, data-centre water and energy requirements, and a published government response on human rights and AI feature alongside Capita pension delays and public-sector AI procurement scrutiny.",
+   "reason": "The evidence contains questions referring to proceedings and a ruling, not the judgment, its outcome, an encryption order or its significance. It does not establish when the data-centre framework was introduced or which subjects dominated the period."
+  },
+  {
+   "where": "summary",
+   "was": "MPs and peers pressed ministers this period on accountability for failing IT suppliers (Capita's pension-scheme delays), the environmental and community-benefit rules now attached to data-centre growth, and the standards departments must follow before adopting AI. The Investigatory Powers Tribunal's ruling against the Home Office in Apple's case, and the government's formal response to the Joint Committee on Human Rights' inquiry into AI regulation, are the two most significant regulatory developments. No written evidence this period named Microsoft, Google, Amazon/AWS, OpenAI or Anthropic directly.",
+   "now": "MPs and peers asked about Capita's pension-scheme delays, data-centre environmental impacts and community benefits, and public-sector AI procurement standards. The evidence also records questions about Apple's tribunal proceedings and a publication titled \"Human Rights and the Regulation of AI: Government Response\". The supplied written questions and answers do not directly name Microsoft, Google, Amazon/AWS, OpenAI or Anthropic.",
+   "reason": "Remove the unsupported judgment outcome, significance ranking and publication attribution. Limit the negative company-name claim to the supplied question and answer texts."
+  },
+  {
+   "where": "very_important[0].title",
+   "was": "MP presses Home Office on cost and secrecy of Apple encryption dispute after tribunal ruling",
+   "now": "MP asks Home Office about Apple's tribunal proceedings and technical capability notices",
+   "reason": "The evidence supports the questions and a reference to a ruling, but not the encryption characterization or the ruling's substance."
+  },
+  {
+   "where": "very_important[0].body",
+   "was": "Rupert Lowe tabled three written questions following the Investigatory Powers Tribunal's ruling of 19 November 2026 in proceedings brought by Apple over a technical capability notice. He asked how much the government has spent on legal costs in the case, how many technical capability notices have been issued under the Investigatory Powers Act 2016 in each year since it came into force, and whether the government will review its policy of neither confirming nor denying the existence of such notices. All three were unanswered as of 20 November.",
+   "now": "Rupert Lowe tabled three written questions on 20 November 2026. He asked about legal costs in Apple's Investigatory Powers Tribunal proceedings concerning a technical capability notice, annual numbers of notices issued under the Investigatory Powers Act 2016, and review of the policy of neither confirming nor denying their existence. The third question referred to a tribunal ruling dated 19 November 2026. No answers to these questions are recorded in the evidence.",
+   "reason": "UINs 45277, 45281 and 45282 support these subjects. Attribute the ruling reference to the question rather than inferring a judgment outcome or treating all three questions as explicitly following that ruling. Empty answer fields establish only the recorded answer status."
+  },
+  {
+   "where": "very_important[0].why",
+   "was": "A tribunal ruling against the government's secrecy over orders compelling tech firms to weaken encryption sets a precedent that could affect any major cloud or communications provider operating in the UK, including Microsoft; worth tracking closely for policy fallout.",
+   "now": "These questions concern legal costs, surveillance powers and transparency about technical capability notices. The evidence does not supply the ruling or establish its outcome or precedential effect.",
+   "reason": "The asserted outcome, compelled weakening of encryption, precedent and implications for Microsoft are not evidenced."
+  },
+  {
+   "where": "very_important[1].title",
+   "was": "Cross-party questions on which departments follow NCSC and GDS guidance before adopting AI",
+   "now": "Commons and Lords questions on departmental engagement with GDS, the Government Cyber Unit and NCSC on AI procurement",
+   "reason": "Both questioners are Conservative, so this is not cross-party scrutiny. Their questions ask about engagement, not which departments follow guidance."
+  },
+  {
+   "where": "very_important[1].why",
+   "was": "Public-sector AI procurement standards directly shape how government buys AI and cloud services from vendors such as Microsoft.",
+   "now": "Relevant to security and governance controls for public-sector AI procurement.",
+   "reason": "The answers address AI procurement controls but do not identify cloud purchases or Microsoft."
+  },
+  {
+   "where": "very_important[2].title",
+   "was": "Government publishes response to Joint Committee on Human Rights report on AI regulation",
+   "now": "Government response to report on human rights and AI regulation published",
+   "reason": "The publication record supports its title, kind and publication date but does not name its publishing committee."
+  },
+  {
+   "where": "very_important[2].who",
+   "was": "Joint Committee on Human Rights (government response)",
+   "now": "Government response",
+   "reason": "The supplied publication metadata does not identify the committee."
+  },
+  {
+   "where": "very_important[2].body",
+   "was": "A 2nd Special Report setting out the government's response to the Joint Committee on Human Rights' inquiry into \"Human Rights and the Regulation of AI\" was published on 20 November 2026.",
+   "now": "The publication \"2nd Special Report - Human Rights and the Regulation of AI: Government Response\" was published on 20 November 2026.",
+   "reason": "Report the exact supported publication metadata without supplying committee attribution or unseen report contents."
+  },
+  {
+   "where": "very_important[2].why",
+   "was": "A formal government response to a parliamentary inquiry on AI regulation and human rights is a direct marker of policy direction ahead of any AI Bill, relevant to AI-safety-first arguments.",
+   "now": "Records publication of a government response concerning human rights and AI regulation; the response's contents are not supplied.",
+   "reason": "There is no evidence of the response's policy direction or an AI Bill. Remove advocacy-oriented framing."
+  },
+  {
+   "where": "very_important[2].linkText",
+   "was": "2nd Special Report – Human Rights and the Regulation of AI: Government Response",
+   "now": "2nd Special Report - Human Rights and the Regulation of AI: Government Response",
+   "reason": "Match the supplied publication title."
+  },
+  {
+   "where": "very_important[3].title",
+   "was": "Slough MP keeps up pressure on data-centre water, energy and community-benefit rules",
+   "now": "Slough MP asks about data-centre water, energy and community benefits",
+   "reason": "Use a neutral description of the recorded questions without implying opposition."
+  },
+  {
+   "where": "very_important[3].where",
+   "was": "Commons written questions, Department for Energy Security and Net Zero / DCMS",
+   "now": "Commons written questions, Department for Energy Security and Net Zero / Department for Business, Innovation, Science and Trade",
+   "reason": "The community-benefit question, UIN 45176, is addressed to the business department, not DCMS."
+  },
+  {
+   "where": "very_important[3].body",
+   "was": "Mr Tanmanjeet Singh Dhesi, whose Slough constituency has significant data-centre development, asked whether government had considered water and energy impact assessments for data centres, what assessment had been made of the impact of multiple data-centre developments on local water, temperature, biodiversity and electricity demand, and how compliance with the Data Centre Covenant's community-benefit requirements will be monitored and enforced. Ministers pointed to the Written Ministerial Statement on \"Enabling Sustainable Data Centre Growth Through Responsible Water and Energy Use\", which requires strategic data centres to report annually on water and energy use, and said operators are encouraged to meet Data Centre Covenant tests.",
+   "now": "Mr Tanmanjeet Singh Dhesi, MP for Slough, asked about water and energy impact assessments, the local water, temperature, biodiversity and electricity impacts of multiple data-centre developments, and monitoring and enforcement of the Data Centre Covenant's community-benefit requirements. In answers to UINs 43026 and 43027, Martin McCluskey referred to the Written Ministerial Statement on \"Enabling Sustainable Data Centre Growth Through Responsible Water and Energy Use\". He said strategic data centres will have to report annually on water and energy use, efficiency, emissions and heat reuse. All new data centres are encouraged to meet Covenant tests; strategically important centres seeking enhanced government support will be required to meet them. No answer to the community-benefit enforcement question, UIN 45176, is recorded.",
+   "reason": "Slough's supposed scale of data-centre development is not evidenced. Distinguish answered environmental questions from the unanswered enforcement question, and voluntary Covenant tests from the specified mandatory category."
+  },
+  {
+   "where": "very_important[3].why",
+   "was": "Direct evidence of an MP in a data-centre-heavy constituency pressing on water/energy impact and community benefits is exactly the kind of local opposition and regulatory framework to track given Microsoft's data-centre footprint.",
+   "now": "Concerns data-centre resource use, environmental impacts and community-benefit requirements.",
+   "reason": "The evidence does not establish a data-centre-heavy constituency, local opposition or Microsoft's footprint."
+  },
+  {
+   "where": "very_important[4].title",
+   "was": "Ministers admit Capita missed 'multiple critical milestones' on Civil Service pensions, withhold £9.9m",
+   "now": "Cabinet Office says Capita missed 'multiple critical milestones' and £9.9m has been withheld",
+   "reason": "Retain the supported quote and amount with neutral attribution rather than 'admit'."
+  },
+  {
+   "where": "very_important[4].body",
+   "was": "Capita has missed multiple of the 12 contractually defined transition milestones",
+   "now": "multiple critical milestones were missed across 12 contractually defined transition phases",
+   "reason": "UIN 42966 specifies 12 phases, not 12 milestones."
+  },
+  {
+   "where": "very_important[4].why",
+   "was": "A high-profile example of government holding a major IT/business-process outsourcing supplier to account for service failure, relevant to the wider debate on public-sector dependency on, and exit from, IT suppliers.",
+   "now": "Relevant to supplier accountability, contract management and plans to bring pension administration back in-house.",
+   "reason": "The answers support contract remedies and an in-house strategy, not the external prominence or broader dependency-debate claims."
+  },
+  {
+   "where": "questions[0].body",
+   "was": "Rupert Lowe asked whether government would introduce a statutory right to a free non-digital alternative for identity verification; Sorcha Eastwood asked whether onboarding of further services onto GOV.UK One Login would be paused pending independent review, with a statutory guarantee of non-digital alternatives. The government said One Login is not mandatory, alternative routes remain available, and the rollout will continue, overseen by HM Treasury, NISTA and the UK Digital Verification Services Trust Framework.",
+   "now": "Rupert Lowe asked about the merits of a statutory right to a free non-digital alternative for identity verification. Sorcha Eastwood asked whether additional GOV.UK One Login onboarding would be paused pending independent review and whether free, genuinely equivalent non-digital alternatives would receive a statutory guarantee. The government said One Login is not mandatory, alternative routes are decided by the relevant service, and rollout will continue. It described departmental controls, HM Treasury oversight, independent assurance by NISTA and independent assurance and certification under the UK Digital Verification Services Trust Framework.",
+   "reason": "UIN 39385 asks about assessing merits. UIN 41767 distinguishes oversight, independent assurance and certification; a trust framework is not an oversight body."
+  },
+  {
+   "where": "questions[0].why",
+   "was": "Continued parliamentary unease about government reliance on a single digital-identity system, relevant to digital/tech sovereignty and government IT dependency.",
+   "now": "Concerns continued rollout and alternatives for people who cannot or do not wish to use One Login.",
+   "reason": "Avoid attributing unease or making unsupported sovereignty and dependency claims."
+  },
+  {
+   "where": "questions[1].body",
+   "was": "Martin Wrigley and Anna Sabine separately asked about support for those unable to verify identity digitally and whether GOV.UK One Login is fully aligned with the NCSC's Cyber Assessment Framework. The government said One Login follows NCSC CAF standards and is independently tested, but declined to comment on operational security specifics.",
+   "now": "Martin Wrigley asked about alternative routes and dedicated troubleshooting teams for people unable to confirm their identity through the listed verification routes. The government pointed to service-specific alternatives and its Customer Contact Centre. Anna Sabine asked whether One Login is fully aligned with NCSC's Cyber Assessment Framework. Her answer said the programme follows CAF security standards and receives independent testing and NCSC advice, but did not disclose operational security specifics.",
+   "reason": "Attribute the accessibility question, UIN 41966, to Wrigley and the CAF question, UIN 42906, to Sabine."
+  },
+  {
+   "where": "questions[1].why",
+   "was": "Cyber-assurance of core government digital identity infrastructure is directly relevant to cyber security and government IT dependency themes.",
+   "now": "Concerns accessibility and cyber assurance of government digital identity services.",
+   "reason": "Keep the relevance grounded in the actual questions rather than an unsupported dependency claim."
+  },
+  {
+   "where": "questions[2].body",
+   "was": "Dr Ben Spencer asked about the Digital Regulation Cooperation Forum's budget, staffing, and whether government intends to give it a statutory function on AI. The government confirmed the DRCF remains a voluntary forum of the CMA, Ofcom, ICO and FCA with no government oversight or statutory AI role.",
+   "now": "Dr Ben Spencer asked about the Digital Regulation Cooperation Forum's budget, staffing and whether the government intends to give it a statutory AI function. The answer described a voluntary forum of the Competition and Markets Authority, Ofcom, Information Commission and Financial Conduct Authority, not overseen by government. It did not state whether a statutory AI function would be introduced.",
+   "reason": "UIN 30880 does not answer the statutory-function question. Use the regulator names supplied in the answer rather than substituting ICO for Information Commission."
+  },
+  {
+   "where": "questions[2].why",
+   "was": "Signals government is not yet planning to put AI-regulation coordination on a statutory footing, relevant to tracking any AI Bill and the regulatory architecture to come.",
+   "now": "Raises the question of statutory AI responsibilities; the answer does not establish the government's intentions.",
+   "reason": "A non-answer cannot establish that the government has no such plans, and no AI Bill is evidenced."
+  },
+  {
+   "where": "questions[3].body",
+   "was": "Stuart Anderson tabled seven written questions asking how much has been invested in defence AI programmes since the Defence Investment Plan, which capabilities will incorporate AI before 2030, how many AI-enabled projects are underway, progress on AI decision-support tools for commanders, the risks of autonomous weapons systems, and funding allocated to emerging technologies and Strategic Defence Review recommendations. All were unanswered as of 20 November.",
+   "now": "Stuart Anderson tabled eight written questions on 20 November 2026 about defence AI investment since the Defence Investment Plan, capabilities expected to incorporate AI before 2030, current AI-enabled projects, autonomous-weapons opportunities and risks, AI decision-support tools, emerging-technology research funding, accelerating adoption of new technologies, and progress implementing Strategic Defence Review recommendations on science, technology and innovation. No answers are recorded in the evidence.",
+   "reason": "UINs 45198, 45199, 45200, 45201, 45202, 45204, 45205 and 45207 make eight questions. UIN 45207 concerns implementation progress, not funding for recommendations."
+  },
+  {
+   "where": "questions[3].why",
+   "was": "Reflects parliamentary interest in sovereign AI/compute investment and AI safety risk in a defence context, adjacent to the wider AI-safety and sovereign-compute debate.",
+   "now": "Concerns defence AI investment, implementation and autonomous-weapons risks.",
+   "reason": "The questions do not specify sovereign AI or compute investment."
+  },
+  {
+   "where": "questions[4].where",
+   "was": "Lords written questions, DCMS / Department for Education",
+   "now": "Lords written questions, Department for Business, Innovation, Science and Trade / DCMS / Department for Education",
+   "reason": "UIN HL5627 is addressed to the business department; HL5628 and HL5629 are addressed to DCMS and Education respectively."
+  },
+  {
+   "where": "questions[4].body",
+   "was": "All were unanswered as of 20 November.",
+   "now": "No answers are recorded in the evidence.",
+   "reason": "Empty answer fields do not provide an independently timestamped status snapshot."
+  },
+  {
+   "where": "questions[4].why",
+   "was": "Part of the wider AI-safety and child-protection debate that shapes the climate for AI regulation generally.",
+   "now": "Concerns testing, developmental claims and guidance for AI-enabled toys used by children.",
+   "reason": "Retain supported relevance without asserting an effect on the wider regulatory climate."
+  },
+  {
+   "where": "questions[5].body",
+   "was": "Both were unanswered as of 20 November.",
+   "now": "No answers are recorded in the evidence.",
+   "reason": "Report the status in the supplied records rather than an inferred timestamped snapshot."
+  },
+  {
+   "where": "questions[6].body",
+   "was": "Pippa Heylings asked about trends in spam and nuisance calls to mobile phones and what steps are being taken to protect consumers. The government said Ofcom data shows suspicious-call rates fell from 40% of mobile users in 2022 to 32% in 2026, helped by Data (Use and Access) Act 2025 enforcement powers.",
+   "now": "Pippa Heylings asked about trends in spam and nuisance calls to mobile phones and consumer protection. The government said Ofcom research showed the proportion of mobile users receiving suspicious calls fell from 40% in 2022 to 32% in 2026. Separately, it said the Data (Use and Access) Act 2025 strengthened the enforcement regime.",
+   "reason": "UIN 40837 reports a decline and stronger enforcement but does not attribute the decline to the Act."
+  },
+  {
+   "where": "questions[6].why",
+   "was": "Directly on scams and fraud, one of the explicit online-safety topics tracked in this brief.",
+   "now": "Concerns scam, spam and nuisance calls and consumer protection.",
+   "reason": "The answer supports these subjects; the evidence does not supply an explicit commissioning list of tracked topics."
+  },
+  {
+   "where": "questions[7].why",
+   "was": "Directly on digital/AI skills policy, one of the explicit topics tracked in this brief.",
+   "now": "Concerns graduate opportunities and digital/AI skills policy.",
+   "reason": "Remove the unsupported reference to an explicit tracking remit."
+  },
+  {
+   "where": "other[0].body",
+   "was": "Mr Tanmanjeet Singh Dhesi asked whether overseas incidents involving self-driving systems will be considered in UK authorisation decisions; Lord Naseby asked how much government has spent on driverless-vehicle research, with the government citing around £8 million identified by the National Audit Office for 2022-23 to 2025-26.",
+   "now": "Mr Tanmanjeet Singh Dhesi asked whether overseas incidents involving a self-driving system will be considered when it is assessed for authorisation in Great Britain; no answer is recorded. Lord Naseby asked about government spending on driverless-vehicle research. The answer said there is no single government-wide estimate, but cited approximately £8 million identified by the National Audit Office for connected and autonomous vehicle research, development and innovation within the Department for Transport between 2022-23 and 2025-26.",
+   "reason": "UIN 45177 specifies Great Britain, not the whole UK. UIN HL5087 limits the cited spending to DfT research, development and innovation, not all government driverless-vehicle research."
+  },
+  {
+   "where": "today[0].why",
+   "was": "Several members tracked in this brief, including Mr Tanmanjeet Singh Dhesi and Bill Esterson, sit on this committee, whose remit covers critical national infrastructure and cyber resilience; no public agenda was published for today's session.",
+   "now": "Mr Tanmanjeet Singh Dhesi and Bill Esterson are listed as committee members. The evidence identifies a private meeting but supplies no agenda.",
+   "reason": "The profiles establish membership. The evidence does not describe the committee's remit or establish whether an agenda was published elsewhere."
+  },
+  {
+   "where": "today[1].why",
+   "was": "Secondary legislation implementing consumer cancellation rights under the Digital Markets, Competition and Consumers Act 2024 is relevant to digital competition and markets policy.",
+   "now": "The listed draft regulations concern consumer subscription-contract cancellation and information, and consequential amendments under the Digital Markets, Competition and Consumers Act 2024.",
+   "reason": "The schedule establishes the draft titles and a planned debate, not enactment or detailed legal effects."
+  },
+  {
+   "where": "coverage[1]",
+   "was": "Lords sat on Friday 20 November for Private Members' Bill business (Complications from Abortions (Annual Report) Bill); no Commons Hansard debate content was captured this period, and that Lords debate did not touch Microsoft, AI, cloud or data-centre topics despite weak keyword tagging.",
+   "now": "The supplied Lords Hansard excerpts for Friday 20 November concern the Complications from Abortions (Annual Report) Bill, described in the excerpts as a Private Member's Bill. No Commons Hansard records are supplied. The supplied excerpts do not mention Microsoft, AI, cloud or data centres despite their topic tags.",
+   "reason": "The supplied speech texts are excerpts, many ending mid-sentence. Their contents cannot establish what the entire debate covered."
+  },
+  {
+   "where": "coverage[4]",
+   "was": "Of 492 written questions scanned for the period, around 105 were retained as touching this brief's topics; none named Microsoft, Xbox, LinkedIn, Google, Amazon/AWS, OpenAI or Anthropic directly.",
+   "now": "The evidence reports 492 written questions scanned and supplies 105 written-question records. Their question and answer texts do not directly name Microsoft, Xbox, LinkedIn, Google, Amazon/AWS, OpenAI or Anthropic.",
+   "reason": "There are exactly 105 supplied records, some weakly tagged. Restrict the absence claim to the supplied texts rather than all scanned or unseen material."
+  },
+  {
+   "where": "member_notes.5110",
+   "was": "Euan Stainbank's questioning of Capita's pension-scheme penalties fits a modest pattern",
+   "now": "Euan Stainbank's profile records that 12% of his written questions in the past year touch these topics",
+   "reason": "Keep the note entirely within profile evidence: the historical percentage, leading topics and committee membership. Remove the current question characterization and inferred motivation."
+  },
+  {
+   "where": "member_notes.4061",
+   "was": "Bill Esterson's question on Capita's pension delays is an isolated item outside his usual run of questions",
+   "now": "Bill Esterson's profile records that 1 of 9 written questions in the past year touches these topics",
+   "reason": "A nine-question history does not establish an isolated current item outside his usual interests. Retain profile counts and committee memberships without inferred motivation."
+  },
+  {
+   "where": "member_notes.4638",
+   "was": "Mr Tanmanjeet Singh Dhesi's repeated questions on data-centre water and energy use and the Data Centre Covenant likely reflect his Slough constituency, a significant data-centre hub",
+   "now": "Mr Tanmanjeet Singh Dhesi represents Slough and sits on the National Security Strategy Joint Committee",
+   "reason": "The profile supports the constituency and membership, not Slough's data-centre concentration, the detailed subjects of current questions or constituency-driven motivation."
+  },
+  {
+   "where": "member_notes.5158",
+   "was": "Rupert Lowe's questions on the costs and transparency of the Apple encryption/technical-capability-notice dispute fit a sustained pattern",
+   "now": "Rupert Lowe's profile records \"Microsoft and its businesses\" as the largest topic category in his relevant written-question history, with 21 questions in the past year",
+   "reason": "Retain the profile's topic count, Public Accounts Committee membership and registered professional interests; remove current-question detail and inferred value-for-money motivation."
+  },
+  {
+   "where": "member_notes.4785",
+   "was": "Dr Ben Spencer's AI-procurement and regulatory-forum questions are part of an unusually concentrated interest",
+   "now": "Dr Ben Spencer's profile records that 72% of his written questions in the past year touch these topics",
+   "reason": "Use profile-supported history, roles and registered hospitality only. The interest extracts end at 'Shad' and 'Sha', so they do not establish the asserted shadow-ministerial capacity for attendance."
+  },
+  {
+   "where": "member_notes.4939",
+   "was": "As Conservative Shadow Minister for AI and Cyber, Viscount Camrose's near-identical AI-procurement question to Dr Ben Spencer's is unsurprising",
+   "now": "Viscount Camrose is a Conservative Shadow Minister for the Cabinet Office, with an AI and Cyber brief",
+   "reason": "Use the precise profile role and historical and professional-interest facts; remove current-question comparisons and subjective expectations."
+  },
+  {
+   "where": "member_notes.4742",
+   "was": "Stuart Anderson's run of questions on defence AI investment and autonomous-weapons risk reflects both his role as Shadow Minister for Defence",
+   "now": "Stuart Anderson is Shadow Minister for Defence",
+   "reason": "Retain profile-supported role, percentage and leading historical topics without claims about current question contents or motivation."
+  },
+  {
+   "where": "member_notes.4167",
+   "was": "Baroness Benjamin's repeated questions on AI-enabled toys and chatbots marketed to children align with her declared policy focus",
+   "now": "Baroness Benjamin's declared policy focus includes education and communities and families",
+   "reason": "Limit the note to declared policy focus and historical question statistics, not current-question detail or inferred motivation."
+  },
+  {
+   "where": "member_notes.4787",
+   "was": "James Wild's questions on social-media age-assurance timetables and an industry advisory group are consistent with his role",
+   "now": "James Wild is Shadow Minister for Digital, Culture, Media and Sport",
+   "reason": "Retain profile role and historical statistics without adding current-question details or an inference about why he asked them."
+  },
+  {
+   "where": "member_notes.5078",
+   "was": "her role as Liberal Democrat spokesperson on Energy Security and Net Zero likely also informs her interest in data-centre energy demand",
+   "now": "She is Liberal Democrat spokesperson on Energy Security and Net Zero",
+   "reason": "Retain the role and historical topics, but remove inferred motivation and current-question detail not given in the profile."
+  },
+  {
+   "where": "member_notes.1796",
+   "was": "Lord Taylor of Warwick's question on AI graduate employment schemes is part of an exceptionally concentrated pattern of interest",
+   "now": "Lord Taylor of Warwick's profile records that 81% of his written questions in the past year touch these topics, with artificial intelligence the leading topic",
+   "reason": "Retain profile history and registered professional interests without current-question detail or subjective intensity. Describe the overseas visits using their recorded subjects rather than an unsupported blanket classification of their funders."
+  },
+  {
+   "where": "member_notes.5125",
+   "was": "Sorcha Eastwood's call for a pause in GOV.UK One Login onboarding sits within a modest but consistent interest",
+   "now": "Sorcha Eastwood's profile records that 7% of her written questions in the past year touch these topics",
+   "reason": "Limit the note to profile history and its leading topic."
+  },
+  {
+   "where": "member_notes.5111",
+   "was": "Martin Wrigley's question on GOV.UK One Login's alignment with NCSC cyber standards",
+   "now": "Martin Wrigley's profile records that 16% of his written questions in the past year touch these topics",
+   "reason": "The CAF question was Sabine's, not Wrigley's. Keep the note within Wrigley's profile history and committee membership."
+  },
+  {
+   "where": "member_notes.5286",
+   "was": "data protection and government digital/IT procurement the leading topics",
+   "now": "data protection and privacy, other technology and AI companies, and government digital, IT and procurement the leading topic categories",
+   "reason": "The profile records 5, 4 and 3 questions in these categories respectively. Retain the role and percentage but remove current-question detail and motivational inference."
+  }
+ ],
+ "removed": [
+  {
+   "where": "very_important[0].tags: encryption, tech sovereignty, regulatory move",
+   "reason": "Weakening encryption, a sovereignty policy and an established regulatory outcome are not evidenced."
+  },
+  {
+   "where": "very_important[2].tags: AI safety, AI Bill",
+   "reason": "The supplied publication metadata concerns human rights and AI regulation, not an AI Bill or a stated AI-safety policy."
+  },
+  {
+   "where": "very_important[3].tags: AI Growth Zones",
+   "reason": "The selected questions and answers do not mention AI Growth Zones."
+  },
+  {
+   "where": "questions[0].tags: tech sovereignty",
+   "reason": "The questions concern digital identity rollout and accessibility, not sovereignty."
+  },
+  {
+   "where": "questions[2].tags: AI Bill",
+   "reason": "No AI Bill is mentioned in the question or answer."
+  },
+  {
+   "where": "questions[3].tags: sovereign AI",
+   "reason": "The questions concern defence AI, not a specified sovereign-AI programme."
+  },
+  {
+   "where": "coverage[2]",
+   "reason": "The absence of Commons and Lords sittings over 21-22 November is not established by the supplied evidence. Weekend dates alone cannot establish sitting status."
+  }
+ ],
+ "provider": "copilot",
+ "writer": "claude-sonnet-5",
+ "validator": "gpt-6.1-sol",
+ "independent": true,
+ "ruleChecks": {
+  "checked": 31,
+  "issues": []
+ }
+}
