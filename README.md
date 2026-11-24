@@ -54,11 +54,11 @@ All three agents run on GitHub Copilot's models through the Copilot CLI (`pipeli
 
 | Role | Default, best first (falls back if a model isn't on the account) | Reasoning effort |
 |---|---|---|
-| Writer | `claude-opus-5.5`, `gpt-6.1-sol`, `claude-sonnet-5` | high |
-| Validator | `gpt-6.1-sol`, `claude-opus-5.5`, `gpt-6-sol` | high |
+| Writer | `claude-opus-5.5`, `claude-fable-5.1`, `claude-sonnet-5`, `gpt-6.1-sol` | high |
+| Validator | `gpt-6.1-sol`, `gpt-6-sol`, `claude-opus-5.5`, `claude-sonnet-5` (never the writer's model unless nothing else answers) | high |
 | Classifier | `claude-haiku-5.5`, `gpt-5-mini`, `claude-haiku-4.5` | low |
 
-Each variable takes a comma-separated list. The validation log records which model actually ran, and the report warns if the validator had to fall back to the writer's model. `REASONING_EFFORT` overrides the effort. Set `MODEL_PROVIDER=anthropic` (with `ANTHROPIC_API_KEY`) to use the Anthropic API instead.
+Each variable takes a comma-separated list. If a model reports "not available", enable it for the token's account at github.com/settings/copilot (Claude Opus 5.5 needs enabling there). The validation log records which model actually ran, and the report warns if the validator had to fall back to the writer's model. `REASONING_EFFORT` overrides the effort. Set `MODEL_PROVIDER=anthropic` (with `ANTHROPIC_API_KEY`) to use the Anthropic API instead.
 
 **Authentication.** The run first tries a `COPILOT_GITHUB_TOKEN` secret, then the run's own `GITHUB_TOKEN` (the workflow grants `copilot-requests: write`; in a personal repository usage is billed to the owner's Copilot seat). The most reliable option is the secret: a fine-grained personal access token with the **Copilot Requests** permission, created by an account with a Copilot seat. Before the briefing runs, a preflight step pings each model and fails loudly if the writer or validator can't be reached.
 

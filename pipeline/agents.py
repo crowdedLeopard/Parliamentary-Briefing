@@ -104,7 +104,8 @@ def write_and_validate(feed: dict, profiles: list[dict], sources: dict, today: s
         try:
             v, validator = llm.complete("validator", VALIDATE,
                                         {"draft.json": json.dumps(draft, ensure_ascii=False)} | evidence,
-                                        "Check the DRAFT in draft.json against the EVIDENCE in evidence.json.")
+                                        "Check the DRAFT in draft.json against the EVIDENCE in evidence.json.",
+                                        avoid=writer)
             if validator == writer:
                 log.warning("validator fell back to the writer's model (%s): check is not independent", writer)
             break

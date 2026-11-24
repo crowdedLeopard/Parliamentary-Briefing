@@ -35,8 +35,8 @@ log = logging.getLogger("llm")
 
 DEFAULTS = {
     "copilot": {
-        "writer": "claude-opus-5.5,gpt-6.1-sol,claude-sonnet-5",
-        "validator": "gpt-6.1-sol,claude-opus-5.5,gpt-6-sol",
+        "writer": "claude-opus-5.5,claude-fable-5.1,claude-sonnet-5,gpt-6.1-sol",
+        "validator": "gpt-6.1-sol,gpt-6-sol,claude-opus-5.5,claude-sonnet-5",
         "classifier": "claude-haiku-5.5,gpt-5-mini,claude-haiku-4.5",
     },
     "anthropic": {
@@ -92,10 +92,15 @@ def _split(name: str, text: str) -> dict[str, str]:
     return {f"{name}-part{i // PART + 1:02d}.txt": text[i:i + PART] for i in range(0, len(text), PART)}
 
 
-def complete(role: str, system: str, files: dict[str, str], ask: str, timeout: int = 2400) -> tuple[dict, str]:
-    """Run one model call. files: name -> text (large texts are split). Returns (json, model used)."""
+def complete(role: str, system: str, files: dict[str, str], ask: str, timeout: int = 2400,
+             avoid: str | None = None) -> tuple[dict, str]:
+    """Run one model call. files: name -> text (large texts are split). Returns (json, model used).
+    avoid: a model to use only as a last resort (the validator avoids the writer's model)."""
     errors = []
-    for m in models(role):
+    order = models(role)
+    if avoid in order:
+        order = [m for m in order if m != avoid] + [avoid]
+    for m in order:
         try:
             if provider() == "anthropic":
                 return _anthropic(m, system, files, ask), m
