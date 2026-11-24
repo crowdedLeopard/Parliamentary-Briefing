@@ -200,7 +200,8 @@ def test_writer_then_validator(monkeypatch, tmp_path):
     monkeypatch.setenv("COPILOT_GITHUB_TOKEN", "test")
     monkeypatch.delenv("MODEL_PROVIDER", raising=False)
     monkeypatch.setenv("WRITER_MODEL", "claude-opus-5.5")
-    monkeypatch.setenv("VALIDATOR_MODEL", "gone-model, gpt-6.1-sol")     # first choice unavailable: falls back
+    # validator list starts with an unavailable model, then the writer's own model, which it must skip
+    monkeypatch.setenv("VALIDATOR_MODEL", "gone-model, claude-opus-5.5, gpt-6.1-sol")
     monkeypatch.setattr(llm, "PART", 200)                                  # force the evidence into several parts
     feed = {"fromDate": "2026-11-23", "toDate": "2026-11-23", "questionsScanned": 1, "writtenQuestions": [], "writtenStatements": []}
     ed, v = agents.write_and_validate(feed, [], {"hansard": [], "today": [], "committees": [], "gaps": []}, "2026-11-24")
