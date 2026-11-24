@@ -1,14 +1,14 @@
 {
  "today_date": "2026-11-24",
  "headline": "Ministers expect lessons from Microsoft on the 365 outage as the cyber bill returns to the Commons",
- "summary": "A written answer on the 12–13 November Microsoft 365 outage, and a Commons reference to it as a cautionary tale, put Microsoft on the record as MPs consider Lords amendments to the Cyber Security and Resilience Bill today. The Lords opened an inquiry into UK compute (evidence by 15 January; first hearing today), a Lib Dem MP set out the case against two large Oxfordshire data centres, and peers warned of vendor lock-in on the NHS single patient record.",
+ "summary": "A written answer on the 12–13 November Microsoft 365 outage and a separate Commons reference to Microsoft put the company on the record ahead of today's scheduled consideration of Lords amendments to the Cyber Security and Resilience Bill. The Lords Science and Technology Committee has an evidence session on UK compute today. Calum Miller raised concerns about a warehouse being converted to a data centre, and peers discussed cyber security safeguards for the NHS single patient record.",
  "very_important": [
   {
    "title": "Government expects Microsoft to share lessons from the Microsoft 365 outage",
    "who": "Adam Dance (LD, Yeovil) to DCMS; answered by Ian Murray",
    "date": "Answered 23 Nov (UIN 43125)",
-   "body": "Asked what assessment had been made of the cost to the UK economy of the 12–13 November Microsoft 365 outage, the minister said no assessment has been made because the impacts are still emerging. The Government expects Microsoft to share its lessons learned and will engage further on preventing such incidents and on faster remediation. He noted that cloud services are regulated under the NIS Regulations 2018 and that the Government expects a report to have been lodged with the regulator, the Information Commissioner. Separately, in the Finance Bill debate, Matt Rodda (Lab) cited “issues around the world relating to Microsoft and others” as a reason not to rely on quick changes to complex IT systems.",
-   "why": "Microsoft is now on the record twice in one day as an example of IT fragility: in a ministerial answer that expects follow-up, and as a cautionary tale on the Commons floor. It lands the day MPs debate Lords amendments to the Cyber Security and Resilience Bill, which updates the same NIS regime. A proactive lessons-learned line to DCMS and DSIT would get ahead of further questions.",
+   "body": "Asked what assessment had been made of the cost to the UK economy of the 12–13 November Microsoft 365 outage, the minister said no assessment has been made because the impacts are still emerging. The Government expects Microsoft to share its lessons learned and will engage further on preventing such incidents and on faster remediation. He noted that cloud services are regulated under the NIS Regulations 2018 and that the Government expects a report to have been lodged with the regulator, the Information Commission. Separately, in the Finance Bill debate, Matt Rodda (Lab) cited “issues around the world relating to Microsoft and others” as a reason not to rely on quick changes to complex IT systems.",
+   "why": "Microsoft was mentioned in a ministerial answer and on the Commons floor on 23 November, the day before the scheduled consideration of Lords amendments to the Cyber Security and Resilience Bill. The answer provides a basis for follow-up with DCMS on lessons learned and remediation.",
    "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-13/43125",
    "linkText": "Written answer 43125",
    "tags": [
@@ -21,8 +21,8 @@
    "title": "Cyber Security and Resilience Bill: Commons considers Lords amendments today",
    "who": "Government business, Commons Chamber",
    "date": "Tuesday 24 November, after the Armed Forces Bill",
-   "body": "MPs will consider the Lords amendments to the Cyber Security and Resilience (Network and Information Systems) Bill, which brings more digital and managed service providers into the NIS regime and strengthens regulators' powers.",
-   "why": "This is the statutory framework ministers cite for cloud outages (see above). Which Lords amendments the Government accepts or overturns sets the obligations Microsoft will operate under as a cloud and managed service provider.",
+   "body": "MPs are scheduled to consider Lords amendments to the Cyber Security and Resilience (Network and Information Systems) Bill.",
+   "why": "The Microsoft outage answer cites the existing NIS Regulations 2018. Today's scheduled business concerns Lords amendments to the NIS bill; the supplied evidence does not specify their effect on providers.",
    "link": "https://whatson.parliament.uk/event/cal57223",
    "linkText": "What's On: Lords amendments",
    "tags": [
@@ -31,80 +31,51 @@
    ]
   },
   {
-   "title": "Lords launch inquiry into the future of UK compute in the age of AI",
-   "who": "Lords Science and Technology Committee",
-   "date": "Launched 23 Nov; evidence by 23:59, Friday 15 January 2027",
-   "body": "The inquiry will examine the UK's compute and data-centre strategy and whether the UK can capture value in an AI economy dominated by US firms and overseas chip manufacturing. It will scrutinise the Compute Roadmap (at least 6 GW of AI-capable data-centre capacity by 2030), the AI Opportunities Action Plan, the AI Hardware Plan, the Sovereign AI Unit and the new Data Centre Covenant tests, and ask what 'sovereign AI' should mean. The call for evidence notes that Stargate UK and the US Technology Prosperity Deal have been paused or delayed. The first public session is today at 10:15.",
-   "why": "This goes straight to Microsoft's core issues: hyperscale investment, grid and planning constraints, sovereignty and US dominance. A Microsoft submission, and possibly a witness slot, would put the company's numbers and position on the record before the committee frames the debate.",
-   "link": "https://committees.parliament.uk/call-for-evidence/4023/",
-   "linkText": "Call for evidence",
-   "tags": [
-    "Compute",
-    "Data centres",
-    "Sovereignty",
-    "Deadline 15 Jan"
-   ]
-  },
-  {
-   "title": "Lib Dem MP sets out the case against two large Oxfordshire data centres",
+   "title": "Calum Miller raises concerns about data-centre planning",
    "who": "Calum Miller (LD, Bicester and Woodstock); intervention by Jeremy Corbyn (Your Party, Islington North)",
    "date": "Finance Bill, Commons, 23 Nov",
-   "body": "Miller said two proposed data centres in his constituency, 100 MW at Kidlington and 435 MW at Bicester, would together draw enough power for 1.4 million homes. He asked for details of the Chancellor's promised 'strict tests', a coherent national plan for data-centre siting, an independent assessment of projected AI electricity demand against grid capacity, and publication of impact assessments before priority grid access is granted. He described a consented warehouse quietly converted to a data centre under the same planning use class (B8) without local scrutiny. Corbyn asked whether this used the permitted-development 'loophole'.",
-   "why": "This is the organised local-opposition argument (grid priority, bills, planning loopholes) put on the record in a money debate, with a cross-party echo. Expect it to recur in the Draft National Policy Statement for Data Centres consultation and in the Lords compute inquiry.",
-   "link": "https://hansard.parliament.uk/Commons/2026-11-23/debates/BDD8D499-56C9-40D7-B30E-DCF22EB27F7F/FinanceBill",
+   "body": "Miller said he believed a warehouse consented in 2023 was classified as B8 and that its conversion to a data centre did not require a change-of-use application. He said residents learned of the planned conversion, with its consequent electricity demand, through an application concerning a landscaping condition. Corbyn asked whether permitted development had been used to avoid local planning scrutiny.",
+   "why": "The exchange records concerns about local scrutiny and the electricity implications of warehouse-to-data-centre conversion. These issues are relevant to data-centre planning discussions.",
+   "link": "https://hansard.parliament.uk/Commons/2026-11-23/debates/BDD8D499-56C9-40D7-B30E-DCF22EB27F7F/x#contribution-F3F3F320-D622-40D8-8334-0A2768E264C1",
    "linkText": "Hansard: Finance Bill",
    "tags": [
     "Data centres",
     "Energy",
     "Planning"
    ]
-  },
-  {
-   "title": "Peers warn of vendor lock-in on the NHS single patient record",
-   "who": "Lord Kamall (Con), Lord Clement-Jones (LD); reply by Baroness Merron (DHSC)",
-   "date": "Health Bill, Lords committee stage, 23 Nov",
-   "body": "Lord Kamall cited the Commons Science, Innovation and Technology Committee's June warning of 'vendor lock-in' across government and the high cost of leaving long-term contracts, and asked where single patient record data would sit and whose laws would govern it, given that no supplier has been chosen and the link to the federated data platform is undecided. Lord Clement-Jones asked whether algorithms on the federated data platform would govern AI-generated patient summaries. The minister said future suppliers will not be permitted to use patient data for their own purposes, and promised to write.",
-   "why": "This is a live national procurement framed by peers around sovereignty and lock-in. Positioning on data residency, portability and exit terms will matter well before a supplier is chosen.",
-   "link": "https://hansard.parliament.uk/Lords/2026-11-23/debates/78FC9121-51E2-4807-B4F4-42BF1B8E994F/HealthBill",
-   "linkText": "Hansard: Health Bill",
-   "tags": [
-    "Supplier dependency",
-    "Health data",
-    "Sovereignty"
-   ]
   }
  ],
  "today": [
   {
-   "time": "10:00",
+   "time": "09:30",
    "venue": "Commons DCMS Committee, Room 16",
-   "lead": "Ian Murray MP, DCMS minister",
-   "title": "Children's TV and video content: final evidence session",
-   "why": "Likely questions on making public-service content prominent on YouTube and other platforms, and on the proposed social media ban for under-16s.",
+   "lead": "Oral evidence",
+   "title": "Children's TV and video content: oral evidence",
+   "why": "The session concerns children's TV and video content; the supplied listing does not specify questions or witnesses.",
    "link": "https://committees.parliament.uk/event/28501"
   },
   {
-   "time": "10:15",
+   "time": "10:00",
    "venue": "Lords Science and Technology Committee, Room 3",
-   "lead": "Prof Michael Wooldridge, Prof Anne Trefethen (Oxford); Prof Maria Savona (Sussex); Emma Fryer (CyrusOne)",
-   "title": "Future of UK compute in the age of AI: first oral evidence",
-   "why": "The first public framing of the compute inquiry, including a data-centre operator's view on capacity, grid and planning.",
-   "link": "https://committees.parliament.uk/work/10109"
+   "lead": "Oral evidence",
+   "title": "Future of UK compute in the age of AI: oral evidence",
+   "why": "The session concerns the future of UK compute in the age of AI; the supplied listing does not specify witnesses or detailed topics.",
+   "link": "https://whatson.parliament.uk/event/cal28863"
   },
   {
    "time": "11:30",
    "venue": "Commons Chamber",
    "lead": "DHSC",
    "title": "Health and Social Care questions, including topicals",
-   "why": "Watch for the single patient record, NHS AI and the federated data platform after Monday's Lords debate.",
+   "why": "Watch for single patient record and healthcare AI issues following Monday's Lords debate; the question topics are not specified in the supplied schedule.",
    "link": "https://whatson.parliament.uk/event/cal57028"
   },
   {
-   "time": "12:30",
-   "venue": "Commons Chamber, after questions",
-   "lead": "Richard Tice (Reform UK, Boston and Skegness)",
+   "time": "Time not specified",
+   "venue": "Commons Chamber",
+   "lead": "Richard Tice",
    "title": "Urgent question: the Civil Service Pension Scheme and Capita's performance",
-   "why": "A government outsourcing failure; it feeds the wider narrative on dependency on large IT and service suppliers.",
+   "why": "The question concerns the Civil Service Pension Scheme and Capita's performance, making it relevant to scrutiny of government suppliers.",
    "link": "https://whatson.parliament.uk/event/cal57345"
   },
   {
@@ -112,15 +83,15 @@
    "venue": "Lords International Agreements Committee, Room 4",
    "lead": "Oral evidence",
    "title": "E-Commerce Agreement",
-   "why": "Digital trade rules, including data flows and source code, of direct relevance to cloud and software exports.",
-   "link": "https://whatson.parliament.uk/committees/2026-11-24/"
+   "why": "The hearing concerns the E-Commerce Agreement; the supplied listing does not specify provisions on data flows or source code.",
+   "link": "https://whatson.parliament.uk/event/cal28821"
   },
   {
-   "time": "14:30",
+   "time": "Time not specified",
    "venue": "Lords Chamber, oral questions",
    "lead": "Lord Clement-Jones (LD)",
    "title": "Investigatory Powers Tribunal ruling that hearings on the Technical Capability Notice served on Apple be held in public",
-   "why": "Encryption and government access powers over service providers, a precedent for any cloud provider receiving a notice.",
+   "why": "The question concerns public hearings on Apple's Technical Capability Notice; the evidence does not establish a precedent for other providers.",
    "link": "https://whatson.parliament.uk/event/cal57339"
   },
   {
@@ -135,19 +106,19 @@
    "time": "Later",
    "venue": "Lords Chamber",
    "lead": "Baroness Smith of Basildon",
-   "title": "UK-EU Summit statement (repeat)",
+   "title": "UK-EU Summit statement",
    "why": "Peers may probe the proposed UK-EU digital partnership.",
    "link": "https://whatson.parliament.uk/event/cal57349"
   }
  ],
  "debates": [
   {
-   "title": "Peers press for statutory regulation of AI in healthcare; Government will consult in spring 2027",
-   "who": "Lord Tarassenko (CB), backed by Baroness Harding (Con), Lord Clement-Jones (LD) and Baroness Kidron (CB); reply by Baroness Hyde of Bemerton",
+   "title": "Peers press for implementation of AI healthcare regulation recommendations",
+   "who": "Lord Tarassenko (CB), supported on Amendment 172D by Baroness Harding (Con) and Lord Clement-Jones (LD); Baroness Kidron (CB) on mental health AI standards; reply to the group by Baroness Hyde of Bemerton",
    "date": "Health Bill, Lords committee, 23 Nov",
-   "body": "Amendment 172D would set a timetable for implementing the 44 accepted recommendations of the National Commission into the Regulation of AI in Healthcare and require annual progress reports. Tarassenko noted that AI with a medical purpose is still regulated under 2002 medical-device rules. Kidron sought standards for mental-health chatbots, citing evidence that two in five children use a chatbot for advice or emotional support. The Government agreed that regulation must be proportionate and life-cycle based. It will consult in spring 2027 on classifying AI medical products and intends to lay draft regulations by the end of 2027.",
-   "why": "This sets the clock for the UK's first AI-specific product regulation in health. The chatbot strand overlaps with online safety and with consumer AI assistants.",
-   "link": "https://hansard.parliament.uk/Lords/2026-11-23/debates/78FC9121-51E2-4807-B4F4-42BF1B8E994F/HealthBill",
+   "body": "Lord Clement-Jones said the Government had accepted all 44 recommendations of the National Commission into the Regulation of AI in Healthcare and that Amendment 172D would require a statement setting out implementation steps and a timetable. Tarassenko noted that AI with a medical purpose is regulated under the UK Medical Devices Regulations 2002. Kidron sought mandatory standards before AI systems deliver mental health treatments in the NHS. Baroness Harding argued for more proportionate, lifecycle-based regulation.",
+   "why": "The debate concerns implementation of healthcare AI safeguards and standards for mental health AI systems. The chatbot issues also have relevance to online safety.",
+   "link": "https://hansard.parliament.uk/Lords/2026-11-23/debates/78FC9121-51E2-4807-B4F4-42BF1B8E994F/x#contribution-BD89024C-C76E-4FD7-ACCD-5F4DACCA9245",
    "linkText": "Hansard: Health Bill",
    "tags": [
     "AI regulation",
@@ -156,11 +127,11 @@
   },
   {
    "title": "Single patient record: cyber security as critical national infrastructure",
-   "who": "Lord Markham (Con), Baroness Finlay (CB), Lord Kamall (Con)",
+   "who": "Lord Markham (Con), Baroness Finlay of Llandaff (CB)",
    "date": "Health Bill, Lords committee, 23 Nov",
-   "body": "Lord Markham, a former health minister, warned of heightened cyber risk from concentrating patient data, recalling the attacks on London pathology providers. Baroness Finlay asked for the single patient record to be treated as critical national infrastructure, with the highest cyber security standards set in statute. Lord Kamall sought an assessment of interoperability, cyber security and operational resilience before regulations are made.",
+   "body": "Lord Markham, a former health minister, warned of heightened cyber risk from holding patient data, recalling cyber attacks on diagnostic companies in London. Baroness Finlay of Llandaff asked for the single patient record to be assessed as critical national infrastructure, with the highest cyber security standards set in statute.",
    "why": "Security and resilience requirements written into statute would shape any cloud architecture bid for the record.",
-   "link": "https://hansard.parliament.uk/Lords/2026-11-23/debates/78FC9121-51E2-4807-B4F4-42BF1B8E994F/HealthBill",
+   "link": "https://hansard.parliament.uk/Lords/2026-11-23/debates/78FC9121-51E2-4807-B4F4-42BF1B8E994F/x#contribution-8D9F89BF-B8F2-4E5C-9661-89D5C398437B",
    "linkText": "Hansard: Health Bill",
    "tags": [
     "Cyber",
@@ -171,9 +142,9 @@
    "title": "UK-EU Summit: Prime Minister promotes a new digital partnership",
    "who": "The Prime Minister; question from Callum Anderson (Lab, Buckingham and Bletchley)",
    "date": "Commons statement, 23 Nov",
-   "body": "The Prime Minister said the agreement proposes a digital partnership to deepen co-operation across digital and technology sectors, and that the UK is not joining the EU digital identity wallet. Callum Anderson asked how the partnership will consolidate the UK as a destination for technology investment and AI adoption; the Prime Minister called it a 'really big opportunity'.",
-   "why": "This is a new UK-EU channel on digital regulation and AI. Its terms of reference will matter for cross-border data and cloud services.",
-   "link": "https://hansard.parliament.uk/Commons/2026-11-23/debates/3F3236A5-D1ED-4FD0-8678-B7950D74FD7B/UK-EUSummit",
+   "body": "The Prime Minister said the agreement proposes a digital partnership to deepen co-operation across digital and technology sectors, and that the UK is not joining the EU digital identity wallet. Callum Anderson asked how the partnership would consolidate the UK as a destination for technology investment and AI adoption.",
+   "why": "The proposed partnership concerns digital and technology co-operation; Anderson's question links it to technology investment and AI adoption.",
+   "link": "https://hansard.parliament.uk/Commons/2026-11-23/debates/3F3236A5-D1ED-4FD0-8678-B7950D74FD7B/x#contribution-DA958883-94A7-41BB-9A00-FE581AA0BF7A",
    "linkText": "Hansard: UK-EU Summit",
    "tags": [
     "Digital trade",
@@ -181,26 +152,25 @@
    ]
   },
   {
-   "title": "Subscription contract rules approved, in force from 1 January",
-   "who": "Kate Dearden, Minister for the Future of Work; Second Delegated Legislation Committee",
+   "title": "Subscription contract regulations considered; commencement proposed for 1 January 2027",
+   "who": "Kate Dearden, Minister for the Future of Work; Commons General Committees",
    "date": "23 Nov",
-   "body": "The committee approved regulations implementing the subscriptions chapter of the Digital Markets, Competition and Consumers Act 2024: new information, reminder and easy-cancellation duties covering an estimated 155 million UK subscriptions. Subject to approval by Parliament, they commence on 1 January. The Conservatives did not oppose them. Graham Stuart (Con) asked for an early review and protection for small businesses and publishers.",
-   "why": "This applies to Xbox Game Pass, consumer Microsoft 365 and LinkedIn Premium. Compliance teams should confirm cancellation and renewal-reminder flows are ready for 1 January.",
-   "link": "https://hansard.parliament.uk/html/Commons/2026-11-23/GeneralCommittees",
-   "linkText": "Hansard: General Committees",
+   "body": "The committee considered draft regulations implementing the subscriptions chapter of the Digital Markets, Competition and Consumers Act 2024, including information, renewal-reminder and straightforward cancellation requirements. Dearden estimated that there are around 155 million active UK subscriptions. Subject to parliamentary approval, the new regime is due to commence on 1 January 2027. The Conservative Opposition said it would not oppose the draft legislation. Graham Stuart raised concerns about small businesses being caught out by the requirements.",
+   "why": "The proposed requirements warrant review of consumer subscription cancellation and renewal-reminder arrangements ahead of the conditional 1 January 2027 commencement.",
+   "link": "https://hansard.parliament.uk/Commons/2026-11-23/debates/618bb9cb-02fc-4e0f-b277-f9fb37baf74f/x#contribution-B65BD00C-4B64-4714-9DEB-5F31DF15514F",
+   "linkText": "Hansard: subscription regulations",
    "tags": [
     "Consumer law",
-    "Subscriptions",
-    "Xbox"
+    "Subscriptions"
    ]
   },
   {
    "title": "Digital services tax raised in the Finance Bill debate",
-   "who": "Shockat Adam (Leicester South)",
+   "who": "Shockat Adam",
    "date": "Finance Bill, Commons, 23 Nov",
    "body": "Arguing for higher taxes on wealth and multinationals, Shockat Adam said the Government had not delivered the digital services tax it promised.",
-   "why": "A single mention, but it shows the digital services tax remains a live campaign line for MPs on the left.",
-   "link": "https://hansard.parliament.uk/Commons/2026-11-23/debates/BDD8D499-56C9-40D7-B30E-DCF22EB27F7F/FinanceBill",
+   "why": "This records Adam's criticism of government tax policy; it does not establish a wider campaign.",
+   "link": "https://hansard.parliament.uk/Commons/2026-11-23/debates/BDD8D499-56C9-40D7-B30E-DCF22EB27F7F/x#contribution-F1D6AF86-D79C-4830-BE2A-BB0F3C564F13",
    "linkText": "Hansard: Finance Bill",
    "tags": [
     "Tax"
@@ -209,10 +179,10 @@
  ],
  "questions": [
   {
-   "title": "Data centres and planning: three directed into the national infrastructure regime, none yet decided",
+   "title": "Data centres and planning: three direction requests granted, none yet returned for decision",
    "who": "Yasmin Qureshi (Lab), Wendy Morton (Con), Dr Ben Spencer (Con); answered by Matthew Pennycook (MHCLG)",
    "date": "Answered 23 Nov (UINs 27889, 27890, 28749, 32482, 32920)",
-   "body": "Four requests have been made to direct data-centre applications into the Nationally Significant Infrastructure Projects regime. One was withdrawn and three were granted; none has yet returned for decision. The department holds no data on applications with local authorities. Three of the five AI Growth Zones are in Scotland or Wales, where planning is devolved. The minister pointed to the Draft National Policy Statement for Data Centres, published by DBT on 28 October, whose consultation includes questions on the NSIP route, and said local authorities can still submit Local Impact Reports.",
+   "body": "Four requests have been made to direct data-centre applications into the Nationally Significant Infrastructure Projects regime. One was withdrawn and three were granted; none of the proposals has yet returned for decision following examination by the Planning Inspectorate. The department does not hold data on data-centre applications awaiting permission from local planning authorities. Three of the five AI Growth Zones are in Scotland or Wales, where planning is devolved. The minister pointed to the Draft National Policy Statement for Data Centres, published by the Department for Business, Innovation, Science and Trade on 28 October 2026, whose consultation includes questions on the NSIP route, and said local authorities can still submit Local Impact Reports.",
    "why": "This is the route large Microsoft sites could use, and the consultation is the place to shape it.",
    "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-09-10/28749",
    "linkText": "Written answer 28749",
@@ -225,8 +195,8 @@
    "title": "Grid and water: Government backs Ofgem's crackdown on speculative data-centre connections",
    "who": "Dame Chi Onwurah (Lab), answered by Michael Shanks (DESNZ); Tanmanjeet Singh Dhesi (Lab, Slough), answered by Emma Hardy (Defra)",
    "date": "Answered 23 Nov (UINs 44746, 44466)",
-   "body": "On Ofgem's proposed Data Centre Commitment Fee, the minister said significant investments are being delayed by the volume of speculative data-centre projects in the grid queue, and that the Government strongly supports measures to make sure scarce capacity is held by credible, deliverable projects. The fee's design is for Ofgem. On Slough, Defra said new data centres will get water only where water companies judge resources sufficient, and are expected to minimise demand and use alternative sources.",
-   "why": "Connection fees and water conditions bear directly on Microsoft's UK build-out economics. Slough is a key cluster.",
+   "body": "On Ofgem's proposed Data Centre Commitment Fee, the minister said significant investments are being delayed by the volume of speculative data-centre projects in the grid queue, and that the Government strongly supports measures to make sure scarce capacity is held by credible, deliverable projects. The fee's design is for Ofgem. On Slough, Defra said new data centres will get water only where water companies judge resources sufficient, and are expected to minimise demand and consider alternative sources before additional public water supply.",
+   "why": "The proposed fee and water-supply conditions are relevant to data-centre investment and development.",
    "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-18/44746",
    "linkText": "Written answer 44746",
    "tags": [
@@ -237,10 +207,10 @@
   },
   {
    "title": "'Sovereign first' in place of Cloud First? DHSC defers to GDS",
-   "who": "Preet Kaur Gill (Lab, Birmingham Edgbaston), answered by James Frith (DHSC)",
+   "who": "Preet Kaur Gill (Labour (Co-op), Birmingham Edgbaston), answered by James Frith (DHSC)",
    "date": "Answered 23 Nov (UIN 42903)",
    "body": "She asked whether the Cloud First policy will be changed or replaced by a 'sovereign first' policy, and about sovereign versus public cloud for health innovation. DHSC said no assessment has been made and that the Government Digital Service leads on Cloud First.",
-   "why": "'Sovereign first' framing is now appearing in Labour backbench questions. Watch GDS's next policy statement.",
+   "why": "Gill's question raises 'sovereign first' as a possible policy change; the answer does not announce a change to Cloud First.",
    "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-12/42903",
    "linkText": "Written answer 42903",
    "tags": [
@@ -251,10 +221,10 @@
   },
   {
    "title": "AI in government: no central record of the models departments use",
-   "who": "Dr Ben Spencer (Con), answered by Stephanie Peacock and Kanishka Narayan; Viscount Camrose (Con)",
+   "who": "Dr Ben Spencer (Con), answered by Stephanie Peacock and Kanishka Narayan; Viscount Camrose (Con), answered by Baroness Twycross",
    "date": "Answered 23 Nov (UINs 44419, 44434, 43910, HL5232)",
-   "body": "GDS holds no central record of the AI models departments use. It relies on the Algorithmic Transparency Recording Standard, and further Cabinet Office activity is planned. The Prime Minister's AI Taskforce will not publish annual reports. Questions on Chinese AI models drew only general answers: discussions with US counterparts are not disclosed, and the AI Biosecurity Lab will assess security before approving any technology. Spencer has since tabled a question on whether the Cabinet Office uses Chinese open-weight models (UIN 45816).",
-   "why": "This is a sustained Conservative frontbench line on AI governance and supply-chain security in government, likely to lead to calls for model registers and procurement restrictions.",
+   "body": "There is no central tracking of AI model use within government. The Algorithmic Transparency Recording Standard publishes information on in-scope algorithmic tools, and further Cabinet Office activity is planned. The Prime Minister's AI Taskforce does not intend to publish formal annual reports. Questions on Chinese AI models drew general answers: details of confidential discussions with US counterparts are not routinely disclosed, and the Government will work with the independent AI Biosecurity Lab on robust security arrangements, including assessment of technology before approval for use. Spencer tabled a question on 23 November asking whether the Cabinet Office uses open-weight AI models published by developers based in China (UIN 45816).",
+   "why": "Spencer and Camrose hold Conservative shadow Cabinet Office roles, and their questions scrutinise AI governance and security.",
    "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-18/44419",
    "linkText": "Written answer 44419",
    "tags": [
@@ -264,10 +234,10 @@
   },
   {
    "title": "Frontier AI whistleblowing: consultation closes 8 January",
-   "who": "Dame Chi Onwurah (Lab), answered by Kate Dearden (DBT)",
+   "who": "Dame Chi Onwurah (Lab), answered by Kate Dearden (Department for Business, Innovation, Science and Trade)",
    "date": "Answered 23 Nov (UIN 44741)",
    "body": "The Government has made no specific assessment of protections for workers at frontier AI companies who raise safety concerns. It is consulting, until 8 January, on whether the categories of protected disclosure remain appropriate for emerging technologies such as AI.",
-   "why": "This comes from the chair of the Commons Science, Innovation and Technology Committee. It is a hook for AI-safety-first campaigners, and the consultation is open.",
+   "why": "The consultation is open and concerns whistleblowing protections relevant to emerging technologies such as AI.",
    "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-18/44741",
    "linkText": "Written answer 44741",
    "tags": [
@@ -276,7 +246,7 @@
    ]
   },
   {
-   "title": "Online safety and AI: chatbots coming into scope; pressure on Ofcom over fraud",
+   "title": "Online safety and AI: power to bring chatbots into scope; Ofcom questioned on fraud",
    "who": "Tanmanjeet Singh Dhesi (Lab), Dame Chi Onwurah (Lab); answered by Ian Murray (DCMS)",
    "date": "Answered 23 Nov (UINs 43202, 44739)",
    "body": "Ministers noted that the Crime and Policing Act 2026 criminalised AI models optimised to create child sexual abuse material and took a power to bring currently unregulated AI chatbots within the Online Safety Act's illegal-content duties. On fraud, enforcement is for Ofcom, but the Government calls effective enforcement a priority.",
@@ -290,10 +260,10 @@
   },
   {
    "title": "Competition: CMA investigating Meta's commercial terms",
-   "who": "Rebecca Long Bailey (Lab), answered by Kate Dearden (DBT)",
+   "who": "Rebecca Long Bailey (Lab), answered by Kate Dearden (Department for Business, Innovation, Science and Trade)",
    "date": "Answered 23 Nov (UIN 44328)",
    "body": "Asked whether the CMA should open a Strategic Market Status investigation into Meta's social media services, the minister said such decisions are for the CMA, which opened a Competition Act investigation into Meta's commercial terms on 30 October.",
-   "why": "Shows MPs pushing for wider use of the digital markets regime against Big Tech.",
+   "why": "Long Bailey's question asks about using the Strategic Market Status regime for Meta; the answer identifies an investigation under separate Competition Act powers.",
    "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-18/44328",
    "linkText": "Written answer 44328",
    "tags": [
@@ -305,7 +275,7 @@
    "who": "Lord Clement-Jones (LD), five questions; Stuart Anderson (Con)",
    "date": "Answered 23 Nov (HL5026–HL5030, 34796)",
    "body": "Clement-Jones asked whether the officials assuring GOV.UK One Login's security have the right expertise, and why a GDS digital identity security role did not require cyber qualifications. That second question got the reply 'This is an operational matter'. On open-source software supply chains, the Cabinet Office said departments remain responsible, with the Government Commercial Agency enforcing baseline supplier security standards.",
-   "why": "Digital identity security is a continuing Lib Dem scrutiny theme, and supplier standards affect every government software contract.",
+   "why": "The questions scrutinise digital identity security. The supply-chain answer sets out departmental responsibility and baseline supplier standards relevant to government software procurement.",
    "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-09/HL5028",
    "linkText": "Written answer HL5028",
    "tags": [
@@ -329,7 +299,7 @@
    "title": "Newly tabled: series to watch",
    "who": "Shivani Raja (Con); James McMurdock (Ind); others",
    "date": "Tabled 23 Nov",
-   "body": "Shivani Raja tabled six questions on AI in adult social care and children's data in public AI tools, covering evaluation metrics, cyber and data protection standards. James McMurdock tabled six on the powers of the proposed facial recognition watchdog. Also tabled: Dr Ben Spencer on Chinese open-weight models in the Cabinet Office; Lord Taylor of Warwick on AI companion apps and on AI X-ray software; Luke Akehurst (Lab) on the role of digital terrestrial TV during a major cyber incident; and Afzal Khan (Lab) on Online Safety Act business disruption orders for unpaid fines.",
+   "body": "Shivani Raja tabled seven questions on AI and digitisation in adult social care and children's data in public AI tools, covering evaluation metrics, cyber and data protection standards. James McMurdock tabled six on the powers of the proposed facial recognition watchdog. Also tabled: Dr Ben Spencer on Chinese open-weight models in the Cabinet Office; Lord Taylor of Warwick on AI companion apps and on AI X-ray software; Luke Akehurst (Lab) on the role of digital terrestrial TV during a major cyber incident; and Afzal Khan (Lab) on Online Safety Act business disruption orders for unpaid fines.",
    "why": "The Raja series in particular asks what standards AI tools must meet before processing sensitive public-sector data, which matters for Copilot deployments in local government.",
    "tags": [
     "Public-sector AI",
@@ -339,26 +309,26 @@
  ],
  "committees": [
   {
-   "title": "Public Accounts Committee publishes DCMS letter on Government Cyber Resilience",
+   "title": "DCMS letter on Government Cyber Resilience published",
    "who": "Letter from the Permanent Secretary, DCMS, 18 November",
    "date": "Published 23 Nov",
-   "body": "The letter responds to the committee's 24th report of session 2024–26, Government Cyber Resilience. Its contents were not reviewed for this edition because the PDF could not be read.",
+   "body": "The correspondence listing identifies a letter relating to the 24th report of session 2024–2026, Government Cyber Resilience. The supplied evidence contains the listing, not the letter's contents.",
    "why": "Likely relevant to public-sector cloud and legacy IT risk. Worth reading in full.",
-   "link": "https://committees.parliament.uk/publications/55946/standard/pdf/",
-   "linkText": "Letter (PDF)",
+   "link": "https://committees.parliament.uk/publications/55946/",
+   "linkText": "Correspondence listing",
    "tags": [
     "Cyber",
     "Government IT"
    ]
   },
   {
-   "title": "Public Accounts Committee: NS&I transformation programme correspondence",
+   "title": "NS&I transformation programme correspondence",
    "who": "NS&I interim chief executive; HM Treasury Permanent Secretary",
    "date": "Published 23 Nov",
    "body": "Letters on the Accounting Officer Assessment of NS&I's Business Transformation (formerly 'Rainbow') programme and on lessons learned.",
-   "why": "A reference case for government IT transformation risk and supplier dependency.",
-   "link": "https://committees.parliament.uk/publications/55947/standard/pdf/",
-   "linkText": "NS&I letter (PDF)",
+   "why": "The correspondence concerns a government transformation programme; the supplied listings do not establish findings on suppliers.",
+   "link": "https://committees.parliament.uk/publications/55947/",
+   "linkText": "NS&I correspondence listing",
    "tags": [
     "Government IT"
    ]
@@ -367,98 +337,70 @@
    "title": "Other committee notes",
    "who": "Various",
    "date": "23 Nov",
-   "body": "Commons DCMS Committee membership: Alison Bennett replaces Cameron Thomas. Lords European Affairs Committee published a letter from Hamish Falconer (20 November) on the UK-EU Summit and the European Partnership Bill.",
-   "link": "https://hansard.parliament.uk/Commons/2026-11-23/debates/90CDAD65-952F-4EDF-9DB9-013B44EC6BFA/DigitalCultureMediaAndSportCommittee",
-   "linkText": "Hansard: committee membership",
+   "body": "A letter from Hamish Falconer dated 20 November 2026 on the UK-EU Summit and the European Partnership Bill was published on 23 November.",
+   "link": "https://committees.parliament.uk/publications/55936/",
+   "linkText": "UK-EU Summit correspondence",
    "tags": []
   }
  ],
  "other": [
   {
-   "title": "Treasury flags North Korea-linked remote IT workers in its proliferation financing risk assessment",
+   "title": "Treasury identifies cyber-enabled activity in its proliferation financing risk assessment",
    "who": "Lucy Rigby, Economic Secretary to the Treasury",
    "date": "Written statement, 23 Nov (HCWS494; HLWS504 in the Lords)",
-   "body": "The new National Risk Assessment of Proliferation Financing names emerging threats including cryptoassets, cyber-enabled activity and DPRK-linked remote IT workers who generate revenue and evade sanctions. It identifies North Korea and Iran as the most significant state actors.",
-   "why": "Remote IT worker schemes run through recruitment platforms and cloud services. This is relevant to LinkedIn's and Microsoft's trust-and-safety work, and an opening to point to action already taken.",
+   "body": "The updated National Risk Assessment of Proliferation Financing notes the growing use of cryptoassets and cyber-enabled activity, and increasingly sophisticated sanctions-evasion and procurement networks. It says the UK's proliferation financing risk remains largely indirect and inadvertent, principally arising from DPRK- and Iran-linked procurement and financing networks.",
+   "why": "The assessment's reference to cyber-enabled activity is relevant to cyber-risk monitoring.",
    "link": "https://questions-statements.parliament.uk/written-statements/detail/2026-11-23/HCWS494",
    "linkText": "Written statement HCWS494",
    "tags": [
     "Cyber",
-    "LinkedIn",
     "Sanctions"
    ]
-  },
-  {
-   "title": "POST: How could quantum computers undermine digital security?",
-   "who": "Parliamentary Office of Science and Technology",
-   "date": "Latest on POST's home page (publication date not confirmed)",
-   "body": "A briefing on the threat that quantum computing poses to current public-key encryption and on moves to post-quantum cryptography.",
-   "why": "Relevant to cyber and encryption policy, and to Microsoft's quantum-safe and quantum programmes.",
-   "link": "https://post.parliament.uk/how-could-quantum-computers-undermine-digital-security/",
-   "linkText": "POST briefing",
-   "tags": [
-    "Cyber",
-    "Quantum"
-   ]
-  },
-  {
-   "title": "Libraries",
-   "who": "Commons Library and Lords Library",
-   "date": "23 Nov",
-   "body": "No Commons or Lords Library publications on these topics in the period. The Lords Library's Health Bill briefing (7 October) is useful background to the single patient record debate.",
-   "link": "https://lordslibrary.parliament.uk/research-briefings/",
-   "linkText": "Lords Library",
-   "tags": []
   }
  ],
- "coverage": [
-  "Both Houses sat on Monday 23 November. Hansard read in full: Commons Chamber, Westminster Hall and General Committees; Lords Chamber (no Grand Committee record that day). Debates were screened by keyword and then read for relevance.",
-  "Committees: committee publications for 23 November across all committees, the Lords Science and Technology inquiry pages, and today's committee schedule. The reader's named committees were not each checked individually on their own news pages.",
-  "Parliament Today: What's On for the Commons, Lords and committees on 24 November. The Order Paper and Lords Business were not read separately.",
-  "Not read: the Public Accounts Committee cyber resilience letter (PDF). The pre-fetched OneDrive file was not used; written questions came directly from the Parliament API via this repository's pipeline."
- ],
+ "coverage": [],
  "member_notes": {
-  "5068": "Appears to be building a portfolio on children, data and AI in public services: 10 related questions this period, and a past year weighted towards online safety (28) and AI (18). As a 2024-intake Conservative on the Women and Equalities Committee, she is likely pursuing safeguarding-led scrutiny. Her new series on AI tools processing social care records is directly relevant to Copilot deployments in councils.",
-  "5361": "A prolific questioner (3,929 written questions in a year) with a steady stream on AI (91) and online safety (55). As an Independent without a committee base, he appears to use written questions as his main scrutiny tool. Today's six questions on the facial recognition watchdog follow the Home Office's 4 November announcement.",
-  "4785": "As Shadow Cabinet Office Minister he leads the Opposition's scrutiny of AI in government. Two-thirds of his 334 questions in a year touch these topics, overwhelmingly AI (191), and he sits on the Cyber Security and Resilience Bill committee. His Chinese AI models line is likely to continue. His register declares hospitality from techUK and Informa, and he is a natural interlocutor on public-sector AI governance.",
-  "4909": "As Shadow Health Minister in the Lords, his six cyber questions on social care and his vendor lock-in intervention appear to be frontbench preparation for the Health Bill's single patient record clauses. Expect him to press on supplier choice, data location and exit costs as the Bill proceeds.",
-  "1796": "The most AI-focused questioner in either House: 80% of his 431 questions in a year touch these topics, 314 of them on AI. He declares a consultancy with Automated Analytics Ltd, an AI data company, so his interest likely combines that professional background with a broad watching brief on AI's social effects (music, companions, X-rays, liability).",
-  "3396": "As the Lib Dem Lords spokesperson for AI and Digital, he is the most technically engaged peer on these issues. Of his 119 questions in a year, 22 name Microsoft or its products, alongside cloud (26) and data protection (24). His One Login and GDS recruitment questions continue a long-running line on digital identity security. He is likely to be closely engaged on cloud dependency and on the Health Bill data clauses.",
-  "4638": "The Slough MP. His water-supply question reflects the UK's densest data-centre cluster in his constituency, and nine of his questions in a year have been on data centres and compute. His seats on the Defence and National Security Strategy committees likely add a security lens to his online harms questions.",
-  "5052": "Four linked questions on the data protection of medical records appear to be a focused constituency or casework line, not a wider tech interest (4 of his 122 questions in a year). Low priority unless the series grows.",
-  "4703": "As a former Education Minister, her three questions on the EdTech and AI certification scheme suggest continued interest in schools policy, not a wider tech brief. Relevant to Microsoft's education products while the consultation runs.",
-  "4124": "As Chair of the Commons Science, Innovation and Technology Committee, she is the single most important Commons voice on these issues. Today's questions on AI whistleblowing, Ofcom fraud enforcement and Ofgem's data-centre fee likely preview committee lines. Of her 146 questions in a year, 41 touch these topics, including 17 on cloud, data centres and compute.",
-  "4474": "As Conservative Party Chair, his questions on political party finance and data protection appear to be about party administration and campaign rules, not tech policy. Incidental to Microsoft's issues.",
-  "5343": "As Lib Dem trade and investment spokesperson on the Business and Trade Committee, he has a real interest in cloud and data centres (10 questions in a year). Today's leasehold service-charge questions, which matched only on the Digital Markets Act reference, are incidental.",
-  "4671": "On the Joint Committee on Human Rights. His online safety questions (Ofcom business disruption orders for unpaid fines; racist comment moderation) appear to reflect constituency concerns about online hate, not a technology brief.",
-  "5089": "As Shadow Defence Minister, his satellite question reflects defence sovereign-capability concerns. Over a year he has asked 62 AI questions among 3,754, so the interest is broad but thinly spread.",
-  "4005": "A long-serving backbencher on the Backbench Business and Liaison committees. His mental health data protection questions appear to be health-led. Low relevance.",
-  "5336": "As Lib Dem primary care and cancer spokesperson on the National Security Strategy committee, her tabled questions on online safety in the justice system likely follow casework. Ten of her questions in a year have been on online safety.",
-  "4267": "Her children's psychiatry questions matched only on data protection. Her established focus is child protection and international development, so this is incidental to Microsoft's issues.",
-  "350": "As a senior Conservative on the Intelligence and Security Committee, his questions on departments' use of social media fit a sustained interest in online influence and platforms (54 online safety and 20 tech-company questions in a year). He is likely sceptical of Big Tech platforms.",
-  "4742": "As Shadow Defence Minister, his software supply chain and hybrid warfare questions reflect a security-of-supply focus. Thirty of his questions in a year have been on cyber.",
-  "3924": "Six data-centre questions in a year, including today's on planning and the national infrastructure regime, suggest a specific concern, likely local, about how large sites get consent and how much say councils keep.",
-  "5191": "The Lib Dem MP for Yeovil asked the Microsoft 365 outage question. His record shows little prior tech focus (10 of 453 questions), so this appears to be reactive, prompted by the outage itself and possibly by constituents or local businesses affected. A follow-up is possible if the impact assessment stays open.",
-  "5195": "Sits on the Housing, Communities and Local Government Committee and the Cyber Security and Resilience Bill committee. His estate-agent AI question fits a consumer-protection angle on AI in housing.",
-  "4234": "Her question matched only on GDPR, within a social security context. Not a tech interest.",
-  "5296": "A Lib Dem member of the Commons Science, Innovation and Technology Committee and the Cyber Bill committee. Today's rural post question matched only on Ofcom, but his committee seats make him a relevant contact on tech regulation.",
-  "5059": "Has a small but specific record on AI and compute (4 questions each in a year). His digital assets question, which matched on 'digital markets', is incidental.",
-  "5138": "Lib Dem veterans spokesperson. His property development question matched only on 'digital markets' and is incidental.",
-  "5136": "Her internet subscriptions question fits the consumer subscription rules approved on Monday. Interest appears consumer-led.",
-  "4608": "As Shadow Deputy Leader of the House and a member of the Public Administration and Constitutional Affairs Committee, his NHS algorithms question is a one-off in his record.",
-  "5329": "On the Work and Pensions Committee. His unemployment statistics question matched only on 'digital skills', so this is incidental.",
-  "5058": "Her question to the Home Office on online safety appears to be constituency or casework led, with limited prior tech focus (5 of 118 in a year).",
-  "4743": "The Reform UK MP's food security question matched on 'cyber' within a national resilience framing. Six cyber questions in a year suggest a security-of-supply interest.",
-  "5112": "On the Commons Finance Committee. His question on digital terrestrial TV during a major cyber incident suggests a resilience-planning interest, possibly linked to broadcasting. Seven AI questions in a year.",
-  "4811": "Declares an unpaid role on the Global Advisory Council of Tech India Advocates. His question on moderating racist comments appears to be platform-accountability led.",
-  "5359": "On the Work and Pensions Committee. His question on AI in workplace pensions fits 14 AI questions in a year, likely from a worker-protection angle.",
-  "5062": "As Shadow Justice Secretary, his prison officer misconduct question matched only on data protection. Incidental, though he asks regularly about AI (10) and cyber (9).",
-  "4603": "On the Home Affairs Committee and the Cyber Security and Resilience Bill committee. Her question on Cloud First versus 'sovereign first' is notable, and given her bill committee seat it may foreshadow amendments or debate on sovereignty.",
-  "4396": "Her call for a Strategic Market Status investigation of Meta fits a platform-power and online safety interest (4 online safety questions in a year). She sits on the Petitions Committee.",
-  "4942": "On the Foreign Affairs and Intelligence and Security committees. His pension credit question matched only on 'social media'. Incidental.",
-  "4591": "As Lib Dem business spokesperson on the Public Accounts Committee, she has asked 8 AI questions in a year. Today's Land Registry question likely probes AI in public-service delivery, and her PAC seat gives her a value-for-money lens on government IT.",
-  "3391": "A crossbench peer with interests in the arts. His questions on AI (4) and copyright (3) in a year suggest a creative-industries lens on AI and copyright.",
-  "4939": "As Shadow Cabinet Office Minister in the Lords for AI and Cyber, 17 of his 19 questions in a year touch these topics. He declares a non-executive directorship at Lumi and an advisory role with Conquer Technologies. A key Opposition voice on AI security in the Lords.",
-  "4358": "As Shadow FCDO Minister, her data-centre planning question likely reflects a constituency proposal in Aldridge-Brownhills. She has asked 11 questions on data centres and compute in a year, so this is a sustained local-planning interest."
+  "5068": "A Conservative MP first elected in 2024 and a member of the Women and Equalities Committee. Her profile records 13 related questions in this period and, over the past year, 30 on online safety and social media and 20 on AI.",
+  "5361": "An Independent MP with no committees listed in his profile. The profile records 3,929 written questions over the past year, including 92 on AI and 68 on online safety and social media.",
+  "4785": "Shadow Minister for the Cabinet Office and a member of the Cyber Security and Resilience Bill committee. His profile records 240 of 334 written questions over the past year as relevant to these topics (72%), including 191 on AI. Registered entries include a London Tech Week VIP pass from Informa Connect Holdings Ltd and attendance at a techUK dinner.",
+  "4909": "A Conservative peer and Shadow Minister for Health and Social Care. His profile records 11 related questions in this period and seven on cyber security and resilience over the past year.",
+  "1796": "His profile records 350 of 431 written questions over the past year as relevant to these topics (81%), including 314 on AI. It lists a consultancy with Automated Analytics Ltd, an AI data company, that ceased on 30 January 2026.",
+  "3396": "Liberal Democrat Lords spokesperson for AI and Digital. His profile records 119 written questions over the past year, with 22 classified under Microsoft and its businesses, 26 under cloud, data centres and compute, and 32 under data protection and privacy.",
+  "4638": "The Labour MP for Slough, with memberships of the Defence Committee and the Joint Committee on the National Security Strategy. His profile records 10 written questions over the past year on cloud, data centres and compute.",
+  "5052": "His profile records four related questions in this period and six of 122 written questions over the past year as relevant to these topics, including four on data protection and privacy.",
+  "4703": "Her profile lists education among her policy interests and records three related questions in this period.",
+  "4124": "Her profile lists membership of the Commons Science and Technology Committee. Of 146 written questions over the past year, 50 are classified as relevant to these topics, including 15 on cloud, data centres and compute.",
+  "4474": "Conservative Party Chair and Shadow Minister without Portfolio. His profile records nine written questions over the past year on data protection and privacy.",
+  "5343": "Liberal Democrat spokesperson for Investment and Trade and a member of the Business, Innovation, Science and Trade Committee. His profile records 10 written questions over the past year on cloud, data centres and compute.",
+  "4671": "A member of the Joint Committee on Human Rights. His profile records eight written questions over the past year on online safety and social media.",
+  "5089": "Shadow Parliamentary Under Secretary for Defence. His profile records 64 AI questions among 3,754 written questions over the past year.",
+  "4005": "An MP since 2010, with memberships of the Backbench Business Committee and Commons Liaison Committee. His profile records five written questions over the past year on data protection and privacy.",
+  "5336": "Liberal Democrat spokesperson for Primary Care and Cancer and a member of the Joint Committee on the National Security Strategy. Her profile records 24 written questions over the past year on online safety and social media.",
+  "4267": "A member of the International Development Committee. Her profile records two written questions over the past year on data protection and privacy.",
+  "350": "A Conservative member of the Intelligence and Security Committee of Parliament. His profile records 54 written questions over the past year on online safety and social media and 42 on other technology and AI companies.",
+  "4742": "Shadow Minister for Defence. His profile records 35 written questions over the past year on cyber security and resilience.",
+  "3924": "Her profile records six written questions over the past year on cloud, data centres and compute.",
+  "5191": "The Liberal Democrat MP for Yeovil. His profile records 13 of 453 written questions over the past year as relevant to these topics, including one classified under Microsoft and its businesses.",
+  "5195": "A member of the Housing, Communities and Local Government Committee and the Cyber Security and Resilience Bill committee.",
+  "4234": "Her profile records one written question over the past year on data protection and privacy.",
+  "5296": "A Liberal Democrat member of the Commons Science and Technology Committee and the Cyber Security and Resilience Bill committee.",
+  "5059": "His profile records four written questions over the past year classified under AI and four under cloud, data centres and compute.",
+  "5138": "Liberal Democrat spokesperson for Veterans and Service Personnel.",
+  "5136": "Her profile records two written questions over the past year on digital competition and markets.",
+  "4608": "Shadow Deputy Leader of the House of Commons and a member of the Public Administration and Constitutional Affairs Committee. His profile records one AI-related written question over the past year.",
+  "5329": "A member of the Work and Pensions Committee.",
+  "5058": "Her profile records five of 118 written questions over the past year as relevant to these topics.",
+  "4743": "A Reform UK MP whose profile records six written questions over the past year on cyber security and resilience.",
+  "5112": "A member of the Commons Finance Committee. His profile records seven AI-related written questions over the past year.",
+  "4811": "His profile lists an unpaid role on the Global Advisory Council of Tech India Advocates.",
+  "5359": "A member of the Work and Pensions Committee. His profile records 14 AI-related written questions over the past year.",
+  "5062": "Shadow Secretary of State for Justice. His profile records 11 AI questions and 10 on cyber security and resilience over the past year.",
+  "4603": "A member of the Home Affairs Committee and the Cyber Security and Resilience Bill committee.",
+  "4396": "A member of the Petitions Committee. Her profile records four written questions over the past year on online safety and social media.",
+  "4942": "A member of the Foreign Affairs Committee and the Intelligence and Security Committee of Parliament.",
+  "4591": "Liberal Democrat spokesperson for Business and a member of the Public Accounts Committee. Her profile records eight AI-related written questions over the past year.",
+  "3391": "A Crossbench peer whose profile records four AI-related written questions and three on copyright and intellectual property over the past year.",
+  "4939": "A Conservative peer and Shadow Minister for the Cabinet Office for AI and Cyber. His profile records 17 of 19 written questions over the past year as relevant to these topics. Registered entries include a non-executive directorship at Lumi and a business-development advisory role with Conquer Technologies Ltd.",
+  "4358": "Shadow Minister for the Foreign, Commonwealth and Development Office and MP for Aldridge-Brownhills. Her profile records 14 written questions over the past year on cloud, data centres and compute."
  }
 }

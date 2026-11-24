@@ -1,11 +1,750 @@
 {
- "verdict": "not run",
- "error": "AI validator did not run (is ANTHROPIC_API_KEY set?)",
- "checked": 0,
- "fixes": [],
- "removed": [],
+ "verdict": "pass_with_fixes",
+ "checked": 1015,
+ "fixes": [
+  {
+   "where": "summary",
+   "was": "A written answer on the 12–13 November Microsoft 365 outage, and a Commons reference to it as a cautionary tale, put Microsoft on the record as MPs consider Lords amendments to the Cyber Security and Resilience Bill today. The Lords opened an inquiry into UK compute (evidence by 15 January; first hearing today), a Lib Dem MP set out the case against two large Oxfordshire data centres, and peers warned of vendor lock-in on the NHS single patient record.",
+   "now": "A written answer on the 12–13 November Microsoft 365 outage and a separate Commons reference to Microsoft put the company on the record ahead of today's scheduled consideration of Lords amendments to the Cyber Security and Resilience Bill. The Lords Science and Technology Committee has an evidence session on UK compute today. Calum Miller raised concerns about a warehouse being converted to a data centre, and peers discussed cyber security safeguards for the NHS single patient record.",
+   "reason": "Rodda did not identify the specific November outage. The evidence establishes a compute hearing, not an inquiry launch, submission deadline or first hearing. The supplied extracts do not establish the two projects or vendor-lock-in warning."
+  },
+  {
+   "where": "very_important[0].body",
+   "was": "the regulator, the Information Commissioner",
+   "now": "the regulator, the Information Commission",
+   "reason": "UIN 43125 names the Information Commission, not the Information Commissioner."
+  },
+  {
+   "where": "very_important[0].why",
+   "was": "Microsoft is now on the record twice in one day as an example of IT fragility: in a ministerial answer that expects follow-up, and as a cautionary tale on the Commons floor. It lands the day MPs debate Lords amendments to the Cyber Security and Resilience Bill, which updates the same NIS regime. A proactive lessons-learned line to DCMS and DSIT would get ahead of further questions.",
+   "now": "Microsoft was mentioned in a ministerial answer and on the Commons floor on 23 November, the day before the scheduled consideration of Lords amendments to the Cyber Security and Resilience Bill. The answer provides a basis for follow-up with DCMS on lessons learned and remediation.",
+   "reason": "The answer and debate were on 23 November, not the day of the scheduled 24 November bill business. The evidence does not establish the bill's substantive changes, DSIT's current responsibility or the predicted effect of contacting it."
+  },
+  {
+   "where": "very_important[1].body",
+   "was": "MPs will consider the Lords amendments to the Cyber Security and Resilience (Network and Information Systems) Bill, which brings more digital and managed service providers into the NIS regime and strengthens regulators' powers.",
+   "now": "MPs are scheduled to consider Lords amendments to the Cyber Security and Resilience (Network and Information Systems) Bill.",
+   "reason": "The schedule supports the business and bill name, but contains no bill text establishing expanded scope or strengthened powers."
+  },
+  {
+   "where": "very_important[1].why",
+   "was": "This is the statutory framework ministers cite for cloud outages (see above). Which Lords amendments the Government accepts or overturns sets the obligations Microsoft will operate under as a cloud and managed service provider.",
+   "now": "The Microsoft outage answer cites the existing NIS Regulations 2018. Today's scheduled business concerns Lords amendments to the NIS bill; the supplied evidence does not specify their effect on providers.",
+   "reason": "Existing regulations and a proposed bill must not be conflated. The amendments and Microsoft's obligations as a managed service provider are not established."
+  },
+  {
+   "where": "very_important[3].title",
+   "was": "Lib Dem MP sets out the case against two large Oxfordshire data centres",
+   "now": "Calum Miller raises concerns about data-centre planning",
+   "reason": "The supplied Miller extracts support planning concerns, but not the number, scale or detailed opposition to the two projects."
+  },
+  {
+   "where": "very_important[3].body",
+   "was": "Miller said two proposed data centres in his constituency, 100 MW at Kidlington and 435 MW at Bicester, would together draw enough power for 1.4 million homes. He asked for details of the Chancellor's promised 'strict tests', a coherent national plan for data-centre siting, an independent assessment of projected AI electricity demand against grid capacity, and publication of impact assessments before priority grid access is granted. He described a consented warehouse quietly converted to a data centre under the same planning use class (B8) without local scrutiny. Corbyn asked whether this used the permitted-development 'loophole'.",
+   "now": "Miller said he believed a warehouse consented in 2023 was classified as B8 and that its conversion to a data centre did not require a change-of-use application. He said residents learned of the planned conversion, with its consequent electricity demand, through an application concerning a landscaping condition. Corbyn asked whether permitted development had been used to avoid local planning scrutiny.",
+   "reason": "The capacities, household comparison and requested national-policy measures do not appear in the supplied extracts. Miller qualified the B8 classification and described a planned conversion, not a confirmed completed conversion."
+  },
+  {
+   "where": "very_important[3].why",
+   "was": "This is the organised local-opposition argument (grid priority, bills, planning loopholes) put on the record in a money debate, with a cross-party echo. Expect it to recur in the Draft National Policy Statement for Data Centres consultation and in the Lords compute inquiry.",
+   "now": "The exchange records concerns about local scrutiny and the electricity implications of warehouse-to-data-centre conversion. These issues are relevant to data-centre planning discussions.",
+   "reason": "Organised opposition, the additional arguments and predicted recurrence are not established. The replacement reports the exchange neutrally."
+  },
+  {
+   "where": "very_important[3].link",
+   "was": "https://hansard.parliament.uk/Commons/2026-11-23/debates/BDD8D499-56C9-40D7-B30E-DCF22EB27F7F/FinanceBill",
+   "now": "https://hansard.parliament.uk/Commons/2026-11-23/debates/BDD8D499-56C9-40D7-B30E-DCF22EB27F7F/x#contribution-F3F3F320-D622-40D8-8334-0A2768E264C1",
+   "reason": "The draft URL does not appear in the evidence; the replacement is the exact supplied link to Miller's exchange."
+  },
+  {
+   "where": "today[0].time",
+   "was": "10:00",
+   "now": "09:30",
+   "reason": "Both schedule records for event 28501 give 09:30."
+  },
+  {
+   "where": "today[0].lead",
+   "was": "Ian Murray MP, DCMS minister",
+   "now": "Oral evidence",
+   "reason": "The event evidence does not name witnesses. Murray's answering a written question does not establish his attendance."
+  },
+  {
+   "where": "today[0].title",
+   "was": "Children's TV and video content: final evidence session",
+   "now": "Children's TV and video content: oral evidence",
+   "reason": "The evidence establishes oral evidence but not a final session."
+  },
+  {
+   "where": "today[0].why",
+   "was": "Likely questions on making public-service content prominent on YouTube and other platforms, and on the proposed social media ban for under-16s.",
+   "now": "The session concerns children's TV and video content; the supplied listing does not specify questions or witnesses.",
+   "reason": "The proposed questioning and YouTube prominence topic are not in the session evidence."
+  },
+  {
+   "where": "today[1].time",
+   "was": "10:15",
+   "now": "10:00",
+   "reason": "Both schedule records for event 28863 give 10:00."
+  },
+  {
+   "where": "today[1].lead",
+   "was": "Prof Michael Wooldridge, Prof Anne Trefethen (Oxford); Prof Maria Savona (Sussex); Emma Fryer (CyrusOne)",
+   "now": "Oral evidence",
+   "reason": "None of the witnesses, titles or affiliations appears in the evidence."
+  },
+  {
+   "where": "today[1].title",
+   "was": "Future of UK compute in the age of AI: first oral evidence",
+   "now": "Future of UK compute in the age of AI: oral evidence",
+   "reason": "The evidence does not establish that this is the first hearing."
+  },
+  {
+   "where": "today[1].why",
+   "was": "The first public framing of the compute inquiry, including a data-centre operator's view on capacity, grid and planning.",
+   "now": "The session concerns the future of UK compute in the age of AI; the supplied listing does not specify witnesses or detailed topics.",
+   "reason": "The first-session claim, operator attendance and detailed agenda are unsupported."
+  },
+  {
+   "where": "today[1].link",
+   "was": "https://committees.parliament.uk/work/10109",
+   "now": "https://whatson.parliament.uk/event/cal28863",
+   "reason": "The work-page URL is absent; the replacement is the exact supplied hearing link."
+  },
+  {
+   "where": "today[2].why",
+   "was": "Watch for the single patient record, NHS AI and the federated data platform after Monday's Lords debate.",
+   "now": "Watch for single patient record and healthcare AI issues following Monday's Lords debate; the question topics are not specified in the supplied schedule.",
+   "reason": "The evidence supports the preceding SPR and healthcare AI debate, but not its asserted federated-data-platform discussion or today's question topics."
+  },
+  {
+   "where": "today[3].time",
+   "was": "12:30",
+   "now": "Time not specified",
+   "reason": "The urgent-question listing provides no time."
+  },
+  {
+   "where": "today[3].venue",
+   "was": "Commons Chamber, after questions",
+   "now": "Commons Chamber",
+   "reason": "The evidence establishes the venue but does not give a timed placement after questions."
+  },
+  {
+   "where": "today[3].lead",
+   "was": "Richard Tice (Reform UK, Boston and Skegness)",
+   "now": "Richard Tice",
+   "reason": "The event names Tice but the evidence contains no profile establishing his party or constituency."
+  },
+  {
+   "where": "today[3].why",
+   "was": "A government outsourcing failure; it feeds the wider narrative on dependency on large IT and service suppliers.",
+   "now": "The question concerns the Civil Service Pension Scheme and Capita's performance, making it relevant to scrutiny of government suppliers.",
+   "reason": "A scheduled question does not establish an outsourcing failure or its wider political effect."
+  },
+  {
+   "where": "today[4].why",
+   "was": "Digital trade rules, including data flows and source code, of direct relevance to cloud and software exports.",
+   "now": "The hearing concerns the E-Commerce Agreement; the supplied listing does not specify provisions on data flows or source code.",
+   "reason": "The agreement's detailed provisions are not supplied."
+  },
+  {
+   "where": "today[4].link",
+   "was": "https://whatson.parliament.uk/committees/2026-11-24/",
+   "now": "https://whatson.parliament.uk/event/cal28821",
+   "reason": "The directory URL is absent; the replacement is the supplied event link."
+  },
+  {
+   "where": "today[5].time",
+   "was": "14:30",
+   "now": "Time not specified",
+   "reason": "14:30 belongs to a different oral question in the evidence. The Apple question has no individual time."
+  },
+  {
+   "where": "today[5].why",
+   "was": "Encryption and government access powers over service providers, a precedent for any cloud provider receiving a notice.",
+   "now": "The question concerns public hearings on Apple's Technical Capability Notice; the evidence does not establish a precedent for other providers.",
+   "reason": "The notice's technical requirements and the ruling's wider legal effect are not supplied."
+  },
+  {
+   "where": "today[7].title",
+   "was": "UK-EU Summit statement (repeat)",
+   "now": "UK-EU Summit statement",
+   "reason": "The evidence labels the event a statement, without identifying it as a repeat."
+  },
+  {
+   "where": "debates[0].title",
+   "was": "Peers press for statutory regulation of AI in healthcare; Government will consult in spring 2027",
+   "now": "Peers press for implementation of AI healthcare regulation recommendations",
+   "reason": "The supplied government response does not establish a spring 2027 consultation."
+  },
+  {
+   "where": "debates[0].who",
+   "was": "Lord Tarassenko (CB), backed by Baroness Harding (Con), Lord Clement-Jones (LD) and Baroness Kidron (CB); reply by Baroness Hyde of Bemerton",
+   "now": "Lord Tarassenko (CB), supported on Amendment 172D by Baroness Harding (Con) and Lord Clement-Jones (LD); Baroness Kidron (CB) on mental health AI standards; reply to the group by Baroness Hyde of Bemerton",
+   "reason": "Harding and Clement-Jones explicitly support Amendment 172D. Kidron's supplied speech concerns her separate Amendment 279QV, and the supplied government reply addresses the wider group."
+  },
+  {
+   "where": "debates[0].body",
+   "was": "Amendment 172D would set a timetable for implementing the 44 accepted recommendations of the National Commission into the Regulation of AI in Healthcare and require annual progress reports. Tarassenko noted that AI with a medical purpose is still regulated under 2002 medical-device rules. Kidron sought standards for mental-health chatbots, citing evidence that two in five children use a chatbot for advice or emotional support. The Government agreed that regulation must be proportionate and life-cycle based. It will consult in spring 2027 on classifying AI medical products and intends to lay draft regulations by the end of 2027.",
+   "now": "Lord Clement-Jones said the Government had accepted all 44 recommendations of the National Commission into the Regulation of AI in Healthcare and that Amendment 172D would require a statement setting out implementation steps and a timetable. Tarassenko noted that AI with a medical purpose is regulated under the UK Medical Devices Regulations 2002. Kidron sought mandatory standards before AI systems deliver mental health treatments in the NHS. Baroness Harding argued for more proportionate, lifecycle-based regulation.",
+   "reason": "Annual reports, the children's usage statistic and government consultation/regulation deadlines are absent from the extracts. The proportionality and lifecycle argument is evidenced in Harding's speech, not the supplied government reply."
+  },
+  {
+   "where": "debates[0].why",
+   "was": "This sets the clock for the UK's first AI-specific product regulation in health. The chatbot strand overlaps with online safety and with consumer AI assistants.",
+   "now": "The debate concerns implementation of healthcare AI safeguards and standards for mental health AI systems. The chatbot issues also have relevance to online safety.",
+   "reason": "The evidence does not establish a legislative clock or that these would be the UK's first AI-specific health product regulations."
+  },
+  {
+   "where": "debates[0].link",
+   "was": "https://hansard.parliament.uk/Lords/2026-11-23/debates/78FC9121-51E2-4807-B4F4-42BF1B8E994F/HealthBill",
+   "now": "https://hansard.parliament.uk/Lords/2026-11-23/debates/78FC9121-51E2-4807-B4F4-42BF1B8E994F/x#contribution-BD89024C-C76E-4FD7-ACCD-5F4DACCA9245",
+   "reason": "The draft URL is absent; the replacement is the supplied contribution supporting the recommendations and amendment."
+  },
+  {
+   "where": "debates[1].who",
+   "was": "Lord Markham (Con), Baroness Finlay (CB), Lord Kamall (Con)",
+   "now": "Lord Markham (Con), Baroness Finlay of Llandaff (CB)",
+   "reason": "The evidence supports Markham's and Finlay's cyber interventions, but not the specific assessment attributed to Kamall in this item."
+  },
+  {
+   "where": "debates[1].body",
+   "was": "Lord Markham, a former health minister, warned of heightened cyber risk from concentrating patient data, recalling the attacks on London pathology providers. Baroness Finlay asked for the single patient record to be treated as critical national infrastructure, with the highest cyber security standards set in statute. Lord Kamall sought an assessment of interoperability, cyber security and operational resilience before regulations are made.",
+   "now": "Lord Markham, a former health minister, warned of heightened cyber risk from holding patient data, recalling cyber attacks on diagnostic companies in London. Baroness Finlay of Llandaff asked for the single patient record to be assessed as critical national infrastructure, with the highest cyber security standards set in statute.",
+   "reason": "The Kamall assessment is not in the supplied extract. Markham's evidenced wording concerns data held by diagnostic companies, not an established concentration of data in a chosen SPR architecture."
+  },
+  {
+   "where": "debates[1].link",
+   "was": "https://hansard.parliament.uk/Lords/2026-11-23/debates/78FC9121-51E2-4807-B4F4-42BF1B8E994F/HealthBill",
+   "now": "https://hansard.parliament.uk/Lords/2026-11-23/debates/78FC9121-51E2-4807-B4F4-42BF1B8E994F/x#contribution-8D9F89BF-B8F2-4E5C-9661-89D5C398437B",
+   "reason": "The replacement is the exact supplied contribution supporting the statutory security proposal."
+  },
+  {
+   "where": "debates[2].body",
+   "was": "The Prime Minister said the agreement proposes a digital partnership to deepen co-operation across digital and technology sectors, and that the UK is not joining the EU digital identity wallet. Callum Anderson asked how the partnership will consolidate the UK as a destination for technology investment and AI adoption; the Prime Minister called it a 'really big opportunity'.",
+   "now": "The Prime Minister said the agreement proposes a digital partnership to deepen co-operation across digital and technology sectors, and that the UK is not joining the EU digital identity wallet. Callum Anderson asked how the partnership would consolidate the UK as a destination for technology investment and AI adoption.",
+   "reason": "The 'really big opportunity' quotation is not in the evidence."
+  },
+  {
+   "where": "debates[2].why",
+   "was": "This is a new UK-EU channel on digital regulation and AI. Its terms of reference will matter for cross-border data and cloud services.",
+   "now": "The proposed partnership concerns digital and technology co-operation; Anderson's question links it to technology investment and AI adoption.",
+   "reason": "A defined regulatory channel, terms of reference and cross-border data provisions are not established."
+  },
+  {
+   "where": "debates[2].link",
+   "was": "https://hansard.parliament.uk/Commons/2026-11-23/debates/3F3236A5-D1ED-4FD0-8678-B7950D74FD7B/UK-EUSummit",
+   "now": "https://hansard.parliament.uk/Commons/2026-11-23/debates/3F3236A5-D1ED-4FD0-8678-B7950D74FD7B/x#contribution-DA958883-94A7-41BB-9A00-FE581AA0BF7A",
+   "reason": "The replacement is the exact supplied Prime Minister contribution."
+  },
+  {
+   "where": "debates[3].title",
+   "was": "Subscription contract rules approved, in force from 1 January",
+   "now": "Subscription contract regulations considered; commencement proposed for 1 January 2027",
+   "reason": "The committee resolved that it had considered the draft regulations. Commencement remains subject to parliamentary approval."
+  },
+  {
+   "where": "debates[3].who",
+   "was": "Kate Dearden, Minister for the Future of Work; Second Delegated Legislation Committee",
+   "now": "Kate Dearden, Minister for the Future of Work; Commons General Committees",
+   "reason": "Dearden's role is evidenced, but the committee number is not supplied."
+  },
+  {
+   "where": "debates[3].body",
+   "was": "The committee approved regulations implementing the subscriptions chapter of the Digital Markets, Competition and Consumers Act 2024: new information, reminder and easy-cancellation duties covering an estimated 155 million UK subscriptions. Subject to approval by Parliament, they commence on 1 January. The Conservatives did not oppose them. Graham Stuart (Con) asked for an early review and protection for small businesses and publishers.",
+   "now": "The committee considered draft regulations implementing the subscriptions chapter of the Digital Markets, Competition and Consumers Act 2024, including information, renewal-reminder and straightforward cancellation requirements. Dearden estimated that there are around 155 million active UK subscriptions. Subject to parliamentary approval, the new regime is due to commence on 1 January 2027. The Conservative Opposition said it would not oppose the draft legislation. Graham Stuart raised concerns about small businesses being caught out by the requirements.",
+   "reason": "Consideration is not final approval. The 155 million figure is the estimate of all active subscriptions, not a demonstrated coverage total. UIN 43399 confirms the year and conditional commencement. Stuart's early-review and publisher claims are absent."
+  },
+  {
+   "where": "debates[3].why",
+   "was": "This applies to Xbox Game Pass, consumer Microsoft 365 and LinkedIn Premium. Compliance teams should confirm cancellation and renewal-reminder flows are ready for 1 January.",
+   "now": "The proposed requirements warrant review of consumer subscription cancellation and renewal-reminder arrangements ahead of the conditional 1 January 2027 commencement.",
+   "reason": "The evidence does not establish applicability to the named Microsoft products or particular contracts."
+  },
+  {
+   "where": "debates[3].link, debates[3].linkText, debates[3].tags",
+   "was": "https://hansard.parliament.uk/html/Commons/2026-11-23/GeneralCommittees; Hansard: General Committees; [Consumer law, Subscriptions, Xbox]",
+   "now": "https://hansard.parliament.uk/Commons/2026-11-23/debates/618bb9cb-02fc-4e0f-b277-f9fb37baf74f/x#contribution-B65BD00C-4B64-4714-9DEB-5F31DF15514F; Hansard: subscription regulations; [Consumer law, Subscriptions]",
+   "reason": "The draft URL is absent. The supplied contribution records the consideration resolution. The product-specific tag is removed with the unsupported applicability claim."
+  },
+  {
+   "where": "debates[4].who",
+   "was": "Shockat Adam (Leicester South)",
+   "now": "Shockat Adam",
+   "reason": "The evidence names Adam but does not establish his constituency."
+  },
+  {
+   "where": "debates[4].why",
+   "was": "A single mention, but it shows the digital services tax remains a live campaign line for MPs on the left.",
+   "now": "This records Adam's criticism of government tax policy; it does not establish a wider campaign.",
+   "reason": "One contribution does not support a generalisation about MPs' political alignment or campaign activity."
+  },
+  {
+   "where": "debates[4].link",
+   "was": "https://hansard.parliament.uk/Commons/2026-11-23/debates/BDD8D499-56C9-40D7-B30E-DCF22EB27F7F/FinanceBill",
+   "now": "https://hansard.parliament.uk/Commons/2026-11-23/debates/BDD8D499-56C9-40D7-B30E-DCF22EB27F7F/x#contribution-F1D6AF86-D79C-4830-BE2A-BB0F3C564F13",
+   "reason": "The replacement is the exact supplied contribution containing the tax criticism."
+  },
+  {
+   "where": "questions[0].title",
+   "was": "Data centres and planning: three directed into the national infrastructure regime, none yet decided",
+   "now": "Data centres and planning: three direction requests granted, none yet returned for decision",
+   "reason": "The evidence distinguishes granting direction requests from deciding development proposals following examination."
+  },
+  {
+   "where": "questions[0].body",
+   "was": "Four requests have been made to direct data-centre applications into the Nationally Significant Infrastructure Projects regime. One was withdrawn and three were granted; none has yet returned for decision. The department holds no data on applications with local authorities. Three of the five AI Growth Zones are in Scotland or Wales, where planning is devolved. The minister pointed to the Draft National Policy Statement for Data Centres, published by DBT on 28 October, whose consultation includes questions on the NSIP route, and said local authorities can still submit Local Impact Reports.",
+   "now": "Four requests have been made to direct data-centre applications into the Nationally Significant Infrastructure Projects regime. One was withdrawn and three were granted; none of the proposals has yet returned for decision following examination by the Planning Inspectorate. The department does not hold data on data-centre applications awaiting permission from local planning authorities. Three of the five AI Growth Zones are in Scotland or Wales, where planning is devolved. The minister pointed to the Draft National Policy Statement for Data Centres, published by the Department for Business, Innovation, Science and Trade on 28 October 2026, whose consultation includes questions on the NSIP route, and said local authorities can still submit Local Impact Reports.",
+   "reason": "The absence of local data is specifically about applications awaiting permission. The evidence names the Department for Business, Innovation, Science and Trade, not DBT."
+  },
+  {
+   "where": "questions[1].body",
+   "was": "are expected to minimise demand and use alternative sources",
+   "now": "are expected to minimise demand and consider alternative sources before additional public water supply",
+   "reason": "UIN 44466 requires consideration of alternatives, not their unconditional use."
+  },
+  {
+   "where": "questions[1].why",
+   "was": "Connection fees and water conditions bear directly on Microsoft's UK build-out economics. Slough is a key cluster.",
+   "now": "The proposed fee and water-supply conditions are relevant to data-centre investment and development.",
+   "reason": "Microsoft's specific build-out economics and Slough's comparative cluster importance are not supplied."
+  },
+  {
+   "where": "questions[2].who",
+   "was": "Preet Kaur Gill (Lab, Birmingham Edgbaston), answered by James Frith (DHSC)",
+   "now": "Preet Kaur Gill (Labour (Co-op), Birmingham Edgbaston), answered by James Frith (DHSC)",
+   "reason": "Gill's profile gives the more specific party designation Labour (Co-op)."
+  },
+  {
+   "where": "questions[2].why",
+   "was": "'Sovereign first' framing is now appearing in Labour backbench questions. Watch GDS's next policy statement.",
+   "now": "Gill's question raises 'sovereign first' as a possible policy change; the answer does not announce a change to Cloud First.",
+   "reason": "The evidence supports the question, not an expected forthcoming GDS policy statement."
+  },
+  {
+   "where": "questions[3].who",
+   "was": "Dr Ben Spencer (Con), answered by Stephanie Peacock and Kanishka Narayan; Viscount Camrose (Con)",
+   "now": "Dr Ben Spencer (Con), answered by Stephanie Peacock and Kanishka Narayan; Viscount Camrose (Con), answered by Baroness Twycross",
+   "reason": "HL5232 was answered by Baroness Twycross, not either Commons minister."
+  },
+  {
+   "where": "questions[3].body",
+   "was": "GDS holds no central record of the AI models departments use. It relies on the Algorithmic Transparency Recording Standard, and further Cabinet Office activity is planned. The Prime Minister's AI Taskforce will not publish annual reports. Questions on Chinese AI models drew only general answers: discussions with US counterparts are not disclosed, and the AI Biosecurity Lab will assess security before approving any technology. Spencer has since tabled a question on whether the Cabinet Office uses Chinese open-weight models (UIN 45816).",
+   "now": "There is no central tracking of AI model use within government. The Algorithmic Transparency Recording Standard publishes information on in-scope algorithmic tools, and further Cabinet Office activity is planned. The Prime Minister's AI Taskforce does not intend to publish formal annual reports. Questions on Chinese AI models drew general answers: details of confidential discussions with US counterparts are not routinely disclosed, and the Government will work with the independent AI Biosecurity Lab on robust security arrangements, including assessment of technology before approval for use. Spencer tabled a question on 23 November asking whether the Cabinet Office uses open-weight AI models published by developers based in China (UIN 45816).",
+   "reason": "The draft turns an intention into a categorical promise, overstates nondisclosure and assigns an approval responsibility not stated in HL5232. ATRS is not an exhaustive model register."
+  },
+  {
+   "where": "questions[3].why",
+   "was": "This is a sustained Conservative frontbench line on AI governance and supply-chain security in government, likely to lead to calls for model registers and procurement restrictions.",
+   "now": "Spencer and Camrose hold Conservative shadow Cabinet Office roles, and their questions scrutinise AI governance and security.",
+   "reason": "Their roles and sustained topic records are evidenced; predicted calls for restrictions and registers are not."
+  },
+  {
+   "where": "questions[4].who",
+   "was": "Dame Chi Onwurah (Lab), answered by Kate Dearden (DBT)",
+   "now": "Dame Chi Onwurah (Lab), answered by Kate Dearden (Department for Business, Innovation, Science and Trade)",
+   "reason": "The answer's department is the Department for Business, Innovation, Science and Trade."
+  },
+  {
+   "where": "questions[4].why",
+   "was": "This comes from the chair of the Commons Science, Innovation and Technology Committee. It is a hook for AI-safety-first campaigners, and the consultation is open.",
+   "now": "The consultation is open and concerns whistleblowing protections relevant to emerging technologies such as AI.",
+   "reason": "Onwurah's profile establishes committee membership, not a chairmanship or the draft committee name. Campaigner positioning is unsupported."
+  },
+  {
+   "where": "questions[5].title",
+   "was": "Online safety and AI: chatbots coming into scope; pressure on Ofcom over fraud",
+   "now": "Online safety and AI: power to bring chatbots into scope; Ofcom questioned on fraud",
+   "reason": "An enabling power does not establish that chatbots have been, or will definitely be, brought into scope."
+  },
+  {
+   "where": "questions[6].who",
+   "was": "Rebecca Long Bailey (Lab), answered by Kate Dearden (DBT)",
+   "now": "Rebecca Long Bailey (Lab), answered by Kate Dearden (Department for Business, Innovation, Science and Trade)",
+   "reason": "The evidence names the Department for Business, Innovation, Science and Trade."
+  },
+  {
+   "where": "questions[6].why",
+   "was": "Shows MPs pushing for wider use of the digital markets regime against Big Tech.",
+   "now": "Long Bailey's question asks about using the Strategic Market Status regime for Meta; the answer identifies an investigation under separate Competition Act powers.",
+   "reason": "One question does not establish a wider group of MPs, and the two statutory regimes must be distinguished."
+  },
+  {
+   "where": "questions[7].why",
+   "was": "Digital identity security is a continuing Lib Dem scrutiny theme, and supplier standards affect every government software contract.",
+   "now": "The questions scrutinise digital identity security. The supply-chain answer sets out departmental responsibility and baseline supplier standards relevant to government software procurement.",
+   "reason": "The party-wide generalisation and universal claim about every contract go beyond the evidence."
+  },
+  {
+   "where": "questions[9].body",
+   "was": "Shivani Raja tabled six questions on AI in adult social care and children's data in public AI tools, covering evaluation metrics, cyber and data protection standards.",
+   "now": "Shivani Raja tabled seven questions on AI and digitisation in adult social care and children's data in public AI tools, covering evaluation metrics, cyber and data protection standards.",
+   "reason": "There are five relevant adult-social-care questions (45530, 45531, 45532, 45540, 45541) and two children's-social-care questions (45543, 45544)."
+  },
+  {
+   "where": "committees[0].title",
+   "was": "Public Accounts Committee publishes DCMS letter on Government Cyber Resilience",
+   "now": "DCMS letter on Government Cyber Resilience published",
+   "reason": "The supplied correspondence listing does not identify the publishing committee as the Public Accounts Committee."
+  },
+  {
+   "where": "committees[0].body",
+   "was": "The letter responds to the committee's 24th report of session 2024–26, Government Cyber Resilience. Its contents were not reviewed for this edition because the PDF could not be read.",
+   "now": "The correspondence listing identifies a letter relating to the 24th report of session 2024–2026, Government Cyber Resilience. The supplied evidence contains the listing, not the letter's contents.",
+   "reason": "The evidence says 'relating to', not that the letter is a response, and does not establish a failed PDF read or the draft author's review process."
+  },
+  {
+   "where": "committees[0].link, committees[0].linkText",
+   "was": "https://committees.parliament.uk/publications/55946/standard/pdf/; Letter (PDF)",
+   "now": "https://committees.parliament.uk/publications/55946/; Correspondence listing",
+   "reason": "Only the publication-page URL appears in the evidence."
+  },
+  {
+   "where": "committees[1].title",
+   "was": "Public Accounts Committee: NS&I transformation programme correspondence",
+   "now": "NS&I transformation programme correspondence",
+   "reason": "The supplied listings do not establish the publishing committee."
+  },
+  {
+   "where": "committees[1].why",
+   "was": "A reference case for government IT transformation risk and supplier dependency.",
+   "now": "The correspondence concerns a government transformation programme; the supplied listings do not establish findings on suppliers.",
+   "reason": "The publication titles establish transformation correspondence, not findings about IT risk or supplier dependency."
+  },
+  {
+   "where": "committees[1].link, committees[1].linkText",
+   "was": "https://committees.parliament.uk/publications/55947/standard/pdf/; NS&I letter (PDF)",
+   "now": "https://committees.parliament.uk/publications/55947/; NS&I correspondence listing",
+   "reason": "Only the publication-page URL appears in the evidence."
+  },
+  {
+   "where": "committees[2].body",
+   "was": "Commons DCMS Committee membership: Alison Bennett replaces Cameron Thomas. Lords European Affairs Committee published a letter from Hamish Falconer (20 November) on the UK-EU Summit and the European Partnership Bill.",
+   "now": "A letter from Hamish Falconer dated 20 November 2026 on the UK-EU Summit and the European Partnership Bill was published on 23 November.",
+   "reason": "The membership change, both member names in that context and the publishing committee are absent. Publication 55936 supports the letter, date and subjects."
+  },
+  {
+   "where": "committees[2].link, committees[2].linkText",
+   "was": "https://hansard.parliament.uk/Commons/2026-11-23/debates/90CDAD65-952F-4EDF-9DB9-013B44EC6BFA/DigitalCultureMediaAndSportCommittee; Hansard: committee membership",
+   "now": "https://committees.parliament.uk/publications/55936/; UK-EU Summit correspondence",
+   "reason": "The membership URL is absent. The replacement supports the retained correspondence item."
+  },
+  {
+   "where": "other[0].title",
+   "was": "Treasury flags North Korea-linked remote IT workers in its proliferation financing risk assessment",
+   "now": "Treasury identifies cyber-enabled activity in its proliferation financing risk assessment",
+   "reason": "Remote IT workers are not mentioned in either supplied statement extract."
+  },
+  {
+   "where": "other[0].body",
+   "was": "The new National Risk Assessment of Proliferation Financing names emerging threats including cryptoassets, cyber-enabled activity and DPRK-linked remote IT workers who generate revenue and evade sanctions. It identifies North Korea and Iran as the most significant state actors.",
+   "now": "The updated National Risk Assessment of Proliferation Financing notes the growing use of cryptoassets and cyber-enabled activity, and increasingly sophisticated sanctions-evasion and procurement networks. It says the UK's proliferation financing risk remains largely indirect and inadvertent, principally arising from DPRK- and Iran-linked procurement and financing networks.",
+   "reason": "The remote-worker claim and comparative ranking of state actors are not supplied. The replacement preserves the assessment's actual qualification and attribution."
+  },
+  {
+   "where": "other[0].why",
+   "was": "Remote IT worker schemes run through recruitment platforms and cloud services. This is relevant to LinkedIn's and Microsoft's trust-and-safety work, and an opening to point to action already taken.",
+   "now": "The assessment's reference to cyber-enabled activity is relevant to cyber-risk monitoring.",
+   "reason": "Recruitment-platform schemes and prior company action are not evidenced."
+  },
+  {
+   "where": "other[0].tags",
+   "was": "[Cyber, LinkedIn, Sanctions]",
+   "now": "[Cyber, Sanctions]",
+   "reason": "The unsupported LinkedIn-specific connection has been removed."
+  },
+  {
+   "where": "member_notes.5068",
+   "was": "Appears to be building a portfolio on children, data and AI in public services: 10 related questions this period, and a past year weighted towards online safety (28) and AI (18). As a 2024-intake Conservative on the Women and Equalities Committee, she is likely pursuing safeguarding-led scrutiny. Her new series on AI tools processing social care records is directly relevant to Copilot deployments in councils.",
+   "now": "A Conservative MP first elected in 2024 and a member of the Women and Equalities Committee. Her profile records 13 related questions in this period and, over the past year, 30 on online safety and social media and 20 on AI.",
+   "reason": "Corrected all three counts. Removed inferred safeguarding motives, a developing portfolio and specific question/deployment claims not contained in her profile."
+  },
+  {
+   "where": "member_notes.5361",
+   "was": "A prolific questioner (3,929 written questions in a year) with a steady stream on AI (91) and online safety (55). As an Independent without a committee base, he appears to use written questions as his main scrutiny tool. Today's six questions on the facial recognition watchdog follow the Home Office's 4 November announcement.",
+   "now": "An Independent MP with no committees listed in his profile. The profile records 3,929 written questions over the past year, including 92 on AI and 68 on online safety and social media.",
+   "reason": "Corrected topic counts. An empty committee list does not establish his main scrutiny method; watchdog subjects and announcement chronology are outside the profile evidence."
+  },
+  {
+   "where": "member_notes.4785",
+   "was": "As Shadow Cabinet Office Minister he leads the Opposition's scrutiny of AI in government. Two-thirds of his 334 questions in a year touch these topics, overwhelmingly AI (191), and he sits on the Cyber Security and Resilience Bill committee. His Chinese AI models line is likely to continue. His register declares hospitality from techUK and Informa, and he is a natural interlocutor on public-sector AI governance.",
+   "now": "Shadow Minister for the Cabinet Office and a member of the Cyber Security and Resilience Bill committee. His profile records 240 of 334 written questions over the past year as relevant to these topics (72%), including 191 on AI. Registered entries include a London Tech Week VIP pass from Informa Connect Holdings Ltd and attendance at a techUK dinner.",
+   "reason": "Corrected the proportion and made registered entries precise. Removed unsupported leadership, future questioning and engagement judgements."
+  },
+  {
+   "where": "member_notes.4909",
+   "was": "As Shadow Health Minister in the Lords, his six cyber questions on social care and his vendor lock-in intervention appear to be frontbench preparation for the Health Bill's single patient record clauses. Expect him to press on supplier choice, data location and exit costs as the Bill proceeds.",
+   "now": "A Conservative peer and Shadow Minister for Health and Social Care. His profile records 11 related questions in this period and seven on cyber security and resilience over the past year.",
+   "reason": "The role and topic record are supported. Specific social-care questions, an unevidenced lock-in intervention, preparatory motives and predicted interventions are outside his profile."
+  },
+  {
+   "where": "member_notes.1796",
+   "was": "The most AI-focused questioner in either House: 80% of his 431 questions in a year touch these topics, 314 of them on AI. He declares a consultancy with Automated Analytics Ltd, an AI data company, so his interest likely combines that professional background with a broad watching brief on AI's social effects (music, companions, X-rays, liability).",
+   "now": "His profile records 350 of 431 written questions over the past year as relevant to these topics (81%), including 314 on AI. It lists a consultancy with Automated Analytics Ltd, an AI data company, that ceased on 30 January 2026.",
+   "reason": "Corrected the percentage and ceased-interest status. The comparative superlative, inferred motivation and specific watching brief are not established by his profile."
+  },
+  {
+   "where": "member_notes.3396",
+   "was": "As the Lib Dem Lords spokesperson for AI and Digital, he is the most technically engaged peer on these issues. Of his 119 questions in a year, 22 name Microsoft or its products, alongside cloud (26) and data protection (24). His One Login and GDS recruitment questions continue a long-running line on digital identity security. He is likely to be closely engaged on cloud dependency and on the Health Bill data clauses.",
+   "now": "Liberal Democrat Lords spokesperson for AI and Digital. His profile records 119 written questions over the past year, with 22 classified under Microsoft and its businesses, 26 under cloud, data centres and compute, and 32 under data protection and privacy.",
+   "reason": "Corrected the privacy count and distinguished topic classification from literal product mentions. Removed unsupported comparative expertise, specific question history and forecasts."
+  },
+  {
+   "where": "member_notes.4638",
+   "was": "The Slough MP. His water-supply question reflects the UK's densest data-centre cluster in his constituency, and nine of his questions in a year have been on data centres and compute. His seats on the Defence and National Security Strategy committees likely add a security lens to his online harms questions.",
+   "now": "The Labour MP for Slough, with memberships of the Defence Committee and the Joint Committee on the National Security Strategy. His profile records 10 written questions over the past year on cloud, data centres and compute.",
+   "reason": "Corrected the count. Removed the unsupported cluster ranking, attribution of a question to local conditions and inferred security motivation."
+  },
+  {
+   "where": "member_notes.5052",
+   "was": "Four linked questions on the data protection of medical records appear to be a focused constituency or casework line, not a wider tech interest (4 of his 122 questions in a year). Low priority unless the series grows.",
+   "now": "His profile records four related questions in this period and six of 122 written questions over the past year as relevant to these topics, including four on data protection and privacy.",
+   "reason": "Four is the privacy-topic count, not the overall relevant count. Removed unevidenced constituency/casework motives, specific medical-record subjects and priority assessment."
+  },
+  {
+   "where": "member_notes.4703",
+   "was": "As a former Education Minister, her three questions on the EdTech and AI certification scheme suggest continued interest in schools policy, not a wider tech brief. Relevant to Microsoft's education products while the consultation runs.",
+   "now": "Her profile lists education among her policy interests and records three related questions in this period.",
+   "reason": "The profile does not establish a former ministerial role, the questions' specific subjects or the inferred scope of her interests."
+  },
+  {
+   "where": "member_notes.4124",
+   "was": "As Chair of the Commons Science, Innovation and Technology Committee, she is the single most important Commons voice on these issues. Today's questions on AI whistleblowing, Ofcom fraud enforcement and Ofgem's data-centre fee likely preview committee lines. Of her 146 questions in a year, 41 touch these topics, including 17 on cloud, data centres and compute.",
+   "now": "Her profile lists membership of the Commons Science and Technology Committee. Of 146 written questions over the past year, 50 are classified as relevant to these topics, including 15 on cloud, data centres and compute.",
+   "reason": "Corrected the committee name and counts. Membership does not establish chairmanship, comparative importance or future committee lines."
+  },
+  {
+   "where": "member_notes.4474",
+   "was": "As Conservative Party Chair, his questions on political party finance and data protection appear to be about party administration and campaign rules, not tech policy. Incidental to Microsoft's issues.",
+   "now": "Conservative Party Chair and Shadow Minister without Portfolio. His profile records nine written questions over the past year on data protection and privacy.",
+   "reason": "The roles and topic count are supported. The specific finance subjects, motives and dismissal of technology relevance are outside his profile."
+  },
+  {
+   "where": "member_notes.5343",
+   "was": "As Lib Dem trade and investment spokesperson on the Business and Trade Committee, he has a real interest in cloud and data centres (10 questions in a year). Today's leasehold service-charge questions, which matched only on the Digital Markets Act reference, are incidental.",
+   "now": "Liberal Democrat spokesperson for Investment and Trade and a member of the Business, Innovation, Science and Trade Committee. His profile records 10 written questions over the past year on cloud, data centres and compute.",
+   "reason": "Corrected the role wording and committee name. Specific leasehold subjects, classifier provenance and the incidental-interest judgement are not in the profile."
+  },
+  {
+   "where": "member_notes.4671",
+   "was": "On the Joint Committee on Human Rights. His online safety questions (Ofcom business disruption orders for unpaid fines; racist comment moderation) appear to reflect constituency concerns about online hate, not a technology brief.",
+   "now": "A member of the Joint Committee on Human Rights. His profile records eight written questions over the past year on online safety and social media.",
+   "reason": "Removed motives and specific question claims outside his profile; racist comment moderation is attributed to Mishra, not Khan, elsewhere in the evidence."
+  },
+  {
+   "where": "member_notes.5089",
+   "was": "As Shadow Defence Minister, his satellite question reflects defence sovereign-capability concerns. Over a year he has asked 62 AI questions among 3,754, so the interest is broad but thinly spread.",
+   "now": "Shadow Parliamentary Under Secretary for Defence. His profile records 64 AI questions among 3,754 written questions over the past year.",
+   "reason": "Corrected the exact role and AI count. Removed the specific satellite claim, inferred concern and qualitative judgement."
+  },
+  {
+   "where": "member_notes.4005",
+   "was": "A long-serving backbencher on the Backbench Business and Liaison committees. His mental health data protection questions appear to be health-led. Low relevance.",
+   "now": "An MP since 2010, with memberships of the Backbench Business Committee and Commons Liaison Committee. His profile records five written questions over the past year on data protection and privacy.",
+   "reason": "Retained evidenced tenure and committee context. Removed specific question subjects, inferred motives and the unsupported relevance judgement."
+  },
+  {
+   "where": "member_notes.5336",
+   "was": "As Lib Dem primary care and cancer spokesperson on the National Security Strategy committee, her tabled questions on online safety in the justice system likely follow casework. Ten of her questions in a year have been on online safety.",
+   "now": "Liberal Democrat spokesperson for Primary Care and Cancer and a member of the Joint Committee on the National Security Strategy. Her profile records 24 written questions over the past year on online safety and social media.",
+   "reason": "Corrected the topic count. Removed specific justice-system questions and inferred casework."
+  },
+  {
+   "where": "member_notes.4267",
+   "was": "Her children's psychiatry questions matched only on data protection. Her established focus is child protection and international development, so this is incidental to Microsoft's issues.",
+   "now": "A member of the International Development Committee. Her profile records two written questions over the past year on data protection and privacy.",
+   "reason": "The profile does not establish the specific psychiatry subjects, exclusive matching reason or child-protection focus. Removed the relevance judgement."
+  },
+  {
+   "where": "member_notes.350",
+   "was": "As a senior Conservative on the Intelligence and Security Committee, his questions on departments' use of social media fit a sustained interest in online influence and platforms (54 online safety and 20 tech-company questions in a year). He is likely sceptical of Big Tech platforms.",
+   "now": "A Conservative member of the Intelligence and Security Committee of Parliament. His profile records 54 written questions over the past year on online safety and social media and 42 on other technology and AI companies.",
+   "reason": "Corrected the company-topic count. Removed specific departmental question claims, inferred online-influence focus and an unsupported political attitude towards platforms."
+  },
+  {
+   "where": "member_notes.4742",
+   "was": "As Shadow Defence Minister, his software supply chain and hybrid warfare questions reflect a security-of-supply focus. Thirty of his questions in a year have been on cyber.",
+   "now": "Shadow Minister for Defence. His profile records 35 written questions over the past year on cyber security and resilience.",
+   "reason": "Corrected the cyber count. The specific question subjects and inferred security-of-supply motive are not in his profile."
+  },
+  {
+   "where": "member_notes.3924",
+   "was": "Six data-centre questions in a year, including today's on planning and the national infrastructure regime, suggest a specific concern, likely local, about how large sites get consent and how much say councils keep.",
+   "now": "Her profile records six written questions over the past year on cloud, data centres and compute.",
+   "reason": "The profile establishes a broad topic classification, not six exclusively data-centre questions, their specific planning subjects or a local motive."
+  },
+  {
+   "where": "member_notes.5191",
+   "was": "The Lib Dem MP for Yeovil asked the Microsoft 365 outage question. His record shows little prior tech focus (10 of 453 questions), so this appears to be reactive, prompted by the outage itself and possibly by constituents or local businesses affected. A follow-up is possible if the impact assessment stays open.",
+   "now": "The Liberal Democrat MP for Yeovil. His profile records 13 of 453 written questions over the past year as relevant to these topics, including one classified under Microsoft and its businesses.",
+   "reason": "Corrected the relevant count. Removed the specific outage subject and speculative causes, affected constituents and future follow-up, none of which is established by the profile."
+  },
+  {
+   "where": "member_notes.5195",
+   "was": "Sits on the Housing, Communities and Local Government Committee and the Cyber Security and Resilience Bill committee. His estate-agent AI question fits a consumer-protection angle on AI in housing.",
+   "now": "A member of the Housing, Communities and Local Government Committee and the Cyber Security and Resilience Bill committee.",
+   "reason": "The committee memberships are supported; the specific estate-agent question and inferred policy angle are outside his profile."
+  },
+  {
+   "where": "member_notes.4234",
+   "was": "Her question matched only on GDPR, within a social security context. Not a tech interest.",
+   "now": "Her profile records one written question over the past year on data protection and privacy.",
+   "reason": "The profile supports the topic count, not the exclusive classifier match or a categorical absence of technology interest."
+  },
+  {
+   "where": "member_notes.5296",
+   "was": "A Lib Dem member of the Commons Science, Innovation and Technology Committee and the Cyber Bill committee. Today's rural post question matched only on Ofcom, but his committee seats make him a relevant contact on tech regulation.",
+   "now": "A Liberal Democrat member of the Commons Science and Technology Committee and the Cyber Security and Resilience Bill committee.",
+   "reason": "Corrected the committee name. Removed specific question, classifier and engagement judgements outside his profile."
+  },
+  {
+   "where": "member_notes.5059",
+   "was": "Has a small but specific record on AI and compute (4 questions each in a year). His digital assets question, which matched on 'digital markets', is incidental.",
+   "now": "His profile records four written questions over the past year classified under AI and four under cloud, data centres and compute.",
+   "reason": "The counts are supported and may overlap. Removed specific digital-assets and classifier claims and the relevance judgement."
+  },
+  {
+   "where": "member_notes.5138",
+   "was": "Lib Dem veterans spokesperson. His property development question matched only on 'digital markets' and is incidental.",
+   "now": "Liberal Democrat spokesperson for Veterans and Service Personnel.",
+   "reason": "Retained the precise evidenced role; removed the question, classifier and relevance claims outside his profile."
+  },
+  {
+   "where": "member_notes.5136",
+   "was": "Her internet subscriptions question fits the consumer subscription rules approved on Monday. Interest appears consumer-led.",
+   "now": "Her profile records two written questions over the past year on digital competition and markets.",
+   "reason": "The profile supports the topic count, not a specific subscription question, legislative outcome or inferred motivation."
+  },
+  {
+   "where": "member_notes.4608",
+   "was": "As Shadow Deputy Leader of the House and a member of the Public Administration and Constitutional Affairs Committee, his NHS algorithms question is a one-off in his record.",
+   "now": "Shadow Deputy Leader of the House of Commons and a member of the Public Administration and Constitutional Affairs Committee. His profile records one AI-related written question over the past year.",
+   "reason": "The roles and broad topic count are supported; the profile does not establish a specific NHS algorithms subject or uniqueness beyond the stated period."
+  },
+  {
+   "where": "member_notes.5329",
+   "was": "On the Work and Pensions Committee. His unemployment statistics question matched only on 'digital skills', so this is incidental.",
+   "now": "A member of the Work and Pensions Committee.",
+   "reason": "The profile supports committee membership, not the specific question, exclusive matching reason or incidental-interest judgement."
+  },
+  {
+   "where": "member_notes.5058",
+   "was": "Her question to the Home Office on online safety appears to be constituency or casework led, with limited prior tech focus (5 of 118 in a year).",
+   "now": "Her profile records five of 118 written questions over the past year as relevant to these topics.",
+   "reason": "Retained the supported record; removed specific question attribution and inferred constituency or casework motive."
+  },
+  {
+   "where": "member_notes.4743",
+   "was": "The Reform UK MP's food security question matched on 'cyber' within a national resilience framing. Six cyber questions in a year suggest a security-of-supply interest.",
+   "now": "A Reform UK MP whose profile records six written questions over the past year on cyber security and resilience.",
+   "reason": "The party and count are supported. Removed the specific question, classifier and inferred security-of-supply interest."
+  },
+  {
+   "where": "member_notes.5112",
+   "was": "On the Commons Finance Committee. His question on digital terrestrial TV during a major cyber incident suggests a resilience-planning interest, possibly linked to broadcasting. Seven AI questions in a year.",
+   "now": "A member of the Commons Finance Committee. His profile records seven AI-related written questions over the past year.",
+   "reason": "Retained supported facts; removed the specific broadcasting question and speculative policy motivation."
+  },
+  {
+   "where": "member_notes.4811",
+   "was": "Declares an unpaid role on the Global Advisory Council of Tech India Advocates. His question on moderating racist comments appears to be platform-accountability led.",
+   "now": "His profile lists an unpaid role on the Global Advisory Council of Tech India Advocates.",
+   "reason": "The registered role is supported; the specific moderation question and inferred motive are outside his profile."
+  },
+  {
+   "where": "member_notes.5359",
+   "was": "On the Work and Pensions Committee. His question on AI in workplace pensions fits 14 AI questions in a year, likely from a worker-protection angle.",
+   "now": "A member of the Work and Pensions Committee. His profile records 14 AI-related written questions over the past year.",
+   "reason": "The committee and count are supported; the specific pension question and inferred worker-protection motive are outside his profile."
+  },
+  {
+   "where": "member_notes.5062",
+   "was": "As Shadow Justice Secretary, his prison officer misconduct question matched only on data protection. Incidental, though he asks regularly about AI (10) and cyber (9).",
+   "now": "Shadow Secretary of State for Justice. His profile records 11 AI questions and 10 on cyber security and resilience over the past year.",
+   "reason": "Corrected both counts. Removed specific misconduct-question, classifier and relevance claims outside his profile."
+  },
+  {
+   "where": "member_notes.4603",
+   "was": "On the Home Affairs Committee and the Cyber Security and Resilience Bill committee. Her question on Cloud First versus 'sovereign first' is notable, and given her bill committee seat it may foreshadow amendments or debate on sovereignty.",
+   "now": "A member of the Home Affairs Committee and the Cyber Security and Resilience Bill committee.",
+   "reason": "The memberships are supported. Removed the specific question and predicted amendments or debate, which are not established by her profile."
+  },
+  {
+   "where": "member_notes.4396",
+   "was": "Her call for a Strategic Market Status investigation of Meta fits a platform-power and online safety interest (4 online safety questions in a year). She sits on the Petitions Committee.",
+   "now": "A member of the Petitions Committee. Her profile records four written questions over the past year on online safety and social media.",
+   "reason": "The profile supports membership and the topic count, not the specific Meta request or inferred platform-power position."
+  },
+  {
+   "where": "member_notes.4942",
+   "was": "On the Foreign Affairs and Intelligence and Security committees. His pension credit question matched only on 'social media'. Incidental.",
+   "now": "A member of the Foreign Affairs Committee and the Intelligence and Security Committee of Parliament.",
+   "reason": "Retained supported memberships; removed the specific question, classifier and relevance judgement outside his profile."
+  },
+  {
+   "where": "member_notes.4591",
+   "was": "As Lib Dem business spokesperson on the Public Accounts Committee, she has asked 8 AI questions in a year. Today's Land Registry question likely probes AI in public-service delivery, and her PAC seat gives her a value-for-money lens on government IT.",
+   "now": "Liberal Democrat spokesperson for Business and a member of the Public Accounts Committee. Her profile records eight AI-related written questions over the past year.",
+   "reason": "The roles and count are supported; the specific Land Registry question and inferred motives are outside her profile."
+  },
+  {
+   "where": "member_notes.3391",
+   "was": "A crossbench peer with interests in the arts. His questions on AI (4) and copyright (3) in a year suggest a creative-industries lens on AI and copyright.",
+   "now": "A Crossbench peer whose profile records four AI-related written questions and three on copyright and intellectual property over the past year.",
+   "reason": "The profile supports party and counts, but lists no arts interest or creative-industries motivation."
+  },
+  {
+   "where": "member_notes.4939",
+   "was": "As Shadow Cabinet Office Minister in the Lords for AI and Cyber, 17 of his 19 questions in a year touch these topics. He declares a non-executive directorship at Lumi and an advisory role with Conquer Technologies. A key Opposition voice on AI security in the Lords.",
+   "now": "A Conservative peer and Shadow Minister for the Cabinet Office for AI and Cyber. His profile records 17 of 19 written questions over the past year as relevant to these topics. Registered entries include a non-executive directorship at Lumi and a business-development advisory role with Conquer Technologies Ltd.",
+   "reason": "Retained and clarified evidenced roles, counts and registered professional interests. Removed the unsupported comparative importance judgement."
+  },
+  {
+   "where": "member_notes.4358",
+   "was": "As Shadow FCDO Minister, her data-centre planning question likely reflects a constituency proposal in Aldridge-Brownhills. She has asked 11 questions on data centres and compute in a year, so this is a sustained local-planning interest.",
+   "now": "Shadow Minister for the Foreign, Commonwealth and Development Office and MP for Aldridge-Brownhills. Her profile records 14 written questions over the past year on cloud, data centres and compute.",
+   "reason": "Corrected the topic count. Removed the specific planning question, unevidenced constituency proposal and inferred local motive."
+  }
+ ],
+ "removed": [
+  {
+   "where": "very_important[2]",
+   "reason": "The supplied evidence contains a UK compute hearing listing, but no inquiry launch, call for evidence, deadline, policy remit, 6 GW target, paused international deals, first-session designation or call-for-evidence URL. The independently evidenced hearing remains in today's schedule."
+  },
+  {
+   "where": "very_important[4]",
+   "reason": "No supplied extract contains the vendor-lock-in warning, June committee finding, supplier-selection status, federated-data-platform relationship, AI-summary question or ministerial prohibition on supplier use of data. The unchosen-supplier claim also cannot be reconciled without distinguishing it from the evidenced CGI infrastructure contract. The supported SPR cyber discussion remains in debates."
+  },
+  {
+   "where": "other[1]",
+   "reason": "No POST publication, homepage record, publication date, briefing content or URL appears in the evidence."
+  },
+  {
+   "where": "other[2]",
+   "reason": "No Library publication search, absence result, 7 October Health Bill briefing or Library URL appears in the evidence."
+  },
+  {
+   "where": "coverage[0]",
+   "reason": "The evidence supplies extracts, not proof that complete Hansard records were read. It does not establish the absence of Grand Committee proceedings or the stated screening and reading process."
+  },
+  {
+   "where": "coverage[1]",
+   "reason": "The evidence does not establish complete all-committee coverage, review of inquiry pages or the asserted treatment of the reader's named committees."
+  },
+  {
+   "where": "coverage[2]",
+   "reason": "The schedule records do not establish the author's browsing process or that the Order Paper and Lords Business were not read separately."
+  },
+  {
+   "where": "coverage[3]",
+   "reason": "PDF-reading history, use of a prefetched OneDrive file and API/repository pipeline provenance are not established by the evidence."
+  }
+ ],
+ "provider": "copilot",
+ "writer": "(existing draft)",
+ "validator": "gpt-6.1-sol",
+ "independent": true,
  "ruleChecks": {
-  "checked": 79,
+  "checked": 72,
   "issues": []
  }
 }
