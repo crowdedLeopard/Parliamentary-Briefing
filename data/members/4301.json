@@ -1,0 +1,947 @@
+{
+ "id": 4301,
+ "fetchedOn": "2026-11-24",
+ "core": {
+  "id": 4301,
+  "nameListAs": "Hodgson of Abinger, B.",
+  "nameDisplayAs": "Baroness Hodgson of Abinger",
+  "nameFullTitle": "The Baroness Hodgson of Abinger CBE",
+  "nameAddressAs": null,
+  "latestParty": {
+   "id": 4,
+   "name": "Conservative",
+   "abbreviation": "Con",
+   "backgroundColour": "0063ba",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": false,
+   "governmentType": 3,
+   "isIndependentParty": false
+  },
+  "gender": "F",
+  "latestHouseMembership": {
+   "membershipFrom": "Life peer",
+   "membershipFromId": 4,
+   "house": 2,
+   "membershipStartDate": "2013-09-16T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2013-09-16T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/4301/Thumbnail"
+ },
+ "bio": {
+  "representations": [],
+  "electionsContested": [],
+  "houseMemberships": [
+   {
+    "house": 2,
+    "name": "Lords",
+    "id": 2,
+    "startDate": "2013-09-16T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Baroness Hodgson of Abinger",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [],
+  "oppositionPosts": [],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 2,
+    "name": "Conservative",
+    "id": 4,
+    "startDate": "2013-09-16T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 2,
+    "name": "Sexual Violence in Conflict Committee",
+    "id": 332,
+    "startDate": "2015-06-11T00:00:00",
+    "endDate": "2016-03-22T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 2,
+    "name": "Rural Economy Committee",
+    "id": 388,
+    "startDate": "2018-10-09T00:00:00",
+    "endDate": "2019-03-26T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 2,
+    "name": "National Security Strategy (Joint Committee)",
+    "id": 111,
+    "startDate": "2019-07-01T00:00:00",
+    "endDate": "2023-01-31T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 2,
+    "name": "AI in Weapon Systems Committee",
+    "id": 646,
+    "startDate": "2023-01-31T00:00:00",
+    "endDate": "2023-11-23T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 2,
+    "name": "Autism Act 2009 Committee",
+    "id": 770,
+    "startDate": "2025-01-30T00:00:00",
+    "endDate": "2025-11-10T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 2,
+    "name": "Childhood Vaccinations Committee",
+    "id": 830,
+    "startDate": "2026-01-27T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 12060,
+     "interest": "Director, Johnson Bros & Company, Limited (investment company, including owning limited amount of agricultural land; see category 2(a))",
+     "createdWhen": "2013-10-30T16:12:22",
+     "lastAmendedWhen": "2025-04-07T11:46:00.027",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 12061,
+     "interest": "Chair, Independent Health Advisory Services Complaints and Adjudication Service",
+     "createdWhen": "2013-10-30T16:36:43",
+     "lastAmendedWhen": "2025-12-15T14:17:54.443",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 32328,
+     "interest": "Director, Johnson Brothers (Leasing) Limited (dormant)",
+     "createdWhen": "2018-06-20T13:56:19",
+     "lastAmendedWhen": "2025-12-15T14:18:02.877",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1002,
+   "name": "Category 2: Shareholdings etc. (a)",
+   "sortOrder": 1042,
+   "interests": [
+    {
+     "id": 12062,
+     "interest": "Johnson Bros & Co Ltd, Walsall (investment company; jointly with husband)",
+     "createdWhen": "2013-10-30T16:37:44.497",
+     "lastAmendedWhen": "2025-04-05T00:00:00",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1008,
+   "name": "Category 5: Overseas visits",
+   "sortOrder": 1048,
+   "interests": [
+    {
+     "id": 47271,
+     "interest": "Visit to Doha, Qatar, 3–8 December 2025, to attend Doha Forum 2025; flights, accommodation and subsistence costs paid by government of State of Qatar",
+     "createdWhen": "2025-12-15T14:18:55",
+     "lastAmendedWhen": "2025-12-15T14:20:37.79",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1008,
+   "name": "Category 5: Overseas visits",
+   "sortOrder": 1048,
+   "interests": [
+    {
+     "id": 47660,
+     "interest": "Visit to Istanbul, Turkey, 25-29 March 2026, invited by Forward Thinking to attend a meeting of The Women for a Sustainable Future (WSF) network and Stratcom26 organised by the Turkish Government; Forward Thinking covered all costs for the WSF meeting on 26 March (hotel for the extra night, subsistence from 25-27 March), and Stratcom covered all costs for the conference (including flights, accommodation, subsistence and transport between the airport and hotel)\r\n",
+     "createdWhen": "2026-04-15T09:05:47",
+     "lastAmendedWhen": "2026-04-20T12:26:57.6",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1008,
+   "name": "Category 5: Overseas visits",
+   "sortOrder": 1048,
+   "interests": [
+    {
+     "id": 48340,
+     "interest": "Visit to Cairo, Egypt, 8-9 June 2026, to attend meeting of Women for a Sustainable Future (WSF) Network; flights and accommodation costs covered by Forward Thinking",
+     "createdWhen": "2026-10-26T12:46:47",
+     "lastAmendedWhen": "2026-10-26T12:50:43.35",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1009,
+   "name": "Category 6: Gifts, benefits and hospitality",
+   "sortOrder": 1049,
+   "interests": [
+    {
+     "id": 27539,
+     "interest": "As a member of the All-Parliamentary Parliamentary Group for the Armed Forces, the member receives invitations to breakfast and dinner briefings which during the calendar year together exceed £300 in value and all of which are paid for by sources listed in the register of APPGs",
+     "createdWhen": "2016-09-08T17:09:38",
+     "lastAmendedWhen": "2025-12-15T14:18:46.2",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1009,
+   "name": "Category 6: Gifts, benefits and hospitality",
+   "sortOrder": 1049,
+   "interests": [
+    {
+     "id": 39129,
+     "interest": "Honorary Associate Member, British Veterinary Association",
+     "createdWhen": "2021-10-18T10:25:20",
+     "lastAmendedWhen": "2025-04-05T00:00:00",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [
+  {
+   "category": "Concerns: Policy Interests",
+   "focus": [
+    "Animal welfare",
+    "Defence",
+    "Foreign affairs",
+    "Gender and equality",
+    "International women's issues",
+    "International conflict",
+    "Women in conflict"
+   ]
+  }
+ ],
+ "synopsis": "Baroness Hodgson of Abinger's full title is The Baroness Hodgson of Abinger CBE. Her name is Fiona Ferelith Hodgson, and she is a current member of the House of Lords.",
+ "history": [
+  {
+   "id": 1959159,
+   "uin": "HL5247",
+   "heading": "Emergencies: Public Service Messages",
+   "questionText": "To ask His Majesty's Government why their Be Ready campaign recommends stockpiling three days of provisions, in light of the longer periods advocated by similar campaigns in peer countries such as Germany.",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1959161,
+   "uin": "HL5246",
+   "heading": "Homelessness and Vulnerable Adults: Emergencies",
+   "questionText": "To ask His Majesty's Government what additional resources they are providing to local authorities to assist them in stockpiling provisions for vulnerable and homeless people in connection with their Be Ready campaign.",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1957331,
+   "uin": "HL5050",
+   "heading": "Ritual Slaughter",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by Baroness Hayman of Ullock on 9 November (HL4801), whether the Animal Sentience Committee plans to review non-stun slaughter; and if so, when.",
+   "dateTabled": "2026-11-09T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1959156,
+   "uin": "HL5249",
+   "heading": "Ebola: Disease Control",
+   "questionText": "To ask His Majesty's Government what steps they are taking to protect the UK against the spread of the Ebola through support to directly affected countries and preparations within the UK itself.",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1952908,
+   "uin": "HL4539",
+   "heading": "Animal Experiments",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by Lord Hanson of Flint on 16 October (HL3797), regarding the approximately 321,200 animals authorised for use in protocols with a maximum severity classification of severe under the Animals (",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1955776,
+   "uin": "HL4801",
+   "heading": "Ritual Slaughter",
+   "questionText": "To ask His Majesty's Government whether the Animal Sentience Committee has reviewed non-stun slaughter; and whether they consider that this practice conforms to their policies on animal welfare.",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1947602,
+   "uin": "HL3956",
+   "heading": "Feminism: Politics and Government",
+   "questionText": "To ask His Majesty's Government what commitments they have made in relation to the Madrid Joint Political Declaration on Building Peaceful and Democratic Societies, signed on June 3, 2026; and what progress has been made in delivering said commitments.",
+   "dateTabled": "2026-10-12T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1947603,
+   "uin": "HL3955",
+   "heading": "Foreign Policy: Gender",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the potential merits of adopting a formal feminist foreign policy, comparable to those of Spain, Canada, and Mexico, that extends beyond development policy to diplomacy, trade, and defence.",
+   "dateTabled": "2026-10-12T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1947604,
+   "uin": "HL3954",
+   "heading": "Development Aid: Women's Rights",
+   "questionText": "To ask His Majesty's Government how they plan to continue advancing women and girls' rights abroad following recent spending cuts to international aid.",
+   "dateTabled": "2026-10-12T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1944147,
+   "uin": "HL3800",
+   "heading": "Dolphins: Faroe Islands",
+   "questionText": "To ask His Majesty's Government what assessment they have made of reports of dolphin hunting in the Faroe Islands; and what discussions they have had with the governments of the Faroe Islands and Demark about banning their slaughter.",
+   "dateTabled": "2026-10-05T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1944154,
+   "uin": "HL3799",
+   "heading": "Solar Power: Land Use",
+   "questionText": "To ask His Majesty's Government on how many acres of (1) Grade 1, (2) Grade 2, and (3) Grade 3a, farmland have solar panels been installed.",
+   "dateTabled": "2026-10-05T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1944155,
+   "uin": "HL3798",
+   "heading": "Green Belt",
+   "questionText": "To ask His Majesty's Government how many acres of green belt have been redefined as grey belt in the past year.",
+   "dateTabled": "2026-10-05T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1944113,
+   "uin": "HL3797",
+   "heading": "Animal Experiments",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by Lord Hanson of Flint on 10 September (HL3067), of the animals authorised for use under the Animals (Scientific Procedures) Act 1986 since the beginning of 2026, how many are authorised to b",
+   "dateTabled": "2026-10-05T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1939023,
+   "uin": "HL3169",
+   "heading": "Veterinary Medicine: Export Health Certificates",
+   "questionText": "To ask His Majesty's Government what the timetable is for implementing dynamic alignment on export certification with the EU-UK SPS agreement; and what assessment they have made of whether current certification capacity can be sustained throughout that ti",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1939024,
+   "uin": "HL3168",
+   "heading": "Veterinary Medicine: Export Health Certificates",
+   "questionText": "To ask His Majesty's Government what discussions they have had with the Royal College of Veterinary Surgeons and veterinary sector representatives on export certification workforce planning for the transition period to dynamic alignment.",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1939025,
+   "uin": "HL3167",
+   "heading": "Veterinary Medicine: Export Health Certificates",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the number of Official Veterinarians currently undertaking export certification on a full-time basis; and the risk of experienced Official Veterinarians leaving export certification roles b",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1938228,
+   "uin": "HL3067",
+   "heading": "Animal Experiments",
+   "questionText": "To ask His Majesty's Government how many animals they have approved for experimentation over the next five years during the year to date; and how this relates to their manifesto commitment to phase out animal testing.",
+   "dateTabled": "2026-09-03T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1929677,
+   "uin": "HL2528",
+   "heading": "Afghanistan: Women",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the impact on women and girls of the 39 per cent reductions in bilateral ODA to Afghanistan by 2029.",
+   "dateTabled": "2026-07-22T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1929676,
+   "uin": "HL2529",
+   "heading": "International Assistance",
+   "questionText": "To ask His Majesty's Government what steps they intend to take to ensure that their priorities are furthered by multilateral official development assistance spending contributions; and how will UK contributions will be recognised.",
+   "dateTabled": "2026-07-22T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1929679,
+   "uin": "HL2527",
+   "heading": "Conflict Resolution: Women",
+   "questionText": "To ask His Majesty's Government what steps they are taking to implement their commitment to establish and publish a cross-government monitoring framework for Women, Peace and Security.",
+   "dateTabled": "2026-07-22T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1929662,
+   "uin": "HL2530",
+   "heading": "Animal Experiments: Licensing",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by Lord Hanson of Flint on 15 July (HL1807), how many licence applications have been withdrawn in response to feedback from the Home Office Regulator during the assessment process, and whether",
+   "dateTabled": "2026-07-22T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1928005,
+   "uin": "HL2068",
+   "heading": "Colombia: Women",
+   "questionText": "To ask His Majesty's Government whether they are providing support to strengthen the participation of women in peacebuilding efforts in Columbia.",
+   "dateTabled": "2026-07-14T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1927360,
+   "uin": "HL1987",
+   "heading": "Poultry: Animal Welfare",
+   "questionText": "To ask His Majesty's Government when they plan to enforce the commitment made in the Animal welfare strategy for England, published on 22 December 2025, to end the culling of male chicks in the egg industry.",
+   "dateTabled": "2026-07-13T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1927359,
+   "uin": "HL1988",
+   "heading": "Poultry: Animal Welfare",
+   "questionText": "To ask His Majesty's Government what recent discussions they have had with the UK egg industry about implementing a trial of in-ovo sexing technology to prevent the culling of male chicks; and when they anticipate such a trial to take place.",
+   "dateTabled": "2026-07-13T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1928006,
+   "uin": "HL2067",
+   "heading": "Colombia: Development Aid",
+   "questionText": "To ask His Majesty's Government whether they are providing support to assist the implementation of Colombia's National Action Plan on Women, Peace and Security and, if so, whether funding for this reaches local organisations.",
+   "dateTabled": "2026-07-14T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1925896,
+   "uin": "HL1807",
+   "heading": "Animal Experiments: Licensing",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by Lord Hanson of Flint on 1 July (HL1346), when an application for a project licence under the Animals (Scientific Procedures) Act 1986 was last rejected on the grounds that it would involve ",
+   "dateTabled": "2026-07-08T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1925898,
+   "uin": "HL1806",
+   "heading": "Animal Experiments: Licensing",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by Lord Hanson of Flint on 1 July (HL1346), how the level of pain expected to be experienced by animals is measured within the harm-benefit analysis.",
+   "dateTabled": "2026-07-08T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1924191,
+   "uin": "HL1670",
+   "heading": "Bovine Tuberculosis: Disease Control",
+   "questionText": "To ask His Majesty's Government how many cattle were slaughtered because of suspected bovine tuberculosis in 2024 and 2025; and of those cattle, how many were subsequently confirmed to have had tuberculosis.",
+   "dateTabled": "2026-07-06T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1924190,
+   "uin": "HL1671",
+   "heading": "Bovine Tuberculosis: Disease Control",
+   "questionText": "To ask His Majesty's Government how many badgers were culled in 2024 and 2025 in an effort to prevent the spread of tuberculosis in cattle; and of those badgers, how many were subsequently confirmed to have had tuberculosis.",
+   "dateTabled": "2026-07-06T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1924189,
+   "uin": "HL1672",
+   "heading": "Bovine Tuberculosis: Vaccination",
+   "questionText": "To ask His Majesty's Government whether they are (1) developing, or (2) supporting the development of, a vaccine to prevent tuberculosis in cattle; and if not, why not.",
+   "dateTabled": "2026-07-06T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1921494,
+   "uin": "HL1404",
+   "heading": "Sudan: Humanitarian Situation",
+   "questionText": "To ask His Majesty's Government what emergency humanitarian response plans they have to prevent the worsening of humanitarian needs and mass displacement in El Obeid, Sudan.",
+   "dateTabled": "2026-06-29T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1920632,
+   "uin": "HL1349",
+   "heading": "Sudan: Sexual Offences",
+   "questionText": "To ask His Majesty's Government what steps they are taking to prevent further sexual violence in Sudan; whether they are collecting evidence of those who have suffered sexual violence; and what plans they have to hold perpetrators to account.",
+   "dateTabled": "2026-06-25T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1920634,
+   "uin": "HL1348",
+   "heading": "Sudan: Armed Conflict",
+   "questionText": "To ask His Majesty's Government what actions and diplomatic engagement they are undertaking to prevent further weapons and resources being accessed by the Rapid Support Forces in Sudan.",
+   "dateTabled": "2026-06-25T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1920635,
+   "uin": "HL1347",
+   "heading": "Sudan: Armed Conflict",
+   "questionText": "To ask His Majesty's Government further to the remarks by Baroness Chapman of Darlington on 24 June (HL Debs cols 663–6), what imminent steps will be taken to protect civilians from the risk of violence and atrocities in El Obeid.",
+   "dateTabled": "2026-06-25T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1923822,
+   "uin": "HL1588",
+   "heading": "Animal Experiments",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the ethical implications of the projects (1) ‘Neuronal Basis of Somatosensorial and Pathological Pain’, and (2) ‘Spinal circuits underlying pain sensation’ included in the Home Office repor",
+   "dateTabled": "2026-07-02T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1918411,
+   "uin": "HL1160",
+   "heading": "Hammersmith Bridge: Repairs and Maintenance",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by Lord Hendy of Richmond Hill on 17 June (HL476), whether they have made progress on the strengthening of Hammersmith Bridge; and when they expect Hammersmith Bridge to reopen for traffic.",
+   "dateTabled": "2026-06-22T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1920644,
+   "uin": "HL1346",
+   "heading": "Animal Experiments: Licensing",
+   "questionText": "To ask His Majesty's Government whether they reject project licence applications under the Animals (Scientific Procedures) Act 1986 because they deliberately inflict unacceptable levels of pain on animals.",
+   "dateTabled": "2026-06-25T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1918089,
+   "uin": "HL1103",
+   "heading": "Animals (Low-Welfare Activities Abroad) Act 2023",
+   "questionText": "To ask His Majesty's Government what timetable they have set for laying a statutory instrument to outline the activity regulations for the implementation of the Animals (Low Welfare Activities Abroad) Act 2023; what measurable outcomes have resulted from ",
+   "dateTabled": "2026-06-18T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1910912,
+   "uin": "HL472",
+   "heading": "Meat: Ritual Slaughter",
+   "questionText": "To ask His Majesty's Government what assessment they have made of reports of the rise in the amount of non-stun meat being exported; and what estimate have they made of exports of non-stun meat for each of the last five years.",
+   "dateTabled": "2026-06-01T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1910905,
+   "uin": "HL476",
+   "heading": "Hammersmith Bridge: Repairs and Maintenance",
+   "questionText": "To ask His Majesty's Government what recent assessment they have made of progress on repairing Hammersmith Bridge; and when they estimate that the work will be finished and the bridge re-opened to traffic.",
+   "dateTabled": "2026-06-01T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1913197,
+   "uin": "HL711",
+   "heading": "UN Committee on the Elimination of Discrimination against Women",
+   "questionText": "To ask His Majesty's Government whether they intend to put forward a candidate for the UN Committee on the Elimination of Discrimination against Women in 2027; and if so, (1) what the process to select that candidate will be, and (2) how they intend to su",
+   "dateTabled": "2026-06-05T00:00:00",
+   "answeringBodyName": "Women and Equalities"
+  },
+  {
+   "id": 1910907,
+   "uin": "HL475",
+   "heading": "Candidates: Equality",
+   "questionText": "To ask His Majesty's Government what plans they have to consult on which protected characteristics will be included in the data collection requirements to bring section 106 of the Equality Act 2010 into force; and what steps they will take to ensure that ",
+   "dateTabled": "2026-06-01T00:00:00",
+   "answeringBodyName": "Women and Equalities"
+  },
+  {
+   "id": 1910909,
+   "uin": "HL474",
+   "heading": "Gaza: Gender Based Violence",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the sexual and reproductive violence against Gazan women and girls; and what steps they are taking to address this.",
+   "dateTabled": "2026-06-01T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1910910,
+   "uin": "HL473",
+   "heading": "Gaza: Women",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the UN Women report The Cost of War in Gaza on Women and Girls, published on 17 April, particularly that fatalities of Gazan women and girls in the two years of conflict constitute approxim",
+   "dateTabled": "2026-06-01T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1910902,
+   "uin": "HL477",
+   "heading": "Animal Experiments",
+   "questionText": "To ask His Majesty's Government, further to the Written Answers by Lord Hanson of Flint on 26 March (HL15813) and 20 April (HL16218 and HL16219), how many project licence applications under the Animals (Scientific Procedures) Act 1986 were rejected (1) in",
+   "dateTabled": "2026-06-01T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1898991,
+   "uin": "HL16222",
+   "heading": "Slaughterhouses",
+   "questionText": "To ask His Majesty's Government why the reduction of animals being subjected to non-stun slaughter is not an objective in their Animal welfare strategy for England, published on 22 December 2025.",
+   "dateTabled": "2026-04-13T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1898992,
+   "uin": "HL16221",
+   "heading": "Slaughterhouses",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the individuals and communities who consume meat that is slaughtered under the derogation in the Welfare of Animals at the Time of Killing (England) Regulations 2015 that applies to non-stu",
+   "dateTabled": "2026-04-13T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1900288,
+   "uin": "HL16419",
+   "heading": "Import Controls",
+   "questionText": "To ask His Majesty's Government what assessment they have made of whether there is sufficient oversight of biosecurity border controls; and whether they plan to provide any further resources to biosecurity border controls, following reports of attempts to",
+   "dateTabled": "2026-04-15T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1899004,
+   "uin": "HL16220",
+   "heading": "Sheep Meat: Exports",
+   "questionText": "To ask His Majesty's Government what consideration they have given to restricting the UK’s export of non-stun slaughter sheep meat as part of the Gulf Cooperation Council–United Kingdom free trade agreement negotiations.",
+   "dateTabled": "2026-04-13T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1899007,
+   "uin": "HL16218",
+   "heading": "Animal Experiments",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by Lord Hanson of Flint on 26 March (HL15813), how many licences they granted for the use of (1) beagles, and (2) non-human primates, in scientific procedures in 2025.",
+   "dateTabled": "2026-04-13T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1899006,
+   "uin": "HL16219",
+   "heading": "Animal Experiments",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by Lord Hanson of Flint on 26 March (HL15813), what assessment they have made of the compatibility of granting licences for the use of animals in scientific testing with their Replacing animal",
+   "dateTabled": "2026-04-13T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1894624,
+   "uin": "HL15903",
+   "heading": "Human Rights: Women",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the outcomes of the ministerial round table on achieving gender equality and the empowerment of older women at the 70th Session of the United Nations Commission on the Status of Women.",
+   "dateTabled": "2026-03-24T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1894625,
+   "uin": "HL15902",
+   "heading": "Human Rights: Women",
+   "questionText": "To ask His Majesty's Government whether the UK was represented at the ministerial round table of the 70th Session of the United Nations Commission on the Status of Women; and if not, why not.",
+   "dateTabled": "2026-03-24T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1894626,
+   "uin": "HL15901",
+   "heading": "Human Rights: Women",
+   "questionText": "To ask His Majesty's Government what contributions their delegation made to promoting the rights of older women at the 70th Session of the United Nations Commission on the Status of Women.",
+   "dateTabled": "2026-03-24T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1891717,
+   "uin": "HL15589",
+   "heading": "Development Aid: Women",
+   "questionText": "To ask His Majesty's Government what action they will take to support women and girls in the use of overseas development aid, in particular in terms of the amount of aid allocated, specific projects and diplomacy.",
+   "dateTabled": "2026-03-16T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1891083,
+   "uin": "HL15534",
+   "heading": "Armed Conflict: Sexual Offences",
+   "questionText": "To ask His Majesty's Government what consultations they are carrying out to update approach of the Preventing Sexual Violence in Conflict Initiative beyond 2026; and when they will publish that update.",
+   "dateTabled": "2026-03-13T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1893537,
+   "uin": "HL15813",
+   "heading": "Animal Experiments",
+   "questionText": "To ask His Majesty's Government how many animals, and in particular how many (1) beagles and (2) non-human primates, they approved for use in scientific procedures in licences granted in 2025; and how this aligns with their commitment to phase out animal ",
+   "dateTabled": "2026-03-20T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1891082,
+   "uin": "HL15535",
+   "heading": "Toxoplasmosis ",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the percentage people (1) 0–16 years old, (2) 17–30 years old, (3) 31–40 years old, (4) 41–50 years old, and (5) more than 51 years old, are affected by (a) toxoplasmosis, and (b) ocular to",
+   "dateTabled": "2026-03-13T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1891081,
+   "uin": "HL15536",
+   "heading": "Toxoplasmosis: Screening",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the costs and benefits of introducing compulsory screening for the parasite Toxoplasma gondii, in particular for (1) pregnant women, (2) children, and (3) other adults.",
+   "dateTabled": "2026-03-13T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1890434,
+   "uin": "HL15438",
+   "heading": "Sudan: Humanitarian Aid",
+   "questionText": "To ask His Majesty's Government what plans they have to provide additional funding to women-led organisations in Sudan who deliver life-saving assistance, including medical care, food and water, and support local-level governance.",
+   "dateTabled": "2026-03-11T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1891084,
+   "uin": "HL15533",
+   "heading": "Ritual Slaughter",
+   "questionText": "To ask His Majesty's Government how the objectives set out in the Animal welfare strategy for England, published on 22 December 2025, will be applied to religious slaughter practices.",
+   "dateTabled": "2026-03-13T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1889058,
+   "uin": "HL15331",
+   "heading": "Sudan: Conferences",
+   "questionText": "To ask His Majesty's Government, what part they are playing in organising the Berlin Conference on Sudan in April; whether they will ensure that representatives of the Sudanese government will be invited to attend the conference; and what steps they are t",
+   "dateTabled": "2026-03-09T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1889061,
+   "uin": "HL15330",
+   "heading": "Sudan: Women",
+   "questionText": "To ask His Majesty's Government how they will ensure that the voices and priorities of Sudanese women are reflected in the discussions and outcomes of the Berlin Conference on Sudan in April 2026, in line with the commitments set out in UN Security Counci",
+   "dateTabled": "2026-03-09T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1889065,
+   "uin": "HL15329",
+   "heading": "Sudan: Women",
+   "questionText": "To ask Her Majesty's Government, as a penholder on the UN Security Council for Sudan, what steps they are taking to ensure that Sudanese women’s civil society organisations are meaningfully represented at the Berlin Conference on Sudan in April 2026.",
+   "dateTabled": "2026-03-09T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1891111,
+   "uin": "HL15532",
+   "heading": "Hunting",
+   "questionText": "To ask His Majesty's Government what estimate they have made of how many horses and dogs would have to be put down as a result of a ban on trail hunting; and what assessment they have made of the impact of a trail hunting ban on the rural economy.",
+   "dateTabled": "2026-03-13T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1883494,
+   "uin": "HL14696",
+   "heading": "Meat: Ritual Slaughter",
+   "questionText": "To ask His Majesty's Government whether hospitality sector venues must state when non-stunned meat is being served.",
+   "dateTabled": "2026-02-23T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1883496,
+   "uin": "HL14695",
+   "heading": "Meat: Ritual Slaughter",
+   "questionText": "To ask His Majesty's Government whether non-stunned meat is exported from the UK.",
+   "dateTabled": "2026-02-23T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1883497,
+   "uin": "HL14694",
+   "heading": "Meat: Ritual Slaughter",
+   "questionText": "To ask His Majesty's Government whether non-stunned meat is sold to the general market; and if so, whether that meat is identified as having been produced by non-stun slaughter.",
+   "dateTabled": "2026-02-23T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1883499,
+   "uin": "HL14693",
+   "heading": "Meat: Ritual Slaughter",
+   "questionText": "To ask His Majesty's Government what controls are in place, if any, to ensure that non-stunned meat is only sold to the relevant religious communities.",
+   "dateTabled": "2026-02-23T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1884741,
+   "uin": "HL14814",
+   "heading": "Cattle: Exports",
+   "questionText": "To ask His Majesty's Government whether unweaned calves born in the UK are transported to Ireland to be exported to EU countries.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1878750,
+   "uin": "HL14280",
+   "heading": "UN Commission on the Status of Women",
+   "questionText": "To ask His Majesty's Government what plans they have to address the rights and needs of all ages of women, especially older women, in their engagement at the UN Commission on the Status of Women in March.",
+   "dateTabled": "2026-02-04T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1876878,
+   "uin": "HL14103",
+   "heading": "Syria: Politics and Government",
+   "questionText": "To ask His Majesty's Government what discussions they have held with the new government of Syria regarding the protection and political inclusion of the Kurds and other minorities in the new government.",
+   "dateTabled": "2026-01-29T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1876879,
+   "uin": "HL14102",
+   "heading": "Syria: Kurds",
+   "questionText": "To ask His Majesty's Government what assessment they have made of reports of attacks and sexual violence against the Kurds in North East Syria; and what discussions they have held with the governments of Turkey and Syria about these attacks.",
+   "dateTabled": "2026-01-29T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1876877,
+   "uin": "HL14104",
+   "heading": "Syria: Gender Based Violence",
+   "questionText": "To ask His Majesty's Government what assessment they have made of allegations of sexual and gender based violence against women and girls from ethnic minority groups in Syria, including abduction as sex slaves, and how the UK is supporting documentation, ",
+   "dateTabled": "2026-01-29T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1874041,
+   "uin": "HL13788",
+   "heading": "Ritual Slaughter",
+   "questionText": "To ask His Majesty's Government whether they plan to review the practice of animals not being stunned prior to slaughter; and what assessment they have made of meat produced by this method being sold to the general market and exported abroad.",
+   "dateTabled": "2026-01-21T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1872044,
+   "uin": "HL13629",
+   "heading": "Peace Negotiations: Women",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by Baroness Chapman of Darlington 13 January 2026 (HL13296), what plans they have to support the network of Women Mediators Across the Commonwealth in 2026.",
+   "dateTabled": "2026-01-15T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1868747,
+   "uin": "HL13296",
+   "heading": "Peace Negotiations: Women",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by Baroness Chapman of Darlington on 29 December 2025 (HL12894), what specific plans they have, if any, to develop the work of the network of Women Mediators Across the Commonwealth in 2026.",
+   "dateTabled": "2026-01-06T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1865066,
+   "uin": "HL13032",
+   "heading": "Myanmar: Armed Conflict",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the Myanmar military's reported airstrike on a hospital in Mrauk-U, Rakhine State, on the night of 10 December, killing a reported 34 people; and what steps they have taken in response.",
+   "dateTabled": "2025-12-16T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1863497,
+   "uin": "HL12894",
+   "heading": "Peace Negotiations: Women",
+   "questionText": "To ask His Majesty's Government what plans they have to develop the network of Women Mediators Across the Commonwealth in 2026.",
+   "dateTabled": "2025-12-11T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1863500,
+   "uin": "HL12892",
+   "heading": "Hammersmith Bridge: Repairs and Maintenance",
+   "questionText": "To ask His Majesty's Government when the strengthening stage of works will be completed on Hammersmith Bridge so that it can reopen to traffic.",
+   "dateTabled": "2025-12-11T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1863498,
+   "uin": "HL12893",
+   "heading": "Hammersmith Bridge: Repairs and Maintenance",
+   "questionText": "To ask His Majesty's Government what assessment they have made of whether extra pollution has been caused by diverted traffic due to the length of time that Hammersmith Bridge has been closed.",
+   "dateTabled": "2025-12-11T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1959157,
+   "uin": "HL5248",
+   "heading": "Emergencies: Public Service Messages",
+   "questionText": "To ask His Majesty's Government what assessment they have made of reactions to their BeReady campaign.",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  }
+ ],
+ "historyComplete": true
+}

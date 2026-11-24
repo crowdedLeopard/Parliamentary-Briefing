@@ -1,0 +1,1347 @@
+{
+ "id": 242,
+ "fetchedOn": "2026-11-24",
+ "core": {
+  "id": 242,
+  "nameListAs": "Chope, Sir Christopher",
+  "nameDisplayAs": "Sir Christopher Chope",
+  "nameFullTitle": "Sir Christopher Chope MP",
+  "nameAddressAs": "Sir Christopher",
+  "latestParty": {
+   "id": 4,
+   "name": "Conservative",
+   "abbreviation": "Con",
+   "backgroundColour": "0063ba",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": false,
+   "governmentType": 3,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "Christchurch",
+   "membershipFromId": 3986,
+   "house": 1,
+   "membershipStartDate": "1997-05-01T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2024-07-04T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/242/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2024-05-31T00:00:00",
+    "constituencyEnd": null,
+    "house": 1,
+    "name": "Christchurch",
+    "id": 3986,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "2010-04-13T00:00:00",
+    "constituencyEnd": "2024-05-30T00:00:00",
+    "house": 1,
+    "name": "Christchurch",
+    "id": 3414,
+    "startDate": "2010-05-06T00:00:00",
+    "endDate": "2024-05-30T00:00:00",
+    "additionalInfo": "Elected 4 times",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "1997-04-09T00:00:00",
+    "constituencyEnd": "2010-04-12T00:00:00",
+    "house": 1,
+    "name": "Christchurch",
+    "id": 683,
+    "startDate": "1997-05-01T00:00:00",
+    "endDate": "2010-05-06T00:00:00",
+    "additionalInfo": "Elected 3 times",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "1983-05-14T00:00:00",
+    "constituencyEnd": "1997-04-08T00:00:00",
+    "house": 1,
+    "name": "Southampton, Itchen",
+    "id": 2704,
+    "startDate": "1983-06-09T00:00:00",
+    "endDate": "1992-04-09T00:00:00",
+    "additionalInfo": "Elected 2 times",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [
+   {
+    "house": 1,
+    "name": "Southampton, Itchen",
+    "id": 2704,
+    "startDate": "1992-04-09T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "houseMemberships": [
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "1997-05-01T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Sir Christopher Chope",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "1983-06-09T00:00:00",
+    "endDate": "1992-04-09T00:00:00",
+    "additionalInfo": "Mr Christopher Chope",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [
+   {
+    "house": 1,
+    "name": "Parliamentary Under-Secretary (Department for Transport) (Roads and Motoring)",
+    "id": 916,
+    "startDate": "1990-07-23T00:00:00",
+    "endDate": "1992-04-14T00:00:00",
+    "additionalInfo": "Department for Transport",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-transport"
+   },
+   {
+    "house": 1,
+    "name": "Parliamentary Under-Secretary (Department of Environment)",
+    "id": 409,
+    "startDate": "1986-09-10T00:00:00",
+    "endDate": "1990-07-22T00:00:00",
+    "additionalInfo": "Department for the Environment",
+    "additionalInfoLink": null
+   }
+  ],
+  "oppositionPosts": [
+   {
+    "house": 1,
+    "name": "Shadow Spokesperson (Environment, Food and Rural Affairs)",
+    "id": 984,
+    "startDate": "2003-01-01T00:00:00",
+    "endDate": "2005-01-01T00:00:00",
+    "additionalInfo": "Department for Environment, Food and Rural Affairs",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Spokesperson (Transport)",
+    "id": 993,
+    "startDate": "2002-01-01T00:00:00",
+    "endDate": "2003-01-01T00:00:00",
+    "additionalInfo": "Department for Transport",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-transport"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Spokesperson (Treasury)",
+    "id": 994,
+    "startDate": "2001-01-01T00:00:00",
+    "endDate": "2002-01-01T00:00:00",
+    "additionalInfo": "HM Treasury",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/hm-treasury"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Minister (Trade and Industry)",
+    "id": 1046,
+    "startDate": "1998-01-01T00:00:00",
+    "endDate": "1999-01-01T00:00:00",
+    "additionalInfo": "Department of Trade and Industry",
+    "additionalInfoLink": "http://www.dti.gov.uk"
+   },
+   {
+    "house": null,
+    "name": "Shadow Minister (Environment, Food and Rural Affairs)",
+    "id": 962,
+    "startDate": "1997-01-01T00:00:00",
+    "endDate": "1998-01-01T00:00:00",
+    "additionalInfo": "Department for Environment, Food and Rural Affairs",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
+   }
+  ],
+  "otherPosts": [
+   {
+    "house": null,
+    "name": "Vice-Chair, Conservative Party",
+    "id": 823,
+    "startDate": "1997-01-01T00:00:00",
+    "endDate": "1998-01-01T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Conservative",
+    "id": 4,
+    "startDate": "1983-06-09T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 1,
+    "name": "Procedure Committee",
+    "id": 126,
+    "startDate": "2024-11-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Procedure Committee",
+    "id": 126,
+    "startDate": "2020-03-02T00:00:00",
+    "endDate": "2024-05-30T00:01:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Procedure Committee",
+    "id": 126,
+    "startDate": "2017-09-11T00:00:00",
+    "endDate": "2019-11-06T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Procedure Committee",
+    "id": 126,
+    "startDate": "2016-11-21T00:00:00",
+    "endDate": "2017-05-03T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Procedure Committee",
+    "id": 126,
+    "startDate": "2005-12-12T00:00:00",
+    "endDate": "2010-05-06T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Procedure Committee",
+    "id": 126,
+    "startDate": "1983-06-09T00:00:00",
+    "endDate": "1987-01-28T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Trade & Industry",
+    "id": 152,
+    "startDate": "1999-07-05T00:00:00",
+    "endDate": "2002-03-04T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Panel of Chairs",
+    "id": 11,
+    "startDate": "2024-07-30T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Panel of Chairs",
+    "id": 11,
+    "startDate": "2020-01-15T00:00:00",
+    "endDate": "2024-05-30T00:01:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Panel of Chairs",
+    "id": 11,
+    "startDate": "2017-06-22T00:00:00",
+    "endDate": "2019-11-06T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Panel of Chairs",
+    "id": 11,
+    "startDate": "2005-05-24T00:00:00",
+    "endDate": "2017-05-03T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Administration Committee",
+    "id": 2,
+    "startDate": "2006-11-06T00:00:00",
+    "endDate": "2010-05-06T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Draft Constitutional Renewal Bill (Joint Committee)",
+    "id": 30,
+    "startDate": "2008-05-01T00:00:00",
+    "endDate": "2008-07-22T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Political and Constitutional Reform Committee",
+    "id": 200,
+    "startDate": "2010-07-12T00:00:00",
+    "endDate": "2015-03-30T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Standards and Privileges ",
+    "id": 145,
+    "startDate": "2012-12-12T00:00:00",
+    "endDate": "2013-01-07T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Committee on Standards",
+    "id": 290,
+    "startDate": "2017-10-26T00:00:00",
+    "endDate": "2019-11-06T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Committee on Standards",
+    "id": 290,
+    "startDate": "2015-09-09T00:00:00",
+    "endDate": "2017-05-03T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Committee on Standards",
+    "id": 290,
+    "startDate": "2013-01-07T00:00:00",
+    "endDate": "2015-03-30T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Committee of Privileges",
+    "id": 289,
+    "startDate": "2017-10-26T00:00:00",
+    "endDate": "2019-11-06T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Committee of Privileges",
+    "id": 289,
+    "startDate": "2015-10-28T00:00:00",
+    "endDate": "2017-05-03T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Committee of Privileges",
+    "id": 289,
+    "startDate": "2013-01-07T00:00:00",
+    "endDate": "2015-03-30T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Justice Committee",
+    "id": 102,
+    "startDate": "2013-11-04T00:00:00",
+    "endDate": "2015-03-30T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Scottish Affairs Committee",
+    "id": 136,
+    "startDate": "2015-07-06T00:00:00",
+    "endDate": "2017-05-03T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Housing, Communities and Local Government Committee",
+    "id": 17,
+    "startDate": "2017-04-18T00:00:00",
+    "endDate": "2017-05-03T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Home Affairs Committee",
+    "id": 83,
+    "startDate": "2017-09-11T00:00:00",
+    "endDate": "2019-11-06T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Committee on the Future Relationship with the European Union",
+    "id": 366,
+    "startDate": "2020-03-02T00:00:00",
+    "endDate": "2021-01-16T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Committee on the Future Relationship with the European Union",
+    "id": 366,
+    "startDate": "2017-09-11T00:00:00",
+    "endDate": "2019-11-06T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Environmental Audit Committee",
+    "id": 62,
+    "startDate": "2020-03-02T00:00:00",
+    "endDate": "2024-05-30T00:01:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Modernisation Committee",
+    "id": 736,
+    "startDate": "2024-09-09T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Energy Security and Net Zero Committee",
+    "id": 664,
+    "startDate": "2024-10-21T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 8,
+   "name": "7. (i) Shareholdings: over 15% of issued share capital",
+   "sortOrder": 0,
+   "interests": [
+    {
+     "id": 2456,
+     "interest": "Name of company or organisation: Carclew Limited\r\n(Updated 20 June 2017)",
+     "createdWhen": "2024-04-18T15:19:00.3",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "name": "8. Miscellaneous",
+   "sortOrder": 1,
+   "interests": [
+    {
+     "id": 1227,
+     "interest": "Retired barrister.\r\n(Updated 1 June 2015)",
+     "createdWhen": "2024-04-18T15:14:10.5733333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 3510,
+     "interest": "Joint Treasurer of the British-American Parliamentary Group. This is an unpaid role.\r\nDate interest arose: 12 July 2023\r\n(Registered 31 January 2024)",
+     "createdWhen": "2024-04-18T15:17:56.72",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 14931,
+     "interest": "Director of Carclew Limited, a small private company which provides business consultancy services but excludes advice on parliamentary or public affairs (previously registered under Category 1 and updated 20 June 2017).\r\n(Registered 1 April 2026)",
+     "createdWhen": "2026-04-14T09:26:38.34",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "name": "9. Family members employed and paid from parliamentary expenses",
+   "sortOrder": 2,
+   "interests": [
+    {
+     "id": 2979,
+     "interest": "Name: Christine Chope\r\nRelationship: Spouse\r\nRole: Secretary\r\nWorking pattern: Full time",
+     "createdWhen": "2024-04-18T15:16:46.0833333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [],
+ "synopsis": "Sir Christopher Chope is the Conservative MP for <a href='/constituency/3986/overview'>Christchurch</a>, and has been an MP continually since 1 May 1997.",
+ "history": [
+  {
+   "id": 1961804,
+   "uin": "44731",
+   "heading": "Mayors: South West",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, if she will make it her policy that BCP Council can be excluded from any Wessex mayoral authority on similar grounds to Swindon.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1961808,
+   "uin": "44735",
+   "heading": "China: Climate Change Convention",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, for what reason the United Kingdom pavilion at COP31 was immediately adjacent to the China pavilion; and what the cost was of any additional security measures.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1961546,
+   "uin": "44473",
+   "heading": "Coronavirus: Vaccination",
+   "questionText": "To ask the Secretary of State for Health and Social Care, pursuant to the Answer of 2 November 2026 to Question 39086, for what reason no information on indemnities given by the Government to Covid-19 vaccine manufacturers is contained in the Annual Repor",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1949058,
+   "uin": "34845",
+   "heading": "Members: Correspondence",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, when she will respond to the correspondence from the Honourable Member for Christchurch of 8 July 2026 on the Mobile Homes Act 1983.",
+   "dateTabled": "2026-10-14T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1961811,
+   "uin": "44738",
+   "heading": "Climate Change Convention",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, how many civil servants attended COP31; and what the estimated cost is of their travel, accommodation and subsistence.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1959004,
+   "uin": "42482",
+   "heading": "Vaccine Damage Payment Scheme",
+   "questionText": "To ask the Secretary of State for Health and Social Care, in respect of the statement on page 38 of the Annual Report and Accounts of the NHS Business Services Authority printed on 13 July 2026 for the period 1 April 2025 to 31 March 2026 that \"The VDPS [",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1954475,
+   "uin": "39086",
+   "heading": "Coronavirus: Vaccination",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what has been the cost so far of the indemnity provided by the Government to Covid-19 vaccine manufacturers in respect of claims relating to Covid-19 vaccinations.",
+   "dateTabled": "2026-10-28T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1954473,
+   "uin": "39084",
+   "heading": "Coronavirus: Vaccination",
+   "questionText": "To ask the Secretary of State for Health and Social Care, further to the Minister's statement at Column 130WH on 27 October 2026, whether her reference to \"anyone who has become severely disabled following a vaccination\" was intended to covers all those w",
+   "dateTabled": "2026-10-28T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1949042,
+   "uin": "34829",
+   "heading": "Dangerous Dogs",
+   "questionText": "To ask the Secretary of State for the Home Department, how many dogs alleged to be prohibited under the Dangerous Dogs Act 1991 were in kennels awaiting (a) assessment and (b) court determination at the last date for which information is available; and wh",
+   "dateTabled": "2026-10-14T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1948938,
+   "uin": "34725",
+   "heading": "Social Security Benefits: Fraud",
+   "questionText": "To ask the Secretary of State for Work and Pensions, for what reason his department has withdrawn its published guidance on the benefits fraud investigation process.",
+   "dateTabled": "2026-10-14T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1949211,
+   "uin": "34998",
+   "heading": "Members: Correspondence",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, pursuant to the Answer of 14 July 2026 to Question 17298 on Members: Correspondence, when he plans to respond to the correspondence referred in that answer.",
+   "dateTabled": "2026-10-14T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1947976,
+   "uin": "33959",
+   "heading": "Social Security Benefits: Disability",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many allegations of disability benefit fraud have been investigated in the last year for which information is available and how many resulted in prosecution.",
+   "dateTabled": "2026-10-12T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1948942,
+   "uin": "34729",
+   "heading": "Water: Bacteria",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what testing for the presence of campylo bacteria the Environment Agency carries out in (a) river and (b) sea water in Christchurch; and when the last positive test was.",
+   "dateTabled": "2026-10-14T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1948947,
+   "uin": "34734",
+   "heading": "Special Educational Needs: Bournemouth, Christchurch and Poole",
+   "questionText": "To ask the Secretary of State for Education, how BCP Council failed to sufficiently strengthen collective ownership, governance, capability and partnership working in its reform of SEND delivery; and against what criteria judgment will be made on whether ",
+   "dateTabled": "2026-10-14T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1947982,
+   "uin": "33965",
+   "heading": "Department for Environment, Food and Rural Affairs: Judicial Review",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what the cost to her Department was of AC-2026-LON-003445, Mark Facer v Secretary of State for Environment, Food and Rural Affairs; how much was paid for the Defendant's costs; and wha",
+   "dateTabled": "2026-10-12T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1948939,
+   "uin": "34726",
+   "heading": "Members: Correspondence",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, when she plans to respond to the letter of 8 September 2026 from the hon. Member for Christchurch about pollution in Christchurch harbour.",
+   "dateTabled": "2026-10-14T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1947972,
+   "uin": "33955",
+   "heading": "Social Security Benefits: Fraud",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many reports of benefit fraud were made to his Department in each of the last six months for which information is available.",
+   "dateTabled": "2026-10-12T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1947984,
+   "uin": "33967",
+   "heading": "Public Footpaths: Christchurch",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, for what reason her Department approved a second application by Natural England for a footpath route around Christchurch Harbour.",
+   "dateTabled": "2026-10-12T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1917158,
+   "uin": "10556",
+   "heading": "Vaccine Damage Payment Scheme",
+   "questionText": "To ask the Secretary of State for Health and Social Care, pursuant to the Answer of 15 June to Question 6319 on Vaccine Damage Payment Scheme, how much were the (a) assessment, (b) staff and (c) non-staff costs in each of those years.",
+   "dateTabled": "2026-06-17T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1926808,
+   "uin": "17945",
+   "heading": "Probate",
+   "questionText": "To ask the Secretary of State for Justice, when will the probate application 1763-9735-8436-3140, submitted by David Bull on 24 November 2025, in respect of Beryl Patricia Bull, be granted.",
+   "dateTabled": "2026-07-13T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1917642,
+   "uin": "11112",
+   "heading": "Defence: Finance",
+   "questionText": "To ask the Secretary of State for Defence, with reference, to the statement by the Minister for Defence Readiness and Industry on 15th June 2026 in column 571, at what time did that meeting begin and at what time did it finish.",
+   "dateTabled": "2026-06-18T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1926787,
+   "uin": "17944",
+   "heading": "HM Courts and Tribunals Service",
+   "questionText": "To ask the Secretary of State for Justice, when will HM Courts & Tribunals Service reference number 1753292273313841 (a) be listed and (b) be heard.",
+   "dateTabled": "2026-07-13T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1924012,
+   "uin": "15668",
+   "heading": "Automatic Number Plate Recognition: Cameras",
+   "questionText": "To ask the Secretary of State for Transport, on how many occasions have DVLA misread the image from an ANPR camera in the most recent year for which records are available.",
+   "dateTabled": "2026-07-03T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1926237,
+   "uin": "17298",
+   "heading": "Members: Correspondence",
+   "questionText": "To ask the Secretary of State for Business and Trade, with reference to the oral contribution of the Parliamentary Under-Secretary of State for Business and Trade in response to the hon. Member for Christchurch on 17 June 2026, Official Report, column 841",
+   "dateTabled": "2026-07-09T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1925021,
+   "uin": "16363",
+   "heading": "Health Services: Patients",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether the Department of Health and Social Care or NHS England made or commissioned a clinical or patient safety impact assessment of the duty in paragraph 11C(2) of Schedule 3 to the National Hea",
+   "dateTabled": "2026-07-07T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1924484,
+   "uin": "15912",
+   "heading": "Universal Credit",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what the average time is between a Universal Credit enquiry being referred to the Agents Contact Team and resolution of that enquiry.",
+   "dateTabled": "2026-07-06T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1924482,
+   "uin": "15911",
+   "heading": "HM Courts and Tribunals Service",
+   "questionText": "To ask the Secretary of State for Justice, when will HM Courts & Tribunals Service reference number 175329227331384 (a) be listed and (b) be heard.",
+   "dateTabled": "2026-07-06T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1918425,
+   "uin": "11588",
+   "heading": "Cataracts: Surgery",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many cataract operations were carried out (a) by and (b) on behalf of the NHS in England in 2025; how many of those were by (i) NHS providers directly and (ii) private sector providers; and wha",
+   "dateTabled": "2026-06-22T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1911778,
+   "uin": "6321",
+   "heading": "Access to Work Programme: Staff",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many full-time equivalent staff are engaged in processing Access to Work claims; by what number has that changed in the last 12 months; and what assessment he has made of the potential impact of sta",
+   "dateTabled": "2026-06-03T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1911885,
+   "uin": "6324",
+   "heading": "National Police Chiefs' Council",
+   "questionText": "To ask the Secretary of State for the Home Department, if she will make it her policy that the National Police Chiefs' Council should not issue further guidance until it has been approved by her and by Parliament.",
+   "dateTabled": "2026-06-03T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1911884,
+   "uin": "6323",
+   "heading": "Vaccine Damage Payment Scheme",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference to the Answer of 29 April 2026 to Question 119822 on Vaccine Damage Payment Scheme, for what reasons his Department was unable to answer the Question before 29 April 2026; and whethe",
+   "dateTabled": "2026-06-03T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1911722,
+   "uin": "6319",
+   "heading": "Vaccine Damage Payment Scheme",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what has been the cost to his Department of assessing claims under the Vaccine Damage Payments Scheme in each of the last four years for which information is available.",
+   "dateTabled": "2026-06-03T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1911779,
+   "uin": "6322",
+   "heading": "Access to Work Programme: Self-employed",
+   "questionText": "To ask the Secretary of State for Work and Pensions, for what reason applications for Access to Work from self-employed customers are not being allocated for processing until over 18 months from the date of receipt; and what assessment he has made of the ",
+   "dateTabled": "2026-06-03T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1911723,
+   "uin": "6320",
+   "heading": "Vaccine Damage Payment Scheme",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether the Government accepts the recommendations of the Covid-19 Inquiry (Module 4) published on 16 April 2026 in relation to the Vaccine Damage Payment Scheme.",
+   "dateTabled": "2026-06-03T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1890101,
+   "uin": "119822",
+   "heading": "Vaccine Damage Payment Scheme",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what has been the cost to his Department of assessing claims under the Vaccine Damage Payments Scheme in each of the last four years for which information is available.",
+   "dateTabled": "2026-03-11T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1894368,
+   "uin": "123136",
+   "heading": "Visas: Families",
+   "questionText": "To ask the Secretary of State for the Home Department, what is the current estimate of the time for resolution of applications for visas under the family route.",
+   "dateTabled": "2026-03-24T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1890376,
+   "uin": "119824",
+   "heading": "Palace of Westminster: Asbestos",
+   "questionText": "To ask the hon. Member for Blaenau Gwent and Rhymney, representing the House of Commons Commission, what works are currently being undertaken to remove or isolate asbestos in the Palace of Westminster; and how many operatives are engaged in those works.",
+   "dateTabled": "2026-03-11T00:00:00",
+   "answeringBodyName": "House of Commons Commission"
+  },
+  {
+   "id": 1890374,
+   "uin": "119823",
+   "heading": "Palace of Westminster: Asbestos",
+   "questionText": "To ask the hon. Member for Blaenau Gwent and Rhymney, representing the House of Commons Commission, if the Commission will publish the details of the 12 asbestos incidents in the Palace of Westminster to which reference is made on page 25 of the report en",
+   "dateTabled": "2026-03-11T00:00:00",
+   "answeringBodyName": "House of Commons Commission"
+  },
+  {
+   "id": 1880499,
+   "uin": "112095",
+   "heading": "Religious Buildings: VAT",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of the potential cost exempting repairs enjoyed by museums and galleries from VAT to include listed places of worship to the Exchequer.",
+   "dateTabled": "2026-02-10T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1880740,
+   "uin": "112570",
+   "heading": "Immigration: Christchurch",
+   "questionText": "To ask the Secretary of State for the Home Department, if she will reinstate the right to remain of a Christchurch constituent who has been classified as an overstayer pending review of his case, with reference 1212-0001-5632-8110/00.",
+   "dateTabled": "2026-02-11T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1880500,
+   "uin": "112096",
+   "heading": "VAT: Fraud",
+   "questionText": "To ask the Chancellor of the Exchequer, how many UK businesses at the most recent date for which information is available have had their Government Gateway access restricted on the grounds that their accounts may have been compromised by fraudulent attemp",
+   "dateTabled": "2026-02-10T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1878021,
+   "uin": "110316",
+   "heading": "Members: Correspondence",
+   "questionText": "To ask the Secretary of State for Transport, when the Minister plans to respond to the email from the hon. Member for Christchurch dated 26 November 2025 on the use of civil enforcement powers by local authorities.",
+   "dateTabled": "2026-02-03T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1878152,
+   "uin": "110318",
+   "heading": "Places of Worship Renewal Fund",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, for what reason the new Places of Worship Renewal Fund is open to applications from places of worship which are not listed; and whether the new Places of Worship Renewal Fund is open to applicati",
+   "dateTabled": "2026-02-03T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1878151,
+   "uin": "110317",
+   "heading": "Museums and Galleries: VAT",
+   "questionText": "To ask the Chancellor of the Exchequer, what the annual cost to the Exchequer is of the exemption from VAT on repairs enjoyed by museums and galleries.",
+   "dateTabled": "2026-02-03T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1868015,
+   "uin": "102708",
+   "heading": "Great Western Hospital: Pneumonia",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many patients died from hospital acquired pneumonia at the Great Western Hospital in Swindon in each of the first six months of 2025.",
+   "dateTabled": "2026-01-05T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1871660,
+   "uin": "105644",
+   "heading": "Budget November 2025",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the answer of 6 January 2026 to question 101325, whether the hon. Member's representation was written or oral.",
+   "dateTabled": "2026-01-14T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1871659,
+   "uin": "105643",
+   "heading": "Budget November 2025",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the answer of 6 January 2026 to question 101324, whether the hon. Member's representation was written or oral.",
+   "dateTabled": "2026-01-14T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1871658,
+   "uin": "105642",
+   "heading": "Budget November 2025",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the answer of 6 January 2026 to question 101323, whether the hon. Member's representation was written or oral.",
+   "dateTabled": "2026-01-14T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1871657,
+   "uin": "105641",
+   "heading": "Budget November 2025",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the answer of 6 January 2026 to question 101322, whether the hon. Member's representation was written or oral.",
+   "dateTabled": "2026-01-14T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1871656,
+   "uin": "105640",
+   "heading": "Budget November 2025",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the answer of 6 January 2026 to question 101321, whether the hon. Member's representation was written or oral.",
+   "dateTabled": "2026-01-14T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1871655,
+   "uin": "105639",
+   "heading": "Budget November 2025",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the answer of 6 January 2026 to question 101320, whether the hon. Member's representation was written or oral.",
+   "dateTabled": "2026-01-14T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1871654,
+   "uin": "105638",
+   "heading": "Budget November 2025",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the answer of 6 January 2026 to question 101319, whether the hon. Member's representation was written or oral.",
+   "dateTabled": "2026-01-14T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1871653,
+   "uin": "105637",
+   "heading": "Budget November 2025",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the answer of 6 January 2026 to question 101318, whether the hon. Member's representation was written or oral.",
+   "dateTabled": "2026-01-14T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1871652,
+   "uin": "105636",
+   "heading": "Budget November 2025",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the answer of 6 January 2026 to question 101317, whether the hon. Member's representation was written or oral.",
+   "dateTabled": "2026-01-14T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1871651,
+   "uin": "105635",
+   "heading": "Budget November 2025",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the answer of 6 January 2026 to question 101316, whether the hon. Member's representation was written or oral.",
+   "dateTabled": "2026-01-14T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1871650,
+   "uin": "105631",
+   "heading": "Budget November 2025",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the answer of 6 January 2026 to question 101315, whether the hon. Member's representation was written or oral.",
+   "dateTabled": "2026-01-14T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1871649,
+   "uin": "105630",
+   "heading": "Budget November 2025",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the answer of 6 January 2026 to question 101314, whether the hon. Member's representation was written or oral.",
+   "dateTabled": "2026-01-14T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1871648,
+   "uin": "105629",
+   "heading": "Budget November 2025",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the answer of 6 January 2026 to question 101313, whether the hon. Member's representation was written or oral.",
+   "dateTabled": "2026-01-14T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1871647,
+   "uin": "105628",
+   "heading": "Budget November 2025",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the answer of 6 January 2026 to question 101312, whether the hon. Member's representation was written or oral.",
+   "dateTabled": "2026-01-14T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1871646,
+   "uin": "105627",
+   "heading": "Budget November 2025",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the answer of 6 January 2026 to question 101311, whether the hon. Member's representation was written or oral.",
+   "dateTabled": "2026-01-14T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1871645,
+   "uin": "105626",
+   "heading": "Budget November 2025",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the answer of 6 January 2026 to question 101310, whether the hon. Member's representation was written or oral.",
+   "dateTabled": "2026-01-14T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1871644,
+   "uin": "105625",
+   "heading": "Budget November 2025",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the answer of 6 January 2026 to question 101309, whether the hon. Member's representation was written or oral.",
+   "dateTabled": "2026-01-14T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1871642,
+   "uin": "105624",
+   "heading": "Budget November 2025",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the answer of 6 January 2026 to question 101308, whether the hon. Member's representation was written or oral.",
+   "dateTabled": "2026-01-14T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1873930,
+   "uin": "107346",
+   "heading": "Coronavirus: Vaccination",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many awards had been made under the Vaccine Damage Payment Scheme for claims arising from Covid-19 vaccines as at 31 December 2025.",
+   "dateTabled": "2026-01-21T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1872938,
+   "uin": "106465",
+   "heading": "Sports: VAT",
+   "questionText": "To ask the Chancellor of the Exchequer, if she will publish the analysis carried out by HMRC which was used as evidence to conclude that removing the requirement to charge VAT on local authority sports and leisure activities would not significantly distor",
+   "dateTabled": "2026-01-19T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1865441,
+   "uin": "100820",
+   "heading": "Coronavirus: Vaccination",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference to the meeting between the Parliamentary Under-Secretary of State for Public Health and Prevention and the hon. Member for Christchurch on 5 November 2025, what progress has been mad",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1865440,
+   "uin": "100819",
+   "heading": "Coronavirus: Vaccination",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference to the meeting between the Parliamentary Under-Secretary of State for Public Health and Prevention and the hon. Member for Christchurch on 5 November 2025, what progress has been mad",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1865615,
+   "uin": "100822",
+   "heading": "Climate Change",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, if he will set out the evidential basis for his statement at Column 258 of Hansard on 25 November 2025 that \"Thirty years of COPs have reduced global warming forecasts from 4°—indeed 5°—to so",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1868110,
+   "uin": "102709",
+   "heading": "Council Tax: Bournemouth, Christchurch and Poole",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, on what date BCP Council applied for permission to increase its council tax for 2026/7 above the 4.99% limit without the need for a local referendum; and whether he plans to invi",
+   "dateTabled": "2026-01-05T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1866176,
+   "uin": "101325",
+   "heading": "Budget November 2025",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the answer of 8 December 2025 to Question 96081, if she will publish the representation made by the hon. Member for Milton Keynes Central.",
+   "dateTabled": "2025-12-18T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1866175,
+   "uin": "101324",
+   "heading": "Budget November 2025",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the answer of 8 December 2025 to Question 96081, if she will publish the representation made by the hon. Member for Camborne and Redruth.",
+   "dateTabled": "2025-12-18T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1866174,
+   "uin": "101323",
+   "heading": "Budget November 2025",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the answer of 8 December 2025 to Question 96081, if she will publish the representation made by the hon. Member for Whitehaven and Workington.",
+   "dateTabled": "2025-12-18T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1866173,
+   "uin": "101322",
+   "heading": "Budget November 2025",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the answer of 8 December 2025 to Question 96081, if she will publish the representation made by the hon. Member for Na-h Eileanan an Iar.",
+   "dateTabled": "2025-12-18T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1866172,
+   "uin": "101321",
+   "heading": "Budget November 2025",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the answer of 8 December 2025 to Question 96081, if she will publish the representation made by the hon. Member for Kensington and Bayswater.",
+   "dateTabled": "2025-12-18T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1866171,
+   "uin": "101320",
+   "heading": "Budget November 2025",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the answer of 8 December 2025 to Question 96081, if she will publish the representation made by the hon. Member for Leigh and Atherton.",
+   "dateTabled": "2025-12-18T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1866170,
+   "uin": "101319",
+   "heading": "Budget November 2025",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the answer of 8 December 2025 to Question 96081, if she will publish the representation made by the hon. Member for Great Grimsby and Cleethorpes.",
+   "dateTabled": "2025-12-18T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1866169,
+   "uin": "101318",
+   "heading": "Budget November 2025",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the answer of 8 December 2025 to Question 96081, if she will publish the representation made by the hon. Member for Eltham and Chislehurst.",
+   "dateTabled": "2025-12-18T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1866168,
+   "uin": "101317",
+   "heading": "Budget November 2025",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the answer of 8 December 2025 to Question 96081, if she will publish the representation made by the hon. Member for Edinburgh South West.",
+   "dateTabled": "2025-12-18T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1866167,
+   "uin": "101316",
+   "heading": "Budget November 2025",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the answer of 8 December 2025 to Question 96081, if she will publish the representation made by the hon. Member for Banbury.",
+   "dateTabled": "2025-12-18T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1866165,
+   "uin": "101315",
+   "heading": "Budget November 2025",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the answer of 8 December 2025 to Question 96081, if she will publish the representation made by the hon. Member for Llanelli.",
+   "dateTabled": "2025-12-18T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1866164,
+   "uin": "101314",
+   "heading": "Budget November 2025",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the answer of 8 December 2025 to Question 96081, if she will publish the representation made by the hon. Member for Mansfield.",
+   "dateTabled": "2025-12-18T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1866163,
+   "uin": "101313",
+   "heading": "Budget November 2025",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the answer of 8 December 2025 to Question 96081, if she will publish the representation made by the hon. Member for Blyth and Ashington.",
+   "dateTabled": "2025-12-18T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1866162,
+   "uin": "101312",
+   "heading": "Budget November 2025",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the answer of 8 December 2025 to Question 96081, if she will publish the representation made by the hon. Member for Bassetlaw.",
+   "dateTabled": "2025-12-18T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1866161,
+   "uin": "101311",
+   "heading": "Budget November 2025",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the answer of 8 December 2025 to Question 96081, if she will publish the representation made by the hon. Member for Luton North.",
+   "dateTabled": "2025-12-18T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1866159,
+   "uin": "101310",
+   "heading": "Budget November 2025",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the answer of 8 December 2025 to Question 96081, if she will publish the representation made by the hon. Member for Bournemouth East.",
+   "dateTabled": "2025-12-18T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1866158,
+   "uin": "101309",
+   "heading": "Budget November 2025",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the answer of 8 December 2025 to Question 96081, if she will publish the representation made by the hon. Member for Leeds South West.",
+   "dateTabled": "2025-12-18T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1866156,
+   "uin": "101308",
+   "heading": "Budget November 2025",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the answer of 8 December 2025 to Question 96081, if she will publish the representation made by the hon. Member for Wolverhampton North East.",
+   "dateTabled": "2025-12-18T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1865602,
+   "uin": "100821",
+   "heading": "Repatriation: Payments",
+   "questionText": "To ask the Secretary of State for the Home Department, pursuant to the Answer of 18 November 2025 to Question 90131, how many decisions by operational managers in relation to the cost of returning someone to their final place of stay and supporting welfar",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1862944,
+   "uin": "98744",
+   "heading": "Sheiling Special Education Trust: Visas",
+   "questionText": "To ask the Secretary of State for the Home Department, when the application by the Sheiling Special Education Trust submitted on 9th September 2025 to the UKVI will be decided; and whether that will be prior to the expiry date for the current visas of tho",
+   "dateTabled": "2025-12-10T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1862929,
+   "uin": "98743",
+   "heading": "Net Zero Teesside Power: Iron and Steel",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, if he will make it his policy that the Net Zero Teesside Procurement Project should use British-made steel.",
+   "dateTabled": "2025-12-10T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1859645,
+   "uin": "96081",
+   "heading": "Budget November 2025",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the answer of 2 December 2025 to question 95016, whether the hon. Member for (a) Wolverhampton North East, (b) Leeds South West, (c) Bournemouth East, (d) Luton North, (e) Bassetlaw, (f) Blyth and Ashing",
+   "dateTabled": "2025-12-02T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1857780,
+   "uin": "95016",
+   "heading": "Budget November 2025",
+   "questionText": "To ask the Chancellor of the Exchequer, if she will place in the Library a copy of each of the representations made by the Rt hon. and hon. Members to which she refers in the Budget statement.",
+   "dateTabled": "2025-11-27T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1856462,
+   "uin": "93645",
+   "heading": "Fraud: Dorset",
+   "questionText": "To ask the Secretary of State for the Home Department, pursuant to the answer of 20th November to question 86600, to whom Dorset Police is accountable for discontinuing investigations into serious fraud.",
+   "dateTabled": "2025-11-24T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1856461,
+   "uin": "93644",
+   "heading": "Fraud: Dorset",
+   "questionText": "To ask the Secretary of State for the Home Department, pursuant to the answer of 20th November to question 86600, if she will use her powers under Section 41A of The Police Act 1996 to require Dorset Police to investigate remedial measures by reason of it",
+   "dateTabled": "2025-11-24T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1856465,
+   "uin": "93646",
+   "heading": "Department for Energy Security and Net Zero: Correspondence and Written Questions",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, pursuant to the answer to WPQ 88184, how many staff in a) each of the Private Offices and b) Parliamentary Unit were engaged on 12th November with a) answering Ministerial invitations and b) ",
+   "dateTabled": "2025-11-24T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1962568,
+   "uin": "45257",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether the Government has plans to allow extra prescription medicines for patients worried about being unable to access repeat prescriptions in a national emergency.",
+   "dateTabled": "2026-11-20T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1962155,
+   "uin": "44948",
+   "heading": "Coastal Areas: Public Footpaths",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, if she will implement the recommendation of the Planning Inspectorate in 2021 that the coastal path between Mudeford and Hengistbury Head be routed via the Mudeford ferry with the harb",
+   "dateTabled": "2026-11-19T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1961821,
+   "uin": "44748",
+   "heading": "Iron and Steel: China",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, if he will make it the policy of the Government to impose tariffs on prefabricated steel from China.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1961795,
+   "uin": "44722",
+   "heading": "Churches: Pipe Organs",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, for what reason VAT can not be reclaimed in respect of repairs to pipe organs within listed churches; and what assessment she has made of the impact of this on the cost of restoring the ",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  }
+ ],
+ "historyComplete": true
+}

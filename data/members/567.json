@@ -1,0 +1,783 @@
+{
+ "id": 567,
+ "fetchedOn": "2026-11-24",
+ "core": {
+  "id": 567,
+  "nameListAs": "Hain, L.",
+  "nameDisplayAs": "Lord Hain",
+  "nameFullTitle": "The Rt Hon. the Lord Hain",
+  "nameAddressAs": null,
+  "latestParty": {
+   "id": 15,
+   "name": "Labour",
+   "abbreviation": "Lab",
+   "backgroundColour": "d50000",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": true,
+   "governmentType": 0,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "Life peer",
+   "membershipFromId": 4,
+   "house": 2,
+   "membershipStartDate": "2015-10-22T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2015-10-22T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/567/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2010-04-13T00:00:00",
+    "constituencyEnd": "2024-05-30T00:00:00",
+    "house": 1,
+    "name": "Neath",
+    "id": 3620,
+    "startDate": "2010-05-06T00:00:00",
+    "endDate": "2015-03-30T00:00:00",
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "1997-04-09T00:00:00",
+    "constituencyEnd": "2010-04-12T00:00:00",
+    "house": 1,
+    "name": "Neath",
+    "id": 2032,
+    "startDate": "1997-05-01T00:00:00",
+    "endDate": "2010-05-06T00:00:00",
+    "additionalInfo": "Elected 3 times",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "1983-05-14T00:00:00",
+    "constituencyEnd": "1997-04-08T00:00:00",
+    "house": 1,
+    "name": "Neath",
+    "id": 2031,
+    "startDate": "1991-04-04T00:00:00",
+    "endDate": "1997-05-01T00:00:00",
+    "additionalInfo": "Elected 2 times",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [
+   {
+    "house": 1,
+    "name": "Putney",
+    "id": 2386,
+    "startDate": "1987-06-11T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Putney",
+    "id": 2386,
+    "startDate": "1983-06-09T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "houseMemberships": [
+   {
+    "house": 2,
+    "name": "Lords",
+    "id": 2,
+    "startDate": "2015-10-22T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Lord Hain",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "1991-04-04T00:00:00",
+    "endDate": "2015-03-30T00:00:00",
+    "additionalInfo": "Mr Peter Hain",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [
+   {
+    "house": 1,
+    "name": "Secretary of State for Wales",
+    "id": 743,
+    "startDate": "2009-06-06T00:00:00",
+    "endDate": "2010-05-06T00:00:00",
+    "additionalInfo": "Wales Office",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/wales-office"
+   },
+   {
+    "house": 1,
+    "name": "Secretary of State for Work and Pensions",
+    "id": 744,
+    "startDate": "2007-06-28T00:00:00",
+    "endDate": "2008-01-24T00:00:00",
+    "additionalInfo": "Department for Work and Pensions",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-work-pensions"
+   },
+   {
+    "house": 1,
+    "name": "Secretary of State for Northern Ireland",
+    "id": 721,
+    "startDate": "2005-05-06T00:00:00",
+    "endDate": "2007-06-28T00:00:00",
+    "additionalInfo": "Northern Ireland Office",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/northern-ireland-office"
+   },
+   {
+    "house": 1,
+    "name": "Leader of the House of Commons and Lord Privy Seal",
+    "id": 79,
+    "startDate": "2003-06-12T00:00:00",
+    "endDate": "2005-05-06T00:00:00",
+    "additionalInfo": "Office of the Leader of the House of Commons",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/the-office-of-the-leader-of-the-house-of-commons"
+   },
+   {
+    "house": 1,
+    "name": "Secretary of State for Wales",
+    "id": 743,
+    "startDate": "2002-10-24T00:00:00",
+    "endDate": "2008-01-24T00:00:00",
+    "additionalInfo": "Wales Office",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/wales-office"
+   },
+   {
+    "house": 1,
+    "name": "Minister of State (Europe)",
+    "id": 125,
+    "startDate": "2001-06-11T00:00:00",
+    "endDate": "2002-10-24T00:00:00",
+    "additionalInfo": "Foreign and Commonwealth Office",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/foreign-commonwealth-office"
+   },
+   {
+    "house": 1,
+    "name": "Minister of State (Energy and Competitiveness in Europe)",
+    "id": 119,
+    "startDate": "2001-01-25T00:00:00",
+    "endDate": "2001-06-07T00:00:00",
+    "additionalInfo": "Department of Trade and Industry",
+    "additionalInfoLink": "http://www.dti.gov.uk"
+   },
+   {
+    "house": 1,
+    "name": "Minister of State (Foreign and Commonwealth Office)",
+    "id": 424,
+    "startDate": "1999-07-29T00:00:00",
+    "endDate": "2000-01-24T00:00:00",
+    "additionalInfo": "Foreign and Commonwealth Office",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/foreign-commonwealth-office"
+   },
+   {
+    "house": 1,
+    "name": "Parliamentary Under-Secretary (Welsh Office)",
+    "id": 382,
+    "startDate": "1997-05-06T00:00:00",
+    "endDate": "1999-07-29T00:00:00",
+    "additionalInfo": "Welsh Office",
+    "additionalInfoLink": null
+   }
+  ],
+  "oppositionPosts": [
+   {
+    "house": 1,
+    "name": "Shadow Secretary of State for Wales",
+    "id": 875,
+    "startDate": "2010-05-12T00:00:00",
+    "endDate": "2012-05-14T00:00:00",
+    "additionalInfo": "Wales Office",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/wales-office"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Spokesperson (Work and Pensions)",
+    "id": 1006,
+    "startDate": "1996-06-01T00:00:00",
+    "endDate": "1997-06-01T00:00:00",
+    "additionalInfo": "Department for Work and Pensions",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-work-pensions"
+   },
+   {
+    "house": 1,
+    "name": "Opposition Whip (Commons)",
+    "id": 10,
+    "startDate": "1995-06-01T00:00:00",
+    "endDate": "1996-06-01T00:00:00",
+    "additionalInfo": "Whips Office (Commons)",
+    "additionalInfoLink": null
+   }
+  ],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Labour",
+    "id": 15,
+    "startDate": "1991-04-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 2,
+    "name": "COVID-19 Committee",
+    "id": 460,
+    "startDate": "2020-06-11T00:00:00",
+    "endDate": "2022-04-28T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 2,
+    "name": "Windsor Framework Sub-Committee",
+    "id": 520,
+    "startDate": "2021-04-14T00:00:00",
+    "endDate": "2024-05-30T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 2,
+    "name": "Northern Ireland Scrutiny Committee",
+    "id": 769,
+    "startDate": "2025-01-30T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 23655,
+     "interest": "Partner, HaywoodHain LLP (wife's consultancy in public affairs, communication and strategic advice; member has no clients but income from interests registered in this category is paid to the partnership)",
+     "createdWhen": "2015-11-24T12:59:17",
+     "lastAmendedWhen": "2025-04-08T12:34:17.19",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 31678,
+     "interest": "Famous Faces Management (organises professional speaking engagements)",
+     "createdWhen": "2018-03-02T11:21:11",
+     "lastAmendedWhen": "2025-04-05T00:00:00",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 31748,
+     "interest": "Occasional Consultant, Africa Risk Consulting Limited",
+     "createdWhen": "2018-03-15T10:26:00",
+     "lastAmendedWhen": "2025-04-05T00:00:00",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 35856,
+     "interest": "Visiting Lecturer, Gordon Institute of Business Science, University of Pretoria, Johannesburg",
+     "createdWhen": "2020-07-21T10:07:51",
+     "lastAmendedWhen": "2025-04-05T00:00:00",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 41922,
+     "interest": "Visiting Professor, School of Government (formerly Fellow, Institute for International Government), King’s College London",
+     "createdWhen": "2023-04-20T13:50:53",
+     "lastAmendedWhen": "2025-07-02T12:51:21.743",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 46213,
+     "interest": "Adviser, Clyde & Company LLP (law firm)",
+     "createdWhen": "2025-04-30T14:03:52",
+     "lastAmendedWhen": "2025-04-30T14:04:29.733",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 47329,
+     "interest": "Adviser, Kingdom Services Group Limited (delivers service solutions with care in the specialist areas of security, cleaning, recruitment and training) (the member provides advice on business development including expanding investment in India and community outreach)",
+     "createdWhen": "2026-01-09T09:41:56",
+     "lastAmendedWhen": "2026-01-09T09:48:45.767",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1009,
+   "name": "Category 6: Gifts, benefits and hospitality",
+   "sortOrder": 1049,
+   "interests": [
+    {
+     "id": 47958,
+     "interest": "Three tickets and hospitality received from Silverstone Circuits Limited at British Grand Prix, Silverstone, 4-5 July 2026",
+     "createdWhen": "2026-07-08T10:27:29",
+     "lastAmendedWhen": "2026-07-08T10:39:34.977",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [
+  {
+   "category": "Concerns: Policy Interests",
+   "focus": [
+    "Economy and finance",
+    "European Union",
+    "International affairs",
+    "Parliament, government and politics"
+   ]
+  },
+  {
+   "category": "Concerns: UK Areas",
+   "focus": [
+    "London",
+    "Wales"
+   ]
+  },
+  {
+   "category": "Concerns: World Areas",
+   "focus": [
+    "Africa",
+    "Middle East: South Africa"
+   ]
+  }
+ ],
+ "synopsis": "Lord Hain's full title is The Rt Hon. the Lord Hain. His name is Peter Gerald Hain, and he is a current member of the House of Lords.",
+ "history": [
+  {
+   "id": 1956999,
+   "uin": "HL4939",
+   "heading": "Fraud: Prosecutions",
+   "questionText": "To ask His Majesty's Government what their estimate is of the number of expected prosecutions in 2026–2027 under the failure to prevent fraud offence.",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Attorney General's Office"
+  },
+  {
+   "id": 1956997,
+   "uin": "HL4940",
+   "heading": "Fraud: Prosecutions",
+   "questionText": "To ask His Majesty's Government how many cases have been undertaken by the Serious Fraud Office for domestic UK fraud and investment scheme fraud.",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Attorney General's Office"
+  },
+  {
+   "id": 1958074,
+   "uin": "HL5155",
+   "heading": "Anglo American Foundation: Grants",
+   "questionText": "To ask His Majesty's Government what due diligence, financial monitoring and independent scrutiny arrangements the Foreign, Commonwealth and Development Office put in place in respect of the £4.5 million grant made to the Anglo American Foundation; whethe",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1958076,
+   "uin": "HL5154",
+   "heading": "Brexit: Wales",
+   "questionText": "To ask His Majesty's Government what estimate they have made of the overall cost to Wales of the United Kingdom’s withdrawal from the European Union.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Wales Office"
+  },
+  {
+   "id": 1957004,
+   "uin": "HL4935",
+   "heading": "Serious Fraud Office: Recruitment",
+   "questionText": "To ask His Majesty's Government whether a new Director of the Serious Fraud Office will be in place before the end of March 2027.",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Attorney General's Office"
+  },
+  {
+   "id": 1957001,
+   "uin": "HL4937",
+   "heading": "Serious Fraud Office: Recruitment",
+   "questionText": "To ask His Majesty's Government when the advertisement for a new Director of the Serious Fraud Office was published.",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Attorney General's Office"
+  },
+  {
+   "id": 1957002,
+   "uin": "HL4936",
+   "heading": "Serious Fraud Office: Termination of Employment",
+   "questionText": "To ask His Majesty's Government when the last Director of the Serious Fraud Office left his post.",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Attorney General's Office"
+  },
+  {
+   "id": 1958077,
+   "uin": "HL5153",
+   "heading": "Borders: Wales",
+   "questionText": "To ask His Majesty's Government what the total cost was of border inspection facilities in Wales established as part of the United Kingdom’s post-Brexit border arrangements.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1958080,
+   "uin": "HL5152",
+   "heading": "Borders: Northern Ireland",
+   "questionText": "To ask His Majesty's Government what the total cost was of border inspection facilities in Northern Ireland established as part of the United Kingdom’s post-Brexit border arrangements.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1957000,
+   "uin": "HL4938",
+   "heading": "Fraud",
+   "questionText": "To ask His Majesty's Government when the failure to prevent fraud offence came into force.",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1929786,
+   "uin": "HL2693",
+   "heading": "Students: Debts",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by Baroness Smith of Malvern on 22 July (HL999), what is the latest total for student loans debt.",
+   "dateTabled": "2026-07-23T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1929787,
+   "uin": "HL2692",
+   "heading": "Students: Debts",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by Baroness Smith of Malvern on 22 July (HL1000), what is the latest total for student fees debt.",
+   "dateTabled": "2026-07-23T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1916980,
+   "uin": "HL998",
+   "heading": "Students: Debts",
+   "questionText": "To ask His Majesty's Government what percentage of university students are expected to never pay off their total debt.",
+   "dateTabled": "2026-06-16T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1916981,
+   "uin": "HL997",
+   "heading": "Students: Debts",
+   "questionText": "To ask His Majesty's Government what is the projected total liability for university student debt for both tuition fee loans and maintenance loans that will be written off.",
+   "dateTabled": "2026-06-16T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1916978,
+   "uin": "HL1000",
+   "heading": "Students: Debts",
+   "questionText": "To ask His Majesty's Government what is the average university student debt for (1) tuition fees, (2) maintenance loans, and (3) tuition fees and maintenance loans combined, in each year since 2010.",
+   "dateTabled": "2026-06-16T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1916979,
+   "uin": "HL999",
+   "heading": "Students: Debts",
+   "questionText": "To ask His Majesty's Government what is the average university student debt for (1) tuition fees, (2) maintenance loans, and (3) tuition fees and maintenance loans combined.",
+   "dateTabled": "2026-06-16T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1923843,
+   "uin": "HL1587",
+   "heading": "Students: Finance",
+   "questionText": "To ask His Majesty's Government what plans they have, if any, to introduce a graduate tax to replace tuition fee loans that would not incur additional borrowing above the current level for university student finance.",
+   "dateTabled": "2026-07-02T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1922631,
+   "uin": "HL1481",
+   "heading": "Debts Written Off: Students",
+   "questionText": "To ask His Majesty's Government what is their latest estimate of the total public liability for student debt written off by the Treasury.",
+   "dateTabled": "2026-06-30T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1922634,
+   "uin": "HL1480",
+   "heading": "Loans: Students",
+   "questionText": "To ask His Majesty's Government whether University student fee loans are classified as public sector borrowing.",
+   "dateTabled": "2026-06-30T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1921477,
+   "uin": "HL1403",
+   "heading": "Maritime and Coastguard Agency: Emergency Calls",
+   "questionText": "To ask His Majesty's Government how many miles of coastline the Maritime and Coastguard Agency monitors for emergency call outs.",
+   "dateTabled": "2026-06-29T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1921478,
+   "uin": "HL1402",
+   "heading": "Maritime and Coastguard Agency: Emergency Calls",
+   "questionText": "To ask His Majesty's Government how many volunteers are involved in emergency call outs for the Maritime and Coastguard Agency.",
+   "dateTabled": "2026-06-29T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1921479,
+   "uin": "HL1401",
+   "heading": "Maritime and Coastguard Agency: Staff",
+   "questionText": "To ask His Majesty's Government how much the Maritime and Coastguard Agency spent on staffing costs in each of the last three financial years.",
+   "dateTabled": "2026-06-29T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1921480,
+   "uin": "HL1400",
+   "heading": "Maritime and Coastguard Agency: Finance",
+   "questionText": "To ask His Majesty's Government what was (1) the total budget of the Maritime and Coastguard Agency, and (2) the total spent by the Maritime and Coastguard Agency on volunteer payments for emergency call outs, in each of the last three financial years.",
+   "dateTabled": "2026-06-29T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1918048,
+   "uin": "HL1102",
+   "heading": "Debts: Students",
+   "questionText": "To ask His Majesty's Government on what basis total university student debt is not counted against the public sector borrowing requirement.",
+   "dateTabled": "2026-06-18T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1918049,
+   "uin": "HL1101",
+   "heading": "Graduates: Taxation",
+   "questionText": "To ask His Majesty's Government on what basis a university graduate tax would be counted against the public sector borrowing requirement.",
+   "dateTabled": "2026-06-18T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1916976,
+   "uin": "HL1002",
+   "heading": "Universities: Debts",
+   "questionText": "To ask His Majesty's Government what are the twenty universities with the largest financial deficits.",
+   "dateTabled": "2026-06-16T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1916977,
+   "uin": "HL1001",
+   "heading": "Universities: Debts",
+   "questionText": "To ask His Majesty's Government how many universities are in a financial deficit.",
+   "dateTabled": "2026-06-16T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1901986,
+   "uin": "HL16614",
+   "heading": "Police: Medical Records",
+   "questionText": "To ask His Majesty's Government whether the police are permitted to request that hospitals share medical records and notes of suspects following their arrest under national security legislation, and what guidance exists for police forces and hospitals reg",
+   "dateTabled": "2026-04-21T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1901104,
+   "uin": "HL16552",
+   "heading": "Asia House",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by Lord Hanson of Flint on 20 April (HL16210), when they intend to provide the promised update.",
+   "dateTabled": "2026-04-20T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1898931,
+   "uin": "HL16210",
+   "heading": "Asia House",
+   "questionText": "To ask His Majesty's Government when they expect enquiries following the arrest and bail of David Taylor under national security legislation will be completed.",
+   "dateTabled": "2026-04-13T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1869956,
+   "uin": "HL13425",
+   "heading": "Palestine Action: Hunger Strikes",
+   "questionText": "To ask His Majesty's Government what is the current health of Palestine Action hunger strikers Heba Muraisi, Lewie Chiaramello and Kamran Ahmed.",
+   "dateTabled": "2026-01-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1861384,
+   "uin": "HL12739",
+   "heading": "Medical Treatments: Prisoners",
+   "questionText": "To ask His Majesty's Government how many imprisoned Palestine Action protestors have received hospital treatment while on hunger strike.",
+   "dateTabled": "2025-12-08T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1861385,
+   "uin": "HL12738",
+   "heading": "Medical Treatments: Prisoners",
+   "questionText": "To ask His Majesty's Government how many imprisoned Palestine Action protestors have received hospital treatment while in prison.",
+   "dateTabled": "2025-12-08T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1861390,
+   "uin": "HL12737",
+   "heading": "Palestine Action: Hunger Strikes",
+   "questionText": "To ask His Majesty's Government how many Palestine Action protestors are (1) in prison, (2) in prison awaiting trial, (3) serving prison sentences, (4) on hunger strike and awaiting trial, and (5) on hunger strike and serving prison sentences.",
+   "dateTabled": "2025-12-08T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1962702,
+   "uin": "HL5664",
+   "heading": null,
+   "questionText": "To ask His Majesty's Government what measures they are taking as part of the UK’s Resilience Action Plan to ensure non-digital communications remain possible.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1961935,
+   "uin": "HL5534",
+   "heading": "Peers: Correspondence",
+   "questionText": "To ask His Majesty's Government when they intend to respond to the email from Lord Hain to the Foreign Secretary's private office dated 17 September, requesting a meeting with the Foreign Secretary.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1958082,
+   "uin": "HL5151",
+   "heading": "Inland Border Facilities: Expenditure",
+   "questionText": "To ask His Majesty's Government what the total cost was of border inspection facilities for road haulage vehicles established as part of the United Kingdom’s post-Brexit border arrangements.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1958083,
+   "uin": "HL5150",
+   "heading": "Inland Border Facilities: Expenditure",
+   "questionText": "To ask His Majesty's Government what the total cost was of border inspection facilities established as part of the United Kingdom’s post-Brexit border arrangements.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1957377,
+   "uin": "HL5047",
+   "heading": "Brexit: Costs",
+   "questionText": "To ask His Majesty's Government what estimate they have made of the overall cost of Brexit to the UK economy.",
+   "dateTabled": "2026-11-09T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1957274,
+   "uin": "HL5046",
+   "heading": "Corruption: Prosecutions",
+   "questionText": "To ask His Majesty's Government what resources they are allocating to international corruption cases involving corporate entities.",
+   "dateTabled": "2026-11-09T00:00:00",
+   "answeringBodyName": "Attorney General's Office"
+  },
+  {
+   "id": 1957275,
+   "uin": "HL5045",
+   "heading": "Corruption: Prosecutions",
+   "questionText": "To ask His Majesty's Government what priority they are giving to international corruption cases involving corporate entities.",
+   "dateTabled": "2026-11-09T00:00:00",
+   "answeringBodyName": "Attorney General's Office"
+  },
+  {
+   "id": 1957276,
+   "uin": "HL5044",
+   "heading": "Corruption: Prosecutions",
+   "questionText": "To ask His Majesty's Government whether the Serious Fraud Office remains responsible for international corruption cases involving corporate entities.",
+   "dateTabled": "2026-11-09T00:00:00",
+   "answeringBodyName": "Attorney General's Office"
+  },
+  {
+   "id": 1957277,
+   "uin": "HL5043",
+   "heading": "Economic Crime: Prosecutions",
+   "questionText": "To ask His Majesty's Government when the Serious Fraud Office last undertook a case for financial crime by a multinational corporate entity.",
+   "dateTabled": "2026-11-09T00:00:00",
+   "answeringBodyName": "Attorney General's Office"
+  },
+  {
+   "id": 1957278,
+   "uin": "HL5042",
+   "heading": "Corruption: Prosecutions",
+   "questionText": "To ask His Majesty's Government how many cases have been undertaken by the Serious Fraud Office for international corruption.",
+   "dateTabled": "2026-11-09T00:00:00",
+   "answeringBodyName": "Attorney General's Office"
+  }
+ ],
+ "historyComplete": true
+}

@@ -1,0 +1,167 @@
+{
+ "id": 5003,
+ "fetchedOn": "2026-11-24",
+ "core": {
+  "id": 5003,
+  "nameListAs": "Hereford, Bp.",
+  "nameDisplayAs": "The Lord Bishop of Hereford",
+  "nameFullTitle": "The Rt Rev. the Lord Bishop of Hereford",
+  "nameAddressAs": null,
+  "latestParty": {
+   "id": 3,
+   "name": "Bishops",
+   "abbreviation": "Bshp",
+   "backgroundColour": "702082",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": true,
+   "governmentType": null,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "Bishops",
+   "membershipFromId": 5,
+   "house": 2,
+   "membershipStartDate": "2023-11-15T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2023-11-15T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/5003/Thumbnail"
+ },
+ "bio": {
+  "representations": [],
+  "electionsContested": [],
+  "houseMemberships": [
+   {
+    "house": 2,
+    "name": "Lords",
+    "id": 2,
+    "startDate": "2023-11-15T00:00:00",
+    "endDate": null,
+    "additionalInfo": "The Lord Bishop of Hereford",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [],
+  "oppositionPosts": [],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 2,
+    "name": "Bishops",
+    "id": 3,
+    "startDate": "2023-11-15T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": []
+ },
+ "interests": [
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 43572,
+     "interest": "In receipt of episcopal stipend",
+     "createdWhen": "2024-01-23T14:39:35",
+     "lastAmendedWhen": "2025-04-05T00:00:00",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1006,
+   "name": "Category 3: Land and property",
+   "sortOrder": 1046,
+   "interests": [
+    {
+     "id": 47990,
+     "interest": "Property in Oxfordshire from which rental income is received",
+     "createdWhen": "2026-07-21T17:57:17",
+     "lastAmendedWhen": "2026-09-15T11:10:25.657",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [],
+ "synopsis": "The Lord Bishop of Hereford's full title is The Rt Rev. the Lord Bishop of Hereford. His name is Richard Charles Jackson, and he is a current member of the House of Lords.",
+ "history": [
+  {
+   "id": 1958098,
+   "uin": "HL5158",
+   "heading": "Farms: Tenants",
+   "questionText": "To ask His Majesty's Government what data they collect on the loss of tenanted agricultural holdings; and what the trend has been over the past decade.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1958103,
+   "uin": "HL5156",
+   "heading": "Agriculture: Crime",
+   "questionText": "To ask His Majesty's Government what estimate they have made of the annual cost of rural crime to agricultural businesses in England; and how those costs have changed since 2020.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1958101,
+   "uin": "HL5157",
+   "heading": "River Wye: Pollution Control",
+   "questionText": "To ask His Majesty's Government what formal arrangements are in place between the UK and Welsh Governments for coordinating action on water quality in the River Wye catchment; how many meetings have been held under those arrangements in the past two years",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Wales Office"
+  },
+  {
+   "id": 1958092,
+   "uin": "HL5161",
+   "heading": "River Wye: Phosphorus",
+   "questionText": "To ask His Majesty's Government what is their estimate of the change in annual phosphorus load entering the River Wye since 2020.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1960091,
+   "uin": "HL5371",
+   "heading": "Farms: Profits",
+   "questionText": "To ask His Majesty's Government what assessment they have made of trends in the profitability of tenant-farmed businesses compared with owner-occupied farm businesses over the past five years.",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1958094,
+   "uin": "HL5160",
+   "heading": "Housing: Rural Areas",
+   "questionText": "To ask His Majesty's Government how many homes have been delivered through rural exception sites in each of the past five years, by region.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1958095,
+   "uin": "HL5159",
+   "heading": "Community Development: Rural Areas",
+   "questionText": "To ask His Majesty's Government what measures they use to assess social connectedness and civic participation in rural communities; and how those measures are reflected in decisions about funding community facilities and services.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  }
+ ],
+ "historyComplete": true
+}

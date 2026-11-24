@@ -1,0 +1,668 @@
+{
+ "id": 4783,
+ "fetchedOn": "2026-11-24",
+ "core": {
+  "id": 4783,
+  "nameListAs": "Osborne, Kate",
+  "nameDisplayAs": "Kate Osborne",
+  "nameFullTitle": "Kate Osborne MP",
+  "nameAddressAs": null,
+  "latestParty": {
+   "id": 15,
+   "name": "Labour",
+   "abbreviation": "Lab",
+   "backgroundColour": "d50000",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": true,
+   "governmentType": 0,
+   "isIndependentParty": false
+  },
+  "gender": "F",
+  "latestHouseMembership": {
+   "membershipFrom": "Jarrow and Gateshead East",
+   "membershipFromId": 4122,
+   "house": 1,
+   "membershipStartDate": "2019-12-12T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2024-07-04T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/4783/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2024-05-31T00:00:00",
+    "constituencyEnd": null,
+    "house": 1,
+    "name": "Jarrow and Gateshead East",
+    "id": 4122,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "2010-04-13T00:00:00",
+    "constituencyEnd": "2024-05-30T00:00:00",
+    "house": 1,
+    "name": "Jarrow",
+    "id": 3552,
+    "startDate": "2019-12-12T00:00:00",
+    "endDate": "2024-05-30T00:00:00",
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [],
+  "houseMemberships": [
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "2019-12-12T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Kate Osborne",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [],
+  "oppositionPosts": [],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Labour",
+    "id": 15,
+    "startDate": "2019-12-12T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 1,
+    "name": "Women and Equalities Committee",
+    "id": 328,
+    "startDate": "2020-03-02T00:00:00",
+    "endDate": "2024-05-30T00:01:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Backbench Business Committee",
+    "id": 202,
+    "startDate": "2023-11-27T00:00:00",
+    "endDate": "2024-05-30T00:01:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Backbench Business Committee",
+    "id": 202,
+    "startDate": "2021-05-25T00:00:00",
+    "endDate": "2023-10-26T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "National Insurance Contributions Bill",
+    "id": 526,
+    "startDate": "2021-06-16T00:00:00",
+    "endDate": "2021-06-22T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Education Committee",
+    "id": 203,
+    "startDate": "2021-07-13T00:00:00",
+    "endDate": "2023-03-13T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Building Safety Bill",
+    "id": 535,
+    "startDate": "2021-09-09T00:00:00",
+    "endDate": "2021-10-26T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Taxi and Private Hire Vehicles (Safeguarding and Road Safety) Bill (England and Wales)",
+    "id": 550,
+    "startDate": "2021-10-27T00:00:00",
+    "endDate": "2021-11-03T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Skills and Post-16 Education [HL] Bill",
+    "id": 557,
+    "startDate": "2021-11-24T00:00:00",
+    "endDate": "2021-11-28T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Approved Premises (Substance Testing) Bill",
+    "id": 566,
+    "startDate": "2021-12-08T00:00:00",
+    "endDate": "2021-12-15T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Product Security and Telecommunications Infrastructure Bill",
+    "id": 590,
+    "startDate": "2022-03-02T00:00:00",
+    "endDate": "2022-03-22T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Worker Protection (Amendment of Equality Act 2010) Bill",
+    "id": 627,
+    "startDate": "2022-11-16T00:00:00",
+    "endDate": "2022-11-23T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Commonwealth Parliamentary Association and International Committee of the Red Cross (Status) Bill",
+    "id": 708,
+    "startDate": "2024-02-28T00:00:00",
+    "endDate": "2024-03-06T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Finance Committee (Commons)",
+    "id": 325,
+    "startDate": "2024-11-18T00:00:00",
+    "endDate": "2025-12-01T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 3,
+   "name": "2. (b) Any other support not included in Category 2(a)",
+   "sortOrder": 0,
+   "interests": [
+    {
+     "id": 16645,
+     "interest": "Name of donor: Geoff Thompson\r\nAddress of donor: private\r\nAmount of donation or nature and value if donation in kind: £4,000 donation to Kate Osborne Campaigns Ltd to support campaigns and awareness in the constituency\r\nDate received: 6 July 2026\r\nDate accepted: 6 July 2026\r\nDonor status: individual\r\n(Registered 29 July 2026)",
+     "createdWhen": "2026-08-18T09:11:22.3633333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "name": "7. (i) Shareholdings: over 15% of issued share capital",
+   "sortOrder": 1,
+   "interests": [
+    {
+     "id": 2519,
+     "interest": "Name of company or organisation: Kate Osborne Campaigns Ltd\r\nInterest held: from 6 October 2022\r\n(Registered 14 October 2022)",
+     "createdWhen": "2024-04-18T15:16:10.8033333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "name": "8. Miscellaneous",
+   "sortOrder": 2,
+   "interests": [
+    {
+     "id": 1630,
+     "interest": "Director of Kate Osborne Campaigns Ltd. This is an unpaid role.\r\nDate interest arose: 6 October 2022\r\n(Registered 14 October 2022)",
+     "createdWhen": "2024-04-18T15:14:38.76",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [],
+ "synopsis": "Kate Osborne is the Labour MP for <a href='/constituency/4122/overview'>Jarrow and Gateshead East</a>, and has been an MP continually since 12 December 2019.",
+ "history": [
+  {
+   "id": 1959579,
+   "uin": "42899",
+   "heading": "Embryos",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment she has made of the level of consistency between ICBs fertility preservation and storage policies for patients undergoing medical treatment, such as stem cell transplants and CAR-T,",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1939212,
+   "uin": "28051",
+   "heading": "Accident and Emergency Departments: Crimes of Violence",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps she is taking to help tackle violence and aggression towards Emergency Department staff.",
+   "dateTabled": "2026-09-08T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1918235,
+   "uin": "11449",
+   "heading": "Fuels: Excise Duties",
+   "questionText": "To ask the Chancellor of the Exchequer, whether her Department has made an assessment of the potential impact of extending the fuel duty freeze on CPI inflation.",
+   "dateTabled": "2026-06-19T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1907800,
+   "uin": "3307",
+   "heading": "Civil Servants: Workplace Pensions",
+   "questionText": "To ask the Minister for the Cabinet Office, what steps his Department is taking to ensure that Capita plc processes Civil Service pension cases in (a) a timely and (b) an efficient manner; and what that timeframe will be.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1907799,
+   "uin": "3306",
+   "heading": "Civil Servants: Workplace Pensions",
+   "questionText": "To ask the Minister for the Cabinet Office, what assessment he has made of the efficiency of Capita plc in processing outstanding Civil Service pension cases; and if he will provide guidance on the expected timescales within which all outstanding pension ",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1916037,
+   "uin": "9700",
+   "heading": "Travellers: Caravan Sites",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, pursuant to the Answer of 10 June to Question 6798 on Travellers: Caravan Sites, how many new Gypsy and Traveller sites and pitches have been built since September 2024.",
+   "dateTabled": "2026-06-15T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1917159,
+   "uin": "10722",
+   "heading": "Immigration",
+   "questionText": "To ask the Secretary of State for the Home Department, whether the forthcoming changes to earned settlement will preserve eligibility to apply for settlement after five years under Appendix Settlement Protection for people granted five years’ permission t",
+   "dateTabled": "2026-06-17T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1916021,
+   "uin": "9699",
+   "heading": "Fuels: Excise Duties",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment her Department has made of the potential impact of the continued freeze in fuel duty on (a) CPI inflation and (b) the cost of living.",
+   "dateTabled": "2026-06-15T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1915257,
+   "uin": "9095",
+   "heading": "Credit Reference Agencies",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of the adequacy of the length of time Credit Reference Agencies retain information on defaults; and what assessment she has made of the potential merits of limiting that length of time, ",
+   "dateTabled": "2026-06-11T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1912389,
+   "uin": "6798",
+   "heading": "Travellers: Caravan Sites",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what steps his Department has taken to implement the recommendation issued by the UN Committee on the Elimination of Racial Discrimination in 2024 to ‘ensure the provision of ade",
+   "dateTabled": "2026-06-04T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1909560,
+   "uin": "4482",
+   "heading": "Morrisons: Closures",
+   "questionText": "To ask the Secretary of State for Business and Trade, whether he has had discussions with Morrisons on its reported plans to close 100 Morrisons Daily stores, including the store on Edinburgh Road in Jarrow; and what assessment he has made of the potentia",
+   "dateTabled": "2026-05-29T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1909561,
+   "uin": "4483",
+   "heading": "Post Office: Access",
+   "questionText": "To ask the Secretary of State for Business and Trade, what assessment he has made of the effectiveness of Post Office Ltd’s franchising model in maintaining community access to Post Office services where branches are located within retail premises that su",
+   "dateTabled": "2026-05-29T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1907797,
+   "uin": "3304",
+   "heading": "Wrecks: Protection",
+   "questionText": "To ask the Secretary of State for Transport, whether she has considered using the Armed Forces Bill to clarify the legal status of maritime wrecks connected to the United Kingdom’s war effort which are not currently afforded protection comparable to milit",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1907798,
+   "uin": "3305",
+   "heading": "SS Tilawa",
+   "questionText": "To ask the Secretary of State for Transport, if she will make an assessment of the potential merits of designating the wreck of the SS Tilawa, sunk in 1942, as a protected heritage site in recognition of its status as a Commonwealth wartime loss.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1907809,
+   "uin": "3316",
+   "heading": "LGBT+ People: Equality",
+   "questionText": "To ask the Minister for Women and Equalities, whether she has made an assessment of the potential merits of publishing a strategy for improving LGBT+ equality outcomes in response to the UK’s decline in the ILGA-Europe Rainbow Europe rankings.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Women and Equalities"
+  },
+  {
+   "id": 1907808,
+   "uin": "3315",
+   "heading": "LGBT+ People: Equality",
+   "questionText": "To ask the Minister for Women and Equalities, what plans she has to work with civil society organisations to improve the UK’s ranking in future ILGA-Europe reports.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Women and Equalities"
+  },
+  {
+   "id": 1907807,
+   "uin": "3314",
+   "heading": "LGBT+ People: Equality",
+   "questionText": "To ask the Minister for Women and Equalities, what assessment she has made of the potential implications for her Department's policies of international perceptions of the UK’s record on LGBT+ rights following the latest ILGA-Europe rankings.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Women and Equalities"
+  },
+  {
+   "id": 1907806,
+   "uin": "3313",
+   "heading": "Transgender People",
+   "questionText": "To ask the Minister for Women and Equalities, with reference to the findings of the latest ILGA-Europe report, whether she plans to strengthen protections for transgender people.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Women and Equalities"
+  },
+  {
+   "id": 1907805,
+   "uin": "3312",
+   "heading": "LGBT+ People: Equality",
+   "questionText": "To ask the Minister for Women and Equalities, what assessment she has made of the potential implications for her policies of the UK’s standing in the ILGA-Europe Rainbow Europe rankings.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Women and Equalities"
+  },
+  {
+   "id": 1907804,
+   "uin": "3311",
+   "heading": "LGBT+ People: Equality",
+   "questionText": "To ask the Minister for Women and Equalities, whether she plans to introduce any measures aimed at improving legal protections for LGBT+ people following the UK’s decline in the ILGA-Europe rankings.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Women and Equalities"
+  },
+  {
+   "id": 1907803,
+   "uin": "3310",
+   "heading": "LGBT+ People: Equality",
+   "questionText": "To ask the Minister for Women and Equalities, what discussions she has had with LGBT+ organisations on reversing the UK’s decline in the ILGA-Europe rankings.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Women and Equalities"
+  },
+  {
+   "id": 1907802,
+   "uin": "3309",
+   "heading": "LGBT+ People: Equality",
+   "questionText": "To ask the Minister for Women and Equalities, what steps she is taking to improve the UK’s position in the ILGA-Europe Rainbow Europe rankings.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Women and Equalities"
+  },
+  {
+   "id": 1907801,
+   "uin": "3308",
+   "heading": "LGBT+ People: Equality",
+   "questionText": "To ask the Minister for Women and Equalities, what assessment she has made of the reasons for the UK’s decline in the ILGA-Europe Rainbow Europe rankings.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Women and Equalities"
+  },
+  {
+   "id": 1902190,
+   "uin": "129195",
+   "heading": "Schools: Rugby",
+   "questionText": "To ask the Secretary of State for Education, what guidance her Department provides to schools on ensuring that rugby programmes and school competitions are inclusive of LGBTQ+ pupils.",
+   "dateTabled": "2026-04-22T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1902191,
+   "uin": "129196",
+   "heading": "Young People: Rugby",
+   "questionText": "To ask the Secretary of State for Education, what steps are being taken to address reports of homophobic bullying and exclusionary cultures in school and youth rugby.",
+   "dateTabled": "2026-04-22T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1902193,
+   "uin": "129198",
+   "heading": "Rugby: LGBT+ People",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, how does the Government plan to support the development of inclusive frameworks that respect both participation rights and competitive fairness for the LGBTQ+ community in rugby union.",
+   "dateTabled": "2026-04-22T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1902192,
+   "uin": "129197",
+   "heading": "Rugby: LGBT+ People",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what engagement the Government Equalities Office has had with rugby governing bodies regarding their inclusion policies for transgender and non-binary players.",
+   "dateTabled": "2026-04-22T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1902187,
+   "uin": "129192",
+   "heading": "Rugby: LGBT+ People",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what steps her Department is taking to help ensure that UK Sport and Sport England's funding conditions require the Rugby Football Union and other rugby governing bodies to (a) demonstrate measur",
+   "dateTabled": "2026-04-22T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1902189,
+   "uin": "129194",
+   "heading": "Rugby: Hate Crime",
+   "questionText": "To ask the Secretary of State for the Home Department, what discussions she has had with the Rugby Football Union, Premiership Rugby and the police on the adequacy of current hate crime reporting mechanisms within professional and grassroots rugby.",
+   "dateTabled": "2026-04-22T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1902188,
+   "uin": "129193",
+   "heading": "Rugby: Hate Crime",
+   "questionText": "To ask the Secretary of State for the Home Department, what discussions she has had with the Rugby Football Union, Premiership Rugby and the police regarding the recording and prosecution of homophobic abuse at rugby matches.",
+   "dateTabled": "2026-04-22T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1896938,
+   "uin": "124922",
+   "heading": "NHS: Migrant Workers",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether he has had discussions with the Secretary of State for the Home Department on public service exemptions for Earned Settlement proposals.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1896937,
+   "uin": "124921",
+   "heading": "NHS: Migrant Workers",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether he has made an estimate of the potential cost to the NHS from Earned Settlement proposals.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1889896,
+   "uin": "908226",
+   "heading": "Equality: Codes of Practice",
+   "questionText": "To ask the Minister for Women and Equalities, what recent assessment she has made of the adequacy of the Equality and Human Rights Commission's draft Code of Practice on services, public functions and associations.",
+   "dateTabled": "2026-03-05T00:00:00",
+   "answeringBodyName": "Women and Equalities"
+  },
+  {
+   "id": 1882783,
+   "uin": "114048",
+   "heading": "Tobacco: Excise Duties",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the answer of 12 February 2026 to UIN 111207, what assessment her Department has made of the potential impact of applying the £2.20 one-off tobacco duty increase in addition to the RPI+2% escalator on CP",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1882784,
+   "uin": "114049",
+   "heading": "Tobacco: Excise Duties",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the answer of 12 February 2026 to UIN 111208, whether tobacco duty increases since October 2024 and the application of the RPI+2% tobacco duty escalator will preserve the retail price differential betwee",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1879663,
+   "uin": "111835",
+   "heading": "Football: Women",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what assessment she has made of the potential impact of the proposed changes to the Women’s FA Cup on (a) domestic women’s leagues, (b) player welfare and (c) fans.",
+   "dateTabled": "2026-02-09T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1879662,
+   "uin": "111834",
+   "heading": "Football: Women",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what discussions she has had with the Football Supporters Association regarding proposed changes to the Women’s FA Cup.",
+   "dateTabled": "2026-02-09T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1879661,
+   "uin": "111833",
+   "heading": "Football: Women",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what discussions she has had with the FA regarding proposed changes to the Women’s FA Cup.",
+   "dateTabled": "2026-02-09T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1878918,
+   "uin": "111208",
+   "heading": "Tobacco: Excise Duties",
+   "questionText": "To ask the Chancellor of the Exchequer, whether her Department has made an assessment of the potential impact of applying only one of the (a) RPI-linked uprating and (b) one-off tobacco duty increase scheduled to take effect from 1 October 2026 on inflati",
+   "dateTabled": "2026-02-05T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1878917,
+   "uin": "111207",
+   "heading": "Tobacco: Excise Duties",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment her Department has made of the potential impact of the Office for Budget Responsibility’s assessment of the impact of tobacco prices on CPI inflation in December 2025 on her (a) plan to apply an upra",
+   "dateTabled": "2026-02-05T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1962965,
+   "uin": "45637",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Defence, if he will publish (a) the revised JSP 889 and (b) its accompanying equality impact assessment.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1962962,
+   "uin": "45634",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Defence, what consultation his Department undertook with (a) transgender service personnel and (b) Armed Forces LGBT+ staff networks on the accommodation provisions of the revised JSP 889 before its implementation.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1962960,
+   "uin": "45632",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Defence, what steps he is taking to ensure that the availability of appropriate accommodation and sanitary facilities does not impact transgender service personnel’s access to (a) postings, (b) training courses, (c) promo",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1962958,
+   "uin": "45630",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Defence, how many service personnel have been required to change accommodation as a result of the revised JSP 889, broken down by Service, subject to safeguards against identifying individuals.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1962956,
+   "uin": "45628",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Defence, what safeguards his Department has put in place to prevent accommodation moves or changes to access to facilities under the revised JSP 889 from disclosing a serviceperson’s transgender status without their conse",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1962954,
+   "uin": "45626",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Defence, what process is used to assess whether accommodation offered to a transgender serviceperson under the revised JSP 889 is suitable for that individual; and in what way the serviceperson’s views and welfare needs a",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1962952,
+   "uin": "45624",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Defence, what arrangements commanding officers are required to make where accommodation and facilities previously used by a transgender serviceperson are no longer permitted under the revised JSP 889 and suitable alternat",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1962949,
+   "uin": "45621",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Defence, whether his Department assessed the availability of suitable accommodation and sanitary facilities for transgender service personnel at each affected Defence establishment before implementing the revised JSP 889.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1962948,
+   "uin": "45620",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Defence, what minimum standards his Department requires accommodation allocated to transgender service personnel under the revised JSP 889 to meet in respect of (a) privacy, (b) security, (c) access to toilets and washing",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1903514,
+   "uin": "130123",
+   "heading": "SS Tilawa",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, if she will take diplomatic steps to encourage the Government of Japan to (a) acknowledge the sinking of the SS Tilawa in 1942 and (b) provide goodwill closure to known survi",
+   "dateTabled": "2026-04-28T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  }
+ ],
+ "historyComplete": true
+}

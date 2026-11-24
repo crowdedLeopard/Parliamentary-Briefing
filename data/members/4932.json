@@ -1,0 +1,1831 @@
+{
+ "id": 4932,
+ "fetchedOn": "2026-11-24",
+ "core": {
+  "id": 4932,
+  "nameListAs": "French, Mr Louie",
+  "nameDisplayAs": "Mr Louie French",
+  "nameFullTitle": "Mr Louie French MP",
+  "nameAddressAs": null,
+  "latestParty": {
+   "id": 4,
+   "name": "Conservative",
+   "abbreviation": "Con",
+   "backgroundColour": "0063ba",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": false,
+   "governmentType": 3,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "Old Bexley and Sidcup",
+   "membershipFromId": 4229,
+   "house": 1,
+   "membershipStartDate": "2021-12-02T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2024-07-04T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/4932/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2024-05-31T00:00:00",
+    "constituencyEnd": null,
+    "house": 1,
+    "name": "Old Bexley and Sidcup",
+    "id": 4229,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "2010-04-13T00:00:00",
+    "constituencyEnd": "2024-05-30T00:00:00",
+    "house": 1,
+    "name": "Old Bexley and Sidcup",
+    "id": 3669,
+    "startDate": "2021-12-02T00:00:00",
+    "endDate": "2024-05-30T00:00:00",
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [
+   {
+    "house": 1,
+    "name": "Eltham",
+    "id": 3473,
+    "startDate": "2019-12-12T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "houseMemberships": [
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "2021-12-02T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Mr Louie French",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [],
+  "oppositionPosts": [
+   {
+    "house": 1,
+    "name": "Shadow Minister (Digital, Culture, Media and Sport)",
+    "id": 1753,
+    "startDate": "2026-08-31T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Department for Digital, Culture, Media and Sport",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-digital-culture-media-and-sport"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Minister (Culture, Media and Sport)",
+    "id": 958,
+    "startDate": "2025-07-22T00:00:00",
+    "endDate": "2026-08-31T00:00:00",
+    "additionalInfo": "Department for Culture, Media and Sport",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-culture-media-sport"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Parliamentary Under Secretary (Culture, Media and Sport)",
+    "id": 1682,
+    "startDate": "2024-07-19T00:00:00",
+    "endDate": "2025-07-22T00:00:00",
+    "additionalInfo": "Department for Culture, Media and Sport",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-culture-media-sport"
+   }
+  ],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Conservative",
+    "id": 4,
+    "startDate": "2021-12-02T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 1,
+    "name": "Public Service Pensions and Judicial Offices Bill [HL]",
+    "id": 578,
+    "startDate": "2022-01-19T00:00:00",
+    "endDate": "2022-01-27T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Pension Schemes (Conversion of Guaranteed Minimum Pensions) Bill",
+    "id": 584,
+    "startDate": "2022-01-26T00:00:00",
+    "endDate": "2022-02-02T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Public Accounts Committee",
+    "id": 127,
+    "startDate": "2022-03-15T00:00:00",
+    "endDate": "2023-06-26T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Procurement Bill [HL]",
+    "id": 643,
+    "startDate": "2023-01-25T00:00:00",
+    "endDate": "2023-02-21T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Veterans Advisory and Pensions Committees Bill",
+    "id": 659,
+    "startDate": "2023-03-08T00:00:00",
+    "endDate": "2023-03-15T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Football Governance Bill [HL]",
+    "id": 795,
+    "startDate": "2025-05-14T00:00:00",
+    "endDate": "2025-06-17T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Sporting Events Bill",
+    "id": 845,
+    "startDate": "2026-10-15T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 3,
+   "name": "2. (a) Support linked to an MP but received by a local party organisation or indirectly via a central party organisation",
+   "sortOrder": 0,
+   "interests": [
+    {
+     "id": 15015,
+     "interest": "Name of donor: Andrew Dawber\r\nAddress of donor: private\r\nAmount of donation or nature and value if donation in kind: £3,000 donation to my local association\r\nDonor status: individual\r\n(Registered 15 April 2026)",
+     "createdWhen": "2026-04-29T09:39:41.7733333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "name": "3. Gifts, benefits and hospitality from UK sources",
+   "sortOrder": 1,
+   "interests": [
+    {
+     "id": 13723,
+     "interest": "Name of donor: Ascot Racecourse\r\nAddress of donor: High Street, Ascot SL5 7JX\r\nAmount of donation or nature and value if donation in kind: Ticket to Ascot and lunch with representatives of Ascot and British Horseracing as the Shadow Minister for Sport, value £250\r\nDate received: 18 October 2025\r\nDate accepted: 18 October 2025\r\nDonor status: company, registration 04320977\r\n(Registered 3 November 2025)",
+     "createdWhen": "2025-11-04T15:55:03.5533333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 14418,
+     "interest": "Name of donor: The Professional Darts Corporation\r\nAddress of donor: PDC, Mascalls Lane, Brentwood, Essex CM14 5LJ\r\nAmount of donation or nature and value if donation in kind: Two tickets with hospitality to the PDC World Championship Final as part of Shadow Sports Minister role, value £2,000\r\nDate received: 3 January 2026\r\nDate accepted: 3 January 2026\r\nDonor status: company, registration 03473679\r\n(Registered 27 January 2026)",
+     "createdWhen": "2026-02-03T11:19:52.3066667",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 16406,
+     "interest": "Name of donor: The Lawn Tennis Association\r\nAddress of donor: The National Tennis Centre 100 Priory Lane, Roehampton, London SW15 5JQ\r\nAmount of donation or nature and value if donation in kind: Two tickets, including hospitality, to Wimbledon as part of the Shadow Sports Minister role with Lawn Tennis Association to discuss British tennis, value £1,600\r\nDate received: 9 July 2026\r\nDate accepted: 9 July 2026\r\nDonor status: company, registration 07459469\r\n(Registered 16 July 2026)",
+     "createdWhen": "2026-08-18T09:10:47.44",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 16871,
+     "interest": "Name of donor: European Athletics Championships Ventures LLP\r\nAddress of donor: 190 Great Dover Street, London SE1 4YB\r\nAmount of donation or nature and value if donation in kind: Two hospitality area tickets to support the European Athletics Championships as the Shadow Minister for Sport, value £600\r\nDate received: 10 August 2026\r\nDate accepted: 10 August 2026\r\nDonor status: limited liability partnership\r\n(Registered 1 September 2026)",
+     "createdWhen": "2026-09-17T14:39:02.8723235",
+     "lastAmendedWhen": "2026-09-08T08:55:29.0066667",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "name": "4. Visits outside the UK",
+   "sortOrder": 2,
+   "interests": [
+    {
+     "id": 13730,
+     "interest": "Name of donor: European Leaders Network (ELNET) UK\r\nAddress of donor: 4th Floor, 6 Princes Street, London W1B 2LG\r\nEstimate of the probable value (or amount of any donation): Cost includes hotel, travel and meals, value £1,150\r\nDestination of visit: Estonia\r\nDates of visit: 12 October 2025 to 15 October 2025\r\nPurpose of visit: Cross Party delegation to Estonia to discuss defence and NATO.\r\n(Registered 3 November 2025)",
+     "createdWhen": "2025-11-04T15:55:03.5533333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "name": "8. Miscellaneous",
+   "sortOrder": 3,
+   "interests": [
+    {
+     "id": 1943,
+     "interest": "Shareholding below registrable threshold in Tilney Smith & Williamson (wealth management). This was linked to previous employment before entering Parliament.\r\nDate interest ended: 30 June 2026\r\n(Registered 31 December 2021; updated 2 July 2026)",
+     "createdWhen": "2026-07-14T09:29:28.21",
+     "lastAmendedWhen": "2024-04-18T15:15:56.6866667",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [],
+ "synopsis": "Mr Louie French is the Conservative MP for <a href='/constituency/4229/overview'>Old Bexley and Sidcup</a>, and has been an MP continually since 2 December 2021. \r\nHe currently undertakes the role of Shadow Minister (Digital, Culture, Media and Sport).",
+ "history": [
+  {
+   "id": 1959351,
+   "uin": "42671",
+   "heading": "Scotland Office: Travel",
+   "questionText": "To ask the Secretary of State for Scotland, how much his Department spent on travel for (a) staff and (b) Ministers broken down by (i) within the UK and (ii) overseas trips in the 2024-25 financial year.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Scotland Office"
+  },
+  {
+   "id": 1960797,
+   "uin": "43856",
+   "heading": "Wheelchairs",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment her department has made of the impact of delays in wheelchair provision on (a) hospital discharge and (b) demand for social care.",
+   "dateTabled": "2026-11-17T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1960796,
+   "uin": "43855",
+   "heading": "Wheelchairs",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment her department has made of the extent to which integrated care boards have implemented the Wheelchair Quality Framework.",
+   "dateTabled": "2026-11-17T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1960795,
+   "uin": "43854",
+   "heading": "Wheelchairs",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether she will publish a breakdown by integrated care board of the proportion of wheelchair service users who received equipment within 18 weeks in the latest period for which data is available.",
+   "dateTabled": "2026-11-17T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1959346,
+   "uin": "42666",
+   "heading": "Home Office: Travel",
+   "questionText": "To ask the Secretary of State for the Home Department, how much her Department spent on travel for (a) staff and (b) Ministers broken down by (i) within the UK and (ii) overseas trips in the 2024-25 financial year.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1959343,
+   "uin": "42663",
+   "heading": "Department of Health and Social Care: Travel",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how much her Department spent on travel for (a) staff and (b) Ministers broken down by (i) within the UK and (ii) overseas trips in the 2024-25 financial year.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1959345,
+   "uin": "42665",
+   "heading": "Treasury: Travel",
+   "questionText": "To ask the Chancellor of the Exchequer, how much his Department spent on travel for (a) staff and (b) Ministers broken down by (i) within the UK and (ii) overseas trips in the 2024-25 financial year.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1959349,
+   "uin": "42669",
+   "heading": "Ministry of Justice: Travel",
+   "questionText": "To ask the Secretary of State for Justice, how much his Department spent on travel for (a) staff and (b) Ministers broken down by (i) within the UK and (ii) overseas trips in the 2024-25 financial year.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1959347,
+   "uin": "42667",
+   "heading": "Ministry of Defence: Travel",
+   "questionText": "To ask the Secretary of State for Defence, how much his Department spent on travel for (a) staff and (b) Ministers broken down by (i) within the UK and (ii) overseas trips in the 2024-25 financial year.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1959350,
+   "uin": "42670",
+   "heading": "Northern Ireland Office: Travel",
+   "questionText": "To ask the Secretary of State for Northern Ireland, how much his Department spent on travel for (a) staff and (b) Ministers broken down by (i) within the UK and (ii) overseas trips in the 2024-25 financial year.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Northern Ireland Office"
+  },
+  {
+   "id": 1959338,
+   "uin": "42658",
+   "heading": "Department for Education: Travel",
+   "questionText": "To ask the Secretary of State for Education, how much her Department spent on travel for (a) staff and (b) Ministers broken down by (i) within the UK and (ii) overseas trips in the 2024-25 financial year.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1959339,
+   "uin": "42659",
+   "heading": "Department for Energy Security and Net Zero: Travel",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, how much her Department spent on travel for (a) staff and (b) Ministers broken down by (i) within the UK and (ii) overseas trips in the 2024-25 financial year.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1959344,
+   "uin": "42664",
+   "heading": "Foreign, Commonwealth and Development Office: Travel",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, how much his Department spent on travel for (a) staff and (b) Ministers broken down by (i) within the UK and (ii) overseas trips in the 2024-25 financial year.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1959315,
+   "uin": "42635",
+   "heading": "Electric Bicycles and Electric Scooters: Visual Impairment",
+   "questionText": "To ask the Secretary of State for Transport, what steps she is taking to ensure that the increasing number of e-bikes and e-scooters does not adversely affect the ability of people with sight loss to navigate and use the streets safely.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1959352,
+   "uin": "42672",
+   "heading": "Wales Office: Travel",
+   "questionText": "To ask the Secretary of State for Wales, how much his Department spent on travel for (a) staff and (b) Ministers broken down by (i) within the UK and (ii) overseas trips in the 2024-25 financial year.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Wales Office"
+  },
+  {
+   "id": 1945413,
+   "uin": "31738",
+   "heading": "Home Office: Hotels",
+   "questionText": "To ask the Secretary of State for the Home Department, how much her Department spent on hotel accommodation for (a) staff and (b) Ministers broken down by (i) UK stays and (ii) overseas stays in the 2024-25 financial year.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1959335,
+   "uin": "42655",
+   "heading": "Wheelchairs",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps her Department is taking to reduce wait times for NHS wheelchair services.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1959314,
+   "uin": "42634",
+   "heading": "Active Travel",
+   "questionText": "To ask the Secretary of State for Transport, what steps her Department is taking to ensure new active travel policies include the views of people with sight loss.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1947233,
+   "uin": "33361",
+   "heading": "Cabinet Office: Hotels",
+   "questionText": "To ask the Minister for the Cabinet Office, how much her Department spent on hotel accommodation for (a) staff and (b) Ministers broken down by (i) UK stays and (ii) overseas stays in the 2024-25 financial year.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1946833,
+   "uin": "32962",
+   "heading": "Department of Health and Social Care: Hotels",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how much their Department spent on hotel accommodation for (a) staff and (b) Ministers broken down by (i) UK stays and (ii) overseas stays in the 2024-25 financial year.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1945222,
+   "uin": "31340",
+   "heading": "Department for Environment, Food and Rural Affairs: Hotels",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, how much their Department spent on hotel accommodation for (a) staff and (b) Ministers broken down by (i) UK stays and (ii) overseas stays in the 2024-25 financial year.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1954130,
+   "uin": "38741",
+   "heading": "Scotland Office: Hotels",
+   "questionText": "To ask the Secretary of State for Scotland, how much his department has spent on accommodation for staff of agencies and other public bodies sponsored by his department, broken down by (i) UK stays and (ii) overseas stays in the 2024-25 financial year.",
+   "dateTabled": "2026-10-28T00:00:00",
+   "answeringBodyName": "Scotland Office"
+  },
+  {
+   "id": 1944211,
+   "uin": "30515",
+   "heading": "Department for Business, Innovation, Science and Trade: Hotels",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, how much their Department spent on hotel accommodation for (a) staff and (b) Ministers broken down by (i) UK stays and (ii) overseas stays in the 2024-25 financial year.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1954128,
+   "uin": "38739",
+   "heading": "Ministry of Justice: Hotels",
+   "questionText": "To ask the Secretary of State for Justice, how much his department has spent on accommodation for staff of agencies and other public bodies sponsored by his department, broken down by (i) UK stays and (ii) overseas stays in the 2024-25 financial year.",
+   "dateTabled": "2026-10-28T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1954129,
+   "uin": "38740",
+   "heading": "Northern Ireland Office: Hotels",
+   "questionText": "To ask the Secretary of State for Northern Ireland, how much his department has spent on accommodation for staff of agencies and other public bodies sponsored by his department, broken down by (i) UK stays and (ii) overseas stays in the 2024-25 financial ",
+   "dateTabled": "2026-10-28T00:00:00",
+   "answeringBodyName": "Northern Ireland Office"
+  },
+  {
+   "id": 1953210,
+   "uin": "37998",
+   "heading": "A20: Road Traffic Offences",
+   "questionText": "To ask the Secretary of State for Transport, what information her Department holds on the number of (a) fines and (b) points issued on the A20 near Sidcup between 1 October 2023 to 31 October 2024.",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1954442,
+   "uin": "39053",
+   "heading": "Football: Regulation",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what comparative assessment her Department has made of the value for money of (a) the Football Regulator's first year operating costs with (b) the forecast operating costs set out by Gov",
+   "dateTabled": "2026-10-28T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1954433,
+   "uin": "39044",
+   "heading": "Football: Regulation",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, a) over what time period does she expect the Football Regulator to repay its £45m initial costs covered by Government, and b) if she will provide the breakdown of how much she expects ea",
+   "dateTabled": "2026-10-28T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1953201,
+   "uin": "37989",
+   "heading": "Pedestrian Crossings: Schools",
+   "questionText": "To ask the Secretary of State for Transport, what support she is providing local authorities to help them expand zebra crossings outside schools.",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1953211,
+   "uin": "37999",
+   "heading": "A20: Road Traffic Offences",
+   "questionText": "To ask the Secretary of State for the Home Department, what information her Department holds on the number of (a) Notice of Intended Prosecution, (b) fines and (c) points issued by the police on the A20 near Sidcup between 1 October 2023 and 31 October 20",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1945410,
+   "uin": "31736",
+   "heading": "No 10 North: Visitor Levy",
+   "questionText": "To ask the Minister for the Cabinet Office, whether she has made an estimate of the potential cost of and overnight visitor levy to the operations of Number 10 North.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1946222,
+   "uin": "32528",
+   "heading": "Northern Ireland Office: Hotels",
+   "questionText": "To ask the Secretary of State for Northern Ireland, how much his Department spent on hotel accommodation for (a) staff and (b) Ministers broken down by (i) UK stays and (ii) overseas stays in the 2024-25 financial year.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Northern Ireland Office"
+  },
+  {
+   "id": 1945223,
+   "uin": "31341",
+   "heading": "Ministry of Justice: Hotels",
+   "questionText": "To ask the Secretary of State for Justice, how much his Department spent on hotel accommodation for (a) staff and (b) Ministers broken down by (i) UK stays and (ii) overseas stays in the 2024-25 financial year.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1949655,
+   "uin": "35300",
+   "heading": "Visits Abroad: India",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, if he will disclose the financial arrangements for the business delegation to India, including who paid for representatives of Manchester City FC to attend; and whether Manchester ",
+   "dateTabled": "2026-10-15T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1947237,
+   "uin": "33363",
+   "heading": "Scotland Office: Hotels",
+   "questionText": "To ask the Secretary of State for Scotland, how much his Department spent on hotel accommodation for (a) staff and (b) Ministers broken down by (i) UK stays and (ii) overseas stays in the 2024-25 financial year.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Scotland Office"
+  },
+  {
+   "id": 1946220,
+   "uin": "32526",
+   "heading": "Department for Education: Hotels",
+   "questionText": "To ask the Secretary of State for Education, how much their Department spent on hotel accommodation for (a) staff and (b) Ministers broken down by (i) UK stays and (ii) overseas stays in the 2024-25 financial year.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1949277,
+   "uin": "35064",
+   "heading": "Department for Digital, Culture, Media and Sport: Manchester City FC",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, whether her Department has taken legal advice on the football regulator's ability to adjudicate on any case involving Manchester City Football Club; and if she will publish it.",
+   "dateTabled": "2026-10-14T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1946190,
+   "uin": "32525",
+   "heading": "Knives: Crime",
+   "questionText": "To ask the Secretary of State for the Home Department, whether she has had discussions with the Mayor of London on bringing the Knife Angel to London.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1945391,
+   "uin": "31735",
+   "heading": "Extracurricular Activities",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what discussions she has had with the Secretary of State for Education on how her Department will measure how the Enrichment Expansion Programme delivers against the Enrichment Framework",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1949265,
+   "uin": "35052",
+   "heading": "Department for Digital, Culture, Media and Sport: Manchester City FC",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what involvement or assistance her ministers, officials and special advisers had in the meeting between Manchester City Chairman Khaldoon Al Mubarak and the Secretary of State for Busine",
+   "dateTabled": "2026-10-14T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1949257,
+   "uin": "35044",
+   "heading": "Department for Digital, Culture, Media and Sport: Manchester City FC",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, whether Ministers, officials and special advisers in her Department have ever received any donations, gifts, hospitality or paid employment linked to Manchester City Football Club.",
+   "dateTabled": "2026-10-14T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1949247,
+   "uin": "35034",
+   "heading": "Department for Digital, Culture, Media and Sport: Manchester City FC",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, when (a) she, (b) Ministers, (c) officials and (d) special advisers in her Department last met (i) representatives and (ii) associates of Manchester City Football Club.",
+   "dateTabled": "2026-10-14T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1946221,
+   "uin": "32527",
+   "heading": "Department for Energy Security and Net Zero: Hotels",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, how much their Department spent on hotel accommodation for (a) staff and (b) Ministers broken down by (i) UK stays and (ii) overseas stays in the 2024-25 financial year.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1949240,
+   "uin": "35027",
+   "heading": "Department for Digital, Culture, Media and Sport: Independent Football Regulator",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, when (a) she, (b) Ministers, (c) officials and (d) special advisers in her Department last met the football regulator.",
+   "dateTabled": "2026-10-14T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1945817,
+   "uin": "32126",
+   "heading": "Department for Work and Pensions: Hotels",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how much their Department spent on hotel accommodation for (a) staff and (b) Ministers broken down by (i) UK stays and (ii) overseas stays in the 2024-25 financial year.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1945412,
+   "uin": "31737",
+   "heading": "Foreign, Commonwealth and Development Office: Hotels",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, how much their Department spent on hotel accommodation for (a) staff and (b) Ministers broken down by (i) UK stays and (ii) overseas stays in the 2024-25 financial year.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1944213,
+   "uin": "30516",
+   "heading": "Ministry of Defence: Hotels",
+   "questionText": "To ask the Secretary of State for Defence, how much his Department spent on hotel accommodation for (a) staff and (b) Ministers broken down by (i) UK stays and (ii) overseas stays in the 2024-25 financial year.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1945815,
+   "uin": "32124",
+   "heading": "Attorney General's Office: Hotels",
+   "questionText": "To ask the Attorney General, how much their Department spent on hotel accommodation for (a) staff and (b) Ministers broken down by (i) UK stays and (ii) overseas stays in the 2024-25 financial year.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Attorney General's Office"
+  },
+  {
+   "id": 1944618,
+   "uin": "30934",
+   "heading": "Treasury: Hotels",
+   "questionText": "To ask the Chancellor of the Exchequer, how much his Department spent on hotel accommodation for (a) staff and (b) Ministers broken down by (i) UK stays and (ii) overseas stays in the 2024-25 financial year.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1947238,
+   "uin": "33364",
+   "heading": "Wales Office: Hotels",
+   "questionText": "To ask the Secretary of State for Wales, how much his Department spent on hotel accommodation for (a) staff and (b) Ministers broken down by (i) UK stays and (ii) overseas stays in the 2024-25 financial year.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Wales Office"
+  },
+  {
+   "id": 1940176,
+   "uin": "28864",
+   "heading": "Students: Finance",
+   "questionText": "To ask the Secretary of State for Education, what steps her Department is taking to ensure that reforms to student finance, including the Lifelong Learning Entitlement and maintenance support, support skills development for the creative industries.",
+   "dateTabled": "2026-09-10T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1940178,
+   "uin": "28866",
+   "heading": "Undocumented Workers: Fines",
+   "questionText": "To ask the Secretary of State for the Home Department, what assessment she has made of trends in the level of businesses issued with fines for employing illegal workers (a) dissolving and (b) liquidating before fines are paid.",
+   "dateTabled": "2026-09-10T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1940174,
+   "uin": "28862",
+   "heading": "Deportation",
+   "questionText": "To ask the Secretary of State for the Home Department, what steps she is taking to ensure that those who have had asylum claims rejected are removed from the United Kingdom; and what percentage of rejected claimants have been removed from the UK since Jul",
+   "dateTabled": "2026-09-10T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1940172,
+   "uin": "28860",
+   "heading": "Immigration",
+   "questionText": "To ask the Secretary of State for the Home Department, what she defines as immigration pull factors to the United Kingdom; and what steps she is taking to remove those pull factors.",
+   "dateTabled": "2026-09-10T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1940269,
+   "uin": "28867",
+   "heading": "Bereavement: Parents",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what assessment he has made of the adequacy of the level of financial support available to bereaved parents.",
+   "dateTabled": "2026-09-10T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1940173,
+   "uin": "28861",
+   "heading": "Public Consultation: Expenditure",
+   "questionText": "To ask the Minister for the Cabinet Office, how much HM Government has spent on consultations since 4 July 2024.",
+   "dateTabled": "2026-09-10T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1940175,
+   "uin": "28863",
+   "heading": "Government",
+   "questionText": "To ask the Minister for the Cabinet Office, how many Government (a) announcements, (b) initiatives and (c) funding decisions have been delayed beyond their initial deadline since 4 July 2024.",
+   "dateTabled": "2026-09-10T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1940170,
+   "uin": "28859",
+   "heading": "Roads",
+   "questionText": "To ask the Secretary of State for Transport, what assessment she has made of the impact of the weight of (a) fuel-powered vehicles and (b) electric-powered vehicles on the United Kingdom's road network.",
+   "dateTabled": "2026-09-10T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1940177,
+   "uin": "28865",
+   "heading": "Tax Yields: Greater London and South East",
+   "questionText": "To ask the Chancellor of the Exchequer, how much of the tax take is generated by London and the South East.",
+   "dateTabled": "2026-09-10T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1940156,
+   "uin": "28855",
+   "heading": "Greyhound Racing",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what assessment she has made of the economic and social contribution of greyhound racing in (a) England, (b) Scotland, (c) Wales and (d) Northern Ireland.",
+   "dateTabled": "2026-09-10T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1940169,
+   "uin": "28858",
+   "heading": "Motorcycles: Excise Duties",
+   "questionText": "To ask the Chancellor of the Exchequer, for what reason Vehicle Excise Duty for motorcycles is calculated on engine size rather than vehicle weight; and if he will make it his policy to commission a review of motorcycle VED.",
+   "dateTabled": "2026-09-10T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1940155,
+   "uin": "28854",
+   "heading": "Surgery: Training",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether her Department has plans to replace Training Interface Group fellowships with an alternative national training pathway for surgeons specialising in complex multidisciplinary fields such as ",
+   "dateTabled": "2026-09-10T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1940154,
+   "uin": "28853",
+   "heading": "Surgery: Training",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment her Department has made of the potential impact of the withdrawal of national funding and coordination for Training Interface Group fellowships on the future workforce of surgeons t",
+   "dateTabled": "2026-09-10T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1940158,
+   "uin": "28857",
+   "heading": "Motorcycles: Driving Licences",
+   "questionText": "To ask the Secretary of State for Transport, if she will make an estimate of the number of Compulsory Basic Training certificates for motorcycle riders renewed by the DVSA in (a) 2023, (b) 2024 and (c) 2025.",
+   "dateTabled": "2026-09-10T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1940157,
+   "uin": "28856",
+   "heading": "Motorcycles: Driving Licences",
+   "questionText": "To ask the Secretary of State for Transport, if she will make an estimate of the number of Compulsory Basic Training certificates for motorcycle riders issued by or linked to the DVSA in (a) 2023, (b) 2024 and (c) 2025.",
+   "dateTabled": "2026-09-10T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1936801,
+   "uin": "26182",
+   "heading": "Brain: Tumours",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps she is taking to increase Government funding for research to improve outcomes for brain tumour patients.",
+   "dateTabled": "2026-09-01T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1937293,
+   "uin": "26666",
+   "heading": "Community Amateur Sports Clubs Scheme",
+   "questionText": "To ask the Chancellor of the Exchequer, how much revenue HM Treasury raised from Community Amateur Sports Clubs in the last financial year.",
+   "dateTabled": "2026-09-02T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1937292,
+   "uin": "26665",
+   "heading": "Community Amateur Sports Clubs Scheme",
+   "questionText": "To ask the Chancellor of the Exchequer, if he will undertake a review of the Community Amateur Sports Club threshold.",
+   "dateTabled": "2026-09-02T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1922321,
+   "uin": "14461",
+   "heading": "Offenders: Deportation",
+   "questionText": "To ask the Secretary of State for the Home Department, how many (a) foreign national offenders and (b) immediate family members of foreign national offenders were removed from the UK under the Facilitated Return Scheme in the last 12 months.",
+   "dateTabled": "2026-06-30T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1922320,
+   "uin": "14460",
+   "heading": "Offenders: Deportation",
+   "questionText": "To ask the Secretary of State for the Home Department, how much was paid to to (a) foreign national offenders and (b) immediate family members of foreign national offenders removed from the UK under the Facilitated Return Scheme in the last 12 months.",
+   "dateTabled": "2026-06-30T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1917465,
+   "uin": "10764",
+   "heading": "Driving Licences",
+   "questionText": "To ask the Secretary of State for Transport, what estimate she has made of the number of drivers using learner driver plates to work.",
+   "dateTabled": "2026-06-17T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1914229,
+   "uin": "8239",
+   "heading": "Offenders: Electronic Tagging",
+   "questionText": "To ask the Secretary of State for Justice, what assessment he has made of the adequacy of the current system of electronic monitoring of offenders.",
+   "dateTabled": "2026-06-09T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1914228,
+   "uin": "8238",
+   "heading": "Offenders: Electronic Tagging",
+   "questionText": "To ask the Secretary of State for Justice, if he will make an estimate of the number of offenders in the electronic monitoring cohort that were unmonitored in (a) May 2024-May 2025, and (b) May 2025-May 2026.",
+   "dateTabled": "2026-06-09T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1914227,
+   "uin": "8237",
+   "heading": "Offenders: Electronic Tagging",
+   "questionText": "To ask the Secretary of State for Justice, if he will make an estimate of the number of offenders in the electronic monitoring cohort in (a) May 2024-May 2025, and (b) May 2025-May 2026.",
+   "dateTabled": "2026-06-09T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1914226,
+   "uin": "8236",
+   "heading": "Football: Sportsgrounds",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what assessment she has made of the adequacy of the safety of artificial grass football pitches.",
+   "dateTabled": "2026-06-09T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1892377,
+   "uin": "121822",
+   "heading": "Back Pain and Musculoskeletal Disorders: Old Bexley and Sidcup",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps he is taking to help support people with (a) Musculoskeletal conditions and (b) back pain conditions in Old Bexley and Sidcup constituency; and if he will make it his policy to utilise c",
+   "dateTabled": "2026-03-18T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1892371,
+   "uin": "121816",
+   "heading": "Offensive Weapons: Crime",
+   "questionText": "To ask the Secretary of State for the Home Department, what steps she is taking to help reduce crimes committed with catapults, especially against animals.",
+   "dateTabled": "2026-03-18T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1892370,
+   "uin": "121815",
+   "heading": "Business: Taxation",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of the potential impact of (a) business rates and (b) other property-based business taxation on town centres and high streets.",
+   "dateTabled": "2026-03-18T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1892376,
+   "uin": "121821",
+   "heading": "London Underground: Strikes",
+   "questionText": "To ask the Secretary of State for Transport, what assessment she has made of the (a) potential economic impact and (b) potential financial impact of the proposed industrial action by London Underground drivers who are members of the RMT union on businesse",
+   "dateTabled": "2026-03-18T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1892379,
+   "uin": "121824",
+   "heading": "Tickets: Sales",
+   "questionText": "To ask the Secretary of State for Business and Trade, with reference to figure of 2 of his Department's document entitled Analytical note on government response to resale of live events tickets consultation, published on 19 December 2025, what assessment ",
+   "dateTabled": "2026-03-18T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1892380,
+   "uin": "121825",
+   "heading": "Tickets: Sales",
+   "questionText": "To ask the Secretary of State for Business and Trade, whether his Department has used the additional enforcement powers for secondary ticketing under section 216 of the Digital Markets, Competition and Consumers Act 2024 on the use of bots to purchase tic",
+   "dateTabled": "2026-03-18T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1892375,
+   "uin": "121820",
+   "heading": "London Underground: Strikes",
+   "questionText": "To ask the Secretary of State for Transport, what assessment she has made of the potential impact of industrial action on (a) commuters within London and (b) commuters from outside London in March 2026.",
+   "dateTabled": "2026-03-18T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1892373,
+   "uin": "121818",
+   "heading": "Surgery: Training",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether he has had recent discussions with (a) NHS England, (b) the Royal Colleges and (c) the Joint Committee on Surgical Training on the future of Training Interface Group fellowships.",
+   "dateTabled": "2026-03-18T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1892369,
+   "uin": "121814",
+   "heading": "Radicalism",
+   "questionText": "To ask the Secretary of State for the Home Department, what steps she is taking to help prevent radicalisation amongst religious groups.",
+   "dateTabled": "2026-03-18T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1892372,
+   "uin": "121817",
+   "heading": "Video Games: Tax Allowances",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of the level of international competitiveness of the Video Games Expenditure Credit; and what assessment she has made of the potential merits of increasing the (a) tax credit and (b) cap",
+   "dateTabled": "2026-03-18T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1862609,
+   "uin": "98860",
+   "heading": "Doctors: Training",
+   "questionText": "To ask the Secretary of State for Health and Social Care, pursuant to the answer of 21 November to question 91059 on Doctors: Training, if he will publish a timeline of HM Government's next steps.",
+   "dateTabled": "2025-12-10T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1892374,
+   "uin": "121819",
+   "heading": "London Underground: Strikes",
+   "questionText": "To ask the Secretary of State for Transport, what her Department's policy is in relation to tube strikes.",
+   "dateTabled": "2026-03-18T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1882084,
+   "uin": "113830",
+   "heading": "Boxing: Regulation",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what assessment her Department has made of the adequacy of the regulatory framework for white-collar boxing.",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1882083,
+   "uin": "113829",
+   "heading": "Boxing: Safety",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what data her department holds on the number of deaths at (a) white collar and (b) regulated boxing events in the last five years.",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1882082,
+   "uin": "113828",
+   "heading": "Boxing: Safety",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what discussions she has had with (a) the National Governing Bodies for Boxing and (b) white collar boxing event promoters on improving safety at white collar boxing events.",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1882081,
+   "uin": "113827",
+   "heading": "Boxing: Safety",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what her Department's planned timeline is for publishing its response to the consultation on safety at white-collar boxing events.",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1870959,
+   "uin": "105362",
+   "heading": "School Games: Finance",
+   "questionText": "To ask the Secretary of State for Education, what progress has been made in appointing a delivery partner for the PE and School Sport Partnerships Network; and whether her Department plans to provide funding for the School Games Organisers Network after t",
+   "dateTabled": "2026-01-13T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1883934,
+   "uin": "115032",
+   "heading": "Gambling: Addictions",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what discussions she has had with devolved Governments to ensure prevention, support and treatment for gambling harms is available across the UK.",
+   "dateTabled": "2026-02-23T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1883042,
+   "uin": "114307",
+   "heading": "Crime Prevention: Young People",
+   "questionText": "To ask the Secretary of State for Justice, whether his Department provided funding to boxing programmes to help prevent crime amongst young people.",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1882794,
+   "uin": "114059",
+   "heading": "Youth Services",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, which Minister within her Department has responsibility for (a) measuring the impact of the National Youth Strategy on the provision of enrichment activity for young people and (b) leading on imp",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1882792,
+   "uin": "114057",
+   "heading": "Youth Services",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what discussions she has had with the Secretary of State for Education on the plans set out in the National Youth Strategy for the implementation of enriching activities for young people.",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1882793,
+   "uin": "114058",
+   "heading": "Dormant Assets Scheme: Young People",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, if she will set out the timeline for the youth portion of Every Child Can Dormant Assets funding to support the delivery of grassroots enrichment and youth provision.",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1882080,
+   "uin": "113826",
+   "heading": "Tickets: Sales",
+   "questionText": "To ask the Secretary of State for Business and Trade, what assessment his Department has made of the potential impact of restricting ticket resales via peer-to-peer messaging applications on user privacy and encryption.",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1882079,
+   "uin": "113825",
+   "heading": "Tickets: Sales",
+   "questionText": "To ask the Secretary of State for Business and Trade, whether his Department’s plan to ban for-profit ticket resale will apply to (a) tickets sold through peer-to-peer messaging platforms and (b) tickets sold through encrypted peer-to-peer messaging platf",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1882078,
+   "uin": "113824",
+   "heading": "Women: Public Places",
+   "questionText": "To ask the Minister for Women and Equalities, what assessment she has made of the potential impact of the the EHRC Code of Practice on single-sex spaces on (a) businesses, (b) community spaces and (c) public spaces.",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Women and Equalities"
+  },
+  {
+   "id": 1875327,
+   "uin": "108817",
+   "heading": "Gambling: Addictions",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what assessment he has made of the potential merits of Local Authorities commissioning gambling harms prevention; and of their capacity to do so.",
+   "dateTabled": "2026-01-27T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1875328,
+   "uin": "108818",
+   "heading": "Gambling: Regulation",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what assessment she has made of the potential merits of Local Authorities commissioning gambling harms prevention; and of their capacity to do so.",
+   "dateTabled": "2026-01-27T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1875329,
+   "uin": "108819",
+   "heading": "Gambling: Mental Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the potential merits of Local Authorities commissioning gambling harms prevention; and of their capacity to do so.",
+   "dateTabled": "2026-01-27T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1870681,
+   "uin": "105294",
+   "heading": "Women: Public Places",
+   "questionText": "To ask the Minister for Women and Equalities, what discussions she has had with organisations impacted by the delay in the publication of the EHRC Code of Practice on single-sex spaces.",
+   "dateTabled": "2026-01-13T00:00:00",
+   "answeringBodyName": "Women and Equalities"
+  },
+  {
+   "id": 1865174,
+   "uin": "100945",
+   "heading": "Emigration",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the Answer of 8 December 2025 to Question 96307 on Emigration, if her Department will make an assessment of of the potential impact of the emigration of people aged (a) 18-25, (b) 26-35, (c) 36-49, and (",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1865179,
+   "uin": "100949",
+   "heading": "Sports: Facilities",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, pursuant to the Answer of 9 December 2025 to Question 96315 on Sports: Finance, how much of the £400 million announced for investment into grassroots sports facilities she anticipates will be spe",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1865178,
+   "uin": "100948",
+   "heading": "Sports: Facilities",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, pursuant to the Answer of 8 December to Question 96978 on Sports: Facilities, what data relating to non-pitch-based sports infrastructure her Department holds; and whether it holds datasets on lo",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1865177,
+   "uin": "100947",
+   "heading": "Sports: Facilities",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, whether the £400 million announced for grassroots sports facilities on 19 June 2025 will include Wales, Scotland and Northern Ireland.",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1861771,
+   "uin": "97902",
+   "heading": "Doctors: Training",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment his Department has made of the potential merits of expanding domestic training places compared instead of continuing current levels of international recruitment.",
+   "dateTabled": "2025-12-08T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1861760,
+   "uin": "97892",
+   "heading": "NHS: Recruitment",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether he will issue guidance to the NHS on recruitment the recruitment of domestic graduates and non-UK applicants.",
+   "dateTabled": "2025-12-08T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1861758,
+   "uin": "97890",
+   "heading": "Doctors: Graduates",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps his Department is taking to prevent the loss of UK-trained medical graduates to (a) alternative careers and (b) emigration.",
+   "dateTabled": "2025-12-08T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1861754,
+   "uin": "97889",
+   "heading": "Doctors: Graduates",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether his Department is taking steps to prioritise UK-trained medical graduates over overseas-trained applicants when allocating (a) Foundation Years and (b) speciality training posts; and if he ",
+   "dateTabled": "2025-12-08T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1865172,
+   "uin": "100943",
+   "heading": "Pensions Commission",
+   "questionText": "To ask the Secretary of State for Work and Pensions, pursuant to the Answer of 10 December to Question 96308 on State Retirement Pensions, if he will publish a timeline for the Pensions Commission's work.",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1865181,
+   "uin": "100951",
+   "heading": "Gambling",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what assessment she has made of the difference between (a) harm caused by gambling and (b) harm associated with gambling; and if she will set out which of these measures is the policy objective o",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1865180,
+   "uin": "100950",
+   "heading": "Sports: Facilities",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what assessment she has made of the potential impact of changes to the statutory consultee role of Sport England in the planning system on the level of provision of (a) pitches, (b) courts and (c",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1859670,
+   "uin": "96825",
+   "heading": "Universal Credit: Employment",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what assessment he has made of the causes of the increase in Universal Credit claimants who are not required to work; and what steps he is taking to reduce the number of Universal Credit claimants who a",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1865175,
+   "uin": "100946",
+   "heading": "Embassies: Tolls",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, pursuant to the Answer of 20 November to Question 92039 on Embassies: Tolls, if she will publish the data on all outstanding debts; and what steps she is taking to recover ou",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1859673,
+   "uin": "96828",
+   "heading": "Demonstrations: Greater London",
+   "questionText": "To ask the Secretary of State for the Home Department, pursuant to the Answer of 5 November 2025 to Question 84932 on Business and Tourism: Greater London, if she will make an assessment of the potential economic impact of organised protests on tourism an",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1865173,
+   "uin": "100944",
+   "heading": "Sports: Facilities",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, pursuant to the Answer of 9 December to Question 96967 on Sports: Facilities, if he will make an assessment of the adequacy of the (a) distribution and (b) availability of sports",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1862616,
+   "uin": "98863",
+   "heading": "Playing Fields",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, pursuant to the answer of 9 December, to question 96967 on Sports: Facilities, if he will make an assessment of the (a) distribution and (b) availability of sports pitches by loc",
+   "dateTabled": "2025-12-10T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1859675,
+   "uin": "96830",
+   "heading": "Proceeds of Crime",
+   "questionText": "To ask the Secretary of State for the Home Department, if she will have discussions with the police to establish a National Police Trust funded from money seized from the proceeds of crime.",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1861764,
+   "uin": "97896",
+   "heading": "Doctors: Graduates",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how much has been spent on training UK medical students in each of the last five years, and how many of those publicly-funded graduates did not secure Foundation or speciality training places in th",
+   "dateTabled": "2025-12-08T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1862606,
+   "uin": "98857",
+   "heading": "Gambling: Black Economy",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what assessment she has made of the potential impact of the Autumn Budget 2025 on the number of gamblers accessing the black market.",
+   "dateTabled": "2025-12-10T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1863804,
+   "uin": "99923",
+   "heading": "Retail Trade: Business Rates",
+   "questionText": "To ask the Chancellor of the Exchequer, with reference to her Department’s webpage entitled Transforming business rates, published on 30 October 2024, whether it remains her policy that the business rate system should level the playing field between high ",
+   "dateTabled": "2025-12-15T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1862608,
+   "uin": "98859",
+   "heading": "Horse Racing: Bookmakers",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what assessment she has made of the prevalence of gambling harms at racecourse bookmakers compared to other forms of gambling; and if she will make it her policy to change the rate charged under ",
+   "dateTabled": "2025-12-10T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1862607,
+   "uin": "98858",
+   "heading": "Horse Racing: Bookmakers",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what steps she is taking to support racecourse bookmakers.",
+   "dateTabled": "2025-12-10T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1861696,
+   "uin": "97881",
+   "heading": "Unemployment: Young People",
+   "questionText": "To ask the Secretary of State for Business and Trade, what steps his Department is taking to reduce youth unemployment in the context of recent job losses in the hospitality sector.",
+   "dateTabled": "2025-12-08T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1861695,
+   "uin": "97880",
+   "heading": "Business Rates",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of the potential impact of (a) the combined effect of higher rateable values and (b) reduced business rates relief on the number of (i) hospitality closures and (ii) empty units on high ",
+   "dateTabled": "2025-12-08T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1861694,
+   "uin": "97879",
+   "heading": "Business Rates",
+   "questionText": "To ask the Chancellor of the Exchequer, with reference to the Autumn Budget 2025. what assessment she has made of the potential impact of the proposed change to (a) rateable value and (b) business rates relief on (i) vacancy rates, (ii) job losses, (iii) ",
+   "dateTabled": "2025-12-08T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1861693,
+   "uin": "97878",
+   "heading": "Hospitality Industry and Leisure: Business Rates",
+   "questionText": "To ask the Chancellor of the Exchequer, what estimate she has made of the number of (a) pubs, (b) hotels, (c) restaurants, (d) indoor leisure facilities and (e) night clubs that will have their business rates bill (i) increase, (ii) remain the same, and (",
+   "dateTabled": "2025-12-08T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1861692,
+   "uin": "97877",
+   "heading": "Retail Trade: Business Rates",
+   "questionText": "To ask the Chancellor of the Exchequer, what guidance her Department has issued to UK Businesses on the potential impact of the (a) removal of business rates relief and (b) business rates revaluation on high street businesses.",
+   "dateTabled": "2025-12-08T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1859094,
+   "uin": "96321",
+   "heading": "Lotteries",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, pursuant to Minister's statement to the House on 26 June 2025, what assessment she has made of the merits of comparing identical time frames.",
+   "dateTabled": "2025-12-02T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1862711,
+   "uin": "98899",
+   "heading": "Gambling: Gibraltar",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what representations she has received from the Government of Gibraltar regarding the potential impact of changes to gambling levies on its economy.",
+   "dateTabled": "2025-12-10T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1862712,
+   "uin": "98900",
+   "heading": "Gambling: Gibraltar",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of the potential impact of changes to gambling duties on Gibraltar's economy.",
+   "dateTabled": "2025-12-10T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1859902,
+   "uin": "96968",
+   "heading": "Sports: Facilities",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what assessment his Department has made of the adequacy of planning applications affecting sports pitches over the last five years by local authority.",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1859681,
+   "uin": "96835",
+   "heading": "Levelling-up and Regeneration Act 2023",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, if he will set out a timeline for bringing section 102 of the Levelling Up and Regeneration Act 2023 into force.",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1859095,
+   "uin": "96322",
+   "heading": "Lotteries",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what recent assessment she has made of the Problem Gambling Severity Index score for players of (a) The National Lottery, (b) Society Lotteries, and (c) instant win scratch cards.",
+   "dateTabled": "2025-12-02T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1859905,
+   "uin": "96971",
+   "heading": "Recreation Spaces: Conservation",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, how many (a) registered parks, (b) gardens and (c) designed landscapes are currently classed as at risk in each local authority.",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1859904,
+   "uin": "96970",
+   "heading": "Recreation Spaces",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, if she will publish the most recent data held by her Department on the number of registered parks and gardens within each local authority area.",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1859676,
+   "uin": "96831",
+   "heading": "Betting: Excise Duties",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the Answer of 13 October to Question 77717 on Betting: Excise Duties, if she will list relevant engagements with ministers.",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1859672,
+   "uin": "96827",
+   "heading": "Delivery Services: Driving Licences",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 11 November, to Question 87899 on Delivery Services: Driving Licences, if she will (a) publish the letter referred to from the Parliamentary Under-Secretary of State for Local Transpor",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1859091,
+   "uin": "96318",
+   "heading": "Undocumented Migrants: Finance",
+   "questionText": "To ask the Secretary of State for the Home Department, if she will make it her policy to cease the purchasing of non-essential items, including vapes, for illegal migrants.",
+   "dateTabled": "2025-12-02T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1859674,
+   "uin": "96829",
+   "heading": "Horse Racing: Costs",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, pursuant to the Answer of 30 October 2025 to Question 78837 on Rural Areas: Economic Situation, what assessment she has made of the difference between the increase in costs for horseracing due to",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1859092,
+   "uin": "96319",
+   "heading": "Educational Institutions: Antisemitism",
+   "questionText": "To ask the Secretary of State for Education, what steps she is taking to combat antisemitism (a) in secondary schools, (b) in colleges, and (c) on university campuses.",
+   "dateTabled": "2025-12-02T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1859679,
+   "uin": "96834",
+   "heading": "Exercise: Business Rates",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of the potential impact of business tax rises on physical activity levels.",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1859678,
+   "uin": "96833",
+   "heading": "Exercise: Business Rates",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of the potential impact of business tax rises on the physical activity sector.",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1859081,
+   "uin": "96309",
+   "heading": "Social Security Benefits: Foreign Nationals",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what steps he is taking to reduce the number of foreign nationals claiming welfare benefits.",
+   "dateTabled": "2025-12-02T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1859677,
+   "uin": "96832",
+   "heading": "Tourism: Taxation",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of the cumulative effect of (a) increasing betting duties on seaside arcades, (b) a nightly levy on hotel stays, (c) the abolition of Favoured Tax Regime for Furnished Holiday Lets, (d) ",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1859085,
+   "uin": "96312",
+   "heading": "Leisure Centres and Swimming Pools: Equality",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what steps she is taking to help ensure that (a) gyms, (b) swimming pools, and (c) leisure centres are used to help reduce (i) health and (ii) socioeconomic inequalities.",
+   "dateTabled": "2025-12-02T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1859671,
+   "uin": "96826",
+   "heading": "Leisure: Business Rates",
+   "questionText": "To ask the Chancellor of the Exchequer, how much revenue was generated in 2023/2024 from business rates on hereditaments that are being used for the provision of (a) sport, leisure and facilities to visiting members of the public and (b) casinos, gambling",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1859333,
+   "uin": "96439",
+   "heading": "Visitor Levy: Greater London",
+   "questionText": "To ask the Chancellor of the Exchequer, if she will make it her policy to hypothecate revenue raised from a Visitor Levy in London to support the visitor economy in London.",
+   "dateTabled": "2025-12-02T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1859332,
+   "uin": "96438",
+   "heading": "Visitor Levy: Greater London",
+   "questionText": "To ask the Chancellor of the Exchequer, if she will make it her policy to split revenue raised from a Visitor Levy in London between the Mayor of London and London boroughs.",
+   "dateTabled": "2025-12-02T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1859084,
+   "uin": "96311",
+   "heading": "Business Rates: Leisure",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of the potential impact of business or employment tax rises on (a) gyms, (b) swimming pools, and (c) leisure centres.",
+   "dateTabled": "2025-12-02T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1859082,
+   "uin": "96310",
+   "heading": "Undocumented Workers: Deportation",
+   "questionText": "To ask the Secretary of State for the Home Department, of recent illegal working arrests, how many have been removed from the United Kingdom.",
+   "dateTabled": "2025-12-02T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1859328,
+   "uin": "96437",
+   "heading": "Electric Vehicles: Excise Duties",
+   "questionText": "To ask the Chancellor of the Exchequer, what impact miles driven abroad will have on the calculation of the amount of Electric Vehicle Excise Duty payable per vehicle.",
+   "dateTabled": "2025-12-02T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1859335,
+   "uin": "96440",
+   "heading": "Visitor Levy",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the answer of 27 November to question 92601 on Tourism: Taxation, what assessment she has made of the potential impact of Visitor Levies in other jurisdictions on the hospitality sector.",
+   "dateTabled": "2025-12-02T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1859080,
+   "uin": "96308",
+   "heading": "State Retirement Pensions",
+   "questionText": "To ask the Secretary of State for Work and Pensions, if he will take steps to ensure that the State Pension Benefit will be available under the current conditions to those entering the workforce in the financial year 2025-2026.",
+   "dateTabled": "2025-12-02T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1859087,
+   "uin": "96314",
+   "heading": "Leisure Centres and Swimming Pools: Obesity",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what discussions she has had with the Secretary of State for Health and Social Care on the use of (a) gyms, (b) swimming pools, and (c) leisure centres alongside weight-loss drugs.",
+   "dateTabled": "2025-12-02T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1859086,
+   "uin": "96313",
+   "heading": "Unemployment: Exercise",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what discussions she has had with the Secretary of State for Work and Pensions regarding the inclusion of physical activity and exercise-based solutions within programmes aimed at reducing ill he",
+   "dateTabled": "2025-12-02T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1859088,
+   "uin": "96315",
+   "heading": "Sports: Finance",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, if she will publish a timeline for allocating expenditure of the £400 million capital funding for grassroots sporting facilities.",
+   "dateTabled": "2025-12-02T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1859682,
+   "uin": "96836",
+   "heading": "Sovereignty",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what discussions she has had with international counterparts on protecting the right of nations to self-determination.",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1859917,
+   "uin": "96981",
+   "heading": "Cultural Heritage and Sports",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, if he will make it his policy to require local authorities to collect and publish baseline data on current (a) sports facilities and (b) heritage landscapes.",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1859900,
+   "uin": "96967",
+   "heading": "Sports: Facilities",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what assessment his Department has made of the adequacy of the (a) distribution and (b) availability of sports pitches by local authorities.",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1859090,
+   "uin": "96317",
+   "heading": "Tickets: Price Caps",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, (a) if there will be exemptions made to her ticket price cap policy and (b) what criteria is used to judge this.",
+   "dateTabled": "2025-12-02T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1859096,
+   "uin": "96323",
+   "heading": "David Kogan",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, pursuant to the answer of 24 November to question 92054 on Independent Football Regulator: Political Parties, if she will publish the data on the additional political donations made by David Koga",
+   "dateTabled": "2025-12-02T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1859339,
+   "uin": "96441",
+   "heading": "Independent Football Regulator: Costs",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, if she will provide a breakdown of the costs incurred by her Department, from 4 July 2024 to date, in the establishment of the Independent Football Regulator.",
+   "dateTabled": "2025-12-02T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1859914,
+   "uin": "96978",
+   "heading": "Sports: Facilities",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what data relating to local sports infrastructure her Department holds; and whether she holds datasets on local authority breakdowns.",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1859908,
+   "uin": "96973",
+   "heading": "Culture and Leisure: Conservation",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what funding allocations have been made to local authorities for the protection and improvement of (a) sports pitches and (b) heritage landscapes since 4 July 2024; and if she will publish a brea",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1859899,
+   "uin": "96966",
+   "heading": "Sports: Facilities",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what data her Department holds on the (i) number, (ii) type, and (ii) condition of publicly accessible sports pitches in each local authority area in England; and if she will publish that data.",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1859079,
+   "uin": "96307",
+   "heading": "Emigration",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of the potential impact of the emigration of (a) 18-25, (b) 26-35, (c) 36-49, and (d) 50+ years old on (i) the levels of revenue raised through taxation and (ii) the sustainability of th",
+   "dateTabled": "2025-12-02T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1963205,
+   "uin": "45377",
+   "heading": null,
+   "questionText": "To ask the Chancellor of the Exchequer, whether he has made an estimate of the amount Grand Theft Auto VI will generate in revenue for HM Treasury.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1963195,
+   "uin": "45367",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, how much her department has spent on accommodation for staff of agencies and other public bodies sponsored by her department, broken down by (i) UK stays and (ii) overseas stays ",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1963194,
+   "uin": "45366",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Defence, how much his department has spent on accommodation for staff of agencies and other public bodies sponsored by his department, broken down by (i) UK stays and (ii) overseas stays in the 2024-25 financial year.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1963193,
+   "uin": "45365",
+   "heading": null,
+   "questionText": "To ask the Chancellor of the Exchequer, how much his department has spent on accommodation for staff of agencies and other public bodies sponsored by his department, broken down by (i) UK stays and (ii) overseas stays in the 2024-25 financial year.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1963192,
+   "uin": "45364",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, how much his department has spent on accommodation for staff of agencies and other public bodies sponsored by his department, broken down by (i) UK stays and (ii) overseas st",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1963191,
+   "uin": "45363",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Health and Social Care, how much her department has spent on accommodation for staff of agencies and other public bodies sponsored by her department, broken down by (i) UK stays and (ii) overseas stays in the 2024-25 fina",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1963190,
+   "uin": "45362",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Work and Pensions, how much his department has spent on accommodation for staff of agencies and other public bodies sponsored by his department, broken down by (i) UK stays and (ii) overseas stays in the 2024-25 financial",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1963189,
+   "uin": "45361",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Transport, how much her department has spent on accommodation for staff of agencies and other public bodies sponsored by her department, broken down by (i) UK stays and (ii) overseas stays in the 2024-25 financial year.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1963188,
+   "uin": "45360",
+   "heading": null,
+   "questionText": "To ask the Minister for the Cabinet Office, how much HM Government spent on accommodation for staff of non-ministerial departments, broken down by (i) UK stays and (ii) overseas stays in the 2024-25 financial year.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1963187,
+   "uin": "45359",
+   "heading": null,
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment he has made of the potential impact of trends in the level of public sector wages on the rate of inflation since 4 July 2024.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1963186,
+   "uin": "45358",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, if she will take steps as part of her upcoming sport strategy to prioritise improving access to exercise and community sport for disabled people.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1960784,
+   "uin": "43843",
+   "heading": "Youth Organisations: Finance",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, how much her Department has spent through the Uniformed Youth Fund in the financial years (a) 2024/25. and (b) 2025/26, and plans to spend in the financial years (i) 2026/27 and (II) 202",
+   "dateTabled": "2026-11-17T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1959348,
+   "uin": "42668",
+   "heading": "Ministry of Housing, Communities and Local Government: Travel",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, how much her Department spent on travel for (a) staff and (b) Ministers broken down by (i) within the UK and (ii) overseas trips in the 2024-25 financial year.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1959342,
+   "uin": "42662",
+   "heading": "Department for Work and Pensions: Travel",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how much his Department spent on travel for (a) staff and (b) Ministers broken down by (i) within the UK and (ii) overseas trips in the 2024-25 financial year.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1959341,
+   "uin": "42661",
+   "heading": "Department for Transport: Travel",
+   "questionText": "To ask the Secretary of State for Transport, how much her Department spent on travel for (a) staff and (b) Ministers broken down by (i) within the UK and (ii) overseas trips in the 2024-25 financial year.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1959340,
+   "uin": "42660",
+   "heading": "Department for Environment, Food and Rural Affairs: Travel",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, how much her Department spent on travel for (a) staff and (b) Ministers broken down by (i) within the UK and (ii) overseas trips in the 2024-25 financial year.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1959337,
+   "uin": "42657",
+   "heading": "Department for Digital, Culture, Media and Sport: Travel",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, how much her Department spent on travel for (a) staff and (b) Ministers broken down by (i) within the UK and (ii) overseas trips in the 2024-25 financial year.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1959336,
+   "uin": "42656",
+   "heading": "Department for Business, Innovation, Science and Trade: Travel",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, how much his Department spent on travel for (a) staff and (b) Ministers, broken down by (i) within the UK and (ii) overseas trips in the 2024-25 financial year.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1949454,
+   "uin": "35099",
+   "heading": "Football: Governing Bodies",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what assessment she has made of the level of contingency funding required by the football regulator; and what discussions she has had with the regulator on this issue.",
+   "dateTabled": "2026-10-15T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1947236,
+   "uin": "33362",
+   "heading": "Ministry of Housing, Communities and Local Government: Hotels",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, how much her Department spent on hotel accommodation for (a) staff and (b) Ministers broken down by (i) UK stays and (ii) overseas stays in the 2024-25 financial year.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1945816,
+   "uin": "32125",
+   "heading": "Department for Transport: Hotels",
+   "questionText": "To ask the Secretary of State for Transport, how much their Department spent on hotel accommodation for (a) staff and (b) Ministers broken down by (i) UK stays and (ii) overseas stays in the 2024-25 financial year.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1945025,
+   "uin": "31339",
+   "heading": "Department for Digital, Culture, Media and Sport: Hotels",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, how much their Department spent on hotel accommodation for (a) staff and (b) Ministers broken down by (i) UK stays and (ii) overseas stays in the 2024-25 financial year.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  }
+ ],
+ "historyComplete": true
+}

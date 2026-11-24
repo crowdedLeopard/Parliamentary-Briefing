@@ -1,0 +1,1567 @@
+{
+ "id": 4592,
+ "fetchedOn": "2026-11-24",
+ "core": {
+  "id": 4592,
+  "nameListAs": "Johnson, Dr Caroline",
+  "nameDisplayAs": "Dr Caroline Johnson",
+  "nameFullTitle": "Dr Caroline Johnson MP",
+  "nameAddressAs": "Dr Caroline Johnson",
+  "latestParty": {
+   "id": 4,
+   "name": "Conservative",
+   "abbreviation": "Con",
+   "backgroundColour": "0063ba",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": false,
+   "governmentType": 3,
+   "isIndependentParty": false
+  },
+  "gender": "F",
+  "latestHouseMembership": {
+   "membershipFrom": "Sleaford and North Hykeham",
+   "membershipFromId": 4291,
+   "house": 1,
+   "membershipStartDate": "2016-12-08T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2024-07-04T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/4592/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2024-05-31T00:00:00",
+    "constituencyEnd": null,
+    "house": 1,
+    "name": "Sleaford and North Hykeham",
+    "id": 4291,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "2010-04-13T00:00:00",
+    "constituencyEnd": "2024-05-30T00:00:00",
+    "house": 1,
+    "name": "Sleaford and North Hykeham",
+    "id": 3732,
+    "startDate": "2016-12-08T00:00:00",
+    "endDate": "2024-05-30T00:00:00",
+    "additionalInfo": "Elected 3 times",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [
+   {
+    "house": 1,
+    "name": "Scunthorpe",
+    "id": 3717,
+    "startDate": "2010-05-06T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "houseMemberships": [
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "2016-12-08T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Dr Caroline Johnson",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [
+   {
+    "house": 1,
+    "name": "Parliamentary Under-Secretary (Department of Health and Social Care)",
+    "id": 1212,
+    "startDate": "2022-09-08T00:00:00",
+    "endDate": "2022-10-27T00:00:00",
+    "additionalInfo": "Department of Health and Social Care",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-of-health-and-social-care"
+   }
+  ],
+  "oppositionPosts": [
+   {
+    "house": 1,
+    "name": "Shadow Minister (Health and Social Care)",
+    "id": 1413,
+    "startDate": "2024-07-19T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Department of Health and Social Care",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-of-health-and-social-care"
+   }
+  ],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Conservative",
+    "id": 4,
+    "startDate": "2016-12-08T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 1,
+    "name": "Environment, Food and Rural Affairs Committee",
+    "id": 52,
+    "startDate": "2017-09-11T00:00:00",
+    "endDate": "2019-11-06T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Health and Social Care Committee",
+    "id": 81,
+    "startDate": "2022-11-21T00:00:00",
+    "endDate": "2024-05-30T00:01:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Health and Social Care Committee",
+    "id": 81,
+    "startDate": "2017-09-11T00:00:00",
+    "endDate": "2018-02-20T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Education Committee",
+    "id": 203,
+    "startDate": "2024-10-21T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Education Committee",
+    "id": 203,
+    "startDate": "2020-03-02T00:00:00",
+    "endDate": "2022-10-25T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Judicial Review and Courts Bill",
+    "id": 548,
+    "startDate": "2021-10-27T00:00:00",
+    "endDate": "2021-11-23T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Taxi and Private Hire Vehicles (Safeguarding and Road Safety) Bill (England and Wales)",
+    "id": 550,
+    "startDate": "2021-10-27T00:00:00",
+    "endDate": "2021-11-03T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Human Rights (Joint Committee)",
+    "id": 93,
+    "startDate": "2023-02-06T00:00:00",
+    "endDate": "2024-05-30T00:01:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Ballot Secrecy Bill [HL]",
+    "id": 656,
+    "startDate": "2023-03-01T00:00:00",
+    "endDate": "2023-03-07T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Secure 16 to 19 Academies Bill",
+    "id": 723,
+    "startDate": "2024-04-24T00:00:00",
+    "endDate": "2024-05-01T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Tobacco and Vapes Bill",
+    "id": 720,
+    "startDate": "2024-04-24T00:00:00",
+    "endDate": "2024-05-14T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Courts (Remote Hearings) Bill",
+    "id": 730,
+    "startDate": "2024-05-08T00:00:00",
+    "endDate": "2024-05-12T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Tobacco and Vapes Bill",
+    "id": 753,
+    "startDate": "2024-12-19T00:00:00",
+    "endDate": "2025-01-30T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Rare Cancers Bill",
+    "id": 808,
+    "startDate": "2025-06-26T00:00:00",
+    "endDate": "2025-07-02T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Health Bill",
+    "id": 839,
+    "startDate": "2026-06-11T00:00:00",
+    "endDate": "2026-07-16T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Infants, Parents and Carers Bill",
+    "id": 852,
+    "startDate": "2026-10-14T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 12,
+   "name": "1. Employment and earnings",
+   "sortOrder": 0,
+   "interests": [
+    {
+     "id": 4865,
+     "interest": "Role, work or services: Consultant paediatrician\r\nPayer: North West Anglia NHS Foundation Trust, Peterborough City Hospital, Bretton Gate, Bretton PE3 9GZ\r\nAdditional information: I am employed on a flexible contract.\r\n(Registered 9 January 2017; updated 27 April 2017, 6 July 2017, 13 March 2020, 16 November 2021, 21 June 2022, 7 October 2022 and 26 October 2023)",
+     "createdWhen": "2024-11-11T14:21:40.1473506",
+     "lastAmendedWhen": "2024-11-11T14:21:21.6683508",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": [
+      {
+       "id": 4866,
+       "interest": "Remuneration: £27,129 a year Pay has increased from £26211.60 per annum, first paid from 25 June 2026 (including pay arrears of £152.90)\r\nFrom: 25 September 2023.\r\nHours: 336 hrs a year \r\n(Registered 26 October 2023; updated 4 November 2024, 20 August 2025 and 22 July 2026)",
+       "createdWhen": "2026-08-18T09:11:10.8",
+       "lastAmendedWhen": "2025-11-28T10:30:37.7197931",
+       "deletedWhen": null,
+       "isCorrection": false,
+       "childInterests": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "name": "3. Gifts, benefits and hospitality from UK sources",
+   "sortOrder": 1,
+   "interests": [
+    {
+     "id": 16849,
+     "interest": "Name of donor: BBC\r\nAddress of donor: BBC, BBC Broadcasting House, London W1A 1AA\r\nAmount of donation or nature and value if donation in kind: Travel in relation to my appearance on BBC Any Questions (£714), meal before show (£17) and soft drink estimate (£10), value £741\r\nDate received: 26 June 2026 to 26 June 2026\r\nDate accepted: 26 June 2026\r\nDonor status: other (Public Service Broadcaster)\r\n(Registered 26 August 2026)",
+     "createdWhen": "2026-09-17T14:39:56.4435116",
+     "lastAmendedWhen": "2026-09-08T08:55:16.8066667",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "name": "4. Visits outside the UK",
+   "sortOrder": 2,
+   "interests": [
+    {
+     "id": 17097,
+     "interest": "Name of donor: Taiwanese Ministry of Foreign Affairs\r\nAddress of donor: 2, Ketagalan Boulevard, Taipei City 100202, Taiwan\r\nEstimate of the probable value (or amount of any donation): Flights (£4,833), accommodation (£1,026), hospitality (estimated £444), transportation (estimated £250), value £6,553\r\nDestination of visit: Taiwan\r\nDates of visit: 16 September 2026 to 23 September 2026\r\nPurpose of visit: Travelled to Taiwan with the British-Taiwanese APPG as part of a parliamentary delegation with a particular focus on Taiwan's medical institutions and public health systems.\r\n(Registered 30 September 2026)",
+     "createdWhen": "2026-10-13T09:27:22.13",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "name": "6. Land and property portfolio with a value over £100,000 and where indicated, the portfolio provides a rental income of over £10,000 a year",
+   "sortOrder": 3,
+   "interests": [
+    {
+     "id": 2242,
+     "interest": "Type of land/property: Residential property (house)\r\nNumber of properties: 1\r\nLocation: Lincolnshire\r\nOwnership details: Owned jointly with my husband\r\n(Registered 9 January 2017)",
+     "createdWhen": "2024-04-18T15:16:46.0833333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [],
+ "synopsis": "Dr Caroline Johnson is the Conservative MP for <a href='/constituency/4291/overview'>Sleaford and North Hykeham</a>, and has been an MP continually since 8 December 2016. \r\nShe currently undertakes the role of Shadow Minister (Health and Social Care).",
+ "history": [
+  {
+   "id": 1961257,
+   "uin": "44316",
+   "heading": "Brain: Injuries",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether she has met with the Secretary of State for Work and Pensions to discuss acquired brain injury in a) 2024, b) 2025 and c) 2026.",
+   "dateTabled": "2026-11-17T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1961256,
+   "uin": "44315",
+   "heading": "Brain: Injuries",
+   "questionText": "To ask the Secretary of State for Health and Social Care, pursuant to UIN 40649, whether it remains the Government's policy to publish an acquired brain injury action plan, as stated in UIN 96905.",
+   "dateTabled": "2026-11-17T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1960311,
+   "uin": "43441",
+   "heading": "Hospitals: Construction",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how much money has been allocated for the new hospital programme in the financial year 2027-28.",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1956324,
+   "uin": "40649",
+   "heading": "Brain: Injuries",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what meetings she or her ministers have had with ministerial colleagues in 1) the Department for Work and Pensions, 2) the Department for Transport: 3) the Department for Digital, Culture, Media an",
+   "dateTabled": "2026-11-03T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1955283,
+   "uin": "39712",
+   "heading": "Food: Testing",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference to the letter sent to the Hon. Member for Sleaford and North Hykeham from the Minister of State on 30 October regarding food sampling done by the FSA, what information her Department",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1951809,
+   "uin": "37073",
+   "heading": "Members: Correspondence",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference to the oral contribution of the Parliamentary Under-Secretary of State for Health and Social Care in the debate on the Draft Food Supplements Purity Criteria (Magnesium L-threonate m",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1951317,
+   "uin": "36714",
+   "heading": "Puberty Suppressing Hormones: Clinical Trials",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what information her Department holds on the a) number, b) biological sex and c) age of people entering the puberty blockers to date.",
+   "dateTabled": "2026-10-20T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1951316,
+   "uin": "36713",
+   "heading": "Puberty Suppressing Hormones: Clinical Trials",
+   "questionText": "To ask the Secretary of State for Health and Social Care, if she will publish monthly updates on the puberty blockers trial.",
+   "dateTabled": "2026-10-20T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1951797,
+   "uin": "37061",
+   "heading": "Dietary Supplements: Testing",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many and which food supplements have been tested by the Food Standards Agency in each of the last three a) calendar and b) financial years.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1937693,
+   "uin": "26880",
+   "heading": "Sodium Valproate and Surgical Mesh Implants: Compensation",
+   "questionText": "To ask the Secretary of State for Health and Social Care, when she intends to respond to the Hughes Report.",
+   "dateTabled": "2026-09-02T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1938410,
+   "uin": "27266",
+   "heading": "NHS: Workplace Pensions",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many remediable service statements have been a) issued, b) connected, c) connected and reissued, d) calculated and not issued, and e) not yet calculated to members of NHS pension scheme.",
+   "dateTabled": "2026-09-04T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1938409,
+   "uin": "27265",
+   "heading": "NHS: Workplace Pensions",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many remedial pension savings statements have been a) issued, b) connected, c) connected and reissued; d) calculated and not issued, and e) not yet calculated to members of NHS pension scheme.",
+   "dateTabled": "2026-09-04T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1937695,
+   "uin": "26882",
+   "heading": "Medicine: Higher Education",
+   "questionText": "To ask the Secretary of State for Health and Social Care, if she intends double the number of medical school places.",
+   "dateTabled": "2026-09-02T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1937694,
+   "uin": "26881",
+   "heading": "Health Services: Staff",
+   "questionText": "To ask the Secretary of State for Health and Social Care, when she plans to publish her workforce plan.",
+   "dateTabled": "2026-09-02T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1931706,
+   "uin": "21310",
+   "heading": "Local Government: Lincolnshire",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what assessment she has made of the potential impact of Local Government Reorganisation in Lincolnshire on funding for the North Hykeham Relief Road.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1926281,
+   "uin": "17380",
+   "heading": "NHS England: Costs",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what information his Department holds on the estimated costs of making provisions for transfer schemes of connection with the abolition of the NHS England.",
+   "dateTabled": "2026-07-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1926279,
+   "uin": "17379",
+   "heading": "NHS England: Reorganisation",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what estimate his Department has made of the cost to public purse of the creation and enactment of transfer schemes in connection with the abolition of the NHS England.",
+   "dateTabled": "2026-07-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1906439,
+   "uin": "2064",
+   "heading": "Medicine: Training",
+   "questionText": "To ask the Secretary of State for Health and Social Care, if he expects NHS England’s review of the preference informed allocation method to be completed before the abolition of NHS England.",
+   "dateTabled": "2026-05-18T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1926285,
+   "uin": "17382",
+   "heading": "NHS: Reorganisation",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what information his Department holds on the (a) number of hours of worked and (b) actual costs to date, (c) estimated future costs of external consultants in relation to the abolition of (a) Healt",
+   "dateTabled": "2026-07-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1926283,
+   "uin": "17381",
+   "heading": "Health Services Safety Investigation Body and Healthwatch England",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what information his Department holds on the likely cost of abolition of (a) HealthWatch England, (b) Health Service Safety Investigation Body (HSSIB) and (c) the development and enactment of trans",
+   "dateTabled": "2026-07-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1926277,
+   "uin": "17378",
+   "heading": "NHS England: Redundancy",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what information his Department holds on the estimated (a) number and (b) cost of the redundancies due to the abolition of the NHS England; and what information his Department has (c) sent to and (",
+   "dateTabled": "2026-07-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1922372,
+   "uin": "14401",
+   "heading": "RAF Waddington: Housing",
+   "questionText": "To ask the Secretary of State for Defence, what assessment he has made of the potential impact of the Defence Investment Plan on proposals to improve single living accommodation at RAF Waddington.",
+   "dateTabled": "2026-06-30T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1922371,
+   "uin": "14400",
+   "heading": "Defence: Finance",
+   "questionText": "To ask the Secretary of State for Defence, what assessment he has made of the potential impact of the Defence Investment Plan on Project Meharist.",
+   "dateTabled": "2026-06-30T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1914370,
+   "uin": "8180",
+   "heading": "Drugs: Concessions",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the potential impact of VAT on the provision of free of charge compassionate drugs.",
+   "dateTabled": "2026-06-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1914746,
+   "uin": "8671",
+   "heading": "Prescriptions: Fees and Charges",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many (a) adults and (b) children received drugs provided free of charge to the NHS for compassionate reasons in each year from 2021 to 2026.",
+   "dateTabled": "2026-06-10T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1914369,
+   "uin": "8179",
+   "heading": "Syphilis",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps he is taking to reduce incidence of syphilis.",
+   "dateTabled": "2026-06-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1914747,
+   "uin": "8672",
+   "heading": "Hospitals: Waiting Lists",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the impact of payments for validation on Trusts' willingness to validate waiting lists.",
+   "dateTabled": "2026-06-10T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1915350,
+   "uin": "9164",
+   "heading": "NHS England: Reorganisation",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what the cost to the public purse has been of the use of external management consultants in the planning and delivery of i) the restructuring of his Department, ii) the abolition of NHS England and",
+   "dateTabled": "2026-06-11T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1915347,
+   "uin": "9051",
+   "heading": "Healthwatch",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the potential impact of ICB clustering on patient voice and the efficacy of Local Healthwatch.",
+   "dateTabled": "2026-06-11T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1915351,
+   "uin": "9165",
+   "heading": "NHS: Staff",
+   "questionText": "To ask the Secretary of State for Health and Social Care, which organisations, bodies, trade unions and other stakeholders have been (a) provided with advance sight of and (b) briefed on the contents of the forthcoming Workforce Plan.",
+   "dateTabled": "2026-06-11T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1906438,
+   "uin": "2063",
+   "heading": "General Practitioners: Contracts",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference to the Answers of 1 April 2026 to Question 122780 and 25 March 2026 to Question 120988 on General Practitioners: Contracts and with reference to the oral statement of 16 April 2026 o",
+   "dateTabled": "2026-05-18T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1914749,
+   "uin": "8674",
+   "heading": "Placenta Accreta Spectrum: Diagnosis",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps his Department is taking to improve early detection of placenta accreta.",
+   "dateTabled": "2026-06-10T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1914367,
+   "uin": "8177",
+   "heading": "Electronic Cigarettes: Regulation",
+   "questionText": "To ask the Secretary of State for Health and Social Care, when he plans to bring forward regulations on the (a) colour, (b) shape, (c) flavour and (d) display of (i) vaping and (ii) nicotine products.",
+   "dateTabled": "2026-06-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1914745,
+   "uin": "8670",
+   "heading": "Drugs: VAT",
+   "questionText": "To ask the Chancellor of the Exchequer, on what date HMRC began actively enforcing charges on VAT free of charge medicines.",
+   "dateTabled": "2026-06-10T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1906442,
+   "uin": "2067",
+   "heading": "Maternal Mortality",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether he plans to set an explicit target to close the Black and Asian maternal mortality gap.",
+   "dateTabled": "2026-05-18T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1908780,
+   "uin": "3801",
+   "heading": "Healthwatch: Expenditure",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how much funding his Department provided to (a) Healthwatch England and (b) Local Healthwatch in (i) 2023, (ii) 2024 and (iii) 2025.",
+   "dateTabled": "2026-05-21T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1914748,
+   "uin": "8673",
+   "heading": "NHS England",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the extent of disruption to the development of new services caused by the abolition of NHS England.",
+   "dateTabled": "2026-06-10T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1914368,
+   "uin": "8178",
+   "heading": "NHS: Staff",
+   "questionText": "To ask the Secretary of State for Health and Social Care, when he plans to publish the NHS workforce plan.",
+   "dateTabled": "2026-06-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1908779,
+   "uin": "3800",
+   "heading": "Healthwatch: Cost Effectiveness",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what estimate he has made of the potential savings to the public purse of abolishing Healthwatch England and Local Healthwatch.",
+   "dateTabled": "2026-05-21T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1908188,
+   "uin": "3431",
+   "heading": "Midwives: Training",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many students a) started and b) successfully completed a midwifery degree in i) 2025, ii) 2024, iii) 2023, iv) 2022, v) 2021, vi) 2020 and vii) 2019.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1906440,
+   "uin": "2065",
+   "heading": "National Maternity and Neonatal Taskforce",
+   "questionText": "To ask the Secretary of State for Health and Social Care, on which dates the maternity and neonatal task force (a) has met and (b) is due to meet.",
+   "dateTabled": "2026-05-18T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1906620,
+   "uin": "2068",
+   "heading": "Sodium Valproate and Surgical Mesh Implants: Compensation",
+   "questionText": "To ask the Secretary of State for Health and Social Care, when he plans to respond to the Hughes report.",
+   "dateTabled": "2026-05-18T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1908651,
+   "uin": "3776",
+   "heading": "Aphasia: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, which specialised neurology centres currently provide multidisciplinary team assessment and treatment for people with primary progressive aphasia.",
+   "dateTabled": "2026-05-21T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1908187,
+   "uin": "3430",
+   "heading": "Health Services: Waiting Lists",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many and what proportion of patients waited (a) 18 weeks or less, (b) 18 weeks and 1 day, (c) 18 weeks and 2 days, (d) 18 weeks and 3 days, (e) 19 weeks, (f) 20 weeks and (g) 21 weeks from refe",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1906441,
+   "uin": "2066",
+   "heading": "Rare Cancers",
+   "questionText": "To ask the Secretary of State for Health and Social Care, when he plans to appoint the national specialty lead for rare cancers.",
+   "dateTabled": "2026-05-18T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1900552,
+   "uin": "127841",
+   "heading": "Hospitals: Waiting Lists",
+   "questionText": "To ask the Secretary of State for Health and Social Care, pursuant to the Answers of 1 April 2026 to Question 122780 and 25 March 2026 to Question 120988 on General Practitioners: Contracts and with reference to the oral statement of 16 April 2026 on the ",
+   "dateTabled": "2026-04-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1899548,
+   "uin": "127150",
+   "heading": "Out-patients",
+   "questionText": "To ask the Secretary of State for Health and Social Care, if he intends outpatient referrals to (a) hospitals and (b) secondary care providers to be managed by people other than consultants.",
+   "dateTabled": "2026-04-14T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1900551,
+   "uin": "127840",
+   "heading": "Breast Cancer: Medical Treatments",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps he is taking to improve treatment for lobular breast cancer.",
+   "dateTabled": "2026-04-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1899550,
+   "uin": "127152",
+   "heading": "Cancer: Diagnosis",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many patients referred urgently with suspected cancer are (a) diagnosed and (b) reassured within (i) 28, (ii) 29, (iii) 30, (iv) 31, (v) 32 and (vi) 33 days of referral for which the latest dat",
+   "dateTabled": "2026-04-14T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1900553,
+   "uin": "127842",
+   "heading": "Sodium Valproate and Surgical Mesh Implants: Compensation",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether he plans to respond to the Hughes report before prorogation.",
+   "dateTabled": "2026-04-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1899549,
+   "uin": "127151",
+   "heading": "Out-patients",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the potential risks of rejecting secondary care referrals that are currently accepted.",
+   "dateTabled": "2026-04-14T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1899551,
+   "uin": "127153",
+   "heading": "Out-patients",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what proportion of referrals to (a) hospital outpatient care and (b) secondary care are (i) accepted to be seen and (ii) rejected and provided with advice and guidance instead for which the latest ",
+   "dateTabled": "2026-04-14T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1900874,
+   "uin": "128075",
+   "heading": "Department for Education: Written Questions",
+   "questionText": "To ask the Secretary of State for Education, does she intend to answer question UIN113162 given that it is now more than 7 weeks overdue.",
+   "dateTabled": "2026-04-17T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1881337,
+   "uin": "113162",
+   "heading": "Teachers: Training",
+   "questionText": "To ask the Secretary of State for Education, what assessment she has made of the potential impact of school initial teacher training providers sending trainee teachers to conferences and work shops promoting the concept of white privilege on schools' abil",
+   "dateTabled": "2026-02-12T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1893351,
+   "uin": "122537",
+   "heading": "Meningitis: Electronic Cigarettes",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the potential of (a) vaping and (b) passive vaping on the risk of invasive meningococcal disease.",
+   "dateTabled": "2026-03-20T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1893350,
+   "uin": "122536",
+   "heading": "Meningitis: Smoking",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the potential impact of (a) smoking and (b) passive smoking on the risk of invasive meningococcal disease.",
+   "dateTabled": "2026-03-20T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1875783,
+   "uin": "108724",
+   "heading": "Medicine: Training",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many additional medical places are funded in start in 2026 compared with 2025.",
+   "dateTabled": "2026-01-27T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1894089,
+   "uin": "122883",
+   "heading": "Medical Records: Data Protection",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what information he holds on the number of data breaches of patient information in the NHS in the last year.",
+   "dateTabled": "2026-03-23T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1894088,
+   "uin": "122882",
+   "heading": "Health Services: Women",
+   "questionText": "To ask the Secretary of State for Health and Social Care, when he plans to publish the renewed Women's Health Strategy.",
+   "dateTabled": "2026-03-23T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1894091,
+   "uin": "122885",
+   "heading": "Foreign, Commonwealth and Development Office: Private Education",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what (a) number and (b) proportion of staff in her Department are eligible to receive Continuity of Education Allowance.",
+   "dateTabled": "2026-03-23T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1894090,
+   "uin": "122884",
+   "heading": "Foreign, Commonwealth and Development Office: Private Education",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what (a) number and (b) proportion of staff in her Department that are posted overseas receive Continuity of Education Allowance.",
+   "dateTabled": "2026-03-23T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1894087,
+   "uin": "122881",
+   "heading": "Foreign, Commonwealth and Development Office: Private Education",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, how many staff in her Department are in receipt of Continuity of Education Allowance.",
+   "dateTabled": "2026-03-23T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1886606,
+   "uin": "117021",
+   "heading": "Abortion: Drugs",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many deaths there have been of (a) women, (b) babies and (c) stillbirths where the termination of pregnancy through pills-by-post has been considered a contributory factor.",
+   "dateTabled": "2026-03-02T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1886602,
+   "uin": "117017",
+   "heading": "Health Services: Gender Recognition",
+   "questionText": "To ask the Secretary of State for Health and Social Care, pursuant to the written statement on 26 February 2026 titled Data Linkage Study, what the small but important improvements in study design are to which he refers in his statement.",
+   "dateTabled": "2026-03-02T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1884089,
+   "uin": "115127",
+   "heading": "Puberty Suppressing Hormones: Clinical Trials",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether all arms of the Pathways clinical trials have been paused.",
+   "dateTabled": "2026-02-23T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1886599,
+   "uin": "117014",
+   "heading": "Health Services: Gender Recognition",
+   "questionText": "To ask the Secretary of State for Health and Social Care, pursuant to the written statement on 26 February 2026 titled Data Linkage Study, what is his expected timeframe for research and ethics approval.",
+   "dateTabled": "2026-03-02T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1886600,
+   "uin": "117015",
+   "heading": "Health Services: Gender Recognition",
+   "questionText": "To ask the Secretary of State for Health and Social Care, pursuant to the written statement on 26 February 2026 titled Data Linkage Study, whether he expects the data linkage study to be completed before the abolition of NHS England.",
+   "dateTabled": "2026-03-02T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1886601,
+   "uin": "117016",
+   "heading": "Health Services: Gender Recognition",
+   "questionText": "To ask the Secretary of State for Health and Social Care, pursuant to the written statement on 26 February 2026 titled Data Linkage Study, whether he plans to complete the data linkage study before the Pathways puberty blockers trial commences.",
+   "dateTabled": "2026-03-02T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1886598,
+   "uin": "117013",
+   "heading": "Doctors: Training",
+   "questionText": "To ask the Secretary of State for Health and Social Care, on what date he plans to bring into force the provisions of the Medical Training (Prioritisation) Bill.",
+   "dateTabled": "2026-03-02T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1887736,
+   "uin": "117827",
+   "heading": "Review of the NHS Adult Gender Dysphoria Clinics in England",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether the current Chair of the adult clinical reference group for adult gender dysphoria services refused to comply with requests for data for the date linkage study which was recommended by the ",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1886604,
+   "uin": "117019",
+   "heading": "Abortion: Drugs",
+   "questionText": "To ask the Secretary of State for the Home Department, how many charges there have been for offences relating to the termination of pregnancy through the the pills-by-post scheme.",
+   "dateTabled": "2026-03-02T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1886605,
+   "uin": "117020",
+   "heading": "Abortion: Prosecutions",
+   "questionText": "To ask the Solicitor General, how many prosecutions there have been for offences relating to the termination of pregnancy through the the pills-by-post scheme.",
+   "dateTabled": "2026-03-02T00:00:00",
+   "answeringBodyName": "Attorney General"
+  },
+  {
+   "id": 1887737,
+   "uin": "117828",
+   "heading": "Prescriptions",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many overseas prescriptions are dispensed in a) the UK and b) England i) in total, ii) by medicines dispensed and iii) by origin country.",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1884864,
+   "uin": "115873",
+   "heading": "Clinical Trials",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference to the Written Statement of 23 February 2026 on Clinical trials, HCWS1347, in which the letter from MHRA refers to correspondence from 7 November 2025, if he will publish that corres",
+   "dateTabled": "2026-02-25T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1884091,
+   "uin": "115129",
+   "heading": "NHS: Databases",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether (a) he, (b) Ministers and (c) officials had discussions with (i) NHS England, (ii) University of York and (iii) other researchers on the Data Linkage study in (A) November 2025, (B) Decembe",
+   "dateTabled": "2026-02-23T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1884594,
+   "uin": "115584",
+   "heading": "Prostate Cancer: Screening",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether he has reviewed the findings of the independent analysis commissioned by Prostate Cancer Research on the economic model used by the UK National Screening Committee.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1884595,
+   "uin": "115585",
+   "heading": "Prostate Cancer: Screening",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether he plans to conduct a full Equality Impact Assessment as part of the decision making process on prostate cancer screening recommendations.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1884090,
+   "uin": "115128",
+   "heading": "Puberty Suppressing Hormones: Clinical Trials",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether any children were recruited for any arm of the Pathways clinical trials prior to it being paused.",
+   "dateTabled": "2026-02-23T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1886603,
+   "uin": "117018",
+   "heading": "Abortion: Convictions",
+   "questionText": "To ask the Secretary of State for Justice, how many convictions there have been for offences relating to the termination of pregnancy through the the pills-by-post scheme.",
+   "dateTabled": "2026-03-02T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1884088,
+   "uin": "115126",
+   "heading": "Puberty Suppressing Hormones: Clinical Trials",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference to the Written Statement of 23 February 2026 on Clinical trials, whether (a) he, (b) Ministers and (c) officials had discussions with MHRA on the Pathways clinical trial prior to Feb",
+   "dateTabled": "2026-02-23T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1884087,
+   "uin": "115125",
+   "heading": "Puberty Suppressing Hormones: Clinical Trials",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference to the Written Statement of 23 February 2026 on Clinical Trials, what information his Department holds on when the letter from MHRA to King's College London was (a) sent and (b) rece",
+   "dateTabled": "2026-02-23T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1875785,
+   "uin": "108726",
+   "heading": "Medicine: Graduates",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many and what proportion of UK primary medical degree graduates were (a) British and (b) non-British by country in each of the last five years.",
+   "dateTabled": "2026-01-27T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1880927,
+   "uin": "112853",
+   "heading": "Surgical Mesh Implants and Sodium Valproate: Compensation",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many full time equivalent civil servants are working on his Department's response to the Hughes Report: Options for redress for those harmed by valproate and pelvic mesh, published on 7 Februar",
+   "dateTabled": "2026-02-11T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1880929,
+   "uin": "112855",
+   "heading": "Public Bodies: Recruitment",
+   "questionText": "To ask the Secretary of State for Education, what monitoring her Department undertakes of recruitment and selection practices by organisations in receipt of public funds.",
+   "dateTabled": "2026-02-11T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1860154,
+   "uin": "96822",
+   "heading": "Resident Doctors: Strikes",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether his Department holds information on the number of resident doctors who, whilst on strike, work for another trust.",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1875784,
+   "uin": "108725",
+   "heading": "Medicine: Graduates",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what number of UK citizens have obtained a primary medical degree outside the UK by country in each of the last five years.",
+   "dateTabled": "2026-01-27T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1875786,
+   "uin": "108727",
+   "heading": "Medicine: Graduates",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many and what proportion of (a) home students and (b) non-home students who graduated from the UK with a primary medical degree from 2010 to 2020 remain working in the NHS.",
+   "dateTabled": "2026-01-27T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1875787,
+   "uin": "108728",
+   "heading": "Doctors: Training",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many staff responsible for UK Foundation programme allocation process are (a) NHS employees, (b) civil servants and (c) people involved in direct clinical care.",
+   "dateTabled": "2026-01-27T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1871126,
+   "uin": "105404",
+   "heading": "Sodium Valproate and Surgical Mesh Implants: Compensation",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether he plans to inform families of his plans for (a) interim and (b) main payment compensation before the second anniversary of the publication of the Hughes Report.",
+   "dateTabled": "2026-01-13T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1856513,
+   "uin": "94041",
+   "heading": "Audiology: Training",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the adequacy of training for people performing (a) newborn hearing tests and (b) audiology testing in children.",
+   "dateTabled": "2025-11-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1856511,
+   "uin": "94039",
+   "heading": "Audiology: Screening",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps he is taking to improve audiology screening for (a) children and (b) newborns.",
+   "dateTabled": "2025-11-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1874035,
+   "uin": "107436",
+   "heading": "Dangerous Driving: Driving Licences",
+   "questionText": "To ask the Secretary of State for Transport, what (a) number and (b) proportion of people who obtained a driving licence in the last 10 years after a previous conviction for death by careless driving committed a further motoring offence.",
+   "dateTabled": "2026-01-21T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1874034,
+   "uin": "107435",
+   "heading": "Dangerous Driving: Driving Licences",
+   "questionText": "To ask the Secretary of State for Transport, what (a) number and (b) proportion of people who obtained a driving licence in the last 10 years after a previous conviction for death by dangerous driving committed a further motoring offence.",
+   "dateTabled": "2026-01-21T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1874033,
+   "uin": "107434",
+   "heading": "Dangerous Driving: Driving Licences",
+   "questionText": "To ask the Secretary of State for Transport, what (a) proportion and (b) number of people imprisoned for death by careless driving obtain a driving licence within five years after release.",
+   "dateTabled": "2026-01-21T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1874032,
+   "uin": "107433",
+   "heading": "Dangerous Driving: Driving Licences",
+   "questionText": "To ask the Secretary of State for Transport, what (a) proportion and (b) number of people imprisoned for death by dangerous driving obtain a driving licence within five years after release.",
+   "dateTabled": "2026-01-21T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1873590,
+   "uin": "107113",
+   "heading": "Teachers: Lincolnshire",
+   "questionText": "To ask the Secretary of State for Education, what assessment she has made of the potential effect of cuts to teacher training bursaries in 26/27 on teacher recruitment in Lincolnshire.",
+   "dateTabled": "2026-01-20T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1873589,
+   "uin": "107112",
+   "heading": "Gyms and Leisure Centres: Business Rates",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of the potential impact of changes to business rates on the sustainability of commercial fitness gyms and community leisure centres serving rural communities.",
+   "dateTabled": "2026-01-20T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1873591,
+   "uin": "107114",
+   "heading": "Individual Savings Accounts",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment her Department has made of the potential impact of recent and proposed changes to ISAs on the complexity of the savings landscape and household saving behaviour.",
+   "dateTabled": "2026-01-20T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1873064,
+   "uin": "106563",
+   "heading": "Railway Stations: Access",
+   "questionText": "To ask the Secretary of State for Transport, which 30 stations have been approved for upgrades under the Access for All scheme.",
+   "dateTabled": "2026-01-19T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1873587,
+   "uin": "107110",
+   "heading": "Blood Cancer: Medical Treatments",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the potential impact of the severity modifier on recent NICE recommendations on blood cancer treatments.",
+   "dateTabled": "2026-01-20T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1873588,
+   "uin": "107111",
+   "heading": "Blood Cancer: Immunotherapy",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps he is taking to ensure access to CAR-T therapy for mantle cell lymphoma patients who previously have been ineligible under the cancer drugs fund following NICE's most recent decision.",
+   "dateTabled": "2026-01-20T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1871123,
+   "uin": "105275",
+   "heading": "Dentistry: Recruitment",
+   "questionText": "To ask the Secretary of State for Health and Social Care, pursuant to the Answer of 9 January 2026 to Question 78391 on Dentistry: Recruitment, whether he plans to publish in 2026 or 2027.",
+   "dateTabled": "2026-01-13T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1871125,
+   "uin": "105277",
+   "heading": "NHS: Databases",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps he has taken to mandate the release of data for the data linkage study.",
+   "dateTabled": "2026-01-13T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1871124,
+   "uin": "105276",
+   "heading": "Maternity Services: Staff",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether he has decided who the members of the maternity and neonatal taskforce will be.",
+   "dateTabled": "2026-01-13T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1871127,
+   "uin": "105405",
+   "heading": "NHS England",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what recent discussions he has had with the Leader of the House on the timing of the introduction of legislation on the abolition of NHS England.",
+   "dateTabled": "2026-01-13T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1869238,
+   "uin": "103817",
+   "heading": "Respiratory Syncytial Virus: Vaccination",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether he has made an estimate of the number of hospitals admissions which could be avoided per year among over 80 years olds through use of the RSV vaccine.",
+   "dateTabled": "2026-01-07T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1869242,
+   "uin": "103821",
+   "heading": "Pupils: Work Experience",
+   "questionText": "To ask the Secretary of State for Education, what assessment she has made of the adequacy of the (a) number and (b) variety of available work experience places for under 18s in the latest period for which data is available.",
+   "dateTabled": "2026-01-07T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1869239,
+   "uin": "103818",
+   "heading": "Department of Health and Social Care: Written Questions",
+   "questionText": "To ask the Secretary of State for Health and Social Care, when he intends to answer WPQ 84255 tabled on 22 October 2025.",
+   "dateTabled": "2026-01-07T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1869241,
+   "uin": "103820",
+   "heading": "Railway Stations: Access",
+   "questionText": "To ask the Secretary of State for Transport, which 50 stations have completed feasibility studies under the Access for All scheme.",
+   "dateTabled": "2026-01-07T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1869240,
+   "uin": "103819",
+   "heading": "Adoption: Personal Records",
+   "questionText": "To ask the Secretary of State for Education, what steps she is taking to make adoption records available to adults who were adopted.",
+   "dateTabled": "2026-01-07T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1860152,
+   "uin": "96820",
+   "heading": "Lincoln County Hospital: Accident and Emergency Departments",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many and what proportion of patients waited more than (a) 12, (b) 24, (c) 48 and (d) 60 hours at A&E at Lincoln County Hospital in the last 12 months.",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1864436,
+   "uin": "99918",
+   "heading": "Cabinet Office: Written Questions",
+   "questionText": "To ask the Minister for the Cabinet Office, what proportion of (a) named day questions and (b) ordinary written questions were responded to by her Department within the required timescale in (i) May 2025, (ii) June 2025, (iii) July 2025, (iv) August 2025,",
+   "dateTabled": "2025-12-15T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1864437,
+   "uin": "99919",
+   "heading": "Attorney General's Office: Written Questions",
+   "questionText": "To ask the Solicitor General, what proportion of (a) named day questions and (b) ordinary written questions were responded to by her Department within the required timescale in (i) May 2025, (ii) June 2025, (iii) July 2025, (iv) August 2025, (v) September",
+   "dateTabled": "2025-12-15T00:00:00",
+   "answeringBodyName": "Attorney General"
+  },
+  {
+   "id": 1862309,
+   "uin": "98498",
+   "heading": "Department for Work and Pensions: Written Questions",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what proportion of (a) named day questions and (b) ordinary written questions were responded to by her Department within the required timescale in (i) May 2025, (ii) June 2025, (iii) July 2025, (iv) Aug",
+   "dateTabled": "2025-12-09T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1864440,
+   "uin": "99922",
+   "heading": "Northern Ireland Office: Written Questions",
+   "questionText": "To ask the Secretary of State for Northern Ireland, what proportion of (a) named day questions and (b) ordinary written questions were responded to by her Department within the required timescale in (i) May 2025, (ii) June 2025, (iii) July 2025, (iv) Augu",
+   "dateTabled": "2025-12-15T00:00:00",
+   "answeringBodyName": "Northern Ireland Office"
+  },
+  {
+   "id": 1862310,
+   "uin": "98499",
+   "heading": "Foreign, Commonwealth and Development Office: Written Questions",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what proportion of (a) named day questions and (b) ordinary written questions were responded to by her Department within the required timescale in (i) May 2025, (ii) June 202",
+   "dateTabled": "2025-12-09T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1864438,
+   "uin": "99920",
+   "heading": "Scotland Office: Written Questions",
+   "questionText": "To ask the Secretary of State for Scotland, what proportion of (a) named day questions and (b) ordinary written questions were responded to by her Department within the required timescale in (i) May 2025, (ii) June 2025, (iii) July 2025, (iv) August 2025,",
+   "dateTabled": "2025-12-15T00:00:00",
+   "answeringBodyName": "Scotland Office"
+  },
+  {
+   "id": 1864439,
+   "uin": "99921",
+   "heading": "Wales Office: Written Questions",
+   "questionText": "To ask the Secretary of State for Wales, what proportion of (a) named day questions and (b) ordinary written questions were responded to by her Department within the required timescale in (i) May 2025, (ii) June 2025, (iii) July 2025, (iv) August 2025, (v",
+   "dateTabled": "2025-12-15T00:00:00",
+   "answeringBodyName": "Wales Office"
+  },
+  {
+   "id": 1862311,
+   "uin": "98500",
+   "heading": "Treasury: Written Questions",
+   "questionText": "To ask the Chancellor of the Exchequer, what proportion of (a) named day questions and (b) ordinary written questions were responded to by her Department within the required timescale in (i) May 2025, (ii) June 2025, (iii) July 2025, (iv) August 2025, (v)",
+   "dateTabled": "2025-12-09T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1862817,
+   "uin": "98940",
+   "heading": "Ministry of Defence: Written Questions",
+   "questionText": "To ask the Secretary of State for Defence, what proportion of (a) named day questions and (b) ordinary written questions were responded to by his Department within the required timescale in (i) May 2025, (ii) June 2025, (iii) July 2025, (iv) August 2025, ",
+   "dateTabled": "2025-12-10T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1862308,
+   "uin": "98497",
+   "heading": "Department for Science, Innovation and Technology: Written Questions",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what proportion of (a) named day questions and (b) ordinary written questions were responded to by her Department within the required timescale in (i) May 2025, (ii) June 2025, (iii) Ju",
+   "dateTabled": "2025-12-09T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1862813,
+   "uin": "98937",
+   "heading": "Home Office: Written Questions",
+   "questionText": "To ask the Secretary of State for the Home Department, what proportion of (a) named day questions and (b) ordinary written questions were responded to by her Department within the required timescale in (i) May 2025, (ii) June 2025, (iii) July 2025, (iv) A",
+   "dateTabled": "2025-12-10T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1862820,
+   "uin": "98942",
+   "heading": "Ministry of Housing, Communities and Local Government: Written Questions",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what proportion of (a) named day questions and (b) ordinary written questions were responded to by his Department within the required timescale in (i) May 2025, (ii) June 2025, (",
+   "dateTabled": "2025-12-10T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1862307,
+   "uin": "98496",
+   "heading": "Department for Business and Trade: Written Questions",
+   "questionText": "To ask the Secretary of State for Business and Trade, what proportion of (a) named day questions and (b) ordinary written questions were responded to by her Department within the required timescale in (i) May 2025, (ii) June 2025, (iii) July 2025, (iv) Au",
+   "dateTabled": "2025-12-09T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1862819,
+   "uin": "98941",
+   "heading": "Ministry of Justice: Written Questions",
+   "questionText": "To ask the Secretary of State for Justice, what proportion of (a) named day questions and (b) ordinary written questions were responded to by his Department within the required timescale in (i) May 2025, (ii) June 2025, (iii) July 2025, (iv) August 2025, ",
+   "dateTabled": "2025-12-10T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1862625,
+   "uin": "98870",
+   "heading": "Alcoholic Drinks: Labelling",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the potential implications for his policies of the effectiveness of mandatory health warning labels in tackling alcohol harms in (a) South Korea and (b) other countri",
+   "dateTabled": "2025-12-10T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1862000,
+   "uin": "97959",
+   "heading": "Department for Environment, Food and Rural Affairs: Written Questions",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what proportion of (a) named day questions and (b) ordinary written questions were responded to by her Department within the required timescale in (i) May 2025, (ii) June 2025, (iii) J",
+   "dateTabled": "2025-12-08T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1861998,
+   "uin": "97957",
+   "heading": "Department for Education: Written Questions",
+   "questionText": "To ask the Secretary of State for Education, what proportion of (a) named day questions and (b) ordinary written questions were responded to by her Department within the required timescale in (i) May 2025, (ii) June 2025, (iii) July 2025, (iv) August 2025",
+   "dateTabled": "2025-12-08T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1862002,
+   "uin": "97961",
+   "heading": "Department for Transport: Written Questions",
+   "questionText": "To ask the Secretary of State for Transport, what proportion of (a) named day questions and (b) ordinary written questions were responded to by her Department within the required timescale in (i) May 2025, (ii) June 2025, (iii) July 2025, (iv) August 2025",
+   "dateTabled": "2025-12-08T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1862001,
+   "uin": "97960",
+   "heading": "Department for Culture, Media and Sport: Written Questions",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what proportion of (a) named day questions and (b) ordinary written questions were responded to by her Department within the required timescale in (i) May 2025, (ii) June 2025, (iii) July 2025, (",
+   "dateTabled": "2025-12-08T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1861999,
+   "uin": "97958",
+   "heading": "Department for Energy Security and Net Zero: Written Questions",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what proportion of (a) named day questions and (b) ordinary written questions were responded to by his Department within the required timescale in (i) May 2025, (ii) June 2025, (iii) July 202",
+   "dateTabled": "2025-12-08T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1860153,
+   "uin": "96821",
+   "heading": "Cannabis: Medical Treatments",
+   "questionText": "To ask the Secretary of State for Health and Social Care, pursuant to the Answer of 1 December 2025 to Question 93572, what steps he is taking to protect NHS staff from second hand vape.",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1860155,
+   "uin": "96823",
+   "heading": "Human Papillomavirus: Vaccination",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps he is taking to help increase uptake of the HPV vaccine.",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1859011,
+   "uin": "95990",
+   "heading": "Mechanical Thrombectomy: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, pursuant to the Answer to Question 85849 on Mechanical Thrombectomy: Health Services, what estimate he has made of the time taken for a patient to be transferred from the referring centre to a hosp",
+   "dateTabled": "2025-12-01T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1859010,
+   "uin": "95989",
+   "heading": "Mechanical Thrombectomy: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, pursuant to the Answer to Question 85849 on Mechanical Thrombectomy: Health Services, when he expects people to be able to access thrombectomy services within four hours when needed.",
+   "dateTabled": "2025-12-01T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1859009,
+   "uin": "95988",
+   "heading": "Mechanical Thrombectomy: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, pursuant to the Answer to Question 85849 on Mechanical Thrombectomy: Health Services, how many and what proportion of stroke units are in trusts which offer mechanical thrombectomy.",
+   "dateTabled": "2025-12-01T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1860737,
+   "uin": "97302",
+   "heading": "Department of Health and Social Care: Written Questions",
+   "questionText": "To ask the Secretary of State for Health and Social Care, pursuant to the Answer of 3 December 2025 to Question 94188, what steps has he put in place to improve the speed of answering written parliamentary questions.",
+   "dateTabled": "2025-12-04T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1860156,
+   "uin": "96824",
+   "heading": "Police: Naloxone",
+   "questionText": "To ask the Secretary of State for the Home Department, which police forces carry naloxone on the front line.",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1857127,
+   "uin": "94274",
+   "heading": "Gender Identity Services for Children and Young People Independent Review",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference to the final report of the Cass Review, published in April 2024, what steps he is taking to help ensure the data linkage study is completed.",
+   "dateTabled": "2025-11-25T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1857128,
+   "uin": "94275",
+   "heading": "Robotics: Surgery",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many NHS Trusts offer robotic assisted surgery.",
+   "dateTabled": "2025-11-25T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1856512,
+   "uin": "94040",
+   "heading": "Department of Health and Social Care: Public Consultation",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many consultations his Department has launched since 4 July 2024; and if he will list them.",
+   "dateTabled": "2025-11-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1857126,
+   "uin": "94273",
+   "heading": "Health Professions: Students",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many (i) medical, (ii) dental and (iii) midwifery students it will fund to start studies in 2026.",
+   "dateTabled": "2025-11-25T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1857129,
+   "uin": "94276",
+   "heading": "Hospitals: Construction",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what progress it is making on the implementation of the New Hospital Programme.",
+   "dateTabled": "2025-11-25T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1856510,
+   "uin": "94038",
+   "heading": "Lead: Poisoning",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the reasons for increases in levels of lead poisoning in children.",
+   "dateTabled": "2025-11-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1857130,
+   "uin": "94277",
+   "heading": "Written Questions: Standards",
+   "questionText": "To ask the Leader of the House, how many and what proportion of Named Day written questions were answered (a) on time and (b) late (i) by Department and (ii) in total.",
+   "dateTabled": "2025-11-25T00:00:00",
+   "answeringBodyName": "Leader of the House"
+  },
+  {
+   "id": 1856514,
+   "uin": "94042",
+   "heading": "Medicine: Training",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many medical school places are funded for start in 2026.",
+   "dateTabled": "2025-11-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1962785,
+   "uin": "45843",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what guidance her Department has issued on how the phrase 'as a member' should be interpreted in clause 2 of section 85 of the Local Government Act 1972.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1962781,
+   "uin": "45839",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, on how many occasions in (a) 2024, (b) 2025 and (c) 2026 (i) she and (ii) Ministers in her Department held meetings with Ministers in the Department of Health and Social Care at ",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1962780,
+   "uin": "45838",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Transport, on how many occasions in (a) 2024, (b) 2025 and (c) 2026 (i) she and (ii) Ministers in her Department held meetings with Ministers in the Department of Health and Social Care at which acquired brain injury was ",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1962779,
+   "uin": "45837",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Education, on how many occasions in (a) 2024, (b) 2025 and (c) 2026 (i) she and (ii) Ministers in her Department held meetings with Ministers in the Department of Health and Social Care at which acquired brain injury was ",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1962778,
+   "uin": "45836",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Work and Pensions, on how many occasions in (a) 2024, (b) 2025 and (c) 2026 (i) he and (ii) Ministers in his Department held meetings with Ministers in the Department of Health and Social Care at which acquired brain inju",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1962777,
+   "uin": "45835",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Health and Social Care, how much money has been allocated for the New Hospital Programme in 2028-29.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  }
+ ],
+ "historyComplete": true
+}

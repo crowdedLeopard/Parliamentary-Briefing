@@ -1,0 +1,437 @@
+{
+ "id": 693,
+ "fetchedOn": "2026-11-24",
+ "core": {
+  "id": 693,
+  "nameListAs": "Kinnock, L.",
+  "nameDisplayAs": "Lord Kinnock",
+  "nameFullTitle": "The Rt Hon. the Lord Kinnock",
+  "nameAddressAs": "The Rt Hon. the Lord Kinnock",
+  "latestParty": {
+   "id": 15,
+   "name": "Labour",
+   "abbreviation": "Lab",
+   "backgroundColour": "d50000",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": true,
+   "governmentType": 0,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "Life peer",
+   "membershipFromId": 4,
+   "house": 2,
+   "membershipStartDate": "2005-01-28T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2005-01-28T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/693/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "1983-05-14T00:00:00",
+    "constituencyEnd": "1997-04-08T00:00:00",
+    "house": 1,
+    "name": "Islwyn",
+    "id": 1590,
+    "startDate": "1983-06-09T00:00:00",
+    "endDate": "1995-01-20T00:00:00",
+    "additionalInfo": "Elected 3 times",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "1974-02-09T00:00:00",
+    "constituencyEnd": "1983-05-13T00:00:00",
+    "house": 1,
+    "name": "Bedwellty",
+    "id": 188,
+    "startDate": "1974-02-28T00:00:00",
+    "endDate": "1983-06-09T00:00:00",
+    "additionalInfo": "Elected 3 times",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "1950-02-04T00:00:00",
+    "constituencyEnd": "1974-02-08T00:00:00",
+    "house": 1,
+    "name": "Bedwellty",
+    "id": 187,
+    "startDate": "1970-06-18T00:00:00",
+    "endDate": "1974-02-28T00:00:00",
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [],
+  "houseMemberships": [
+   {
+    "house": 2,
+    "name": "Lords",
+    "id": 2,
+    "startDate": "2005-01-28T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Lord Kinnock",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "1970-06-18T00:00:00",
+    "endDate": "1995-01-20T00:00:00",
+    "additionalInfo": "Neil Kinnock",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [],
+  "oppositionPosts": [
+   {
+    "house": 1,
+    "name": "Leader of HM Official Opposition",
+    "id": 4,
+    "startDate": "1983-10-02T00:00:00",
+    "endDate": "1992-07-18T00:00:00",
+    "additionalInfo": "HM Official Opposition",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Shadow Secretary of State",
+    "id": 16,
+    "startDate": "1979-05-03T00:00:00",
+    "endDate": "1983-06-09T00:00:00",
+    "additionalInfo": "HM Official Opposition",
+    "additionalInfoLink": ""
+   }
+  ],
+  "otherPosts": [
+   {
+    "house": null,
+    "name": "Vice-President of the European Commission",
+    "id": 825,
+    "startDate": "1999-09-16T00:00:00",
+    "endDate": "2004-11-21T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": null,
+    "name": "European Commissioner",
+    "id": 775,
+    "startDate": "1995-07-01T00:00:00",
+    "endDate": "2004-11-21T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Party Chair, Labour Party",
+    "id": 808,
+    "startDate": "1987-07-01T00:00:00",
+    "endDate": "1988-07-01T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Leader of the Labour Party",
+    "id": 789,
+    "startDate": "1983-10-02T00:00:00",
+    "endDate": "1992-07-18T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Member, Labour Party National Executive Committee",
+    "id": 803,
+    "startDate": "1978-07-01T00:00:00",
+    "endDate": "1994-07-01T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Labour",
+    "id": 15,
+    "startDate": "1970-06-18T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": []
+ },
+ "interests": [
+  {
+   "id": 11,
+   "name": "Nil",
+   "sortOrder": 0,
+   "interests": [
+    {
+     "id": 46121,
+     "interest": "No registrable interests",
+     "createdWhen": "2025-04-07T15:08:12",
+     "lastAmendedWhen": "2025-04-07T16:26:12.1",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [
+  {
+   "category": "Concerns: Policy Interests",
+   "focus": [
+    "Business, industry and consumers",
+    "Economy and finance",
+    "European Union",
+    "International affairs",
+    "Transport"
+   ]
+  },
+  {
+   "category": "Concerns: UK Areas",
+   "focus": [
+    "London",
+    "Wales"
+   ]
+  },
+  {
+   "category": "Concerns: World Areas",
+   "focus": [
+    "European Union",
+    "Southern Africa",
+    "United States of America"
+   ]
+  }
+ ],
+ "synopsis": "Lord Kinnock's full title is The Rt Hon. the Lord Kinnock. His name is Neil Gordon Kinnock, and he is a current member of the House of Lords.",
+ "history": [
+  {
+   "id": 1961310,
+   "uin": "HL5481",
+   "heading": "Chronic Obstructive Pulmonary Disease",
+   "questionText": "To ask His Majesty's Government what steps they are taking to establish clear clinical pathways for chronic obstructive pulmonary disease (COPD) care and ensure wider, more equitable, and accessible use of COPD biologics in relevant cases.",
+   "dateTabled": "2026-11-17T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1960065,
+   "uin": "HL5388",
+   "heading": "Utilities: Nationalisation",
+   "questionText": "To ask His Majesty's Government what consideration they have given to establishing and taking a golden share in public benefit companies to exercise accountable public control of essential utilities, including water and sewage.",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1947585,
+   "uin": "HL3966",
+   "heading": "Pension Funds",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by Lord Pitt-Watson on 17 September (HL3074), what progress has been made towards the voluntary commitment by UK pension funds to allocate at least 10 per cent of their default funds in privat",
+   "dateTabled": "2026-10-12T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1944128,
+   "uin": "HL3818",
+   "heading": "Pension Funds",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by Lord Pitt-Watson on 17 September (HL3074), what progress has been made towards the voluntary commitment by UK pension funds to allocate at least 10 per cent of their default funds in privat",
+   "dateTabled": "2026-10-05T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1942179,
+   "uin": "HL3492",
+   "heading": "Bank Reserves",
+   "questionText": "To ask His Majesty's Government why the practice of using public funds from HM Treasury to pay the Bank of England to enable the Bank to pay interest to commercial banks on their reserve deposits is continuing in the UK, in the light of international comp",
+   "dateTabled": "2026-09-14T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1942180,
+   "uin": "HL3491",
+   "heading": "Bank Reserves",
+   "questionText": "To ask His Majesty's Government what consideration they have given to paying interest on a proportion of reserve deposits made with the Bank of England by commercial banks and providing for any reduction in reserves to be paid out of the interest on that ",
+   "dateTabled": "2026-09-14T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1942181,
+   "uin": "HL3490",
+   "heading": "Bank Reserves",
+   "questionText": "To ask His Majesty's Government what has been the cost in each year since 2021–22 of payments to the Bank of England by HM Treasury, to enable the Bank to pay interest to commercial banks on their reserve deposits with the Bank.",
+   "dateTabled": "2026-09-14T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1942182,
+   "uin": "HL3489",
+   "heading": "Bank Reserves",
+   "questionText": "To ask His Majesty's Government what is the current total level of reserve deposits from commercial banks held by the Bank of England; and whether the interest paid by the Bank to commercial banks on those deposits is fixed at the Bank Rate by convention ",
+   "dateTabled": "2026-09-14T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1942183,
+   "uin": "HL3488",
+   "heading": "Demonstrations: Clothing",
+   "questionText": "To ask His Majesty's Government why the powers under the Public Order Act 1936 relating to the wearing of uniforms have not been used during political protests and demonstrations where people are dressed in similarly coloured clothing.",
+   "dateTabled": "2026-09-14T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1938206,
+   "uin": "HL3078",
+   "heading": "Asthma: Medical Treatments",
+   "questionText": "To ask His Majesty's Government what steps are taken by the NHS to inform asthma sufferers of the availability of biologic injections as a possible treatment for their condition; and whether the NHS policy on such public information varies from area to ar",
+   "dateTabled": "2026-09-03T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1938208,
+   "uin": "HL3076",
+   "heading": "Government Securities",
+   "questionText": "To ask His Majesty's Government what estimate they have made of the effect of bond sales by the Bank of England, undertaken because of quantitative tightening, on long-term borrowing rates; and what assessment they have made of the additional 30 basis poi",
+   "dateTabled": "2026-09-03T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1938209,
+   "uin": "HL3075",
+   "heading": "Government Securities",
+   "questionText": "To ask His Majesty's Government what estimate they have made of (a) gains to HM Treasury from the years of operation of quantitative easing, and (b) the losses to HM Treasury since 2022 from quantitative tightening as a result of the implementation of the",
+   "dateTabled": "2026-09-03T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1938210,
+   "uin": "HL3074",
+   "heading": "Pensions: Tax Allowances",
+   "questionText": "To ask His Majesty's Government what plans they have, if any, to make pension tax relief conditional upon undertakings by the funds to invest at least 15 per cent of their equity portfolios in British public and private companies.",
+   "dateTabled": "2026-09-03T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1938207,
+   "uin": "HL3077",
+   "heading": "Data Centres: Water",
+   "questionText": "To ask His Majesty's Government how many data centres are using or adapting their equipment to enable recycling of their own water for cooling systems; and how many data centres of older design and construction are not proceeding with such improvements an",
+   "dateTabled": "2026-09-03T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1918345,
+   "uin": "HL1165",
+   "heading": "Respiratory Diseases: Drugs",
+   "questionText": "To ask His Majesty's Government what steps they are taking to increase access to biologic medicines for people with asthma and chronic pulmonary obstructive disease.",
+   "dateTabled": "2026-06-22T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1918347,
+   "uin": "HL1164",
+   "heading": "Respiratory Diseases: Drugs",
+   "questionText": "To ask His Majesty's Government how many people with (1) severe asthma, and (2) chronic pulmonary obstructive disease, are currently prescribed biologic medicines in England, with figures for each integrated care board and NHS region.",
+   "dateTabled": "2026-06-22T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1918350,
+   "uin": "HL1163",
+   "heading": "Respiratory Diseases: Drugs",
+   "questionText": "To ask His Majesty's Government what assessment they have made of regional variation in England in access to, and take up of, biologic medicines for people with (1) severe asthma, and (2) chronic pulmonary obstructive disease.",
+   "dateTabled": "2026-06-22T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1918341,
+   "uin": "HL1167",
+   "heading": "Monetary Policy",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the approach to quantitative tightening undertaken by the European Central Bank and US Federal Reserve, which allow the relevant bonds to mature rather than engaging in the sale of such bon",
+   "dateTabled": "2026-06-22T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1918343,
+   "uin": "HL1166",
+   "heading": "Monetary Policy",
+   "questionText": "To ask His Majesty's Government what has been the cost to public funds of the Treasury's arrangement to support the Bank of England practice of quantitative tightening since 2022.",
+   "dateTabled": "2026-06-22T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1961308,
+   "uin": "HL5483",
+   "heading": "Respiratory Diseases: Health Services",
+   "questionText": "To ask His Majesty's Government whether they plan to develop a national plan to improve the preventative diagnosis and treatment of respiratory ailments in light of the annual winter surge in such conditions.",
+   "dateTabled": "2026-11-17T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1961309,
+   "uin": "HL5482",
+   "heading": "Respiratory Diseases: Health Services",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the effects of any reduction in Integrated Care Board staff on local respiratory expertise.",
+   "dateTabled": "2026-11-17T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1960061,
+   "uin": "HL5392",
+   "heading": "Tourette's Syndrome",
+   "questionText": "To ask His Majesty's Government what consideration they have given to the establishment of a Tourette syndrome data programme so that details of treatment waiting times and services are available for planning and provision purposes.",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1960062,
+   "uin": "HL5391",
+   "heading": "Tourette's Syndrome",
+   "questionText": "To ask His Majesty's Government what consideration they have given to establishing a national training programme for health and education professionals to improve awareness and understanding of Tourette syndrome and ensure more effective support and respo",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1960063,
+   "uin": "HL5390",
+   "heading": "Tourette's Syndrome",
+   "questionText": "To ask His Majesty's Government what consideration they have given to introducing a requirement for all NHS areas to establish a designated pathway for the diagnosis and treatment of Tourette syndrome, in order to address the current inconsistency in the ",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1960064,
+   "uin": "HL5389",
+   "heading": "Tourette's Syndrome",
+   "questionText": "To ask His Majesty's Government what consideration they have given to the creation of a National Institute for Health and Care Excellence (NICE) guideline for Tourette syndrome which would establish nationally recognised standards for diagnosis and manage",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1960066,
+   "uin": "HL5387",
+   "heading": "Motor Vehicles: Safety",
+   "questionText": "To ask His Majesty's Government when they intend to publish the findings of their examination of safety concerns relating to vehicle size, with particular reference to bonnet height, as set out in the Road Safety Strategy, published on 7 January.",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  }
+ ],
+ "historyComplete": true
+}
