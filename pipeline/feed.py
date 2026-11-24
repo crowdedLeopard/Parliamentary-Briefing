@@ -13,7 +13,8 @@ from concurrent.futures import ThreadPoolExecutor
 from datetime import date, datetime, timedelta, timezone
 
 from api import QS_API, Api
-from topics import match_topics
+from semantic import candidates, classify
+from topics import DEPARTMENTS, match_topics, screen_question
 
 log = logging.getLogger("feed")
 TRUNCATED = 250  # list endpoints cut question/answer/statement text at ~255 characters
@@ -74,16 +75,36 @@ def build_feed(api: Api, run_date: date, workers: int = 4) -> dict:
         full_statements = list(pool.map(full_s, statements))
     counts["apiCalls"] = api.calls
 
-    wq = []
+    # Layers 1-3: keyword rules, watched departments, watched members.
+    wq, missed = [], []
+    layer_counts = {"keyword": 0, "department": 0, "watchlist": 0, "semantic": 0}
     for q in full_questions:
-        m = match_topics(q.get("heading"), q.get("questionText"), q.get("answerText"))
-        if m:
-            wq.append({**q, "matched": _flat(m), "topics": m})
+        topics, layers = screen_question(q)
+        if layers:
+            for l in layers:
+                layer_counts[l] += 1
+            wq.append({**q, "matched": _flat(topics), "topics": topics, "matchedBy": layers})
+        else:
+            missed.append(q)
+    # Layer 4: the AI classifier reads everything the rules missed.
+    flagged, err = classify(candidates(missed))
+    if err:
+        warnings.append(err)
+    for q in missed:
+        f = flagged.get(q.get("id"))
+        if f:
+            layer_counts["semantic"] += 1
+            wq.append({**q, "matched": [f"AI: {f['reason']}"], "topics": {f["topic"]: [f["reason"]]},
+                       "matchedBy": ["semantic"]})
     ws = []
     for s in full_statements:
         m = match_topics(s.get("title"), s.get("text"))
-        if m:
-            ws.append({**s, "matched": _flat(m), "topics": m})
+        layers = ["keyword"] if m else []
+        if (s.get("answeringBodyName") or "") in DEPARTMENTS:
+            layers.append("department")
+            m.setdefault(f"{s.get('answeringBodyName')} business", [s.get("answeringBodyName")])
+        if layers:
+            ws.append({**s, "matched": _flat(m), "topics": m, "matchedBy": layers})
 
     if api.failures:
         warnings.append(f"{len(api.failures)} individual requests failed after retries; see the run log.")
@@ -95,6 +116,8 @@ def build_feed(api: Api, run_date: date, workers: int = 4) -> dict:
         "questionsScanned": len(questions),
         "statementsScanned": len(statements),
         "counts": counts,
+        "layers": layer_counts,
+        "aiClassifierRan": err is None,
         "writtenQuestions": sorted(wq, key=lambda q: (q.get("answeringBodyName") or "", q.get("uin") or "")),
         "writtenStatements": ws,
         "warnings": warnings,
