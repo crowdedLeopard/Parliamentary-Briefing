@@ -102,7 +102,7 @@ jobs:
           git add data reports editorial || true
           if git diff --cached --quiet; then echo "No changes"; exit 0; fi
           git commit -m "Briefing for $(date -u +%Y-%m-%d)"
-          git pull --rebase --quiet
+          git pull --rebase --quiet -X theirs   # generated files: this run's version wins on conflict
           git push
       - name: Keep the report as a downloadable artifact
         if: always()
