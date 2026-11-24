@@ -116,10 +116,12 @@ jobs:
           retention-days: 30
 
   site:
-    # Publishes the website on public GitHub Pages (anyone with the link; pages carry noindex so search
-    # engines skip them). Needs Settings > Pages > Source = "GitHub Actions" once. Set the repository
-    # variable PAGES_DISABLED=true to stop publishing. Azure Static Web Apps (sign-in required) also
-    # deploys if the AZURE_STATIC_WEB_APPS_API_TOKEN secret exists.
+    # Publishes the website (latest briefing + archive). Pages carry noindex and robots.txt blocks crawlers.
+    #   Public site (default): pushes only the built website to a separate PUBLIC repo, served by GitHub Pages
+    #     from its main branch. Needs the SITE_DEPLOY_TOKEN secret: a fine-grained token with Contents
+    #     read/write on that repo only. Repo name: variable SITE_REPO, default crowdedLeopard/parliamentary-briefing-site.
+    #   Pages in this repo: only if variable PAGES_SAME_REPO=true (needs a paid plan for a private repo).
+    #   Azure Static Web Apps (sign-in required): if the AZURE_STATIC_WEB_APPS_API_TOKEN secret exists.
     needs: build
     if: always() && (needs.build.outputs.ran == 'true' || github.event_name == 'workflow_dispatch')
     runs-on: ubuntu-latest
@@ -127,12 +129,11 @@ jobs:
       contents: read
       pages: write
       id-token: write
-    environment:
-      name: github-pages
-      url: ${{ steps.pages.outputs.page_url }}
     env:
       SWA_TOKEN: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN }}
-      PAGES_OFF: ${{ vars.PAGES_DISABLED }}
+      SITE_TOKEN: ${{ secrets.SITE_DEPLOY_TOKEN }}
+      SITE_REPO: ${{ vars.SITE_REPO || 'crowdedLeopard/parliamentary-briefing-site' }}
+      SAME_REPO: ${{ vars.PAGES_SAME_REPO }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -141,6 +142,27 @@ jobs:
         with:
           python-version: "3.12"
       - run: python pipeline/site.py
+      - name: Publish to the public site repo
+        if: env.SITE_TOKEN != ''
+        run: |
+          set -euo pipefail
+          if ! [[ "$SITE_REPO" =~ ^[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+$ ]]; then echo "::error::Bad SITE_REPO"; exit 1; fi
+          git clone --depth 1 "https://x-access-token:${SITE_TOKEN}@github.com/${SITE_REPO}.git" pub 2>&1 | sed "s/${SITE_TOKEN}/***/g"
+          find pub -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
+          cp -a _site/. pub/
+          rm -f pub/staticwebapp.config.json pub/403.html
+          cd pub
+          git config user.name "briefing-bot"
+          git config user.email "briefing-bot@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then echo "Site unchanged"; exit 0; fi
+          git commit -qm "Briefing site $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push -q origin HEAD:main
+          owner="${SITE_REPO%%/*}"; name="${SITE_REPO#*/}"
+          echo "::notice title=Briefing website::https://${owner,,}.github.io/${name}/"
+      - name: Public site not set up yet
+        if: env.SITE_TOKEN == '' && env.SWA_TOKEN == '' && env.SAME_REPO != 'true'
+        run: echo "::warning title=Website not published::Add the SITE_DEPLOY_TOKEN secret (see README, Website) to publish the public site."
       - name: Deploy to Azure Static Web Apps (Microsoft sign-in, invited users only)
         if: env.SWA_TOKEN != ''
         uses: Azure/static-web-apps-deploy@v1
@@ -150,18 +172,11 @@ jobs:
           app_location: _site
           skip_app_build: true
           skip_api_build: true
-      - name: Set up GitHub Pages
-        if: env.PAGES_OFF != 'true'
-        uses: actions/configure-pages@v5
-      - name: Upload for GitHub Pages
-        if: env.PAGES_OFF != 'true'
+      - name: Upload for GitHub Pages in this repo
+        if: env.SAME_REPO == 'true'
         uses: actions/upload-pages-artifact@v3
         with:
           path: _site
-      - name: Deploy to GitHub Pages
-        if: env.PAGES_OFF != 'true'
-        id: pages
+      - name: Deploy GitHub Pages in this repo
+        if: env.SAME_REPO == 'true'
         uses: actions/deploy-pages@v4
-      - name: Say where the site is
-        if: env.PAGES_OFF != 'true'
-        run: echo "::notice title=Briefing website::${{ steps.pages.outputs.page_url }}"
