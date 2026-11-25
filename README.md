@@ -1,6 +1,6 @@
 # Parliamentary briefing
 
-A daily briefing on UK Parliament activity relevant to Microsoft, for Hugh Milward (VP UK & Ireland, CELA). It replaces the suspended "Parliament Data Fetch Flow" in Power Automate and adds a profile of every member who asked a relevant question.
+A daily briefing on UK Parliament activity relevant to Microsoft. It replaces the suspended "Parliament Data Fetch Flow" in Power Automate and adds a profile of every member who asked a relevant question.
 
 > **Before relying on this daily:** the Power Automate flow was suspended by organisational policy. This Action does the same job from GitHub's cloud. Confirm with the policy owner that running it here is acceptable.
 
