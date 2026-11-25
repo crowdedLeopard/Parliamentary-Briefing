@@ -85,6 +85,30 @@ Each variable takes a comma-separated list. If a model reports "not available", 
 
 The repository is public, and every run publishes the website (latest briefing at the top, then the archive with each edition's validation status) to GitHub Pages at **https://crowdedleopard.github.io/Parliamentary-Briefing/**. Pages carry `noindex` and `robots.txt` blocks crawlers, so it should not show up in search results, but anyone with the link can read it.
 
+### Archive, themes and timeline
+
+The site job builds these from the files already in the repository. It needs no new secrets and changes no workflow.
+
+- **Day bar.** Every edition, old ones included, gets a bar at the top. It has previous and next, a date picker, and the edition's *continuing threads*. The bar is added by `pipeline/site.py` when the site is built, so `render.py` is untouched.
+- **All briefings** (`index.html`). A calendar shaded by how many questions were screened, with a red dot where Microsoft was named. Below it, a search of every screened question from the last 365 days (`search.json`, loaded only when someone searches). `latest.html` always opens the newest edition.
+- **Themes** (`themes.html`, from `pipeline/trends.py`). Shows topics by edition, rising topics (after three weeks of history) and recurring askers. It also shows four kinds of thread, each listing its questions:
+  - follow-up questions that cite an earlier answer;
+  - one member's series of questions;
+  - three or more members on the same Parliament subject;
+  - near-identical wording from different members.
+
+  It describes what was asked, never why.
+- **Timeline** (`timeline.html`, from `pipeline/news.py`). Shows screened questions by the day they were **tabled**, alongside events, UK news volume and recent headlines. The sources are:
+  - `data/events.json`, a hand-kept list;
+  - GOV.UK announcements from DSIT, CMA, Ofcom, ICO, NCSC, HMT, the Cabinet Office and DESNZ;
+  - GDELT, for UK news.
+
+  A question or speech that uses an event's `terms` is a *direct* link. Others on the same topic within 21 days are counted as *possible* only.
+
+News is fetched each time the site is built, within about 90 seconds. If it fails, that is listed as a gap and the site still publishes. To turn it off, set the variable `NEWS_DISABLED=true`.
+
+**Adding an event:** add an entry to `data/events.json` with `date` (and optionally `endDate`), `title`, `kind`, `outlet` and `source` (a link), plus `topics` (the topic labels from `topics.py`) and `terms`. `terms` is a list of word groups. A question has to contain a word from every group to count as a direct link.
+
 One-off setup: **Settings → Pages → Build and deployment → Source: GitHub Actions**, then run the workflow once (mode `render`). To stop publishing, set the variable `PAGES_DISABLED=true`.
 
 Alternatives: to keep this repo private and publish only the website, create a public repo and add a `SITE_DEPLOY_TOKEN` secret (fine-grained token, Contents read/write on that repo only); the run then pushes the built site there instead (repo name: variable `SITE_REPO`, default `crowdedLeopard/parliamentary-briefing-site`). For a site that needs a Microsoft sign-in, add the `AZURE_STATIC_WEB_APPS_API_TOKEN` secret.
