@@ -2,11 +2,13 @@ name: Daily parliamentary briefing
 
 on:
   schedule:
-    # 04:32 UK time every day, so the briefing is built and validated before the page refresh
-    # just before 06:00. GitHub cron is UTC, so fire at both 03:32 and 04:32 UTC; the script
-    # runs only on the one that falls at 04:xx London time (GMT or BST).
-    - cron: "32 3 * * *"
-    - cron: "32 4 * * *"
+    # Every 30 minutes from 03:07 to 09:37 UTC (04:07 to 10:37 in summer). GitHub's scheduler is
+    # best effort: runs can start late or be dropped, so one slot is not enough. Each run starts
+    # with the cheap "gate" job (pipeline/gate.py), which builds only if today's edition is still
+    # missing and the material (Hansard for every day a House sat, written questions) is published.
+    # Until 05:00 UK it waits for missing material; after that it builds with what there is and
+    # names the gap. Days when Parliament did not sit get a short edition saying so.
+    - cron: "7,37 3-9 * * *"
   workflow_dispatch:
     inputs:
       run_date:
@@ -27,13 +29,39 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  gate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    outputs:
+      build: ${{ steps.gate.outputs.build }}
+      alert: ${{ steps.gate.outputs.alert }}
+      edition: ${{ steps.gate.outputs.edition }}
+      reason: ${{ steps.gate.outputs.reason }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main   # the newest main, so a run that waited in the queue sees an edition built meanwhile
+      - name: Is today's edition missing, and is the material published?
+        id: gate
+        env:
+          EVENT: ${{ github.event_name }}
+          RUN_DATE: ${{ inputs.run_date }}
+        run: |
+          ARGS=(--event "$EVENT")
+          if [[ "$RUN_DATE" =~ ^[0-9]{4}-[0-9]{2}-[0-9]{2}$ ]]; then ARGS+=(--run-date "$RUN_DATE"); fi
+          python3 pipeline/gate.py "${ARGS[@]}"
+
   build:
+    needs: gate
+    if: needs.gate.outputs.build == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 120
     outputs:
       ran: ${{ steps.run.outputs.ran }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main   # a queued run must see any edition committed since it was triggered
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -73,10 +101,8 @@ jobs:
           CLASSIFIER_MODEL: ${{ vars.CLASSIFIER_MODEL }}
           RUN_DATE: ${{ inputs.run_date }}
           MODE: ${{ inputs.mode }}
-          EVENT: ${{ github.event_name }}
         run: |
           ARGS=()
-          if [ "$EVENT" = "schedule" ]; then ARGS+=(--scheduled); fi
           if [[ "$RUN_DATE" =~ ^[0-9]{4}-[0-9]{2}-[0-9]{2}$ ]]; then ARGS+=(--run-date "$RUN_DATE"); fi
           if [[ "$MODE" =~ ^(full|validate|render)$ ]]; then ARGS+=(--mode "$MODE"); fi
           [ -z "$COPILOT_GITHUB_TOKEN" ] && unset COPILOT_GITHUB_TOKEN
@@ -101,7 +127,7 @@ jobs:
           git config user.email "briefing-bot@users.noreply.github.com"
           git add data reports editorial || true
           if git diff --cached --quiet; then echo "No changes"; exit 0; fi
-          git commit -m "Briefing for $(date -u +%Y-%m-%d)"
+          git commit -m "Briefing edition ${{ needs.gate.outputs.edition }} (built $(date -u +%Y-%m-%d))"
           git pull --rebase --quiet -X theirs   # generated files: this run's version wins on conflict
           git push
       - name: Keep the report as a downloadable artifact
@@ -114,6 +140,31 @@ jobs:
             editorial/*.json
           if-no-files-found: ignore
           retention-days: 30
+
+  alert:
+    # Opens (or adds to) a GitHub issue when a scheduled build fails or is not validated, or when the
+    # edition is still missing at 09:00 UK, so a missed edition is never silent. GitHub emails the
+    # repo owner about new issues and comments.
+    needs: [gate, build]
+    if: always() && github.event_name == 'schedule' && (needs.build.result == 'failure' || needs.gate.outputs.alert == 'true' || needs.gate.result == 'failure')
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          EDITION: ${{ needs.gate.outputs.edition }}
+          REASON: ${{ needs.gate.outputs.reason }}
+          BUILD: ${{ needs.build.result }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          title="Briefing edition ${EDITION:-unknown} needs attention"
+          body="Scheduled run: $RUN_URL
+          Build job: $BUILD
+          Gate: $REASON"
+          n=$(gh issue list --state open --search "\"$title\" in:title" --json number --jq '.[0].number')
+          if [ -n "$n" ]; then gh issue comment "$n" --body "$body"; else gh issue create --title "$title" --body "$body"; fi
 
   site:
     # Publishes the website (latest briefing + archive). Pages carry noindex and robots.txt blocks crawlers.
