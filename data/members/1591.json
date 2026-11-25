@@ -1,0 +1,2519 @@
+{
+ "id": 1591,
+ "fetchedOn": "2026-11-25",
+ "core": {
+  "id": 1591,
+  "nameListAs": "Farron, Tim",
+  "nameDisplayAs": "Tim Farron",
+  "nameFullTitle": "Tim Farron MP",
+  "nameAddressAs": "Tim Farron",
+  "latestParty": {
+   "id": 17,
+   "name": "Liberal Democrat",
+   "abbreviation": "LD",
+   "backgroundColour": "fc7d0b",
+   "foregroundColour": "FFFFFF",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": false,
+   "governmentType": null,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "Westmorland and Lonsdale",
+   "membershipFromId": 4395,
+   "house": 1,
+   "membershipStartDate": "2005-05-05T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2024-07-04T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/1591/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2024-05-31T00:00:00",
+    "constituencyEnd": null,
+    "house": 1,
+    "name": "Westmorland and Lonsdale",
+    "id": 4395,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "2010-04-13T00:00:00",
+    "constituencyEnd": "2024-05-30T00:00:00",
+    "house": 1,
+    "name": "Westmorland and Lonsdale",
+    "id": 3850,
+    "startDate": "2010-05-06T00:00:00",
+    "endDate": "2024-05-30T00:00:00",
+    "additionalInfo": "Elected 4 times",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "1997-04-09T00:00:00",
+    "constituencyEnd": "2010-04-12T00:00:00",
+    "house": 1,
+    "name": "Westmorland and Lonsdale",
+    "id": 3161,
+    "startDate": "2005-05-05T00:00:00",
+    "endDate": "2010-05-06T00:00:00",
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [
+   {
+    "house": 1,
+    "name": "Westmorland and Lonsdale",
+    "id": 3161,
+    "startDate": "2001-06-07T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "South Ribble",
+    "id": 2667,
+    "startDate": "1997-05-01T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "North West Durham",
+    "id": 2167,
+    "startDate": "1992-04-09T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "houseMemberships": [
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "2005-05-05T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Tim Farron",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [],
+  "oppositionPosts": [
+   {
+    "house": 1,
+    "name": "Liberal Democrat Spokesperson (Environment, Food and Rural Affairs)",
+    "id": 1256,
+    "startDate": "2020-09-07T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Opposition Department",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Liberal Democrat Spokesperson (Food and Rural Affairs)",
+    "id": 1516,
+    "startDate": "2020-01-06T00:00:00",
+    "endDate": "2020-09-07T00:00:00",
+    "additionalInfo": "Opposition Department",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Liberal Democrat Spokesperson (Housing, Communities and Local Government)",
+    "id": 1424,
+    "startDate": "2019-08-21T00:00:00",
+    "endDate": "2022-07-11T00:00:00",
+    "additionalInfo": "Opposition Department",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Liberal Democrat Spokesperson (Work and Pensions)",
+    "id": 1254,
+    "startDate": "2019-08-21T00:00:00",
+    "endDate": "2020-01-06T00:00:00",
+    "additionalInfo": "Opposition Department",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Liberal Democrat Spokesperson (North of England) (Northern Powerhouse)",
+    "id": 1515,
+    "startDate": "2019-08-21T00:00:00",
+    "endDate": "2020-09-07T00:00:00",
+    "additionalInfo": "Opposition Department",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Liberal Democrat Spokesperson (Communities and Local Government)",
+    "id": 1488,
+    "startDate": "2019-02-07T00:00:00",
+    "endDate": "2019-08-21T00:00:00",
+    "additionalInfo": "Opposition Department",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Liberal Democrat Spokesperson (Environment, Food and Rural Affairs)",
+    "id": 1256,
+    "startDate": "2017-10-12T00:00:00",
+    "endDate": "2019-02-07T00:00:00",
+    "additionalInfo": "Opposition Department",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Shadow Secretary of State (Environment)",
+    "id": 1018,
+    "startDate": "2008-10-07T00:00:00",
+    "endDate": "2010-05-06T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Shadow Minister (Environment, Food and Rural Affairs)",
+    "id": 962,
+    "startDate": "2007-12-20T00:00:00",
+    "endDate": "2008-10-07T00:00:00",
+    "additionalInfo": "Department for Environment, Food and Rural Affairs",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Minister (Home Affairs)",
+    "id": 966,
+    "startDate": "2007-04-01T00:00:00",
+    "endDate": "2007-12-20T00:00:00",
+    "additionalInfo": "Home Office",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/home-office"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Spokesperson (Children, Schools and Families)",
+    "id": 1036,
+    "startDate": "2005-05-10T00:00:00",
+    "endDate": "2006-03-05T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "otherPosts": [
+   {
+    "house": 1,
+    "name": "Leader of the Liberal Democrats",
+    "id": 785,
+    "startDate": "2015-07-16T00:00:00",
+    "endDate": "2017-07-20T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Party Chair, Liberal Democrats",
+    "id": 1098,
+    "startDate": "2011-01-01T00:00:00",
+    "endDate": "2014-12-31T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Liberal Democrat",
+    "id": 17,
+    "startDate": "2005-05-05T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 1,
+    "name": "Education & Skills",
+    "id": 46,
+    "startDate": "2005-07-12T00:00:00",
+    "endDate": "2006-05-22T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Environmental Audit Committee",
+    "id": 62,
+    "startDate": "2006-05-22T00:00:00",
+    "endDate": "2007-07-12T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "European Scrutiny Committee",
+    "id": 69,
+    "startDate": "2010-07-26T00:00:00",
+    "endDate": "2013-11-25T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Education (Careers Guidance in Schools) Bill",
+    "id": 545,
+    "startDate": "2021-09-22T00:00:00",
+    "endDate": "2021-10-27T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Glue Traps (Offences) Bill",
+    "id": 573,
+    "startDate": "2022-01-12T00:00:00",
+    "endDate": "2022-01-19T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Levelling-up and Regeneration Bill",
+    "id": 598,
+    "startDate": "2022-06-15T00:00:00",
+    "endDate": "2022-10-20T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Equipment Theft (Prevention) Bill",
+    "id": 642,
+    "startDate": "2023-01-25T00:00:00",
+    "endDate": "2023-02-01T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Offenders (Day of Release from Detention) Bill",
+    "id": 651,
+    "startDate": "2023-02-01T00:00:00",
+    "endDate": "2023-02-08T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Community and Suspended Sentences (Notification of Details) Bill",
+    "id": 729,
+    "startDate": "2024-05-08T00:00:00",
+    "endDate": "2024-05-15T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Water (Special Measures) Bill [HL]",
+    "id": 755,
+    "startDate": "2024-12-18T00:00:00",
+    "endDate": "2025-01-16T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 3,
+   "name": "2. (b) Any other support not included in Category 2(a)",
+   "sortOrder": 0,
+   "interests": [
+    {
+     "id": 12166,
+     "interest": "Name of donor: Faith in Public Ltd\r\nAddress of donor: C/o Sedulo Office 605, Albert House, 256 - 260 Old Street, London EC1V 9DD\r\nAmount of donation or nature and value if donation in kind: The services of two policy advisers for a total of 30 hours a week between 1 April 2025 and 31 March 2026, value £29,982.51\r\nDate received: 1 April 2025 to 31 March 2026\r\nDate accepted: 1 April 2025\r\nDonor status: company, registration 11134849\r\n(Registered 2 April 2025; updated 15 July 2025, 14 October 2025 and 24 March 2026)",
+     "createdWhen": "2026-04-14T09:26:26.78",
+     "lastAmendedWhen": "2025-10-21T14:20:17.3066667",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 12167,
+     "interest": "Name of donor: Refugee, Asylum & Migration Policy Project (RAMP)\r\nAddress of donor: The Courtyard, High Street, Ascot SL5 7HP\r\nAmount of donation or nature and value if donation in kind: The services of a policy adviser for one day per week from 1st April 2025 until 31st December 2025, value £9,750\r\nDate received: 1 April 2025 to 31 December 2025\r\nDate accepted: 1 April 2025\r\nDonor status: company, registration 12373468\r\n(Registered 2 April 2025)",
+     "createdWhen": "2025-04-08T08:47:25.9566667",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 13533,
+     "interest": "Name of donor: Faith in Public Ltd\r\nAddress of donor: C/O Sedulo Office 605, Albert House, 256 - 260 Old Street, London EC1V 9DD\r\nAmount of donation or nature and value if donation in kind: £7,982.03\r\nDate received: 29 September 2025 to 28 February 2026\r\nDate accepted: 29 September 2025\r\nDonor status: company, registration 11134849\r\n(Registered 24 March 2026)\r\nThis is a late entry to which the rectification procedure was applied on 23 June 2026. Paragraph 51 of the Procedural Protocol in respect of the Code of Conduct refers.\r\n",
+     "createdWhen": "2026-06-30T09:44:38.73",
+     "lastAmendedWhen": "2026-04-14T09:26:26.78",
+     "deletedWhen": null,
+     "isCorrection": true,
+     "childInterests": []
+    },
+    {
+     "id": 15277,
+     "interest": "Name of donor: Refugee, Asylum & Migration Policy Project (RAMP)\r\nAddress of donor: The Courtyard, High Street, Ascot SL5 7HP\r\nAmount of donation or nature and value if donation in kind: The services of a policy adviser for one day per week from 1 February 2026 - 30 April 2026, value £3,250\r\nDate received: 1 February 2026 to 30 April 2026\r\nDate accepted: 1 February 2026\r\nDonor status: company, registration 12373468\r\n(Registered 20 May 2026)\r\nThis is a late entry to which the rectification procedure was applied on 23 June 2026. Paragraph 51 of the Procedural Protocol in respect of the Code of Conduct refers.",
+     "createdWhen": "2026-08-18T14:19:15.0044865",
+     "lastAmendedWhen": "2026-06-30T09:44:38.73",
+     "deletedWhen": null,
+     "isCorrection": true,
+     "childInterests": []
+    },
+    {
+     "id": 15280,
+     "interest": "Name of donor: Refugee, Asylum & Migration Policy Project (RAMP)\r\nAddress of donor: The Courtyard, High Street, Ascot SL5 7HP\r\nAmount of donation or nature and value if donation in kind: The services of a policy adviser for 52 days per year, value £13,400\r\nDate received: 1 May 2026 to 31 December 2026\r\nDate accepted: 1 May 2026\r\nDonor status: company, registration 12373468\r\n(Registered 20 May 2026)",
+     "createdWhen": "2026-06-03T10:07:17.0566667",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 15052,
+     "interest": "Name of donor: Faith in Public Ltd\r\nAddress of donor: C/O Sedulo Office 605, Albert House, 256 - 260 Old Street, London EC1V 9DD\r\nAmount of donation or nature and value if donation in kind: £30,141.62 the services of two policy advisers for a total of 30 hours a week\r\nDate received: 1 April 2026 to 31 March 2027\r\nDate accepted: 1 April 2026\r\nDonor status: company, registration 11134849\r\n(Registered 20 May 2026; updated 19 August 2026)\r\nThis is a late entry to which the rectification procedure was applied on 23 June 2026. Paragraph 51 of the Procedural Protocol in respect of the Code of Conduct refers.\r\n",
+     "createdWhen": "2026-09-08T08:55:16.8066667",
+     "lastAmendedWhen": "2026-06-30T09:44:38.73",
+     "deletedWhen": null,
+     "isCorrection": true,
+     "childInterests": []
+    },
+    {
+     "id": 14670,
+     "interest": "Name of donor: Faith in Public Ltd\r\nAddress of donor: 10 Queen Street Place, London EC4R 1BE\r\nAmount of donation or nature and value if donation in kind: £15,264 the services of a public relations company\r\nDate received: 1 March 2026 to 28 February 2027\r\nDate accepted: 1 March 2026\r\nDonor status: company, registration 11134849\r\n(Registered 20 May 2026)\r\nThis is a late entry to which the rectification procedure was applied on 23 June 2026. Paragraph 51 of the Procedural Protocol in respect of the Code of Conduct refers.\r\n",
+     "createdWhen": "2026-06-30T09:44:38.73",
+     "lastAmendedWhen": "2026-06-03T10:07:17.0566667",
+     "deletedWhen": null,
+     "isCorrection": true,
+     "childInterests": []
+    },
+    {
+     "id": 17154,
+     "interest": "Name of donor: Radiotherapy UK\r\nAddress of donor: Flat 4, Abbotsbury House, 139 Abbotsbury Road, London, W14 8EN\r\nAmount of donation or nature and value if donation in kind: APPG Secretariat, value £1,500.15\r\nDate received: 18 September 2026\r\nDate accepted: 18 September 2026\r\nDonor status: other (Radiotherapy UK is a Registered Charity (1135902))\r\n(Registered 6 October 2026)",
+     "createdWhen": "2026-10-13T09:27:33.89",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 17189,
+     "interest": "Name of donor: Faith in Public Ltd\r\nAddress of donor: Faith in Public Ltd, C/o Sedulo Office, 605 Albert House, 256-260 Old Street, London EC1V 9DD\r\nAmount of donation or nature and value if donation in kind: The services of an intern for 30 hours a week between 28 September 2026 and 31 July 2027, value £19,994.20\r\nDate received: 28 September 2026 to 31 July 2027\r\nDate accepted: 28 September 2026\r\nDonor status: company, registration 11134849\r\n(Registered 12 October 2026)",
+     "createdWhen": "2026-10-13T09:27:33.89",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "name": "3. Gifts, benefits and hospitality from UK sources",
+   "sortOrder": 1,
+   "interests": [
+    {
+     "id": 1117,
+     "interest": "Name of donor: National Liberal Club\r\nAddress of donor: Whitehall Place, London SW1A 2HE\r\nAmount of donation or nature and value if donation in kind: honorary life membership as Leader of the Liberal Democrats (£735 pa in 2015, plus £367.50 entrance fee), value £1,102.50\r\nDate received: 1 August 2015\r\nDate accepted: 1 August 2015\r\nDonor status: friendly society\r\n(Registered 10 August 2015)",
+     "createdWhen": "2024-05-13T11:34:11.1697028",
+     "lastAmendedWhen": "2024-04-18T15:17:21.42",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "name": "4. Visits outside the UK",
+   "sortOrder": 2,
+   "interests": [
+    {
+     "id": 14685,
+     "interest": "Name of donor: ELNET UK / Liberal Democrat Friends of Israel\r\nAddress of donor: ELNET UK, 4th Floor, 6 Princes Street, London W1B2LG\r\nEstimate of the probable value (or amount of any donation): Accommodation (£915), flights (£936), food (£446), value £2,297\r\nDestination of visit: Israel\r\nDates of visit: 15 February 2026 to 19 February 2026\r\nPurpose of visit: Fact-finding visit to Israel and Ramallah. Meeting with Israeli and Palestinian co-existence campaigners, politicians, academics and diplomats.\r\n(Registered 20 May 2026)\r\nThis is a late entry to which the rectification procedure was applied on 23 June 2026. Paragraph 51 of the Procedural Protocol in respect of the Code of Conduct refers.",
+     "createdWhen": "2026-06-30T09:44:38.73",
+     "lastAmendedWhen": "2026-06-03T10:07:17.0566667",
+     "deletedWhen": null,
+     "isCorrection": true,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "name": "8. Miscellaneous",
+   "sortOrder": 3,
+   "interests": [
+    {
+     "id": 1909,
+     "interest": "Advisory Board Member of BOMAD Investments Ltd (trading as HomeNow), an affordable housing scheme. This is an unpaid role.\r\nDate interest arose: 20 January 2021\r\n(Registered 21 January 2021)",
+     "createdWhen": "2024-04-18T15:15:56.6866667",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 12591,
+     "interest": "Trustee of the Parliamentary Christian Trust. This is an unpaid role.\r\nDate interest arose: 7 January 2019\r\n(Registered 9 June 2025)",
+     "createdWhen": "2026-06-19T08:55:51.8831895",
+     "lastAmendedWhen": "2025-07-01T10:56:32.82",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [
+  {
+   "category": "Political Interests",
+   "focus": [
+    "Education, rural affairs, youth work, health, crime and policing, social care"
+   ]
+  }
+ ],
+ "synopsis": "Tim Farron is the Liberal Democrat MP for <a href='/constituency/4395/overview'>Westmorland and Lonsdale</a>, and has been an MP continually since 5 May 2005. \r\nHe currently undertakes the role of Liberal Democrat Spokesperson (Environment, Food and Rural Affairs).",
+ "history": [
+  {
+   "id": 1960349,
+   "uin": "43479",
+   "heading": "Death",
+   "questionText": "To ask the Minister for the Cabinet Office, whether the Office for National Statistics will publish provisional all cause, respiratory and cardiovascular deaths in England by date of occurrence for 6 to 10 November 2026.",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1960356,
+   "uin": "43486",
+   "heading": "Air Pollution",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether her Department plans commission the UK Health Security Agency to work with the Department for Environment, Food and Rural Affairs to estimate the additional hospital admissions and deaths a",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1960355,
+   "uin": "43485",
+   "heading": "Cardiovascular Diseases and Respiratory Diseases",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many patients admitted for emergencies in England during 6-10 November 2026 with respiratory or cardiovascular conditions (a) required critical care, (b) required assisted ventilation and (c) s",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1960352,
+   "uin": "43482",
+   "heading": "Respiratory Diseases",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment the UK Health Security Agency has made of unusual increases in asthma and breathing difficulties in emergency department, general practice and NHS 111 surveillance during 6-10 Novem",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1960351,
+   "uin": "43481",
+   "heading": "Cardiovascular Diseases and Respiratory Diseases",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether the Department will publish daily numbers of (a) emergency department attendances and (b) ambulance incidents involving breathing difficulties or chest pain in England on 6, 7, 8, 9 and 10 ",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1960350,
+   "uin": "43480",
+   "heading": "Cardiovascular Diseases and Respiratory Diseases",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether the Department will publish daily emergency hospital admissions in England for respiratory and cardiovascular conditions on 6, 7, 8, 9, 10 November 2026, separately identifying asthma and c",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1939824,
+   "uin": "28290",
+   "heading": "Planning: Camping Sites",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, whether she has made an assessment of the potential merits of amending Class BC permitted development rights to exclude land within (a) national parks, (b) national landscapes, (",
+   "dateTabled": "2026-09-09T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1960348,
+   "uin": "43478",
+   "heading": "Air Pollution",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether the Prime Minister was warned about the air pollution episode in England over 7 and 8 November 2026.",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1956913,
+   "uin": "41026",
+   "heading": "Emergencies: Weather",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what steps the Met Office takes to (a) cooperate with other departments and public bodies on its leadership of the National Severe Weather Warning Service and (b) coordinate with t",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1956903,
+   "uin": "41016",
+   "heading": "Air Pollution: Emergencies",
+   "questionText": "To ask the Minister for the Cabinet Office, for what reason UIN 37591 was transferred to Defra; and what responsibility her Department has for co-ordinating proactive public warnings and responses to air pollution emergencies involving more than one gover",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1956894,
+   "uin": "41007",
+   "heading": "Air Pollution: Fires",
+   "questionText": "To ask the Minister for the Cabinet Office, pursuant to the answer of 26 October 2026 to UIN 31586, who chaired the Cabinet Office Briefing Rooms meeting on 12 August 2026, which ministers, departments, agencies and official posts attended; whether respon",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1944374,
+   "uin": "30363",
+   "heading": "Waste Management: Inspections",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, how many waste sites permitted under the Environmental Permitting (England and Wales) Regulations 2016 were not inspected by the Environment Agency in each of the last five years; and ",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1956912,
+   "uin": "41025",
+   "heading": "Department for Environment, Food and Rural Affairs: Departmental Records",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, whether the Government Digital Service or the National Archives holds a central index of publications and other items issued by the Department for Environment, Food and Rural Affairs abo",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1956911,
+   "uin": "41024",
+   "heading": "Air Pollution: UK Trade with EU",
+   "questionText": "To ask the Secretary of State for Transport, what assessment her Department has made of the potential impact of divergence between UK and (a) Directive (EU) 2024/2881 and (b) other EU air quality protections on (a) trade and investment and (b) rebalancing",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1956907,
+   "uin": "41020",
+   "heading": "Air Pollution",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, with reference to the Answer of 3 March 2025 to Question 31779, what assessment her Department has made of the adequacy of opportunities in the commissioned public research and selecte",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1956908,
+   "uin": "41021",
+   "heading": "Air Pollution",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether her Department plans to publish the dates, attendance, agendas, minutes and decision records of the Air Pollution Awareness Coalition’s plenary and working group meetings; what",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1956909,
+   "uin": "41022",
+   "heading": "Air Pollution",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what definitions and approval criteria distinguish an air pollution press release, news story, information bulletin and alert; which require proactive distribution to news media; and w",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1956910,
+   "uin": "41023",
+   "heading": "Air Pollution",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, if she will make an assessment of the potential merits of (a) providing a single accessible, dated and versioned PDF of the complete Air Pollution in the UK 2025 report and future annu",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1956906,
+   "uin": "41019",
+   "heading": "Air Pollution: Warnings",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, pursuant to the Answer of 2 November 2026 to Question 37591, how her Department’s responsibilities for air pollution from human activity and natural sources interface with the Departme",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1948572,
+   "uin": "34467",
+   "heading": "Waste Disposal: Inspections",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, how many instances of serious non-compliance were identified by the Environment Agency at permitted waste sites in (a) 2023, (b) 2024 and (c) 2025, and in each of those years, what pro",
+   "dateTabled": "2026-10-13T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1952680,
+   "uin": "37608",
+   "heading": "Water Supply",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, how much money her Department has spent on a) lawyers and b) consultants in drafting the Water Bill.",
+   "dateTabled": "2026-10-23T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1953347,
+   "uin": "38135",
+   "heading": "Schools: Finance",
+   "questionText": "To ask the Secretary of State for Education, what assessment she has made of the impact on school budgets of staff remaining on sickness absence during disciplinary proceedings while schools are required to fund replacement cover.",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1952340,
+   "uin": "37476",
+   "heading": "Russia: Shipping",
+   "questionText": "To ask the Secretary of State for Defence, how many Russian naval, research and civilian-flagged vessels have been detected loitering near UK subsea cables, gas pipelines and interconnectors in each of the last five years; and assessment his Department ha",
+   "dateTabled": "2026-10-22T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1952668,
+   "uin": "37596",
+   "heading": "Heathrow Airport: Construction",
+   "questionText": "To ask the Secretary of State for Transport, what assessment her Department has made of the potential impact of a third runway at Heathrow Airport on the likelihood of annual nitrogen dioxide emissions in the Greater London urban area exceeding the 2025 l",
+   "dateTabled": "2026-10-23T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1952662,
+   "uin": "37590",
+   "heading": "Public Health: Air Pollution",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference to page 22 of the UKHSA's document entitled Adverse Weather and Health Plan Protecting health from weather related harm 2026 to 2027, published in March 2026, if she will set out how",
+   "dateTabled": "2026-10-23T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1952661,
+   "uin": "37589",
+   "heading": "Public Health: Air Pollution",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether she has made an assessment of the potential merits for public health of adopting the Republic of France’s system of issuing advance public warnings and recommending emission reductions duri",
+   "dateTabled": "2026-10-23T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1952663,
+   "uin": "37591",
+   "heading": "Air Pollution: Warnings",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, which Minister is responsible for coordinating proactive public warnings and responses to significant air pollution episodes from (a) anthropogenic and (b) non-anthropogenic sources; a",
+   "dateTabled": "2026-10-23T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1953346,
+   "uin": "38134",
+   "heading": "Teachers: Regulation",
+   "questionText": "To ask the Secretary of State for Education, how many referrals were made to the Teaching Regulation Agency relating to safeguarding concerns involving teachers in each year since 2017; and how many of those referrals followed the use of a settlement agre",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1953349,
+   "uin": "38137",
+   "heading": "Schools: Disciplinary Proceedings",
+   "questionText": "To ask the Secretary of State for Education, whether she plans to review the use of compromise and settlement agreements in schools where disciplinary proceedings relate to safeguarding concerns, misconduct or professional standards.",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1953348,
+   "uin": "38136",
+   "heading": "Schools: Disciplinary Proceedings",
+   "questionText": "To ask the Secretary of State for Education, what support, guidance and training her Department provides to school leaders and governing bodies on managing disciplinary proceedings involving school staff where there are safeguarding concerns.",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1953345,
+   "uin": "38133",
+   "heading": "Schools: Disciplinary Proceedings",
+   "questionText": "To ask the Secretary of State for Education, what assessment she has made of the potential safeguarding implications of settlement agreements which conclude disciplinary proceedings involving school staff before those proceedings are completed; and whethe",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1952339,
+   "uin": "37475",
+   "heading": "Energy Supply: National Security",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what assessment he has made of the potential impact on resilience against hostile attacks on energy infrastructure of (a) domestic renewable generation, (b) community and distributed energy, ",
+   "dateTabled": "2026-10-22T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1952338,
+   "uin": "37474",
+   "heading": "Energy Supply",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what assessment he has made of the potential impact of the (a) cutting or damaging of subsea gas pipelines and electricity interconnectors and (b) time needed to repair them energy security; ",
+   "dateTabled": "2026-10-22T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1952334,
+   "uin": "37470",
+   "heading": "Electricity Generation: Security",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what assessment he has made of the adequacy of the (a) cyber and (b) physical resilience of (i) power stations, (ii) the National Grid transmission network, (iii) distribution networks and (i",
+   "dateTabled": "2026-10-22T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1952335,
+   "uin": "37471",
+   "heading": "Electricity Generation: Cybersecurity",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what steps her Department is taking, with the National Cyber Security Centre and the security services, to prioritise cyber protections for electricity generation and grid infrastructure; and",
+   "dateTabled": "2026-10-22T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1952337,
+   "uin": "37473",
+   "heading": "Electricity Generation: Cybersecurity",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what powers and resources DESNZ and Ofgem will have to enforce cyber security standards on energy operators under the Cyber Security and Resilience Bill, including smart energy controllers, b",
+   "dateTabled": "2026-10-22T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1952666,
+   "uin": "37594",
+   "heading": "Air Pollution",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, for what reason her Department's document entitled Air quality compliance results summary 2025, published on 9 October 2026, stated that the ozone population information threshold had ",
+   "dateTabled": "2026-10-23T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1952665,
+   "uin": "37593",
+   "heading": "Air Pollution",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether she used external consultations in the production of her Department's report entitled Air pollution in the UK 2025, published on 9 October 2026.",
+   "dateTabled": "2026-10-23T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1952664,
+   "uin": "37592",
+   "heading": "Air Pollution",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, for what reason her Department's document entitled Air pollution in the UK 2025, published on 9 October 2026, was not published in pdf format.",
+   "dateTabled": "2026-10-23T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1952659,
+   "uin": "37587",
+   "heading": "Air Pollution: Warnings",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether she has made an assessment of the potential merits of adopting the Republic of France’s system of issuing advance public warnings and recommending emission reductions during fo",
+   "dateTabled": "2026-10-23T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1952658,
+   "uin": "37586",
+   "heading": "Air Pollution: Warnings",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, pursuant to the Answer of 19 October 2026 to Question 30769 on Air Pollution: Warnings, if she will set out the difference between (a) proactive air quality warnings and (b) alerts and",
+   "dateTabled": "2026-10-23T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1952101,
+   "uin": "37237",
+   "heading": "Flood Re: Reform",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, with reference to the Minister for Water and Flooding's Oral Statement of 1 July 2026, columns 929-931, what assessment she has made of the financial impact of the reforms to the Flood",
+   "dateTabled": "2026-10-22T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1951933,
+   "uin": "37196",
+   "heading": "Sustainable Farming Incentive",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what figure of the SFI 2026 was unspent.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1951931,
+   "uin": "37194",
+   "heading": "Flood Re: Finance",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what was the total funding allocated to Flood Re.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1951930,
+   "uin": "37193",
+   "heading": "Flood Re",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what is the breakdown of the Flood Re scheme for each year since inception per county.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1951740,
+   "uin": "37004",
+   "heading": "Fishing Catches",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what her Department has to expand the Quota Application Mechanism from 2027 onwards, and what assessment it has made of the potential benefits of allocating a greater proportion of Eng",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1951739,
+   "uin": "37003",
+   "heading": "Fishing Catches",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps her Department is taking to improve catch accounting in English waters, including to ensure that catches of all species, including all bycatch, are accurately recorded and a",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1951737,
+   "uin": "37001",
+   "heading": "Fishing Catches",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment her Department has made of the effectiveness of existing measures in incentivising compliance with the landing obligation, and what further measures are planned to ensu",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1951735,
+   "uin": "36999",
+   "heading": "Fishing Vessels: Monitoring",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what timetable her Department has set for mandating Remote Electronic Monitoring, including camera monitoring of catches, on pelagic trawl vessels operating in English waters, followin",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1951522,
+   "uin": "36786",
+   "heading": "Reservoirs: Construction",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what the latest estimated capital cost is for each of the nine planned reservoirs; how much of Ofwat’s £2 billion of development funding has been allocated to them so far; and what ass",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1951521,
+   "uin": "36785",
+   "heading": "Reservoirs: Planning Permission",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what progress has been made on legislating so that water resilience projects are automatically treated as nationally significant; and which of the other planned reservoirs in Somerset,",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1951520,
+   "uin": "36784",
+   "heading": "Reservoirs: Thames Valley",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what the timetable is for the White Horse Reservoir (formerly the South East Strategic Reservoir Option) to move from pre-application to a submitted application; what role her Departme",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1951519,
+   "uin": "36783",
+   "heading": "Reservoirs: Cambridgeshire and Lincolnshire",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether the Fens Reservoir is on course to be completed by 2036 and the Lincolnshire Reservoir to be operational by 2040; and what the latest projected dates are for the start and comp",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1951518,
+   "uin": "36782",
+   "heading": "Reservoirs: Cambridgeshire and Lincolnshire",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what progress has been made on the applications for (a) Fens Reservoir and (b) Lincolnshire Reservoir; when she expects Development Consent Order applications for each to be submitted;",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1947168,
+   "uin": "33209",
+   "heading": "Waste Management: Standards",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether the Environment Agency's key performance indicator that 97% of permitted waste sites should be in compliance bands A, B or C is calculated including sites that have not been in",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1945572,
+   "uin": "31586",
+   "heading": "Air Pollution: Fires",
+   "questionText": "To ask the Minister for the Cabinet Office, whether the Prime Minister was briefed at COBRA on 12 August 2026 about the health effects of wildfire smoke and the likelihood of ozone triggering an alert on 13 and 14 August 2026.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1948701,
+   "uin": "34596",
+   "heading": "Thames Water: Ownership",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether the department has considered the potential merits of mutualisation as a solution to Thames Water and wider water industry challenges.",
+   "dateTabled": "2026-10-13T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1945456,
+   "uin": "31585",
+   "heading": "Sustainable Farming Incentive",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, if she will ensure that the budget for Sustainable Farming Incentive 2027 is sufficient to cover expiring agreements and meet demand from farmers seeking to deliver environmental outco",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1945421,
+   "uin": "31584",
+   "heading": "Roads: Pollution Control",
+   "questionText": "To ask the Secretary of State for Transport, whether pollution mitigation measures will be incorporated into the (a) National Highways Lune Gorge bridge improvement project and (b) future major road infrastructure schemes.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1948573,
+   "uin": "34468",
+   "heading": "Waste Disposal: Inspections",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what proportion of instances of serious non-compliance identified by the Environment Agency at permitted waste sites in (a) 2023, (b) 2024 and (c) 2025 were (i) fully followed up, (ii)",
+   "dateTabled": "2026-10-13T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1948700,
+   "uin": "34595",
+   "heading": "James Purnell",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether ministers or officials in his Department have met with James Purnell to discuss water policy since 4 July 2024; and if she will publish the dates and attendees of any such meet",
+   "dateTabled": "2026-10-13T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1946260,
+   "uin": "32382",
+   "heading": "Climate Change: Development Aid",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what plans her Department has to ensure the UK's international climate finance contributions are provided in the form of grants rather than loans.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1944625,
+   "uin": "30767",
+   "heading": "Depressive Illnesses: Bupropion",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment his Department has made of the effectiveness of bupropion as a treatment for depression.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1947167,
+   "uin": "33208",
+   "heading": "Royal Preston Hospital: Radiotherapy",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many patients resident in the postcode district (a) LA2, (b) LA5, (c) LA6, (d) LA7, (e) LA8, (f) LA9, (g) LA10, (h) LA11, (i) LA12, (j) LA13, (k) LA14, (l) LA15, (m) LA16, (n) LA17, (o) LA18, (",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1946770,
+   "uin": "32805",
+   "heading": "Royal Preston Hospital: Radiotherapy",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what information her Department holds on the average age of patients resident in the postcode district (a) LA2, (b) LA5, (c) LA6, (d) LA7, (e) LA8, (f) LA9, (g) LA10, (h) LA11, (i) LA12, (j) LA13, ",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1945884,
+   "uin": "31987",
+   "heading": "Sustainable Farming Incentive",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what the net additional expenditure was on SFI26 agreements.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1945824,
+   "uin": "31984",
+   "heading": "Salmon: Conservation",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she has made of the potential impact of motorway runoff from the M6 on Atlantic salmon populations in the River Lune and Birk Beck.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1944220,
+   "uin": "30360",
+   "heading": "River Lune: Pollution Control",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps the Environment Agency is taking to monitor levels of (a) polycyclic aromatic hydrocarbons and (b) other priority hazardous substances in motorway runoff discharged into the",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1944772,
+   "uin": "30769",
+   "heading": "Air Pollution: Warnings",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether UK air quality warning capabilities provide proactive warnings about significant air-pollution episodes.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1946602,
+   "uin": "32801",
+   "heading": "Agriculture: Disease Control",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment her Department has made of the adequacy of the Animal and Plant Health Agency's capacity to effectively deal with disease outbreaks on farm.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1944281,
+   "uin": "30362",
+   "heading": "Sustainable Farming Incentive",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, how many SBIs applied for Moorland Actions, Low Input Grassland, Herbal Leys and Winter Bird Food Mix.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1945097,
+   "uin": "31182",
+   "heading": "Farmers: Pensions",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what steps his Department is taking to increase pension saving among farmers given that they are excluded from automatic enrolment and receive no employer contributions.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1946679,
+   "uin": "32804",
+   "heading": "Sustainable Farming Incentive",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what is the breakdown of ha applied for under each SFI26 action.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1947066,
+   "uin": "33207",
+   "heading": "Sustainable Farming Incentive",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, where the £210 million difference between the value of expiring agreements, estimated at over £520 million, and the £310 million budget for Sustainable Farming Incentive 2026 will be s",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1945883,
+   "uin": "31986",
+   "heading": "Sustainable Farming Incentive",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, how many SFI26 applications were made in each county in England.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1944199,
+   "uin": "30359",
+   "heading": "Bluetongue Disease",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps her Department is taking to support livestock farmers affected by bluetongue with fallen stock costs.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1946626,
+   "uin": "32803",
+   "heading": "Motorways: Pollution Control",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether she plans to review the voluntary agreement between the Environment Agency and National Highways on the management of highway runoff pollution.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1944662,
+   "uin": "30768",
+   "heading": "Sustainable Farming Incentive",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, if she will open the Sustainable Farming Incentive 2027 in time for agreements to commence from 1 April 2027 and minimise gaps in environmental payments for farmers with schemes expiri",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1945170,
+   "uin": "31183",
+   "heading": "Environment Agency: Inspections",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, with reference to the Office for Environmental Protection's report entitled A review of Environment Agency inspections in the waste operations and installations sector in England, publ",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1945825,
+   "uin": "31985",
+   "heading": "Pollution Control: Motorways",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether she plans to require environmental permits for highway runoff discharges from the Strategic Road Network.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1944265,
+   "uin": "30361",
+   "heading": "Food: Policy",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, how many of Henry Dimbleby’s recommendations in his National Food Strategy (2021) the Government has acted upon.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1946619,
+   "uin": "32802",
+   "heading": "Deer: Urban Areas",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, which public body is responsible for managing wild deer populations in built-up residential areas in England.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1945814,
+   "uin": "31983",
+   "heading": "Deer: Urban Areas",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment has been made of the adequacy of the Deer impacts policy statement for England in addressing deer impacts in residential and peri-urban areas.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1943177,
+   "uin": "29902",
+   "heading": "Water Companies: Finance",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, further to the Answer of 14 September 2026 to Question 27413 on water companies' finances, what the timetable is for the Government's Water White Paper commitment to consider how the r",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1943175,
+   "uin": "29901",
+   "heading": "Water Companies: Finance",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, further to the Answer of 14 September 2026 to Question 27413 on water companies' finances, what regulatory action Ofwat has taken in respect of water companies whose gearing ratio exce",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1943173,
+   "uin": "29900",
+   "heading": "Water Companies: Finance",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, further to the Answer of 14 September 2026 to Question 27413 on water companies' finances, what regulatory action Ofwat has taken in respect of water companies whose gearing ratio exce",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1939837,
+   "uin": "28291",
+   "heading": "Suicide: Cumbria",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how much funding has his Department spent on suicide prevention from the public health in Cumbria each year since 2014.",
+   "dateTabled": "2026-09-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1938527,
+   "uin": "27418",
+   "heading": "Water Companies: Insolvency",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she has made of the potential impact of the Water (Special Measures) Act 2025 on the (a) criteria and (b) process for placing a water company into Special Administratio",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1938526,
+   "uin": "27417",
+   "heading": "Water Companies: Insolvency",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what estimate her Department has made of the cost to (a) customers and (b) the public purse of placing a water company into (i) Special Administration and (ii) continued private restru",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1938525,
+   "uin": "27416",
+   "heading": "Water Companies: Insolvency",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what discussions her Department has had with Ofwat on the threshold for recommending Special Administration for a water company.",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1938523,
+   "uin": "27414",
+   "heading": "Water Companies: Standards",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether persistent sewage discharges in breach of permit conditions constitute evidence of failure by water companies for the purposes of regulatory intervention, including Special Adm",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1938521,
+   "uin": "27412",
+   "heading": "Water Companies: Environment Protection",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether a company's environmental performance rating as assessed by Ofwat's Environmental Performance Assessment forms part of the criteria for determining regulatory failure.",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1938524,
+   "uin": "27415",
+   "heading": "Thames Water: Insolvency",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she has made of the difference between grounds for special administration based on (a) insolvency and (b) performance failure in relation to Thames Water.",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1938520,
+   "uin": "27411",
+   "heading": "Water Companies: Standards",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what metrics her Department and Ofwat use to assess whether a water company has failed to meet its statutory obligations under the Water Industry Act 1991.",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1938519,
+   "uin": "27410",
+   "heading": "Water Companies: Standards",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what definition her Department uses of a failing water company for the purposes of regulatory intervention.",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1938522,
+   "uin": "27413",
+   "heading": "Water Companies: Standards",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what level of debt-to-equity ratio and other financial resilience thresholds her Department considers indicative of a water company's failure to manage its affairs.",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1928707,
+   "uin": "19334",
+   "heading": "West Coast Main Line: Standards",
+   "questionText": "To ask the Secretary of State for Transport, how many times trains have been delayed or cancelled on the West Coast Main Line due to livestock being on the line in 2021-2022, 2022-23, 2023-24, 2024-25, 2025-26.",
+   "dateTabled": "2026-07-16T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1924291,
+   "uin": "15937",
+   "heading": "Agriculture: Finance",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what the annual farming budget is for (a) 2025–26 and (b) 2026–27; and how the spending is broken down for each year.",
+   "dateTabled": "2026-07-06T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1919781,
+   "uin": "12644",
+   "heading": "Cancer: Radiotherapy",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what accountability mechanisms will apply in instances where local strategic plans for cancer do not adequately address radiotherapy access, capacity or variation.",
+   "dateTabled": "2026-06-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1919780,
+   "uin": "12643",
+   "heading": "Cancer: Radiotherapy",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether local strategic plans for cancer will be required to assess radiotherapy treatment access and capacity.",
+   "dateTabled": "2026-06-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1919779,
+   "uin": "12642",
+   "heading": "Cancer: Radiotherapy",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether his department has issued guidance to Integrated Care Boards on the inclusion of radiotherapy services in local strategic plans for cancer that were outlined in Action 20 of The National Ca",
+   "dateTabled": "2026-06-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1919778,
+   "uin": "12641",
+   "heading": "Cancer: Radiotherapy",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the level of unmet need for radiotherapy among cancer patients in England.",
+   "dateTabled": "2026-06-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1919790,
+   "uin": "12652",
+   "heading": "Cancer: Radiotherapy",
+   "questionText": "To ask the Secretary of State for Health and Social Care, if he will publish the methodology used to allocate the £70 million radiotherapy funding announced in the National Cancer Plan.",
+   "dateTabled": "2026-06-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1919789,
+   "uin": "12651",
+   "heading": "Radiotherapy: Medical Devices",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether the allocation of the £70 million for radiotherapy machines took account of existing regional variation in radiotherapy access.",
+   "dateTabled": "2026-06-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1919788,
+   "uin": "12650",
+   "heading": "Radiotherapy: Medical Devices",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what proportion of the £70 million radiotherapy machine funding announced in the Autumn Budget 2024 has been allocated to each NHS region.",
+   "dateTabled": "2026-06-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1919787,
+   "uin": "12649",
+   "heading": "Radiotherapy: Medical Devices",
+   "questionText": "To ask the Secretary of State for Health and Social Care, if he will publish a breakdown by NHS region of where the radiotherapy machines (LINACS) funded by the £70 million announced in the Autumn Budget 2024.",
+   "dateTabled": "2026-06-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1919772,
+   "uin": "12640",
+   "heading": "Cancer: Radiotherapy",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment his Department has made of the adequacy radiotherapy capacity to meet the Government’s target of returning cancer waiting times to the 62-day standard by March 2029.",
+   "dateTabled": "2026-06-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1919786,
+   "uin": "12648",
+   "heading": "Radiotherapy",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether his Department has identified areas of England where satellite radiotherapy units would have the greatest impact on reducing travel times for cancer patients.",
+   "dateTabled": "2026-06-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1919785,
+   "uin": "12647",
+   "heading": "Radiotherapy",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether his Department has identified areas of England where satellite radiotherapy units would have the greatest impact on reducing travel times for cancer patients.",
+   "dateTabled": "2026-06-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1919784,
+   "uin": "12646",
+   "heading": "Radiotherapy",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many proposals for new satellite radiotherapy units have been submitted to NHS England in each of the last five years.",
+   "dateTabled": "2026-06-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1919783,
+   "uin": "12645",
+   "heading": "Cancer: Radiotherapy",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps he is taking to ensure that cancer patients in England have equitable access to advanced radiotherapy techniques where clinically appropriate.",
+   "dateTabled": "2026-06-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1912983,
+   "uin": "7115",
+   "heading": "Food Supply",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she has made of the implications for her Department's policies of the report by Science for Sustainable Agriculture entitled UK Food Security – Outlook to 2050, publish",
+   "dateTabled": "2026-06-05T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1912982,
+   "uin": "7114",
+   "heading": "Food Supply",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether her Department plans to take legislative steps to ensure food self-sufficiency does not fall below its current level.",
+   "dateTabled": "2026-06-05T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1912981,
+   "uin": "7113",
+   "heading": "Plants: Proteins",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether she is taking steps to increase domestic production of plant proteins for direct human consumption in the UK.",
+   "dateTabled": "2026-06-05T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1911798,
+   "uin": "6350",
+   "heading": "Agriculture: UK Trade with EU",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what estimate her Department has made of the number of small and medium-sized enterprises that may need to make changes to production processes, certification, labelling, IT systems or",
+   "dateTabled": "2026-06-03T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1911797,
+   "uin": "6349",
+   "heading": "Agriculture: UK Trade with EU",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, how many businesses in each sector are included within the Government's estimate that up to 500,000 businesses may be affected by a future UK-EU Sanitary and Phytosanitary Agreement.",
+   "dateTabled": "2026-06-03T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1911799,
+   "uin": "6351",
+   "heading": "Agriculture: UK Trade with EU",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what financial assistance the Government plans to make available to businesses required to make operational or regulatory changes as a result of a future UK-EU Sanitary and Phytosanita",
+   "dateTabled": "2026-06-03T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1911800,
+   "uin": "6352",
+   "heading": "Agriculture: UK Trade with EU",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, with reference to the Written Ministerial Statement of 31 May 2026 on Preparing for a future Sanitary and Phytosanitary Agreement with the European Union: Business readiness informatio",
+   "dateTabled": "2026-06-03T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1911796,
+   "uin": "6348",
+   "heading": "Agriculture: UK Trade with EU",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what estimate her Department has made of the total cost to businesses of complying with any new certification, labelling, IT system, and regulatory requirements arising from a future U",
+   "dateTabled": "2026-06-03T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1901775,
+   "uin": "128681",
+   "heading": "River Lune: Pollution Control",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she has made of the potential merits of the Environment Agency requiring National Highways to apply for permits to operate outfalls into the River Lune.",
+   "dateTabled": "2026-04-21T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1901774,
+   "uin": "128680",
+   "heading": "River Lune: Pollution Control",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether the Environment Agency allows National Highways to discharge untreated toxic run-off into the River Lune.",
+   "dateTabled": "2026-04-21T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1901772,
+   "uin": "128679",
+   "heading": "River Lune: Pollution Control",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, for what reasons the Environment Agency is not measuring pollution, including polyaromatic hydrocarbons, from motorway outfalls into the River Lune at Tebay.",
+   "dateTabled": "2026-04-21T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1896594,
+   "uin": "124507",
+   "heading": "Waste: Crime",
+   "questionText": "To ask the Secretary of State for the Home Department, whether she has made an assessment of the potential merits of designating waste crime as a national strategic policing priority.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1896595,
+   "uin": "124508",
+   "heading": "Waste: Organised Crime",
+   "questionText": "To ask the Secretary of State for the Home Department, what role the National Crime Agency currently plays in tackling organised waste crime.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1896544,
+   "uin": "124501",
+   "heading": "Heart Diseases: Young People",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what plans his Department has for the NHS to do cardiac testing on young people.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1896590,
+   "uin": "124503",
+   "heading": "Landfill Tax: Tax Yields",
+   "questionText": "To ask the Chancellor of the Exchequer, how much revenue has been raised from Landfill Tax in each of the last five years.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1896604,
+   "uin": "124515",
+   "heading": "Food Supply",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what estimate his Department has made of the total calorific value of food available within the UK in the event of a disruption to supply chains.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1896603,
+   "uin": "124514",
+   "heading": "Food Supply",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what estimate she has made of the number of days of food stocks nationally in the event of a significant disruption to supply.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1896602,
+   "uin": "124513",
+   "heading": "Food Supply",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what recent assessment she has made of the resilience of food supply chains.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1896599,
+   "uin": "124510",
+   "heading": "Food Supply: Emergencies",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what plans his Department has to develop food storage and distribution capacity for use in national emergencies.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1896598,
+   "uin": "124509",
+   "heading": "Food Supply: Emergencies",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what estimate his Department has made of the adequacy of the volume of food held in storage for use in a national emergency.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1896593,
+   "uin": "124506",
+   "heading": "Waste: Crime",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, how many illegal waste sites are known to the Environment Agency in each English district in the most recent year for which data is available; and what estimate she has made of the tot",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1896592,
+   "uin": "124505",
+   "heading": "Waste: Crime",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, how many waste crime officers are currently employed by the Environment Agency; and how many large-scale illegal waste sites have a designated waste crime officer assigned to them.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1896591,
+   "uin": "124504",
+   "heading": "Landfill: Expenditure",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what was the cost to the public purse of landfill site regulation, monitoring, and remediation over the last five years.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1896545,
+   "uin": "124502",
+   "heading": "Waste Management: Fines",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what penalties she plans to bring in for waste companies that persistently breach their operating licence.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1896601,
+   "uin": "124512",
+   "heading": "Droughts",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment his Department has made of the level of surplus water availability during periods of expected drought.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1896600,
+   "uin": "124511",
+   "heading": "Water: Storage",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what estimate his Department has made of the level of national water storage capacity.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1895710,
+   "uin": "124074",
+   "heading": "Babies: Screening",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of whether the newborn screening programme is fit for purpose and screens for all conditions.",
+   "dateTabled": "2026-03-26T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1894542,
+   "uin": "123170",
+   "heading": "Apprentices: Outdoor Education",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many Outdoor Learning Specialist apprenticeships are projected to start in the current funding year; how long the standard has been operational; and what he estimates to be the cost saving associate",
+   "dateTabled": "2026-03-24T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1868459,
+   "uin": "103228",
+   "heading": "Health Services: Technology",
+   "questionText": "To ask the Secretary of State for Health and Social Care, when he will update the Health and Technical Memorandum 03-01 for the latest technical standards.",
+   "dateTabled": "2026-01-06T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1893774,
+   "uin": "122648",
+   "heading": "Burkina Faso: Armed Conflict",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, whether she is providing support to improve security in Burkina Faso in the context of recent attacks conducted by Islamist armed groups.",
+   "dateTabled": "2026-03-23T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1891465,
+   "uin": "120787",
+   "heading": "Depressive Illnesses: Transcranial Magnetic Stimulation",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether he plans to increase the provision of TMS for depression.",
+   "dateTabled": "2026-03-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1891464,
+   "uin": "120786",
+   "heading": "Depressive Illnesses: Transcranial Magnetic Stimulation",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many NHS mental health Trusts currently provide a TMS service to people experiencing depression and how many people have received a full course of TMS treatment.",
+   "dateTabled": "2026-03-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1888866,
+   "uin": "118714",
+   "heading": "Iran: Internet",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, how much funding her Department provides to support secure internet access, circumvention technologies and independent Persian-language media for people in Iran; and whether ",
+   "dateTabled": "2026-03-09T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1888811,
+   "uin": "118711",
+   "heading": "Iran: Sanctions",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what assessment she has made of the humanitarian impact of UK sanctions on Iran; and what steps she is taking to ensure that sanctions are focused on human-rights violators a",
+   "dateTabled": "2026-03-09T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1888810,
+   "uin": "118710",
+   "heading": "Iran: Sanctions",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, if she will commit to expanding targeted sanctions against Iranian officials and security force commanders responsible for killings, torture and internet shutdowns during the",
+   "dateTabled": "2026-03-09T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1888809,
+   "uin": "118709",
+   "heading": "Iran: Women",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what assessment she has made of the situation of women, girls and ethnic and religious minorities in Iran following the protests that began in December 2025; and what steps h",
+   "dateTabled": "2026-03-09T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1888865,
+   "uin": "118713",
+   "heading": "Oppression: Iran",
+   "questionText": "To ask the Secretary of State for the Home Department, whether she plans to introduce an expedited visa and scholarship scheme for at-risk Iranian activists, journalists and human-rights defenders seeking sanctuary and study in the UK.",
+   "dateTabled": "2026-03-09T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1888864,
+   "uin": "118712",
+   "heading": "Oppression: Iran",
+   "questionText": "To ask the Secretary of State for the Home Department, what steps her Department is taking to protect Iranian dissidents, journalists and human-rights defenders resident in the UK from surveillance, harassment and threats linked to the Iranian state.",
+   "dateTabled": "2026-03-09T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1884423,
+   "uin": "115347",
+   "heading": "Infant Foods: Safety",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the potential impact of the recent recall of Aptamil and SMA on NHS infant-formula supply; and what discussions his Department has had with UK manufacturers on that r",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1880460,
+   "uin": "112108",
+   "heading": "Dams and Reservoirs: Safety",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether her Department is taking steps to assess the safety of dams and reservoirs given potential climate impacts, including monitoring and standards; and whether her Department has e",
+   "dateTabled": "2026-02-10T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1878597,
+   "uin": "110741",
+   "heading": "Air Pollution: Health Hazards",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the potential impact of poor air quality in (a) ambient air and (b) indoor air on different age groups of people in England.",
+   "dateTabled": "2026-02-04T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1878599,
+   "uin": "110743",
+   "heading": "Energy: Air Pollution",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what steps he is taking to ensure a just transition and economic fairness for communities when reducing air pollution from the energy sector.",
+   "dateTabled": "2026-02-04T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1878593,
+   "uin": "110737",
+   "heading": "Air Pollution",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what comparative assessment she has made of his Department's (a) targets, (b) requirements and (c) performance standards for ambient air pollution and the World Health Organisation's A",
+   "dateTabled": "2026-02-04T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1878590,
+   "uin": "110734",
+   "heading": "Air Pollution",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what discussions she has had with Cabinet colleagues to determine the extent that her Department's policies on ambient air quality are interacting with policies on climate change mitig",
+   "dateTabled": "2026-02-04T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1878588,
+   "uin": "110732",
+   "heading": "Air Pollution",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, how her Department's ambient air quality policy is interacting with climate change mitigation, nature recovery and land use planning.",
+   "dateTabled": "2026-02-04T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1878591,
+   "uin": "110735",
+   "heading": "Air Pollution: Pollution Control",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps she is taking to strengthen communities' powers to improve accountability and local action on air pollution.",
+   "dateTabled": "2026-02-04T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1878587,
+   "uin": "110731",
+   "heading": "Air Pollution: Standards",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she has made of the UK's performance in comparison with international counterparts in setting standards for air quality in (a) ambient air and (b) indoor air.",
+   "dateTabled": "2026-02-04T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1878596,
+   "uin": "110740",
+   "heading": "Air Pollution: Health Hazards",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what information his Department holds on air pollution impacting people's health in relation to (a) ambient air and (b) indoor air in England.",
+   "dateTabled": "2026-02-04T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1878598,
+   "uin": "110742",
+   "heading": "Air Pollution: Health Hazards",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment his Department has made of the potential (a) direct and (b) indirect impact of current levels of (i) ambient and (ii) indoor air pollution on the (A) current and (B) future health o",
+   "dateTabled": "2026-02-04T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1877961,
+   "uin": "110358",
+   "heading": "Air Pollution: Pollution Control",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what comparisons and best practices can be learned from other countries to help improve air quality in England in (a) ambient air and (b) indoor air.",
+   "dateTabled": "2026-02-03T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1877959,
+   "uin": "110357",
+   "heading": "Air Pollution: Departmental Coordination",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, which Government departments other than his Department are able to have the biggest impact on improving levels of ambient air pollution; and how their policies seek to achieve this.",
+   "dateTabled": "2026-02-03T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1877957,
+   "uin": "110356",
+   "heading": "Air Pollution: Departmental Coordination",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps her Department is taking to support change on ambient air quality across Government.",
+   "dateTabled": "2026-02-03T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1877956,
+   "uin": "110355",
+   "heading": "Air Pollution: Monitoring",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she has made of the adequacy of data capture and analysis for air quality within England.",
+   "dateTabled": "2026-02-03T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1877953,
+   "uin": "110354",
+   "heading": "Air Pollution: Monitoring",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she has made of the adequacy of  funding and devolved powers to ensure the comprehensive monitoring of air quality in England.",
+   "dateTabled": "2026-02-03T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1877948,
+   "uin": "110350",
+   "heading": "Air Pollution: Pollution Control",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment her Department has made of potential barriers and/or challenges to achieving national targets, requirements and performance standards for ambient air quality, indoor ai",
+   "dateTabled": "2026-02-03T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1877949,
+   "uin": "110351",
+   "heading": "Air Pollution: Pollution Control",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment her Department has made of whether examples of best practice exist in England to achieve compliance with legislation and regulation to improve local air quality in each",
+   "dateTabled": "2026-02-03T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1877946,
+   "uin": "110349",
+   "heading": "Air Pollution: Standards",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she has made of the adequacy of national targets, requirements and performance standards for air quality and national emission ceilings in protecting public health, cli",
+   "dateTabled": "2026-02-03T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1877952,
+   "uin": "110353",
+   "heading": "Air Pollution: Standards",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she had made of the adequacy of alignment between national government targets and obligations and local government actions to improve ambient air quality in England.",
+   "dateTabled": "2026-02-03T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1877950,
+   "uin": "110352",
+   "heading": "Air Pollution: Pollution Control",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment her Department has made of how well examples of local best practice that exist to enforce existing legislation and regulation to improve local air quality are being rol",
+   "dateTabled": "2026-02-03T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1877944,
+   "uin": "110348",
+   "heading": "Air Pollution: Standards",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what the national targets, requirements and performance standards are for ambient air pollution and national emission ceilings in the Air Quality Environment Act target delivery plan a",
+   "dateTabled": "2026-02-03T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1877943,
+   "uin": "110347",
+   "heading": "Air Pollution",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what information her Department holds on the ten most common causes of air pollution in England in (a) ambient air and (b) indoor air.",
+   "dateTabled": "2026-02-03T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1877920,
+   "uin": "110346",
+   "heading": "Air Pollution",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what evidence exists of the direct and indirect impact of air pollution on (a) crop yields, (b) biodiversity, (c) pollinator, (d) rain, (e) stratospheric ozone, (f) water quality and (",
+   "dateTabled": "2026-02-03T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1878594,
+   "uin": "110738",
+   "heading": "Air Pollution: Pollution Control",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what discussions he has had with Cabinet colleagues on delivering national targets for ambient air including by sharing data.",
+   "dateTabled": "2026-02-04T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1878592,
+   "uin": "110736",
+   "heading": "Air Pollution: Health Hazards",
+   "questionText": "To ask the Secretary of State for Health and Social Care, if he will set out the types of health impacts of poor (a) ambient and (b) indoor air quality by (i) geography and (ii) socioeconomic groups.",
+   "dateTabled": "2026-02-04T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1878595,
+   "uin": "110739",
+   "heading": "Air Pollution: Health Education and Pollution Control",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps he is taking to (a) bring awareness to and (b) help address the potential adverse impact of poor ambient air quality.",
+   "dateTabled": "2026-02-04T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1878589,
+   "uin": "110733",
+   "heading": "Air Pollution",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she has made of whether local authorities in England have the resources and powers to enforce existing legislation and regulation to improve local air quality.",
+   "dateTabled": "2026-02-04T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1877919,
+   "uin": "110345",
+   "heading": "Air Pollution",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what evidence exists of direct and indirect impacts of ambient air pollution on (a) the climate, (b) the environment and (c) public health and their cascading effects.",
+   "dateTabled": "2026-02-03T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1877917,
+   "uin": "110344",
+   "heading": "Air Pollution",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment her Department has made of the the top five impacts of air pollution in England on each of (a) the climate, (b) the environment and (c) public health and their cascadin",
+   "dateTabled": "2026-02-03T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1877916,
+   "uin": "110343",
+   "heading": "Air Pollution",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether her Department holds data on the top five sources in tonnes of primary air pollution emissions in England for each of (i) fine particulate matter (PM2.5); (ii) nitrogen dioxide",
+   "dateTabled": "2026-02-03T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1876744,
+   "uin": "109522",
+   "heading": "Birds: Licensing",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, if she will review the prohibition on exhibiting Psittaciformes alongside (a) canaries and (b) finches at licensed bird gatherings; and if she will make an assessment of the potential ",
+   "dateTabled": "2026-01-29T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1876743,
+   "uin": "109521",
+   "heading": "Birds: Licensing",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what plans her Department has to consult (a) regional bird clubs, (b) national exhibition and (c) any other avicultural organisations on licensing changes and their potential impact on",
+   "dateTabled": "2026-01-29T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1874235,
+   "uin": "107677",
+   "heading": "Food",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether she plans to produce a white paper for a food strategy.",
+   "dateTabled": "2026-01-22T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1876740,
+   "uin": "109518",
+   "heading": "Birds: Licensing",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment her Department made of the risks posed by captive-bred birds at licensed gatherings prior to introducing the December 2025 amendments to Bird Gathering Licences; and wh",
+   "dateTabled": "2026-01-29T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1876742,
+   "uin": "109520",
+   "heading": "Birds: Licensing",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she has made of the potential impact of the requirement for Bird Gathering Licences to be approved no more than seven days before an event on (a) trends in the number, ",
+   "dateTabled": "2026-01-29T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1876741,
+   "uin": "109519",
+   "heading": "Birds: Licensing",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment her Department has made of the potential impact of changes made in December 2025 to Bird Gathering Licences on the viability of (a) mixed-species bird exhibitions, (b) ",
+   "dateTabled": "2026-01-29T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1876341,
+   "uin": "109083",
+   "heading": "Environment Protection: National Security",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps her Department is taking in response to the findings of the Nature security assessment on global biodiversity loss, ecosystem collapse and national security, published on 26",
+   "dateTabled": "2026-01-28T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1874239,
+   "uin": "107678",
+   "heading": "Rural Payments Agency: Staff",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, how many full-time equivalent staff worked for the rural payments agency in each year between 2019 and 2026.",
+   "dateTabled": "2026-01-22T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1873963,
+   "uin": "107353",
+   "heading": "Waste: Crime",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what was the total Environment Agency expenditure on waste crime in each year since 2015.",
+   "dateTabled": "2026-01-21T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1870336,
+   "uin": "104661",
+   "heading": "M6: Repairs and Maintenance",
+   "questionText": "To ask the Secretary of State for Transport, whether National Highways undertook a detailed assessment of the potential to construct temporary slip roads to allow Junction 38 of the M6 (northbound and southbound) to remain open for the duration of the Lun",
+   "dateTabled": "2026-01-12T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1870338,
+   "uin": "104692",
+   "heading": "M6: Repairs and Maintenance",
+   "questionText": "To ask the Secretary of State for Transport, when any assessment by National Highways of temporary slip roads at Junction 38 of the M6 was undertaken; and whether the findings of that assessment informed the current construction programme.",
+   "dateTabled": "2026-01-12T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1868463,
+   "uin": "103232",
+   "heading": "Air Pollution: Death",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many attributable deaths there were from fine particulate matter, PM2.5, were there in (a) East Midlands, (b) East of England, (c) Greater London, (d) North East, (e) North West, (f) South East",
+   "dateTabled": "2026-01-06T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1868948,
+   "uin": "103728",
+   "heading": "Water Supply: Infrastructure",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment the Department has made of the adequacy of water infrastructure investment in each of the last five years.",
+   "dateTabled": "2026-01-07T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1869880,
+   "uin": "104471",
+   "heading": "Hospitality Industry: VAT",
+   "questionText": "To ask the Chancellor of the Exchequer, what estimate her Department has made of the costs to the exchequer of reducing VAT for hospitality businesses to (a) 15%, (b) 10%, (c) 5% and (d) 0%.",
+   "dateTabled": "2026-01-09T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1870339,
+   "uin": "104693",
+   "heading": "M6: Repairs and Maintenance",
+   "questionText": "To ask the Secretary of State for Transport, whether he will instruct National Highways to meet with BWB Consulting and Kier in an engineer-to-engineer review of proposals for temporary slip roads at Junction 38 of the M6.",
+   "dateTabled": "2026-01-12T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1870340,
+   "uin": "104694",
+   "heading": "M6: Repairs and Maintenance",
+   "questionText": "To ask the Secretary of State for Transport, what assessment she has made of the potential impact of closing Junction 38 of the M6 during the Lune Gorge bridge replacement works on local businesses.",
+   "dateTabled": "2026-01-12T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1870731,
+   "uin": "105192",
+   "heading": "Medical Records: Veterans",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether he plans to take steps to allow NHS professionals to view the health records of ex-military patients from their time in military service.",
+   "dateTabled": "2026-01-13T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1868462,
+   "uin": "103231",
+   "heading": "Public Health",
+   "questionText": "To ask the Secretary of State for Health and Social Care, pursuant to the Answer of 10 May 2023 to Question 183643 on Public Health, what methodologies were used to estimate the costs to the NHS for each of the five risk factors specified.",
+   "dateTabled": "2026-01-06T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1868951,
+   "uin": "103731",
+   "heading": "Agriculture: Floods",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she has made of the flooding risk to farms; and what percentage of farms are at high flood risk.",
+   "dateTabled": "2026-01-07T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1868955,
+   "uin": "103734",
+   "heading": "Agriculture: Flood Control",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she has made of expanding flooding support eligibility for farmers.",
+   "dateTabled": "2026-01-07T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1868954,
+   "uin": "103733",
+   "heading": "Agriculture: Flood Control",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what funding farmers are offered for flood management.",
+   "dateTabled": "2026-01-07T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1868458,
+   "uin": "103227",
+   "heading": "Public Health",
+   "questionText": "To ask the Secretary of State for Health and Social Care, which public health factors created the 10 largest direct cost impacts on the NHS in 2024; and how much the NHS spent in 2024 on tackling the health impacts of the following public health factors: ",
+   "dateTabled": "2026-01-06T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1868461,
+   "uin": "103230",
+   "heading": "Smoking: Death",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many people died from smoking in England in each year since 2021.",
+   "dateTabled": "2026-01-06T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1868460,
+   "uin": "103229",
+   "heading": "Air Pollution: Pollution Control",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what discussions his Department has had with ‘Heating, ventilation and air conditioning’ (HVAC) professionals and facilities managers to understand how they reduce air pollution in dwellings and no",
+   "dateTabled": "2026-01-06T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1868456,
+   "uin": "103225",
+   "heading": "Biofuels: Carbon Emissions",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what progress his Department has made in implementing the advice in Table 1 on numbered page 19 of the Climate Change Committee’s report titled ‘Biomass in a low carbon economy’ (November 201",
+   "dateTabled": "2026-01-06T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1868956,
+   "uin": "103735",
+   "heading": "Agriculture: Employment",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what recent assessment she has made of the number of people leaving the agricultural sector.",
+   "dateTabled": "2026-01-07T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1868953,
+   "uin": "103732",
+   "heading": "Flood Control: Finance",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what proportion of the Department's budget is allocated to work on flood defences and mitigation.",
+   "dateTabled": "2026-01-07T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1868950,
+   "uin": "103730",
+   "heading": "Water Supply",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what contingency plans are in place for periods of water shortage and supply outages.",
+   "dateTabled": "2026-01-07T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1868949,
+   "uin": "103729",
+   "heading": "Water Supply",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps the Department is taking to help tackle water scarcity.",
+   "dateTabled": "2026-01-07T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1868446,
+   "uin": "103216",
+   "heading": "Obesity: Death",
+   "questionText": "To ask the Minister for the Cabinet Office, how many people died from conditions related to obesity in England in each year since 2021.",
+   "dateTabled": "2026-01-06T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1868445,
+   "uin": "103215",
+   "heading": "Alcoholism: Death",
+   "questionText": "To ask the Minister for the Cabinet Office, how many people died from alcoholism in England in each year since 2021.",
+   "dateTabled": "2026-01-06T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1868444,
+   "uin": "103214",
+   "heading": "Cardiovascular Diseases: Death",
+   "questionText": "To ask the Minister for the Cabinet Office, how many deaths there were from cardiovascular causes in (a) East Midlands, (b) East of England, (c) Greater London, (d) North East, (e) North West, (f) South East, (g) South West, (h) West Midlands, (i) Yorkshi",
+   "dateTabled": "2026-01-06T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1868947,
+   "uin": "103727",
+   "heading": "Water Supply",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, how many water outage incidents have occurred in each of the last five years.",
+   "dateTabled": "2026-01-07T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1868946,
+   "uin": "103726",
+   "heading": "Water Treatment",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment her Department has made of the levels of resilience of water treatment works.",
+   "dateTabled": "2026-01-07T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1868447,
+   "uin": "103217",
+   "heading": "Air Pollution: Pollution Control",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what Government guidance there is on technical standards to be applied in dwellings and other buildings to improve indoor air quality.",
+   "dateTabled": "2026-01-06T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1864212,
+   "uin": "99710",
+   "heading": "Health Education England and NHS England: Hill Dickinson",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how much did (a) Health Education England and (b) NHS England pay Hill Dickinson in (i) costs and (ii) fees for legal services between 2012 and 2023.",
+   "dateTabled": "2025-12-15T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1868455,
+   "uin": "103224",
+   "heading": "Air Pollution",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, How many people in each of the following regions are expected to be exposed to concentrations of fine particulate matter (PM2.5) exceeding each of (a) 5 micrograms per cubic metre (ug/",
+   "dateTabled": "2026-01-06T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1868454,
+   "uin": "103223",
+   "heading": "Nitrogen Dioxide: Pollution Control",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether any hotspots in zones other than the five zones identified in the Compliance Assessment Summary 2024 exceeded the nitrogen dioxide annual limit value in calendar 2024.",
+   "dateTabled": "2026-01-06T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1868452,
+   "uin": "103222",
+   "heading": "Nitrogen Dioxide: Pollution Control",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, which areas in the following zones her Department assesses may delay compliance with the nitrogen dioxide annual limit value beyond 2024 and until when in (i) West Midlands Urban Area;",
+   "dateTabled": "2026-01-06T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1868451,
+   "uin": "103221",
+   "heading": "Solid Fuels: Air Pollution",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she has made of the effectiveness of the Domestic Solid Fuel Regulations 2020.",
+   "dateTabled": "2026-01-06T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1868450,
+   "uin": "103220",
+   "heading": "Smoke and Chimney Gases",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether her Department provides guidance on whether premises are permitted to emit visible smoke in England.",
+   "dateTabled": "2026-01-06T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1868449,
+   "uin": "103219",
+   "heading": "Air Pollution: Pollution Control",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she has made of the effectiveness of the Clean Air Act 1956, the Clean Air Act 1968 and the Clean Air Act 1993.",
+   "dateTabled": "2026-01-06T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1868448,
+   "uin": "103218",
+   "heading": "Environment: Health Hazards",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what the largest environmental risks are to public health in the UK.",
+   "dateTabled": "2026-01-06T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1868966,
+   "uin": "103740",
+   "heading": "Gabapentin: Research",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether research is being conducted into the potential association between Gabapentin use and the development of attentional amnestic disorders or other cognitive impairments.",
+   "dateTabled": "2026-01-07T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1868964,
+   "uin": "103739",
+   "heading": "Gabapentin: Side Effects",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps are being taken to inform patients and healthcare professionals about the potential long-term risks of Gabapentin use.",
+   "dateTabled": "2026-01-07T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1868963,
+   "uin": "103738",
+   "heading": "Gabapentin: Side Effects",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what measures are in place to monitor patients on Gabapentin for signs of neurological or cognitive decline during treatment.",
+   "dateTabled": "2026-01-07T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1868961,
+   "uin": "103736",
+   "heading": "Gabapentin: Side Effects",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment has been made of the potential impact of prolonged use of Gabapentin on long-term neurological risks, including dementia and brain damage.",
+   "dateTabled": "2026-01-07T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1868962,
+   "uin": "103737",
+   "heading": "Gabapentin: Side Effects",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether prescribing guidelines for Gabapentin include warnings about potential risks associated with extended use.",
+   "dateTabled": "2026-01-07T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1868011,
+   "uin": "102739",
+   "heading": "Air Pollution: Health Education",
+   "questionText": "To ask the Secretary of State for Health and Social Care, if he will make an assessment of the potential implications for his policies of the press notice by the Royal College of Physician of 13 November 2025, which called for a UK-wide public health camp",
+   "dateTabled": "2026-01-05T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1868009,
+   "uin": "102738",
+   "heading": "Death",
+   "questionText": "To ask the Minister for the Cabinet Office, what estimate his Department has made of the number of premature deaths in (i) England and (ii) the UK attributable to (a) smoking, (b) air pollution, (c) alcoholism and (d) obesity in the last 12 months.",
+   "dateTabled": "2026-01-05T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1868007,
+   "uin": "102736",
+   "heading": "Air Pollution",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what the difference is in legal duties and obligations between limit values under the Air Quality Standards Regulations and air quality targets for PM2.5 concentrations set in the Envi",
+   "dateTabled": "2026-01-05T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1868004,
+   "uin": "102734",
+   "heading": "Nitrogen Oxides: Pollution Control",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether Commitment 19 in the Environmental Improvement Plan 2025 should refer to emissions of oxides of nitrogen rather than nitrogen dioxide.",
+   "dateTabled": "2026-01-05T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1868003,
+   "uin": "102733",
+   "heading": "Air Pollution: International Cooperation",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, pursuant to the Answer of 25 November 2025 to Question 91935 on Air Pollution: International Cooperation, whether she is seeking to agree (a) reductions or (b) increases for each of th",
+   "dateTabled": "2026-01-05T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1868002,
+   "uin": "102732",
+   "heading": "Air Pollution: International Cooperation",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, pursuant to the Answer of 25 November 2025 to Question 91935, what she is seeking to achieve from revisions to the Gothenburg Protocol including Annex IX.",
+   "dateTabled": "2026-01-05T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1868013,
+   "uin": "102740",
+   "heading": "Housing: Green Belt",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, with reference to paragraph TR7 of the proposed revised version of the National Planning and Policy Framework, what criteria he is using to determine an acceptable environmental ",
+   "dateTabled": "2026-01-05T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1868457,
+   "uin": "103226",
+   "heading": "Schools: Air Pollution",
+   "questionText": "To ask the Secretary of State for Education, when she will update guidance titled ‘BB101: Ventilation, thermal comfort and indoor air quality 2018’ for the latest available technical standards.",
+   "dateTabled": "2026-01-06T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1866057,
+   "uin": "101340",
+   "heading": "Internet: Animal Welfare",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what steps she is taking to (a) ensure that online platforms are held accountable under the Online Safety Act 2023 for hosting content that promotes the torture of animals and (b) reass",
+   "dateTabled": "2025-12-18T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1866058,
+   "uin": "101341",
+   "heading": "Internet: Harassment",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what assessment she has made of the effectiveness of measures to tackle online harassment; and what steps she plans to take to protect individuals from such abuse.",
+   "dateTabled": "2025-12-18T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1866286,
+   "uin": "101344",
+   "heading": "Hospitality Industry: VAT",
+   "questionText": "To ask the Chancellor of the Exchequer, whether her Department has made an assessment of the potential cost to the public purse of lowering the VAT rate payable by hospitality businesses to (a) 15 per cent, (b) 10 per cent and (c) 5 per cent.",
+   "dateTabled": "2025-12-18T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1868005,
+   "uin": "102735",
+   "heading": "Nitrogen Dioxide: Pollution Control",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, pursuant to the Answer of 17 April 2025 to Question 45555 on Nitrogen Dioxide: Pollution Control, which road links within 10 miles of Heathrow airport exceeded 20 micrograms per cubic ",
+   "dateTabled": "2026-01-05T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1868008,
+   "uin": "102737",
+   "heading": "Nitrogen Dioxide: Pollution Control",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, pursuant to the Answer of 26 March 2025 to Question 39815 on Nitrogen Dioxide: Pollution Control, which of the exceedances mentioned complied with the annual limit for nitrogen dioxide",
+   "dateTabled": "2026-01-05T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1866061,
+   "uin": "101343",
+   "heading": "Schools: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Education, what steps she is taking to ensure that pupils in rural schools have equal access to AI learning opportunities.",
+   "dateTabled": "2025-12-18T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1866059,
+   "uin": "101342",
+   "heading": "Business: Government Assistance",
+   "questionText": "To ask the Secretary of State for Business and Trade, what plans he has to support business investment and growth in the industries identified in the Government’s Modern Industrial Strategy over the next ten years.",
+   "dateTabled": "2025-12-18T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1866056,
+   "uin": "101339",
+   "heading": "Industry: Rural Areas",
+   "questionText": "To ask the Secretary of State for Business and Trade, what steps he is taking to ensure that the Modern Industrial Strategy applies equally to rural areas.",
+   "dateTabled": "2025-12-18T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1860667,
+   "uin": "97118",
+   "heading": "Citizenship: Children",
+   "questionText": "To ask the Secretary of State for the Home Department, what the cost price is of a child citizenship application.",
+   "dateTabled": "2025-12-04T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1859489,
+   "uin": "96095",
+   "heading": "NHS Resolution",
+   "questionText": "To ask the Secretary of State for Health and Social Care, if he will publish the annual figures for payments made to each of NHS Resolution's panel law firms since the current legal framework came into effect in March 2022; and, in each case, what proport",
+   "dateTabled": "2025-12-02T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1857381,
+   "uin": "94645",
+   "heading": "Spirits: Excise Duties\r\n",
+   "questionText": "To ask the Chancellor of the Exchequer, whether she has made an assessment of the potential impact of spirits duty rates on the competitiveness of UK pubs comparted to pubs in Europe.",
+   "dateTabled": "2025-11-26T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1857380,
+   "uin": "94644",
+   "heading": "Spirits: Excise Duties\r\n",
+   "questionText": "To ask the Chancellor of the Exchequer, what data she holds on spirits duty revenue generated from pubs in (a) rural areas and (b) urban areas.",
+   "dateTabled": "2025-11-26T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1857379,
+   "uin": "94643",
+   "heading": "Alcoholic Drinks: Excise Duties\r\n",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of the impact of inflation-linked duty increases on the on-trade in each of the last three years.",
+   "dateTabled": "2025-11-26T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1962098,
+   "uin": "44891",
+   "heading": "Royal Preston Hospital: Radiotherapy",
+   "questionText": "To ask the Secretary of State for Health and Social Care, pursuant to the answer of 15 September 2025 to UIN 75581, if she will publish the updated figures for (a) 2025 and (b) 2026.",
+   "dateTabled": "2026-11-19T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1954381,
+   "uin": "38992",
+   "heading": "Department for Environment, Food and Rural Affairs: Public Expenditure",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, with reference to the Autumn Budget 2026 and the Defence Investment Plan, what capital reallocation she has agreed for her Department for each year of the spending review period.",
+   "dateTabled": "2026-10-28T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1951734,
+   "uin": "36998",
+   "heading": "Fishing Vessels: Monitoring",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, when she plans to lay the statutory instrument requiring under-12 metre fishing vessels operating in English waters to use Inshore Vessel Monitoring Systems.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  }
+ ],
+ "historyComplete": true
+}

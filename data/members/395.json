@@ -1,0 +1,879 @@
+{
+ "id": 395,
+ "fetchedOn": "2026-11-25",
+ "core": {
+  "id": 395,
+  "nameListAs": "Blunkett, L.",
+  "nameDisplayAs": "Lord Blunkett",
+  "nameFullTitle": "The Rt Hon. the Lord Blunkett",
+  "nameAddressAs": null,
+  "latestParty": {
+   "id": 15,
+   "name": "Labour",
+   "abbreviation": "Lab",
+   "backgroundColour": "d50000",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": true,
+   "governmentType": 0,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "Life peer",
+   "membershipFromId": 4,
+   "house": 2,
+   "membershipStartDate": "2015-09-28T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2015-09-28T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/395/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2010-04-13T00:00:00",
+    "constituencyEnd": "2024-05-30T00:00:00",
+    "house": 1,
+    "name": "Sheffield, Brightside and Hillsborough",
+    "id": 3724,
+    "startDate": "2010-05-06T00:00:00",
+    "endDate": "2015-03-30T00:00:00",
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "1997-04-09T00:00:00",
+    "constituencyEnd": "2010-04-12T00:00:00",
+    "house": 1,
+    "name": "Sheffield, Brightside",
+    "id": 2561,
+    "startDate": "1997-05-01T00:00:00",
+    "endDate": "2010-05-06T00:00:00",
+    "additionalInfo": "Elected 3 times",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "1983-05-14T00:00:00",
+    "constituencyEnd": "1997-04-08T00:00:00",
+    "house": 1,
+    "name": "Sheffield, Brightside",
+    "id": 2560,
+    "startDate": "1987-06-11T00:00:00",
+    "endDate": "1997-05-01T00:00:00",
+    "additionalInfo": "Elected 2 times",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [
+   {
+    "house": 1,
+    "name": "Sheffield, Hallam",
+    "id": 2565,
+    "startDate": "1974-02-28T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "houseMemberships": [
+   {
+    "house": 2,
+    "name": "Lords",
+    "id": 2,
+    "startDate": "2015-09-28T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Lord Blunkett",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "1987-06-11T00:00:00",
+    "endDate": "2015-03-30T00:00:00",
+    "additionalInfo": "Mr David Blunkett",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [
+   {
+    "house": 1,
+    "name": "Secretary of State for Work and Pensions",
+    "id": 744,
+    "startDate": "2005-05-06T00:00:00",
+    "endDate": "2005-11-02T00:00:00",
+    "additionalInfo": "Department for Work and Pensions",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-work-pensions"
+   },
+   {
+    "house": 1,
+    "name": "Home Secretary",
+    "id": 74,
+    "startDate": "2001-06-08T00:00:00",
+    "endDate": "2004-12-15T00:00:00",
+    "additionalInfo": "Home Office",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/home-office"
+   },
+   {
+    "house": 1,
+    "name": "Secretary of State for Education and Employment",
+    "id": 468,
+    "startDate": "1997-05-01T00:00:00",
+    "endDate": "2001-06-08T00:00:00",
+    "additionalInfo": "Department for Education and Employment",
+    "additionalInfoLink": null
+   }
+  ],
+  "oppositionPosts": [
+   {
+    "house": 1,
+    "name": "Shadow Secretary of State (Education and Employment)",
+    "id": 1484,
+    "startDate": "1995-07-05T00:00:00",
+    "endDate": "1997-05-01T00:00:00",
+    "additionalInfo": "Department for Education",
+    "additionalInfoLink": "http://www.education.gov.uk/"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Secretary of State for Education",
+    "id": 864,
+    "startDate": "1994-07-22T00:00:00",
+    "endDate": "1995-07-05T00:00:00",
+    "additionalInfo": "Department for Education",
+    "additionalInfoLink": "http://www.education.gov.uk/"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Secretary of State for Health",
+    "id": 863,
+    "startDate": "1992-07-01T00:00:00",
+    "endDate": "1994-07-22T00:00:00",
+    "additionalInfo": "Department of Health",
+    "additionalInfoLink": "http://www.dh.gov.uk"
+   },
+   {
+    "house": 1,
+    "name": "Opposition Spokesperson (Local Government and Poll Tax)",
+    "id": 1188,
+    "startDate": "1988-06-01T00:00:00",
+    "endDate": "1992-07-01T00:00:00",
+    "additionalInfo": "HM Official Opposition",
+    "additionalInfoLink": null
+   }
+  ],
+  "otherPosts": [
+   {
+    "house": 1,
+    "name": "Party Chair, Labour Party",
+    "id": 808,
+    "startDate": "1993-08-01T00:00:00",
+    "endDate": "1994-07-31T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": null,
+    "name": "Member, Labour Party National Executive Committee",
+    "id": 803,
+    "startDate": "1983-08-01T00:00:00",
+    "endDate": "1998-07-31T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Labour",
+    "id": 15,
+    "startDate": "1987-06-11T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 1,
+    "name": "Committee on Issue of Privilege (Police Searches on Parliamentary Estate)",
+    "id": 13,
+    "startDate": "2009-07-13T00:00:00",
+    "endDate": "2010-05-06T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 2,
+    "name": "Citizenship and Civic Engagement Committee",
+    "id": 374,
+    "startDate": "2017-06-29T00:00:00",
+    "endDate": "2018-03-28T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 2,
+    "name": "Justice and Home Affairs Committee",
+    "id": 519,
+    "startDate": "2021-04-14T00:00:00",
+    "endDate": "2024-01-31T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 2,
+    "name": "Retirement and Participation Committee",
+    "id": 821,
+    "startDate": "2025-12-18T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 22877,
+     "interest": "Director, HADAW Productions and Investments Limited (publishing, broadcast and print media; advisory services; skills, employment and productivity advice; cyber and internet security advice; income from some of the sources listed below is paid to HADAW)",
+     "createdWhen": "2015-10-13T10:24:19",
+     "lastAmendedWhen": "2025-04-07T10:51:01.547",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 22878,
+     "interest": "Director and Chairman of the Board, University of Law Limited (subsidiary and affiliated institution of Global University Systems and Interactive Pro Limited) (income paid to HADAW)",
+     "createdWhen": "2015-10-13T10:25:04",
+     "lastAmendedWhen": "2025-05-01T15:24:19.713",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 22879,
+     "interest": "Holder of a personal Chair of Politics in Practice, The Department of Politics and International Relations, University of Sheffield (income paid direct to member) (interest ceased 31 March 2026)\r\n\r\n",
+     "createdWhen": "2015-10-13T10:26:19",
+     "lastAmendedWhen": "2026-04-01T10:40:37.643",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 22882,
+     "interest": "Chairman, EasyJet Assisted Travel Advisory Board (improving support for persons requiring special assistance for air travel) (income paid to HADAW)",
+     "createdWhen": "2015-10-13T10:27:25",
+     "lastAmendedWhen": "2025-04-07T10:51:25.64",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 24351,
+     "interest": "Payments made for articles written for Associated Newspapers (payments made direct to member)",
+     "createdWhen": "2015-12-21T14:52:33",
+     "lastAmendedWhen": "2025-04-05T00:00:00",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 31791,
+     "interest": "Regular columnist, The Yorkshire Post",
+     "createdWhen": "2018-04-04T12:07:04",
+     "lastAmendedWhen": "2025-04-05T00:00:00",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 36067,
+     "interest": "Chair, Heathrow Local Growth Taskforce (formerly Heathrow Sustainable Economic Growth Taskforce (HSEG Taskforce)) (income paid to HADAW)",
+     "createdWhen": "2020-08-02T11:42:10",
+     "lastAmendedWhen": "2026-10-26T13:05:52.503",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 41405,
+     "interest": "Chair, Advisory Board, FutureLearn (digital education platform) (interest ceased 31 May 2026)",
+     "createdWhen": "2022-12-20T12:05:13",
+     "lastAmendedWhen": "2026-06-01T10:35:16.05",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 43691,
+     "interest": "Adviser on public policy and internal understanding of government and policy development to DLA Piper LLP (law firm)",
+     "createdWhen": "2024-03-01T16:24:40",
+     "lastAmendedWhen": "2025-04-05T00:00:00",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 44266,
+     "interest": "Payments received for articles written for News UK",
+     "createdWhen": "2024-05-13T13:01:52",
+     "lastAmendedWhen": "2025-04-05T00:00:00",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 44268,
+     "interest": "Skills Adviser, Lower Thames Crossing, National Highways (income paid to HADAW)",
+     "createdWhen": "2024-05-13T15:37:39",
+     "lastAmendedWhen": "2025-04-07T10:51:48.093",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 46299,
+     "interest": "Senior Home Affairs Advisor and Co Chair of the CEG Fellowship programme for the Counter Extremism Group (CEG)",
+     "createdWhen": "2025-05-19T08:22:39",
+     "lastAmendedWhen": "2025-05-19T08:23:20.337",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 46931,
+     "interest": "Adviser on regulation, Indepen (construction, energy supply and distribution consultancy) (income paid to HADAW)",
+     "createdWhen": "2025-10-01T11:04:57",
+     "lastAmendedWhen": "2025-10-06T12:59:40.64",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 47196,
+     "interest": "Speaking engagement, 20 November 2025, Management Consultancies Association Council, London ",
+     "createdWhen": "2025-11-26T17:14:03",
+     "lastAmendedWhen": "2025-11-26T17:15:06.97",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 47197,
+     "interest": "Speaking engagement, 20 November 2025, Schools & Academies Show, Birmingham",
+     "createdWhen": "2025-11-26T17:15:31",
+     "lastAmendedWhen": "2025-11-26T17:17:07.917",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 47233,
+     "interest": "Speaking engagement, 3 December 2025, the Post Office, London",
+     "createdWhen": "2025-12-04T14:50:54",
+     "lastAmendedWhen": "2025-12-04T14:51:28.11",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 47715,
+     "interest": "Speaking engagement, 28 April 2026, The Public Service Consultants Ltd, London",
+     "createdWhen": "2026-04-29T15:42:18",
+     "lastAmendedWhen": "2026-04-29T15:43:17.467",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 47889,
+     "interest": "Speaking engagement, 9 June 2026, Duolingo, London",
+     "createdWhen": "2026-06-19T06:43:01",
+     "lastAmendedWhen": "2026-06-19T06:44:10.533",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1003,
+   "name": "Category 2: Shareholdings etc. (b)",
+   "sortOrder": 1043,
+   "interests": [
+    {
+     "id": 22883,
+     "interest": "HADAW Productions and Investments Limited (see category 1)",
+     "createdWhen": "2015-10-13T10:28:48",
+     "lastAmendedWhen": "2025-04-05T00:00:00",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [
+  {
+   "category": "Concerns: Policy Interests",
+   "focus": [
+    "Asylum, immigration and nationality",
+    "Civil Society/The voluntary and community sector",
+    "Education",
+    "Employment and training",
+    "Parliament, government and politics",
+    "Security (including cyber security)"
+   ]
+  },
+  {
+   "category": "Concerns: UK Areas",
+   "focus": [
+    "Sheffield",
+    "Yorkshire"
+   ]
+  },
+  {
+   "category": "Concerns: World Areas",
+   "focus": [
+    "France",
+    "United States of America"
+   ]
+  }
+ ],
+ "synopsis": "Lord Blunkett's full title is The Rt Hon. the Lord Blunkett. His name is David Blunkett, and he is a current member of the House of Lords.",
+ "history": [
+  {
+   "id": 1954029,
+   "uin": "HL4593",
+   "heading": "Civil Servants: Training",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by Baroness Twycross on 9 October (HL2806), how much budget is allocated for each area of civil service training in (1) digital, data and innovation, and (2) leadership and management.",
+   "dateTabled": "2026-10-27T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1959167,
+   "uin": "HL5225",
+   "heading": "Social Services",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the treatment of Child Trust Funds in means-tested financial assessments for adult social care.",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1956367,
+   "uin": "HL4855",
+   "heading": "Naturalisation",
+   "questionText": "To ask His Majesty's Government, further to the statement by the Home Secretary on 2 November (HC Deb cols 583–586), at what point those receiving indefinite leave to remain can apply for naturalisation.",
+   "dateTabled": "2026-11-03T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1955737,
+   "uin": "HL4770",
+   "heading": "Postal Services: Visual Impairment",
+   "questionText": "To ask His Majesty's Government what discussions they have had with the owners of Royal Mail regarding the long-standing mandate to ensure that post designated as Articles for the Blind is given first class status; and what further steps might be taken to",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1944055,
+   "uin": "HL3750",
+   "heading": "Department for Education: Staff",
+   "questionText": "To ask His Majesty's Government how many permanent officials in the Department for Education at Grade 7 and above have ever taught in a secondary school, sixth form college, or college of further education.",
+   "dateTabled": "2026-10-05T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1943600,
+   "uin": "HL3524",
+   "heading": "Public Sector: Reform",
+   "questionText": "To ask His Majesty's Government what evaluation they have undertaken of the Test, Learn and Grow initiative; and whether they plan to publish any such evaluation and if so, when.",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1936578,
+   "uin": "HL2806",
+   "heading": "Civil Servants: Training",
+   "questionText": "To ask His Majesty's Government what approval process is currently in place for the outsourcing of civil service training to take place prior to the re-establishment of the School of Government in 2028; what alternative delivery mechanisms have been explo",
+   "dateTabled": "2026-09-01T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1943687,
+   "uin": "HL3601",
+   "heading": "Democratic Engagement Fund",
+   "questionText": "To ask His Majesty's Government what consideration they have given to allocating greater resources to the Democratic Engagement Fund, and reopening it for applications.",
+   "dateTabled": "2026-09-16T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1940096,
+   "uin": "HL3298",
+   "heading": "Democratic Engagement Fund",
+   "questionText": "To ask His Majesty's Government what is the total amount of money available in the democratic engagement fund; and how that fund is to be accessed by those willing and able to invest in protecting our democracy.",
+   "dateTabled": "2026-09-09T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1942147,
+   "uin": "HL3463",
+   "heading": "Pancreatic Enzyme Replacement Therapy",
+   "questionText": "To ask His Majesty's Government what steps they have taken to ensure availability of Creon for those being treated for pancreatic abnormalities.",
+   "dateTabled": "2026-09-14T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1937759,
+   "uin": "HL3001",
+   "heading": "Reoffenders",
+   "questionText": "To ask His Majesty's Government what proportion of offenders formerly subject to Imprisonment for Public Protection sentences, whose licence conditions were lifted under the Victims and Prisoners Act 2024, have subsequently reoffended.",
+   "dateTabled": "2026-09-02T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1936567,
+   "uin": "HL2807",
+   "heading": "Commission for Countering Extremism",
+   "questionText": "To ask His Majesty's Government when a new Commissioner for Countering Extremism will be appointed.",
+   "dateTabled": "2026-09-01T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1926439,
+   "uin": "HL1879",
+   "heading": "Honours",
+   "questionText": "To ask His Majesty's Government how many recipients of honours in the 2026 Birthday Honours have received recognition in previous honours lists.",
+   "dateTabled": "2026-07-09T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1926440,
+   "uin": "HL1878",
+   "heading": "Honours: South Yorkshire",
+   "questionText": "To ask His Majesty's Government how many residents in the South Yorkshire Mayoral Combined Authority received an award above the level of MBE in the 2026 Birthday Honours.",
+   "dateTabled": "2026-07-09T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1926441,
+   "uin": "HL1877",
+   "heading": "Honours: South Yorkshire",
+   "questionText": "To ask His Majesty's Government how many honours above OBE level were awarded to people who were (1) living in, or (2) working or providing service to, the Sheffield City Region at the time of their nomination for an honour in the 2026 Birthday Honours li",
+   "dateTabled": "2026-07-09T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1926442,
+   "uin": "HL1876",
+   "heading": "Honours: South Yorkshire",
+   "questionText": "To ask His Majesty's Government how many honours above OBE level were awarded to people who were (1) living in, or (2) working or providing service to, the South Yorkshire area at the time of their nomination for an honour in the 2026 Birthday Honours lis",
+   "dateTabled": "2026-07-09T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1926443,
+   "uin": "HL1875",
+   "heading": "Honours",
+   "questionText": "To ask His Majesty's Government how many honours, by each award level, were received in each region or nation of the UK in the 2026 Birthday Honours; and what percentage of the population of each such region or nation that number represents.",
+   "dateTabled": "2026-07-09T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1911593,
+   "uin": "HL542",
+   "heading": "Employment Schemes: Visual Impairment",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the effectiveness of the Disability Confident scheme in improving employment outcomes for blind and partially sighted people.",
+   "dateTabled": "2026-06-02T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1905987,
+   "uin": "HL89",
+   "heading": "Access to Work Programme: Standards",
+   "questionText": "To ask His Majesty's Government what plans they have to introduce formal service standards for Access to Work, including maximum waiting times for decisions and a fast track for cases in which an individual's job is at risk.",
+   "dateTabled": "2026-05-14T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1887774,
+   "uin": "HL15160",
+   "heading": "Refugees",
+   "questionText": "To ask His Majesty's Government further to the announcement by the Home Secretary on 2 March that refugee protection is to be reviewed every 30 months, whether earned settlement will still exist for those with a legitimate right to be in the UK, seeking c",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1883528,
+   "uin": "HL14657",
+   "heading": "Health Services",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by Baroness Merron on 4 February (HL14044), whether the definition of “complex needs” will align with the definition to be used in the Schools White Paper.",
+   "dateTabled": "2026-02-23T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1878252,
+   "uin": "HL14217",
+   "heading": "Local Government and Social Care Ombudsman: Appeals",
+   "questionText": "To ask His Majesty's Government what steps they plan to take to ensure that an appeal against a Local Government and Social Care Ombudsman decision not to investigate a case is not reviewed by the same person who made the original decision.",
+   "dateTabled": "2026-02-03T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1878746,
+   "uin": "HL14267",
+   "heading": "Property Management Companies: Fees and Charges",
+   "questionText": "To ask His Majesty's Government when they intend to lay the secondary legislation required to bring into force the provisions of the Leasehold and Freehold Reform Act 2024 which create statutory rights for freeholders on managed estates to challenge the r",
+   "dateTabled": "2026-02-04T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1877316,
+   "uin": "HL14140",
+   "heading": "Prisoners' Release: Reoffenders",
+   "questionText": "To ask His Majesty's Government how many people serving an imprisonment for public protection sentence were in prison on recall as of 1 December 2025 following a breach of licence conditions where no further criminal charge was brought; and how many of th",
+   "dateTabled": "2026-01-30T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1876433,
+   "uin": "HL14044",
+   "heading": "Health Services",
+   "questionText": "To ask His Majesty's Government what is their definition of \"complex needs\" in the 10 Year Health Plan for England's target for 95 per cent of people with complex needs to have an agreed care plan by 2027.",
+   "dateTabled": "2026-01-28T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1867826,
+   "uin": "HL13221",
+   "heading": "Honours",
+   "questionText": "To ask His Majesty's Government what are the geographical locations where living recipients of Companions of Honour reside, where known.",
+   "dateTabled": "2026-01-05T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1867828,
+   "uin": "HL13220",
+   "heading": "Honours",
+   "questionText": "To ask His Majesty's Government how many of the recipients of honours in the New Year Honours List 2026 have already received recognition in previous honours lists.",
+   "dateTabled": "2026-01-05T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1867829,
+   "uin": "HL13219",
+   "heading": "Honours: South Yorkshire",
+   "questionText": "To ask His Majesty's Government how many residents of the combined Mayoral authority of South Yorkshire received an award above the level of MBE?in the New Year Honours 2026 list.",
+   "dateTabled": "2026-01-05T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1867831,
+   "uin": "HL13218",
+   "heading": "Honours: Sheffield",
+   "questionText": "To ask His Majesty's Government how many honours above OBE level were awarded to people who were (1) living in, or (2) working in or providing service to, the Sheffield City Region at the time of their nomination for an honour in the New Year Honours 2026",
+   "dateTabled": "2026-01-05T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1867832,
+   "uin": "HL13217",
+   "heading": "Honours: South Yorkshire",
+   "questionText": "To ask His Majesty's Government how many honours above OBE level were awarded to people who were (1) living in, or (2) working in or providing service to, the South Yorkshire area at the time of their nomination for an honour in the New Years Honours 2026",
+   "dateTabled": "2026-01-05T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1867834,
+   "uin": "HL13216",
+   "heading": "Honours",
+   "questionText": "To ask His Majesty's Government how many honours, by each award level, were received in each (1) region, and (2) nation of the UK in the New Year Honours 2026; and what percentage of the population of each such (1) region, and (2) nation that number repre",
+   "dateTabled": "2026-01-05T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1866333,
+   "uin": "HL13158",
+   "heading": "V-levels",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by Baroness Smith of Malvern on 15 December (HL12482), when they expect to publish their response to their consultation, Post-16 level 3 and below pathways, closing on 12 January 2026.",
+   "dateTabled": "2025-12-18T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1866334,
+   "uin": "HL13157",
+   "heading": "Prisoners",
+   "questionText": "To ask His Majesty's Government how many people serving an imprisonment for public protection sentence were in prison on recall as of 1 December 2025 following a breach of licence conditions where no further criminal charge was brought; and to provide a b",
+   "dateTabled": "2025-12-18T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1860767,
+   "uin": "HL12667",
+   "heading": "Palantir: Contracts",
+   "questionText": "To ask His Majesty's Government how many contracts across government departments have been let to Palantir in the past two years.",
+   "dateTabled": "2025-12-04T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1858509,
+   "uin": "HL12482",
+   "heading": "V-levels",
+   "questionText": "To ask His Majesty's Government, with regard to the Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act 2025 – Report on exercise of the Secretary of State’s functions, published on 27 November, what the role of Ofqual wi",
+   "dateTabled": "2025-12-01T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1860768,
+   "uin": "HL12666",
+   "heading": "Department of Health and Social Care: Palantir",
+   "questionText": "To ask His Majesty's Government how many contracts (1) have been let, and (2) are in the process of being agreed, between the Department of Health and Social Care and Palantir.",
+   "dateTabled": "2025-12-04T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1960023,
+   "uin": "HL5342",
+   "heading": "Young Offenders: Criminal Records",
+   "questionText": "To ask His Majesty's Government whether they intend for the Ministry of Justice consultation Reforming childhood criminal records disclosure to include a review of those sentenced to detention for public protection who were minors when sentenced.",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  }
+ ],
+ "historyComplete": true
+}

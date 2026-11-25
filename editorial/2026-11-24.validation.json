@@ -1,0 +1,350 @@
+{
+ "verdict": "pass_with_fixes",
+ "checked": 617,
+ "fixes": [
+  {
+   "where": "headline",
+   "was": "a new CMA strategic-market-status probe; MPs invoked \"the Microsoft outage\"",
+   "now": "Collins's question cites a CMA decision of 14 May 2026; Collins invoked \"the Microsoft outage\"",
+   "reason": "46042 cites a decision six months before the briefing, not a new November announcement. The explicit outage quotation is Collins's. A question does not establish the investigation's current status or outcome."
+  },
+  {
+   "where": "summary",
+   "was": "Parliament's business up to 24 November 2026 is dominated by government dependency on a small number of US technology suppliers; Capita's problems administering the Civil Service and Teachers' Pension Schemes",
+   "now": "The supplied material highlights supplier dependency; civil service pension problems involving Capita and teachers' pension administration-transfer problems are distinguished.",
+   "reason": "The selected material cannot establish what dominated Parliament or quantify reliance on US suppliers. Teachers' pension administration had transferred from Capita to TCS. Outage impact and regulatory-investigation premises must remain attributed."
+  },
+  {
+   "where": "very_important[0].title, where and body",
+   "was": "MPs invoke \"the Microsoft outage\" and digital sovereignty in Cyber Security and Resilience Bill debate",
+   "now": "Collins invokes \"the Microsoft outage\" and MPs raise digital sovereignty in Cyber Security and Resilience Bill debate",
+   "reason": "Attributes the quotation to its speaker. The location and body use the full evidenced Bill name, Cyber Security and Resilience (Network and Information Systems) Bill."
+  },
+  {
+   "where": "very_important[0].why",
+   "was": "all core to the reader's brief",
+   "now": "The relevance is described in terms of the evidenced topics without asserting the reader's brief.",
+   "reason": "No supplied evidence establishes the reader's personal remit or priorities."
+  },
+  {
+   "where": "very_important[1].title and why",
+   "was": "CMA probe into \"Microsoft's business software ecosystem\"; a live CMA regulatory investigation",
+   "now": "Question citing CMA investigation into \"Microsoft's business software ecosystem\"; the question's reference is not presented as a verified current regulatory outcome.",
+   "reason": "46042 is an unanswered question citing the CMA's decision of 14 May 2026."
+  },
+  {
+   "where": "very_important[1].where",
+   "was": "Written questions — Cabinet Office and Department for Business, Innovation, Science and Trade",
+   "now": "Written questions — Cabinet Office and Department for Digital, Culture, Media and Sport",
+   "reason": "46039, 46040 and 46042 are addressed to DCMS; 46038 is addressed to Cabinet Office."
+  },
+  {
+   "where": "very_important[1].body",
+   "was": "Collins asked DCMS about the CMA's strategic market status investigation into \"Microsoft's business software ecosystem\", opened 14 May 2026",
+   "now": "Collins asked DCMS about the policy implications of a CMA decision, dated 14 May 2026, to open a strategic market status investigation into \"Microsoft's business software ecosystem\"",
+   "reason": "Preserves attribution to the question rather than treating its premise as an independently verified current investigation. Specifies that 46039 concerns the proposed public body and 46040 concerns software alternatives."
+  },
+  {
+   "where": "very_important[2].body",
+   "was": "whether it has assessed switching software providers; the adequacy of Software Asset Management",
+   "now": "the impact of current contracts on public bodies' ability to switch providers; plans to assess the software estate and establish a dedicated Software Asset Management system",
+   "reason": "Corrects 46025's subject and 46028's question about establishing a system, not assessing an existing system's adequacy."
+  },
+  {
+   "where": "very_important[2].why",
+   "was": "central to the reader's \"dependency on or exit from cloud/IT suppliers\" brief",
+   "now": "The relevance is limited to switching costs, contractual barriers and software-asset management.",
+   "reason": "The reader's brief is not supplied."
+  },
+  {
+   "where": "very_important[3].title and why",
+   "was": "Microsoft outage's impact on Parliament's own digital services raised by MPs; a significant recent outage affecting a core UK public institution's digital infrastructure",
+   "now": "Mishra asks about Microsoft outage impact; Hollinrake separately raises website performance. No assessment or confirmed impact is supplied.",
+   "reason": "46113 is an unanswered request for an assessment. 46129 is a separate website-performance question and does not attribute those problems to Microsoft."
+  },
+  {
+   "where": "very_important[4].body and why",
+   "was": "government dependency on, and action against, a major IT/business-process outsourcing supplier",
+   "now": "The minister described debarment powers and insourcing commitments but did not confirm a supplier investigation or immediate insourcing.",
+   "reason": "Sally Jameson explicitly declined to confirm or deny investigations. Statutory powers do not establish action against Capita."
+  },
+  {
+   "where": "very_important[5].why",
+   "was": "a priority topic and a concrete near-term engagement opportunity",
+   "now": "The consultation has an evidenced deadline and concerns the planning framework for future data-centre development.",
+   "reason": "Retains the supported timetable without asserting an unspecified audience's priorities."
+  },
+  {
+   "where": "very_important[6].title",
+   "was": "Government AI-cyber defence investment: Frontier AI hardening, Cyber Shield and the National Agentic Security Unit",
+   "now": "Government AI-cyber defence investment: frontier-AI pilots, Cyber Shield and the National Agentic Security Unit",
+   "reason": "The described Camrose questions concern the frontier-AI pilot. The separately named hardening programme is not the subject of the token-allocation UINs."
+  },
+  {
+   "where": "very_important[6].body",
+   "was": "token-use and cost allocation of a frontier-AI model pilot for government (HL5140, HL5141)",
+   "now": "token-use and cost allocation of a frontier-AI model pilot for government (HL5143, HL5144), and responsibility for the National Agentic Security Unit (HL5141)",
+   "reason": "HL5140 asks for participating organisations' identities; HL5141 concerns responsibility for the unit. HL5143 and HL5144 are the token questions."
+  },
+  {
+   "where": "very_important[6].body",
+   "was": "AI agents now accounting for the majority of web traffic",
+   "now": "reports that automated software, including AI agents, accounts for the majority of web traffic",
+   "reason": "HL5326 refers to reports about automated software collectively, not a finding that AI agents alone account for most traffic."
+  },
+  {
+   "where": "very_important[6].why",
+   "was": "with potential commercial relevance to Microsoft's cloud and security offerings",
+   "now": "The relevance is confined to the evidenced AI-assisted cyber-defence programmes and frontier-AI pilots.",
+   "reason": "No Microsoft involvement or commercial relationship is established by these answers."
+  },
+  {
+   "where": "debates[0].body, why and tags",
+   "was": "linking data-centre expansion to concerns about energy use and the net-zero agenda; the data-centre planning/energy theme the reader needs to track",
+   "now": "Reports constituents' campaign against the proposed Larbert development and climate and community concerns; removes energy and net-zero tags.",
+   "reason": "The supplied contribution describes proximity to homes, a care home and a hospital and climate concerns, but does not expressly discuss energy use or establish the reader's priorities."
+  },
+  {
+   "where": "questions[0].where",
+   "was": "Written questions — Cabinet Office",
+   "now": "Written questions — Cabinet Office; Department for Transport; Foreign, Commonwealth and Development Office; Treasury",
+   "reason": "The grouped item also covers questions addressed to Transport, FCDO and Treasury."
+  },
+  {
+   "where": "questions[0].body",
+   "was": "whether it has met milestones; uin 44431 included among AI Taskforce questions",
+   "now": "whether milestones have been set; 44431 is separately identified as a National Security Unit for Procurement question",
+   "reason": "46366 asks about setting, not meeting, milestones. 44431 concerns security assessment of AI suppliers, not the Taskforce."
+  },
+  {
+   "where": "questions[1].body",
+   "was": "Palantir's exclusion from, or exit of contracts in, France, Switzerland and the German army on national security grounds",
+   "now": "Lewis's question cited exits from contracts or exclusion from bidding in France, Switzerland and the German army on national security grounds",
+   "reason": "Those overseas actions are premises in the question, not independently confirmed findings in the FCDO answer."
+  },
+  {
+   "where": "questions[1].why",
+   "was": "a comparable dependency concern to Microsoft's cloud and productivity software footprint in Whitehall",
+   "now": "Raises supplier risk, national-security assessment and transparency in public-sector data-platform contracts.",
+   "reason": "The evidence does not substantiate the comparative claim about Microsoft's Whitehall footprint."
+  },
+  {
+   "where": "questions[2].body and why",
+   "was": "increasing in-house capability under the Government's new Public Interest Test on Insourcing; actively reducing single-supplier dependency and insourcing",
+   "now": "Increasing in-house capability, with its approach to be reviewed and iterated in line with the new Public Interest Test on Insourcing.",
+   "reason": "45034 describes future review in line with the test, not a completed application of it or wholesale insourcing."
+  },
+  {
+   "where": "questions[3].title and why",
+   "was": "Capita's transition problems affecting civil service and teachers' pensions; Further evidence of the operational risks of outsourcing critical public-sector IT/administration to single suppliers",
+   "now": "Civil service pension questions and teachers' pension administration-transfer questions are distinguished and described as requests for information.",
+   "reason": "Teachers' pension administration transferred to TCS. Unanswered questions are not verified findings establishing responsibility for every alleged failure."
+  },
+  {
+   "where": "questions[3].body",
+   "was": "Capita's 23 November trading update",
+   "now": "Capita's update of 23 November",
+   "reason": "46093 says 'training update'; the supplied material does not reliably establish the draft's more specific 'trading update' wording."
+  },
+  {
+   "where": "questions[4].title and why",
+   "was": "MoD reliance on Starlink/Starshield for battlefield communications; reducing reliance on a single commercial (US) provider",
+   "now": "Questions on Starlink alternatives and possible Starshield restrictions; the relevance is resilience, diversification and strategic autonomy.",
+   "reason": "The answers decline operational specifics and do not establish the degree of reliance implied by the title or a wider position about US providers."
+  },
+  {
+   "where": "questions[6].body, why and tags",
+   "was": "taking with AI tech companies; the text/data-mining and AI-copyright theme central to the reader's brief",
+   "now": "taking to ensure AI companies adhere to copyright law; relevance limited to AI copyright compliance, with the text-and-data-mining tag removed",
+   "reason": "46282 does not specify joint work with companies, a text-and-data-mining proposal or the reader's brief."
+  },
+  {
+   "where": "questions[7].body",
+   "was": "contingency arrangements exist for critical Capita performance failure (uin 43039, 43040, 43042, 43043)",
+   "now": "43039 and 43040 concern Capita contract numbers and value, 43042 concerns Capita contingency arrangements, and 43043 concerns general criteria for critical contractor-performance failure.",
+   "reason": "43043 is not limited to Capita or a contingency-plan question. All four are DWP questions tabled on 12 November and answered on 24 November."
+  },
+  {
+   "where": "questions[7].why",
+   "was": "A broad, cross-government push on transparency and contingency planning",
+   "now": "Raises departmental supplier-spending transparency and contingency planning for outsourced services.",
+   "reason": "Describes the evidenced subject without inferring a coordinated political push."
+  },
+  {
+   "where": "questions[8].why",
+   "was": "dominant platforms with strategic market status such as Microsoft",
+   "now": "firms that compete with or depend on companies designated with strategic market status",
+   "reason": "The evidence refers to an investigation into Microsoft, not a confirmed designation."
+  },
+  {
+   "where": "questions[9].body and why",
+   "was": "developers must minimise public water use; the water/energy resource angle ... a recurring concern for opponents ... that the reader needs to track",
+   "now": "developers are expected to minimise public water use; relevance limited to water-use expectations and the mandatory water-access evidence for new AI Growth Zone sites",
+   "reason": "HL5274 distinguishes an expectation for developers from a requirement for new AI Growth Zone sites. It does not establish the additional energy, opposition-pattern or audience-remit claims."
+  },
+  {
+   "where": "committees[0].title and why",
+   "was": "Student Loans Company's outsourcing to Capgemini queried; Another example of parliamentary scrutiny",
+   "now": "Chair's letter on Student Loans Company outsourcing to Capgemini published; the full letter is not supplied.",
+   "reason": "Publication 55960 confirms the title, letter date and publication date, but not the contents or nature of any challenge."
+  },
+  {
+   "where": "today[1].title and why",
+   "was": "Digital Markets, Competition and Consumers Act 2024 (Subscription Contracts) ... Regulations; affecting large software/platform providers",
+   "now": "Digital Markets, Competition and Consumers Act 2024 (Subscription Contracts) (Consequential Amendments) Regulations 2026; Draft Consumer Subscription Contracts (Cancellation and Information) Regulations 2026",
+   "reason": "Restores the instruments' complete titles. The listing establishes their subject but not their specific application to large platform providers."
+  },
+  {
+   "where": "coverage[0]",
+   "was": "Evidence covers House of Commons and House of Lords written questions, statements and Hansard debate content",
+   "now": "Supplied records include written questions and answers, Hansard and committee-publication metadata; the writtenStatements array is empty.",
+   "reason": "The metadata says statements were scanned, but no written-statement texts are supplied."
+  },
+  {
+   "where": "coverage[1]",
+   "was": "1,311 written questions and 15 written statements were scanned; no data warnings or source gaps were flagged in the underlying evidence.",
+   "now": "These are reported scanning counts and empty warning/gap arrays; several supplied answers and Hansard contributions are visibly truncated.",
+   "reason": "Empty metadata warning arrays do not establish complete source text or absence of observable evidence limitations."
+  },
+  {
+   "where": "coverage[2]",
+   "was": "today's business listing and committee publications were reviewed in full",
+   "now": "Supplied business listings and committee-publication metadata were reviewed; full underlying proceedings and correspondence are not supplied.",
+   "reason": "The evidence provides listing and publication records, not complete underlying documents."
+  },
+  {
+   "where": "member_notes.5201",
+   "was": "She is a sustained questioner on software and cloud dependency, with 61 of her last 281 relevant written questions on these topics, and today tabled a cluster directly naming Microsoft's CMA investigation and government software lock-in.",
+   "now": "Her profile records 61 of 281 written questions in the past year on tracked technology topics.",
+   "reason": "281 is the total, not the relevant count; 61 spans broad technology topics, not specifically software/cloud dependency. Detailed question texts are outside the profile evidence."
+  },
+  {
+   "where": "member_notes.5111",
+   "was": "111 of 701 recent relevant written questions on these topics; His questions today on software-switching costs and Palantir's MoD contract continue a deliberate line of inquiry into supplier dependency.",
+   "now": "His profile records 111 of 701 written questions in the past year on tracked technology topics.",
+   "reason": "701 is the total count. The profile does not supply question texts or establish the claimed specific focus, and the Palantir question was tabled on 17 November, not the briefing date."
+  },
+  {
+   "where": "member_notes.4785",
+   "was": "AI dominates his work (240 of 334 recent relevant written questions, mostly on artificial intelligence); he has declared hospitality from techUK and Informa Connect (London Tech Week), likely relevant given his frontbench brief.",
+   "now": "His profile records 240 of 334 written questions in the past year on tracked technology topics, including 191 on AI. He has declared hospitality from techUK and Informa Connect Holdings Ltd for London Tech Week.",
+   "reason": "334 is the total count and 240 spans tracked technology topics, not AI alone or all parliamentary work. Removes speculation about registered hospitality. Uses the full committee name in the corrected note."
+  },
+  {
+   "where": "member_notes.4939",
+   "was": "17 of his last 19 relevant written questions concern these topics. His questions today on frontier-AI pilots and the National Agentic Security Unit continue a consistent focus on government AI-cyber investment.",
+   "now": "His profile records 17 of 19 written questions in the past year on tracked technology topics.",
+   "reason": "19 is the total, not the relevant count. Specific programme descriptions cannot be established from the profile's bare UIN list."
+  },
+  {
+   "where": "member_notes.4882",
+   "was": "an adviser to C3.ai, DigitalOcean and OnSiren — AI, cloud and cyber-security firms. His question today on AI agents' share of web traffic touches sectors in which he has declared commercial interests.",
+   "now": "An adviser to C3.ai and DigitalOcean, and non-executive chairman of OnSiren Limited; their recorded fields are enterprise AI software, cloud computing and AI for private security respectively.",
+   "reason": "Corrects OnSiren's role and sector. Private security is not synonymous with cybersecurity. Removes non-profile question detail and inferred alignment with commercial interests."
+  },
+  {
+   "where": "member_notes.4124",
+   "was": "a long-standing technology-policy voice who raised the Hugging Face AI \"loss of control\" incident and Anthropic's valuation during today's Cyber Security and Resilience Bill debate, arguing for stronger obligations on AI developers",
+   "now": "lists technology among her policy interests",
+   "reason": "The detailed Hansard commentary is outside the permitted PROFILE source for member notes."
+  },
+  {
+   "where": "member_notes.4500",
+   "was": "tabled today's question on industry consultation around the National Policy Statement for Data Centres, and has separately questioned Palantir's contract exits abroad and the NHS Federated Data Platform agreement — a consistent interest in data-centre planning and Big Tech/government IT dependency",
+   "now": "His profile records 29 of 74 written questions in the past year on tracked technology topics.",
+   "reason": "The profile does not contain these question texts. The NPS question was tabled on 19 November and answered on 24 November, not tabled on the briefing date."
+  },
+  {
+   "where": "member_notes.5314",
+   "was": "leads today's Westminster Hall debate on driverless vehicle regulation, and separately questioned the Treasury on NS&I's dependency on Atos and its move toward multi-supplier sourcing and insourcing",
+   "now": "Her profile records 29 of 196 written questions in the past year on tracked technology topics.",
+   "reason": "The debate listing and NS&I question text are not PROFILE evidence and cannot be used in this note."
+  },
+  {
+   "where": "member_notes.4811",
+   "was": "sits on the Commons Commission and asked today whether the Commission has assessed the impact of the 13 November global Microsoft outage on Parliamentary Digital Services",
+   "now": "sits on the Administration Committee",
+   "reason": "The profile does not show Commons Commission membership. Removes the non-profile question description."
+  },
+  {
+   "where": "member_notes.4474",
+   "was": "asked the Commons Commission today about the reliability of the parliamentary written-questions website, following recent outages and error messages",
+   "now": "is Shadow Minister without Portfolio and Conservative Party Chair",
+   "reason": "Replaces non-profile question detail and an unsupported outage connection with recorded profile roles."
+  },
+  {
+   "where": "member_notes.350",
+   "was": "131 of his last 881 relevant written questions on these topics; Today he tabled an identical Serco/Capita/G4S spending question to several departments, part of a wider push on outsourcing-supplier transparency.",
+   "now": "His profile records 131 of 881 written questions in the past year on tracked technology topics, mainly online safety and social media, and AI.",
+   "reason": "881 is the total count. The profile does not provide the substantive spending questions or support an inferred wider political push."
+  },
+  {
+   "where": "member_notes.4269",
+   "was": "questioned the DWP today on the number and value of its Capita contracts and contingency planning for critical Capita performance failure",
+   "now": "His profile records 54 of 117 written questions in the past year on tracked technology topics.",
+   "reason": "The profile lists UINs without these question texts. The DWP questions were tabled on 12 November and answered on 24 November."
+  },
+  {
+   "where": "member_notes.5110",
+   "was": "tabled several questions today on Capita's administration of the Civil Service Pension Scheme, including the implications of Capita's trading update and compensation for delayed payments",
+   "now": "His profile records 26 of 208 written questions in the past year on tracked technology topics.",
+   "reason": "The profile does not supply the question texts. The briefing date is 25 November, while these questions were tabled on 24 November."
+  },
+  {
+   "where": "member_notes.5216",
+   "was": "raised today the login failures and inaccurate records affecting Teachers' Pension Scheme members since administration transferred from Capita to Tata Consultancy Services",
+   "now": "is her party's Schools spokesperson and sits on the Education Committee",
+   "reason": "Replaces non-profile question detail with her recorded profile roles."
+  },
+  {
+   "where": "member_notes.5265",
+   "was": "He questioned the MoD on alternatives to Starlink and possible restrictions on UK Starshield terminals, reflecting an interest in reducing single-supplier reliance for defence connectivity.",
+   "now": "Retains his identity and Liberal Democrat Defence spokesperson role only.",
+   "reason": "The role is in the profile; the question text and inferred motivation are not."
+  },
+  {
+   "where": "member_notes.5147",
+   "was": "tabled questions on Local Benefit Plans and network-cost transparency under the Government's Data Centre Covenant",
+   "now": "His profile records three of 39 written questions in the past year on tracked technology topics, including two on cloud, data centres and compute.",
+   "reason": "Uses the profile's topic counts rather than question text supplied elsewhere."
+  },
+  {
+   "where": "member_notes.4618",
+   "was": "questioned today how compute for public services will be secured under the Data Centre Covenant",
+   "now": "sits on the Work and Pensions Committee",
+   "reason": "The profile supplies committee membership, not the substantive question text."
+  },
+  {
+   "where": "member_notes.5315",
+   "was": "asked today about the timeline for identifying strategic data centres under the Data Centre Covenant",
+   "now": "His profile records one of 13 written questions in the past year on tracked technology topics, classified under cloud, data centres and compute.",
+   "reason": "The profile supplies a broad topic classification and UIN, not the question text."
+  },
+  {
+   "where": "member_notes.5345",
+   "was": "questioned the Department for Business, Innovation, Science and Trade today on AI companies' adherence to copyright law, and separately on regulating sexually explicit AI deepfakes",
+   "now": "His profile's written-question history includes AI and copyright among its recorded topics.",
+   "reason": "Retains only profile topic evidence rather than importing question descriptions from elsewhere."
+  },
+  {
+   "where": "member_notes.1796",
+   "was": "an AI-heavy question record (350 of 431 relevant written questions in the past year, around 81%). Today he asked about safeguarding local drinking-water supplies from new AI data centres, and separately about supermarket supply-chain cybersecurity.",
+   "now": "His profile records 350 of 431 written questions in the past year on tracked technology topics (81%), including 314 on AI.",
+   "reason": "431 is the total and 350 covers all tracked technology topics, not AI alone. The profile does not supply the detailed question texts or establish tabling on the briefing date."
+  }
+ ],
+ "removed": [
+  {
+   "where": "coverage[4]",
+   "reason": "Removed the unsupported claim that the Apple Technical Capability Notice encryption dispute and other excluded material fall outside the reader's supplied brief, including its characterisation of that dispute as consumer-gadget material. No audience brief is supplied. No briefing news item was removed."
+  }
+ ],
+ "provider": "copilot",
+ "writer": "claude-sonnet-5",
+ "validator": "gpt-6.1-sol",
+ "independent": true,
+ "ruleChecks": {
+  "checked": 24,
+  "issues": []
+ }
+}

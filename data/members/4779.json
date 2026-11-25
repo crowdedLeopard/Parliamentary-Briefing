@@ -1,0 +1,541 @@
+{
+ "id": 4779,
+ "fetchedOn": "2026-11-25",
+ "core": {
+  "id": 4779,
+  "nameListAs": "Owatemi, Taiwo",
+  "nameDisplayAs": "Taiwo Owatemi",
+  "nameFullTitle": "Taiwo Owatemi MP",
+  "nameAddressAs": null,
+  "latestParty": {
+   "id": 15,
+   "name": "Labour",
+   "abbreviation": "Lab",
+   "backgroundColour": "d50000",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": true,
+   "governmentType": 0,
+   "isIndependentParty": false
+  },
+  "gender": "F",
+  "latestHouseMembership": {
+   "membershipFrom": "Coventry North West",
+   "membershipFromId": 3996,
+   "house": 1,
+   "membershipStartDate": "2019-12-12T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2024-07-04T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/4779/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2024-05-31T00:00:00",
+    "constituencyEnd": null,
+    "house": 1,
+    "name": "Coventry North West",
+    "id": 3996,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "2010-04-13T00:00:00",
+    "constituencyEnd": "2024-05-30T00:00:00",
+    "house": 1,
+    "name": "Coventry North West",
+    "id": 3428,
+    "startDate": "2019-12-12T00:00:00",
+    "endDate": "2024-05-30T00:00:00",
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [],
+  "houseMemberships": [
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "2019-12-12T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Taiwo Owatemi",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [
+   {
+    "house": 1,
+    "name": "Government Whip, Lord Commissioner of HM Treasury",
+    "id": 1230,
+    "startDate": "2024-07-10T00:00:00",
+    "endDate": "2026-07-22T00:00:00",
+    "additionalInfo": "Whips Office (Commons)",
+    "additionalInfoLink": null
+   }
+  ],
+  "oppositionPosts": [
+   {
+    "house": 1,
+    "name": "Opposition Whip (Commons)",
+    "id": 10,
+    "startDate": "2023-09-05T00:00:00",
+    "endDate": "2024-05-30T00:00:00",
+    "additionalInfo": "Whips Office (Commons)",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Shadow Minister (Equalities Office)",
+    "id": 964,
+    "startDate": "2021-09-21T00:00:00",
+    "endDate": "2022-09-07T00:00:00",
+    "additionalInfo": "Government Equalities Office",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/government-equalities-office"
+   }
+  ],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Labour",
+    "id": 15,
+    "startDate": "2019-12-12T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 1,
+    "name": "Health and Social Care Committee",
+    "id": 81,
+    "startDate": "2020-03-02T00:00:00",
+    "endDate": "2024-05-30T00:01:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "International Trade Committee",
+    "id": 367,
+    "startDate": "2020-06-08T00:00:00",
+    "endDate": "2021-07-13T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Petitions Committee",
+    "id": 326,
+    "startDate": "2021-04-20T00:00:00",
+    "endDate": "2022-03-15T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Northern Ireland (Ministers, Elections and Petitions of Concern) Bill",
+    "id": 529,
+    "startDate": "2021-06-28T00:00:00",
+    "endDate": "2021-07-06T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Nationality and Borders Bill",
+    "id": 543,
+    "startDate": "2021-09-16T00:00:00",
+    "endDate": "2021-11-04T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Energy Bill [HL]",
+    "id": 669,
+    "startDate": "2023-05-17T00:00:00",
+    "endDate": "2023-06-29T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Tobacco and Vapes Bill",
+    "id": 753,
+    "startDate": "2024-12-18T00:00:00",
+    "endDate": "2025-01-30T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Mental Health Bill [HL]",
+    "id": 798,
+    "startDate": "2025-06-09T00:00:00",
+    "endDate": "2025-06-24T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Cyber Security and Resilience (Network and Information Systems) Bill",
+    "id": 829,
+    "startDate": "2026-01-21T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 4,
+   "name": "3. Gifts, benefits and hospitality from UK sources",
+   "sortOrder": 0,
+   "interests": [
+    {
+     "id": 15154,
+     "interest": "Name of donor: Coventry City Football Club Ltd\r\nAddress of donor: Sky Blue Lodge, Leamington Road, Ryton-on-Dunsmore, Coventry CV8 3FL\r\nAmount of donation or nature and value if donation in kind: Two tickets and hospitality at a football match, value £450\r\nDate received: 3 April 2026\r\nDate accepted: 3 April 2026\r\nDonor status: company, registration 07612487\r\n(Registered 30 April 2026)",
+     "createdWhen": "2026-05-19T09:45:02.0966667",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "name": "7. (i) Shareholdings: over 15% of issued share capital",
+   "sortOrder": 1,
+   "interests": [
+    {
+     "id": 2520,
+     "interest": "Name of company or organisation: Afrika Connekt Ltd\r\nNature of business: A clothing company\r\n(Registered 7 January 2020)",
+     "createdWhen": "2024-04-18T15:16:17.8666667",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "name": "8. Miscellaneous",
+   "sortOrder": 2,
+   "interests": [
+    {
+     "id": 1636,
+     "interest": "Pharmacist registered with the General Pharmaceutical Council.\r\nDate interest arose: 24 April 2021\r\n(Registered 21 May 2021)",
+     "createdWhen": "2024-04-18T15:14:38.76",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [],
+ "synopsis": "Taiwo Owatemi is the Labour MP for <a href='/constituency/3996/overview'>Coventry North West</a>, and has been an MP continually since 12 December 2019.",
+ "history": [
+  {
+   "id": 1960692,
+   "uin": "43822",
+   "heading": "NHS: Drugs",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many reports her Department received from community pharmacies in England between 1 January and 30 September 2026 of medicines being unavailable to order when national supply was assessed as su",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1960696,
+   "uin": "43826",
+   "heading": "NHS: Drugs",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what proportion of NHS England tenders for generic medicines awarded in 2025–26 scored bids on supply chain resilience.",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1960695,
+   "uin": "43825",
+   "heading": "NHS: Drugs",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference to her Department’s document entitled Managing a robust and resilient supply of medicines, published on 11 August 2025, how many of the 40 molecules to be reactivated have returned t",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1960694,
+   "uin": "43824",
+   "heading": "Pharmacy: Prescriptions",
+   "questionText": "To ask the Secretary of State for Health and Social Care, pursuant to the Answer of 19 October 2026 to Question 31003 on pharmacist flexibilities, what criteria her Department is considering for permitting community pharmacists to supply an alternative st",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1960693,
+   "uin": "43823",
+   "heading": "NHS: Drugs",
+   "questionText": "To ask the Secretary of State for Health and Social Care, for how many medicine supply disruptions between 1 January and 30 September 2026 her Department made an assessment of the potential merits of issuing a Serious Shortage Protocol; and in how many of",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1960691,
+   "uin": "43821",
+   "heading": "Pancreatic Enzyme Replacement Therapy: Shortages",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether NHS England collects data on prescriptions for pancreatic enzyme replacement therapies, including Creon, that are wholly or partly unfilled because of supply shortages.",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1960690,
+   "uin": "43820",
+   "heading": "NHS: Drugs",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference to the Answer of 9 September 2026 to Question HL2532 on medicines supply chains, how many medicines assessed by her Department as both clinically critical and vulnerable to supply di",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1960688,
+   "uin": "43818",
+   "heading": "NHS: Drugs",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference to figure 3 of his Department's publication entitled Managing a robust and resilient supply of medicines, how many open medicine supply disruption notifications were recorded at the ",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1960703,
+   "uin": "43833",
+   "heading": "Drugs: UK Trade with EU",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what representations her Department has made to the European Commission on the potential effect of the proposed EU Critical Medicines Act’s contingency stock provisions on the availability of criti",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1960702,
+   "uin": "43832",
+   "heading": "Drugs: UK Trade with EU",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference to the agenda for the UK–EU Working Group on Medicinal Products on 8 June 2026, what follow-up actions were agreed in relation to the proposed EU Critical Medicines Act.",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1960701,
+   "uin": "43831",
+   "heading": "Drugs: UK Trade with EU",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment her Department has made of the potential impact of the proposed EU Critical Medicines Act’s provisions on preference for EU-based manufacturing on UK manufacturers’ ability to compe",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1960699,
+   "uin": "43829",
+   "heading": "Life Sciences Innovative Manufacturing Fund: Drugs",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, whether a proposal to establish UK production of an existing generic medicine can meet the innovation criteria of the Life Sciences Innovative Manufacturing Fund where the principa",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1960698,
+   "uin": "43828",
+   "heading": "Life Sciences Innovative Manufacturing Fund: Drugs",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, pursuant to the Answer of 3 November 2026 to Question 38123 on life sciences manufacturing, how much of the £115 million committed through the Life Sciences Innovative Manufacturin",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1960689,
+   "uin": "43819",
+   "heading": "NHS: Drugs",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many tier 3 and tier 4 medicine supply disruptions remained unresolved on 30 September 2026, broken down by whether they had lasted (a) less than three months, (b) three to six months or (c) mo",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1956539,
+   "uin": "40652",
+   "heading": "Coventry College: Mental Health Services",
+   "questionText": "To ask the Secretary of State for Education, what steps she is taking to support Coventry College to meet the mental health and wellbeing needs of students and staff affected by the precautionary lockdown on 20 October 2026.",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1956540,
+   "uin": "40653",
+   "heading": "West Midlands Police: Firearms",
+   "questionText": "To ask the Secretary of State for the Home Department, what assessment her Department has made of the adequacy of funding for West Midlands Police to recruit and train authorised firearms officers to respond to incidents in Coventry.",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1956603,
+   "uin": "40716",
+   "heading": "Free School Meals",
+   "questionText": "To ask the Secretary of State for Education, what assessment the Department has made of the effectiveness of local authority opt-out free school meal registration schemes with the requirement for a claim to be made by a pupil, parent or other responsible ",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1956602,
+   "uin": "40715",
+   "heading": "UK Export Finance: West Midlands",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, how many small and medium-sized manufacturing businesses based in (a) Coventry and (b) the West Midlands secured supply contracts for projects in Africa supported by UK Export Fina",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1956600,
+   "uin": "40713",
+   "heading": "Migrant Workers: Health Professions",
+   "questionText": "To ask the Secretary of State for the Home Department, with reference to the Government response to the earned settlement consultation published on 2 November 2026, whether (a) pharmacists, (b) pharmacy technicians, (c) biomedical scientists and (d) healt",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1956601,
+   "uin": "40714",
+   "heading": "Bus Services: Concessions",
+   "questionText": "To ask the Secretary of State for Transport, in what way funding for the removal of time restrictions on disabled persons’ concessionary bus passes from 1 April 2027 will be allocated between travel concession authorities; and what estimate the Department",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1955842,
+   "uin": "40167",
+   "heading": "Coventry College: Emergencies",
+   "questionText": "To ask the Secretary of State for Education, what steps her Department is taking to help support Coventry College to strengthen its emergency preparedness.",
+   "dateTabled": "2026-11-03T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1956604,
+   "uin": "40717",
+   "heading": "Africa and Caribbean: Slavery",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, whether the Government’s proposed discussions with communities impacted by the transatlantic slave trade will include African and Caribbean diaspora organisations in the UK; ",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1961529,
+   "uin": "44456",
+   "heading": "Extradition: EU Countries",
+   "questionText": "To ask the Secretary of State for the Home Department, with reference to paragraph 49 of the UK–EU Common Understanding of 19 May 2025, what measures her Department is seeking to improve the timeliness and effectiveness of extradition, and what timetable ",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1961528,
+   "uin": "44455",
+   "heading": "Extradition: EU Countries",
+   "questionText": "To ask the Secretary of State for the Home Department, what the median time was between arrest in an EU Member State and surrender to the UK in each year from 2021 to 2025, broken down by country.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1961527,
+   "uin": "44454",
+   "heading": "Extradition: EU Countries",
+   "questionText": "To ask the Secretary of State for the Home Department, what estimate her Department has made of the number of persons wanted for prosecution or to serve a sentence in the UK who are known to be in an EU Member State and whose extradition is prevented by r",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1961526,
+   "uin": "44453",
+   "heading": "Extradition: EU Countries",
+   "questionText": "To ask the Secretary of State for the Home Department, how many UK extradition requests were refused by EU Member States in each year from 2021 to 2025, broken down by requested country and grounds for refusal.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1961525,
+   "uin": "44452",
+   "heading": "Extradition: EU Countries",
+   "questionText": "To ask the Secretary of State for the Home Department, what assessment her Department has made of the adequacy of arrangements with EU Member States for the extradition of persons accused of causing death by dangerous driving, including requirements relat",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1961524,
+   "uin": "44451",
+   "heading": "Extradition: EU Countries",
+   "questionText": "To ask the Secretary of State for the Home Department, what assessment her Department has made of the effect of restrictions imposed by EU Member States on the extradition of their own nationals on the prosecution of offences committed in the UK.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1961523,
+   "uin": "44450",
+   "heading": "Africa: Supply Chains",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what programmes her Department supports to connect African manufacturers and suppliers with UK businesses seeking overseas supply-chain partners, and how UK businesses can pa",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1961515,
+   "uin": "44442",
+   "heading": "Trade Agreements: Africa",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, whether his Department will publish a progress report on the implementation of trade and investment memoranda of understanding signed with African governments since July 2024, incl",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1961514,
+   "uin": "44441",
+   "heading": "Trade Agreements: Ghana and Kenya",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what steps his Department is taking to evaluate the use of (a) the UK–Kenya Economic Partnership Agreement and (b) the UK–Ghana Trade Partnership Agreement by small and medium-size",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1961513,
+   "uin": "44440",
+   "heading": "Trade Agreements: Nigeria",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, with reference to the UK–Nigeria Enhanced Trade and Investment Partnership communiqué of 16 March 2026, which actions agreed under that partnership have been completed; which remai",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1961512,
+   "uin": "44439",
+   "heading": "Exports: Africa",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what steps his Department is taking to identify forthcoming procurement opportunities in African markets and share those opportunities with potential UK suppliers, including small ",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1961511,
+   "uin": "44438",
+   "heading": "Exports: Africa",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what support (a) his Department and (b) UK Export Finance provides to UK businesses supplying components, equipment or services to another UK company for export to African markets.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1961510,
+   "uin": "44437",
+   "heading": "Exports: Africa",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what steps his Department is taking to (a) support small and medium-sized businesses seeking to export to African markets for the first time and (b) assist them with (i) identifyin",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  }
+ ],
+ "historyComplete": true
+}

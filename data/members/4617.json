@@ -1,0 +1,478 @@
+{
+ "id": 4617,
+ "fetchedOn": "2026-11-25",
+ "core": {
+  "id": 4617,
+  "nameListAs": "Western, Matt",
+  "nameDisplayAs": "Matt Western",
+  "nameFullTitle": "Matt Western MP",
+  "nameAddressAs": "Matt Western",
+  "latestParty": {
+   "id": 15,
+   "name": "Labour",
+   "abbreviation": "Lab",
+   "backgroundColour": "d50000",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": true,
+   "governmentType": 0,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "Warwick and Leamington",
+   "membershipFromId": 4381,
+   "house": 1,
+   "membershipStartDate": "2017-06-08T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2024-07-04T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/4617/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2024-05-31T00:00:00",
+    "constituencyEnd": null,
+    "house": 1,
+    "name": "Warwick and Leamington",
+    "id": 4381,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "2010-04-13T00:00:00",
+    "constituencyEnd": "2024-05-30T00:00:00",
+    "house": 1,
+    "name": "Warwick and Leamington",
+    "id": 3831,
+    "startDate": "2017-06-08T00:00:00",
+    "endDate": "2024-05-30T00:00:00",
+    "additionalInfo": "Elected 2 times",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [],
+  "houseMemberships": [
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "2017-06-08T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Matt Western",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [],
+  "oppositionPosts": [
+   {
+    "house": 1,
+    "name": "Shadow Minister (Education)",
+    "id": 960,
+    "startDate": "2021-03-08T00:00:00",
+    "endDate": "2024-05-30T00:00:00",
+    "additionalInfo": "Department for Education",
+    "additionalInfoLink": "http://www.education.gov.uk/"
+   },
+   {
+    "house": 1,
+    "name": "Opposition Whip (Commons)",
+    "id": 10,
+    "startDate": "2020-02-12T00:00:00",
+    "endDate": "2021-05-14T00:00:00",
+    "additionalInfo": "Whips Office (Commons)",
+    "additionalInfoLink": null
+   }
+  ],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Labour",
+    "id": 15,
+    "startDate": "2017-06-08T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 1,
+    "name": "International Trade Committee",
+    "id": 367,
+    "startDate": "2020-03-02T00:00:00",
+    "endDate": "2020-09-28T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "International Trade Committee",
+    "id": 367,
+    "startDate": "2017-09-11T00:00:00",
+    "endDate": "2019-11-06T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Housing, Communities and Local Government Committee",
+    "id": 17,
+    "startDate": "2018-02-05T00:00:00",
+    "endDate": "2019-11-06T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Higher Education (Freedom of Speech) Bill",
+    "id": 538,
+    "startDate": "2021-09-07T00:00:00",
+    "endDate": "2021-09-22T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Skills and Post-16 Education [HL] Bill",
+    "id": 557,
+    "startDate": "2021-11-24T00:00:00",
+    "endDate": "2021-12-07T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Lifelong Learning (Higher Education Fee Limits) Bill",
+    "id": 662,
+    "startDate": "2023-03-15T00:00:00",
+    "endDate": "2023-03-23T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Business, Innovation, Science and Trade Committee",
+    "id": 365,
+    "startDate": "2024-10-21T00:00:00",
+    "endDate": "2026-04-13T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Panel of Chairs",
+    "id": 11,
+    "startDate": "2024-11-27T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "National Security Strategy (Joint Committee)",
+    "id": 111,
+    "startDate": "2024-12-17T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Chair",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "National Security Strategy (Joint Committee)",
+    "id": 111,
+    "startDate": "2024-12-02T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Business, Innovation, Science and Trade Sub-Committee on Economic Security, Arms and Export Controls",
+    "id": 783,
+    "startDate": "2025-03-05T00:00:00",
+    "endDate": "2026-04-13T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 5,
+   "name": "4. Visits outside the UK",
+   "sortOrder": 0,
+   "interests": [
+    {
+     "id": 15188,
+     "interest": "Name of donor: (1) Government of Jersey London Office  (2) States of Guernsey  (3) Commonwealth Parliamentary Association\r\nAddress of donor: (1) 4th Floor, 2 Queen Anne’s Gate Buildings, Dartmouth Street, London SW1H 9BP  (2) Sir Charles Frossard House, La Charroterie, St Peter Port, Guernsey GY1 1FH  (3) Richmond House, Houses of Parliament, London SW1A 0AA\r\nEstimate of the probable value (or amount of any donation): (1) On island transport and subsistence, value £505  (2) On island transport and subsistence, value £340  (3) Transportation, value £999\r\nDestination of visit: Jersey and Guernsey\r\nDates of visit: 27 March 2026 to 31 March 2026\r\nPurpose of visit: Channel Islands APPG visit to the Channel Islands. The group engaged in high level political meetings with Channel Islands Ministers, deputies and dignitaries and engaged in a wide array of cultural visits to increase understanding and cooperation between parliamentarians and their counterparts in the Channel Islands.\r\n(Registered 29 April 2026)",
+     "createdWhen": "2026-05-19T09:45:27.0833333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 15511,
+     "interest": "Name of donor: Yachad\r\nAddress of donor: Star House, 104-108 Grafton Road NW5 4BA\r\nEstimate of the probable value (or amount of any donation): Flights, accommodation, hospitality and travel, value £2,169\r\nDestination of visit: Palestine (Israel)\r\nDates of visit: 24 May 2026 to 28 May 2026\r\nPurpose of visit: To meet with a wide range of individuals, public officials and organisations, as well as to visit locations where violence has taken place, to understand the steps needed to achieve a resolution to the Israel-Palestine conflict and to adequately respond to the humanitarian situation in Gaza.\r\n(Registered 19 June 2026)",
+     "createdWhen": "2026-06-30T09:44:15.2233333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "name": "6. Land and property portfolio with a value over £100,000 and where indicated, the portfolio provides a rental income of over £10,000 a year",
+   "sortOrder": 1,
+   "interests": [
+    {
+     "id": 2413,
+     "interest": "Type of land/property: Residential property (house)\r\nNumber of properties: 1\r\nLocation: Dorset\r\nOwnership details: Owned jointly with a family member\r\nRental income: Yes\r\n(Registered 5 July 2017)",
+     "createdWhen": "2024-04-18T15:16:46.0833333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "name": "7. (ii) Other shareholdings, valued at more than £70,000",
+   "sortOrder": 2,
+   "interests": [
+    {
+     "id": 1337,
+     "interest": "Name of company or organisation: Apple\r\nNature of business: Technology company\r\n(Registered 5 July 2017)",
+     "createdWhen": "2024-04-18T15:15:14.3266667",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [],
+ "synopsis": "Matt Western is the Labour MP for <a href='/constituency/4381/overview'>Warwick and Leamington</a>, and has been an MP continually since 8 June 2017.",
+ "history": [
+  {
+   "id": 1960426,
+   "uin": "43556",
+   "heading": "Postal Services: Warwick and Leamington",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what assessment he has made of the adequacy of Royal Mail delivery times in Warwick and Leamington constituency; and what information his Department holds on delivery times in Radf",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1957920,
+   "uin": "41538",
+   "heading": "List of Ministerial Responsibilities",
+   "questionText": "To ask the Minister for the Cabinet Office, when she plans to publish an updated version of the List of Ministerial Responsibilities.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1959725,
+   "uin": "43045",
+   "heading": "General Practitioners: Finance",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment she has made of the impact on the financial stability of GPs of the recent patient list validation exercise that removed patients who no longer reside in the UK; and what steps she ",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1958431,
+   "uin": "41959",
+   "heading": "Disability Living Allowance",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what assessment the Department has made of the potential impact on children with Down syndrome of changes to eligibility for Disability Living Allowance for children recorded under “learning difficultie",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1958430,
+   "uin": "41958",
+   "heading": "Disability Living Allowance",
+   "questionText": "To ask the Secretary of State for Work and Pensions, whether the Department holds more detailed condition data for children in receipt of Disability Living Allowance recorded under “learning difficulties”.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1958428,
+   "uin": "41956",
+   "heading": "Disability Living Allowance",
+   "questionText": "To ask the Secretary of State for Work and Pensions, under which main disabling condition category children with Down syndrome in receipt of Disability Living Allowance are recorded.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1958192,
+   "uin": "41754",
+   "heading": "Languages: Higher Education",
+   "questionText": "To ask the Secretary of State for Education, how many higher education students are currently enrolled in the following language courses: Russian, Farsi, and Mandarin.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1954960,
+   "uin": "39478",
+   "heading": "Government Departments: Cybersecurity",
+   "questionText": "To ask the Minister for the Cabinet Office, if she will list the specific responsibilities for cyber strategy and policy of a) the Cabinet Office, b) the Department for Digital, Culture, Media and Sport, and c) other relevant Departments.",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1954958,
+   "uin": "39476",
+   "heading": "Cybersecurity: Departmental Responsibilities",
+   "questionText": "To ask the Minister for the Cabinet Office, which department has lead responsibility for UK cyber security policy.",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1954956,
+   "uin": "39474",
+   "heading": "National Security Council",
+   "questionText": "To ask the Minister for the Cabinet Office, on which dates the National Security Council has met since 20 July 2026.",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1954964,
+   "uin": "39482",
+   "heading": "Artificial Intelligence: Security",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, if she will publish assessments of AI-agent incidents reported to the Government and the lessons learned from those incidents.",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1954961,
+   "uin": "39479",
+   "heading": "Research: National Security",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, with reference to page 49 of the National Security Strategy 2025 published on 24 June 2025, if the Government a) still intends to publish a Research Security Strategy, b) by when t",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1954952,
+   "uin": "39470",
+   "heading": "Prisoner Escorts: Warwick",
+   "questionText": "To ask the Secretary of State for Justice, what steps the Department is taking to ensure that prisoners are delivered on time to Warwick Crown Court for trials.",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1954946,
+   "uin": "39464",
+   "heading": "Prisoner Escorts: Warwick",
+   "questionText": "To ask the Secretary of State for Justice, how many trials at Warwick Crown Court are delayed due to the late arrival of prisoners.",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1951565,
+   "uin": "36829",
+   "heading": "Heating: Natural Gas",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what projections has the Department made for the number of households that will rely on gas for heating in a) five years and b) ten years.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1946348,
+   "uin": "32457",
+   "heading": "Aerospace Industry: Supply Chains",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, whether he plans to confirm the proposed Aerospace Supply Chain Fund; whether it will support dual-use and defence-related manufacturing activities; and whether eligibility criteri",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1946349,
+   "uin": "32458",
+   "heading": "Defence: Procurement",
+   "questionText": "To ask the Secretary of State for Defence, what steps he is taking to ensure that commitments to increase defence spending associated with smaller UK businesses will benefit Tier 2 and Tier 3 suppliers, including through reporting requirements on UK suppl",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1931759,
+   "uin": "21335",
+   "heading": "Medical Laboratory Scientific Officers",
+   "questionText": "To ask the Secretary of State for the Home Department, whether she has made an assessment of the potential merits of (a) reclassifying biomedical scientists as healthcare professionals, and (b) including them within the healthcare occupations paid under t",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1884637,
+   "uin": "115613",
+   "heading": "Private Prosecutions: Palestine",
+   "questionText": "To ask the Secretary of State for Justice, whether his Department has made an assessment of the risks that private prosecutions in the United Kingdom may be used by well-resourced organisations to (a) target and (b) intimidate individuals associated with ",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1884631,
+   "uin": "115607",
+   "heading": "Food: Public Sector",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what progress the Government has made in its target to deliver half of the food in the public sector from local and sustainable sources.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1869677,
+   "uin": "104245",
+   "heading": "Oleh Voloshyn",
+   "questionText": "To ask the Solicitor General, whether his Department holds data on communication between members of the European Parliament, UK Parliament and members of UK devolved legislatures and Oleh Voloshyn in the period between 2014-2019.",
+   "dateTabled": "2026-01-08T00:00:00",
+   "answeringBodyName": "Attorney General"
+  },
+  {
+   "id": 1869674,
+   "uin": "104244",
+   "heading": "Nathan Gill",
+   "questionText": "To ask the Solicitor General, What date is the earliest evidence of bribery in the case of R. v. Nathan Gill.",
+   "dateTabled": "2026-01-08T00:00:00",
+   "answeringBodyName": "Attorney General"
+  },
+  {
+   "id": 1869671,
+   "uin": "104243",
+   "heading": "Nathan Gill",
+   "questionText": "To ask the Solicitor General, If he will deposit case papers in the case R. v. Nathan Gill in the Library of the House of Commons.",
+   "dateTabled": "2026-01-08T00:00:00",
+   "answeringBodyName": "Attorney General"
+  },
+  {
+   "id": 1862954,
+   "uin": "98975",
+   "heading": "Diplomatic Relations: Public Appointments",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what progress he has made in appointing a special envoy for complex detention cases.",
+   "dateTabled": "2025-12-10T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1957919,
+   "uin": "41537",
+   "heading": "Cabinet Committees",
+   "questionText": "To ask the Minister for the Cabinet Office, on which dates each Cabinet Committee has met since 20 July 2026.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  }
+ ],
+ "historyComplete": true
+}

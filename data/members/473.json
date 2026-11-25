@@ -1,0 +1,714 @@
+{
+ "id": 473,
+ "fetchedOn": "2026-11-25",
+ "core": {
+  "id": 473,
+  "nameListAs": "Hendrick, Sir Mark",
+  "nameDisplayAs": "Sir Mark Hendrick",
+  "nameFullTitle": "Sir Mark Hendrick MP",
+  "nameAddressAs": "Sir Mark",
+  "latestParty": {
+   "id": 15,
+   "name": "Labour (Co-op)",
+   "abbreviation": "Lab",
+   "backgroundColour": "d50000",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": true,
+   "governmentType": 0,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "Preston",
+   "membershipFromId": 4248,
+   "house": 1,
+   "membershipStartDate": "2000-11-23T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2024-07-04T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/473/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2024-05-31T00:00:00",
+    "constituencyEnd": null,
+    "house": 1,
+    "name": "Preston",
+    "id": 4248,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "2010-04-13T00:00:00",
+    "constituencyEnd": "2024-05-30T00:00:00",
+    "house": 1,
+    "name": "Preston",
+    "id": 3687,
+    "startDate": "2010-05-06T00:00:00",
+    "endDate": "2024-05-30T00:00:00",
+    "additionalInfo": "Elected 4 times",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "1997-04-09T00:00:00",
+    "constituencyEnd": "2010-04-12T00:00:00",
+    "house": 1,
+    "name": "Preston",
+    "id": 2373,
+    "startDate": "2000-11-23T00:00:00",
+    "endDate": "2010-05-06T00:00:00",
+    "additionalInfo": "Elected 3 times",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [],
+  "houseMemberships": [
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "2000-11-23T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Sir Mark Hendrick",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [],
+  "oppositionPosts": [
+   {
+    "house": 1,
+    "name": "Opposition Assistant Whip (Commons)",
+    "id": 5,
+    "startDate": "2010-10-08T00:00:00",
+    "endDate": "2013-03-18T00:00:00",
+    "additionalInfo": "Whips Office (Commons)",
+    "additionalInfoLink": null
+   }
+  ],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Labour",
+    "id": 15,
+    "startDate": "2000-11-23T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 1,
+    "name": "European Scrutiny Committee",
+    "id": 69,
+    "startDate": "2001-01-25T00:00:00",
+    "endDate": "2004-06-14T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "International Development Committee",
+    "id": 98,
+    "startDate": "2009-01-19T00:00:00",
+    "endDate": "2010-05-06T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Foreign Affairs Committee",
+    "id": 78,
+    "startDate": "2015-07-08T00:00:00",
+    "endDate": "2017-05-03T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Foreign Affairs Committee",
+    "id": 78,
+    "startDate": "2012-06-18T00:00:00",
+    "endDate": "2015-03-30T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "High Speed Rail (London - West Midlands) Bill (Commons)",
+    "id": 303,
+    "startDate": "2015-07-07T00:00:00",
+    "endDate": "2016-02-22T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Foreign Affairs Sub-Committee",
+    "id": 353,
+    "startDate": "2016-01-05T00:00:00",
+    "endDate": "2017-05-03T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "International Trade Committee",
+    "id": 367,
+    "startDate": "2020-03-02T00:00:00",
+    "endDate": "2023-04-26T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "International Trade Committee",
+    "id": 367,
+    "startDate": "2018-07-02T00:00:00",
+    "endDate": "2019-11-06T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Panel of Chairs",
+    "id": 11,
+    "startDate": "2024-07-30T00:00:00",
+    "endDate": "2025-11-13T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Panel of Chairs",
+    "id": 11,
+    "startDate": "2020-03-23T00:00:00",
+    "endDate": "2024-05-30T00:01:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Committees on Arms Export Controls",
+    "id": 15,
+    "startDate": "2020-07-06T00:00:00",
+    "endDate": "2021-02-02T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "European Statutory Instruments Committee",
+    "id": 393,
+    "startDate": "2022-06-27T00:00:00",
+    "endDate": "2024-05-30T00:01:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Employment (Allocation of Tips) Bill",
+    "id": 615,
+    "startDate": "2022-09-07T00:00:00",
+    "endDate": "2022-10-12T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Co-operatives, Mutuals and Friendly Societies Bill",
+    "id": 630,
+    "startDate": "2022-11-23T00:00:00",
+    "endDate": "2022-11-30T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Electricity and Gas Transmission (Compensation) Bill",
+    "id": 641,
+    "startDate": "2023-01-18T00:00:00",
+    "endDate": "2023-01-25T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Powers of Attorney Bill",
+    "id": 655,
+    "startDate": "2023-02-22T00:00:00",
+    "endDate": "2023-03-01T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Energy Security and Net Zero Committee",
+    "id": 664,
+    "startDate": "2023-06-12T00:00:00",
+    "endDate": "2024-05-30T00:01:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 4,
+   "name": "3. Gifts, benefits and hospitality from UK sources",
+   "sortOrder": 0,
+   "interests": [
+    {
+     "id": 15103,
+     "interest": "Name of donor: The Football League Ltd\r\nAddress of donor: EFL House, 10 12 West Cliff, Preston PR1 8HU\r\nAmount of donation or nature and value if donation in kind: Two tickets, including hospitatlity, for Carabao Cup Final, value £900\r\nDate received: 22 March 2026\r\nDate accepted: 22 March 2026\r\nDonor status: company, registration 00080612\r\n(Registered 24 April 2026)",
+     "createdWhen": "2026-04-29T09:39:53.27",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "name": "4. Visits outside the UK",
+   "sortOrder": 1,
+   "interests": [
+    {
+     "id": 14835,
+     "interest": "Name of donor: (1) UK-Japan 21st Century Group  (2) APPG Japan\r\nAddress of donor: (1) 13/14 Cornwall Terrace, London NW1 4QP  (2) House of Commons, London SW1A 0AA\r\nEstimate of the probable value (or amount of any donation): (1) Hotel (£1011.82), conference including meals (£376), rail travel (£14.66) and taxi (£10.46), value £1,412.94  (2) Return flights to Japan, value £2,320.03\r\nDestination of visit: Japan\r\nDates of visit: 6 March 2026 to 16 March 2026\r\nPurpose of visit: To improve business and diplomatic relations between the UK and Japan.\r\n(Registered 24 March 2026)",
+     "createdWhen": "2026-04-14T09:26:26.78",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [
+  {
+   "category": "Countries of interest",
+   "focus": [
+    "USA, Japan, Germany, Poland, Hungary, China"
+   ]
+  },
+  {
+   "category": "Political Interests",
+   "focus": [
+    "Foreign affairs, defence, European affairs, economic and industrial affairs, international development"
+   ]
+  }
+ ],
+ "synopsis": "Sir Mark Hendrick is the Labour (Co-op) MP for <a href='/constituency/4248/overview'>Preston</a>, and has been an MP continually since 23 November 2000.",
+ "history": [
+  {
+   "id": 1930301,
+   "uin": "19841",
+   "heading": "Social Prescribing: Recreation Spaces",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether there are plans to roll out Green Social Prescribing on the NHS across (a) Lancashire and (b) England.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1930303,
+   "uin": "19843",
+   "heading": "Temperature: Death",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what estimate she has made of the number of additional deaths (a) related to and (b) caused by extreme weather temperatures; and what steps her Department is taking to reduce that number.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1930300,
+   "uin": "19840",
+   "heading": "Flood Control",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what plans she has for the restoration of wetlands, peatlands, floodplains and salt marshes as a flood defence mechanism.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1930302,
+   "uin": "19842",
+   "heading": "Renewable Energy",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what steps her Department is taking to ensure a safe and effective transition from fossil fuels to renewable energies; and what financial assistance and incentives will be provided to homeown",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1930304,
+   "uin": "19844",
+   "heading": "Food: Waste",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps her Department plans to take to tackle food insecurity in relation to reducing food waste, improving agricultural food production and increasing climate resilience.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1930299,
+   "uin": "19839",
+   "heading": "Weather",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she has made of the potential impact of extreme weather changes on food availability, flooding and fires; and what measures her Department will take to ensure that the ",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1924993,
+   "uin": "16371",
+   "heading": "Social Media: Children",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, if she will take steps to ensure that the planned social media ban for under-16s will have robust blocks in place to avoid circumvention.",
+   "dateTabled": "2026-07-07T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1924999,
+   "uin": "16374",
+   "heading": "UK Relations with EU: Technology",
+   "questionText": "To ask the Minister for the Cabinet Office, whether alignment of EU and UK clean technology standards are a subject of discussion of the EU-UK Reset negotiations.",
+   "dateTabled": "2026-07-07T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1924997,
+   "uin": "16373",
+   "heading": "Pupil Exclusions: Young Offenders",
+   "questionText": "To ask the Secretary of State for Education, what assessment she has made of the potential implications for her Department's policies of data from ADR UK on multiple temporary exclusions of pupils and the criminal justice system, published in April 2026.",
+   "dateTabled": "2026-07-07T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1924994,
+   "uin": "16372",
+   "heading": "Railways: Temperature",
+   "questionText": "To ask the Secretary of State for Transport, what assessment she has made of the impact of the recent heatwave on the punctuality of trains across the national rail network; and what steps she has taken to ensure passengers receive timely delay compensati",
+   "dateTabled": "2026-07-07T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1925419,
+   "uin": "16852",
+   "heading": "Child Maintenance Service",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what process Child Maintenance Service uses to verify reports by constituents that incorrect or unverified information has been used in maintenance assessments.",
+   "dateTabled": "2026-07-08T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1913446,
+   "uin": "7377",
+   "heading": "Mental Health Services: Young People",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the (a) adequacy of mental health provision for young people and (b) the potential impact of rates of anxiety, depression, autism and ADHD on youth economic inactivit",
+   "dateTabled": "2026-06-08T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1919659,
+   "uin": "12629",
+   "heading": "Civil Servants: Workplace Pensions",
+   "questionText": "To ask the Minister for the Cabinet Office, what steps his Department is taking to ensure that people with advanced and terminal illnesses receive the Civil Service Pensions in a timely manner.",
+   "dateTabled": "2026-06-24T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1913447,
+   "uin": "7378",
+   "heading": "Recruitment: Young People",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what steps the Government is taking to help ensure that automated and remote recruitment processes do not act as a barrier to entry-level employment for young people with no prior work ",
+   "dateTabled": "2026-06-08T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1913445,
+   "uin": "7376",
+   "heading": "UK Relations with EU: Pollution Control",
+   "questionText": "To ask the Minister for the Cabinet Office, if he will make it his policy to align Government policy with the EU’s higher air quality standards as part of the European Partnership Bill.",
+   "dateTabled": "2026-06-08T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1913444,
+   "uin": "7375",
+   "heading": "UK Relations with EU: Import Controls",
+   "questionText": "To ask the Minister for the Cabinet Office, if the European Partnership Bill will include provisions on Sanitary and Phytosanitary (SPS) standards.",
+   "dateTabled": "2026-06-08T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1911781,
+   "uin": "6333",
+   "heading": "Prostate Cancer: Diagnosis",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether his Department plans to introduce the Stockholm3 test for prostate cancer within the NHS.",
+   "dateTabled": "2026-06-03T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1896634,
+   "uin": "124469",
+   "heading": "Agricultural Products: Prices",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps her Department is taking to help tackle inflation in the cost of produce caused by increased energy costs due to the conflict in Iran.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1901141,
+   "uin": "128186",
+   "heading": "Asylum: Afghanistan",
+   "questionText": "To ask the Secretary of State for the Home Department, if she will make it her policy to expedite the processing of asylum claims of Afghan nationals who (a) served with and (b) assisted British troops in the Afghanistan war.",
+   "dateTabled": "2026-04-20T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1901140,
+   "uin": "128185",
+   "heading": "Offences against Children: Social Media",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what steps she is taking steps to prevent and restrict social media sites from being used for child sex trafficking activity.",
+   "dateTabled": "2026-04-20T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1901142,
+   "uin": "128193",
+   "heading": "Biofuels: Regulation",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what steps his Department is taking to strengthen regulations on biomass energy production and waste incineration companies, including to ensure the sector takes responsibility for reducing i",
+   "dateTabled": "2026-04-20T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1901267,
+   "uin": "128199",
+   "heading": "Heat Pumps",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what assessment he has made of trends in the level of rollout of heat pumps by boiler manufacturers.",
+   "dateTabled": "2026-04-20T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1896639,
+   "uin": "124474",
+   "heading": "Cybercrime and Cybersecurity",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what assessment her Department has made of the proportion of companies paying ransoms to hackers following cyber-attacks; and what steps her Department is taking to improve cybersecurit",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1896640,
+   "uin": "124475",
+   "heading": "Cybercrime: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for the Home Department, what assessment she has made of the increasing use of artificial intelligence by criminals in conducting cyberattacks.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1896641,
+   "uin": "124476",
+   "heading": "Artificial Intelligence: Energy",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what assessment she has made of the impact of rising energy prices on the AI sector in the United Kingdom.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1896635,
+   "uin": "124470",
+   "heading": "Gambling: Licensing",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what steps her Department is taking to help tackle illegal online sport gambling sites that do not hold a licence to operate in the UK.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1896636,
+   "uin": "124471",
+   "heading": "Basketball: Facilities",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what assessment her Department has made of the adequacy of the (a) condition and (b) availability of outdoor basketball courts; and what steps her Department is taking to ensure adequate funding ",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1896642,
+   "uin": "124477",
+   "heading": "Police: Biometrics",
+   "questionText": "To ask the Secretary of State for the Home Department, what steps she is taking to minimise the risk of racial bias found in AI powered Live Facial Recognition systems.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1896637,
+   "uin": "124472",
+   "heading": "Natural Gas",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what steps he is taking to (a) expand and (b) ensure resiliency of the UK’s gas (i) infrastructure and storage systems and (ii) reserves.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1896638,
+   "uin": "124473",
+   "heading": "Renewable Energy: Employment",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what steps he is taking to ensure that the green workforce is expanding at a pace sufficient to meet the growing demands of an accelerated energy transition.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1885803,
+   "uin": "116448",
+   "heading": "Schools: Lancashire",
+   "questionText": "To ask the Secretary of State for Education, what capital and revenue funding allocations have been made to local authorities in Lancashire for a) primary schools, b) secondary schools and c) specialist school places over the next 2 years.",
+   "dateTabled": "2026-02-27T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1888985,
+   "uin": "118683",
+   "heading": "Unemployment: Young People",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what steps he is taking to support young people identified as Not in Education, Employment or Training.",
+   "dateTabled": "2026-03-09T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1888996,
+   "uin": "118684",
+   "heading": "Data Centres: Foreign Investment in UK",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what steps her Department is taking to ensure that inward investment agreements for new datacentres include binding requirements on energy efficiency, renewable power sourcing and heat-",
+   "dateTabled": "2026-03-09T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1889008,
+   "uin": "118687",
+   "heading": "Defence Equipment: Investment",
+   "questionText": "To ask the Secretary of State for Defence, what steps his Department is taking to mobilise private finance for the development of defence technology, a) in the start-up sector and b) from European investors.",
+   "dateTabled": "2026-03-09T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1889002,
+   "uin": "118685",
+   "heading": "Mortgages",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment her department has made of the impact of increasing oil and gas prices on fixed-rate mortgages in light of the conflict in Iran; and what steps her department will take to support homeowners affected",
+   "dateTabled": "2026-03-09T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1889007,
+   "uin": "118686",
+   "heading": "Moths: Conservation",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps her Department is taking to help prevent the loss of UK moth species.",
+   "dateTabled": "2026-03-09T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1885792,
+   "uin": "116447",
+   "heading": "Dental Services: Lancashire",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many NHS dental appointments have been a) delivered and b) cancelled in i) Preston and ii) Lancashire in the last 3 years.",
+   "dateTabled": "2026-02-27T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1872827,
+   "uin": "106484",
+   "heading": "Genomics: Screening",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how much funding his Department has allocated to genomic testing in Lancashire for the (a) 2026-27 (b) 2027-28 and (c) 2028-29 financial years.",
+   "dateTabled": "2026-01-19T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1871317,
+   "uin": "105632",
+   "heading": "Cycling: Safety",
+   "questionText": "To ask the Secretary of State for Transport, what steps her Department is taking to (a) encourage cyclists to comply with the legal requirement to use appropriate lights and (b) promote the use of (i) reflective and (ii) high-visibility clothing.",
+   "dateTabled": "2026-01-14T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1865202,
+   "uin": "100831",
+   "heading": "Car Sharing",
+   "questionText": "To ask the Secretary of State for Transport, if she will make an assessment of the potential impact of car sharing clubs on her (a) decongestion and (b) decarbonisation targets.",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1864937,
+   "uin": "100281",
+   "heading": "Artificial Intelligence: Self-harm",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what discussions her Department has had with AI companies on ensuring that AI chatbots do not promote or encourage self-harming behaviour.",
+   "dateTabled": "2025-12-16T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1864938,
+   "uin": "100306",
+   "heading": "Police: Sexual Offences",
+   "questionText": "To ask the Secretary of State for the Home Department, if she will make it her policy that people with convictions for any sexual offences should be prevented from serving in the police forces.",
+   "dateTabled": "2025-12-16T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1864934,
+   "uin": "100280",
+   "heading": "North West Ambulance Service: Abuse and Crimes of Violence",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps he is taking to ensure the safety of North West Ambulance Service personnel in the context of a trends in the number of violent and abusive incidents directed at frontline NHS staff.",
+   "dateTabled": "2025-12-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1864939,
+   "uin": "100307",
+   "heading": "Germany: Treaties",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, when her Department plans to lay the Kensington Treaty before Parliament for ratification.",
+   "dateTabled": "2025-12-16T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1859390,
+   "uin": "96088",
+   "heading": "Sports: Gender",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what data her Department holds on gender disparities in access to youth sports training facilities; and what steps she is taking to decrease those disparities.",
+   "dateTabled": "2025-12-02T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1857936,
+   "uin": "95019",
+   "heading": "Transport: Visual Impairment",
+   "questionText": "To ask the Secretary of State for Transport, what steps her department is taking to make transports systems more easily accessible for people with sight loss, to allow them to travel independently and spontaneously.",
+   "dateTabled": "2025-11-27T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1857940,
+   "uin": "95021",
+   "heading": "Ophthalmic Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps his Department is taking to ensure that access to information about the contribution of good eye care is readily available.",
+   "dateTabled": "2025-11-27T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1857938,
+   "uin": "95020",
+   "heading": "Ophthalmic Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what provisions he is making in the National Health Service to ensure that patients with long term eye conditions receive adequate practical and emotional support.",
+   "dateTabled": "2025-11-27T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1963532,
+   "uin": "46163",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Health and Social Care, pursuant to the Answer of 16 July 2026 to Question 17458, when the UK National Screening Committee is due to complete its large evidence review of risk algorithms and biomarkers related to prostate",
+   "dateTabled": "2026-11-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  }
+ ],
+ "historyComplete": true
+}
