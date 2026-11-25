@@ -1,0 +1,665 @@
+{
+ "id": 655,
+ "fetchedOn": "2026-11-25",
+ "core": {
+  "id": 655,
+  "nameListAs": "McCrea of Magherafelt and Cookstown, L.",
+  "nameDisplayAs": "Lord McCrea of Magherafelt and Cookstown",
+  "nameFullTitle": "The Rev. Dr the Lord McCrea of Magherafelt and Cookstown",
+  "nameAddressAs": null,
+  "latestParty": {
+   "id": 7,
+   "name": "Democratic Unionist Party",
+   "abbreviation": "DUP",
+   "backgroundColour": "d46a4c",
+   "foregroundColour": "FFFFFF",
+   "isLordsMainParty": false,
+   "isLordsSpiritualParty": true,
+   "governmentType": null,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "Life peer",
+   "membershipFromId": 4,
+   "house": 2,
+   "membershipStartDate": "2018-06-19T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2018-06-19T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/655/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2010-04-13T00:00:00",
+    "constituencyEnd": "2024-05-30T00:00:00",
+    "house": 1,
+    "name": "South Antrim",
+    "id": 3736,
+    "startDate": "2010-05-06T00:00:00",
+    "endDate": "2015-03-30T00:00:00",
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "1997-04-09T00:00:00",
+    "constituencyEnd": "2010-04-12T00:00:00",
+    "house": 1,
+    "name": "South Antrim",
+    "id": 2622,
+    "startDate": "2000-09-21T00:00:00",
+    "endDate": "2010-05-06T00:00:00",
+    "additionalInfo": "Elected 2 times",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "1983-05-14T00:00:00",
+    "constituencyEnd": "1997-04-08T00:00:00",
+    "house": 1,
+    "name": "Mid Ulster",
+    "id": 1958,
+    "startDate": "1983-06-09T00:00:00",
+    "endDate": "1997-05-01T00:00:00",
+    "additionalInfo": "Elected 4 times",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [
+   {
+    "house": 1,
+    "name": "South Antrim",
+    "id": 3736,
+    "startDate": "2015-05-07T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "South Antrim",
+    "id": 2622,
+    "startDate": "2001-06-07T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Mid Ulster",
+    "id": 1958,
+    "startDate": "1997-05-01T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Belfast South",
+    "id": 200,
+    "startDate": "1982-03-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "houseMemberships": [
+   {
+    "house": 2,
+    "name": "Lords",
+    "id": 2,
+    "startDate": "2018-06-19T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Lord McCrea of Magherafelt and Cookstown",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "2005-05-05T00:00:00",
+    "endDate": "2015-03-30T00:00:00",
+    "additionalInfo": "Dr William McCrea",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "2000-09-21T00:00:00",
+    "endDate": "2001-06-07T00:00:00",
+    "additionalInfo": "Rev Dr William McCrea",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "1986-01-23T00:00:00",
+    "endDate": "1997-05-01T00:00:00",
+    "additionalInfo": "Rev Dr William McCrea",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "1983-06-09T00:00:00",
+    "endDate": "1985-12-17T00:00:00",
+    "additionalInfo": "Rev Dr William McCrea",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [],
+  "oppositionPosts": [
+   {
+    "house": 1,
+    "name": "Shadow DUP Spokesperson (Justice)",
+    "id": 1109,
+    "startDate": "2010-06-01T00:00:00",
+    "endDate": "2015-03-30T00:00:00",
+    "additionalInfo": "Opposition Department",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Shadow DUP Spokesperson (Home Affairs)",
+    "id": 1114,
+    "startDate": "2010-06-01T00:00:00",
+    "endDate": "2015-03-30T00:00:00",
+    "additionalInfo": "Opposition Department",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Shadow Spokesperson (Communities and Local Government)",
+    "id": 979,
+    "startDate": "2009-06-01T00:00:00",
+    "endDate": "2010-05-06T00:00:00",
+    "additionalInfo": "Department for Communities and Local Government",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government"
+   },
+   {
+    "house": 1,
+    "name": "Shadow DUP Leader of the House of Commons",
+    "id": 1115,
+    "startDate": "2009-06-01T00:00:00",
+    "endDate": "2015-03-30T00:00:00",
+    "additionalInfo": "Opposition Department",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Shadow Spokesperson (Environment, Food and Rural Affairs)",
+    "id": 984,
+    "startDate": "2005-06-01T00:00:00",
+    "endDate": "2010-05-06T00:00:00",
+    "additionalInfo": "Department for Environment, Food and Rural Affairs",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
+   }
+  ],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Democratic Unionist Party",
+    "id": 7,
+    "startDate": "1983-06-09T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 1,
+    "name": "Panel of Chairs",
+    "id": 11,
+    "startDate": "2006-11-16T00:00:00",
+    "endDate": "2015-03-30T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Public Accounts Commission",
+    "id": 207,
+    "startDate": "2010-07-12T00:00:00",
+    "endDate": "2011-01-26T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Draft House of Lords Reform Bill (Joint Committee)",
+    "id": 248,
+    "startDate": "2011-06-23T00:00:00",
+    "endDate": "2012-03-26T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 1002,
+   "name": "Category 2: Shareholdings etc. (a)",
+   "sortOrder": 1042,
+   "interests": [
+    {
+     "id": 32528,
+     "interest": "Brookvale Associates (N.I.) Limited (consultancy re: planning business development stakeholder engagement)",
+     "createdWhen": "2018-07-17T11:09:57",
+     "lastAmendedWhen": "2025-04-05T00:00:00",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1003,
+   "name": "Category 2: Shareholdings etc. (b)",
+   "sortOrder": 1043,
+   "interests": [
+    {
+     "id": 32529,
+     "interest": "Nobel Design Limited (kitchen design and supply)",
+     "createdWhen": "2018-07-17T11:12:02",
+     "lastAmendedWhen": "2025-04-05T00:00:00",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1006,
+   "name": "Category 3: Land and property",
+   "sortOrder": 1046,
+   "interests": [
+    {
+     "id": 34389,
+     "interest": "Property and agricultural land, Stewartstown, Co. Tyrone",
+     "createdWhen": "2019-07-09T12:16:59",
+     "lastAmendedWhen": "2025-04-05T00:00:00",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [
+  {
+   "category": "Concerns: Policy Interests",
+   "focus": [
+    "Agriculture, health, elderly issues, environment, special needs education, planning"
+   ]
+  },
+  {
+   "category": "Concerns: World Areas",
+   "focus": [
+    "United States of America"
+   ]
+  }
+ ],
+ "synopsis": "Lord McCrea of Magherafelt and Cookstown's full title is The Rev. Dr the Lord McCrea of Magherafelt and Cookstown. His name is Robert Thomas William McCrea, and he is a current member of the House of Lords.",
+ "history": [
+  {
+   "id": 1959217,
+   "uin": "HL5267",
+   "heading": "Military Bases: Security",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the safety of military bases in the United Kingdom; and whether they are secure from attacks by Iran and Russia.",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1959216,
+   "uin": "HL5268",
+   "heading": "Sanctions: Christianity",
+   "questionText": "To ask His Majesty's Government what consideration they give to a country's treatment of its Christian population when deciding whether to apply sanctions.",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1959218,
+   "uin": "HL5266",
+   "heading": "Northern Ireland Troubles Bill",
+   "questionText": "To ask His Majesty's Government, with reference to the Northern Ireland Troubles Bill, which person or body decides whether another investigation under the Bill is essential; what evidence must support that decision; and what independent oversight of this",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Northern Ireland Office"
+  },
+  {
+   "id": 1959219,
+   "uin": "HL5265",
+   "heading": "Northern Ireland Troubles Bill",
+   "questionText": "To ask His Majesty's Government, with reference to the Northern Ireland Troubles Bill, what assessment they have made of the merits of taking into account veterans' physical and mental health conditions when deciding whether to permit a prosecution referr",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Northern Ireland Office"
+  },
+  {
+   "id": 1959220,
+   "uin": "HL5264",
+   "heading": "Northern Ireland Troubles Bill",
+   "questionText": "To ask His Majesty's Government, with reference to the Northern Ireland Troubles Bill, what assessment have they made of the neutrality, independence and decision-making processes of the person or body permitting a prosecution referral.",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Northern Ireland Office"
+  },
+  {
+   "id": 1943764,
+   "uin": "HL3704",
+   "heading": "Public Inquiries: Costs",
+   "questionText": "To ask His Majesty's Government what the costs are of the (1) Hamill Inquiry, and (2) Letby Inquiry.",
+   "dateTabled": "2026-09-17T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1943759,
+   "uin": "HL3708",
+   "heading": "Vacancies",
+   "questionText": "To ask His Majesty's Government what the total number of job losses has been since June 2024; how many job vacancies currently exist in the labour market; and whether the number of vacancies now is higher or lower than in July 2024.",
+   "dateTabled": "2026-09-17T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1943760,
+   "uin": "HL3707",
+   "heading": "State Retirement Pensions: Taxation",
+   "questionText": "To ask His Majesty's Government whether they intend to tax state pensions.",
+   "dateTabled": "2026-09-17T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1943765,
+   "uin": "HL3703",
+   "heading": "Inflation",
+   "questionText": "To ask His Majesty's Government what measures they are taking to curb inflation and assist consumers.",
+   "dateTabled": "2026-09-17T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1943763,
+   "uin": "HL3705",
+   "heading": "Mortgages: Government Assistance",
+   "questionText": "To ask His Majesty's Government what plans they have to provide assistance to families under pressure due to rising bank mortgages.",
+   "dateTabled": "2026-09-17T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1943762,
+   "uin": "HL3706",
+   "heading": "NHS: Antisemitism",
+   "questionText": "To ask His Majesty's Government what measures they are taking against those within the NHS who subject patients, nurses, and doctors to anti-Jewish abuse.",
+   "dateTabled": "2026-09-17T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1925885,
+   "uin": "HL1826",
+   "heading": "Energy: Costs",
+   "questionText": "To ask His Majesty's Government what steps they are taking to increase energy security and lower energy costs; and what assessment they have made as to the potential impact of the conflict in the Middle East on domestic energy bills.",
+   "dateTabled": "2026-07-08T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1925883,
+   "uin": "HL1827",
+   "heading": "Dementia: Health Services",
+   "questionText": "To ask His Majesty's Government whether any key target been removed from the Modern Service Framework for Dementia and Frailty, due for publication later this year.",
+   "dateTabled": "2026-07-08T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1925886,
+   "uin": "HL1825",
+   "heading": "Agriculture: Finance",
+   "questionText": "To ask His Majesty's Government what steps they are taking to support (1) farmers in relation to increased costs deriving from the Iran war, and (2) the long-term financial sustainability of farm businesses.",
+   "dateTabled": "2026-07-08T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1925890,
+   "uin": "HL1823",
+   "heading": "National Security: Northern Ireland",
+   "questionText": "To ask His Majesty's Government what is their most recent assessment of the security threat in Northern Ireland.",
+   "dateTabled": "2026-07-08T00:00:00",
+   "answeringBodyName": "Northern Ireland Office"
+  },
+  {
+   "id": 1925888,
+   "uin": "HL1824",
+   "heading": "Terrorism: Northern Ireland",
+   "questionText": "To ask His Majesty's Government what recent discussions they have held concerning the replacement of the Northern Ireland Troubles (Legacy and Reconciliation) Act 2023, and with whom.",
+   "dateTabled": "2026-07-08T00:00:00",
+   "answeringBodyName": "Northern Ireland Office"
+  },
+  {
+   "id": 1925891,
+   "uin": "HL1822",
+   "heading": "UK Internal Trade: Northern Ireland",
+   "questionText": "To ask His Majesty's Government what discussions they have held with representatives of the logistics industry on the cost of trade between Great Britain and Northern Ireland.",
+   "dateTabled": "2026-07-08T00:00:00",
+   "answeringBodyName": "Northern Ireland Office"
+  },
+  {
+   "id": 1920098,
+   "uin": "HL1274",
+   "heading": "Unemployment: Young People",
+   "questionText": "To ask His Majesty's Government what assessment they have made of youth unemployment trends in each region of the United Kingdom.",
+   "dateTabled": "2026-06-24T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1920094,
+   "uin": "HL1278",
+   "heading": "Undocumented Migrants: France",
+   "questionText": "To ask His Majesty's Government how much they have paid to the government of France to stop illegal immigrants arriving from boats into the United Kingdom.",
+   "dateTabled": "2026-06-24T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1920089,
+   "uin": "HL1279",
+   "heading": "China: Shipping",
+   "questionText": "To ask His Majesty's Government what action they will take to stop Chinese research vessels in UK waters (1) intercepting cargo ships, and (2) charting the seabed for submarines.",
+   "dateTabled": "2026-06-24T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1920096,
+   "uin": "HL1276",
+   "heading": "Defence: Northern Ireland",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the potential impacts of the Defence Industrial Strategy 2025 on Northern Ireland.",
+   "dateTabled": "2026-06-24T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1920095,
+   "uin": "HL1277",
+   "heading": "EU External Trade: Mercosur",
+   "questionText": "To ask His Majesty's Government what assessment they have made of any potential impacts of the EU-Mercosur trade agreement on farmers in Northern Ireland.",
+   "dateTabled": "2026-06-24T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1917013,
+   "uin": "HL1017",
+   "heading": "Accident and Emergency Departments: Death",
+   "questionText": "To ask His Majesty's Government how many patients have died waiting in A&E departments in England in the past 12 months; and how that figure compares with the figure for the period between June 2024 and June 2025.",
+   "dateTabled": "2026-06-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1920097,
+   "uin": "HL1275",
+   "heading": "Army: Northern Ireland",
+   "questionText": "To ask His Majesty's Government what steps they will take to protect the British Army from vexatious claims made by terrorists or their families relating to its actions during the Troubles.",
+   "dateTabled": "2026-06-24T00:00:00",
+   "answeringBodyName": "Northern Ireland Office"
+  },
+  {
+   "id": 1917009,
+   "uin": "HL1021",
+   "heading": "Heathrow Airport: Construction",
+   "questionText": "To ask His Majesty's Government when the third runway at Heathrow will commence construction.",
+   "dateTabled": "2026-06-16T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1917678,
+   "uin": "HL1061",
+   "heading": "Civil Servants: Remote Working",
+   "questionText": "To ask His Majesty's Government whether any civil servants have been granted permission to work from a holiday destination abroad, and if so, how many; and which departments have approved this.",
+   "dateTabled": "2026-06-17T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1917011,
+   "uin": "HL1019",
+   "heading": "Social Security Benefits: Finance",
+   "questionText": "To ask His Majesty's Government what has been the increase in the welfare budget in the financial year 2025–26; and what is the estimated rise over the next financial year.",
+   "dateTabled": "2026-06-16T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1917010,
+   "uin": "HL1020",
+   "heading": "Nigeria: Christianity",
+   "questionText": "To ask His Majesty's Government what action they are taking to stop the continuing persecution and killing of Christians in Nigeria; and what representations they have made internationally on behalf of Christians enduring persecution.",
+   "dateTabled": "2026-06-16T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1917012,
+   "uin": "HL1018",
+   "heading": "Public Sector Debt",
+   "questionText": "To ask His Majesty's Government what is the UK’s national debt as a share of GDP; and how this compares with other G7 countries.",
+   "dateTabled": "2026-06-16T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1876412,
+   "uin": "HL14066",
+   "heading": "Undocumented Migrants: France",
+   "questionText": "To ask His Majesty's Government how many migrants have been brought into the United Kingdom under the \"one in, one out\" agreement with France since the scheme began.",
+   "dateTabled": "2026-01-28T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1876410,
+   "uin": "HL14068",
+   "heading": "Employment: Young People",
+   "questionText": "To ask His Majesty's Government what measures they plan to take to help young people struggling to find work out of welfare dependency.",
+   "dateTabled": "2026-01-28T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1876414,
+   "uin": "HL14064",
+   "heading": "Employment: Disability",
+   "questionText": "To ask His Majesty's Government what progress they have made in improving access to work for people with disabilities.",
+   "dateTabled": "2026-01-28T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1876415,
+   "uin": "HL14063",
+   "heading": "Retail Trade: Urban Areas",
+   "questionText": "To ask His Majesty's Government what measures they are taking to support high streets.",
+   "dateTabled": "2026-01-28T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1876413,
+   "uin": "HL14065",
+   "heading": "Women: Chronic Illnesses",
+   "questionText": "To ask His Majesty's Government what steps they propose to take to support women with long-term health conditions.",
+   "dateTabled": "2026-01-28T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1876411,
+   "uin": "HL14067",
+   "heading": "Abortion",
+   "questionText": "To ask His Majesty's Government what steps they intend to take to prevent any increase in the number of women performing dangerous late-term abortions at home.",
+   "dateTabled": "2026-01-28T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1857645,
+   "uin": "HL12356",
+   "heading": "NHS: Strikes",
+   "questionText": "To ask His Majesty's Government what is the estimated cost of strikes within the NHS in the past six months; and what new proposals are being considered to protect patient services during any further strikes.",
+   "dateTabled": "2025-11-26T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1857142,
+   "uin": "HL12295",
+   "heading": "Russia: G8",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the re-entry of Russia into the G8; and what assessment they have made of whether Russia should pay compensation for the damage caused since its invasion of Ukraine.",
+   "dateTabled": "2025-11-25T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1857145,
+   "uin": "HL12297",
+   "heading": "Maccabi Tel Aviv Football Club",
+   "questionText": "To ask His Majesty's Government what assessment they have made of whether the West Midlands Police relied on false intelligence when banning Maccabi Tel Aviv football fans from an Aston Villa match.",
+   "dateTabled": "2025-11-25T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1857143,
+   "uin": "HL12296",
+   "heading": "Roads: Litter",
+   "questionText": "To ask His Majesty's Government what measures they are considering to tackle littering on roads.",
+   "dateTabled": "2025-11-25T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1857141,
+   "uin": "HL12294",
+   "heading": "Undocumented Migrants: Deportation",
+   "questionText": "To ask His Majesty's Government what new measures they are proposing to effectively remove illegal immigrants as soon as they arrive in the UK",
+   "dateTabled": "2025-11-25T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1857162,
+   "uin": "HL12298",
+   "heading": "Veterans: Northern Ireland",
+   "questionText": "To ask His Majesty's Government what are the protective measures for veterans proposed in the Northern Ireland Troubles Bill to distinguish between veterans and those responsible for terrorist violence.",
+   "dateTabled": "2025-11-25T00:00:00",
+   "answeringBodyName": "Northern Ireland Office"
+  },
+  {
+   "id": 1857140,
+   "uin": "HL12293",
+   "heading": "India: Christianity",
+   "questionText": "To ask His Majesty's Government what recent discussions they have had with the government of India concerning the recent denial of burial rights to Christian families in the state of Chhattisgarh.",
+   "dateTabled": "2025-11-25T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1959221,
+   "uin": "HL5263",
+   "heading": "Undocumented Migrants: France",
+   "questionText": "To ask His Majesty's Government what plans they have to respond to the refusal by France to take back migrants under the one-in-one-out scheme.",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Home Office"
+  }
+ ],
+ "historyComplete": true
+}

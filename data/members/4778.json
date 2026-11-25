@@ -1,0 +1,3422 @@
+{
+ "id": 4778,
+ "fetchedOn": "2026-11-25",
+ "core": {
+  "id": 4778,
+  "nameListAs": "Smith, Greg",
+  "nameDisplayAs": "Greg Smith",
+  "nameFullTitle": "Greg Smith MP",
+  "nameAddressAs": null,
+  "latestParty": {
+   "id": 4,
+   "name": "Conservative",
+   "abbreviation": "Con",
+   "backgroundColour": "0063ba",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": false,
+   "governmentType": 3,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "Mid Buckinghamshire",
+   "membershipFromId": 4175,
+   "house": 1,
+   "membershipStartDate": "2019-12-12T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2024-07-04T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/4778/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2024-05-31T00:00:00",
+    "constituencyEnd": null,
+    "house": 1,
+    "name": "Mid Buckinghamshire",
+    "id": 4175,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "2010-04-13T00:00:00",
+    "constituencyEnd": "2024-05-30T00:00:00",
+    "house": 1,
+    "name": "Buckingham",
+    "id": 3376,
+    "startDate": "2019-12-12T00:00:00",
+    "endDate": "2024-05-30T00:00:00",
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [
+   {
+    "house": 1,
+    "name": "Hayes and Harlington",
+    "id": 3523,
+    "startDate": "2017-06-08T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "houseMemberships": [
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "2019-12-12T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Greg Smith",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [],
+  "oppositionPosts": [
+   {
+    "house": 1,
+    "name": "Shadow Minister (Transport)",
+    "id": 971,
+    "startDate": "2026-08-31T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Department for Transport",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-transport"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Parliamentary Under Secretary (Energy Security and Net Zero)",
+    "id": 1680,
+    "startDate": "2025-07-22T00:00:00",
+    "endDate": "2026-08-31T00:00:00",
+    "additionalInfo": "Department for Energy Security and Net Zero",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Parliamentary Under Secretary (Transport)",
+    "id": 1681,
+    "startDate": "2025-07-22T00:00:00",
+    "endDate": "2026-08-31T00:00:00",
+    "additionalInfo": "Department for Transport",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-transport"
+   },
+   {
+    "house": 1,
+    "name": "Opposition Whip (Commons)",
+    "id": 10,
+    "startDate": "2024-11-20T00:00:00",
+    "endDate": "2025-07-22T00:00:00",
+    "additionalInfo": "Whips Office (Commons)",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Shadow Parliamentary Under Secretary (Business and Trade)",
+    "id": 1684,
+    "startDate": "2024-07-19T00:00:00",
+    "endDate": "2025-07-22T00:00:00",
+    "additionalInfo": "Department for Business and Trade",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-business-and-trade"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Parliamentary Under Secretary (Transport)",
+    "id": 1681,
+    "startDate": "2024-07-19T00:00:00",
+    "endDate": "2024-11-06T00:00:00",
+    "additionalInfo": "Department for Transport",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-transport"
+   }
+  ],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Conservative",
+    "id": 4,
+    "startDate": "2019-12-12T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 1,
+    "name": "European Scrutiny Committee",
+    "id": 69,
+    "startDate": "2020-03-02T00:00:00",
+    "endDate": "2024-05-30T00:01:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Transport Committee",
+    "id": 153,
+    "startDate": "2020-03-02T00:00:00",
+    "endDate": "2024-05-30T00:01:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Motor Vehicles (Compulsory Insurance) Bill",
+    "id": 567,
+    "startDate": "2021-12-15T00:00:00",
+    "endDate": "2022-01-05T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Levelling-up and Regeneration Bill",
+    "id": 598,
+    "startDate": "2022-06-15T00:00:00",
+    "endDate": "2022-10-20T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Equipment Theft (Prevention) Bill",
+    "id": 642,
+    "startDate": "2023-01-25T00:00:00",
+    "endDate": "2023-02-01T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Firearms Bill",
+    "id": 661,
+    "startDate": "2023-03-08T00:00:00",
+    "endDate": "2023-03-15T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Veterans Advisory and Pensions Committees Bill",
+    "id": 659,
+    "startDate": "2023-03-08T00:00:00",
+    "endDate": "2023-03-15T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Economic Activity of Public Bodies (Overseas Matters) Bill",
+    "id": 680,
+    "startDate": "2023-07-19T00:00:00",
+    "endDate": "2023-09-14T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Licensing Hours Extensions Bill",
+    "id": 704,
+    "startDate": "2024-02-07T00:00:00",
+    "endDate": "2024-05-30T00:01:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Employment Rights Bill",
+    "id": 747,
+    "startDate": "2024-11-20T00:00:00",
+    "endDate": "2025-01-16T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Licensing Hours Extensions Bill",
+    "id": 797,
+    "startDate": "2025-06-04T00:00:00",
+    "endDate": "2025-06-04T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Absent Voting (Elections in Scotland and Wales) Bill",
+    "id": 800,
+    "startDate": "2025-06-09T00:00:00",
+    "endDate": "2025-06-11T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Controlled Drugs (Procedure for Specification) Bill",
+    "id": 807,
+    "startDate": "2025-06-25T00:00:00",
+    "endDate": "2025-06-25T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Sustainable Aviation Fuel Bill",
+    "id": 812,
+    "startDate": "2025-07-10T00:00:00",
+    "endDate": "2025-07-17T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Highways (Financing) Bill",
+    "id": 854,
+    "startDate": "2026-10-22T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 3,
+   "name": "2. (a) Support linked to an MP but received by a local party organisation or indirectly via a central party organisation",
+   "sortOrder": 0,
+   "interests": [
+    {
+     "id": 16859,
+     "interest": "Name of donor: Philip Yerby\r\nAddress of donor: private\r\nAmount of donation or nature and value if donation in kind: £5,000 for my fighting fund\r\nDonor status: individual\r\n(Registered 27 August 2026)",
+     "createdWhen": "2026-09-08T08:55:29.0066667",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "name": "3. Gifts, benefits and hospitality from UK sources",
+   "sortOrder": 1,
+   "interests": [
+    {
+     "id": 14329,
+     "interest": "Name of donor: British Association for Shooting and Conservation\r\nAddress of donor: Marford Mill, Rossett, Wrexham LL12 0HL\r\nAmount of donation or nature and value if donation in kind: Educational visit in the UK to learn about deer management and conservation including lunch, dinner, overnight accommodation and breakfast, value £440\r\nDate received: 18 December 2025 to 19 December 2025\r\nDate accepted: 18 December 2025\r\nDonor status: company, registration IP28488R\r\n(Registered 14 January 2026)",
+     "createdWhen": "2026-01-20T11:05:23.71",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 14430,
+     "interest": "Name of donor: Motorsport UK\r\nAddress of donor: 41 Bicester Motion, Command Works, Launton, Bicester OX27 8AL\r\nAmount of donation or nature and value if donation in kind: Two tickets to the Night of Champions Award Dinner, value £1,200\r\nDate received: 24 January 2026 to 24 January 2026\r\nDate accepted: 24 January 2026\r\nDonor status: company, registration 1344829\r\n(Registered 27 January 2026)",
+     "createdWhen": "2026-02-03T11:19:52.3066667",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 16344,
+     "interest": "Name of donor: Ascot Racecourse Limited\r\nAddress of donor: Ascot Racecourse, Ascot, Berkshire SL5 7JX\r\nAmount of donation or nature and value if donation in kind: Two tickets with hospitality for me and a family member to attend Royal Ascot, value £590\r\nDate received: 18 June 2026\r\nDate accepted: 18 June 2026\r\nDonor status: company, registration 04320977\r\n(Registered 14 July 2026)",
+     "createdWhen": "2026-08-18T09:10:47.44",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 16654,
+     "interest": "Name of donor: Silverstone Circuits Ltd\r\nAddress of donor: The Jimmy Brown Centre, Silverstone Circuit, Towcester NN12 8TN\r\nAmount of donation or nature and value if donation in kind: Two tickets with hospitality to watch British Grand Prix for three days and drinks reception and parking on the Thursday, value £7,540\r\nDate received: 2 July 2026 to 5 July 2026\r\nDate accepted: 2 July 2026\r\nDonor status: company, registration 882843\r\n(Registered 30 July 2026)",
+     "createdWhen": "2026-08-18T09:11:22.3633333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 17399,
+     "interest": "Name of donor: Conservative Friends of Israel Ltd (CFI Ltd)\r\nAddress of donor: PO Box 72288, London SW1P 9LB\r\nAmount of donation or nature and value if donation in kind: Three nights accommodation and dinner for myself and a family member, value £863\r\nDate received: 4 October 2026 to 7 October 2026\r\nDate accepted: 4 October 2026\r\nDonor status: company, registration 08114952\r\n(Registered 30 October 2026)",
+     "createdWhen": "2026-11-16T14:17:13.587924",
+     "lastAmendedWhen": "2026-11-10T10:49:54.1733333",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "name": "4. Visits outside the UK",
+   "sortOrder": 2,
+   "interests": [
+    {
+     "id": 14431,
+     "interest": "Name of donor: Conservative Friends of Israel Ltd (CFI Ltd)\r\nAddress of donor: PO Box 72288, London SW1P 9LB\r\nEstimate of the probable value (or amount of any donation): Air travel, accommodation and hospitality, value £3,200\r\nDestination of visit: Israel and Palestine\r\nDates of visit: 4 January 2026 to 9 January 2026\r\nPurpose of visit: Fact finding political delegation\r\n(Registered 28 January 2026)",
+     "createdWhen": "2026-02-03T11:19:52.3066667",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "name": "8. Miscellaneous",
+   "sortOrder": 3,
+   "interests": [
+    {
+     "id": 2676,
+     "interest": "Deputy Chairman of Conservative Way Forward. This is an unpaid role.\r\nDate interest arose: 11 July 2022\r\nDate interest ended: 1 August 2024\r\nAdditional information: I was previously a Member of its Advisory Board.\r\n(Registered 30 December 2019; updated 1 August 2022 and 5 February 2026)",
+     "createdWhen": "2026-02-24T09:58:57.5333333",
+     "lastAmendedWhen": "2024-04-18T15:20:39.1333333",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 2066,
+     "interest": "Co-Chairman of the Free Market Forum, a project of the Institute of Economic Affairs. This is an unpaid role.\r\nDate interest arose: 21 April 2021\r\nDate interest ended: 1 August 2023\r\n(Registered 28 April 2021; updated 5 February 2026)",
+     "createdWhen": "2026-02-24T09:58:57.5333333",
+     "lastAmendedWhen": "2024-04-18T15:15:07.27",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 12526,
+     "interest": "Chairman Conservative Friends of Israel Parliamentary Board (previously Vice Chairman from 1 May 2025). This is an unpaid role.\r\nDate interest arose: 27 January 2026\r\n(Registered 28 May 2025; updated 5 February 2026)",
+     "createdWhen": "2026-02-24T09:58:57.5333333",
+     "lastAmendedWhen": "2025-06-03T08:58:54.9466667",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 14718,
+     "interest": "Member of the Advisory Board to the UK Sovereignty Foundation. This is an unpaid role.\r\nDate interest arose: 26 February 2026\r\n(Registered 10 March 2026)",
+     "createdWhen": "2026-03-24T10:21:32.8066667",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [],
+ "synopsis": "Greg Smith is the Conservative MP for <a href='/constituency/4175/overview'>Mid Buckinghamshire</a>, and has been an MP continually since 12 December 2019. \r\nHe currently undertakes the role of Shadow Minister (Transport).",
+ "history": [
+  {
+   "id": 1960682,
+   "uin": "43812",
+   "heading": "Department for Transport: Consultants",
+   "questionText": "To ask the Secretary of State for Transport, what assessment her Department has made of the potential merits of additional savings from consultancy and professional services beyond those already included in the £663 million of annual efficiencies planned ",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1960683,
+   "uin": "43813",
+   "heading": "Department for Transport: Executive Agencies",
+   "questionText": "To ask the Secretary of State for Transport, what proportion of the forecast improvement in cost recovery at each of (a) the Vehicle Certification Agency, (b) the Driver and Vehicle Licensing Agency, (c) the Driver and Vehicle Standards Agency and (d) the",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1960684,
+   "uin": "43814",
+   "heading": "UK Emissions Trading Scheme: Aviation",
+   "questionText": "To ask the Secretary of State for Transport, what discussions she has had with the Secretary of State for Energy Security and Net Zero on the potential merits of introducing additional free allowances under the UK Emissions Trading Scheme to support the u",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1960680,
+   "uin": "43810",
+   "heading": "Department for Transport: Consultants",
+   "questionText": "To ask the Secretary of State for Transport, how much of the £109 million spent on consultancy and £527 million spent on professional services by the Departmental Group in 2025-26 was classified as (a) resource expenditure and (b) capital expenditure.",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1959657,
+   "uin": "42977",
+   "heading": "Motor Vehicles: Manufacturing Industries",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what assessment his Department has made of trends in the level of capacity utilisation rates among UK automotive component manufacturers in each year since 2022.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1960643,
+   "uin": "43773",
+   "heading": "Asylum: MOD Bicester",
+   "questionText": "To ask the Secretary of State for the Home Department, whether parts of the modular build components for an asylum camp at MOD Bicester Site A has already been a) commissioned and b) manufactured.",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1959025,
+   "uin": "42503",
+   "heading": "Bus Services: West Midlands",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer to Question 40179 on Bus Services: West Midlands, whether her Department holds a breakdown of the forecast underspends contributing to the £2.5 million allocation for bus franchising in t",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1959027,
+   "uin": "42505",
+   "heading": "Electric Vehicles: Manufacturing Industries",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer to Question 40217 on Electric Vehicles: Manufacturing Industries, whether her Department holds an estimate of the average price paid for zero emission vehicle allowances traded between ma",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1959028,
+   "uin": "42506",
+   "heading": "Electric Vehicles: Charging Points",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer to Question 40173 on Electric Vehicles: Charging Points, what estimate her Department has made of the average cost per kilowatt-hour of (a) domestic electric vehicle charging, (b) public ",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1959655,
+   "uin": "42975",
+   "heading": "Electricity: Manufacturing Industries",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what estimate his Department has made of the difference between the average industrial electricity price paid by automotive component manufacturers in the UK and those in (a) Franc",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1959656,
+   "uin": "42976",
+   "heading": "Motor Vehicles: Manufacturing Industries",
+   "questionText": "To ask the Secretary of State for Transport, what assessment her Department has made of the potential impact of the zero-emission vehicle mandate on investment certainty for UK automotive component manufacturers supplying parts used in both zero-emission ",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1959030,
+   "uin": "42508",
+   "heading": "Taxis: VAT",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the Answers to Questions 39709 and 40172 on Taxis: VAT, whether his Department has estimated the potential increase in average passenger fares arising from the proposed changes to VAT treatment of large ",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1959026,
+   "uin": "42504",
+   "heading": "Electric Vehicles: Charging Points",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer to Question 40174 on Electric Vehicles: Charging Points, whether her Department has established a timetable for the first pilot allowing electric vehicle drivers without off-street parkin",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1957769,
+   "uin": "41387",
+   "heading": "Delivery Services: Robots",
+   "questionText": "To ask the Secretary of State for Transport, what discussions her Department has had with representatives of Starship Technologies on the drafting of legislative proposals relating to autonomous pavement delivery robots; and whether the company has submit",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1951112,
+   "uin": "36509",
+   "heading": "Breast Cancer: Research",
+   "questionText": "To ask the Minister for the Cabinet Office, with reference to the Prime Minister’s oral answer in Prime Ministers Questions on 14 October 2026, when he plans to meet with representatives of the Lobular Moon Shot Project.",
+   "dateTabled": "2026-10-20T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1958317,
+   "uin": "41879",
+   "heading": "Digital Broadcasting: Radio",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what estimate she has made of the change in transmission costs for (a) BBC and (b) commercial radio services under the (i) 2034 and (ii) 2044 options for digital terrestrial television s",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1958316,
+   "uin": "41878",
+   "heading": "Digital Broadcasting: Radio",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, whether the Radio Review will assess the potential impact of a 2034 switch-off of digital terrestrial television on the availability of broadcast radio in areas with limited access to mo",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1958318,
+   "uin": "41880",
+   "heading": "Digital Broadcasting: Television",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, pursuant to the Answer of 9 November 2026 to Question 39775, what criteria she will use to determine whether the right safeguards, infrastructure and support are in place before any tran",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1959024,
+   "uin": "42502",
+   "heading": "Great British Railways: Marketing",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 4 November 2026 to Question 38359 on Great British Railways: Marketing, what the total cost was of the package of artwork, installation and removal works covering the five stations bra",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1959037,
+   "uin": "42515",
+   "heading": "Railways: Repairs and Maintenance",
+   "questionText": "To ask the Secretary of State for Transport, how many passenger train services are expected to be cancelled or replaced by buses as a result of planned engineering works between 24 December 2026 and 2 January 2027.",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1959033,
+   "uin": "42511",
+   "heading": "Airports: Fees and Charges",
+   "questionText": "To ask the Secretary of State for Transport, whether her Department plans to obtain evidence from airport operators on the extent to which their drop-off charging policies are designed to support compliance with surface access and modal share targets as p",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1959039,
+   "uin": "42517",
+   "heading": "Railways: Repairs and Maintenance",
+   "questionText": "To ask the Secretary of State for Transport, what the estimated cost is of rail replacement bus services commissioned by publicly owned train operating companies during the Christmas and New Year 2026-27 period.",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1957772,
+   "uin": "41390",
+   "heading": "Air Passenger Duty: Families",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment he has made of the cumulative impact of planned increases in Air Passenger Duty on the cost of long-haul travel for families with children.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1959035,
+   "uin": "42513",
+   "heading": "Large Goods Vehicle Drivers: Vacancies",
+   "questionText": "To ask the Secretary of State for Transport, what estimate her Department has made of the number of HGV driver vacancies in the food and drink distribution sector in 2026.",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1949945,
+   "uin": "35534",
+   "heading": "Driving Licences: Medical Examinations",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 14 October 2026 to Question 33579 on Driving Licences: Medical Examinations, what the average number of working days taken by the Driver and Vehicle Licensing Agency to make a licensin",
+   "dateTabled": "2026-10-16T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1957770,
+   "uin": "41388",
+   "heading": "Lisa Johnson",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, whether Lisa Johnson has declared any interests in her capacity as a member of the Robotics Advisory Group.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1955949,
+   "uin": "40274",
+   "heading": "Aviation: Qualifications",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 19 October 2026 to Question 35020, whether the UK Civil Aviation Authority can recognise ATPL examinations passed under its authority before 31 December 2020 without requiring an agree",
+   "dateTabled": "2026-11-03T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1957771,
+   "uin": "41389",
+   "heading": "UK Emissions Trading Scheme: Offshore Industry",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, whether she plans to review the proposed 1 January 2027 implementation date for the inclusion of offshore vessels in the UK Emissions Trading Scheme.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1955947,
+   "uin": "40272",
+   "heading": "Passenger Ships: Taxation",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the Answer of 30 October 2026 to the Question on Passenger Ships: Taxation, whether his Department has made an assessment of the potential revenue from introducing a national levy on passengers departing",
+   "dateTabled": "2026-11-03T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1955948,
+   "uin": "40273",
+   "heading": "Aviation: Alternative Fuels",
+   "questionText": "To ask the Secretary of State for Transport, what level of projected increase in average air fares would trigger a review of the Sustainable Aviation Fuel Mandate before 2030.",
+   "dateTabled": "2026-11-03T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1948500,
+   "uin": "34395",
+   "heading": "Roads: Capital Investment",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to her Written Ministerial Statement of 26 March 2026, HCWS1466, what the estimated Government funding contribution was for each scheme in the Major Road Network and Large Local Majors programme that h",
+   "dateTabled": "2026-10-13T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1956613,
+   "uin": "40726",
+   "heading": "Roads: Construction",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 2 November 2026 to Question 38531 on Roads: Construction, what the monetised greenhouse gas emissions impact was for each of the four cancelled schemes in their final economic appraisa",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1954366,
+   "uin": "38977",
+   "heading": "Railways: Infrastructure",
+   "questionText": "To ask the Secretary of State for Transport, what the budget is for the rail infrastructure costs review chaired by Rachel Skinner CBE; and when she expects its final report and recommendations to be published.",
+   "dateTabled": "2026-10-28T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1954007,
+   "uin": "38717",
+   "heading": "Road Works: Utilities",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 23 October 2026 to Question 35233 on Road Works: Utilities, what estimate her Department has made of the number of occasions on which the same section of highway has been excavated by ",
+   "dateTabled": "2026-10-27T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1956614,
+   "uin": "40727",
+   "heading": "Electric Vehicles: Large Goods Vehicles",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 2 November 2026 to Question 38365, whether her Department has provided the Department for Energy Security and Net Zero with electricity price forecasts for use in its modelling of the ",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1957446,
+   "uin": "901916",
+   "heading": "Prisoners' Release: Maladministration",
+   "questionText": "To ask the Secretary of State for Justice, what assessment he has made of the potential impact of the early release scheme on the number of prisoners released in error.",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1955944,
+   "uin": "40269",
+   "heading": "Parking: Taxation",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 30 October 2026 to Question 37036 on Parking: Taxation, whether it is her Department's policy to encourage local traffic authorities to introduce workplace parking levies.",
+   "dateTabled": "2026-11-03T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1955945,
+   "uin": "40270",
+   "heading": "Railways: Investment",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 30 October 2026 to Question 37216 on Railways: Investment, whether her Department has made an assessment of the potential impact of Clause 71 of the Railways Bill on private investment",
+   "dateTabled": "2026-11-03T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1955946,
+   "uin": "40271",
+   "heading": "Electric Vehicles: Sales",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 19 October 2026 to Question 33979, how many manufacturers did not achieve zero-emission vehicle sales targets for (a) cars and (b) vans in each year since 2024.",
+   "dateTabled": "2026-11-03T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1951924,
+   "uin": "37187",
+   "heading": "Aviation: Fuels",
+   "questionText": "To ask the Chancellor of the Exchequer, whether he has considered introducing taxation on aviation fuel used for domestic flights.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1951923,
+   "uin": "37186",
+   "heading": "Aviation: Taxation",
+   "questionText": "To ask the Chancellor of the Exchequer, whether he has considered introducing additional taxes on private and business aviation.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1955346,
+   "uin": "39775",
+   "heading": "Digital Broadcasting: Radio",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what assessment she has made of the potential impact digital terrestrial television switch off in 2034 on terrestrial broadcast radio services in areas with no mobile signal.",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1954361,
+   "uin": "38972",
+   "heading": "Ferries: Tax Allowances",
+   "questionText": "To ask the Secretary of State for Transport, whether she has considered the potential merits of introducing an exemption from the UK Emissions Trading Scheme for island ferry services comparable to that available under the EU scheme.",
+   "dateTabled": "2026-10-28T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1954367,
+   "uin": "38978",
+   "heading": "A66: Construction",
+   "questionText": "To ask the Secretary of State for Transport, what estimate she has made of the cost of the A66 Northern Trans-Pennine dualling scheme; and in which financial year she expects the scheme to be completed.",
+   "dateTabled": "2026-10-28T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1953820,
+   "uin": "38530",
+   "heading": "High Speed One",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 21 October 2026 to Question 32105 on High Speed 1, what the (a) financial value and (b) nature of the other incentives offered by HS1 Ltd on each of the two occasions to extend its con",
+   "dateTabled": "2026-10-27T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1954008,
+   "uin": "38718",
+   "heading": "Luton Airport: Safety",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 8 September 2026 to Question 22337 on Luton Airport: Safety, what information her Department holds on whether the airport and relevant ground handling agents have completed reviews of ",
+   "dateTabled": "2026-10-27T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1953997,
+   "uin": "38707",
+   "heading": "DfT Operator: Facilities Agreements",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 21 October 2026 to Question 34458 on DfT Operator: Trade Unions, how many hours of paid trade union facility time have been authorised since the recognition arrangements began operatin",
+   "dateTabled": "2026-10-27T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1954000,
+   "uin": "38710",
+   "heading": "High Speed One",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 21 October 2026 to Question 32105 on High Speed One, what assessment her Department made of the net present value of each proposed concession extension; and what factors led it to conc",
+   "dateTabled": "2026-10-27T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1954978,
+   "uin": "39496",
+   "heading": "Furniture: Fire Prevention",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what estimate his Department has made of the length of transition period that would be required by UK furniture manufacturers following changes to the Furniture and Furnishings (Fi",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1954976,
+   "uin": "39494",
+   "heading": "Furniture: Fire Prevention",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, following the closure on 23 June 2026 of the consultation on proposed reforms to the Furniture and Furnishings (Fire) (Safety) Regulations 1988, when his Department expects to publ",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1953818,
+   "uin": "38528",
+   "heading": "Railways: Reform",
+   "questionText": "To ask the Secretary of State for Transport, with reference to contract RRSG0009, what risks to the timely delivery of rail reform have been identified; and what assessment she has made of the potential financial implications of those risks.",
+   "dateTabled": "2026-10-27T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1954368,
+   "uin": "38979",
+   "heading": "Airports: National Policy Statements",
+   "questionText": "To ask the Secretary of State for Transport, when she plans to publish the response to the consultation on the proposed revised Airports National Policy Statement.",
+   "dateTabled": "2026-10-28T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1953822,
+   "uin": "38532",
+   "heading": "Large Goods Vehicle Drivers: Working Hours",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 8 September 2026 on Drivers' Hours, whether she has made an assessment of the potential merits of amending the Drivers' Hours (Goods Vehicles) (Keeping of Records) Regulations 1987 to ",
+   "dateTabled": "2026-10-27T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1954003,
+   "uin": "38713",
+   "heading": "Electric Vehicles: Manufacturing Industries",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 22 October 2026 to Question 35212 on Electric Vehicles: Manufacturing Industries, what assessment she has made of the potential impact of reducing the annual Zero Emission Vehicle Mand",
+   "dateTabled": "2026-10-27T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1947995,
+   "uin": "33978",
+   "heading": "Lower Thames Crossing: Tolls",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 3 September 2026 to Question 19486 on the Lower Thames Crossing, what working assumptions her Department is using for the level of charges required to cover the economic and efficient ",
+   "dateTabled": "2026-10-12T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1954005,
+   "uin": "38715",
+   "heading": "Merchant Shipping: Crew",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 21 October 2026 to Question 30498 on Merchant Shipping: Crew, how many applications for Support for Maritime Training funding for deck and engineering ratings have been (a) received an",
+   "dateTabled": "2026-10-27T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1954364,
+   "uin": "38975",
+   "heading": "UK Carbon Border Adjustment Mechanism",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment he has made of the potential impact of extending the Carbon Border Adjustment Mechanism to refinery products on the cost of aviation fuel and passenger air fares.",
+   "dateTabled": "2026-10-28T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1953817,
+   "uin": "38527",
+   "heading": "Taxis: Fares",
+   "questionText": "To ask the Secretary of State for Transport, whether her Department has made representations to Transport for London on its proposals to increase the additional charges payable by taxi passengers for drop-offs at Heathrow and London City airports from £6.",
+   "dateTabled": "2026-10-27T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1954365,
+   "uin": "38976",
+   "heading": "Electric Vehicles: Charging Points",
+   "questionText": "To ask the Secretary of State for Transport, what assumptions underpin the Government's estimate that its new public electric vehicle charging support will save eligible drivers £150 per year.",
+   "dateTabled": "2026-10-28T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1953819,
+   "uin": "38529",
+   "heading": "Driving Licences: Medical Examinations",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 22 October 2026 to Question 34455 on Driving Licences, what the average number of days taken by the DVLA to make a licensing decision for Group 2 vocational driving licence application",
+   "dateTabled": "2026-10-27T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1953821,
+   "uin": "38531",
+   "heading": "Roads: Construction",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 16 October 2026 to Question 32938 on Roads: Construction, what value for money category was assigned to each of the four cancelled schemes in the most recent assessment undertaken prio",
+   "dateTabled": "2026-10-27T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1951920,
+   "uin": "37183",
+   "heading": "Air Passenger Duty",
+   "questionText": "To ask the Chancellor of the Exchequer, whether he plans to increase Air Passenger Duty rates beyond previously announced changes.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1951922,
+   "uin": "37185",
+   "heading": "Aviation: Taxation",
+   "questionText": "To ask the Chancellor of the Exchequer, whether he has considered introducing a frequent flyer levy.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1951925,
+   "uin": "37188",
+   "heading": "Airports: Parking",
+   "questionText": "To ask the Chancellor of the Exchequer, whether he has considered introducing additional taxes on airport car parking and terminal drop-off services.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1952352,
+   "uin": "37488",
+   "heading": "Police: Defibrillators",
+   "questionText": "To ask the Secretary of State for the Home Department, what assessment her Department has made of the potential merits of the proposed National Police Service and its procurement functions establishing a national minimum standard for the provision of auto",
+   "dateTabled": "2026-10-22T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1952103,
+   "uin": "37239",
+   "heading": "A46: Newark",
+   "questionText": "To ask the Secretary of State for Transport, what assessment her Department has made of the potential impact of the cancellation of the A46 Newark Bypass scheme on (a) journey times, (b) freight movements, (c) local economic growth and (d) road safety.",
+   "dateTabled": "2026-10-22T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1952353,
+   "uin": "37489",
+   "heading": "Schools: CPR and Defibrillators",
+   "questionText": "To ask the Secretary of State for Education, what discussions she has had with teaching unions and relevant education bodies on expanding and standardising CPR and automated external defibrillator training in schools.",
+   "dateTabled": "2026-10-22T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1952354,
+   "uin": "37490",
+   "heading": "Schools: Defibrillators",
+   "questionText": "To ask the Secretary of State for Education, what consideration she has given to introducing consistent and monitored training standards for school staff alongside the nationwide provision of defibrillators to schools.",
+   "dateTabled": "2026-10-22T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1952355,
+   "uin": "37491",
+   "heading": "Heart Diseases: Mental Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps her Department is taking to improve access to psychological support for families and bystanders affected by sudden cardiac arrest.",
+   "dateTabled": "2026-10-22T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1951918,
+   "uin": "37181",
+   "heading": "Motor Vehicles: Excise Duties",
+   "questionText": "To ask the Chancellor of the Exchequer, whether he plans to review the exemption from Vehicle Excise Duty for vehicles manufactured more than 40 years ago.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1951919,
+   "uin": "37182",
+   "heading": "Company Cars: Taxation",
+   "questionText": "To ask the Chancellor of the Exchequer, whether he plans to increase Benefit-in-Kind tax rates for company cars beyond previously announced increases.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1950481,
+   "uin": "35952",
+   "heading": "Heathrow Airport: Construction",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 14 October 2026 to Question 30328 on Transport: Infrastructure, whether it is the policy of this Government that the proposed expansion of Heathrow Airport tis a matter of national str",
+   "dateTabled": "2026-10-19T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1949040,
+   "uin": "34827",
+   "heading": "A303",
+   "questionText": "To ask the Secretary of State for Transport, whether her Department has received any (a) representations and (b) correspondence from the hon. Member for East Wiltshire since 15 September 2025 relating to the A303 Amesbury to Berwick Down project.",
+   "dateTabled": "2026-10-14T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1949943,
+   "uin": "35532",
+   "heading": "Heathrow Airport: Construction",
+   "questionText": "To ask the Secretary of State for Transport, whether she plans to designate Heathrow expansion as Critical National Growth Infrastructure; and what assessment she has made of the potential impact of that designation on the planning process.",
+   "dateTabled": "2026-10-16T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1949036,
+   "uin": "34823",
+   "heading": "Air Traffic Control",
+   "questionText": "To ask the Secretary of State for Transport, whether she has undertaken analysis of whether implementation of the recommendations of the Independent Review of NATS (En Route) plc’s Performance on 28 August 2023 would have (a) prevented and (b) mitigated t",
+   "dateTabled": "2026-10-14T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1949035,
+   "uin": "34822",
+   "heading": "Air Traffic Control",
+   "questionText": "To ask the Secretary of State for Transport, what estimate she has made of the costs incurred by airlines as a result of the NATS technical failures on 8 and 21 September 2026.",
+   "dateTabled": "2026-10-14T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1949942,
+   "uin": "35531",
+   "heading": "Bus Services: Fares",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, pursuant to the Answer of 14 October 2026 to Question 30018 on Bus Services: Fares, which (a) programmes and (b) budgets within her Department will be reprioritised to fund the £454 million a",
+   "dateTabled": "2026-10-16T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1949944,
+   "uin": "35533",
+   "heading": "Electric Vehicles",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 14 October 2026 to Question 31269 on Electric Vehicles, whether she has made representations to the Chancellor of the Exchequer ahead of the Budget on increasing the £7.5 billion alloc",
+   "dateTabled": "2026-10-16T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1949941,
+   "uin": "35530",
+   "heading": "Bus Services: Concessions",
+   "questionText": "To ask the Secretary of State for Work and Pensions, pursuant to the Answer of 14 October 2026 to Question 30027 on Bus Services: Concessions, which (a) programmes and (b) budgets within his Department will be reprioritised to fund the cost of extending f",
+   "dateTabled": "2026-10-16T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1949291,
+   "uin": "35078",
+   "heading": "Cars: Manufacturing Industries",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 13 October 2026 to Question 29628 on Cars: Manufacturing Industries, what her Department's policy is on revising annual Zero Emission Vehicle mandate targets.",
+   "dateTabled": "2026-10-14T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1949290,
+   "uin": "35077",
+   "heading": "Cars: Manufacturing Industries",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 13 October 2026 to Question 29628 on Cars: Manufacturing Industries, what assessment her Department has made of the ability of vehicle manufacturers to meet Zero Emission Vehicle manda",
+   "dateTabled": "2026-10-14T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1949033,
+   "uin": "34820",
+   "heading": "NATS",
+   "questionText": "To ask the Secretary of State for Transport, what role her Department plays in determining NATS executive remuneration; and whether she has sought changes to bonus criteria following disruption caused by NATS system failures.",
+   "dateTabled": "2026-10-14T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1949034,
+   "uin": "34821",
+   "heading": "Railways: Greater Manchester",
+   "questionText": "To ask the Secretary of State for Transport, what discussions she has had with Greater Manchester Combined Authority on commissioning local rail services through a public service contract with Great British Railways.",
+   "dateTabled": "2026-10-14T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1947996,
+   "uin": "33979",
+   "heading": "Electric Vehicles: Carbon Emissions",
+   "questionText": "To ask the Secretary of State for Transport, how much has been received in compliance payments under the Zero Emission Vehicle mandate in each year since its introduction; and how that revenue has been allocated.",
+   "dateTabled": "2026-10-12T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1947127,
+   "uin": "33312",
+   "heading": "Asylum: MOD Bicester",
+   "questionText": "To ask the Secretary of State for the Home Department, whether her Department has conducted a full bat survey in regards to proposals for an asylum camp at MOD Bicester Site A.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1947994,
+   "uin": "33977",
+   "heading": "Aviation: Alternative Fuels",
+   "questionText": "To ask the Secretary of State for Transport, when she plans to publish the Government’s response to the call for evidence entitled SAF Mandate: SAF supply and industry certainty in an evolving market; and when any resulting changes to the mandate would ta",
+   "dateTabled": "2026-10-12T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1942370,
+   "uin": "29508",
+   "heading": "East West Rail Line",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 7 September 2026 to Question 26119 on East West Rail Line, how many drivers are required for the commencement of passenger services between Oxford and Milton Keynes; how many have comp",
+   "dateTabled": "2026-09-14T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1942368,
+   "uin": "29506",
+   "heading": "Aerospace Industry",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 8 September 2026 to Question 21965 on Aerospace Industry, what was the average time taken by the Civil Aviation Authority to complete certification applications in each year since 2019",
+   "dateTabled": "2026-09-14T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1942367,
+   "uin": "29505",
+   "heading": "Speed Limits: Cameras",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 9 September 2026 to Question 26362 on Speed Limits: Cameras, what estimate her Department has made of (a) the number and (b) the proportion of speed awareness courses that have been ca",
+   "dateTabled": "2026-09-14T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1942365,
+   "uin": "29503",
+   "heading": "Shipping: International Waters",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what assessment his Department has made of the potential impact of transit charges on commercial vessels using international waterways on (a) UK importers and exporters and (b) sup",
+   "dateTabled": "2026-09-14T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1943258,
+   "uin": "30078",
+   "heading": "Minibuses: Accidents",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 10 September 2026 to Question 26992 on Road Traffic Accidents: Minibuses, how many of the reported traffic collisions with a contributory or road safety factor attributed to a minibus ",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1942373,
+   "uin": "29511",
+   "heading": "Shipping: International Waters",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, whether it is the Government’s policy to oppose the imposition of discriminatory transit charges on commercial shipping using international waterways.",
+   "dateTabled": "2026-09-14T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1942366,
+   "uin": "29504",
+   "heading": "Strait of Hormuz",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what recent diplomatic steps his Department is taking to protect freedom of navigation for commercial shipping through the Strait of Hormuz.",
+   "dateTabled": "2026-09-14T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1942371,
+   "uin": "29509",
+   "heading": "Large Goods Vehicles: Electric Vehicles",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 7 September 2026 to Question 19238 on Large Goods Vehicles: Electric Vehicles, whether the analysis referred to in the Answer of 24 June 2026 to Question 11454 will be published in ful",
+   "dateTabled": "2026-09-14T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1943453,
+   "uin": "30088",
+   "heading": "Housing: Sales",
+   "questionText": "To ask the Chancellor of the Exchequer, what recent discussions she has had with the Chancellor of the Exchequer on the treatment of residential property traders under Stamp Duty Land Tax as part of the Government’s aim to increase liquidity and transacti",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1947997,
+   "uin": "33980",
+   "heading": "Speed Limits: Cameras",
+   "questionText": "To ask the Secretary of State for the Home Department, pursuant to the Answer of 9 September 2026 to Question 26159 on speed camera enforcement, when she expects the rigorous testing of the Home Office approved solution to be completed.",
+   "dateTabled": "2026-10-12T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1942372,
+   "uin": "29510",
+   "heading": "Speed Limits: Cameras",
+   "questionText": "To ask the Secretary of State for the Home Department, pursuant to the Answer of 9 September 2026 to Question 26159 on Speed Limits: Cameras, on what date testing of the Home Office-approved solution commenced; when she expects that testing to conclude; a",
+   "dateTabled": "2026-09-14T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1938357,
+   "uin": "27275",
+   "heading": "Special Educational Needs: Schools",
+   "questionText": "To ask the Secretary of State for Education, what data her Department holds on the number of schools and places available in specialist provision for pupils with SEMH, broken down by local authority.",
+   "dateTabled": "2026-09-04T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1942369,
+   "uin": "29507",
+   "heading": "Large Goods Vehicles: Licensing",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 8 September 2026 to Question 21972 on Large Goods Vehicles: Licensing, what specific reforms to (a) operator licensing requirements and (b) associated regulatory processes her Departme",
+   "dateTabled": "2026-09-14T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1943454,
+   "uin": "30089",
+   "heading": "Housing: Sales",
+   "questionText": "To ask the Chancellor of the Exchequer, what steps he is taking to support the professional residential property trading sector to play a greater role in facilitating faster, more reliable housing transactions and improve housing market mobility.",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1938631,
+   "uin": "27548",
+   "heading": "Cumbrian Coast Line: Tunnels",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 17 June 2026 to Question 8116, whether the modelling work cited has now been completed, and if she will publish the modelling in full.",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1939295,
+   "uin": "28032",
+   "heading": "Government Departments: Aviation",
+   "questionText": "To ask the Minister for the Cabinet Office, pursuant to the Answer of 17 July 2026 to Question 17031 on Government Departments: Aviation, if he will list each of the 32 occasions on which an aircraft was commissioned for foreign travel since July 2024, in",
+   "dateTabled": "2026-09-08T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1939293,
+   "uin": "28030",
+   "heading": "Railway Stations: Biometrics",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 4 August 2026 to Question 18207 on Railway Stations: Biometrics, what offences were the 13 individuals arrested for; at which railway station did each arrest take place; and in what wa",
+   "dateTabled": "2026-09-08T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1938625,
+   "uin": "27542",
+   "heading": "Railways: Government Assistance",
+   "questionText": "To ask the Secretary of State for Transport, what estimate she has made of the level of net Government support to the rail sector per passenger journey in September 2026.",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1937315,
+   "uin": "26631",
+   "heading": "Air Traffic: Regulation",
+   "questionText": "To ask the Secretary of State for Transport, what assessment her Department has made of the potential impact of revoking the Traffic Distribution Rules 1991 on (a) passenger services, (b) dedicated air freight services and (c) regional airports serving th",
+   "dateTabled": "2026-09-02T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1939294,
+   "uin": "28031",
+   "heading": "British Transport Police: Railway Stations",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 15 July 2026 to Question 17404 on British Transport Police: Railway Stations, how many full-time equivalent British Transport Police officers were assigned to each of the 20 major rail",
+   "dateTabled": "2026-09-08T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1942980,
+   "uin": "901383",
+   "heading": "Prisons: Construction",
+   "questionText": "To ask the Secretary of State for Justice, what steps he is taking to ensure that local residents are adequately considered in the construction of the new prison adjacent to HMP Grendon.",
+   "dateTabled": "2026-09-09T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1939292,
+   "uin": "28029",
+   "heading": "Road Traffic",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 17 July 2026 to Question 18158 on Road Traffic, whether her Department or National Highways holds estimates of (a) total hours of delay and (b) the economic cost of delay attributable ",
+   "dateTabled": "2026-09-08T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1939290,
+   "uin": "28027",
+   "heading": "Railways: Crimes of Violence",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 4 August 2026 to Question 18371 on Trains: Crimes of Violence, how many knife-enabled crimes were recorded by the British Transport Police as having occurred on board trains in each of",
+   "dateTabled": "2026-09-08T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1939291,
+   "uin": "28028",
+   "heading": "Parking Offences: Bournemouth, Christchurch and Poole",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 17 July 2026 to Question 17041 on Parking Offences: Bournemouth, Christchurch and Poole, if she will publish (a) the evidence considered, (b) the conclusions reached and (c) any recomm",
+   "dateTabled": "2026-09-08T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1938628,
+   "uin": "27545",
+   "heading": "Speed Limits",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 27 May 2026 to Question 2243, what decisions stemmed from the initial workshop on updating the Setting Local Speed Limits and Red Light and Speed Camera guidance.",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1938633,
+   "uin": "27550",
+   "heading": "Roads: Design",
+   "questionText": "To ask the Secretary of State for Transport, whether the scope, content and diagrams have been developed for the forthcoming update to the Manual for Streets.",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1938634,
+   "uin": "27551",
+   "heading": "Parking: Private Sector",
+   "questionText": "To ask the Secretary of State for Transport, with reference to the Answer of 22 May 2026 to Question 2368 on Parking: Private Sector, whether that review has now concluded; and when she plans to publish its outcome.",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1938626,
+   "uin": "27543",
+   "heading": "Driving Tests",
+   "questionText": "To ask the Secretary of State for Transport, how many full-time equivalent driving examiners recruited by the Driver and Vehicle Standards Agency (DVSA) were (a) in post and (b) delivering practical car driving tests in each month since May 2026.",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1938635,
+   "uin": "27552",
+   "heading": "Maritime and Coastguard Agency: Codes of Practice",
+   "questionText": "To ask the Secretary of State for Transport, when her Department plans to publish the revised MCA Rescue Boat Code.",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1938627,
+   "uin": "27544",
+   "heading": "Aviation: Alternative Fuels",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 2 June 2026 to Question 3957, in which month will she publish her update on SAF and the Call for Evidence.",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1938630,
+   "uin": "27547",
+   "heading": "Railway Stations: CCTV",
+   "questionText": "To ask the Secretary of State for Transport, with reference to the Answer of 20 May 2026 to Question 510 on Railway Stations: CCTV, whether bike thefts will be included in the assessment of railway stations with the highest crime levels when prioritising ",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1938632,
+   "uin": "27549",
+   "heading": "Manchester Piccadilly Station",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 22 May 2026 to Question 383, whether her Department intends to publish the recommendations and options review for the Northern Powerhouse Rail station choice at Manchester Piccadilly o",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1939289,
+   "uin": "28026",
+   "heading": "Maritime and Coastguard Agency: British Overseas Territories",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 2 September 2026 to Question 17595 on Maritime and Coastguard Agency: British Overseas Territories, how many officials participating in each monitoring visit were (a) qualified auditor",
+   "dateTabled": "2026-09-08T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1939203,
+   "uin": "28025",
+   "heading": "Large Goods Vehicles: Electric Vehicles",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 3 September 2026 to Question 19484 on Large Goods Vehicles: Electric Vehicles, what average purchase price her Department assumed for (a) diesel and (b) zero-emission HGVs in each of t",
+   "dateTabled": "2026-09-08T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1938624,
+   "uin": "27541",
+   "heading": "Driving Licences: Health",
+   "questionText": "To ask the Secretary of State for Transport, what the average processing time was for medical driving licence renewal applications in each month since June 2026.",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1938629,
+   "uin": "27546",
+   "heading": "Driving Tests",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 21 April 2026 to Question 124880, what proportion of completed applications resulted in (a) interview invitations, (b) driving assessments, (c) appointments to training courses and (d)",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1938636,
+   "uin": "27553",
+   "heading": "Crime: Freight",
+   "questionText": "To ask the Secretary of State for the Home Department, whether her Department has received all data returns from the forces who participated in the pilot of the freight crime recording flag, and if she will published the assessment of the effectiveness of",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1937472,
+   "uin": "26633",
+   "heading": "Minibuses: Accidents",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 6 July 2026 to Question 13947 on Road Traffic Accidents: Minibuses, how many casualties in reported road traffic collisions involving a minibus, where a contributory factor was attribu",
+   "dateTabled": "2026-09-02T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1937471,
+   "uin": "26632",
+   "heading": "Railways: Construction and Planning Permission",
+   "questionText": "To ask the Secretary of State for Transport, if she will publish a list of legislative and statutory requirements that apply to the planning and construction of railways.",
+   "dateTabled": "2026-09-02T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1932293,
+   "uin": "21820",
+   "heading": "Aerospace Industry: Location",
+   "questionText": "To ask the Secretary of State for Transport, what assessment her Department has made of the potential impact of Civil Aviation Authority certification times on aerospace manufacturers, in the context of decisions on where to locate research, development a",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1932294,
+   "uin": "21821",
+   "heading": "Airports: EU Emissions Trading Scheme",
+   "questionText": "To ask the Secretary of State for Transport, what assessment her Department has made of the potential impact of the European Commission's proposed extension of the EU Emissions Trading Scheme on passenger demand at airports.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1932297,
+   "uin": "21824",
+   "heading": "Airports: Security",
+   "questionText": "To ask the Secretary of State for Transport, what guidance her Department issues to UK airports and ground handling operators on identifying and reporting suspected malicious interference with aircraft while on the ground.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1932384,
+   "uin": "21829",
+   "heading": "Department for Transport: Government Communication Service",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 7 August 2026 to Question 18174 on Government Communication Service: Staff, how many full-time equivalent staff in the central Department for Transport were members of the Government C",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1932328,
+   "uin": "21828",
+   "heading": "HMP Grendon and HMP Spring Hill: Domestic Visits",
+   "questionText": "To ask the Secretary of State for Justice, when he next plans to visit (a) HMP Springhill and (b) HMP Grendon.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1932295,
+   "uin": "21822",
+   "heading": "Travel: Infrastructure",
+   "questionText": "To ask the Secretary of State for Transport, what estimate her Department has made of the long-term maintenance costs incurred by local authorities as a result of active travel infrastructure funded by Active Travel England.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1932296,
+   "uin": "21823",
+   "heading": "Bus Services: Fares",
+   "questionText": "To ask the Secretary of State for Transport, whether any (a) contract and (b) payment was made to (i) Bemi Orojugogun and (ii) any representative for her appearance in connection with the bus fare cap on 22 July 2026.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1932326,
+   "uin": "21826",
+   "heading": "Driving Tests",
+   "questionText": "To ask the Secretary of State for Transport, what criteria were used in analysing responses to the consultation on changes to the driving test booking system to identify and remove (a) duplicate, (b) automated or bot-generated and (c) otherwise incompatib",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1932325,
+   "uin": "21825",
+   "heading": "Driving Tests",
+   "questionText": "To ask the Secretary of State for Transport, whether sensitivity analysis or assessment of how consultation outcomes varied by respondent category was provided to Ministers before the changes to the driving test booking system announced on 12 May 2026 wer",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1932327,
+   "uin": "21827",
+   "heading": "Driving Tests",
+   "questionText": "To ask the Secretary of State for Transport, whether she will place in the House of Commons Library the analytical tables, methodology and respondent-type breakdowns underpinning the consultation on changes to the driving test booking system.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1936763,
+   "uin": "26120",
+   "heading": "Speed Limits: Cameras",
+   "questionText": "To ask the Secretary of State for Transport, what assessment her Department has made of the potential impact of the suspension of speed camera enforcement on (a) the number of speed awareness and other educational courses commissioned and (b) the number o",
+   "dateTabled": "2026-09-01T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1936762,
+   "uin": "26119",
+   "heading": "East West Rail Line",
+   "questionText": "To ask the Secretary of State for Transport, what operational requirements remain outstanding before passenger services can commence on the East West Rail line between Oxford and Milton Keynes; and what is her latest estimate is for the commencement of th",
+   "dateTabled": "2026-09-01T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1924885,
+   "uin": "16564",
+   "heading": "Glaucoma: Community Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether he plans to address the postcode lottery in community glaucoma care across regions in England.",
+   "dateTabled": "2026-07-07T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1924883,
+   "uin": "16563",
+   "heading": "Glaucoma: Community Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps he is taking to improve community-based glaucoma services across England.",
+   "dateTabled": "2026-07-07T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1927175,
+   "uin": "18143",
+   "heading": "Network Rail: Nature Conservation",
+   "questionText": "To ask the Secretary of State for Transport, which protected species most frequently require surveys, licences and mitigation before Network Rail can undertake maintenance and enhancement works.",
+   "dateTabled": "2026-07-13T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1927177,
+   "uin": "18144",
+   "heading": "Aviation: Biofuels",
+   "questionText": "To ask the Secretary of State for Transport, what guidance has her Department provided to the sector on using banking and borrowing flexibilities under the Sustainable Aviation Fuel Mandate to allow the deferral of obligations under the advanced fuel and ",
+   "dateTabled": "2026-07-13T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1927869,
+   "uin": "18731",
+   "heading": "Planning Permission: Biodiversity",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what proportion of planning applications her Department expects to remain subject to the biodiversity gain condition once the 0.2 hectare, temporary permission and proposed brownfield ",
+   "dateTabled": "2026-07-14T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1927102,
+   "uin": "18142",
+   "heading": "Driving Under Influence: Enforcement",
+   "questionText": "To ask the Secretary of State for Transport, what funding her Department has provided since 4 July 2024 for (a) drug driving enforcement, (b) toxicology services relating to drug driving offences and (c) the National Roads Policing Coordination Centre's d",
+   "dateTabled": "2026-07-13T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1927101,
+   "uin": "18141",
+   "heading": "Driving Under Influence: Disqualification",
+   "questionText": "To ask the Secretary of State for Transport, whether she has made an assessment of the potential merits of linking any interim driving prohibition for drug driving offenders to the successful completion of an approved drug driving rehabilitation course an",
+   "dateTabled": "2026-07-13T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1927099,
+   "uin": "18140",
+   "heading": "Driving Licences: Disqualification",
+   "questionText": "To ask the Secretary of State for Transport, whether she has made an assessment of the potential merits of introducing road risk prevention orders, or a similar mechanism, to prohibit individuals suspected of posing a serious road safety risk from driving",
+   "dateTabled": "2026-07-13T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1925205,
+   "uin": "16568",
+   "heading": "Maritime and Coastguard Agency: British Overseas Territories",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 6 July 2026 to Question 14998 on the Maritime and Coastguard Agency and British Overseas Territories, what the purpose and principal outcomes were of each monitoring visit undertaken s",
+   "dateTabled": "2026-07-07T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1924819,
+   "uin": "16558",
+   "heading": "Aviation: Anti-social Behaviour",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 3 July 2026 to Question 13039 on Aviation: Antisocial Behaviour, whether her Department collects data on the number of passengers removed from aircraft prior to departure due to disrup",
+   "dateTabled": "2026-07-07T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1924816,
+   "uin": "16556",
+   "heading": "Railways: CCTV",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 26 June 2026 to Question 10713 on Railways: CCTV, whether the funding allocated to the Network Rail programme to connect existing station CCTV into a single cloud-based system represen",
+   "dateTabled": "2026-07-07T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1924817,
+   "uin": "16557",
+   "heading": "Airspace",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 29 June 2026 to Question 11818 on Airspace, whether she has made an estimate of the cumulative additional CO2e emissions resulting from delays to the implementation of Free Route Airsp",
+   "dateTabled": "2026-07-07T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1924800,
+   "uin": "16550",
+   "heading": "Air Routes",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 30 June 2026 to Question 13301 on Air Routes, what specialist workforce shortages her Department has identified that could affect delivery of the Airspace Modernisation Strategy.",
+   "dateTabled": "2026-07-07T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1924830,
+   "uin": "16562",
+   "heading": "Motor Vehicles: Car Allowances",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of the potential impact of the benefit-in-kind tax treatment of used company vehicles on employees on lower incomes; and whether she has assessed whether calculating benefit-in-kind liab",
+   "dateTabled": "2026-07-07T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1924822,
+   "uin": "16559",
+   "heading": "National Highways: Public Relations",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the answer of 20 May 2026, to Question 1718, of National Highways: Expenditure, what company or contractor provided the public affairs services for National Highways.",
+   "dateTabled": "2026-07-07T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1924826,
+   "uin": "16560",
+   "heading": "Department for Transport: Public Relations",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the answer of 29 May 2026, to Question 1543, on Department for Transport: Public Relations, if she will name each public relations company that has provided services since July 2024.",
+   "dateTabled": "2026-07-07T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1924828,
+   "uin": "16561",
+   "heading": "Tolls",
+   "questionText": "To ask the Secretary of State for Transport, whether she plans to use the powers contained in the Highways (Finance) Bill to introduce user charging or tolls on any road that is currently free to use.",
+   "dateTabled": "2026-07-07T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1924909,
+   "uin": "16566",
+   "heading": "Driving Tests: Waiting Lists",
+   "questionText": "To ask the Secretary of State for Transport, how many driving test centres recorded the maximum waiting time of 24 weeks for a practical car test in each month since March 2026.",
+   "dateTabled": "2026-07-07T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1924907,
+   "uin": "16565",
+   "heading": "Driving Tests",
+   "questionText": "To ask the Secretary of State for Transport, how many driving examiners ceased to practice in June 2026.",
+   "dateTabled": "2026-07-07T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1924811,
+   "uin": "16554",
+   "heading": "Airports: Fees and Charges",
+   "questionText": "To ask the Secretary of State for Transport, what assessment she has made of the potential impact of increases in airport vehicle drop-off charges since 2016 on the cost of air travel for passengers.",
+   "dateTabled": "2026-07-07T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1924807,
+   "uin": "16552",
+   "heading": "Bus Services: Cycleways",
+   "questionText": "To ask the Secretary of State for Transport, how many working days each organisation or individual consulted on the statutory guidance on floating bus stops published on 26 January 2026 was given to provide a response; and whether any consultees (a) reque",
+   "dateTabled": "2026-07-07T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1924809,
+   "uin": "16553",
+   "heading": "Aviation: Alternative Fuels",
+   "questionText": "To ask the Secretary of State for Transport, whether the price of sustainable aviation fuel since the introduction of the UK Sustainable Aviation Fuel Mandate has met the assumptions used in the Department's published impact assessment.",
+   "dateTabled": "2026-07-07T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1924815,
+   "uin": "16555",
+   "heading": "Hammersmith Bridge: Repairs and Maintenance",
+   "questionText": "To ask the Secretary of State for Transport, what representations her Department has received from the London Borough of Hammersmith and Fulham on the eligibility of Hammersmith Bridge for support from the Structures Fund since 1 January 2026.",
+   "dateTabled": "2026-07-07T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1924802,
+   "uin": "16551",
+   "heading": "Bus Services: Cycleways",
+   "questionText": "To ask the Secretary of State for Transport, whether her Department consulted the Disabled Persons Transport Advisory Committee on the final draft of the statutory guidance entitled Floating Bus Stops: Provision and Design Guidance, published on 26 Januar",
+   "dateTabled": "2026-07-07T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1924911,
+   "uin": "16567",
+   "heading": "Driving Licences",
+   "questionText": "To ask the Secretary of State for Transport, what the average processing time was for driving licence applications in June 2026.",
+   "dateTabled": "2026-07-07T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1922216,
+   "uin": "14432",
+   "heading": "Lobbying: Finance",
+   "questionText": "To ask the Minister for the Cabinet Office, whether his Department has issued guidance to departments and arm's length bodies on the use of public funds for public affairs, external affairs and lobbying activities.",
+   "dateTabled": "2026-06-30T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1922218,
+   "uin": "14434",
+   "heading": "Motor Vehicles: China",
+   "questionText": "To ask the Secretary of State for Business and Trade, what assessment his Department has made of the potential impact of the European Union’s consideration of further tariffs on vehicles manufactured in China, including plug-in hybrid vehicle on the UK au",
+   "dateTabled": "2026-06-30T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1922217,
+   "uin": "14433",
+   "heading": "Aviation: Training",
+   "questionText": "To ask the Secretary of State for Education, what estimate she has made of the annual cost to the Exchequer of extending eligibility for government-backed student finance to standalone commercial pilot training courses leading to Civil Aviation Authority ",
+   "dateTabled": "2026-06-30T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1922259,
+   "uin": "14435",
+   "heading": "Aviation: Alternative Fuels",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the answer of 26 June 2026 to Question 11220 on Aviation: Alternative Fuels, whether her Department has made an assessment of the potential impact of Sustainable Aviation Fuel Mandate compliance cos",
+   "dateTabled": "2026-06-30T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1922260,
+   "uin": "14436",
+   "heading": "Airports: Parking",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 29 June 2026 to Question 11465 on Airports: Fees and Charges, if her Department will have discussions with airport operators on the implementation of parking fees and charges.",
+   "dateTabled": "2026-06-30T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1922261,
+   "uin": "14437",
+   "heading": "Large Goods Vehicles: Electric Vehicles",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 29 June 2026 to Question 12905 on Large Goods Vehicles: Electric Vehicles, whether her Department has made an assessment of the potential cost savings for businesses operating battery-",
+   "dateTabled": "2026-06-30T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1922212,
+   "uin": "14428",
+   "heading": "Air Traffic Control: Staff",
+   "questionText": "To ask the Secretary of State for Transport, what estimate her Department has made of the annual number of air traffic controllers expected to leave the profession over the next five years; and how many newly qualified air traffic controllers will be requ",
+   "dateTabled": "2026-06-30T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1922214,
+   "uin": "14430",
+   "heading": "Aviation: Engineers",
+   "questionText": "To ask the Secretary of State for Transport, how many people qualified as licensed aircraft maintenance engineers in each of the last five years; and how many of those were (a) British nationals and (b) overseas nationals in each year.",
+   "dateTabled": "2026-06-30T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1922215,
+   "uin": "14431",
+   "heading": "Network Rail: Biodiversity",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 24 June 2026 to Question 11452 on Network Rail: Biodiversity, what guidance Network Rail issues on when a habitat management plan is required; and how many such plans are currently in ",
+   "dateTabled": "2026-06-30T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1922211,
+   "uin": "14427",
+   "heading": "Vehicle Certification Agency: Fees and Charges",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 25 March 2026 to Question 122545 on the Vehicle Certification Agency, when she expects the evaluation of the consultation on proposed Vehicle Certification Agency fee increases to be c",
+   "dateTabled": "2026-06-30T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1922210,
+   "uin": "14426",
+   "heading": "Department for Transport: Public Relations",
+   "questionText": "To ask the Secretary of State for Transport, whether her Department has issued any directions to its arm's length bodies on limiting expenditure on public affairs, government relations or lobbying activity since 4 July 2024.",
+   "dateTabled": "2026-06-30T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1922213,
+   "uin": "14429",
+   "heading": "Vans: Electric Vehicles",
+   "questionText": "To ask the Secretary of State for Transport, what assumptions her Department has made about the average daily mileage of light commercial vans when assessing the charging infrastructure required to support the transition to zero emission vans.",
+   "dateTabled": "2026-06-30T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1920277,
+   "uin": "13220",
+   "heading": "Large Goods Vehicles: Electric Vehicles",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 22 June 2026 to Question 8651 on Large Goods Vehicles: Electric Vehicles, what estimate her Department has made of the proportion of heavy goods vehicle journeys for which charging can",
+   "dateTabled": "2026-06-25T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1920276,
+   "uin": "13219",
+   "heading": "Electric Vehicles",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 22 June 2026 to Question 7511, whether the review of the Zero Emission Vehicle Mandate will have published terms of reference; and if so, on what date she expects those terms of refere",
+   "dateTabled": "2026-06-25T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1919329,
+   "uin": "12277",
+   "heading": "South West Main Line: Standards",
+   "questionText": "To ask the Secretary of State for Transport, how many delay minutes per 100 train miles were recorded on South Western Railway in the (a) final year before transfer into public ownership and (b) latest year for which data is available.",
+   "dateTabled": "2026-06-23T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1919304,
+   "uin": "12271",
+   "heading": "Social Secutiry Benefits: Veterans",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many veterans with (a) amputations and (b) other permanent injuries were reassessed for disability-related benefits in each of the last three years.",
+   "dateTabled": "2026-06-23T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1919303,
+   "uin": "12270",
+   "heading": "Veterans: Disadvantaged",
+   "questionText": "To ask the Secretary of State for Defence, what progress he has made on ensuring that no veteran is disadvantaged as a result of military service.",
+   "dateTabled": "2026-06-23T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1919302,
+   "uin": "12269",
+   "heading": "Office for Veterans' Affairs",
+   "questionText": "To ask the Secretary of State for Defence, what steps he is taking to improve the coordinating role of the Office for Veterans' Affairs across government.",
+   "dateTabled": "2026-06-23T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1919299,
+   "uin": "12266",
+   "heading": "Veterans: Disability Aids",
+   "questionText": "To ask the Secretary of State for Defence, what assessment he has made of the potential impact of long term funding arrangements for the Veterans Mobility Fund and Veterans Hearing Loss Fund on veterans.",
+   "dateTabled": "2026-06-23T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1919298,
+   "uin": "12265",
+   "heading": "Veterans: Disability Aids",
+   "questionText": "To ask the Secretary of State for Defence, what discussions his Department has had regarding the future of the Veterans Mobility Fund beyond March 2027.",
+   "dateTabled": "2026-06-23T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1919297,
+   "uin": "12264",
+   "heading": "Armed Forces: Discharges",
+   "questionText": "To ask the Secretary of State for Defence, what data his Department collects on long-term health, employment and housing outcomes for medically discharged veterans.",
+   "dateTabled": "2026-06-23T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1919296,
+   "uin": "12263",
+   "heading": "Armed Forces: Discharges",
+   "questionText": "To ask the Secretary of State for Defence, what assessment he has made of the effectiveness of the medical discharge process in ensuring continuity of healthcare and welfare support for medically discharged service personnel.",
+   "dateTabled": "2026-06-23T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1919295,
+   "uin": "12262",
+   "heading": "Armed Forces: Discharges",
+   "questionText": "To ask the Secretary of State for Defence, whether he plans to commission an independent review of the Armed Forces medical discharge process to assess outcomes for transitioning to civilian life.",
+   "dateTabled": "2026-06-23T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1919323,
+   "uin": "12276",
+   "heading": "Cycling: Road Traffic Offences",
+   "questionText": "To ask the Secretary of State for Transport, how many prosecutions were brought for cyclists failing to comply with traffic signals in each of the last five years.",
+   "dateTabled": "2026-06-23T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1919252,
+   "uin": "12261",
+   "heading": "Active Travel: Finance",
+   "questionText": "To ask the Secretary of State for Transport, what proportion of active travel funding approvals since 2020 have relied on projected or estimated cycling usage figures rather than independently audited counts.",
+   "dateTabled": "2026-06-23T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1919251,
+   "uin": "12260",
+   "heading": "Railway Stations: West Yorkshire",
+   "questionText": "To ask the Secretary of State for Transport, whether her Department has undertaken a value for money assessment of the White Rose Station project.",
+   "dateTabled": "2026-06-23T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1919306,
+   "uin": "12273",
+   "heading": "Armed Forces Compensation Scheme",
+   "questionText": "To ask the Secretary of State for Work and Pensions, whether he has made an assessment of the impact of treating Armed Forces Compensation Scheme payments as income for means-tested benefit assessments.",
+   "dateTabled": "2026-06-23T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1918575,
+   "uin": "11741",
+   "heading": "Liverpool Street Station",
+   "questionText": "To ask the Secretary of State for Transport, whether she plans to provide funding to help support the Liverpool Street Station redevelopment scheme.",
+   "dateTabled": "2026-06-22T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1919321,
+   "uin": "12275",
+   "heading": "Aviation: Alternative Fuels",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 22 June 2026 to Question 9696 on the Low Carbon Fuels Fund, whether applicants will be required to demonstrate that funded projects will support (a) jobs, (b) supply chains and (c) eco",
+   "dateTabled": "2026-06-23T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1919307,
+   "uin": "12274",
+   "heading": "Veterans: Northern Ireland",
+   "questionText": "To ask the Secretary of State for Northern Ireland, what discussions he has had with the Office for Veterans' Affairs on improving access to veterans' services in Northern Ireland.",
+   "dateTabled": "2026-06-23T00:00:00",
+   "answeringBodyName": "Northern Ireland Office"
+  },
+  {
+   "id": 1919305,
+   "uin": "12272",
+   "heading": "Personal Independence Payment: Veterans",
+   "questionText": "To ask the Secretary of State for Work and Pensions, if his Department will take steps to reduce reassessment requirements for Personal Independence Payments for veterans with permanent and irreversible service-related injuries.",
+   "dateTabled": "2026-06-23T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1919301,
+   "uin": "12268",
+   "heading": "Armed Forces Covenant: Standards",
+   "questionText": "To ask the Secretary of State for Defence, whether he plans to introduce new performance measures to assess implementation of the Armed Forces Covenant.",
+   "dateTabled": "2026-06-23T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1919300,
+   "uin": "12267",
+   "heading": "Veterans: Pain",
+   "questionText": "To ask the Secretary of State for Defence, whether he has made an assessment of the adequacy of the recognition of chronic pain conditions within Armed Forces compensation schemes.",
+   "dateTabled": "2026-06-23T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1918565,
+   "uin": "11740",
+   "heading": "Airspace",
+   "questionText": "To ask the Secretary of State for Transport, when she expects Free Route Airspace to be operational across all UK upper airspace.",
+   "dateTabled": "2026-06-22T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1918564,
+   "uin": "11739",
+   "heading": "Aviation: Fuels",
+   "questionText": "To ask the Secretary of State for Transport, how much funding has been (a) allocated, (b) committed and (c) paid out under (i) the Low Carbon Fuels Fund and (ii) the Advanced Fuels Fund since 4 July 2024; and which projects have received support under eac",
+   "dateTabled": "2026-06-22T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1906585,
+   "uin": "2233",
+   "heading": "Airports: Immigration Controls",
+   "questionText": "To ask the Minister for the Cabinet Office, with reference to the answer of 25 February 2026 to Question 113349 on Airports: Immigration Controls, which Government Department assesses the economic impact of passenger delays at UK border control points on ",
+   "dateTabled": "2026-05-18T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1915264,
+   "uin": "9102",
+   "heading": "Active Travel: Haddenham and Thame",
+   "questionText": "To ask the Secretary of State for Transport, what recent discussions her Department has had with (a) Buckinghamshire Council and (b) Oxfordshire County Council on the delivery of the Haddenham to Thame Greenway.",
+   "dateTabled": "2026-06-11T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1914687,
+   "uin": "8651",
+   "heading": "Large Goods Vehicles: Electric Vehicles",
+   "questionText": "To ask the Secretary of State for Transport, what assessment her Department has made of the impact of charging requirements for zero-emission heavy goods vehicles on (a) vehicle utilisation rates and (b) freight sector productivity.",
+   "dateTabled": "2026-06-10T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1914689,
+   "uin": "8653",
+   "heading": "Large Goods Vehicles: Electric Vehicles",
+   "questionText": "To ask the Secretary of State for Transport, what estimate her Department has made of the average purchase price differential between a diesel heavy goods vehicle and an equivalent zero-emission heavy goods vehicle.",
+   "dateTabled": "2026-06-10T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1916179,
+   "uin": "9698",
+   "heading": "Active Travel: Finance",
+   "questionText": "To ask the Secretary of State for Transport, how much of the projected £4.448 billion of active travel spending is expected to be spent on (a) infrastructure, (b) maintenance, (c) behavioural change programmes, (d) planning and design work, (e) monitoring",
+   "dateTabled": "2026-06-15T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1916177,
+   "uin": "9697",
+   "heading": "Active Travel: Finance",
+   "questionText": "To ask the Secretary of State for Transport, what outputs are expected to be funded by the projected £4.555 billion spending referred to in the Third Cycling and Walking Investment Strategy, including estimates of (a) miles of new routes, (b) miles of imp",
+   "dateTabled": "2026-06-15T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1915964,
+   "uin": "9696",
+   "heading": "Aviation: Alternative Fuels",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 1 June 2026 to Question 2802 on the Advanced Fuels Fund, what the planned expenditure is on the new funding scheme to support UK sustainable aviation fuel production in (a) 2026–27, (b",
+   "dateTabled": "2026-06-15T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1913349,
+   "uin": "7511",
+   "heading": "Electric Vehicles",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 4 June 2026 to Question 4292, what the formal timeline is for the stakeholder discussions ahead of the early 2027 review; and on what date she intends to publish the terms of reference",
+   "dateTabled": "2026-06-08T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1913350,
+   "uin": "7512",
+   "heading": "Roads: Standards",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 4 June 2026 to Question 5611, what assessment her Department has made of the comparative impact of (a) electric heavy goods vehicles (eHGVs) and (b) diesel heavy goods vehicles on road",
+   "dateTabled": "2026-06-08T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1905406,
+   "uin": "1250",
+   "heading": "Department for Transport: Aviation",
+   "questionText": "To ask the Secretary of State for Transport, with reference to the Answer of 24 March 2026 to Question 120039, (a) what the purpose was of each flight to Maldives; (b) which Ministers and senior officials approved each visit; (c) how many officials travel",
+   "dateTabled": "2026-05-14T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1905407,
+   "uin": "1251",
+   "heading": "Department for Transport: Aviation",
+   "questionText": "To ask the Secretary of State for Transport, with reference to the answer of 24 March 2026 to Question 120039, what the purpose was of each flight to Qatar; which Ministers and senior officials approved each visit; how many officials travelled on each occ",
+   "dateTabled": "2026-05-14T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1914710,
+   "uin": "8663",
+   "heading": "Fertilisers",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether she will take steps to meet the asks of the National Farmers Union Fertiliser Resilience Plan, with specific regard to a) setting a trigger point for direct support; b) postpon",
+   "dateTabled": "2026-06-10T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1914146,
+   "uin": "8156",
+   "heading": "Aviation: Apprentices",
+   "questionText": "To ask the Secretary of State for Work and Pensions, whether Skills England assessed the potential impact of recommending the removal of levy funding for most Level 7 apprenticeships for learners aged 22 and over on the aviation sector.",
+   "dateTabled": "2026-06-09T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1914102,
+   "uin": "8138",
+   "heading": "Railways: Nature Conservation",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 8 June 2026 to Question 5044 on Railways: Nature Conservation, how many ecologists were employed or contracted by Network Rail in each of the last five financial years; and what the to",
+   "dateTabled": "2026-06-09T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1915263,
+   "uin": "9101",
+   "heading": "Countryside Stewardship Scheme and Sustainable Farming Incentive: Common Land",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps she is taking to ensure that those who farm on common land are given equitable and swift access to the Sustainable Farming Incentive and Countryside Stewardship Higher Tier.",
+   "dateTabled": "2026-06-11T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1915262,
+   "uin": "9100",
+   "heading": "Countryside Stewardship Scheme",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she has made of the potential impact of the delays in the processing of applications for Countryside Stewardship Higher Tier on the level of environment protection, inc",
+   "dateTabled": "2026-06-11T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1915261,
+   "uin": "9099",
+   "heading": "Sustainable Farming Incentive",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, if she will make an assessment of the potential merits of establishing an Sustainable Farming Incentive option that supports farmers to produce protein crops, including peas and beans.",
+   "dateTabled": "2026-06-11T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1915260,
+   "uin": "9098",
+   "heading": "Countryside Stewardship Scheme and Sustainable Farming Incentive",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, if she will set out a forward plan for the Sustainable Farming Incentive and Countryside Stewardship Higher Tier scheme offers for 2027 and 2028.",
+   "dateTabled": "2026-06-11T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1915259,
+   "uin": "9097",
+   "heading": "Sustainable Farming Incentive",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what contingency plans her Department has should demand from farmers seeking to enter the Sustainable Farming Incentive 2026 and those wishing to replace expiring Countryside Stewardsh",
+   "dateTabled": "2026-06-11T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1914125,
+   "uin": "8142",
+   "heading": "Ports: Finance",
+   "questionText": "To ask the Secretary of State for Transport, whether her Department has identified priority ports where investment in infrastructure could improve both commercial capacity and military mobility.",
+   "dateTabled": "2026-06-09T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1906921,
+   "uin": "2375",
+   "heading": "Freight",
+   "questionText": "To ask the Secretary of State for Transport, when her Department plans to publish its new plan for freight.",
+   "dateTabled": "2026-05-18T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1914686,
+   "uin": "8650",
+   "heading": "Large Goods Vehicles: Electric Vehicles",
+   "questionText": "To ask the Secretary of State for Transport, whether her Department maintains data on the country of manufacture of vehicles supported through the Zero Emission Van Grant and Zero Emission Truck Grant.",
+   "dateTabled": "2026-06-10T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1914688,
+   "uin": "8652",
+   "heading": "Large Goods Vehicles: Electric Vehicles",
+   "questionText": "To ask the Secretary of State for Transport, whether her Department has made an assessment of the potential impact of a Zero Emission Vehicle mandate for heavy goods vehicles on small and medium-sized freight operators.",
+   "dateTabled": "2026-06-10T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1905411,
+   "uin": "1255",
+   "heading": "Department for Transport: Aviation",
+   "questionText": "To ask the Secretary of State for Transport, with reference to the answer of 24 March 2026 to WPQ 120039, what the purpose was of each flight to the Philippines; which Ministers and senior officials approved each visit; how many officials travelled on eac",
+   "dateTabled": "2026-05-14T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1905408,
+   "uin": "1252",
+   "heading": "Department for Transport: Aviation",
+   "questionText": "To ask the Secretary of State for Transport, with reference to the answer of 24 March 2026 to Question 120039, what the purpose was of each flight to Brazil; which Ministers and senior officials approved each visit; how many officials travelled on each oc",
+   "dateTabled": "2026-05-14T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1905409,
+   "uin": "1253",
+   "heading": "Department for Transport: Aviation",
+   "questionText": "To ask the Secretary of State for Transport, with reference to the answer of 24 March 2026 to Question 120039, what the purpose was of each flight to Oman; which Ministers and senior officials approved each visit; how many officials travelled on each occa",
+   "dateTabled": "2026-05-14T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1905410,
+   "uin": "1254",
+   "heading": "Department for Transport: Aviation",
+   "questionText": "To ask the Secretary of State for Transport, with reference to the answer of 24 March 2026 to WPQ 120039, what the purpose was of each flight to Pakistan; which Ministers and senior officials approved each visit; how many officials travelled on each occas",
+   "dateTabled": "2026-05-14T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1914165,
+   "uin": "8172",
+   "heading": "British Transport Police",
+   "questionText": "To ask the Secretary of State for Transport, what the total expenditure of the British Transport Police was in the latest year for which figures are available; how many warranted police officers were employed by the force in that year; and what estimate s",
+   "dateTabled": "2026-06-09T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1913352,
+   "uin": "7514",
+   "heading": "Electric Bicycles: Registration",
+   "questionText": "To ask the Secretary of State for Transport, what steps her Department is taking to address the absence of registration for non-EAPC electric bikes, improve rider accountability and support police enforcement.",
+   "dateTabled": "2026-06-08T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1913353,
+   "uin": "7515",
+   "heading": "Motorcycles: Registration",
+   "questionText": "To ask the Secretary of State for Transport, what assessment her Department has made of the potential implications for her policies of the trends in moped and 51–125cc scooter registrations since 2022.",
+   "dateTabled": "2026-06-08T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1913652,
+   "uin": "7586",
+   "heading": "Driving Licences: Health",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 5 June 2026 to Question 5014 on Driving Licences: Health, how many claims for financial compensation relating to delays in the processing of medical driving licence applications by the",
+   "dateTabled": "2026-06-08T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1913024,
+   "uin": "7179",
+   "heading": "A47: Dual Carriageways",
+   "questionText": "To ask the Secretary of State for Transport, what costs have been incurred as a result of the cancellation and revocation of the A47 Wansford to Sutton dualling scheme, including costs relating to contract termination, legal advice, compensation and admin",
+   "dateTabled": "2026-06-05T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1913666,
+   "uin": "7600",
+   "heading": "Rescue Services: Voluntary Work",
+   "questionText": "To ask the Secretary of State for Transport, with reference to the Maritime and Coastguard Agency’s decision to introduce a revised volunteer model for Coastguard Rescue Officers, what assessment she has made of the impact of that decision on (a) recruitm",
+   "dateTabled": "2026-06-08T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1913351,
+   "uin": "7513",
+   "heading": "Transport: Innovation",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 4 June 2026 to Question 5446, if she will list the specific transport projects, in addition to the light rail infrastructure trial in Coventry, that have utilised the proportionate and",
+   "dateTabled": "2026-06-08T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1911247,
+   "uin": "6012",
+   "heading": "Taxis: Licensing",
+   "questionText": "To ask the Secretary of State for the Home Department, how many taxi and private hire vehicle drivers were required to obtain a new enhanced DBS certificate in each of the last five years; what estimate she has made of the cost to those drivers; and wheth",
+   "dateTabled": "2026-06-02T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1913023,
+   "uin": "7178",
+   "heading": "UK Emissions Trading Scheme: Shipping",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what plans his Department has to publish a single, authoritative source of guidance on compliance requirements for maritime operators under the UK ETS.",
+   "dateTabled": "2026-06-05T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1911777,
+   "uin": "6502",
+   "heading": "Coroners",
+   "questionText": "To ask the Secretary of State for Justice, what determination he intends to make in response to the Schedule 3 paragraph 15 referrals he has received from coroners; and what his planned timetable is for making a determination.",
+   "dateTabled": "2026-06-03T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1908158,
+   "uin": "3401",
+   "heading": "Platform4",
+   "questionText": "To ask the Secretary of State for Transport, with reference to the Answer of 24 March 2026, to Question 121019 on Network Rail and Platform 4: Trade Unions, whether Platform 4 is deemed a public authority for the purposes of (a) the public sector equality",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1908160,
+   "uin": "3403",
+   "heading": "Railway Stations: Barking",
+   "questionText": "To ask the Secretary of State for Transport, what progress c2c has made on upgrading Barking station since 17 December 2025; and whether the upgraded ticket office, new lift and extended gateline remain on schedule for completion in 2026.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1907850,
+   "uin": "3329",
+   "heading": "Electric Vehicles: Manufacturing Industries",
+   "questionText": "To ask the Secretary of State for Transport, what assessment she has made of the extent to which the Electric Car Grant supports UK-based vehicle manufacturing and associated supply chains; and what steps she is taking to ensure that the scheme aligns wit",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1908159,
+   "uin": "3402",
+   "heading": "Parking: Fines",
+   "questionText": "To ask the Secretary of State for Transport, whether his Department has issued guidance to local highways authorities on the issuing of (a) on-street and (b) off-street municipal parking fines by outsourced contractors where contractors provide financial ",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1908164,
+   "uin": "3407",
+   "heading": "Airports: Transport",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 20 May 2026 to Question 1259, whether the Department has plans to review and amend the 1999 Guidance on Airport Transport Forums and Airport Surface Access Strategies.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1907858,
+   "uin": "3337",
+   "heading": "Office of Rail and Road: Carbon Emissions",
+   "questionText": "To ask the Secretary of State for Transport, with reference to the Answer of 9 January 2026 to Question 100955 on Department for Transport: Carbon Emissions, what steps the Office of Rail and Road is taking to integrate Net Zero targets into its economic ",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1907855,
+   "uin": "3334",
+   "heading": "National Highways: Carbon Emissions",
+   "questionText": "To ask the Secretary of State for Transport, with reference to the Answer of 9 January 2026 to Question 100955 on Department for Transport: Carbon Emissions, if she will provide a breakdown of the specific programmes National Highways is undertaking to ac",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1908161,
+   "uin": "3404",
+   "heading": "Electric Vehicles: Hire Services",
+   "questionText": "To ask the Secretary of State for Transport, what assessment her Department has made of the health of the zero emission vehicle rental and fleet market.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1905416,
+   "uin": "1260",
+   "heading": "Ferries: Carbon Emissions",
+   "questionText": "To ask the Secretary of State for Transport, what steps her Department is taking to ensure that regional domestic ferry operators affected by a lack of grid capacity and grid connections are supported to meet the goals of the Maritime Decarbonisation Stra",
+   "dateTabled": "2026-05-14T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1906587,
+   "uin": "2235",
+   "heading": "Taxis: Licensing",
+   "questionText": "To ask the Secretary of State for Transport, what assessment she has made of the implications for her policies of delays to taxi and private hire licence renewals caused by difficulties in obtaining medical assessments to Group 2 standards; whether she ha",
+   "dateTabled": "2026-05-18T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1906916,
+   "uin": "2370",
+   "heading": "Parking Offences: Appeals",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, with reference to the Answer of 19 March 2026 to Question 120368 on Parking: Private Sector, whether the Department has concluded its consideration of the findings of the consult",
+   "dateTabled": "2026-05-18T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1906586,
+   "uin": "2234",
+   "heading": "Electric Vehicles: Excise Duties",
+   "questionText": "To ask the Chancellor of the Exchequer, with reference to the Answer of 23 April 2026 to Question 127591 on Electric Vehicles: Costs, whether the Treasury has made projections of when the proposed electric Vehicle Excise Duty pay-per-mile rates will reach",
+   "dateTabled": "2026-05-18T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1906917,
+   "uin": "2371",
+   "heading": "Railways: Bus Services",
+   "questionText": "To ask the Secretary of State for Transport, whether her Department has plans to renew the existing time-limited exemption from the technical requirements of AIR, due to end on 31 July 2026.",
+   "dateTabled": "2026-05-18T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1906923,
+   "uin": "2377",
+   "heading": "Northern",
+   "questionText": "To ask the Secretary of State for Transport, with reference to the Answer of 24 March 2026 to Question 120876 on Northern Trains: Rolling Stock, what the ten Northern Trains routes with the highest number of short-formed services were in the last 18 month",
+   "dateTabled": "2026-05-18T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1906919,
+   "uin": "2373",
+   "heading": "Ferries: Conditions of Employment",
+   "questionText": "To ask the Secretary of State for Transport, with reference to the Answer of 20 April 2026 to Question 126523 on Ferries: Conditions of Employment, when the Department expects to publicly confirm which operators have met the required standard under the Se",
+   "dateTabled": "2026-05-18T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1905418,
+   "uin": "1262",
+   "heading": "Railway Benefit Fund",
+   "questionText": "To ask the Secretary of State for Transport, with reference to the answer of 24 April 2026 to Question 127159, whether DfTO will provide financial or in-kind support to the Railway Benefit Fund at levels comparable to those previously provided by Train Op",
+   "dateTabled": "2026-05-14T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1905421,
+   "uin": "1265",
+   "heading": "Cars: Carbon Emissions",
+   "questionText": "To ask the Secretary of State for Transport, a) what estimate her Department has made, in each set of projections published since 1 January 2019, of the proportion of new car registrations that will be zero emission vehicles in 2027 under (i) central, (ii",
+   "dateTabled": "2026-05-14T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1906589,
+   "uin": "2237",
+   "heading": "Motor Vehicles: Fires",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, whether his Department plans to hold data on (a) the number of fires involving road vehicles of all types attended by Fire and Rescue Services in England each year and (b) fires ",
+   "dateTabled": "2026-05-18T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1906918,
+   "uin": "2372",
+   "heading": "Parking: Pedestrian Areas",
+   "questionText": "To ask the Secretary of State for Transport, with reference to the Answer of 22 April 2026 to Question 127338 on Parking: Pedestrian Areas, in which month will the Statutory Instrument be laid before Parliament.",
+   "dateTabled": "2026-05-18T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1906922,
+   "uin": "2376",
+   "heading": "Bus Lanes: Motorcycles",
+   "questionText": "To ask the Secretary of State for Transport, with reference to the Answer of 30 March 2026 to Question 122531 on Bus Lanes: Motorcycles, whether her Department has published the analysis commissioned to inform the motorcycles in bus lanes consultation and",
+   "dateTabled": "2026-05-18T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1906920,
+   "uin": "2374",
+   "heading": "Roads: Repairs and Maintenance",
+   "questionText": "To ask the Secretary of State for Transport, whether the Department's review of the highways maintenance guidance it provides to local highway authorities in the Well Managed Highways Infrastructure Code of Practice is on track to be completed by the end ",
+   "dateTabled": "2026-05-18T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1905417,
+   "uin": "1261",
+   "heading": "UK Emissions Trading Scheme: Isle of Wight",
+   "questionText": "To ask the Secretary of State for Transport, what assessments her Department has made on the potential impact the UK Emissions Trading Scheme maritime expansion will have on transport and supply chain costs to and from the Isle of Wight.",
+   "dateTabled": "2026-05-14T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1905414,
+   "uin": "1258",
+   "heading": "A12: Construction",
+   "questionText": "To ask the Secretary of State for Transport, with reference to the Answer of 6 March 2026 to Question 116792, whether a written ministerial direction, submission, or other formal decision document exists in relation to the March 2024 decision to defer the",
+   "dateTabled": "2026-05-14T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1905422,
+   "uin": "1266",
+   "heading": "Immobilisation of Vehicles",
+   "questionText": "To ask the Secretary of State for Transport, with reference to the Answer of 28 April 2026 to Question 129277 on Immobilisation of Vehicles, what measures are being considered to improve the securing chains on wheel clamps; and what assessment she has mad",
+   "dateTabled": "2026-05-14T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1905412,
+   "uin": "1256",
+   "heading": "Bus Services: Fares",
+   "questionText": "To ask the Secretary of State for Transport, what assessment she has made of the potential impact on fare revenue of the removal of cash payments on London Buses.",
+   "dateTabled": "2026-05-14T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1905419,
+   "uin": "1263",
+   "heading": "Buses: Parking",
+   "questionText": "To ask the Secretary of State for Transport, what enforcement powers are available to her Department where a local transport authority fails to make adequate provision for coach parking, pick-up and drop-off facilities in its local transport plan.",
+   "dateTabled": "2026-05-14T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1905413,
+   "uin": "1257",
+   "heading": "Bus Services",
+   "questionText": "To ask the Secretary of State for Transport, what mechanisms her Department will use to monitor whether local transport authorities are complying with the expectation to recognise and plan for the role of coach services within their transport strategies, ",
+   "dateTabled": "2026-05-14T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1906914,
+   "uin": "2368",
+   "heading": "Parking: Private Sector",
+   "questionText": "To ask the Secretary of State for Transport, with reference to the Answer of 22 April 2026 to Question 124214 on Parking: Private Sector, whether her Department plans to conclude its review of the £2.50 fee for the release of vehicle keeper data.",
+   "dateTabled": "2026-05-18T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1905423,
+   "uin": "1267",
+   "heading": "Roads: Horses",
+   "questionText": "To ask the Secretary of State for Transport, whether the Government plans to use incident data collected by the British Horse Society as a safety performance indicator for monitoring (a) the number of horses killed or seriously injured on roads and (b) th",
+   "dateTabled": "2026-05-14T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1906915,
+   "uin": "2369",
+   "heading": "HGV Parking and Driver Welfare Grant Scheme",
+   "questionText": "To ask the Secretary of State for Transport, when her Department plans to publish the independent evaluation of the HGV Parking and Driver Welfare Matched Funding Scheme.",
+   "dateTabled": "2026-05-18T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1906618,
+   "uin": "2266",
+   "heading": "Iain Guille",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, on what dates Ministers have (a) met and (b) spoken with the Turkish Ambassador to the United Kingdom to discuss the case of Iain Guille; and what representations were made o",
+   "dateTabled": "2026-05-18T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1906617,
+   "uin": "2265",
+   "heading": "Iain Guille",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, whether the Minister of State for Europe, North America and UK Overseas Territories has directed the British Ambassador in Turkey to visit Iain Guille.",
+   "dateTabled": "2026-05-18T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1906616,
+   "uin": "2264",
+   "heading": "Iain Guille",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, when Ministers next plan to raise the case of Iain Guille with Turkish counterparts.",
+   "dateTabled": "2026-05-18T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1906588,
+   "uin": "2236",
+   "heading": "Abnormal Loads",
+   "questionText": "To ask the Secretary of State for the Home Department, if the Government will make it their policy to introduce nationally consistent guidance on the interpretation of regulations governing abnormal load movements and police escort requirements.",
+   "dateTabled": "2026-05-18T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1905420,
+   "uin": "1264",
+   "heading": "Road Works: Fees and Charges",
+   "questionText": "To ask the Secretary of State for Transport, with reference to the Answer of 27 April 2026 to Question 127220, if she will list the seven new lane rental schemes mentioned in the Answer.",
+   "dateTabled": "2026-05-14T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1905424,
+   "uin": "1268",
+   "heading": "Bus Services: Greater London",
+   "questionText": "To ask the Secretary of State for Transport, what data is collected by Transport for London on instances of failed or declined contactless or Oyster transactions on buses; and what estimate has been made of the number of passengers who complete journeys w",
+   "dateTabled": "2026-05-14T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1905426,
+   "uin": "1269",
+   "heading": "Taxis: Greater London",
+   "questionText": "To ask the Secretary of State for Transport, what discussions she has had with Transport for London on delays arising from the introduction of new licensing software in 2025; what assessment she has made of the impact of the 2024 cyber incident on taxi an",
+   "dateTabled": "2026-05-14T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1905415,
+   "uin": "1259",
+   "heading": "Airports: Transport",
+   "questionText": "To ask the Secretary of State for Transport, with reference to the Answer of 1 April 2026 to Question 123240, whether his Department has issued any formal guidance to airport operators on meeting surface access environmental targets.",
+   "dateTabled": "2026-05-14T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1903350,
+   "uin": "129895",
+   "heading": "Department for Transport: Aviation",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 24 March 2026 to Question 120039, (a) what the purpose was of each flight to Maldives; (b) which Ministers and senior officials approved each visit; (c) how many officials travelled on",
+   "dateTabled": "2026-04-27T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1901731,
+   "uin": "128803",
+   "heading": "Iain Guille",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, pursuant to question UIN 122285, on which dates the two conversations between Minister Doughty and his Turkish counterpart took place; and on which date their next conversati",
+   "dateTabled": "2026-04-21T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1901732,
+   "uin": "128804",
+   "heading": "British Nationals Abroad: Detainees",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what her Department’s policy is on the acceptable duration of pre-trial detention for citizens of the United Kingdom who are detained overseas.",
+   "dateTabled": "2026-04-21T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1899730,
+   "uin": "127280",
+   "heading": "Parking Offences: Fines",
+   "questionText": "To ask the Secretary of State for Transport, what recent assessment she has made of the effectiveness of the level of parking penalty charge notices in deterring nuisance parking.",
+   "dateTabled": "2026-04-14T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1899731,
+   "uin": "127281",
+   "heading": "Parking Offences: Bournemouth, Christchurch and Poole",
+   "questionText": "To ask the Secretary of State for Transport, what steps she is taking following the trial of higher parking penalty charge notices in Bournemouth, Christchurch and Poole Council in August 2025.",
+   "dateTabled": "2026-04-14T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1899655,
+   "uin": "127240",
+   "heading": "Electric Vehicles: Batteries",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 30 March 2026 to Question 123516, whether her Department plans to begin holding data on average or individual replacement battery costs for electric vehicles.",
+   "dateTabled": "2026-04-14T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1899656,
+   "uin": "127241",
+   "heading": "Electric Vehicles: Batteries",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 30 March 2026 to Question 123517 on Electric Vehicles: Costs, when her Department expects to conclude its exploration of regulatory options on battery state of health information; and ",
+   "dateTabled": "2026-04-14T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1899492,
+   "uin": "127116",
+   "heading": "DfT Operator",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 30 March 2026 to Question 122220, what the total cost is of mobilising the new sponsorship model and team referred to in that Answer.",
+   "dateTabled": "2026-04-14T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1899682,
+   "uin": "127253",
+   "heading": "Equal Experts: Data Protection",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether DEFRA has established whether Equal Experts, in conducting the BNG Metric Tool Discovery phase under contract C24064, accessed software products developed by private sector BNG",
+   "dateTabled": "2026-04-14T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1899383,
+   "uin": "127096",
+   "heading": "Department for Transport: Albania",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the answer of 24 March 2026 to WPQ 120039, what the purpose was of each flight to Albania; which Ministers and senior officials approved each visit; how many officials travelled on each occasion and",
+   "dateTabled": "2026-04-14T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1897619,
+   "uin": "125565",
+   "heading": "Children's Play: VAT Zero Rating",
+   "questionText": "To ask the Chancellor of the Exchequer, what recent assessment she has made of the potential economic merits of zero rating VAT on admission tickets for children's play centres.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1897618,
+   "uin": "125564",
+   "heading": "Children's Play: VAT Zero Rating",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of the cost impact on the public purse of zero rating VAT for children's play centres.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1897614,
+   "uin": "125560",
+   "heading": "Children's Play: VAT Zero Rating",
+   "questionText": "To ask the Chancellor of the Exchequer, what recent discussions she has had with the Department for Education on the effect of VAT on the affordability for families of children's play centres.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1895159,
+   "uin": "123815",
+   "heading": "Driving Tests: Vacancies",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 10 March 2026 to Question 118042, what alternative methods the Driver and Vehicle Standards Agency uses to identify the source of applications for driving examiner roles.",
+   "dateTabled": "2026-03-25T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1895161,
+   "uin": "123817",
+   "heading": "Hybrid Vehicles: Fires",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 9 March 2026 to Question 116554, whether her Department has corroborated the findings of Thatcham Research; whether any UK fire and rescue services have provided data on hybrid vehicle",
+   "dateTabled": "2026-03-25T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1895168,
+   "uin": "123824",
+   "heading": "Roads: Repairs and Maintenance",
+   "questionText": "To ask the Secretary of State for Transport, a) what assessment she has made of progress towards delivering an additional one million pothole repairs per year; b) whether the Government is currently on track to meet that target in (i) 2025–26 and (ii) 202",
+   "dateTabled": "2026-03-25T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1895165,
+   "uin": "123821",
+   "heading": "UK Emissions Trading Scheme: Shipping",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what discussions Ministers and officials held with the Northern Ireland Executive and DAERA in the period immediately preceding the Assembly vote on the UK ETS maritime extension.",
+   "dateTabled": "2026-03-25T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1895156,
+   "uin": "123813",
+   "heading": "Vehicle Certification Agency: Fees and Charges",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the answer of 16 March 2026 to Question 119471 on the Vehicle Certification Agency, what internal efficiency measures are being undertaken by the Vehicle Certification Agency; what the estimated ann",
+   "dateTabled": "2026-03-25T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1895163,
+   "uin": "123819",
+   "heading": "Motor Vehicles: Hire Services",
+   "questionText": "To ask the Secretary of State for Transport, whether she has reviewed the design of the Government Fleet Commitment to ensure that short-term vehicle hire is captured within its targets.",
+   "dateTabled": "2026-03-25T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1895157,
+   "uin": "123814",
+   "heading": "Driving Tests: Vacancies",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 10 March 2026 to Question 118043, how many applications for driving examiner roles were received by the Driver and Vehicle Standards Agency in each of the last three years.",
+   "dateTabled": "2026-03-25T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1895154,
+   "uin": "123812",
+   "heading": "Large Goods Vehicles and Vans: Carbon Emissions",
+   "questionText": "To ask the Secretary of State for Transport, whether the funding allocation for the Zero Emission Truck and Van represents a capped budget; and what estimate she has made of the total potential liability.",
+   "dateTabled": "2026-03-25T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1895162,
+   "uin": "123818",
+   "heading": "HGV Parking and Driver Welfare Grant Scheme",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 13 February 2026 to Question 110890, what estimate her Department has made of (a) the total number of HGV parking spaces originally expected to be delivered under the HGV Parking and D",
+   "dateTabled": "2026-03-25T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1895160,
+   "uin": "123816",
+   "heading": "East West Rail Line: Oxford",
+   "questionText": "To ask the Secretary of State for Transport, in which month will the first East West Rail services operate from Oxford to Oxford Park Way.",
+   "dateTabled": "2026-03-25T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1895166,
+   "uin": "123822",
+   "heading": "Ferries: Isle of Wight",
+   "questionText": "To ask the Secretary of State for Transport, what assessment has been made of the role ferry services to the Isle of Wight play in providing access to essential services, including healthcare, education and employment.",
+   "dateTabled": "2026-03-25T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1895164,
+   "uin": "123820",
+   "heading": "Government Departments: Greenhouse Gas Emissions",
+   "questionText": "To ask the Minister for the Cabinet Office, whether the Government Property Agency has made an estimate of staff time or resource allocated to measuring, collecting, reporting or validating greenhouse gas emissions across the parts of the estate for which",
+   "dateTabled": "2026-03-25T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1893068,
+   "uin": "122285",
+   "heading": "Iain Guille",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what recent representations she has made to her Turkish counterpart on the pre-trial detention of Iain Guille, and what steps she is taking to help protect his welfare.",
+   "dateTabled": "2026-03-19T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1892022,
+   "uin": "121468",
+   "heading": "Electricity: Prices",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what information his Department holds on the average industrial electricity price for automotive manufacturers in (a) the UK and (b) international competitors.",
+   "dateTabled": "2026-03-17T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1892025,
+   "uin": "121470",
+   "heading": "Electric Vehicles: Charging Points",
+   "questionText": "To ask the Secretary of State for Transport, what the average cost per kWh was for public rapid electric vehicle charging in each year since 2021.",
+   "dateTabled": "2026-03-17T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1892023,
+   "uin": "121469",
+   "heading": "Electric Vehicles: Prices",
+   "questionText": "To ask the Secretary of State for Transport, what estimate his Department has made of when electric vehicles will reach price parity with internal combustion engine vehicles.",
+   "dateTabled": "2026-03-17T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1891329,
+   "uin": "120939",
+   "heading": "Train Operating Companies: Staff",
+   "questionText": "To ask the Secretary of State for Transport, whether her Department plans to publish details of staff costs of individual Train Operating Companies in the DFTO: Annual Report and Accounts 2025 to 2026.",
+   "dateTabled": "2026-03-16T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1891331,
+   "uin": "120941",
+   "heading": "Bus Services: Cycleways",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 5 March 2026 to Question 116791, whether engagement with organisations representing disabled people in relation to the guidance entitled Floating Bus Stops: Provision and Design was un",
+   "dateTabled": "2026-03-16T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1891330,
+   "uin": "120940",
+   "heading": "Freight",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the answer of 20 January 2026 to WPQ 104866, when her Department will be using enhanced data and insight capabilities on the freight and logistics system to inform its advice on transport infrastruc",
+   "dateTabled": "2026-03-16T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1889372,
+   "uin": "119474",
+   "heading": "Electric Vehicles: Excise Duties",
+   "questionText": "To ask the Secretary of State for Transport, what estimate the Department for Transport has made of the vehicle excise duty (VED) revenue foregone as a result of early renewals by zero-emission vehicle owners prior to the introduction of new VED rates.",
+   "dateTabled": "2026-03-10T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1890319,
+   "uin": "120024",
+   "heading": "Red Diesel: Prices",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of the potential impact of the cost of Red Diesel on a) agriculture and horticulture, b) forestry, c) rail and d) marine; and what steps she is taking to help mitigate changes in prices.",
+   "dateTabled": "2026-03-11T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1889370,
+   "uin": "119472",
+   "heading": "Roads: Capital Investment",
+   "questionText": "To ask the Secretary of State for Transport, whether she expects the third Road Investment Strategy period to commence in April 2026.",
+   "dateTabled": "2026-03-10T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1889371,
+   "uin": "119473",
+   "heading": "Driver and Vehicle Standards Agency: Fees and Charges",
+   "questionText": "To ask the Secretary of State for Transport, what steps her Department is taking to reduce the fee deficit of the Driver and Vehicle Standards Agency.",
+   "dateTabled": "2026-03-10T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1889369,
+   "uin": "119471",
+   "heading": "Vehicle Certification Agency: Fees and Charges",
+   "questionText": "To ask the Secretary of State for Transport, what steps her Department is taking to reduce the fee deficit of the Vehicle Certification Agency.",
+   "dateTabled": "2026-03-10T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1889148,
+   "uin": "908190",
+   "heading": "Tax Avoidance",
+   "questionText": "To ask the Chancellor of the Exchequer, what estimate she has made of the number of people subject to the loan charge who will have their cases settled following the independent review of the loan charge.",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1885918,
+   "uin": "116685",
+   "heading": "Cycling: Safety",
+   "questionText": "To ask the Secretary of State for Transport, what evidence her Department holds that floating bus stops improve (a) actual cyclist safety and (b) cyclists’ perception of safety.",
+   "dateTabled": "2026-02-27T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1885046,
+   "uin": "116008",
+   "heading": "Motor Vehicles: Excise Duties",
+   "questionText": "To ask the Chancellor of the Exchequer, what estimate her Department has made of the additional annual cost to motorists of introducing a weight-based Vehicle Excise Duty system for cars weighing over (a) 1,600kg, (b) 2,000kg, and (c) 2,400kg.",
+   "dateTabled": "2026-02-25T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1885045,
+   "uin": "116007",
+   "heading": "Clean Cities Campaign: Finance",
+   "questionText": "To ask the Secretary of State for Transport, whether her Department has provided (a) funding and (b) advice to Clean Cities Campaign since 4 July 2024.",
+   "dateTabled": "2026-02-25T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1882893,
+   "uin": "114158",
+   "heading": "Motor Vehicles: Excise Duties",
+   "questionText": "To ask the Secretary of State for Transport, how many hours has the Gov.uk vehicle tax system been unavailable during 2026 for which the latest data is available.",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1880976,
+   "uin": "112875",
+   "heading": "Driving Tests: Waiting Lists",
+   "questionText": "To ask the Secretary of State for Transport, whether her Department has considered the potential merits of extending the current 24-week booking window for practical car driving tests on a temporary basis, including on the level of test availability and b",
+   "dateTabled": "2026-02-11T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1880979,
+   "uin": "112877",
+   "heading": "Driving Tests",
+   "questionText": "To ask the Secretary of State for Transport, how many practical car driving tests were cancelled with fewer than (a) three working days’ notice and (b) ten working days’ notice in each month since January 2024.",
+   "dateTabled": "2026-02-11T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1880978,
+   "uin": "112876",
+   "heading": "Driving Tests",
+   "questionText": "To ask the Secretary of State for Transport, what assessment her Department has made of potential impact of restricting driving instructors and driver trainers from managing practical test bookings and amendments on behalf of learners on road safety; and ",
+   "dateTabled": "2026-02-11T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1876370,
+   "uin": "109243",
+   "heading": "UK Emissions Trading Scheme: Shipping",
+   "questionText": "To ask the Secretary of State for Transport, what assessment she has made of the potential implications of UK ETS rules for negotiations at the International Maritime Organisation on a global market-based measure.",
+   "dateTabled": "2026-01-28T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1879880,
+   "uin": "111831",
+   "heading": "Ports: Energy Supply",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 2 February 2026 to Question 109244, what assessment her Department has made of the adequacy of shore power and grid capacity at UK ports by July 2026 to enable maritime operators to re",
+   "dateTabled": "2026-02-09T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1878608,
+   "uin": "110875",
+   "heading": "Motorcycles: Bus Lanes",
+   "questionText": "To ask the Secretary of State for Transport, what evidential criteria were applied when assessing motorcycle bus lane consultation responses.",
+   "dateTabled": "2026-02-04T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1878674,
+   "uin": "110878",
+   "heading": "Driving: Eyesight",
+   "questionText": "To ask the Secretary of State for Transport, whether her Department plans to introduce a requirement for all drivers to have their eyesight tested by a qualified optometrist when applying for or renewing their driving licence.",
+   "dateTabled": "2026-02-04T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1878673,
+   "uin": "110877",
+   "heading": "Driving: Eyesight",
+   "questionText": "To ask the Secretary of State for Transport, what recent assessment she has made of the adequacy of current eyesight standards for driving; and whether her Department plans to review the regulations governing driver vision requirements.",
+   "dateTabled": "2026-02-04T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1878675,
+   "uin": "110879",
+   "heading": "Driving: Eyesight",
+   "questionText": "To ask the Secretary of State for Transport, if she will take steps to replace the number-plate eyesight test with a standardised, clinically validated vision assessment.",
+   "dateTabled": "2026-02-04T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1878607,
+   "uin": "110874",
+   "heading": "Bus Services: Fylde",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 18 December 2025 to Question 99588, when her Department plans to publish the evaluation of the £3 bus fare cap.",
+   "dateTabled": "2026-02-04T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1879881,
+   "uin": "111832",
+   "heading": "UK Emissions Trading Scheme: Ferries",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, pursuant to the Answer of 3 February 2026 to Question 109392, what engagement his Department undertook with ferry operators and representative bodies serving island and coastal communities in",
+   "dateTabled": "2026-02-09T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1879879,
+   "uin": "111830",
+   "heading": "UK Emissions Trading Scheme: Shipping",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, pursuant to the Answer of 4 February 2026 to Question 109240, what proportion of the estimated costs of extending the UK Emissions Trading Scheme to domestic maritime are attributable to admi",
+   "dateTabled": "2026-02-09T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1878611,
+   "uin": "110876",
+   "heading": "Cancer: Medical Treatments",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what proportion of cancer patients in Mid Buckinghamshire constituency receive first treatment within the 62 day target.",
+   "dateTabled": "2026-02-04T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1880603,
+   "uin": "907745",
+   "heading": "Northern Ireland Troubles (Legacy and Reconciliation) Act 2023",
+   "questionText": "To ask the Secretary of State for Northern Ireland, what steps he is taking to replace the Northern Ireland Troubles (Legacy and Reconciliation) Act 2023.",
+   "dateTabled": "2026-02-03T00:00:00",
+   "answeringBodyName": "Northern Ireland Office"
+  },
+  {
+   "id": 1878606,
+   "uin": "110873",
+   "heading": "Airports: Finance",
+   "questionText": "To ask the Secretary of State for Transport, what support, including business rates relief, direct financial assistance, or other fiscal measures, is being offered to regional airports in England; and how this compares to the support provided to Heathrow ",
+   "dateTabled": "2026-02-04T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1878605,
+   "uin": "110872",
+   "heading": "Air Passenger Duty: Children",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of the potential impact of her policy of no reduced rate or exemption for children or family travelling in premium economy of Air Passenger Duty on families travelling with children in p",
+   "dateTabled": "2026-02-04T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1876368,
+   "uin": "109241",
+   "heading": "UK Emissions Trading Scheme: Shipping",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what assessment he has made of the level of risk of double charging of emissions at berth under both the UK ETS and EU ETS for vessels calling at UK ports.",
+   "dateTabled": "2026-01-28T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1876366,
+   "uin": "109240",
+   "heading": "UK Emissions Trading Scheme: Shipping",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what assessment she has made of whether the administrative costs of extending the UK Emissions Trading Scheme to domestic maritime represent value for money relative to the expected abatement",
+   "dateTabled": "2026-01-28T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1876369,
+   "uin": "109242",
+   "heading": "Ferries: UK Emissions Trading Scheme",
+   "questionText": "To ask the Secretary of State for Transport, for what policy reason route-level impact assessments were not published for ferry-dependent communities ahead of laying secondary legislation for the domestic maritime UK ETS.",
+   "dateTabled": "2026-01-28T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1876372,
+   "uin": "109245",
+   "heading": "Buses: Procurement",
+   "questionText": "To ask the Secretary of State for Transport, which local authorities have received funding from Government-funded schemes supporting the procurement of new buses, including zero-emission, electric, hydrogen and hybrid buses, in each of the last five years",
+   "dateTabled": "2026-01-28T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1876373,
+   "uin": "109246",
+   "heading": "Dartford-Thurrock Crossing: Privatisation",
+   "questionText": "To ask the Secretary of State for Transport, whether the Department will treat the transfer of Dartford Crossing toll revenues to a private Lower Thames Crossing operator as a loss of income to the Department.",
+   "dateTabled": "2026-01-28T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1877771,
+   "uin": "907639",
+   "heading": "Prisons: Construction",
+   "questionText": "To ask the Secretary of State for Justice, what steps he plans to take to reduce the potential impact of construction traffic on villages in Mid Buckinghamshire constituency during the construction of the new Category C prison.",
+   "dateTabled": "2026-01-28T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1876371,
+   "uin": "109244",
+   "heading": "Ports: Energy Supply",
+   "questionText": "To ask the Secretary of State for Transport, what timetable exists for the rollout of shore power and grid capacity upgrades at UK ports ahead of the UK ETS entering force for domestic maritime in July 2026.",
+   "dateTabled": "2026-01-28T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1860484,
+   "uin": "97245",
+   "heading": "Retail Trade: Business Rates",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of the potential impact of the combined effect of higher rateable values and reduced business rates relief on the number of hospitality closures and empty units on high streets over the ",
+   "dateTabled": "2025-12-04T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1861068,
+   "uin": "97565",
+   "heading": "Neurological Diseases: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment his Department has made of the potential impact of the NHS England Neurology Transformation Programme on access to specialised neurology care, including care from specialist nurses,",
+   "dateTabled": "2025-12-05T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1861067,
+   "uin": "97564",
+   "heading": "Multiple Sclerosis: Mid Buckinghamshire",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps his Department is taking to support people living with multiple sclerosis to access timely, high-quality care and treatment in Mid Buckinghamshire constituency.",
+   "dateTabled": "2025-12-05T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1860485,
+   "uin": "97246",
+   "heading": "Hospitality Industry: Young People",
+   "questionText": "To ask the Secretary of State for Business and Trade, what steps his department is taking to reduce youth unemployment in light of recent job losses in the hospitality sector, the largest employer of young people.",
+   "dateTabled": "2025-12-04T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1860489,
+   "uin": "97250",
+   "heading": "Retail Trade: Business Rates",
+   "questionText": "To ask the Chancellor of the Exchequer, whether it is her policy to use the business rates system to help support high street businesses in the context of their competition with online retailers.",
+   "dateTabled": "2025-12-04T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1860486,
+   "uin": "97247",
+   "heading": "Business Rates: Internet",
+   "questionText": "To ask the Chancellor of the Exchequer, whether it remains the Government’s policy to reform the business rates system to level the playing field between bricks and mortar businesses and large online businesses.",
+   "dateTabled": "2025-12-04T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1860483,
+   "uin": "97244",
+   "heading": "Retail Trade: Business Rates",
+   "questionText": "To ask the Chancellor of the Exchequer, what impact assessments the Government has conducted on the potential effect of rateable value increases and changes to business rates relief, announced at Budget 2025, on a) vacancy rates on local high streets b) j",
+   "dateTabled": "2025-12-04T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1860488,
+   "uin": "97249",
+   "heading": "Hospitality Industry: Business Rates",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of the reasons for the difference in the projected changes in liabilities for (a) pubs and (b) distribution warehouses over the three-year revaluation period after transition.",
+   "dateTabled": "2025-12-04T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1860482,
+   "uin": "97243",
+   "heading": "Hospitality Industry and Leisure: Business Rates",
+   "questionText": "To ask the Chancellor of the Exchequer, what estimate her department has made of how many a) pubs b) hotels c) restaurants d) indoor leisure and e) night clubs are expected to see their business rates bill i) go up ii) stay the same or iii) decrease from ",
+   "dateTabled": "2025-12-04T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1860480,
+   "uin": "97242",
+   "heading": "Retail Trade: Business Rates",
+   "questionText": "To ask the Chancellor of the Exchequer, what guidance or analysis her department has undertaken on the potential impact on high street businesses of the removal of business rates relief and the simultaneous business rates revaluation.",
+   "dateTabled": "2025-12-04T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1860487,
+   "uin": "97248",
+   "heading": "Hospitality Industry and Retail Trade: Business Rates",
+   "questionText": "To ask the Chancellor of the Exchequer, if she will make an assessment of the potential impact of applying a) a 10p multiplier b) a 15p multiplier or c) the full 20p discount on high street and hospitality businesses; and if she will publish that assessme",
+   "dateTabled": "2025-12-04T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1858242,
+   "uin": "95455",
+   "heading": "Motorcycles: Safety",
+   "questionText": "To ask the Secretary of State for Transport, if she has any plans to expand automatic crash detection requirements to powered two wheel vehicles.",
+   "dateTabled": "2025-11-28T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1858241,
+   "uin": "95454",
+   "heading": "Motorcycles: Safety",
+   "questionText": "To ask the Secretary of State for Transport, what steps she is taking to help improve motorcycle safety.",
+   "dateTabled": "2025-11-28T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1858243,
+   "uin": "95456",
+   "heading": "Roads: Accidents",
+   "questionText": "To ask the Secretary of State for Transport, whether her department has made an assessment of the potential impact of the eCall system on the number of casualties or fatalities on the roads.",
+   "dateTabled": "2025-11-28T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1963332,
+   "uin": "46355",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, if she will make it her policy to not extend further regulations on farmers and growers beyond those required under the proposed UK/EU Sanitary and Phytosantiary agreement subject to d",
+   "dateTabled": "2026-11-24T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1963331,
+   "uin": "46354",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, if she will set out the role of hon. Members in scrutinising related EU legislation once the proposed UK/EU Sanitary and Phytosantiary agreement enters into force.",
+   "dateTabled": "2026-11-24T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1963329,
+   "uin": "46352",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps she is taking to ensure that farming organisations will help inform policies that affect farmers in Great Britain under the proposed UK/EU Sanitary and Phytosantiary agreeme",
+   "dateTabled": "2026-11-24T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1963328,
+   "uin": "46351",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps she is taking to ensure that the interests of British farmers and growers are reflected in current and future EU legislative proposals that apply directly in Great Britain u",
+   "dateTabled": "2026-11-24T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1963326,
+   "uin": "46349",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, if she will make it her policy to ensure adequate funding for her Department's technical experts, regulators and trade specialists, including those posted to embassies, to support nego",
+   "dateTabled": "2026-11-24T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1963324,
+   "uin": "46347",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Transport, whether the DVSA’s 2026–27 work on advanced driver assistance systems includes assessing how repairers demonstrate technician competence when recalibrating those systems after a repair.",
+   "dateTabled": "2026-11-24T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1963322,
+   "uin": "46345",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 23 November 2026 to Question 43810, how much of the £636 million of resource expenditure on consultancy and professional services in 2025–26 was charged to Resource DEL; and how much o",
+   "dateTabled": "2026-11-24T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1961560,
+   "uin": "44487",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Transport, whether she plans to update her Department’s policy on the use of runways at regional airports outside London and the South East.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1961559,
+   "uin": "44486",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Transport, if she will publish the Outline Business Case for the Lower Thames Crossing which was approved in October 2025.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1959043,
+   "uin": "42521",
+   "heading": "Roads: Repairs and Maintenance",
+   "questionText": "To ask the Secretary of State for Transport, how many planned roadworks schemes on the strategic road network will remain in place between 24 and 27 December 2026.",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1959042,
+   "uin": "42520",
+   "heading": "Roads: Repairs and Maintenance",
+   "questionText": "To ask the Secretary of State for Transport, how many potholes have been repaired on the strategic road network in England between 1 January and 31 October 2026.",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1959041,
+   "uin": "42519",
+   "heading": "Roads: Repairs and Maintenance",
+   "questionText": "To ask the Secretary of State for Transport, how many full overnight closures of the strategic road network are planned between 18 December 2026 and 4 January 2027.",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1958320,
+   "uin": "41882",
+   "heading": "Digital Broadcasting: Television",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what assessment she has made of the potential impact of a 2034 switch-off of digital terrestrial television on national communications resilience; and if she will publish any relevant as",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1958319,
+   "uin": "41881",
+   "heading": "Digital Broadcasting: Television",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what assessment she has made of the potential impact of a 2034 switch-off of digital terrestrial television on public emergency communications in areas without mobile coverage.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1957585,
+   "uin": "41203",
+   "heading": "Motorways: Cameras",
+   "questionText": "To ask the Secretary of State for Transport, whether the technical anomaly affecting 154 HADECS cameras has affected their ability to detect non-compliance with Red X lane closures.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1957584,
+   "uin": "41202",
+   "heading": "Speed Limits: Cameras",
+   "questionText": "To ask the Secretary of State for Transport, how many HADECS cameras installed on the Strategic Road Network are capable of detecting (a) speeding offences and (b) non-compliance with Red X lane closures; and how many of those cameras are currently operat",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1954013,
+   "uin": "38723",
+   "heading": "Stratford Station: High Speed 1 Line",
+   "questionText": "To ask the Secretary of State for Transport, whether her Department has received a business case for introducing international passenger services at Stratford International station.",
+   "dateTabled": "2026-10-27T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1953998,
+   "uin": "38708",
+   "heading": "East West Rail Line: Rolling Stock",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 21 October 2026 to Question 34083, when she expects the software testing and full testing regime for the trains intended for the Oxford to Milton Keynes service to be completed; and wh",
+   "dateTabled": "2026-10-27T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1903348,
+   "uin": "129894",
+   "heading": "Department for Transport: Qatar",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the answer of 24 March 2026 to Question 120039, what the purpose was of each flight to Qatar; which Ministers and senior officials approved each visit; how many officials travelled on each occasion ",
+   "dateTabled": "2026-04-27T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1903346,
+   "uin": "129893",
+   "heading": "Department for Transport: Brazil",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the answer of 24 March 2026 to Question 120039, what the purpose was of each flight to Brazil; which Ministers and senior officials approved each visit; how many officials travelled on each occasion",
+   "dateTabled": "2026-04-27T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1903345,
+   "uin": "129892",
+   "heading": "Department for Transport: Oman",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the answer of 24 March 2026 to Question 120039, what the purpose was of each flight to Oman; which Ministers and senior officials approved each visit; how many officials travelled on each occasion a",
+   "dateTabled": "2026-04-27T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1903343,
+   "uin": "129891",
+   "heading": "Department for Transport: Pakistan",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the answer of 24 March 2026 to WPQ 120039, what the purpose was of each flight to Pakistan; which Ministers and senior officials approved each visit; how many officials travelled on each occasion an",
+   "dateTabled": "2026-04-27T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1903341,
+   "uin": "129890",
+   "heading": "Department for Transport: Philippines",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the answer of 24 March 2026 to WPQ 120039, what the purpose was of each flight to the Philippines; which Ministers and senior officials approved each visit; how many officials travelled on each occa",
+   "dateTabled": "2026-04-27T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  }
+ ],
+ "historyComplete": true
+}

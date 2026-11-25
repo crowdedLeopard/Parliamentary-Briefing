@@ -1,0 +1,762 @@
+{
+ "id": 5319,
+ "fetchedOn": "2026-11-25",
+ "core": {
+  "id": 5319,
+  "nameListAs": "Swann, Robin",
+  "nameDisplayAs": "Robin Swann",
+  "nameFullTitle": "Robin Swann MP",
+  "nameAddressAs": null,
+  "latestParty": {
+   "id": 38,
+   "name": "Ulster Unionist Party",
+   "abbreviation": "UUP",
+   "backgroundColour": "a1cdf0",
+   "foregroundColour": "FFFFFF",
+   "isLordsMainParty": false,
+   "isLordsSpiritualParty": true,
+   "governmentType": null,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "South Antrim",
+   "membershipFromId": 4434,
+   "house": 1,
+   "membershipStartDate": "2024-07-04T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2024-07-04T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/5319/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2024-05-31T00:00:00",
+    "constituencyEnd": null,
+    "house": 1,
+    "name": "South Antrim",
+    "id": 4434,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [
+   {
+    "house": 1,
+    "name": "North Antrim",
+    "id": 3634,
+    "startDate": "2019-12-12T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "houseMemberships": [
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Robin Swann",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [],
+  "oppositionPosts": [],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Ulster Unionist Party",
+    "id": 38,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 1,
+    "name": "Rare Cancers Bill",
+    "id": 808,
+    "startDate": "2025-06-26T00:00:00",
+    "endDate": "2025-07-02T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Northern Ireland Affairs Committee",
+    "id": 120,
+    "startDate": "2026-01-12T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 4,
+   "name": "3. Gifts, benefits and hospitality from UK sources",
+   "sortOrder": 0,
+   "interests": [
+    {
+     "id": 16953,
+     "interest": "Name of donor: Randox Laboratories Ltd\r\nAddress of donor: Ardmore, 55 Diamond Road, Crumlin, Co.Antrim BT29 4QY\r\nAmount of donation or nature and value if donation in kind: Hospitality for two, including a meal and entertainment, at the Randox September Ball, value £900\r\nDate received: 12 September 2026\r\nDate accepted: 12 September 2026\r\nDonor status: company, registration NI015738\r\n(Registered 13 September 2026)",
+     "createdWhen": "2026-09-22T11:01:39.1866667",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "name": "8. Miscellaneous",
+   "sortOrder": 1,
+   "interests": [
+    {
+     "id": 8030,
+     "interest": "Honorary Fellowship of the Royal College of Psychiatrists.\r\nDate interest arose: 3 July 2023\r\n(Registered 29 July 2024)",
+     "createdWhen": "2025-07-29T11:37:03.3134873",
+     "lastAmendedWhen": "2024-08-16T14:58:21.55",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 11149,
+     "interest": "Director and Trustee of the Commonwealth Parliamentary Association (UK Branch).\r\nDate interest arose: 16 October 2024\r\n(Registered 31 October 2024)",
+     "createdWhen": "2024-11-13T15:11:14.79",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 13458,
+     "interest": "Honorary Associate of the British Veterinary Association.\r\nDate interest arose: 25 September 2025\r\n(Registered 4 October 2025)",
+     "createdWhen": "2025-10-08T13:15:41.47",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [],
+ "synopsis": "Robin Swann is the Ulster Unionist Party MP for <a href='/constituency/4434/overview'>South Antrim</a>, and has been an MP continually since 4 July 2024.",
+ "history": [
+  {
+   "id": 1959619,
+   "uin": "42939",
+   "heading": "Bees: Imports",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what recent discussions she has had with the Northern Ireland Executive regarding biosecurity controls on honey bee imports, and what steps are being taken to strengthen surveillance f",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1959020,
+   "uin": "42498",
+   "heading": "UN Resolutions",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what is the Governments position on, i) UN security Council Resolution 1820 (2008); ii) UN Security Council Resolution 1888 (2009); iii) UN Security Council Resolution 1960 (",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1959015,
+   "uin": "42493",
+   "heading": "Armed Conflict: Sexual Offences",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what engagement does the Government have with the United Nations in regards to preventing Sexual Violence in Conflict.",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1954451,
+   "uin": "39062",
+   "heading": "Better Regulation Executive: Northern Ireland",
+   "questionText": "To ask the Chancellor of the Exchequer, what discussion he has had with the Northern Ireland Executive on the roll and remit of the Better Regulation Executive.",
+   "dateTabled": "2026-10-28T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1954452,
+   "uin": "39063",
+   "heading": "Agriculture: Inheritance Tax",
+   "questionText": "To ask the Chancellor of the Exchequer, what commercial transactions will be relevant for a family farm, for a family passing their business down to the next generation.",
+   "dateTabled": "2026-10-28T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1954450,
+   "uin": "39061",
+   "heading": "Business: Northern Ireland",
+   "questionText": "To ask the Chancellor of the Exchequer, of the regulation and tariffs he is removing that will be worth £800m to business, what is the estimated value for Northern Ireland based businesses.",
+   "dateTabled": "2026-10-28T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1954449,
+   "uin": "39060",
+   "heading": "Better Regulation Executive: Northern Ireland",
+   "questionText": "To ask the Chancellor of the Exchequer, whether the remit of the Better Regulation Executive include Northern Ireland.",
+   "dateTabled": "2026-10-28T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1939056,
+   "uin": "901240",
+   "heading": "Hospitality Industry: Northern Ireland",
+   "questionText": "To ask the Chancellor of the Exchequer, whether he has had discussions with the Northern Ireland hospitality sector on the development of a pilot for the reduction of VAT on hospitality.",
+   "dateTabled": "2026-09-02T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1935604,
+   "uin": "24991",
+   "heading": "Cattle and Sheep: Euthanasia",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, how many i) cattle and ii) sheep have been euthanased by shooting, by their department in each of the last 3 years for welfare concerns.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1927203,
+   "uin": "18423",
+   "heading": "UK East-West Council",
+   "questionText": "To ask the Secretary of State for Northern Ireland, when the next meeting of the East-West Council established under the Safeguarding the Union Command Paper is due to take place.",
+   "dateTabled": "2026-07-13T00:00:00",
+   "answeringBodyName": "Northern Ireland Office"
+  },
+  {
+   "id": 1927202,
+   "uin": "18422",
+   "heading": "UK East-West Council",
+   "questionText": "To ask the Secretary of State for Northern Ireland, when the last meeting of the East-West Council established under the Safeguarding the Union Command Paper was; and who attended.",
+   "dateTabled": "2026-07-13T00:00:00",
+   "answeringBodyName": "Northern Ireland Office"
+  },
+  {
+   "id": 1928059,
+   "uin": "900956",
+   "heading": "Knives: Scotland",
+   "questionText": "To ask the Secretary of State for Scotland, whether he has had discussions with Cabinet colleagues on making the wearing of a sgian dubh illegal.",
+   "dateTabled": "2026-07-07T00:00:00",
+   "answeringBodyName": "Scotland Office"
+  },
+  {
+   "id": 1923050,
+   "uin": "15136",
+   "heading": "Ministry of Defence: Members",
+   "questionText": "To ask the Secretary of State for Defence, how many hon. Members received direct payment from his Department in each of the last 10 years by year and service provided.",
+   "dateTabled": "2026-07-01T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1918034,
+   "uin": "11337",
+   "heading": "Fires: Death",
+   "questionText": "To ask the Secretary of State for Business and Trade, what assessment he has made of the potential impact of changing from open flame standards to smoulder only test on the number of (a) deaths caused by fire and (b) home fires per year.",
+   "dateTabled": "2026-06-18T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1915454,
+   "uin": "9254",
+   "heading": "Cattle: Pest Control",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, pursuant to WPQ7894, answered 11 June 2026, when was the last reported case of Cochliomyia hominivorax, in the UK.",
+   "dateTabled": "2026-06-11T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1918878,
+   "uin": "900572",
+   "heading": "Public Expenditure: Northern Ireland",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of the effectiveness of the Open Book exercise on the Northern Ireland Executive budget.",
+   "dateTabled": "2026-06-17T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1913707,
+   "uin": "7895",
+   "heading": "Cattle: Pest Control",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what discussions he has had with the Northern Ireland Environment, Agricultural and Rural Affairs Minister on steps to prevent screw worm infection of cattle herd.",
+   "dateTabled": "2026-06-08T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1915059,
+   "uin": "8981",
+   "heading": "Police Service of Northern Ireland",
+   "questionText": "To ask the Secretary of State for Northern Ireland, what role his Department has in the (a) approval, (b) payment of and (c) cost recovery when mutual aid is supplied to the PSNI from other UK Police Forces.",
+   "dateTabled": "2026-06-10T00:00:00",
+   "answeringBodyName": "Northern Ireland Office"
+  },
+  {
+   "id": 1915058,
+   "uin": "8980",
+   "heading": "Police Service of Northern Ireland",
+   "questionText": "To ask the Secretary of State for Northern Ireland, what role he has in (i) the Chief Constable of the PSNI requesting and (ii) other UK Police forces supplying, mutual aid to the PSNI.",
+   "dateTabled": "2026-06-10T00:00:00",
+   "answeringBodyName": "Northern Ireland Office"
+  },
+  {
+   "id": 1914343,
+   "uin": "8353",
+   "heading": "Transformation Fund: Northern Ireland",
+   "questionText": "To ask the Secretary of State for Northern Ireland, what the financial allocation supplied directly to the i) Northern Ireland Department of Justice and ii) Police Service of Northern Ireland from the Transformation Fund was.",
+   "dateTabled": "2026-06-09T00:00:00",
+   "answeringBodyName": "Northern Ireland Office"
+  },
+  {
+   "id": 1914262,
+   "uin": "8272",
+   "heading": "HM Coastguard: Voluntary Work",
+   "questionText": "To ask the Secretary of State for Transport, what assessment she has made of the potential impact of transitioning HM Coastguard to a revised volunteer-only model on recruitment and retention.",
+   "dateTabled": "2026-06-09T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1913706,
+   "uin": "7894",
+   "heading": "Cattle: Pest Control",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what estimate she has been made of the levels of screw worm infection in the UK cattle herd.",
+   "dateTabled": "2026-06-08T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1911063,
+   "uin": "900229",
+   "heading": "Carbon Capture and Storage: Northern Ireland",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what steps he is taking to help support the use of carbon capture technology in Northern Ireland.",
+   "dateTabled": "2026-05-21T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1906719,
+   "uin": "2423",
+   "heading": "Monetary Agreements",
+   "questionText": "To ask the Chancellor of the Exchequer, whether she has had discussions with her US counterpart on proposals for new international (a) monetary and (b) currency realignment arrangements, including proposals described as Bretton Woods realignment.",
+   "dateTabled": "2026-05-18T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1906720,
+   "uin": "2424",
+   "heading": "Dollar",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of the potential impact of a material fall in the value of the US dollar on UK official foreign exchange reserves.",
+   "dateTabled": "2026-05-18T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1906718,
+   "uin": "2422",
+   "heading": "Dollar",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of the potential impact of a significant managed depreciation of the US dollar as part of international currency realignment on UK inflation, gilt markets and sterling.",
+   "dateTabled": "2026-05-18T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1904982,
+   "uin": "904",
+   "heading": "Electronic Training Aids: Northern Ireland",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether her Department has (a) taken recent steps towards and (b) had discussions with the Northern Ireland Executive on a legislative ban on the sale of aversive training tools for do",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1903056,
+   "uin": "129743",
+   "heading": "Northern Ireland Civil Service: Standards",
+   "questionText": "To ask the Secretary of State for Northern Ireland, who the Head of the Northern Ireland Civil Service is responsible to in terms of performance.",
+   "dateTabled": "2026-04-24T00:00:00",
+   "answeringBodyName": "Northern Ireland Office"
+  },
+  {
+   "id": 1902737,
+   "uin": "129597",
+   "heading": "Terrorism: Northern Ireland",
+   "questionText": "To ask the Secretary of State for Northern Ireland, what the legal status is of the remedial order brought against the Northern Ireland Legacy Bill.",
+   "dateTabled": "2026-04-23T00:00:00",
+   "answeringBodyName": "Northern Ireland Office"
+  },
+  {
+   "id": 1901524,
+   "uin": "128587",
+   "heading": "Groceries Code Adjudicator: Northern Ireland",
+   "questionText": "To ask the Secretary of State for Business and Trade, pursuant to WPQ 126941, answered on the 20th April 2026 at 14:14; to detail any direct intervention on behalf of consumers they have had with suppliers or stakeholders from Northern Ireland.",
+   "dateTabled": "2026-04-20T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1899193,
+   "uin": "126944",
+   "heading": "Public Expenditure: Northern Ireland",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to WPQ 124367, answered 13th April at 11:04, to detail the date when the open book exercise was completed for each Northern Ireland Department.",
+   "dateTabled": "2026-04-13T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1899191,
+   "uin": "126943",
+   "heading": "Public Expenditure: Northern Ireland",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the Answer of 13 April 2026 to Question 124367, what the terms of reference were for the open book exercise.",
+   "dateTabled": "2026-04-13T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1899188,
+   "uin": "126942",
+   "heading": "Public Expenditure: Northern Ireland",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to WPQ 124367, answered 13th April at 11:04, who commissioned the initial open book exercise.",
+   "dateTabled": "2026-04-13T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1899196,
+   "uin": "126945",
+   "heading": "Trout: Fish Farming",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what conditions are necessary to import juvenile trout from fish farms in Northern Ireland for stocking purposes in rivers, lakes or fish farms in i) England or ii) Scotland.",
+   "dateTabled": "2026-04-13T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1898498,
+   "uin": "126440",
+   "heading": "Alternative Fuels: Excise Duties",
+   "questionText": "To ask the Chancellor of the Exchequer, what (a) fuel duty and (b) other tax treatment is applicable to hydrotreated vegetable oil used in (i) road fuel and (ii) home heating fuel.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1899103,
+   "uin": "126941",
+   "heading": "Groceries Code Adjudicator: Northern Ireland",
+   "questionText": "To ask the Secretary of State for Business and Trade, what role the Grocery Code Adjudicator has in Northern Ireland.",
+   "dateTabled": "2026-04-13T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1898239,
+   "uin": "126185",
+   "heading": "Places of Worship Renewal Fund: Northern Ireland",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, how much funding has been allocated through the Places of Worship Renewal Fund to places of worship in Northern Ireland.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1895610,
+   "uin": "124367",
+   "heading": "Public Expenditure: Northern Ireland",
+   "questionText": "To ask the Chancellor of the Exchequer, when she plans to publish the results of the open book assessment of Northern Ireland devolved departments.",
+   "dateTabled": "2026-03-26T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1892639,
+   "uin": "122035",
+   "heading": "Republic of Ireland: Military Alliances",
+   "questionText": "To ask the Secretary of State for Defence, will he publish the full details of MoU he has agreed with the Irish Government.",
+   "dateTabled": "2026-03-18T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1888707,
+   "uin": "119131",
+   "heading": "Oil: Reserves",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what volume of the Republic of Ireland's national strategic oil reserve is held in UK-based storage.",
+   "dateTabled": "2026-03-09T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1886556,
+   "uin": "117217",
+   "heading": "Public Expenditure: Northern Ireland",
+   "questionText": "To ask the Chancellor of the Exchequer, if will list the Barnett consequentials received by the Northern Ireland Executive as a result of UK Government policy decisions on (a) energy, (b) fuel poverty, and (c) household energy support by (i) policy decisi",
+   "dateTabled": "2026-03-02T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1884126,
+   "uin": "115300",
+   "heading": "Veterinary Services: Regulation",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, when she plans to bring forward reforms to the Veterinary Surgeons Act 1966.",
+   "dateTabled": "2026-02-23T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1883106,
+   "uin": "114461",
+   "heading": "UK Trade with EU: Economic Situation",
+   "questionText": "To ask the Chancellor of the Exchequer, what value of goods have been identified as a threat to the European Union's economy and held at a check point between Great Britain and Northern Ireland since the introduction of the Windsor Framework by year.",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1878979,
+   "uin": "111376",
+   "heading": "Invictus Games",
+   "questionText": "To ask the Secretary of State for Defence, how much funding his Department has provided to (a) the Invictus Games and (b) UK participants in the Invictus Games (i) in each of the last three games and (ii) how much funding she plans to provide to UK partic",
+   "dateTabled": "2026-02-05T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1877667,
+   "uin": "110274",
+   "heading": "Periwinkles: Fisheries",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she has made of the potential merits of amending the closed season for periwinkle gathering in inter-tidal areas in England.",
+   "dateTabled": "2026-02-02T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1876199,
+   "uin": "109429",
+   "heading": "Driving Licences",
+   "questionText": "To ask the Secretary of State for Transport, whether she has considered introducing Graduated Driver Licenses for new drivers, in the context of levels of car insurance.",
+   "dateTabled": "2026-01-28T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1872894,
+   "uin": "106827",
+   "heading": "Robert Jones and Agnes Hunt Orthopaedic Hospital: Veterans",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many Northern Ireland resident veterans have accessed the Robert Jones and Agnes Hunt Orthopaedic Hospital in Gobowen in each of the last three years.",
+   "dateTabled": "2026-01-19T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1870912,
+   "uin": "105498",
+   "heading": "War Widow(er)s Recognition Payment",
+   "questionText": "To ask the Secretary of State for Defence, if he will provide a breakdown of the recipients of the War Widow(er)s Recognition Payment Scheme by (a) nation of the UK and (b) the branch of the Armed Forces in which their late spouse or partner served; and i",
+   "dateTabled": "2026-01-13T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1870911,
+   "uin": "105497",
+   "heading": "War Widow(er)s Recognition Payment",
+   "questionText": "To ask the Secretary of State for Defence, with reference to the closure of the War Widow(er)s Recognition Payment Scheme on 15 October 2025, what the final number of (a) applications received and (b) successful payments made was; and what his Department’",
+   "dateTabled": "2026-01-13T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1870586,
+   "uin": "105113",
+   "heading": "War Widow(er)s Recognition Payment",
+   "questionText": "To ask the Secretary of State for Defence, what proportion of war widowers eligible for the war widowers recognition payment received the payment in each of the last five years.",
+   "dateTabled": "2026-01-12T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1870585,
+   "uin": "105112",
+   "heading": "War Widow(er)s Recognition Payment",
+   "questionText": "To ask the Secretary of State for Defence, how many people are in receipt of the war widowers recognition payment by (a) constituency and (b) regiment.",
+   "dateTabled": "2026-01-12T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1869921,
+   "uin": "104586",
+   "heading": "Police Ombudsman for Northern Ireland: Vetting",
+   "questionText": "To ask the Secretary of State for Northern Ireland, pursuant to the answer of 8th January 2026 to Question 103096, who is responsible for requesting the national security vetting for the Northern Ireland Police Ombudsman.",
+   "dateTabled": "2026-01-09T00:00:00",
+   "answeringBodyName": "Northern Ireland Office"
+  },
+  {
+   "id": 1867360,
+   "uin": "102315",
+   "heading": "Listed Places of Worship Grant Scheme",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, if she will review the limit on the Listed Places of Worship Grant Scheme.",
+   "dateTabled": "2026-01-02T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1869084,
+   "uin": "104053",
+   "heading": "Media: Republic of Ireland",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, pursuant to the Answer of 7th January to Question 102317, on Shared Island Media Fund, if he will set out in detail the shared priorities between the UK and Ireland which are advanced by this ini",
+   "dateTabled": "2026-01-07T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1868453,
+   "uin": "103630",
+   "heading": "NHS: Drugs",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what mechanisms are in place for the Drug Tariff Committee and suppliers to provide input into revisions of the the Wave 1 Part IX categorisation published by the NHS Business Services Authority.",
+   "dateTabled": "2026-01-06T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1865442,
+   "uin": "101195",
+   "heading": "Armed Forces: Ministers of Religion",
+   "questionText": "To ask the Secretary of State for Defence, if he will provide an assessment on the role of Chaplains in the Armed Forces.",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1867958,
+   "uin": "103096",
+   "heading": "Police Ombudsman for Northern Ireland: Vetting",
+   "questionText": "To ask the Secretary of State for Northern Ireland, pursuant to the Answer of 5 January 2026 to Question 99008, who is responsible for conducting the national security vetting for the Northern Ireland Police Ombudsman.",
+   "dateTabled": "2026-01-05T00:00:00",
+   "answeringBodyName": "Northern Ireland Office"
+  },
+  {
+   "id": 1865444,
+   "uin": "101197",
+   "heading": "Science and Technology: Northern Ireland",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what assessment has been made of the adequacy of City Growth Deals in Northern Ireland for implementing outcomes aligned with the UK Science and Technology Framework.",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1867548,
+   "uin": "102316",
+   "heading": "Media: Republic of Ireland",
+   "questionText": "To ask the Secretary of State for Northern Ireland, what discussions he has had with the Irish Government on the €14million Shared Island Media initiative.",
+   "dateTabled": "2026-01-02T00:00:00",
+   "answeringBodyName": "Northern Ireland Office"
+  },
+  {
+   "id": 1867549,
+   "uin": "102317",
+   "heading": "Media: Republic of Ireland",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what discussions she has had with the Irish Government on the €14million Shared Island Media initiative.",
+   "dateTabled": "2026-01-02T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1865256,
+   "uin": "101100",
+   "heading": "Local Growth Fund: Northern Ireland",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, whether the Local Growth Fund 2024/25 has been allocated to the Northern Ireland Executive.",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1865443,
+   "uin": "101196",
+   "heading": "Stalking Protection Orders",
+   "questionText": "To ask the Secretary of State for the Home Department, for her assessment on the effectiveness of Stalking Prevention Orders.",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1862627,
+   "uin": "99008",
+   "heading": "Northern Ireland Police Ombudsman",
+   "questionText": "To ask the Secretary of State for the Home Department, whether the Northern Ireland Police Ombudsman’s national security vetting has been reviewed in the last 12 months: and whether the office holder has access to material classified as top secret.",
+   "dateTabled": "2025-12-10T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1863558,
+   "uin": "99616",
+   "heading": "Social Security Benefits: Northern Ireland",
+   "questionText": "To ask the Chancellor of the Exchequer, what steps she plans to take to enable the Northern Ireland Executive to retain monies received from identifying benefit fraud; and whether there is any blockage to this happening.",
+   "dateTabled": "2025-12-12T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1862402,
+   "uin": "98710",
+   "heading": "Motor Insurance Taskforce: Northern Ireland",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the Answer of 22 October 2024 to Question 9859 on Motor Insurance Taskforce: Northern Ireland, when she will publish the report from the Taskforce on motor insurance.",
+   "dateTabled": "2025-12-09T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1858701,
+   "uin": "96003",
+   "heading": "Blue Tongue Disease: Northern Ireland",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps she has taken in response to recent reports of Blue Tongue Disease being detected in Northern Ireland.",
+   "dateTabled": "2025-12-01T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1859029,
+   "uin": "906681",
+   "heading": "Invest NI: China Chamber of Commerce in the UK",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, whether her Department has had discussions with Invest Northern Ireland on its Strategic Cooperation Framework Memorandum of Understanding with the China Chamber of Commerce ",
+   "dateTabled": "2025-11-26T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1856791,
+   "uin": "94574",
+   "heading": "Asylum",
+   "questionText": "To ask the Secretary of State for the Home Department, pursuant to the Answer of 18 November to Question 92336, on Asylum: Republic of Ireland, if she provide the exact date when her Department first briefed the Irish Government on her proposed changes on",
+   "dateTabled": "2025-11-25T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1963348,
+   "uin": "46371",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Northern Ireland, what steps has he taken to promote the Defence Employment Recognition Scheme.",
+   "dateTabled": "2026-11-24T00:00:00",
+   "answeringBodyName": "Northern Ireland Office"
+  },
+  {
+   "id": 1963593,
+   "uin": "46124",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Defence, what checks the Army Reserve’s medical screening process makes against source clinical documents when a Summary Care Record coded entry indicates a disqualifying condition; what proportion of applicants rejected ",
+   "dateTabled": "2026-11-24T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1963681,
+   "uin": "45999",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Northern Ireland, when applications for the British Industrial Competitiveness Scheme or an equivalent scheme will open for Northern Ireland businesses.",
+   "dateTabled": "2026-11-24T00:00:00",
+   "answeringBodyName": "Northern Ireland Office"
+  },
+  {
+   "id": 1963678,
+   "uin": "45996",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Northern Ireland, how much funding has been identified for the Northern Ireland Executive for comparable support available through the British Industrial Competitiveness Scheme.",
+   "dateTabled": "2026-11-24T00:00:00",
+   "answeringBodyName": "Northern Ireland Office"
+  },
+  {
+   "id": 1963677,
+   "uin": "45995",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Work and Pensions, of the monies reclaimed through benefit fraud recovery in Northern Ireland how much has been returned to the Northern Ireland Executive in each of the last three years.",
+   "dateTabled": "2026-11-24T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1963760,
+   "uin": "45991",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Work and Pensions, what process is in place to return monies identified through benefit fraud in Northern Ireland to be returned to the Northern Ireland Executive.",
+   "dateTabled": "2026-11-24T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  }
+ ],
+ "historyComplete": true
+}

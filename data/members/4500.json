@@ -1,0 +1,1207 @@
+{
+ "id": 4500,
+ "fetchedOn": "2026-11-25",
+ "core": {
+  "id": 4500,
+  "nameListAs": "Lewis, Clive",
+  "nameDisplayAs": "Clive Lewis",
+  "nameFullTitle": "Clive Lewis MP",
+  "nameAddressAs": null,
+  "latestParty": {
+   "id": 15,
+   "name": "Labour",
+   "abbreviation": "Lab",
+   "backgroundColour": "d50000",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": true,
+   "governmentType": 0,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "Norwich South",
+   "membershipFromId": 4224,
+   "house": 1,
+   "membershipStartDate": "2015-05-07T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2024-07-04T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/4500/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2024-05-31T00:00:00",
+    "constituencyEnd": null,
+    "house": 1,
+    "name": "Norwich South",
+    "id": 4224,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "2010-04-13T00:00:00",
+    "constituencyEnd": "2024-05-30T00:00:00",
+    "house": 1,
+    "name": "Norwich South",
+    "id": 3663,
+    "startDate": "2015-05-07T00:00:00",
+    "endDate": "2024-05-30T00:00:00",
+    "additionalInfo": "Elected 3 times",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [],
+  "houseMemberships": [
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "2015-05-07T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Clive Lewis",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [],
+  "oppositionPosts": [
+   {
+    "house": 1,
+    "name": "Shadow Minister (Treasury)",
+    "id": 972,
+    "startDate": "2018-01-12T00:00:00",
+    "endDate": "2020-04-10T00:00:00",
+    "additionalInfo": "HM Treasury",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/hm-treasury"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Secretary of State for Business, Energy and Industrial Strategy",
+    "id": 1318,
+    "startDate": "2016-10-06T00:00:00",
+    "endDate": "2017-02-08T00:00:00",
+    "additionalInfo": "Department for Business, Energy and Industrial Strategy",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Secretary of State for Defence",
+    "id": 859,
+    "startDate": "2016-06-27T00:00:00",
+    "endDate": "2016-10-06T00:00:00",
+    "additionalInfo": "Ministry of Defence",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/ministry-of-defence"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Minister (Energy and Climate Change)",
+    "id": 961,
+    "startDate": "2015-09-18T00:00:00",
+    "endDate": "2016-06-27T00:00:00",
+    "additionalInfo": "Department of Energy and Climate Change",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-of-energy-climate-change"
+   }
+  ],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Labour",
+    "id": 15,
+    "startDate": "2015-05-07T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 1,
+    "name": "Public Accounts Committee",
+    "id": 127,
+    "startDate": "2015-07-07T00:00:00",
+    "endDate": "2015-10-26T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Science and Technology Committee (Commons)",
+    "id": 135,
+    "startDate": "2017-09-11T00:00:00",
+    "endDate": "2018-03-27T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Dormant Assets Bill [HL]",
+    "id": 568,
+    "startDate": "2021-12-15T00:00:00",
+    "endDate": "2022-01-11T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Public Service Pensions and Judicial Offices Bill [HL]",
+    "id": 578,
+    "startDate": "2022-01-19T00:00:00",
+    "endDate": "2022-01-27T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Environmental Audit Committee",
+    "id": 62,
+    "startDate": "2022-02-08T00:00:00",
+    "endDate": "2024-05-30T00:01:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Genetic Technology (Precision Breeding) Bill",
+    "id": 601,
+    "startDate": "2022-06-27T00:00:00",
+    "endDate": "2022-07-07T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Environmental Audit Sub-Committee on Polar Research",
+    "id": 650,
+    "startDate": "2023-01-18T00:00:00",
+    "endDate": "2024-05-30T00:01:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 12,
+   "name": "1. Employment and earnings",
+   "sortOrder": 0,
+   "interests": [
+    {
+     "id": 4286,
+     "interest": "Role, work or services: Writing an article\r\nPayer: Guardian News & Media Limited, PO Box 68164, Kings Place, 90 York Way, London N1P 2AP",
+     "createdWhen": "2024-04-18T15:19:49.7466667",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": [
+      {
+       "id": 15024,
+       "interest": "Payment: £480.64 Writing one article\r\nReceived on: 19 March 2026. Hours: 1.25 hrs Approximate.\r\n(Registered 16 April 2026)",
+       "createdWhen": "2026-04-29T09:39:41.7733333",
+       "lastAmendedWhen": null,
+       "deletedWhen": null,
+       "isCorrection": false,
+       "childInterests": []
+      },
+      {
+       "id": 15209,
+       "interest": "Payment: £453.30 One article published on 26 March 2026\r\nReceived on: 16 April 2026. Hours: 2 hrs Approximate.\r\n(Registered 12 May 2026)",
+       "createdWhen": "2026-05-19T09:45:27.0833333",
+       "lastAmendedWhen": null,
+       "deletedWhen": null,
+       "isCorrection": false,
+       "childInterests": []
+      },
+      {
+       "id": 17337,
+       "interest": "Payment: £336.37 One article published 24 September\r\nReceived on: 22 October 2026. Hours: 2 hrs Hours worked is approximate.\r\n(Registered 26 October 2026)",
+       "createdWhen": "2026-10-27T13:54:44.8466667",
+       "lastAmendedWhen": null,
+       "deletedWhen": null,
+       "isCorrection": false,
+       "childInterests": []
+      }
+     ]
+    },
+    {
+     "id": 12296,
+     "interest": "Role, work or services: Writing articles\r\nFrom: 24 April 2025.\r\nPayer: Byline Media Holdings Ltd, Churchill House, 137 - 139 Brent Street, London, England, NW4 4DJ\r\n(Registered 28 April 2025)",
+     "createdWhen": "2025-06-13T11:44:37.7545935",
+     "lastAmendedWhen": "2025-04-29T11:04:24.49",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": [
+      {
+       "id": 14117,
+       "interest": "Payment expected: £100 Payment for one article\r\nCompleted or provided on: 8 December 2025. Hours: 1 hr Approximate.\r\n(Registered 10 December 2025; updated 22 January 2026)",
+       "createdWhen": "2026-02-03T11:19:40.87",
+       "lastAmendedWhen": "2025-12-16T10:57:53.4266667",
+       "deletedWhen": null,
+       "isCorrection": false,
+       "childInterests": []
+      },
+      {
+       "id": 14118,
+       "interest": "Payment expected: £100 One article written\r\nCompleted or provided on: 10 December 2025. Hours: 1 hr Approximate.\r\n(Registered 10 December 2025; updated 22 January 2026)",
+       "createdWhen": "2026-02-03T11:19:40.87",
+       "lastAmendedWhen": "2025-12-16T10:57:53.4266667",
+       "deletedWhen": null,
+       "isCorrection": false,
+       "childInterests": []
+      },
+      {
+       "id": 15025,
+       "interest": "Payment: £400 One article written\r\nReceived on: 1 April 2026. Hours: 1.25 hrs Approximate.\r\n(Registered 16 April 2026)",
+       "createdWhen": "2026-04-29T09:39:41.7733333",
+       "lastAmendedWhen": null,
+       "deletedWhen": null,
+       "isCorrection": false,
+       "childInterests": []
+      },
+      {
+       "id": 16355,
+       "interest": "Payment: £200 One article written\r\nReceived on: 10 July 2026. Hours: 2 hrs Approximate.\r\n(Registered 14 July 2026)",
+       "createdWhen": "2026-08-18T09:10:47.44",
+       "lastAmendedWhen": null,
+       "deletedWhen": null,
+       "isCorrection": false,
+       "childInterests": []
+      },
+      {
+       "id": 16718,
+       "interest": "Payment: £200 \r\nReceived on: 10 July 2026. Hours: 2 hrs Approximate.\r\n(Registered 7 August 2026)",
+       "createdWhen": "2026-08-18T09:11:33.93",
+       "lastAmendedWhen": null,
+       "deletedWhen": null,
+       "isCorrection": false,
+       "childInterests": []
+      }
+     ]
+    },
+    {
+     "id": 15434,
+     "interest": "Role, work or services: Appearance as guest on radio programme\r\nPayer: Avalon Television Limited (Broadcast Production Company), 4a Exmoor Street, W10 6BD\r\n(Registered 11 June 2026)",
+     "createdWhen": "2026-06-16T08:57:44.1133333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": [
+      {
+       "id": 15435,
+       "interest": "Payment: £350 For one appearance on radio show\r\nReceived on: 24 April 2026. Hours: 1.5 hrs Approximate.\r\n(Registered 11 June 2026)",
+       "createdWhen": "2026-06-16T08:57:44.1133333",
+       "lastAmendedWhen": null,
+       "deletedWhen": null,
+       "isCorrection": false,
+       "childInterests": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "name": "2. (b) Any other support not included in Category 2(a)",
+   "sortOrder": 1,
+   "interests": [
+    {
+     "id": 12682,
+     "interest": "Name of donor: Compass - Together for a Good Society Ltd\r\nAddress of donor: 10 Salamanca Place, London SE1 7HB\r\nAmount of donation or nature and value if donation in kind: Provision of the services of staff to support some of my Parliamentary campaigns and activities relating to water, via Toussaint Ventures Ltd (actual), value £6,903.75\r\nDate received: 23 June 2025 to 31 October 2025\r\nDate accepted: 23 June 2025\r\nDonor status: company, registration 05391145\r\n(Registered 23 June 2025; updated 20 November 2025)",
+     "createdWhen": "2025-12-02T09:18:14.72",
+     "lastAmendedWhen": "2025-07-01T10:56:32.82",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 13653,
+     "interest": "Name of donor: Compass - Together for a Good Society Ltd\r\nAddress of donor: 10 Salamanca Place, London SE1 7HB\r\nAmount of donation or nature and value if donation in kind: In-kind support from a member of staff for policy and communications activities. The staff member provided support while seconded to Mainstream Labour Ltd. Estimated value was previously declared, now updated with actual, value £1,312.88\r\nDate received: 27 October 2025 to 31 October 2026\r\nDate accepted: 27 October 2025\r\nDonor status: company, registration 05391145\r\n(Registered 28 October 2025; updated 2 November 2026)",
+     "createdWhen": "2026-11-16T14:03:34.3707147",
+     "lastAmendedWhen": "2026-11-10T10:50:17.8",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 13758,
+     "interest": "Name of donor: Compass - Together for a Good Society Ltd\r\nAddress of donor: 10 Salamanca Place, SE1 7HB\r\nAmount of donation or nature and value if donation in kind: Provision of the services of staff to support some of my Parliamentary campaigns and activities (actual amount), value £12,299.60\r\nDate received: 1 November 2025 to 31 March 2026\r\nDate accepted: 3 November 2025\r\nDonor status: company, registration 05391145\r\n(Registered 4 November 2025; updated 16 April 2026)",
+     "createdWhen": "2026-04-29T09:39:41.7733333",
+     "lastAmendedWhen": "2025-11-18T10:09:54.13",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 14315,
+     "interest": "Name of donor: Good Law Project Ltd\r\nAddress of donor: 3 East Point High Street, Seal, Sevenoaks, Kent TN15 0EG\r\nAmount of donation or nature and value if donation in kind: £2,700 provision of pro bono support for a complaint to the Charity Commission about the Institute for Economic Affairs (actual amount).\r\nDate received: 1 January 2026 to 31 March 2026\r\nDate accepted: 12 January 2026\r\nDonor status: company, registration 10556197\r\n(Registered 12 January 2026; updated 3 March 2026 and 17 April 2026)",
+     "createdWhen": "2026-04-29T09:39:41.7733333",
+     "lastAmendedWhen": "2026-03-10T14:51:06.16",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 15026,
+     "interest": "Name of donor: Compass - Together for a Good Society Ltd\r\nAddress of donor: 10 Salamanca Place, SE1 7HB\r\nAmount of donation or nature and value if donation in kind: Provision of the services of staff to support some of my Parliamentary campaigns and activities (estimate), value £26,210\r\nDate received: 1 April 2026 to 1 April 2027\r\nDate accepted: 1 April 2026\r\nDonor status: company, registration 05391145\r\n(Registered 16 April 2026)",
+     "createdWhen": "2026-04-29T09:39:41.7733333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 16093,
+     "interest": "Name of donor: Good Law Project Ltd\r\nAddress of donor: 3 East Point High Street, Seal, Sevenoaks, Kent, TN15 0EG\r\nAmount of donation or nature and value if donation in kind: £500 provision of pro bono support for a complaint to the Charity Commission about the Institute for Economic Affairs (estimate)\r\nDate received: 1 July 2026 to 30 September 2026\r\nDate accepted: 1 July 2026\r\nDonor status: company, registration 10556197\r\n(Registered 2 July 2026)",
+     "createdWhen": "2026-07-14T09:29:28.21",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "name": "3. Gifts, benefits and hospitality from UK sources",
+   "sortOrder": 2,
+   "interests": [
+    {
+     "id": 13988,
+     "interest": "Name of donor: Compass - Together for a Good Society Ltd\r\nAddress of donor: 10 Salamanca Place, SE1 7HB\r\nAmount of donation or nature and value if donation in kind: Travel and refreshments provided as part of attendance at a meeting (approximate), value £294.88\r\nDate received: 22 November 2025\r\nDate accepted: 22 November 2025\r\nDonor status: company, registration 05391145\r\n(Registered 27 November 2025)",
+     "createdWhen": "2025-12-02T09:18:37.4033333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 13987,
+     "interest": "Name of donor: Compass - Together for a Good Society Ltd\r\nAddress of donor: 10 Salamanca Place, London SE1 7HB\r\nAmount of donation or nature and value if donation in kind: Ticket provided as part of a speaking engagement, delivering the Robin Cook Memorial Lecture, value £7\r\nDate received: 18 September 2025\r\nDate accepted: 18 September 2025\r\nDonor status: company, registration 05391145\r\n(Registered 27 November 2025)",
+     "createdWhen": "2025-12-02T09:18:37.4033333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 14078,
+     "interest": "Name of donor: Compass - Together for a Good Society Ltd\r\nAddress of donor: 10 Salamanca Place, London SE1 7HB\r\nAmount of donation or nature and value if donation in kind: £254 reimbursement for accommodation paid for as part of attendance at a meeting (exact)\r\nDate received: 4 December 2025\r\nDate accepted: 4 December 2025\r\nDonor status: company, registration 05391145\r\n(Registered 5 December 2025)",
+     "createdWhen": "2025-12-16T10:57:41.7166667",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 16623,
+     "interest": "Name of donor: Womad Festivals Limited\r\nAddress of donor: Millside, Mill Lane, Box,Corsham, Wiltshire SN13 8PL\r\nAmount of donation or nature and value if donation in kind: Four tickets (two adult and two child) for Womad Festival 2026, for attendance in relation to a speaking engagement at the World of Words stage. Tickets included parking and camping and a 2-person tent, value £1,009\r\nDate received: 24 July 2026 to 27 July 2026\r\nDate accepted: 24 July 2026\r\nDonor status: company, registration 06816897\r\n(Registered 28 July 2026)",
+     "createdWhen": "2026-08-18T09:11:22.3633333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 16713,
+     "interest": "Name of donor: Optimistic Trout Productions CIC\r\nAddress of donor: 87 Locks Hill, Frome BA11 1NH\r\nAmount of donation or nature and value if donation in kind: Hospitality received for a speaking engagement at Green Gathering festival. Consists of two tickets (myself and a plus one), one parking pass, a meal and a drink, value £428.50\r\nDate received: 30 July 2026 to 3 August 2026\r\nDate accepted: 30 July 2026\r\nDonor status: company, registration 07460992\r\n(Registered 7 August 2026)",
+     "createdWhen": "2026-08-18T09:11:33.93",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "name": "4. Visits outside the UK",
+   "sortOrder": 3,
+   "interests": [
+    {
+     "id": 13787,
+     "interest": "Name of donor: Friedrich-Ebert-Stiftung\r\nAddress of donor: FES Regional Office for International Cooperation, Reichsratsstraße 13/5, 1010 Vienna Austria\r\nEstimate of the probable value (or amount of any donation): Flights (£527.39), hotel (£348.83), meals (£144.86) and in-country transport (£31.68), value £1,052.76\r\nDestination of visit: Spain\r\nDates of visit: 26 October 2025 to 28 October 2025\r\nPurpose of visit: To attend a Parliamentarians forum on the rise of the far right\r\n(Registered 6 November 2025)",
+     "createdWhen": "2025-11-18T10:09:54.13",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 17078,
+     "interest": "Name of donor: Landsorganisasjonen i Norge\r\nAddress of donor: Landsorganisasjonen i Norge (LO), Torggata 12, 0181 Oslo, Norway\r\nEstimate of the probable value (or amount of any donation): Flights (£598.95); transport to and from airports (£142.16); accommodation (£347.88); meals (£123.08); and two gifts (one Norwegian glass bowl - £31.64 estimated; one voucher for Utøya island in Norway - £11.87). Costs have been manually converted from Norwegian Krona, value £1,255.58\r\nDestination of visit: Norway (Oslo)\r\nDates of visit: 10 September 2026 to 11 September 2026\r\nPurpose of visit: Speaking at an event entitled \"How does terrorism change our society\" as part of a series commemorating the terror attacks in Norway in 2011. Landsorganisasjonen i Norge (the donor) are the Norwegian Trade Union Federation and organised the event.\r\n(Registered 28 September 2026)",
+     "createdWhen": "2026-10-13T09:27:10.3533333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 17461,
+     "interest": "Name of donor: Friedrich-Ebert-Stiftung\r\nAddress of donor: Friedrich-Ebert-Stiftung, Bureau de Paris, 41 bis, bd. de la Tour-Maubourg, 75007, Paris\r\nEstimate of the probable value (or amount of any donation): Outbound & return Eurostar travel (£320.00); Accommodation (£598.73); meals (£112.59). Costs have been manually converted from Euros, value £1,031.32\r\nDestination of visit: France (Paris)\r\nDates of visit: 18 October 2026 to 20 October 2026\r\nPurpose of visit: To attend a Parliamentarians forum on the rise of the far right\r\n(Registered 5 November 2026)",
+     "createdWhen": "2026-11-10T10:50:06.04",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 17595,
+     "interest": "Name of donor: (1) Global Justice Now  (2) Progressive International (Services) Ltd\r\nAddress of donor: (1) 66 Offley Road, London SW9 0LS  (2) 71-75 Shelton Street, Covent Garden, London WC2H 9JQ\r\nEstimate of the probable value (or amount of any donation): (1) Delegate fee (£666.32), flights (£975.18), additional luggage (£59), sundry costs (£50), visa (£5.87) (costs have been converted from Euros), value £1,756.37  (2) Participation cost minus delegate fee (cost has been converted from Euros), value £666.32\r\nDestination of visit: Jordan\r\nDates of visit: 25 October 2026 to 1 November 2026\r\nPurpose of visit: Attendance at the Second Congress on the Decolonisation of Palestine\r\n(Registered 18 November 2026)",
+     "createdWhen": "2026-11-24T09:40:52.78",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "name": "6. Land and property portfolio with a value over £100,000 and where indicated, the portfolio provides a rental income of over £10,000 a year",
+   "sortOrder": 4,
+   "interests": [
+    {
+     "id": 2400,
+     "interest": "Type of land/property: Residential property (house)\r\nNumber of properties: 1\r\nLocation: Norwich\r\nInterest held: from 31 October 2018\r\nOwnership details: Half share\r\n(Registered 23 July 2019)",
+     "createdWhen": "2026-02-09T14:20:44.8472332",
+     "lastAmendedWhen": "2024-04-18T15:16:46.0833333",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "name": "7. (i) Shareholdings: over 15% of issued share capital",
+   "sortOrder": 5,
+   "interests": [
+    {
+     "id": 2503,
+     "interest": "Name of company or organisation: Toussaint Ventures Ltd\r\nNature of business: Provides support for my political campaigning and activities.\r\nInterest held: from 15 July 2022\r\n(Registered 8 August 2022; updated 14 February 2024)",
+     "createdWhen": "2024-04-18T15:17:35.53",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "name": "8. Miscellaneous",
+   "sortOrder": 6,
+   "interests": [
+    {
+     "id": 1868,
+     "interest": "Unpaid Director of Toussaint Ventures Ltd, which provides support for my political campaigning and activities.\r\nDate interest arose: 15 July 2022\r\n(Registered 8 August 2022; updated 14 February 2024)",
+     "createdWhen": "2024-04-18T15:20:17.9633333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 11807,
+     "interest": "Governor at Lakenham Primary School, Norwich. This is an upaid role.\r\nDate interest arose: 13 February 2025\r\n(Registered 14 February 2025)",
+     "createdWhen": "2025-02-25T12:41:06.54",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 11837,
+     "interest": "Joint crowdfunder between myself (via Toussaint Ventures Ltd) and Compass - Together for a Good Society Ltd, to raise funds to support my political activities and water campaign. Donations that meet the threshold will be registered under Category 2.\r\nDate interest arose: 19 February 2025\r\nDate interest ended: 23 March 2026\r\n(Registered 23 February 2025; updated 23 March 2026)",
+     "createdWhen": "2026-04-01T13:27:11.3340153",
+     "lastAmendedWhen": "2026-03-24T10:21:44.42",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 12463,
+     "interest": "Name of donor: Good Law Project\r\nProvision of Pro Bono support for a complaint to the Charity Commission about the Institute for Economic Affairs. (Registrable donations will be listed under Category 2.)\r\nDate interest arose: 7 May 2025\r\n(Registered 20 May 2025)",
+     "createdWhen": "2026-06-03T15:26:15.4741277",
+     "lastAmendedWhen": "2025-06-03T08:58:54.9466667",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 12574,
+     "interest": "Crowdfunder run by myself (via Toussaint Ventures Ltd) to raise funds to support my political activities. Donations that meet the threshold will be registered under Category 2.\r\nDate interest arose: 18 May 2025\r\n(Registered 4 June 2025)",
+     "createdWhen": "2025-06-17T09:22:17.8233333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 12567,
+     "interest": "Editorial Board member, Renewal: A Journal of Social Democracy (published by Compass - Together for a Good Society Ltd). This is an unpaid role.\r\nDate interest arose: 3 June 2025\r\n(Registered 4 June 2025)",
+     "createdWhen": "2025-06-17T09:22:17.8233333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 12575,
+     "interest": "Chair of the British Caribbean Association\r\nDate interest arose: 1 March 2023\r\n(Registered 4 June 2025)\r\nThis is a late entry to which the rectification procedure was applied on 1 September 2025. Paragraph 51 of the Procedural Protocol in respect of the Code \r\nof Conduct refers.",
+     "createdWhen": "2025-09-17T08:37:02.4666667",
+     "lastAmendedWhen": "2025-06-17T09:22:17.8233333",
+     "deletedWhen": null,
+     "isCorrection": true,
+     "childInterests": []
+    },
+    {
+     "id": 12941,
+     "interest": "Vice Chair of the Climate and Nature Crisis Caucus. The secretariat is provided by Zero Hour Ltd. Related donations that meet the threshold will be registered separately.\r\nDate interest arose: 15 July 2025\r\n(Registered 21 July 2025)",
+     "createdWhen": "2025-08-05T09:51:22.8233333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 13991,
+     "interest": "Executive Committee Member, British Group Inter-Parliamentary Union\r\nDate interest arose: 26 November 2025\r\n(Registered 27 November 2025)",
+     "createdWhen": "2025-12-02T09:18:37.4033333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 14038,
+     "interest": "Staff support provided by Trumble Films Ltd. This was previously registered under Category 2(b) but the final value was below the threshold for that category.\r\nDate interest arose: 7 November 2025\r\nDate interest ended: 30 November 2025\r\n(Registered 30 November 2025)",
+     "createdWhen": "2025-12-02T09:18:48.95",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 16633,
+     "interest": "Board member for West Earlham & Bowthorpe Pride in Place. This is an unpaid role.\r\nDate interest arose: 29 July 2026\r\n(Registered 29 July 2026)",
+     "createdWhen": "2026-08-18T09:11:22.3633333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [],
+ "synopsis": "Clive Lewis is the Labour MP for <a href='/constituency/4224/overview'>Norwich South</a>, and has been an MP continually since 7 May 2015.",
+ "history": [
+  {
+   "id": 1961140,
+   "uin": "44199",
+   "heading": "Palantir: Contracts",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what assessment has been made of potential implications for his Department's polices of exits from contracts or exclusion of Palantir from bidding, in France, Switzerland, th",
+   "dateTabled": "2026-11-17T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1962093,
+   "uin": "44886",
+   "heading": "Data Centres: Public Consultation",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, whether his Department consulted private companies on the National Policy Statement for Data Centres.",
+   "dateTabled": "2026-11-19T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1962092,
+   "uin": "44885",
+   "heading": "NHS: Databases",
+   "questionText": "To ask the Secretary of State for Health and Social Care, if she will publish her Department's agreement for the NHS Federated Data Platform with Palantir.",
+   "dateTabled": "2026-11-19T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1954323,
+   "uin": "38934",
+   "heading": "Political Parties: Finance",
+   "questionText": "To ask the Minister for the Cabinet Office, if she will publish the membership, terms of reference, and proposed reporting timelines of the cross-government task and finish group examining the issue of large domestic political donations announced at Commo",
+   "dateTabled": "2026-10-28T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1955388,
+   "uin": "39817",
+   "heading": "Water Supply: Regulation",
+   "questionText": "To ask the Minister for the Cabinet Office, what individuals or organisations from central, regional and local government, as well as wider academia, business and civil society, are represented on the Public Control Taskforce for water.",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1953175,
+   "uin": "37963",
+   "heading": "Biometrics",
+   "questionText": "To ask the Secretary of State for the Home Department, when her Department plans to publish its response to the consultation on a new legal framework for law enforcement use of biometrics, facial recognition and similar technologies; and, with reference t",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1946735,
+   "uin": "32876",
+   "heading": "Public Control Taskforce",
+   "questionText": "To ask the Minister for the Cabinet Office, if she will she make public the membership of the Public Control taskforce, and when she will make public the taskforce's terms of reference.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1924832,
+   "uin": "16459",
+   "heading": "Business: Regulation",
+   "questionText": "To ask the Secretary of State for Business and Trade, in relation to his Department’s review of Responsible Business Conduct, if he will (i) set out the process and timeline for completion and (ii) whether he plans to publish the review.",
+   "dateTabled": "2026-07-07T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1914026,
+   "uin": "8110",
+   "heading": "Palantir",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether his Department was informed that staff of Palantir Technologies UK Limited and external consultants had been granted administrative roles providing unrestricted access to identifiable patie",
+   "dateTabled": "2026-06-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1911870,
+   "uin": "6451",
+   "heading": "HMP Wormwood Scrubs: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the adequacy of healthcare provision for prisoners with neuromuscular and other progressive conditions at HMP Wormwood Scrubs; and what steps he is taking to ensure t",
+   "dateTabled": "2026-06-03T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1907918,
+   "uin": "3368",
+   "heading": "Water: Regulation",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment he has made of the potential merits of ensuring a nationwide presence of offices for the new water regulator in England.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1907915,
+   "uin": "3365",
+   "heading": "Water: Regulation",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether steps are being taken to provide staff transferring to a new water regulator in England with (a) a single set of terms and conditions, (b) access to the Civil Service Pension S",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1906659,
+   "uin": "2107",
+   "heading": "Water: Regulation",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what recent discussions she has had with trade unions on the proposed new water regulator for England.",
+   "dateTabled": "2026-05-18T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1906192,
+   "uin": "1695",
+   "heading": "Midwives",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps his Department is taking to (a) support the recruitment and training of midwives and (b) increase the availability of employment opportunities for newly qualified midwives.",
+   "dateTabled": "2026-05-15T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1908165,
+   "uin": "3408",
+   "heading": "Water Companies",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether there were (a) formal minutes and (b) formal agendas for the meetings held between Ministers and Water company CEOs for the last three months of 2025.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1906199,
+   "uin": "1699",
+   "heading": "Science and Technology Facilities Council: Finance",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what discussions her Department has had with the Institute of Physics and Royal Astronomical Society on the planned changes to the budget of the Science and Technology Facilities Counci",
+   "dateTabled": "2026-05-15T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1906196,
+   "uin": "1698",
+   "heading": "Science and Technology Facilities Council: Finance",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, whether the Department has conducted an impact assessment on changes in the level of funding by the Science and Technology Facilities Council on trends in the level of (a) economic deve",
+   "dateTabled": "2026-05-15T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1906194,
+   "uin": "1697",
+   "heading": "Equality and Human Rights Commission: Codes of Practice",
+   "questionText": "To ask the Minister for Women and Equalities, what steps she is taking to include Trans safety in the implementation of the updated EHRC Code of Practice.",
+   "dateTabled": "2026-05-15T00:00:00",
+   "answeringBodyName": "Women and Equalities"
+  },
+  {
+   "id": 1906193,
+   "uin": "1696",
+   "heading": "Equality and Human Rights Commission: Codes of Practice",
+   "questionText": "To ask the Minister for Women and Equalities, how she plans to support businesses groups who wish to remain trans inclusive in the context of the updated EHRC Code of Practice.",
+   "dateTabled": "2026-05-15T00:00:00",
+   "answeringBodyName": "Women and Equalities"
+  },
+  {
+   "id": 1904446,
+   "uin": "222",
+   "heading": "Palantir: Contracts",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what is the content of the advice he has been given on the contract and performance of Palantir and the Federated Data Platform, particularly in relation to triggering the break clause in March 202",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1895592,
+   "uin": "124134",
+   "heading": "ME/CFS: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether an impact assessment has been conducted of delaying consideration of a specialised commissioned service until April 2027 on patients with Myalgic Encephalomyelitis (also known as Chronic Fa",
+   "dateTabled": "2026-03-26T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1902848,
+   "uin": "129495",
+   "heading": "Biometrics",
+   "questionText": "To ask the Secretary of State for the Home Department, whether her Department has issued guidance on using experimental methods in conjunction with facial recognition.",
+   "dateTabled": "2026-04-23T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1902849,
+   "uin": "129496",
+   "heading": "Police Custody: Photographs",
+   "questionText": "To ask the Secretary of State for the Home Department, what assessment she has made of the potential merits of introducing a statutory requirement for the deletion of custody images where no (a) charge and (b) conviction follows.",
+   "dateTabled": "2026-04-23T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1897593,
+   "uin": "125539",
+   "heading": "NHS: Palantir",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether he has sought advice on triggering the break clause in Palantir’s contract with the NHS.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1902222,
+   "uin": "129200",
+   "heading": "Shivat Zion",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, if she will take steps to impose sanctions on the CEO of Israeli charity Shivat Zion, Shraga Evers, and the charity's official, Jonathan Vigné, in the context of support for ",
+   "dateTabled": "2026-04-22T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1879211,
+   "uin": "111173",
+   "heading": "Lord Mandelson",
+   "questionText": "To ask the Secretary of State for Defence, whether (a) he or (b) any members of his Department met with or corresponded with Lord Mandelson on Palantir.",
+   "dateTabled": "2026-02-05T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1899507,
+   "uin": "127118",
+   "heading": "Legal Aid Scheme: Norwich South",
+   "questionText": "To ask the Secretary of State for Justice, what assessment his Department has made of the adequacy of face-to-face civil legal aid provision for the residents of Norwich South constituency; when the provision was last reviewed; and what steps his Departme",
+   "dateTabled": "2026-04-14T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1897359,
+   "uin": "125305",
+   "heading": "Biometrics: Research",
+   "questionText": "To ask the Secretary of State for the Home Department, what guidance her Department has issued on using experimental methods in conjunction with facial recognition; and who is responsible for enforcing that guidance.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1897358,
+   "uin": "125304",
+   "heading": "CCTV: Biometrics",
+   "questionText": "To ask the Secretary of State for the Home Department, what assessment she has made of the potential impact of integrating facial recognition into existing CCTV infrastructure on civil liberties.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1897357,
+   "uin": "125303",
+   "heading": "Police Custody: Photographs",
+   "questionText": "To ask the Secretary of State for the Home Department, what assessment she has made of the potential merits of introducing a statutory requirement for the deletion of custody images where no charge or conviction follows.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1897354,
+   "uin": "125300",
+   "heading": "Surveillance",
+   "questionText": "To ask the Secretary of State for the Home Department, what assessment she has made of the proportionality of deploying mass surveillance technology to address low level offences.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1897352,
+   "uin": "125298",
+   "heading": "Police: Biometrics",
+   "questionText": "To ask the Secretary of State for the Home Department, what assessment she has made of the cost-effectiveness of police use of live facial recognition technology in comparison to traditional policing methods.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1895487,
+   "uin": "124119",
+   "heading": "Development Aid",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, whether she has had discussions with her US counterpart on the 2025 UK USAID aid cuts.",
+   "dateTabled": "2026-03-26T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1866863,
+   "uin": "101779",
+   "heading": "Dental Services: Finance",
+   "questionText": "To ask the Secretary of State for Health and Social Care, when he expects the Spending Review budget allocations for his Department to be finalised and an allocation made to future ringfenced spending on NHS dentistry.",
+   "dateTabled": "2026-01-02T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1879213,
+   "uin": "111175",
+   "heading": "Lord Mandelson",
+   "questionText": "To ask the Secretary of State for the Home Department, whether (a) she or (b) any members of her Department met or corresponded with Lord Mandelson on Palantir.",
+   "dateTabled": "2026-02-05T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1894540,
+   "uin": "123353",
+   "heading": "Nurseries: Finance",
+   "questionText": "To ask the Secretary of State for Education, what steps her Department is taking to address disparities in hourly rates in relation to national funding for nurseries.",
+   "dateTabled": "2026-03-24T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1894539,
+   "uin": "123352",
+   "heading": "Nurseries: Finance",
+   "questionText": "To ask the Secretary of State for Education, how calculations of national funding rates by age group for nurseries are currently conducted.",
+   "dateTabled": "2026-03-24T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1894545,
+   "uin": "123356",
+   "heading": "Development Aid: Climate Change",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what the exact figure is of ODA that will be spent on International Climate Finance.",
+   "dateTabled": "2026-03-24T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1894543,
+   "uin": "123354",
+   "heading": "Development Aid",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, whether it has conducted an impact assessment of the recent announcement to reduce its development budget to 0.3% of Gross National Income by 2027.",
+   "dateTabled": "2026-03-24T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1894536,
+   "uin": "123351",
+   "heading": "Gender Dysphoria: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether there has been any considerations to stop working with unregulated private clinics in prescribing gender-affirming care for adults.",
+   "dateTabled": "2026-03-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1894532,
+   "uin": "123350",
+   "heading": "Immigration: Fees and Charges",
+   "questionText": "To ask the Secretary of State for the Home Department, whether an impact assessment into the policy paper on Home Office immigration and nationality fees, due to increase from 8 April 2026, has been conducted.",
+   "dateTabled": "2026-03-24T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1889575,
+   "uin": "119370",
+   "heading": "Biometrics: Ethnic Groups",
+   "questionText": "To ask the Secretary of State for the Home Department, what assessment she has made of the adequacy of the safeguards in place to mitigate racial and other bias in the use of retrospective facial recognition technology.",
+   "dateTabled": "2026-03-10T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1889573,
+   "uin": "119369",
+   "heading": "Biometrics: Police National Database",
+   "questionText": "To ask the Secretary of State for the Home Department, what guidance is in place relating to the thresholds at which retrospective facial recognition searches of the Police National Database may be operated.",
+   "dateTabled": "2026-03-10T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1889572,
+   "uin": "119368",
+   "heading": "Police: Biometrics",
+   "questionText": "To ask the Secretary of State for the Home Department, when the Idemia facial recognition algorithm for Home Office strategic facial matching will be rolled out across police forces.",
+   "dateTabled": "2026-03-10T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1889571,
+   "uin": "119367",
+   "heading": "Biometrics: Arrests",
+   "questionText": "To ask the Secretary of State for the Home Department, what steps she has taken to determine the number of people who may have been wrongly arrested or questioned by police as a result of incorrect facial recognition matches produced by the Cognitec FaceV",
+   "dateTabled": "2026-03-10T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1889570,
+   "uin": "119366",
+   "heading": "Biometrics: Arrests",
+   "questionText": "To ask the Secretary of State for the Home Department, what estimate she has made of the number of people who may have been wrongly arrested or questioned by police as a result of incorrect facial recognition matches produced by the Cognitec FaceVACS-DBSc",
+   "dateTabled": "2026-03-10T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1890850,
+   "uin": "120412",
+   "heading": "BBC: Pilot Schemes",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what assessment she has made of the implications for her policies of the BBC proposals in A BBC For All to pilot audience forums such as citizens assemblies.",
+   "dateTabled": "2026-03-12T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1890849,
+   "uin": "120411",
+   "heading": "BBC: Public Appointments",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what assessment she has made of the implications for her policies of the BBC proposals in, A BBC For All, that all future Non-Executive Director (NED) appointments to the Board should follow a de",
+   "dateTabled": "2026-03-12T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1890848,
+   "uin": "120410",
+   "heading": "BBC: Finance",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what assessment she has made of the implications for her policies of the BBC proposals, A BBC For All, to ensure the BBC’s funding level is subject to effective and transparent scrutiny.",
+   "dateTabled": "2026-03-12T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1890847,
+   "uin": "120409",
+   "heading": "BBC: Royal Charters",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what assessment she has made of the implications for her policies of the BBC's document entitled a A BBC For All to remove a fixed expiry date on the BBC’s Royal Charter.",
+   "dateTabled": "2026-03-12T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1889719,
+   "uin": "119373",
+   "heading": "Telecommunications Cables",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, whether he has made an assessment of the potential merits of alternate infrastructure to replace copper wire ADSL systems.",
+   "dateTabled": "2026-03-10T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1889577,
+   "uin": "119372",
+   "heading": "Fossil Fuels: Dispute Resolution",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, if his Department will adopt negotiating objectives for addressing international legal barriers, particularly those arising from investor-state dispute settlement (ISDS), during the First Con",
+   "dateTabled": "2026-03-10T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1889576,
+   "uin": "119371",
+   "heading": "Fossil Fuels: Conferences",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, whether a representative of his Department will attend the First Conference on Transitioning Away from Fossil Fuels, hosted by the Colombian and Dutch governments.",
+   "dateTabled": "2026-03-10T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1879212,
+   "uin": "111174",
+   "heading": "Lord Mandelson",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether (a) he or (b) any members of his Department met or corresponded with Lord Mandelson on Palantir.",
+   "dateTabled": "2026-02-05T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1882500,
+   "uin": "113775",
+   "heading": "Water Companies: Microplastics",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, pursuant to UIN 89500, if she will publish a list of water companies which confirmed the use biobeads.",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1882247,
+   "uin": "113622",
+   "heading": "Water Supply",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, pursuant to UIN 107393, where the Minister responded that \"there was not a formal working group for the White Paper\", to clarify whether her Department intends to issue a correction to",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1879214,
+   "uin": "111176",
+   "heading": "Lord Mandelson",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, whether (a) she or (b) any members of her Department met or corresponded with Lord Mandelson on Palantir.",
+   "dateTabled": "2026-02-05T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1875558,
+   "uin": "108698",
+   "heading": "Artificial Intelligence: Redundancy",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what assessment he has made of the potential implications for his policies of research by Morgan Stanley for Bloomberg published on 26 January 2026 showing that the UK has experienced 8",
+   "dateTabled": "2026-01-27T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1873873,
+   "uin": "107393",
+   "heading": "Water Supply",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, with reference to the policy paper entitled A new vision for water: white paper, published on 20 January 2026, how members of the working groups were selected; which (a) people and (b)",
+   "dateTabled": "2026-01-21T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1871094,
+   "uin": "105262",
+   "heading": "State Retirement Pensions: Women",
+   "questionText": "To ask the Secretary of State for Work and Pensions, if he will make an assessment of the potential impact of State Pension age changes for 1950s-born women living in Norwich South constituency.",
+   "dateTabled": "2026-01-13T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1871074,
+   "uin": "105261",
+   "heading": "BBC: Royal Charters",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, if she will consider putting proposals relating to the next BBC Charter to a vote in Parliament.",
+   "dateTabled": "2026-01-13T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1866965,
+   "uin": "101783",
+   "heading": "Water Companies: Regulation",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, when she plans to publish the Water Sector Reform White Paper.",
+   "dateTabled": "2026-01-02T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1866866,
+   "uin": "101782",
+   "heading": "Police: Biometrics",
+   "questionText": "To ask the Secretary of State for the Home Department, pursuant to the Answer of 15 December 2025 to Question 97805 on Police: Biometrics, what the (a) planned timescales and (b) terms of reference are for the two HMICFRS reviews referred to.",
+   "dateTabled": "2026-01-02T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1866865,
+   "uin": "101781",
+   "heading": "Police: Biometrics",
+   "questionText": "To ask the Secretary of State for the Home Department, pursuant to UIN 97805 answered on 15 December 2025, whether estimates have been made of the number of potential misidentifications made by police as a result of potential bias in the PND facial search",
+   "dateTabled": "2026-01-02T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1866864,
+   "uin": "101780",
+   "heading": "Police: Biometrics",
+   "questionText": "To ask the Secretary of State for the Home Department, pursuant to UIN 97805 answered on 15 December 2025, when the Home Office first learned of potential bias in the current PND facial search algorithm.",
+   "dateTabled": "2026-01-02T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1860555,
+   "uin": "97147",
+   "heading": "Immigration: Equality",
+   "questionText": "To ask the Secretary of State for the Home Department, if she will publish an Equalities Impact Assessment for her proposed earned settlement model.",
+   "dateTabled": "2025-12-04T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1861700,
+   "uin": "97805",
+   "heading": "Police: Biometrics",
+   "questionText": "To ask the Secretary of State for the Home Department, if she will make an assessment of the potential implications for her policies of the findings of the report by the National Physical Laboratory, published on 4 December 2025, on the use of facial reco",
+   "dateTabled": "2025-12-08T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1858810,
+   "uin": "95688",
+   "heading": "Visas: Married People",
+   "questionText": "To ask the Secretary of State for the Home Department, if the application of the new individual earnings requirement applies to spouses of UK citizens who are retired, carers, or stay-at-home parents.",
+   "dateTabled": "2025-12-01T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1857985,
+   "uin": "95087",
+   "heading": "Mikhail Fridman",
+   "questionText": "To ask the Secretary of State for Business and Trade, what assessment he has made of the likely costs of defending the arbitration being brought against the Government by Mikhail Fridman.",
+   "dateTabled": "2025-11-27T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1857986,
+   "uin": "95088",
+   "heading": "Trade Agreements and Treaties",
+   "questionText": "To ask the Secretary of State for Business and Trade, what review processes the Government has in place to assess the suitability of its trade and investment treaty commitments, including those over thirty-five years old, such as the UK-Russia Bilateral I",
+   "dateTabled": "2025-11-27T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1961139,
+   "uin": "44198",
+   "heading": "Government Departments: Digital Technology",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what assessment her Department has made of the extent to which central government departments give consideration to open-source software when procuring or developing digital services; an",
+   "dateTabled": "2026-11-17T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1961137,
+   "uin": "44196",
+   "heading": "Government Departments: Digital Technology",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what role the Government Digital Service has in reducing levels of risks from long-term dependence on a limited number of technology suppliers; and what arrangements are in place to coor",
+   "dateTabled": "2026-11-17T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1961135,
+   "uin": "44194",
+   "heading": "Public Sector: ICT",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what discussions the Government has held since 1 January 2025 with counterparts in France, Germany, Denmark and the Netherlands on methodologies for assessing and mitigating risks to pub",
+   "dateTabled": "2026-11-17T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1961134,
+   "uin": "44193",
+   "heading": "Public Sector: ICT",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what criteria and evidence the Government uses to assess whether mitigations for risks arising from dependence on technology suppliers identified in the National Chronic Risk Register ar",
+   "dateTabled": "2026-11-17T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  }
+ ],
+ "historyComplete": true
+}

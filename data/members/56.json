@@ -1,0 +1,399 @@
+{
+ "id": 56,
+ "fetchedOn": "2026-11-25",
+ "core": {
+  "id": 56,
+  "nameListAs": "Arbuthnot of Edrom, L.",
+  "nameDisplayAs": "Lord Arbuthnot of Edrom",
+  "nameFullTitle": "The Rt Hon. the Lord Arbuthnot of Edrom",
+  "nameAddressAs": null,
+  "latestParty": {
+   "id": 4,
+   "name": "Conservative",
+   "abbreviation": "Con",
+   "backgroundColour": "0063ba",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": false,
+   "governmentType": 3,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "Life peer",
+   "membershipFromId": 4,
+   "house": 2,
+   "membershipStartDate": "2015-10-01T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2015-10-01T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/56/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2010-04-13T00:00:00",
+    "constituencyEnd": "2024-05-30T00:00:00",
+    "house": 1,
+    "name": "North East Hampshire",
+    "id": 3643,
+    "startDate": "2010-05-06T00:00:00",
+    "endDate": "2015-03-30T00:00:00",
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "1997-04-09T00:00:00",
+    "constituencyEnd": "2010-04-12T00:00:00",
+    "house": 1,
+    "name": "North East Hampshire",
+    "id": 2136,
+    "startDate": "1997-05-01T00:00:00",
+    "endDate": "2010-05-06T00:00:00",
+    "additionalInfo": "Elected 3 times",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "1983-05-14T00:00:00",
+    "constituencyEnd": "1997-04-08T00:00:00",
+    "house": 1,
+    "name": "Wanstead and Woodford",
+    "id": 3040,
+    "startDate": "1987-06-11T00:00:00",
+    "endDate": "1997-05-01T00:00:00",
+    "additionalInfo": "Elected 2 times",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [
+   {
+    "house": 1,
+    "name": "Cynon Valley",
+    "id": 809,
+    "startDate": "1984-05-03T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Cynon Valley",
+    "id": 809,
+    "startDate": "1983-06-09T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "houseMemberships": [
+   {
+    "house": 2,
+    "name": "Lords",
+    "id": 2,
+    "startDate": "2015-10-01T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Lord Arbuthnot of Edrom",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "1987-06-11T00:00:00",
+    "endDate": "2015-03-30T00:00:00",
+    "additionalInfo": "Mr James Arbuthnot",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [
+   {
+    "house": 1,
+    "name": "Minister of State (Ministry of Defence) (Procurement)",
+    "id": 246,
+    "startDate": "1995-07-06T00:00:00",
+    "endDate": "1997-05-01T00:00:00",
+    "additionalInfo": "Ministry of Defence",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/ministry-of-defence"
+   },
+   {
+    "house": 1,
+    "name": "Parliamentary Under-Secretary (Department of Social Security)",
+    "id": 451,
+    "startDate": "1994-07-20T00:00:00",
+    "endDate": "1995-07-06T00:00:00",
+    "additionalInfo": "Department of Social Security",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Assistant Whip (HM Treasury)",
+    "id": 351,
+    "startDate": "1992-04-15T00:00:00",
+    "endDate": "1994-07-20T00:00:00",
+    "additionalInfo": "Whips Office (Commons)",
+    "additionalInfoLink": null
+   }
+  ],
+  "oppositionPosts": [
+   {
+    "house": 1,
+    "name": "Shadow Minister (Trade and Industry)",
+    "id": 1046,
+    "startDate": "2005-02-01T00:00:00",
+    "endDate": "2005-10-31T00:00:00",
+    "additionalInfo": "Department of Trade and Industry",
+    "additionalInfoLink": "http://www.dti.gov.uk"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Secretary of State (Trade and Industry)",
+    "id": 1023,
+    "startDate": "2003-11-08T00:00:00",
+    "endDate": "2005-05-10T00:00:00",
+    "additionalInfo": "Department of Trade and Industry",
+    "additionalInfoLink": "http://www.dti.gov.uk"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Chief Whip (Commons)",
+    "id": 6,
+    "startDate": "1997-06-11T00:00:00",
+    "endDate": "2001-06-07T00:00:00",
+    "additionalInfo": "Whips Office (Commons)",
+    "additionalInfoLink": null
+   }
+  ],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Conservative",
+    "id": 4,
+    "startDate": "1987-06-11T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 1,
+    "name": "Intelligence and Security Committee of Parliament",
+    "id": 97,
+    "startDate": "2001-07-30T00:00:00",
+    "endDate": "2006-01-26T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "House of Lords Reform (Joint Committee)",
+    "id": 92,
+    "startDate": "2002-06-19T00:00:00",
+    "endDate": "2003-07-16T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Defence Committee",
+    "id": 24,
+    "startDate": "2005-07-11T00:00:00",
+    "endDate": "2014-04-28T00:00:00",
+    "additionalInfo": "Chair",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Liaison Committee (Commons)",
+    "id": 103,
+    "startDate": "2005-07-11T00:00:00",
+    "endDate": "2014-04-28T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 2,
+    "name": "National Security Strategy (Joint Committee)",
+    "id": 111,
+    "startDate": "2026-01-27T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "National Security Strategy (Joint Committee)",
+    "id": 111,
+    "startDate": "2010-01-13T00:00:00",
+    "endDate": "2014-06-16T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Armed Forces Bill Committee",
+    "id": 5,
+    "startDate": "2011-01-17T00:00:00",
+    "endDate": "2011-03-08T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 2,
+    "name": "EU Energy and Environment Sub-Committee",
+    "id": 335,
+    "startDate": "2019-07-02T00:00:00",
+    "endDate": "2020-04-23T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 2,
+    "name": "EU Security and Justice Sub-Committee",
+    "id": 446,
+    "startDate": "2020-04-23T00:00:00",
+    "endDate": "2021-03-31T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 2,
+    "name": "Risk Assessment and Risk Planning Committee",
+    "id": 483,
+    "startDate": "2020-10-15T00:00:00",
+    "endDate": "2021-11-24T00:00:00",
+    "additionalInfo": "Chair",
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 23172,
+     "interest": "Chairman, Advisory Panel, Thales Group UK (aerospace, defence and security)",
+     "createdWhen": "2015-10-27T16:24:45",
+     "lastAmendedWhen": "2026-03-16T11:25:45.287",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 34983,
+     "interest": "Member, Advisory Board, Montrose Associates (strategic intelligence and advice)",
+     "createdWhen": "2019-11-19T10:41:11",
+     "lastAmendedWhen": "2025-04-05T00:00:00",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1002,
+   "name": "Category 2: Shareholdings etc. (a)",
+   "sortOrder": 1042,
+   "interests": [
+    {
+     "id": 34785,
+     "interest": "Electricity Resilience Ltd (strategic advice on resilience) (dormant)",
+     "createdWhen": "2019-10-11T13:15:32",
+     "lastAmendedWhen": "2025-04-05T00:00:00",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1003,
+   "name": "Category 2: Shareholdings etc. (b)",
+   "sortOrder": 1043,
+   "interests": [
+    {
+     "id": 29167,
+     "interest": "Neuro-Bio Ltd (a biotechnology company)",
+     "createdWhen": "2017-02-06T12:10:46",
+     "lastAmendedWhen": "2025-04-05T00:00:00",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [
+  {
+   "category": "Concerns: Policy Interests",
+   "focus": [
+    "Defence"
+   ]
+  }
+ ],
+ "synopsis": "Lord Arbuthnot of Edrom's full title is The Rt Hon. the Lord Arbuthnot of Edrom. His name is James Norwich Arbuthnot, and he is a current member of the House of Lords.",
+ "history": [
+  {
+   "id": 1957330,
+   "uin": "HL5006",
+   "heading": "Horizon Convictions Redress Scheme",
+   "questionText": "To ask His Majesty's Government on what date negotiations with Fujitsu Services Ltd. on its financial contribution to the Horizon Convictions Redress Scheme began; whether they have requested an interim payment; and what response has been received.",
+   "dateTabled": "2026-11-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1861333,
+   "uin": "HL12706",
+   "heading": "Space Weather",
+   "questionText": "To ask His Majesty's Government in which year space weather was recognised as a risk sufficiently severe to feature in the National Risk Register.",
+   "dateTabled": "2025-12-05T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1957334,
+   "uin": "HL5005",
+   "heading": "Fujitsu: Contracts",
+   "questionText": "To ask His Majesty's Government, further to the letter from the Parliamentary Secretary to the Cabinet Office on 12 August, what constitutes an \"agreed, explicit need\" for Fujitsu Services Ltd.'s capabilities under the terms of Fujitsu Services Ltd.'s vol",
+   "dateTabled": "2026-11-09T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1957351,
+   "uin": "HL5004",
+   "heading": "Fujitsu: Contracts",
+   "questionText": "To ask His Majesty's Government whether Fujitsu Services Ltd. was assessed against the discretionary exclusion grounds in schedule 7 to the Procurement Act 2023 before its appointment to the Digital Outcomes and Specialists 7 framework; and whether they p",
+   "dateTabled": "2026-11-09T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1957356,
+   "uin": "HL5003",
+   "heading": "Fujitsu",
+   "questionText": "To ask His Majesty's Government whether (1) they have opened, or (2) any contracting authority has requested, an investigation into Fujitsu Services Ltd. under section 60 of the Procurement Act 2023; and if not, why not.",
+   "dateTabled": "2026-11-09T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  }
+ ],
+ "historyComplete": true
+}

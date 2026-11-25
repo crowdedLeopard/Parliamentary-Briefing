@@ -1,0 +1,408 @@
+{
+ "id": 5302,
+ "fetchedOn": "2026-11-25",
+ "core": {
+  "id": 5302,
+  "nameListAs": "Law, Noah",
+  "nameDisplayAs": "Noah Law",
+  "nameFullTitle": "Noah Law MP",
+  "nameAddressAs": null,
+  "latestParty": {
+   "id": 15,
+   "name": "Labour",
+   "abbreviation": "Lab",
+   "backgroundColour": "d50000",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": true,
+   "governmentType": 0,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "St Austell and Newquay",
+   "membershipFromId": 4323,
+   "house": 1,
+   "membershipStartDate": "2024-07-04T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2024-07-04T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/5302/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2024-05-31T00:00:00",
+    "constituencyEnd": null,
+    "house": 1,
+    "name": "St Austell and Newquay",
+    "id": 4323,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [],
+  "houseMemberships": [
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Noah Law",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [],
+  "oppositionPosts": [],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Labour",
+    "id": 15,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 1,
+    "name": "International Development Committee",
+    "id": 98,
+    "startDate": "2024-10-21T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Crown Estate Bill [HL]",
+    "id": 767,
+    "startDate": "2025-01-29T00:00:00",
+    "endDate": "2025-02-06T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Civil Aviation (Consumer Protection and Regulatory Reform) Bill",
+    "id": 847,
+    "startDate": "2026-10-15T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Building Safety (Remediation of Unsafe Cladding etc) Bill",
+    "id": 856,
+    "startDate": "2026-11-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 9,
+   "name": "8. Miscellaneous",
+   "sortOrder": 0,
+   "interests": [
+    {
+     "id": 16778,
+     "interest": "Unpaid directorship of the St Austell Community Land Trust, a registered society aimed to support affordable housing in the area of St Austell.\r\nDate interest arose: 10 June 2026\r\n(Registered 17 August 2026)",
+     "createdWhen": "2026-08-18T09:11:45.52",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [],
+ "synopsis": "Noah Law is the Labour MP for <a href='/constituency/4323/overview'>St Austell and Newquay</a>, and has been an MP continually since 4 July 2024.",
+ "history": [
+  {
+   "id": 1960271,
+   "uin": "43401",
+   "heading": "Armed Forces: Recruitment",
+   "questionText": "To ask the Secretary of State for Defence, what steps he is taking to ensure that the Serco-run recruitment service delivers value for money and meets Armed Forces recruitment targets.",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1959232,
+   "uin": "901945",
+   "heading": "Historic Buildings: Repairs and Maintenance",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what steps her Department is taking to support the restoration and preservation of historic buildings.",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1951696,
+   "uin": "36960",
+   "heading": "Pay",
+   "questionText": "To ask the Chancellor of the Exchequer, whether HM Treasury has made an assessment of the potential merits of extending salary sacrifice schemes for domestic solar panels, battery storage, and heat pumps.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1954741,
+   "uin": "39259",
+   "heading": "Arts: Vocational Education",
+   "questionText": "To ask the Secretary of State for Education, what steps her Department is taking to ensure that schools are incentivised to offer vocational and technical qualifications in creative subjects in Cornwall.",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1954743,
+   "uin": "39261",
+   "heading": "Business Rates: Valuation",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment he has made of the effectiveness of the business rates valuation system in reflecting (a) flood risk and (b) seasonal trading patterns.",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1954740,
+   "uin": "39258",
+   "heading": "Local Government: Capital Investment",
+   "questionText": "To ask the Secretary of State for Transport, what (a) economic, (b) feasibility and (c) technical studies her Department will require for single Foundation Strategic Authorities to access investment from major capital programmes in the future.",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1951602,
+   "uin": "36866",
+   "heading": "Fuels: Prices",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what assessment her Department has made of the potential impact of rising fuel prices on people living and working in rural areas, including any distributional impacts.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1951604,
+   "uin": "36868",
+   "heading": "Tenancy Agreements",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, whether she has considered extending to lodgers the protections that apply to tenants under the Renters' Rights Act 2026.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1951608,
+   "uin": "36872",
+   "heading": "Injuries: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps she is taking to support Minor Injuries Units and other healthcare facilities in rural and coastal areas with resourcing and operational challenges.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1951607,
+   "uin": "36871",
+   "heading": "NHS: Buildings",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps she is taking to ensure that vacant NHS property is brought back into use as health and social care facilities.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1951609,
+   "uin": "36873",
+   "heading": "Down's Syndrome",
+   "questionText": "To ask the Secretary of State for Health and Social Care, when she plans to publish the findings arising out of the consultation on the published draft statutory guidance in relation to the Down Syndrome Act 2022.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1943431,
+   "uin": "30243",
+   "heading": "Visitor Levy",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what steps she is taking to ensure that businesses in the local visitor economy have the ability to shape where proceeds received from the Overnight Visitor Levy are invested.",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1923618,
+   "uin": "15608",
+   "heading": "Breakfast Clubs",
+   "questionText": "To ask the Secretary of State for Education, if she will take steps to ensure Free Breakfast Clubs use food which is procured from British sources.",
+   "dateTabled": "2026-07-02T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1923617,
+   "uin": "15607",
+   "heading": "Breakfast Clubs: Nutrition",
+   "questionText": "To ask the Secretary of State for Education, what steps she is taking to ensure Free Breakfast Clubs include the most nutritional food possible.",
+   "dateTabled": "2026-07-02T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1920941,
+   "uin": "13703",
+   "heading": "Jet Skis",
+   "questionText": "To ask the Secretary of State for Transport, if they have considered applying an age limit for jet ski use.",
+   "dateTabled": "2026-06-26T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1924695,
+   "uin": "900878",
+   "heading": "Clean Energy: Investment",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what assessment he has made of the adequacy of levels of private sector investment in clean energy industries since July 2024.",
+   "dateTabled": "2026-07-01T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1913875,
+   "uin": "7961",
+   "heading": "Property Management Companies: Regulation",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what assessment he has made of the potential economic and market benefit from the establishment of a regulator for the Property Management companies sector.",
+   "dateTabled": "2026-06-08T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1914776,
+   "uin": "8708",
+   "heading": "Social Security Benefits: Medical Examinations",
+   "questionText": "To ask the Secretary of State for Work and Pensions, whether his Department plans to review the use of video surveillance and media appearances in disability benefit decisions.",
+   "dateTabled": "2026-06-10T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1891317,
+   "uin": "121067",
+   "heading": "Coronavirus: Vaccination",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment his Department has made of the potential merits of widening the eligibility of COVID vaccines to people with Multiple Sclerosis.",
+   "dateTabled": "2026-03-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1891316,
+   "uin": "121066",
+   "heading": "Family Courts",
+   "questionText": "To ask the Secretary of State for Justice, what support the Government is giving to families in the Family Court who have suffered abuse by non-resident parents.",
+   "dateTabled": "2026-03-16T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1887198,
+   "uin": "908020",
+   "heading": "Railways: Wales",
+   "questionText": "To ask the Secretary of State for Wales, what steps she is taking with Cabinet colleagues to help improve the Welsh rail network.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Wales Office"
+  },
+  {
+   "id": 1883217,
+   "uin": "114572",
+   "heading": "Health Services: Children",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what guidance or requirements exist for NHS trusts, GP practices and other health providers to ensure that medical records, appointment letters and other clinical correspondence about a child are s",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1877242,
+   "uin": "109908",
+   "heading": "Regional Planning and Development: Cornwall",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what steps he is taking to provide capacity funding to local authorities for strategic economic development in Cornwall.",
+   "dateTabled": "2026-01-30T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1877221,
+   "uin": "109907",
+   "heading": "Kernow Industrial Growth Fund",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what steps he is taking to ensure that the Kernow Industrial Growth Fund can be deployed as investment capital which can be recouped by Cornwall County Council for future project",
+   "dateTabled": "2026-01-30T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1880754,
+   "uin": "112974",
+   "heading": "NHS: Fees and Charges",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the potential merits of widening the eligibility of the NHS Low Income Scheme to include those who are on a state pension.",
+   "dateTabled": "2026-02-11T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1878448,
+   "uin": "111043",
+   "heading": "Construction: New Businesses",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what steps his Department has taken with Homes England to help support start-up builders.",
+   "dateTabled": "2026-02-04T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1878449,
+   "uin": "111044",
+   "heading": "Planning: Nature Conservation",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps she is taking to ensure the widest set of projects as part of biodiversity net-gain calculations.",
+   "dateTabled": "2026-02-04T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1875031,
+   "uin": "108495",
+   "heading": "Royal Mail",
+   "questionText": "To ask the Secretary of State for Business and Trade, what steps his Department is taking to help ensure Royal Mail meets its statutory obligations.",
+   "dateTabled": "2026-01-26T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1871292,
+   "uin": "105885",
+   "heading": "Dental Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps he is taking to reduce burdens on NHS dentistry services, especially by ensuring dentists who are qualified to practice in other countries can be fast-tracked for qualification to practi",
+   "dateTabled": "2026-01-14T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1868711,
+   "uin": "103628",
+   "heading": "Developing Countries: Debts",
+   "questionText": "To ask the Chancellor of the Exchequer, what progress has been made towards global debt reform in discussions with the London Coalition.",
+   "dateTabled": "2026-01-06T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1867346,
+   "uin": "102308",
+   "heading": "Food: Public Sector",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether she plans to ensure that food purchased by the public sector recognises seasonality of produce.",
+   "dateTabled": "2026-01-02T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1866268,
+   "uin": "101648",
+   "heading": "Housing: Older People",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, whether his Department plans to reform planning rules and permitted development rights to facilitate a wider range of housing for elderly people, including modern, low-maintenanc",
+   "dateTabled": "2025-12-18T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1962818,
+   "uin": "45790",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Education, what assessment she has made of the potential impact of falling pupil rolls on school budgets in rural areas.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department for Education"
+  }
+ ],
+ "historyComplete": true
+}

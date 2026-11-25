@@ -1,0 +1,850 @@
+{
+ "id": 5207,
+ "fetchedOn": "2026-11-25",
+ "core": {
+  "id": 5207,
+  "nameListAs": "Jones, Clive",
+  "nameDisplayAs": "Clive Jones",
+  "nameFullTitle": "Clive Jones MP",
+  "nameAddressAs": null,
+  "latestParty": {
+   "id": 17,
+   "name": "Liberal Democrat",
+   "abbreviation": "LD",
+   "backgroundColour": "fc7d0b",
+   "foregroundColour": "FFFFFF",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": false,
+   "governmentType": null,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "Wokingham",
+   "membershipFromId": 4408,
+   "house": 1,
+   "membershipStartDate": "2024-07-04T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2024-07-04T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/5207/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2024-05-31T00:00:00",
+    "constituencyEnd": null,
+    "house": 1,
+    "name": "Wokingham",
+    "id": 4408,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [],
+  "houseMemberships": [
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Clive Jones",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [],
+  "oppositionPosts": [
+   {
+    "house": 1,
+    "name": "Liberal Democrat Spokesperson (Care and Carers)",
+    "id": 1692,
+    "startDate": "2026-10-05T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Opposition Department",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Liberal Democrat Spokesperson (Trade)",
+    "id": 1690,
+    "startDate": "2024-09-18T00:00:00",
+    "endDate": "2026-10-05T00:00:00",
+    "additionalInfo": "Opposition Department",
+    "additionalInfoLink": null
+   }
+  ],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Liberal Democrat",
+    "id": 17,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 1,
+    "name": "Finance Committee (Commons)",
+    "id": 325,
+    "startDate": "2024-10-28T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Bank Resolution (Recapitalisation) Bill [HL]",
+    "id": 774,
+    "startDate": "2025-02-05T00:00:00",
+    "endDate": "2025-02-11T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Product Regulation and Metrology Bill [HL]",
+    "id": 791,
+    "startDate": "2025-05-13T00:00:00",
+    "endDate": "2025-05-15T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Rare Cancers Bill",
+    "id": 808,
+    "startDate": "2025-06-26T00:00:00",
+    "endDate": "2025-07-02T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 3,
+   "name": "2. (a) Support linked to an MP but received by a local party organisation or indirectly via a central party organisation",
+   "sortOrder": 0,
+   "interests": [
+    {
+     "id": 14876,
+     "interest": "Name of donor: Gary Grant\r\nAddress of donor: private\r\nAmount of donation or nature and value if donation in kind: £2,000 for campaigning purposes\r\nDonor status: individual\r\n(Registered 26 March 2026)",
+     "createdWhen": "2026-04-14T09:26:26.78",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 14869,
+     "interest": "Name of donor: Dinesh Dhamija\r\nAddress of donor: private\r\nAmount of donation or nature and value if donation in kind: £2,500 for campaigning purposes\r\nDonor status: individual\r\n(Registered 26 March 2026)",
+     "createdWhen": "2026-04-14T09:26:26.78",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 14977,
+     "interest": "Name of donor: Simon Curtis and Ruth Talbot\r\nAddress of donor: private\r\nAmount of donation or nature and value if donation in kind: £3,000 this donation is paid as a regular amount of £250 a month and will continue until the end of the year.\r\nDonor status: individual\r\n(Registered 8 April 2026)",
+     "createdWhen": "2026-04-29T09:39:53.27",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 14978,
+     "interest": "Name of donor: Simon Curtis and Ruth Talbot\r\nAddress of donor: private\r\nAmount of donation or nature and value if donation in kind: £1,000 donation for campaigning.\r\nDonor status: individual\r\n(Registered 8 April 2026)",
+     "createdWhen": "2026-04-29T09:39:53.27",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 15102,
+     "interest": "Name of donor: Frank Julian Brooks\r\nAddress of donor: private\r\nAmount of donation or nature and value if donation in kind: £1,000 donation for campaigning.\r\nDonor status: individual\r\n(Registered 21 April 2026)",
+     "createdWhen": "2026-04-29T09:39:53.27",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 14979,
+     "interest": "Name of donor: Frank Julian Brooks\r\nAddress of donor: private\r\nAmount of donation or nature and value if donation in kind: £1,380 this donation is paid as a regular amount of £115 a month and will continue until the end of the year.\r\nDonor status: individual\r\n(Registered 21 April 2026)",
+     "createdWhen": "2026-04-29T09:39:53.27",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 14980,
+     "interest": "Name of donor: Patrick Foster and Ann Foster\r\nAddress of donor: private\r\nAmount of donation or nature and value if donation in kind: £3,000 for campaigning, this donation is paid as a regular amount of £250 a month and will continue until the end of the year\r\nDonor status: individual\r\n(Registered 21 April 2026)",
+     "createdWhen": "2026-04-29T09:39:53.27",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "name": "3. Gifts, benefits and hospitality from UK sources",
+   "sortOrder": 1,
+   "interests": [
+    {
+     "id": 10694,
+     "interest": "Name of donor: National Liberal Club\r\nAddress of donor: 1 Whitehall Place, London SW1A 2HE\r\nAmount of donation or nature and value if donation in kind: Subscription for 2025 from Jan 1st to 31st December 2025, value £983.90\r\nDate received: 14 October 2024 to 31 December 2025\r\nDate accepted: 14 October 2024\r\nDonor status: company, registration 01355034\r\n(Registered 12 September 2024; updated 14 October 2024)",
+     "createdWhen": "2026-03-26T14:28:06.3952309",
+     "lastAmendedWhen": "2024-10-16T14:03:17.2466667",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 14647,
+     "interest": "Name of donor: National Liberal Club\r\nAddress of donor: 1 Whitehall place, London SW1A 2HE\r\nAmount of donation or nature and value if donation in kind: Subscription for 2026, value £1,140\r\nDate received: 1 January 2026 to 31 December 2026\r\nDate accepted: 1 March 2026\r\nDonor status: other\r\n(Registered 1 March 2026)",
+     "createdWhen": "2026-03-10T14:50:54.6866667",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "name": "7. (ii) Other shareholdings, valued at more than £70,000",
+   "sortOrder": 2,
+   "interests": [
+    {
+     "id": 6176,
+     "interest": "Name of company or organisation: Lloyds bank plc\r\n(Registered 11 July 2024)",
+     "createdWhen": "2024-08-16T14:57:16.62",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "name": "8. Miscellaneous",
+   "sortOrder": 3,
+   "interests": [
+    {
+     "id": 6173,
+     "interest": "Governor of the Royal Berkshire Hospital NHS Foundation Trust. This is an unpaid role.\r\nDate interest arose: 5 July 2024\r\n(Registered 11 July 2024)",
+     "createdWhen": "2024-08-16T15:04:27.9433333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [],
+ "synopsis": "Clive Jones is the Liberal Democrat MP for <a href='/constituency/4408/overview'>Wokingham</a>, and has been an MP continually since 4 July 2024. \r\nHe currently undertakes the role of Liberal Democrat Spokesperson (Care and Carers).",
+ "history": [
+  {
+   "id": 1957834,
+   "uin": "41452",
+   "heading": "Government Departments: Communication",
+   "questionText": "To ask the Minister for the Cabinet Office, what measures are in place to ensure all Government communications to the public are available through multiple media channels, including non-social media channels such as national and local newspapers.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1946911,
+   "uin": "33087",
+   "heading": "Members: Correspondence",
+   "questionText": "To ask the Secretary of State for Transport, when the correspondence from the Hon. Member for Wokingham sent to the Department on 12th February 2026, reference number MC-00061684, will receive a response.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1945729,
+   "uin": "31856",
+   "heading": "Lung Cancer: Screening",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps NHS England is taking to ensure GP practices meet the new contractual requirement to share patient data with the National Lung Cancer Screening Programme to identify the full eligible po",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1945728,
+   "uin": "31855",
+   "heading": "Lung Cancer: Screening",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what safeguards are being put in place to ensure that current Integrated Care Board restructuring does not undermine the performance, accountability or full roll out of the National Lung Cancer Scr",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1945727,
+   "uin": "31854",
+   "heading": "Lung Cancer: Screening",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether the National Lung Cancer Screening Programme in England will (a) move to Section 7A funding and (b) be ring fenced beyond 2030.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1944924,
+   "uin": "31050",
+   "heading": "Lung Cancer: Screening",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what safeguards are in place to ensure continuity of funding, leadership, data systems and oversight for the roll out of the National Lung Cancer Screening Programme during the transition away from",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1944923,
+   "uin": "31049",
+   "heading": "Lung Cancer: Screening",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what funding has been allocated to support the National Lung Cancer Screening Programme in England a) at a national level, b) by Cancer Alliance and c) by Integrated Care Board in each financial ye",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1946107,
+   "uin": "32252",
+   "heading": "Members: Correspondence",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, when the correspondence from the Hon. Member for Wokingham sent to the Department on 21st May 2026, with Member's reference number CJ11274, will receive a response.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1938339,
+   "uin": "27337",
+   "heading": "Falkland Islands: Defence",
+   "questionText": "To ask the Secretary of State for Defence, what steps he is taking to ensure the security of the Falkland Islands.",
+   "dateTabled": "2026-09-04T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1934976,
+   "uin": "24498",
+   "heading": "Reservoirs: Temperature",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she has made of the potential merits of deploying shade balls in reservoirs to conserve water supplies during periods of extreme heat.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1928685,
+   "uin": "19650",
+   "heading": "Autism and Learning Disability: Mental Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what discussions officials and Ministers in his Department have had with the Care Quality Commission on reviewing academic literature about a) best practice in services and accommodation for autist",
+   "dateTabled": "2026-07-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1927494,
+   "uin": "901011",
+   "heading": "Cancer: Children and Young People",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps his Department is taking to increase the detection and diagnosis of cancer in children and young people.",
+   "dateTabled": "2026-07-08T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1917684,
+   "uin": "900507",
+   "heading": "Sports: Clubs",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what steps her Department is taking to help support grassroots sports clubs.",
+   "dateTabled": "2026-06-11T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1912257,
+   "uin": "6908",
+   "heading": "Renters’ Rights Act 2025",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what assessment his Department has made of the impact of the Renters’ Rights Act 2026 on existing tenants whose fixed-term agreements were close to expiry when the Act came into ",
+   "dateTabled": "2026-06-04T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1912534,
+   "uin": "7012",
+   "heading": "Tax Avoidance",
+   "questionText": "To ask the Chancellor of the Exchequer, how many individuals with liabilities relating to Loan Charge schemes have a) been offered an opportunity to settle those liabilities , b) have accepted an invitation to settle those liabilities, and c) have settled",
+   "dateTabled": "2026-06-04T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1909856,
+   "uin": "4811",
+   "heading": "Red Arrows: Military Aircraft",
+   "questionText": "To ask the Secretary of State for Defence, what his planned timetable is for procuring replacement aircraft for the Hawk T1 Trainer to be used by the Royal Air Force Aerobatic Team.",
+   "dateTabled": "2026-05-29T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1906110,
+   "uin": "1806",
+   "heading": "Tenancy Agreements",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what assessment his Department made of the potential impact of the Renters’ Rights Act 2026 on tenants with fixed-term tenancy agreements entered into before the Act’s commenceme",
+   "dateTabled": "2026-05-15T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1907032,
+   "uin": "2576",
+   "heading": "Hydrocortisone",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the potential impact of the withdrawal of hydrocortisone sodium phosphate liquid solution from the medicine market on to patients with adrenal insufficiency.",
+   "dateTabled": "2026-05-18T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1905612,
+   "uin": "1381",
+   "heading": "Members: Correspondence",
+   "questionText": "To ask the Chancellor of the Exchequer, when she plans to respond to correspondence from the hon. Member for Wokingham transferred to her Department on 24 November 2025, reference MC2025/24514.",
+   "dateTabled": "2026-05-14T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1903280,
+   "uin": "129970",
+   "heading": "Rare Cancers: Diagnosis",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference to action 9 on page 76 of his Department's document entitled National Cancer Plan for England, published on 4 February 2026, what progress he has made on assessing novel procurement ",
+   "dateTabled": "2026-04-27T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1903279,
+   "uin": "129969",
+   "heading": "Rare Cancers: Diagnosis",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference to page 28 of his Department's document entitled National Cancer Plan for England, published on 4 February 2026, what progress he has made on the development and implementation of mu",
+   "dateTabled": "2026-04-27T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1903278,
+   "uin": "129968",
+   "heading": "Rare Cancers: Diagnosis",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference to page 74 of his Department's document entitled National Cancer Plan for England, published on 4 February 2026, what progress he has made on implementing action 4 in the Rare and le",
+   "dateTabled": "2026-04-27T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1903281,
+   "uin": "129971",
+   "heading": "Community Diagnostic Centres: Young People",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference his Department's press release entitled NHS patients to get quicker tests and scans closer to home, published on 13 April 2026, whether teenagers and young adults will have access to",
+   "dateTabled": "2026-04-27T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1902808,
+   "uin": "129632",
+   "heading": "Members: Correspondence",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, when the correspondence sent on 22nd October 2025 by the Hon. Member for Wokingham, reference number MC2025-00013812, will receive a response.",
+   "dateTabled": "2026-04-23T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1901921,
+   "uin": "128972",
+   "heading": "Vitamin D: Ethnic Groups",
+   "questionText": "To ask the Secretary of State for Health and Social Care, pursuant to the Answer of 30 March 2026 to Question 116006 on Vitamin D: Dietary Supplements, what interim measures he is taking to tackle Vitamin D deficiency rates in black and Asian populations ",
+   "dateTabled": "2026-04-21T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1898928,
+   "uin": "126905",
+   "heading": "Plastics: Recycling",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether her Department has had discussions with the European Commission on the exclusion of UK recyclate from the Single Use Plastics Directive.",
+   "dateTabled": "2026-04-13T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1898929,
+   "uin": "126906",
+   "heading": "Plastics: Recycling",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment her Department has made of the potential impact of the exclusion of UK recyclate from the Single Use Plastics Directive on (a) material dumping and (b) the circular eco",
+   "dateTabled": "2026-04-13T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1892722,
+   "uin": "122079",
+   "heading": "Maternity Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, pursuant to the answer of 3rd March 2026 to question 115687, if he will ask Baroness Amos to consider the potential merits of appointing a Maternity Commissioner in the course of the Independent Na",
+   "dateTabled": "2026-03-18T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1893786,
+   "uin": "122968",
+   "heading": "Middle East: Arms Trade",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what estimate he has made of the number of weapons and ordnance manufactured in the UK are currently being used in conflicts in a) Lebanon, b) Iran and c) the Occupied Palest",
+   "dateTabled": "2026-03-23T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1893796,
+   "uin": "122977",
+   "heading": "Offenders: Addictions",
+   "questionText": "To ask the Secretary of State for Justice, if he will make an his estimate of the potential reduction in the (a) cost to the public purse and (b) court workloads of increasing the adoption of community-based rehabilitation in the treatment of alcohol and ",
+   "dateTabled": "2026-03-23T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1893790,
+   "uin": "122972",
+   "heading": "Affordable Housing: Empty Property",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, how many affordable housing units have been built which have never been occupied because no housing association has taken them on.",
+   "dateTabled": "2026-03-23T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1893791,
+   "uin": "122973",
+   "heading": "Landlords: Fines",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, whether he is taking steps to increase the rate of collection of civil penalties issued by local authorities against landlords for housing offences.",
+   "dateTabled": "2026-03-23T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1893795,
+   "uin": "122976",
+   "heading": "Alcoholic Drinks: Misuse",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps he is taking to help encourage the use of community-based rehabilitation in the treatment of alcohol and substance use and addiction.",
+   "dateTabled": "2026-03-23T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1893788,
+   "uin": "122970",
+   "heading": "Solar Power",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what is the total anticipated generation capacity in MWh of solar power projects that are approved but have not yet been connected to the grid.",
+   "dateTabled": "2026-03-23T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1885044,
+   "uin": "116006",
+   "heading": "Vitamin D: Dietary Supplements",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether he has assessment the potential merits of workplace-based vitamin D supplementation programmes as a mechanism to reach populations at higher risk of deficiency.",
+   "dateTabled": "2026-02-25T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1885043,
+   "uin": "116005",
+   "heading": "Vitamin D: Dietary Supplements",
+   "questionText": "To ask the Secretary of State for Health and Social Care, pursuant to the Answer of 11 February 2026 to Question 110577 on Vitamin D: Dietary Supplements, whether he plans to introduce targeted oversampling of Black and Asian populations to allow accelera",
+   "dateTabled": "2026-02-25T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1885042,
+   "uin": "116004",
+   "heading": "Vitamin D: Deficiency Diseases",
+   "questionText": "To ask the Secretary of State for Health and Social Care, pursuant to the Answer of 11 February 2026 to Question 110574 on Vitamin D: Deficiency Diseases, whether the rapid review by the Scientific Advisory Committee on Nutrition will assess optimal vitam",
+   "dateTabled": "2026-02-25T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1885041,
+   "uin": "116003",
+   "heading": "Vitamin D: Deficiency Diseases",
+   "questionText": "To ask the Secretary of State for Health and Social Care, pursuant to the Answer of 11 February 2026 to Question 110574 on Vitamin D: Deficiency Diseases, what his planned timeline is for the rapid review by the Scientific Advisory Committee on Nutrition ",
+   "dateTabled": "2026-02-25T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1893799,
+   "uin": "122979",
+   "heading": "Sewage: Rivers",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps she is taking to eliminate sewage overflow releases into (a) the River Loddon and (b) other protected chalk streams.",
+   "dateTabled": "2026-03-23T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1893797,
+   "uin": "122978",
+   "heading": "Prisoner Escorts",
+   "questionText": "To ask the Secretary of State for Justice, what estimate he has made of the number of court cases delayed in 2025 as a result of the failure of custody transport services to deliver the defendant at the correct time.",
+   "dateTabled": "2026-03-23T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1893794,
+   "uin": "122975",
+   "heading": "Schools: Repairs and Maintenance",
+   "questionText": "To ask the Secretary of State for Education, whether she is taking steps with relevant stakeholders to help reduce the number of leaks in school buildings.",
+   "dateTabled": "2026-03-23T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1893792,
+   "uin": "122974",
+   "heading": "Schools: Repairs and Maintenance",
+   "questionText": "To ask the Secretary of State for Education, what is her estimate of the number of days of education lost during 2025 as a result of water leaks in school buildings.",
+   "dateTabled": "2026-03-23T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1893789,
+   "uin": "122971",
+   "heading": "Fuel Oil: Housing",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what steps he is taking to help ensure that an accurate record exists of which homes are reliant on Home Heating Oil for heating.",
+   "dateTabled": "2026-03-23T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1889269,
+   "uin": "119664",
+   "heading": "Immigration: Hong Kong",
+   "questionText": "To ask the Secretary of State for the Home Department, with reference to paragraph 5.60 of the policy paper entitled Explanatory memorandum to the statement of changes in the Immigration Rules: HC 1691, published on 5 March 2026, whether B2 level English ",
+   "dateTabled": "2026-03-10T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1883290,
+   "uin": "114645",
+   "heading": "Radiotherapy: Medical Devices",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how much of the £70 million allocated in the Autumn Budget 2024 for new linear accelerator (LINAC) machines has been spent to date; how many new LINAC machines have been procured with that funding;",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1884903,
+   "uin": "115901",
+   "heading": "Park Homes: Sales",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, if he will make it his policy to a) abolish, or b) otherwise amend the 10% sales commission on residential park homes.",
+   "dateTabled": "2026-02-25T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1885040,
+   "uin": "116002",
+   "heading": "Rare Cancers: Medical Treatments",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether the joint accelerated approvals pathway operated by the National Institute for Health and Care Excellence and Medicines and Healthcare products Regulatory Agency will enable tumour-agnostic",
+   "dateTabled": "2026-02-25T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1885039,
+   "uin": "116001",
+   "heading": "Rare Cancers: Medical Treatments",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether specialist multidisciplinary teams and designated centres of excellence will be given clear guidance and authority to prescribe off-label treatments supported by genomic evidence and aligne",
+   "dateTabled": "2026-02-25T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1885038,
+   "uin": "116000",
+   "heading": "Rare Cancers: Medical Treatments",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps he is taking to help support access to genomically-matched targeted therapies for patients with rare cancers, where genomic testing identifies a suitable option but large-scale clinical ",
+   "dateTabled": "2026-02-25T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1883292,
+   "uin": "114647",
+   "heading": "National Cancer Board",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference to Action 21 of the National Cancer Plan, what appointment process will be used to select the independent representative who will co chair the reformed National Cancer Board.",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1883291,
+   "uin": "114646",
+   "heading": "National Cancer Board",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference to Action 21 of the National Cancer Plan, when his Department expects the reformed National Cancer Board to be established.",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1883324,
+   "uin": "114679",
+   "heading": "Energy Supply",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, whether he plans to bring forward legislative proposals on energy independence.",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1880130,
+   "uin": "112253",
+   "heading": "Cancer: Drugs",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps he is taking to align NICE appraisal timelines, MHRA regulatory pathways and NHS commissioning decisions to support the delivery of personalised cancer medicines.",
+   "dateTabled": "2026-02-10T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1880129,
+   "uin": "112252",
+   "heading": "Rare Cancers: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what provision the National Cancer Plan will make for orphan drug pathways for patients with rare cancers requiring personalised treatment plans; and how those pathways will differ from existing co",
+   "dateTabled": "2026-02-10T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1879328,
+   "uin": "111503",
+   "heading": "Wheelchairs: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether he plans to ensure that NHS organisations and contracted wheelchair service providers are subject to more rigorous, mandatory regulation.",
+   "dateTabled": "2026-02-06T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1879327,
+   "uin": "111502",
+   "heading": "Wheelchairs: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether he plans to make the recently developed service specification guidelines for wheelchair services mandatory across England.",
+   "dateTabled": "2026-02-06T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1879326,
+   "uin": "111501",
+   "heading": "Wheelchairs: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what statistics he has on the demand for and use of wheelchairs; and how that data informs NHS England’s commissioning of appropriate services.",
+   "dateTabled": "2026-02-06T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1879325,
+   "uin": "111500",
+   "heading": "Disability: Finance",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps he is taking to ensure that funding for wheelchair users is adequate to meet essential needs, including equipment and specialist support.",
+   "dateTabled": "2026-02-06T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1880131,
+   "uin": "112254",
+   "heading": "Rare Cancers: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference to page 75 of the policy paper entitled A National Cancer Plan for England: delivering world class cancer care, whether it is his policy that patients with rare cancers should be off",
+   "dateTabled": "2026-02-10T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1880128,
+   "uin": "112251",
+   "heading": "Cancer: Screening",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps he is taking to ensure that the expansion of diagnostic genomic testing for cancer is accompanied by timely NHS access to targeted therapies identified by that testing, including where s",
+   "dateTabled": "2026-02-10T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1878946,
+   "uin": "111337",
+   "heading": "Access to Work Programme: Standards",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many and what proportion of applications for the Access To Work scheme had a wait time of more than two weeks from submitting an application to receiving a decision in 2025 in (a) Berkshire and (b) ",
+   "dateTabled": "2026-02-05T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1878947,
+   "uin": "111338",
+   "heading": "Access to Work Programme",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many and what proportion of people became unemployed while waiting for a decision on their application to the Access To Work Scheme in 2025.",
+   "dateTabled": "2026-02-05T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1878139,
+   "uin": "110577",
+   "heading": "Vitamin D: Dietary Supplements",
+   "questionText": "To ask the Secretary of State for Health and Social Care, if he will make it his policy to extend access to free and subsidized vitamin D supplements to at-risk groups identified in NICE PH56.",
+   "dateTabled": "2026-02-03T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1878137,
+   "uin": "110576",
+   "heading": "Food: Vitamin D",
+   "questionText": "To ask the Secretary of State for Health and Social Care, if he will develop a vitamin D food fortification policy.",
+   "dateTabled": "2026-02-03T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1878136,
+   "uin": "110575",
+   "heading": "Vitamin D: Deficiency Diseases",
+   "questionText": "To ask the Secretary of State for Health and Social Care, if he will ask the Scientific Advisory Committee on Nutrition to review whether current vitamin D supplementation recommendations (a) adequately serve all population groups and (b) take adequate ac",
+   "dateTabled": "2026-02-03T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1878135,
+   "uin": "110574",
+   "heading": "Vitamin D: Deficiency Diseases",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps he is taking to (a) collect and (b) publish vitamin D deficiency statistics broken down by ethnicity.",
+   "dateTabled": "2026-02-03T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1875385,
+   "uin": "108940",
+   "heading": "River Thames: Infrastructure",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, if she will to outline the governance framework for managing River Thames navigation assets, including the criteria and decision-making process for modifying lock structures and updati",
+   "dateTabled": "2026-01-27T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1875388,
+   "uin": "108942",
+   "heading": "Flood Control: Cost Benefit Analysis",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what comparative assessment her Department has made of the long-term costs of post-flood clean-up operations with the potential savings from investing in proactive flood prevention mea",
+   "dateTabled": "2026-01-27T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1875387,
+   "uin": "108941",
+   "heading": "Hydroelectric Power",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment protocols are in place to evaluate the cumulative impact of new hydroelectric installations on water flow, flood risk, and ecological balance.",
+   "dateTabled": "2026-01-27T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1872429,
+   "uin": "106394",
+   "heading": "Network Rail: Concessions",
+   "questionText": "To ask the Secretary of State for Transport, whether she has had any meetings with colleagues at Transport for London to discuss the availability of Network Railcard discounts at railway stations managed by Transport for London.",
+   "dateTabled": "2026-01-16T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1871938,
+   "uin": "106242",
+   "heading": "Vitamin D: Deficiency Diseases",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps he is taking to help reduce health disparities linked to high vitamin D deficiency rates in at-risk population groups.",
+   "dateTabled": "2026-01-15T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1858057,
+   "uin": "95320",
+   "heading": "ADHD: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps he is taking to (a) swiftly reopen referrals to the Adult ADHD Service at Berkshire Healthcare NHS Foundation Trust once they close on 1 December 2025, and (b) ensure that Adult ADHD Ser",
+   "dateTabled": "2025-11-27T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  }
+ ],
+ "historyComplete": true
+}
