@@ -1,0 +1,1941 @@
+{
+ "id": 3969,
+ "fetchedOn": "2026-11-26",
+ "core": {
+  "id": 3969,
+  "nameListAs": "Hinds, Damian",
+  "nameDisplayAs": "Damian Hinds",
+  "nameFullTitle": "Rt Hon Damian Hinds MP",
+  "nameAddressAs": null,
+  "latestParty": {
+   "id": 4,
+   "name": "Conservative",
+   "abbreviation": "Con",
+   "backgroundColour": "0063ba",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": false,
+   "governmentType": 3,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "East Hampshire",
+   "membershipFromId": 4029,
+   "house": 1,
+   "membershipStartDate": "2010-05-06T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2024-07-04T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/3969/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2024-05-31T00:00:00",
+    "constituencyEnd": null,
+    "house": 1,
+    "name": "East Hampshire",
+    "id": 4029,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "2010-04-13T00:00:00",
+    "constituencyEnd": "2024-05-30T00:00:00",
+    "house": 1,
+    "name": "East Hampshire",
+    "id": 3462,
+    "startDate": "2010-05-06T00:00:00",
+    "endDate": "2024-05-30T00:00:00",
+    "additionalInfo": "Elected 4 times",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [
+   {
+    "house": 1,
+    "name": "Stretford and Urmston",
+    "id": 2843,
+    "startDate": "2005-05-05T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "houseMemberships": [
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "2010-05-06T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Damian Hinds",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [
+   {
+    "house": 1,
+    "name": "Minister of State (Education)",
+    "id": 947,
+    "startDate": "2023-11-13T00:00:00",
+    "endDate": "2024-07-05T00:00:00",
+    "additionalInfo": "Department for Education",
+    "additionalInfoLink": "http://www.education.gov.uk/"
+   },
+   {
+    "house": 1,
+    "name": "Minister of State (Ministry of Justice)",
+    "id": 836,
+    "startDate": "2022-10-27T00:00:00",
+    "endDate": "2023-11-13T00:00:00",
+    "additionalInfo": "Ministry of Justice",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/ministry-of-justice"
+   },
+   {
+    "house": 1,
+    "name": "Minister of State (Home Office) (Security)",
+    "id": 1144,
+    "startDate": "2021-08-13T00:00:00",
+    "endDate": "2022-07-07T00:00:00",
+    "additionalInfo": "Home Office",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/home-office"
+   },
+   {
+    "house": 1,
+    "name": "Secretary of State for Education",
+    "id": 829,
+    "startDate": "2018-01-08T00:00:00",
+    "endDate": "2019-07-24T00:00:00",
+    "additionalInfo": "Department for Education",
+    "additionalInfoLink": "http://www.education.gov.uk/"
+   },
+   {
+    "house": 1,
+    "name": "Minister of State (Department for Work and Pensions)",
+    "id": 211,
+    "startDate": "2016-07-15T00:00:00",
+    "endDate": "2018-01-08T00:00:00",
+    "additionalInfo": "Department for Work and Pensions",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-work-pensions"
+   },
+   {
+    "house": 1,
+    "name": "Exchequer Secretary (HM Treasury)",
+    "id": 62,
+    "startDate": "2015-05-08T00:00:00",
+    "endDate": "2016-07-15T00:00:00",
+    "additionalInfo": "HM Treasury",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/hm-treasury"
+   },
+   {
+    "house": 1,
+    "name": "Assistant Whip (HM Treasury)",
+    "id": 351,
+    "startDate": "2014-07-15T00:00:00",
+    "endDate": "2015-03-30T00:00:00",
+    "additionalInfo": "Whips Office (Commons)",
+    "additionalInfoLink": null
+   }
+  ],
+  "oppositionPosts": [
+   {
+    "house": 1,
+    "name": "Shadow Secretary of State for Health and Social Care",
+    "id": 1412,
+    "startDate": "2026-08-31T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Department of Health and Social Care",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-of-health-and-social-care"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Secretary of State for Education",
+    "id": 864,
+    "startDate": "2024-07-08T00:00:00",
+    "endDate": "2024-11-04T00:00:00",
+    "additionalInfo": "Department for Education",
+    "additionalInfoLink": "http://www.education.gov.uk/"
+   }
+  ],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Conservative",
+    "id": 4,
+    "startDate": "2010-05-06T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 1,
+    "name": "Education Committee",
+    "id": 203,
+    "startDate": "2010-07-12T00:00:00",
+    "endDate": "2012-11-05T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Digital, Culture, Media and Sport Committee",
+    "id": 378,
+    "startDate": "2024-12-09T00:00:00",
+    "endDate": "2026-09-15T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Digital, Culture, Media and Sport Committee",
+    "id": 378,
+    "startDate": "2020-03-02T00:00:00",
+    "endDate": "2021-10-19T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Culture, Media and Sport Sub-committee on Online Harms and Disinformation",
+    "id": 438,
+    "startDate": "2020-03-10T00:00:00",
+    "endDate": "2021-10-19T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "National Security Bill",
+    "id": 607,
+    "startDate": "2022-06-29T00:00:00",
+    "endDate": "2022-07-11T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Offenders (Day of Release from Detention) Bill",
+    "id": 651,
+    "startDate": "2023-02-01T00:00:00",
+    "endDate": "2023-02-08T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "School Attendance (Duties of Local Authorities and Proprietors of Schools) Bill",
+    "id": 722,
+    "startDate": "2024-04-24T00:00:00",
+    "endDate": "2024-05-01T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Children’s Wellbeing and Schools Bill",
+    "id": 757,
+    "startDate": "2025-01-15T00:00:00",
+    "endDate": "2025-02-11T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Bill [HL]",
+    "id": 784,
+    "startDate": "2025-03-05T00:00:00",
+    "endDate": "2025-03-20T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Licensing Hours Extensions Bill",
+    "id": 797,
+    "startDate": "2025-06-04T00:00:00",
+    "endDate": "2025-06-04T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 7,
+   "name": "6. Land and property portfolio with a value over £100,000 and where indicated, the portfolio provides a rental income of over £10,000 a year",
+   "sortOrder": 0,
+   "interests": [
+    {
+     "id": 2834,
+     "interest": "Type of land/property: Residential property (annex to residential property)\r\nNumber of properties: 1\r\nLocation: Hampshire\r\nInterest held: from 1 January 2019\r\nRental income: from 1 January 2019\r\n(Registered 7 March 2019)",
+     "createdWhen": "2024-04-18T15:19:00.3",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [
+  {
+   "category": "Political Interests",
+   "focus": [
+    "Education, welfare, affordable credit, social mobility"
+   ]
+  }
+ ],
+ "synopsis": "The Rt Hon Damian Hinds is the Conservative MP for <a href='/constituency/4029/overview'>East Hampshire</a>, and has been an MP continually since 6 May 2010. \r\nHe currently undertakes the role of Shadow Secretary of State for Health and Social Care.",
+ "history": [
+  {
+   "id": 1962294,
+   "uin": "45087",
+   "heading": "Youth Mobility Scheme: EU Countries",
+   "questionText": "To ask the Secretary of State for the Home Department, whether participants in the proposed UK–EU youth experience scheme would be required to hold comprehensive health insurance for the duration of their stay.",
+   "dateTabled": "2026-11-19T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1962293,
+   "uin": "45086",
+   "heading": "Youth Mobility Scheme: EU Countries",
+   "questionText": "To ask the Secretary of State for the Home Department, whether participants in the proposed UK–EU youth experience scheme would be required to pay the immigration health surcharge; and whether the rate payable would be the same as that applying to partici",
+   "dateTabled": "2026-11-19T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1958924,
+   "uin": "42402",
+   "heading": "NHS England: Zero Hours Contracts",
+   "questionText": "To ask the Secretary of State for Health and Social Care, pursuant to the answer to WPQ 40157, received on 11 Nov 2026, what data her Department holds on the usage of any types of zero-hours contracts in the NHS in England.",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1955567,
+   "uin": "39996",
+   "heading": "NHS: Redundancy Pay",
+   "questionText": "To ask the Secretary of State for Health and Social Care, to the end of Q2, 2026/7, what was the total cumulative cost of (a) redundancy payments related to the downsizing of ICBs, (b) redundancy payments related to the abolition of NHS-England and (c) al",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1955900,
+   "uin": "40225",
+   "heading": "Medical Records: Contracts for Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what progress she has made on selecting vendors for the Single Patient Record project.",
+   "dateTabled": "2026-11-03T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1958485,
+   "uin": "42013",
+   "heading": "General Practitioners: Finance",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference to her Department's press release of 9 November entitled £40 million for GPs to keep vulnerable patients out of hospital this winter, what discussions she has had with the British Me",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1958484,
+   "uin": "42012",
+   "heading": "General Practitioners: Finance",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference to her Department's press release of 9 November entitled £40 million for GPs to keep vulnerable patients out of hospital this winter, whether the £40 million referred to is additiona",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1955899,
+   "uin": "40224",
+   "heading": "Integrated Care Boards: Reform",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment she has made of the potential impact of MHCLG’s statement of 29 October on Local Government Reorganisation on the (a) future borders, organisation and work of ICBs, (b) timing of th",
+   "dateTabled": "2026-11-03T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1955898,
+   "uin": "40223",
+   "heading": "Integrated Care Boards",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what progress she has made on making ICBs’ borders coterminous with those of strategic authorities.",
+   "dateTabled": "2026-11-03T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1955897,
+   "uin": "40222",
+   "heading": "Community Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what differences there will be in the role of ICBs in areas with (a) a Mayor and a Deputy Mayor for Health and Social Care, (b) a Mayor but no Deputy Mayor for Health and Social Care and (c) neithe",
+   "dateTabled": "2026-11-03T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1955729,
+   "uin": "40158",
+   "heading": "NHS: Agency Workers",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what was the total number in the NHS of (a) people with a bank staff contract and (b) bank-only staff at the most recent date for which data are available.",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1955728,
+   "uin": "40157",
+   "heading": "NHS: Zero Hours Contracts",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what estimate she has made of the number of people employed in the NHS who (a) have a zero-hours contract, for example as a bank staff arrangement as their sole or primary employment with the NHS, ",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1955727,
+   "uin": "40156",
+   "heading": "NHS: Zero Hours Contracts",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what estimate she has made, for the last full year for which data are available, of the total number of individuals who were employed in the NHS at any point during the year under a ‘zero-hours’ co",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1954305,
+   "uin": "38916",
+   "heading": "Voice Over Internet Protocol: Storms",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what lessons have been learned from Storm Austen regarding digital landlines in (a) Hampshire and (b) England.",
+   "dateTabled": "2026-10-28T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1954767,
+   "uin": "39285",
+   "heading": "Pharmacy: Minimum Wage",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether she plans any mitigating support for (a) community pharmacies and (b) other Health and Social Care providers in response to the changes to wage minima set out in Budget 2026.",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1954764,
+   "uin": "39282",
+   "heading": "NHS: Pay",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what projection she has made of the potential impact of each 0.1% point increase in Agenda for Change pay over and above 2.4% in 2027/8.",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1954763,
+   "uin": "39281",
+   "heading": "NHS: Pay",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment she has made of the potential impact of the 2026/7 Agenda for Change pay award on other NHS spending.",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1954765,
+   "uin": "39283",
+   "heading": "NHS: Finance",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment she has made of the potential impact of capital spending assumptions for Health and Social Care projects set out in the Budget 2026 on (a) the New Hospitals Programme and (b) other ",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1946702,
+   "uin": "32807",
+   "heading": "Mental Health: Children and Young People",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference to the May 2025 update from NHS England that her department would be working with the Office for National Statistics on a discovery phase to explore the feasibility of delivering a n",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1946293,
+   "uin": "32386",
+   "heading": "Mental Health: Children and Young People",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference to the May 2025 update from NHS England that her department would be working with the Office for National Statistics on a discovery phase to explore the feasibility of delivering a n",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1954311,
+   "uin": "38922",
+   "heading": "Hospital Beds",
+   "questionText": "To ask the Secretary of State for Health and Social Care, pursuant to the Answer to Question 35076, what measures will be taken at the national level this winter to improve discharge, and what support will be made available to support adult social care.",
+   "dateTabled": "2026-10-28T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1954282,
+   "uin": "38893",
+   "heading": "Influenza: Vaccination",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps her Department is taking to meet 100% uptake for eligible groups of the NHS seasonal flu vaccination programme in England in 2026-27.",
+   "dateTabled": "2026-10-28T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1954281,
+   "uin": "38892",
+   "heading": "Vaccination",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment she has made of recent trends in the level of uptake among eligible groups of seasonal viruses vaccinations in England.",
+   "dateTabled": "2026-10-28T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1954249,
+   "uin": "38860",
+   "heading": "Vaccination",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what progress she is making on the seasonal viruses vaccination programme 2026 to 2027 in England.",
+   "dateTabled": "2026-10-28T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1954762,
+   "uin": "39280",
+   "heading": "Prescriptions: Fees and Charges",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether her Department has modelled the potential impact of a freeze to prescription charges in 2027/8 on NHS budgets.",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1954761,
+   "uin": "39279",
+   "heading": "Prescriptions: Fees and Charges",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what plans she has for the level of prescription charges in 2027/8.",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1949289,
+   "uin": "35076",
+   "heading": "Hospital Beds",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps she is taking to increase (i) the general bed base and (ii) the acute bed base in the NHS in England ahead of winter 2026-27.",
+   "dateTabled": "2026-10-14T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1950452,
+   "uin": "35923",
+   "heading": "Thirlwall Inquiry",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference to her statement of 15 September on the Thirlwall Inquiry and the proposed recommendation hub to track implementation progress internally for the inquiry and others across the NHS, i",
+   "dateTabled": "2026-10-19T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1950048,
+   "uin": "35637",
+   "heading": "Integrated Care Boards: Finance",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether she plans to adjust budgets for integrated care boards in the 2027-2028 financial year.",
+   "dateTabled": "2026-10-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1950047,
+   "uin": "35636",
+   "heading": "Integrated Care Boards: Finance",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether she plans in-year budget adjustments for integrated care boards in the 20026-27 financial year.",
+   "dateTabled": "2026-10-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1950046,
+   "uin": "35635",
+   "heading": "Integrated Care Boards",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what functions will be transferred out of integrated care boards in (a) in FY26/27 (b) in FY27/28.",
+   "dateTabled": "2026-10-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1946704,
+   "uin": "32808",
+   "heading": "Healthwatch",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what (a) one off costs and (b) net change in annual running costs will there be from moving Healthwatch into ICBs, local authorities and her department.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1944300,
+   "uin": "30365",
+   "heading": "Health Services Safety Investigations Body",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether she has made an estimate of the financial impact of moving the Health Services Safety Investigation Body functions into the Care Quality Commission, beyond the recurrent pay savings and the",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1946706,
+   "uin": "32810",
+   "heading": "NHS: Staff",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many FTE positions at each grade are budgeted for (a) this and (b) next year in the Patient Experience Directorate.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1946701,
+   "uin": "32806",
+   "heading": "Thirlwall Inquiry",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference to her statement of 15 September on the Thirlwall Inquiry and the “recommendation hub to properly track our implementation progress internally, not just for this inquiry but for othe",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1947110,
+   "uin": "33216",
+   "heading": "Community Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many responses she received to the consultation on proposed Multi-Neighbourhood Provider and Single Neighbourhood Provider contracting models to support neighbourhood health services; and when ",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1947109,
+   "uin": "33215",
+   "heading": "Neighbourhood Health Centres",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what recent estimate she has made of the cost of establishing Neighbourhood Health Centres.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1946705,
+   "uin": "32809",
+   "heading": "Neighbourhood Health Centres",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many Neighbourhood Health Centres will be (a) new builds, (b) re-purposed existing healthcare premises and (c) other.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1945903,
+   "uin": "31990",
+   "heading": "Health Services: Children",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what discussions she has had with the Secretary of State for Education on potential use of NHS numbers as the “consistent identifier\" envisaged in the Children’s Well-being and Schools Act 2026.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1947063,
+   "uin": "33213",
+   "heading": "Property Development: Floods",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what steps she is taking to ensure that the risk of groundwater flooding is taken into account by a local planning authority for planning applications in areas with high concentr",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1945450,
+   "uin": "31589",
+   "heading": "Property Development: Floods",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, if she will bring forward proposals to ensure that groundwater flood risk (in areas with high concentrations of chalk geology) is given statutory consideration in the planning pr",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1948590,
+   "uin": "34485",
+   "heading": "Health Services: Statistics",
+   "questionText": "To ask the Secretary of State for Health and Social Care, Whether she benchmarks national data opt-out rates against comparator countries’ opt-out rates from health systems datasets.",
+   "dateTabled": "2026-10-13T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1948589,
+   "uin": "34484",
+   "heading": "Health Services: Statistics",
+   "questionText": "To ask the Secretary of State for Health and Social Care, Whether she benchmarks national data opt-out rates against opt-out rates from other UK public sector datasets.",
+   "dateTabled": "2026-10-13T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1948574,
+   "uin": "34469",
+   "heading": "Health Services: Statistics",
+   "questionText": "To ask the Secretary of State for Health and Social Care, if she will publish any and all changes made to guidance on practice, recording or statistical methodology since 4th July 2024 that may affect waiting times time series data comparability over time",
+   "dateTabled": "2026-10-13T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1945104,
+   "uin": "31187",
+   "heading": "NHS Property Services: General Practitioners and Pharmacy",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what was the total amount of (a) rent and (b) service charge income received by NHS Property Services from (i) GP practices and (ii) pharmacies, for each of the last three years for which data are ",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1945496,
+   "uin": "31591",
+   "heading": "Integrated Care Boards: Finance",
+   "questionText": "To ask the Secretary of State for Health and Social Care, by what analysis did her department reach the benchmark figure of £18.76 per capita running costs for ICBs.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1945495,
+   "uin": "31590",
+   "heading": "Integrated Care Boards: Finance",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how much of the 50% cost reduction required of ICBs was achieved by 31 December 2025.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1944691,
+   "uin": "30771",
+   "heading": "Integrated Care Boards: Costs",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what estimate she has made of the total costs of ICBs including capital and revenue spend, one-off items and recurring items in (a) 2024/5 (b) 2025/6 (c) 2026/7.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1947106,
+   "uin": "33214",
+   "heading": "Mental Health: Children and Young People",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference to the answer to UIN 70396, tabled on 29 August 2025 and UIN 81279, tabled on 13 October 2025, whether there is any update on plans in relation to the future Children and Young Peopl",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1945106,
+   "uin": "31189",
+   "heading": "Department of Health and Social Care: Staff",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how much of the £860m brought forward in Budget 2025 to cover headcount reductions in her department, NHS England and ICBs is to cover (a) redundancy payments (b) other costs, in each of those orga",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1945105,
+   "uin": "31188",
+   "heading": "Department of Health and Social Care: Staff",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether her projection of the costs of headcount reductions in her department, NHS England and ICBs remains within the £860m brought forward in the Budget November 2025.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1946294,
+   "uin": "32387",
+   "heading": "Mental Health: Children and Young People",
+   "questionText": "To ask the Secretary of State for Health and Social Care, if she will discuss with counterparts in comparable countries the possibility of aligning a subset of questions in future Mental Health of Children and Young People Prevalence Surveys with question",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1944693,
+   "uin": "30772",
+   "heading": "Medical Certificates",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what recent discussions she has had with the Secretary of State for Work and Pensions about the effectiveness of the Fit Note system.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1945107,
+   "uin": "31190",
+   "heading": "Keep Britain Working Review",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what progress he has made on his Department's workstreams arising from the Mayfield Keep Britain Working Review.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1939838,
+   "uin": "28292",
+   "heading": "General Practitioners",
+   "questionText": "To ask the Secretary of State for Health and Social Care, with reference to the Answer of 13 April 2026 to Question 124063 on General Practitioners, what proportion of Speciality Trainee Year 3 GPs were not seen in the National Workforce Reporting Service",
+   "dateTabled": "2026-09-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1930309,
+   "uin": "19925",
+   "heading": "Neighbourhood Health Centres",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what guidance her department gives for determining neighbourhood health centre catchment/geographical areas.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1930275,
+   "uin": "19923",
+   "heading": "Electric Vehicles: Charging Points",
+   "questionText": "To ask the Secretary of State for Transport, if she will take steps to align support provided to housing associations with support provided to local authorities to enable them to provide people with low-cost access to EV charging.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1930276,
+   "uin": "19924",
+   "heading": "Electric Vehicles: Charging Points",
+   "questionText": "To ask the Secretary of State for Transport, if she will make it her policy to expand the terms of reference of the Cost of public EV charging review, published on 9 June 2026, to include VAT levied on public EV charging.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1930336,
+   "uin": "19926",
+   "heading": "Water Supply",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, if she will publish the membership and remit of the water delivery taskforce.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1922778,
+   "uin": "14793",
+   "heading": "Primary Education: Physical Education and Sports",
+   "questionText": "To ask the Secretary of State for Education, what estimate she has made of the (a) total and (b) per-pupil primary school revenue funding earmarked for sport and physical education in Hampshire in (i) 2023/4, (ii) 2024/5, (iii) 2025/6 and (iv) 2026/7.",
+   "dateTabled": "2026-07-01T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1922777,
+   "uin": "14792",
+   "heading": "Primary Education: Physical Education and Sports",
+   "questionText": "To ask the Secretary of State for Education, what estimate she has made of the (a) total and (b) per-pupil primary school revenue funding earmarked for sport and physical education in England in (i) 2023/4, (ii) 2024/5, (iii) 2025/6 and (iv) 2026/7.",
+   "dateTabled": "2026-07-01T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1926788,
+   "uin": "17979",
+   "heading": "Gold: Prices",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what assessment he has made of the potential merits of requiring transparent display of price paid per gramme among (a) over-the-counter and (b) online operators in the gold-buying",
+   "dateTabled": "2026-07-13T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1920330,
+   "uin": "13115",
+   "heading": "Special Educational Needs: Recruitment",
+   "questionText": "To ask the Secretary of State for Education, what steps her department is taking to support the recruitment of more Educational Psychologists, Speech and Language Therapists and Occupational Therapists, pursuant to her reforms in SEND provision.",
+   "dateTabled": "2026-06-25T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1925645,
+   "uin": "16862",
+   "heading": "Exercise: Schools",
+   "questionText": "To ask the Secretary of State for Health and Social Care, further to the answer to WPQ 14794 received on 8th July, what estimate he has made of the cash amount of his Department's funding contribution to the Department for Education for the Primary PE and",
+   "dateTabled": "2026-07-08T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1926818,
+   "uin": "17980",
+   "heading": "Schools: Temperature",
+   "questionText": "To ask the Secretary of State for Education, what steps her Department is taking to ensure that schools remain safe and operational during periods of extreme heat.",
+   "dateTabled": "2026-07-13T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1926820,
+   "uin": "17981",
+   "heading": "Schools: Temperature",
+   "questionText": "To ask the Secretary of State for Education, what assessment she has made of the potential impact of the present period of extreme heat on the capacity of schools to remain safe and operational.",
+   "dateTabled": "2026-07-13T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1920332,
+   "uin": "13117",
+   "heading": "Mental Health Services: Schools",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what performance indicators his department uses for the Mental Health Support Teams in schools programme.",
+   "dateTabled": "2026-06-25T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1920333,
+   "uin": "13118",
+   "heading": "Mental Health Services: Schools",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what interaction at a local level Mental Health Support Teams are expected to have with Local Authorities and Academy Trusts on improving school attendance.",
+   "dateTabled": "2026-06-25T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1922781,
+   "uin": "14795",
+   "heading": "Youth Services: Expenditure",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what estimate she has made of her Department’s (a) capital and (b) revenue spending across youth facilities and activities programmes in (i) 2023/4, (ii) 2024/5, (iii) 2025/6 and (iv) 2026/7.",
+   "dateTabled": "2026-07-01T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1922776,
+   "uin": "14791",
+   "heading": "Children: Artificial Intelligence",
+   "questionText": "To ask the Secretary of State for Education, what steps her Department has taken with the Information Commissioner’s Office on the development of an Age Appropriate Design code for Artificial Intelligence applications.",
+   "dateTabled": "2026-07-01T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1922775,
+   "uin": "14790",
+   "heading": "Education: ICT",
+   "questionText": "To ask the Secretary of State for Education, what steps she has taken with the Information Commissioner’s Office to develop an Age Appropriate Design Code for EdTech.",
+   "dateTabled": "2026-07-01T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1920258,
+   "uin": "13114",
+   "heading": "Events Industry: Government Assistance",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what alternative sources of finance and support are available from HM Government for organisations and events previously served by the Business Events Growth Programme.",
+   "dateTabled": "2026-06-25T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1920257,
+   "uin": "13113",
+   "heading": "Events Industry",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what long-term impact she projects on (a) total economic activity (b) export earnings from the closure of the Business Events Growth Programme.",
+   "dateTabled": "2026-06-25T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1920256,
+   "uin": "13112",
+   "heading": "Events Industry",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what impact she projects on the development and marketing of business events in the UK from the closure of the Business Events Growth Programme.",
+   "dateTabled": "2026-06-25T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1920255,
+   "uin": "13111",
+   "heading": "Events Industry",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what estimate she has made of the growth trajectory of the (a) global (b) European markets for international business events.",
+   "dateTabled": "2026-06-25T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1920254,
+   "uin": "13110",
+   "heading": "Events Industry",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what estimate she has made of the size of the (a) global (b) European markets for international business events, and the UK’s share of them.",
+   "dateTabled": "2026-06-25T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1920253,
+   "uin": "13109",
+   "heading": "Events Industry",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what objectives her department gives to the British Tourist Authority for promoting the UK as a business events destination.",
+   "dateTabled": "2026-06-25T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1920331,
+   "uin": "13116",
+   "heading": "Special Educational Needs: Neurodiversity",
+   "questionText": "To ask the Secretary of State for Education, how the Partnerships for inclusion of neurodiversity in schools (PINS) programme and Experts at Hand programme relate to one another.",
+   "dateTabled": "2026-06-25T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1922780,
+   "uin": "14794",
+   "heading": "Exercise: Schools",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what estimate he has made of his Department’s contribution to the Department for Education to support exercise and other health-related activity in schools in (i) 2023/4, (ii) 2024/5, (iii) 2025/6 ",
+   "dateTabled": "2026-07-01T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1904168,
+   "uin": "88",
+   "heading": "Special Educational Needs: Reform",
+   "questionText": "To ask the Secretary of State for Education, whether in areas with middle schools, a pupil transitioning to Middle school or from Middle school will count as a change in phase of education for the purposes of the EHCP reforms she outlined in February 2026",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1904167,
+   "uin": "87",
+   "heading": "Special Educational Needs: Reform",
+   "questionText": "To ask the Secretary of State for Education, whether there are changes of (a) circumstances and (b) residency other than moving to (i) secondary school and (ii) college which could trigger change of educational phase provisions in EHCP reforms.",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1915946,
+   "uin": "9537",
+   "heading": "Payments: Fraud",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of the impact of powers in The Payment Services (Amendment) Regulations 2024 on preventing, disrupting and detecting fraud.",
+   "dateTabled": "2026-06-15T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1915948,
+   "uin": "9538",
+   "heading": "Small Businesses: Loans",
+   "questionText": "To ask the Secretary of State for Business and Trade, further to the Answer of 11 June 2026 to Question 7122, if he will collect data on the average time for SMEs to receive a decision on bank loan applications.",
+   "dateTabled": "2026-06-15T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1915216,
+   "uin": "8997",
+   "heading": "Education: ICT",
+   "questionText": "To ask the Secretary of State for Education, how many (a) primary schools, (b) secondary schools and (c) further education colleges are participating in the next EdTech and AI pilot scheme announced in January 2026.",
+   "dateTabled": "2026-06-11T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1915214,
+   "uin": "8990",
+   "heading": "Education: ICT",
+   "questionText": "To ask the Secretary of State for Education, if she will publish the evidence of improved outcomes for pupils who took part in the nine-month EdTech Impact Testbed pilot in 2025.",
+   "dateTabled": "2026-06-11T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1915213,
+   "uin": "8989",
+   "heading": "Education: ICT",
+   "questionText": "To ask the Secretary of State for Education, what assessment she has made of the outcome of the nine-month EdTech Impact Testbed pilot rolled out in 2025.",
+   "dateTabled": "2026-06-11T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1915212,
+   "uin": "8988",
+   "heading": "Pupils: ICT",
+   "questionText": "To ask the Secretary of State for Education, what data her Department holds on how much time (a) primary and (b) secondary school children are spending on screens during (i) the school day (ii) for homework.",
+   "dateTabled": "2026-06-11T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1912256,
+   "uin": "6735",
+   "heading": "Primary Education: Physical Education and Sports",
+   "questionText": "To ask the Secretary of State for Education, what estimate she has made of (a) total and (b) per pupil funding from her Department to primary schools earmarked for PE and sport (i) in AY2024/5 (ii) in AY2025/6 and (iii) projected for AY2026/7.",
+   "dateTabled": "2026-06-04T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1913041,
+   "uin": "7121",
+   "heading": "Financial Services: Fraud",
+   "questionText": "To ask the Chancellor of the Exchequer, what discussions she has had with the Secretary of State for the Home Department, on the potential merits of building in safeguards against fraud in the development of account-to-account payment systems.",
+   "dateTabled": "2026-06-05T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1913040,
+   "uin": "7120",
+   "heading": "Financial Services: Fraud",
+   "questionText": "To ask the Chancellor of the Exchequer, with reference to the Payment Systems Regulator's document entitled Specific Direction 17 on expanding Confirmation of Payee, published in October 2022, what assessment she has made of the potential impact of that D",
+   "dateTabled": "2026-06-05T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1911766,
+   "uin": "6355",
+   "heading": "Royal Hampshire County Hospital: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, for the Royal Hampshire County Hospital, Winchester, for each of (a) February, (b) March and (c) April in (i) 2024, (ii) 2025 and (iii) 2026, what was the average daily number of (A) total adult in",
+   "dateTabled": "2026-06-03T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1911765,
+   "uin": "6354",
+   "heading": "Basingstoke and North Hampshire Hospital: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, for the Basingstoke & North Hampshire Hospital, Basingstoke, for each of (a) February, (b) March and (c) April in (i) 2024, (ii) 2025 and (iii ) 2026, what was the average daily number of (A) total",
+   "dateTabled": "2026-06-03T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1911764,
+   "uin": "6353",
+   "heading": "Queen Alexandra Hospital: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, for the Queen Alexandra Hospital, Portsmouth, for each of (a) February, (b) March and (c) April in (i) 2024, (ii) 2025 and (iii) 2026, what was the average daily number of (A) total adult in-patien",
+   "dateTabled": "2026-06-03T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1904166,
+   "uin": "86",
+   "heading": "Special Educational Needs: Reform",
+   "questionText": "To ask the Secretary of State for Education, what assessment she has made of the potential impact of the specialist provision packages in the SEND Reform: Putting Children and Young People First consultation on children with complex needs reliant on statu",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1912254,
+   "uin": "6734",
+   "heading": "Payments: Fraud",
+   "questionText": "To ask the Chancellor of the Exchequer, whether her Department holds data on how many times in 2025 the provisions of the Payment Services (Amendment) Regulations 2024 were used; and what estimate she has made of the (a) number and (b) value of attempted ",
+   "dateTabled": "2026-06-04T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1912253,
+   "uin": "6733",
+   "heading": "Payments: Fraud",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of the effectiveness of use of The Payment Services (Amendment) Regulations 2024.",
+   "dateTabled": "2026-06-04T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1913042,
+   "uin": "7122",
+   "heading": "Small Businesses: Loans",
+   "questionText": "To ask the Secretary of State for Business and Trade, what assessment his Department has made of trends in the average time for SMEs to receive a decision on bank loan applications.",
+   "dateTabled": "2026-06-05T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1909136,
+   "uin": "4075",
+   "heading": "Broadband: Finance",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, with reference to CityFibre's press release entitled CityFibre and BDUK agree changes to Project Gigabit rollout following increase in commercial build, published on 26 May 2026, what t",
+   "dateTabled": "2026-05-29T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1909137,
+   "uin": "4076",
+   "heading": "GCE A-level and GCSE",
+   "questionText": "To ask the Secretary of State for Education, what guidance her Department provides on the applicability of Normal Way of Working as a criterion for use of a computer for (a) GCSE and (b) A Level, for pupils who do not have a related physical disability or",
+   "dateTabled": "2026-05-29T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1909138,
+   "uin": "4077",
+   "heading": "GCE A-level and GCSE",
+   "questionText": "To ask the Secretary of State for Education, if she will take further steps to reform the data collection methodology in order to (a) increase the accuracy and (b) reduce the statistical range in reporting the prevalence of (i) 25% extra time, (ii) use of",
+   "dateTabled": "2026-05-29T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1913217,
+   "uin": "900279",
+   "heading": "Fraud",
+   "questionText": "To ask the Secretary of State for the Home Department, what recent assessment she has made of trends in levels of fraud.",
+   "dateTabled": "2026-06-02T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1909140,
+   "uin": "4078",
+   "heading": "Energy: VAT",
+   "questionText": "To ask the Chancellor of the Exchequer, whether her department has concluded its review into the Energy Saving Materials Framework; and when a decision is expected regarding the extension of its current sunset clause of March 2027.",
+   "dateTabled": "2026-05-29T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1904276,
+   "uin": "125",
+   "heading": "Special Educational Needs: Armed Forces",
+   "questionText": "To ask the Secretary of State for Education, what steps she is taking to ensure SEND practitioners receive training on the impact of Armed Forces life on children with additional needs.",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1904277,
+   "uin": "126",
+   "heading": "Special Educational Needs: Armed Forces",
+   "questionText": "To ask the Secretary of State for Education, whether Ofsted inspection frameworks take account of how schools support children from Armed Forces families with special educational needs or disabilities.",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1904266,
+   "uin": "116",
+   "heading": "Bank Services: Post Offices",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment has she made of the potential merits of standardising cash and banking services in the next iteration of the Banking Framework between Post Office and the banking industry.",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1904265,
+   "uin": "115",
+   "heading": "Bank Services",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of the adequacy of (a) the roll-out of banking hubs and (b) post offices to meet in-person banking needs beyond cash.",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1885148,
+   "uin": "115805",
+   "heading": "Special Educational Needs",
+   "questionText": "To ask the Secretary of State for Education, whether there are any changes of circumstances or residency, other than moving to secondary school or college, which could trigger the ‘change of educational phase’ provisions in the EHCP reforms she outlined i",
+   "dateTabled": "2026-02-25T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1885147,
+   "uin": "115804",
+   "heading": "Special Educational Needs",
+   "questionText": "To ask the Secretary of State for Education, whether in areas with middle schools, a pupil transitioning to Middle school or from Middle school will count as a change in phase of education for the purposes of the EHCP reforms she outlined in February 2026",
+   "dateTabled": "2026-02-25T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1900465,
+   "uin": "127793",
+   "heading": "Special Educational Needs: Reform",
+   "questionText": "To ask the Secretary of State for Education, what assessment she has made of the potential impact of the specialist provision packages mentioned in the SEND Reform: Putting Children and Young People First consultation on children with complex needs relian",
+   "dateTabled": "2026-04-16T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1903362,
+   "uin": "129820",
+   "heading": "Local Government: Reorganisation",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, if he will publish the estimated financial payback periods for each of the options for local government reorganisation in (i) Hampshire, (ii) Essex, (iii) Norfolk and (iv) Suffol",
+   "dateTabled": "2026-04-27T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1903361,
+   "uin": "129819",
+   "heading": "Local Government: Reorganisation",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, if he will place in the Library a copy of the cost-benefit analysis for local government reorganisation in (i) Hampshire (ii) Essex (iii) Norfolk and (iv) Suffolk, including (a) ",
+   "dateTabled": "2026-04-27T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1903365,
+   "uin": "129852",
+   "heading": "Local Government: Reorganisation",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what assessment he has made of the adequacy of the availability of (i) ward and (ii) parish financial data to facilitate funding disaggregation as a result of boundary changes an",
+   "dateTabled": "2026-04-27T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1903363,
+   "uin": "129821",
+   "heading": "Local Government: Reorganisation",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what assessment he has made of the adequacy of the (i) systems and (ii) manpower capacity in local authorities to implement local government reorganisation; and if he will place ",
+   "dateTabled": "2026-04-27T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1896689,
+   "uin": "124537",
+   "heading": "Tourism: Economic Situation",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what estimate she has made of the contribution of inbound international visitors to the UK economy in the five most recent years for which data are available.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1896688,
+   "uin": "124536",
+   "heading": "Tourism: Tax Yields",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what estimate she has made of the contribution of inbound international visitors to Exchequer receipts in the five most recent years for which data are available.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1857823,
+   "uin": "95033",
+   "heading": "Special Educational Needs: Finance",
+   "questionText": "To ask the Secretary of State for Education, with reference to the OBR’s Economic and fiscal outlook November 2025, page 122, what assessment she has made of the potential impact of the absorption of SEND provision into existing RDEL limits from 2028-29 o",
+   "dateTabled": "2025-11-27T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1885144,
+   "uin": "115802",
+   "heading": "Special Educational Needs: Finance",
+   "questionText": "To ask the Secretary of State for Education, what proportion of currently-projected local authorities’ SEND deficits she expects to be covered from the central government funds when the Statutory Override ends at the end of 2027-28.",
+   "dateTabled": "2026-02-25T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1895676,
+   "uin": "124063",
+   "heading": "General Practitioners",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many and what proportion GPs were not in General Practice in England one year after receipt of their Certificate of Completion of Training in each of the most recent five years for which data a",
+   "dateTabled": "2026-03-26T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1885142,
+   "uin": "115800",
+   "heading": "Special Educational Needs: Finance",
+   "questionText": "To ask the Secretary of State for Education, what estimate she has made of the total historic SEND deficits accrued in local authorities in England up to the end of (a) 2024/5 and (b) 2025/6; and what estimate she has made of the level of funding that wil",
+   "dateTabled": "2026-02-25T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1885143,
+   "uin": "115801",
+   "heading": "Special Educational Needs: Finance",
+   "questionText": "To ask the Secretary of State for Education, whether her Department's estimate of local authorities’ projected SEND deficits in 2028/29 assumes that 6.8% of pupils will have an EHCP in the academic year 2027/8, 7.3% in academic year 2028/9 and 7.7% in aca",
+   "dateTabled": "2026-02-25T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1880967,
+   "uin": "112584",
+   "heading": "Special Educational Needs: Secondary Education",
+   "questionText": "To ask the Secretary of State for Education, with reference to her Department's announcement of 11 February 2026 entitled 10-year plan to revitalise schools and colleges for every child, how many and what proportion of secondary schools do not have an inc",
+   "dateTabled": "2026-02-11T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1885145,
+   "uin": "115803",
+   "heading": "Schools: Hampshire",
+   "questionText": "To ask the Secretary of State for Education, what estimate she has made of the effect of the changes outlined in the February 2026 white paper to the school funding formula on average per-pupil funding in (a) Hampshire (b) the East Hampshire parliamentary",
+   "dateTabled": "2026-02-25T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1889660,
+   "uin": "119231",
+   "heading": "Housing: Construction",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, whether he plans to issue to local planning authorities guidance on the recommended mix of dwelling sizes in new housing developments in light of recent changes in the birth rate",
+   "dateTabled": "2026-03-10T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1886316,
+   "uin": "116734",
+   "heading": "Higher Education: Business Rates",
+   "questionText": "To ask the Secretary of State for Education, what estimate she has made of the change in business rates liability for the university sector in 2026/7 relative to 2024/5.",
+   "dateTabled": "2026-03-02T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1886313,
+   "uin": "116732",
+   "heading": "Department for Education: Business Rates",
+   "questionText": "To ask the Secretary of State for Education, pursuant to her Answer of 12 January 2026 to Question 104726 on Department for Education: Business Rates, what estimate she has made of the change in business rates liability for the 2026-27 financial year comp",
+   "dateTabled": "2026-03-02T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1886312,
+   "uin": "116731",
+   "heading": "Department for Education: Business Rates",
+   "questionText": "To ask the Secretary of State for Education, with reference to the Answer of 12 January 2026 to Question 104726 on Department for Education: Business Rates, what was the level of (a) payment and (b) reimbursement of business rates in (a) her Department an",
+   "dateTabled": "2026-03-02T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1886315,
+   "uin": "116733",
+   "heading": "Further Education: Business Rates",
+   "questionText": "To ask the Chancellor of the Exchequer, what estimate she has made of the change in business rates liability for the further education college sector in 2026/7 relative to 2024/5.",
+   "dateTabled": "2026-03-02T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1880987,
+   "uin": "112588",
+   "heading": "Dedicated Schools Grant",
+   "questionText": "To ask the Secretary of State for Education, what projection she has made of the deficit in the High Needs block budgets of English councils between now and the start of FY 2028/9.",
+   "dateTabled": "2026-02-11T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1880983,
+   "uin": "112587",
+   "heading": "Dedicated Schools Grant: Debts",
+   "questionText": "To ask the Secretary of State for Education, what assessment she has made of the potential impact of the write-off of 90 per cent of the High Needs block debts of English councils on the amount of SEND funding to be absorbed into her Department's Resource",
+   "dateTabled": "2026-02-11T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1880977,
+   "uin": "112586",
+   "heading": "Special Educational Needs: Secondary Education",
+   "questionText": "To ask the Secretary of State for Education, with reference to her Department's publications entitled 10-year plan to revitalise schools and colleges for every child, and Education estates strategy: a decade of national renewal, published on 11 February 2",
+   "dateTabled": "2026-02-11T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1880374,
+   "uin": "112116",
+   "heading": "Apprentices: Costs",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what estimate he has made of the average cost to a non-Levy-paying firm of employing an 18-year old apprentice in the first year of their apprenticeship, paid at the legal minimum hourly rate for a 37.5",
+   "dateTabled": "2026-02-10T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1880373,
+   "uin": "112115",
+   "heading": "Apprentices: Costs",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what estimate he has made of the average cost to a non-Levy-paying firm of employing an 19-year old apprentice in the second year of their apprenticeship, paid at the legal minimum hourly rate for a 37.",
+   "dateTabled": "2026-02-10T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1880372,
+   "uin": "112114",
+   "heading": "Apprentices: Costs",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what estimate he has made of the average cost to a non-Levy-paying firm of employing an 19-year old apprentice in the first year of their apprenticeship, paid at the legal minimum hourly rate for a 37.5",
+   "dateTabled": "2026-02-10T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1880975,
+   "uin": "112585",
+   "heading": "Special Educational Needs: Secondary Education",
+   "questionText": "To ask the Secretary of State for Education, with reference to her Department's publications entitled 10-year plan to revitalise schools and colleges for every child, and Education estates strategy: a decade of national renewal, published on 11 February 2",
+   "dateTabled": "2026-02-11T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1870535,
+   "uin": "104726",
+   "heading": "Department for Education: Business Rates",
+   "questionText": "To ask the Secretary of State for Education, what estimate she has made of the change to the level of (a) payment and (b) reimbursement of business rates in (i) her Department and the (ii) Education and Skills Funding Agency between financial years (A) 20",
+   "dateTabled": "2026-01-12T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1878685,
+   "uin": "110747",
+   "heading": "Social Media: Children",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, further to her oral contribution during the statement on Mobile Phones and Social Media on 20th January 2026 whether \"before the summer\" indicates prior to the House rising for the summ",
+   "dateTabled": "2026-02-04T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1880371,
+   "uin": "112113",
+   "heading": "Apprentices: Costs",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many and what proportion of apprentices aged (a) 21 or under and (b) 24 or under were subject to a 100% reduction in apprenticeship training cost in (i) 2023-4 (ii) 2024-5 financial year.",
+   "dateTabled": "2026-02-10T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1880370,
+   "uin": "112112",
+   "heading": "Apprentices: Costs",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many and what proportion of apprentices employed by non-Levy-paying employers were subject to a (a) 100% (b) 95% (c) any other reduction in apprenticeship training costs.",
+   "dateTabled": "2026-02-10T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1880368,
+   "uin": "112110",
+   "heading": "Apprentices: Costs",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what estimate he has made of the average cost to a non-Levy-paying firm of employing an 18-year old apprentice in the second year of their apprenticeship, paid at the legal minimum hourly rate for a 37.",
+   "dateTabled": "2026-02-10T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1880367,
+   "uin": "112109",
+   "heading": "Apprentices: Costs",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what estimate he has made of the average cost to a non-Levy-paying firm of employing an 18-year old apprentice in the first year of their apprenticeship, paid at the legal minimum hourly rate for a 37.5",
+   "dateTabled": "2026-02-10T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1880369,
+   "uin": "112111",
+   "heading": "Apprenticeship Levy",
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many and what proportion of apprentice-employing non-Levy-paying firms received an Apprenticeship Levy Transfer from a Levy-paying firm in 2023-4 financial year.",
+   "dateTabled": "2026-02-10T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1880516,
+   "uin": "112117",
+   "heading": "Pharmacy: Business Rates",
+   "questionText": "To ask the Secretary of State for Health and Social Care, if she will make an assessment of the potential implications for her policies on community pharmacies of (a) business rates revaluation from April 2026 and (b) their exclusion from RHL reliefs.",
+   "dateTabled": "2026-02-10T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1878683,
+   "uin": "110746",
+   "heading": "Internet: Children",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, further to the three month consultation announced by the Government on further measures to keep children safe online, whether her Department plans to review submissions (a) as they come",
+   "dateTabled": "2026-02-04T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1878417,
+   "uin": "110744",
+   "heading": "Work Capability Assessment",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what capacity his Department has made available for Work Capability Assessments in the next six months; and what the backlog of cases is.",
+   "dateTabled": "2026-02-04T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1877687,
+   "uin": "109987",
+   "heading": "Mental Health Services: Schools",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether he plans to conduct a post-implementation review of the potential impact of the early waves of deployment of Mental Health Support Teams on schools.",
+   "dateTabled": "2026-02-02T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1877688,
+   "uin": "109988",
+   "heading": "Mental Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps he is planning to take to ensure the exchange of best practice among Healthcare Trusts from their deployment of Mental Health Support Teams.",
+   "dateTabled": "2026-02-02T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1878681,
+   "uin": "110745",
+   "heading": "Internet: Children",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, further to the three month consultation announced by the government on further measures to keep children safe online, how many full-time equivalent officials she has assigned to this co",
+   "dateTabled": "2026-02-04T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1879126,
+   "uin": "111101",
+   "heading": "Schools: Business Rates",
+   "questionText": "To ask the Chancellor of the Exchequer, pursuant to the Answer of 27 January 2026 to Question 102744 on Hospitality Industry and Retail Trade: Business Rates, what estimate she has made for the total business rates liability for the current set of propert",
+   "dateTabled": "2026-02-05T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1864537,
+   "uin": "100283",
+   "heading": "Mental Health Services: Schools",
+   "questionText": "To ask the Secretary of State for Health and Social Care, for each wave of Mental Health Support Teams up to Wave 12, what the anticipated ratio of FTE clinical staff (a) was and (b) is in the Mental Health Support Team to pupil numbers in the schools cov",
+   "dateTabled": "2025-12-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1875174,
+   "uin": "108186",
+   "heading": "Further Education: Business Rates",
+   "questionText": "To ask the Chancellor of the Exchequer, if she will make an assessment of the potential implications for her policies on Further Education Colleges of (a) business rates revaluation and (b) the new multiplier bands from April 2026.",
+   "dateTabled": "2026-01-26T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1857822,
+   "uin": "95032",
+   "heading": "Special Educational Needs: Finance",
+   "questionText": "To ask the Secretary of State for Education, with reference to statement in the OBR’s report entitled Economic and fiscal outlook November 2025, page 122, that the Government has announced in the Budget that SEND provision will be fully absorbed into exis",
+   "dateTabled": "2025-11-27T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1870507,
+   "uin": "104719",
+   "heading": "Warehouses: Business Rates",
+   "questionText": "To ask the Chancellor of the Exchequer, whether her reference to warehouses in the Budget statement, Hansard 26 November 2025, Col 395, in relation to Business Rates was referring to Valuation Office Agency Special Category Code 151.",
+   "dateTabled": "2026-01-12T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1870531,
+   "uin": "104722",
+   "heading": "NHS Trusts: Finance",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether funding for NHS hospital trusts will be adjusted as a result of business rates revaluation and the new multiplier bands from April 2026.",
+   "dateTabled": "2026-01-12T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1870530,
+   "uin": "104721",
+   "heading": "NHS: Business Rates",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what estimate he has made of the potential of (a) business rates revaluation and (b) the new multiplier bands from April 2026 on (i) NHS hospitals (ii) other NHS facilities and (ii) facilities of o",
+   "dateTabled": "2026-01-12T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1870536,
+   "uin": "104727",
+   "heading": "Further Education: Business Rates",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of the potential impact of (a) business rates revaluation and (b) the new multiplier bands from April 2026 on Further Education colleges.",
+   "dateTabled": "2026-01-12T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1870529,
+   "uin": "104720",
+   "heading": "Business Rates: Valuation",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of the potential of business rates revaluation and the new multiplier bands from April 2026 on (a) hotels, (b) Sports & Leisure Centres, (c) theatres, (d) live music venues and (e) other",
+   "dateTabled": "2026-01-12T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1869639,
+   "uin": "104148",
+   "heading": "Assessments: Software",
+   "questionText": "To ask the Secretary of State for Education, with reference to the press release entitled Government modernises exam records with new app, published on 8 January 2026, how the £30m savings figure was estimated; and what the average saving for a state seco",
+   "dateTabled": "2026-01-08T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1868057,
+   "uin": "102742",
+   "heading": "Local Plans",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what estimate he has made of the percentage of Local Authorities that have an up to date Local Plan and 5 Year Housing Land Supply.",
+   "dateTabled": "2026-01-05T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1868066,
+   "uin": "102743",
+   "heading": "Local Plans",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what estimate he has made of the percentage of Local Authorities that had an up to date Local Plan and 5 Year Housing Land Supply prior to the 2024 changes to the Standard Method",
+   "dateTabled": "2026-01-05T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1868080,
+   "uin": "102744",
+   "heading": "Educational Institutions: Business Rates",
+   "questionText": "To ask the Chancellor of the Exchequer, what estimate she has made of the number of premises that will be in the new, higher multiplier bracket for properties with a Rateable Value of £500,000, that will be in SIC code Sector P (85) [Education]; and what ",
+   "dateTabled": "2026-01-05T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1863176,
+   "uin": "99167",
+   "heading": "Housing",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what assumptions on (a) longevity, (b) net immigration, (c) average size of household, (d) birth rate and (e) other factors underpin his Department's assessment of future demand ",
+   "dateTabled": "2025-12-11T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1863175,
+   "uin": "99166",
+   "heading": "Housing",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what recent assessment he has made of the effect of (a) increasing longevity, (b) net immigration, (c) average size of household and (d) other factors on near-term demand for hou",
+   "dateTabled": "2025-12-11T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1864536,
+   "uin": "100282",
+   "heading": "Local Government: Hampshire",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, further to WPQ 97762 answered on 15 Dec 2026, what is the (a) minimum and (b) maximum estimate of the (i) cost, and (ii) saving effects on the public purse of proposed local gove",
+   "dateTabled": "2025-12-16T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1863165,
+   "uin": "99156",
+   "heading": "Retail Trade: Business Rates",
+   "questionText": "To ask the Chancellor of the Exchequer, what estimate she has made of the proportion of premises that will be subject to higher-multiple business rates which are solely or primarily classed within Standard Industrial Classification code (a) 47910, (b) 479",
+   "dateTabled": "2025-12-11T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1863164,
+   "uin": "99155",
+   "heading": "Retail Trade: Business Rates",
+   "questionText": "To ask the Chancellor of the Exchequer, what estimate she has made of the proportion of premises that will be subject to higher-multiple business rates which are (a) owned and (b) operated by an online retailer.",
+   "dateTabled": "2025-12-11T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1863170,
+   "uin": "99161",
+   "heading": "Hotels: Business Rates and Employers' Contributions",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of the potential impact of changes to employer National Insurance contributions and business rates in Budgets 2024 and 2025 on the price competitiveness of UK hotels for inbound internat",
+   "dateTabled": "2025-12-11T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1863169,
+   "uin": "99160",
+   "heading": "Leisure: Business Rates",
+   "questionText": "To ask the Chancellor of the Exchequer, what estimate she has made of the number of (a) theatres, (b) cinemas, (c) live music venues, (d) comedy venues and (e) multi purpose and other entertainment venues that from next year see their business rates (i) i",
+   "dateTabled": "2025-12-11T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1863163,
+   "uin": "99154",
+   "heading": "Leisure and Retail Trade: Business Rates",
+   "questionText": "To ask the Chancellor of the Exchequer, how many retail, hospitality and leisure sector businesses in (a) England and (b) Hampshire are expected to see their business rates bill (i) go up (ii) stay the same and (iii) decrease from April 2026 as a result o",
+   "dateTabled": "2025-12-11T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1863162,
+   "uin": "99153",
+   "heading": "Public Houses: Business Rates",
+   "questionText": "To ask the Chancellor of the Exchequer, how many (a) tenanted or leased pubs (b) pubs owned and managed by a pub company and (c) standalone pubs are expected to see their business rates bill (i) go up (ii) stay the same and (iii) decrease from April 2026 ",
+   "dateTabled": "2025-12-11T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1863172,
+   "uin": "99163",
+   "heading": "Agency Workers and Self-employed",
+   "questionText": "To ask the Secretary of State for Business and Trade, whether he expects any shift from direct waged or salaried employment towards (a) self employment and (b) use of temp and staffing agencies as a result of measures in the Employment Rights Bill.",
+   "dateTabled": "2025-12-11T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1863171,
+   "uin": "99162",
+   "heading": "Events Industry and Leisure: Zero Hours Contracts",
+   "questionText": "To ask the Secretary of State for Business and Trade, what assessment he has made of the potential effect of measures on zero hours contracts in the Employment Rights Bill on the (a) music festival and live music events, (b) theatre and (c) exhibitions, c",
+   "dateTabled": "2025-12-11T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1863174,
+   "uin": "99165",
+   "heading": "Agency Workers and Self-employed: Pay",
+   "questionText": "To ask the Chancellor of the Exchequer, what estimate she has made of the average net effect on overall tax receipts when an individual moves from direct waged employment to (a) self employment or (b) contracting with a temp or staffing agency, all other ",
+   "dateTabled": "2025-12-11T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1863173,
+   "uin": "99164",
+   "heading": "Agency Workers and Staff: Pay",
+   "questionText": "To ask the Chancellor of the Exchequer, what estimate she has made of the average effect on take-home pay for an individual if they move from direct waged employment to contracting with a temp or staffing agency, all other things being equal.",
+   "dateTabled": "2025-12-11T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1861578,
+   "uin": "97762",
+   "heading": "Local Government: Hampshire",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what estimate he has made of the costs, savings and net impact on the public purse of proposed local government reorganisation for Hampshire in each of the next five years.",
+   "dateTabled": "2025-12-08T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1857821,
+   "uin": "95031",
+   "heading": "Reading: Finance",
+   "questionText": "To ask the Secretary of State for Education, with reference to Table 4.1 entitled Budget 2025 policy decisions in the Budget Red Book, line item 42, National Year of Reading: Fund state-funded secondary schools in England to increase book supplies, how th",
+   "dateTabled": "2025-11-27T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1857820,
+   "uin": "95030",
+   "heading": "Reading: Finance",
+   "questionText": "To ask the Secretary of State for Education, with reference to Table 4.1 entitled Budget 2025 policy decisions’ in the Budget Red Book, line item 42, National Year of Reading: Fund state-funded secondary schools in England to increase book supplies, wheth",
+   "dateTabled": "2025-11-27T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1857818,
+   "uin": "95029",
+   "heading": "Reading: Finance",
+   "questionText": "To ask the Secretary of State for Education, with reference to Table 4.1 entitled Budget 2025 policy decisions in the Budget Red Book, line item 42, National Year of Reading: Fund state-funded secondary schools in England to increase book supplies, which ",
+   "dateTabled": "2025-11-27T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1857817,
+   "uin": "95028",
+   "heading": "Playgrounds: Repairs and Maintenance",
+   "questionText": "To ask the Chancellor of the Exchequer, with reference to Table 4.1 entitled Budget 2025 policy decisions in the Budget Red Book, line item 43, Investing in Communities: Provide funding to refurbish and improve up to 200 playgrounds in England, whether (a",
+   "dateTabled": "2025-11-27T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1857816,
+   "uin": "95027",
+   "heading": "Playgrounds: Repairs and Maintenance",
+   "questionText": "To ask the Chancellor of the Exchequer, with reference to Table 4.1 entitled Budget 2025 policy decisions’ in the Budget Red Book, line item 43, Investing in Communities: Provide funding to refurbish and improve up to 200 playgrounds in England, how proje",
+   "dateTabled": "2025-11-27T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1857815,
+   "uin": "95026",
+   "heading": "Playgrounds: Repairs and Maintenance",
+   "questionText": "To ask the Chancellor of the Exchequer, with reference to Table 4.1 entitled Budget 2025 policy decisions in the Budget Red Book, line item 43, Investing in Communities: Provide funding to refurbish and improve up to 200 playgrounds in England, which Depa",
+   "dateTabled": "2025-11-27T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1964383,
+   "uin": "46476",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether she expects NHS Online to receive its first patients in 2027.",
+   "dateTabled": "2026-11-25T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1964382,
+   "uin": "46475",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Health and Social Care, what expenditure on NHS Online has been to date.",
+   "dateTabled": "2026-11-25T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1963738,
+   "uin": "45969",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Health and Social Care, what is the potential impact of local government reorganisation on her plans for primary care provision.",
+   "dateTabled": "2026-11-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1963737,
+   "uin": "45968",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether her plans for the function, scope or catchment areas of neighbourhood health centres have changed since the publication of the guidance entitled Neighbourhood health centre guidance for reg",
+   "dateTabled": "2026-11-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1963736,
+   "uin": "45967",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Health and Social Care, how neighbourhood support teams will interact with (a) GPs (b) other parts of the NHS.",
+   "dateTabled": "2026-11-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1963735,
+   "uin": "45966",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Health and Social Care, how neighbourhood support teams will be staffed and in which organisations they will be employed.",
+   "dateTabled": "2026-11-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1963734,
+   "uin": "45965",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Health and Social Care, what the purpose of neighbourhood support teams will be.",
+   "dateTabled": "2026-11-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1963733,
+   "uin": "45964",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Health and Social Care, when new multi-neighbourhood and single-neighbourhood contracts in primary care, as outlined in the 10 Year Health Plan for England, will be introduced.",
+   "dateTabled": "2026-11-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1962291,
+   "uin": "45084",
+   "heading": "Health Services: Youth Mobility Scheme",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment her Department has made of the potential impact of the proposed UK–EU youth experience scheme on (a) NHS expenditure, (b) demand for GP appointments and (c) waiting times for hospit",
+   "dateTabled": "2026-11-19T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1962287,
+   "uin": "45080",
+   "heading": "NHS: Fees and Charges",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether she plans to seek reciprocal healthcare arrangements under which the costs of NHS treatment provided to participants in the proposed UK–EU youth experience scheme would be reimbursed by the",
+   "dateTabled": "2026-11-19T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1962286,
+   "uin": "45079",
+   "heading": "NHS: Fees and Charges",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether EU nationals entering the UK under the proposed UK–EU youth experience scheme would be entitled to access (a) NHS primary care and (b) NHS hospital treatment in England without charge.",
+   "dateTabled": "2026-11-19T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1962153,
+   "uin": "44946",
+   "heading": "Medical Records: Data Protection",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps she is taking in the Children's Unique Identifier Project to guard against unauthorised access to records.",
+   "dateTabled": "2026-11-19T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1962151,
+   "uin": "44944",
+   "heading": "Medical Records: Data Protection",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps she is taking in the specification for the Single Patient Record to guard against unauthorised access to patient records.",
+   "dateTabled": "2026-11-19T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1962148,
+   "uin": "44941",
+   "heading": "NHS England: Reorganisation",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what new management appointments will be required pursuant to establishing the (a) new NHS Group within her Department and (b) Transitional Special Health Authority.",
+   "dateTabled": "2026-11-19T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1962147,
+   "uin": "44940",
+   "heading": "NHS England: Reorganisation",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what governance arrangements will be put in place for the (a) new NHS Group within her Department and (b) Transitional Special Health Authority.",
+   "dateTabled": "2026-11-19T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1962146,
+   "uin": "44939",
+   "heading": "NHS Trusts: Zero Hours Contracts",
+   "questionText": "To ask the Secretary of State for Health and Social Care, pursuant to the answer of 17 November 2026 to WPQ 42402, if she will make an approximation of the number of zero hours contracts in use in hospitals by extrapolating from data from a subset of Trus",
+   "dateTabled": "2026-11-19T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1962059,
+   "uin": "44852",
+   "heading": "Social Services: Conditions of Employment",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what representations she has received from local government about the costs associated with the Employment Rights Act for funding of the social care sector.",
+   "dateTabled": "2026-11-19T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1962058,
+   "uin": "44851",
+   "heading": "Zero Hours Contracts",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, whether he plans to adjust provisions in the Employment Rights Act relating to zero-hours contracts for workers on those contracts for whom such contract is not their main employme",
+   "dateTabled": "2026-11-19T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1962057,
+   "uin": "44850",
+   "heading": "NHS: Conditions of Employment",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what discussions she has had with HM Treasury on the potential merits of additional funding for the NHS to cover obligations arising from the Employment Rights Act.",
+   "dateTabled": "2026-11-19T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1962056,
+   "uin": "44849",
+   "heading": "NHS and Social Services: Conditions of Employment",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what estimate she has made of costs of the Employment Rights Act for (a) the NHS and (b) the social care sector.",
+   "dateTabled": "2026-11-19T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1962055,
+   "uin": "44848",
+   "heading": "NHS and Social Services: Zero Hours Contracts",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment she has made of the implications of the zero-hours contract provisions in the Employment Rights Act for staff and employers in (a) the NHS (b) the social care sector.",
+   "dateTabled": "2026-11-19T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1961810,
+   "uin": "44737",
+   "heading": "Zero Hours Contracts",
+   "questionText": "To ask the Minister for the Cabinet Office, whether her Department has the data in ONS table EMP17: People in employment on zero hours contracts, tab 6, at a sub-sector level for any of the sectors shown.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1961806,
+   "uin": "44733",
+   "heading": "Zero Hours Contracts",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, whether his Department has (a) survey and (b) other data estimating the number of people with a zero-hours contract for whom this contract is not their primary employment.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1961805,
+   "uin": "44732",
+   "heading": "Zero Hours Contracts: Hospitals",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what estimate he has made of the number of (a) zero-hours contracts and (b) people with a zero-hours contract employed in Hospital Activities, SIC code 86101, at the latest date fo",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  }
+ ],
+ "historyComplete": true
+}
