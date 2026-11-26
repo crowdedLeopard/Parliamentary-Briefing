@@ -1,0 +1,972 @@
+{
+ "id": 4883,
+ "fetchedOn": "2026-11-26",
+ "core": {
+  "id": 4883,
+  "nameListAs": "Moylan, L.",
+  "nameDisplayAs": "Lord Moylan",
+  "nameFullTitle": "The Lord Moylan",
+  "nameAddressAs": null,
+  "latestParty": {
+   "id": 4,
+   "name": "Conservative",
+   "abbreviation": "Con",
+   "backgroundColour": "0063ba",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": false,
+   "governmentType": 3,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "Life peer",
+   "membershipFromId": 4,
+   "house": 2,
+   "membershipStartDate": "2020-09-09T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2020-09-09T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/4883/Thumbnail"
+ },
+ "bio": {
+  "representations": [],
+  "electionsContested": [],
+  "houseMemberships": [
+   {
+    "house": 2,
+    "name": "Lords",
+    "id": 2,
+    "startDate": "2020-09-09T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Lord Moylan",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [],
+  "oppositionPosts": [
+   {
+    "house": 2,
+    "name": "Shadow Minister (Transport)",
+    "id": 971,
+    "startDate": "2024-09-01T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Department for Transport",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-transport"
+   }
+  ],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 2,
+    "name": "Conservative",
+    "id": 4,
+    "startDate": "2020-09-09T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 2,
+    "name": "Built Environment Committee",
+    "id": 518,
+    "startDate": "2022-10-12T00:00:00",
+    "endDate": "2025-01-30T00:00:00",
+    "additionalInfo": "Chair",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 2,
+    "name": "Built Environment Committee",
+    "id": 518,
+    "startDate": "2021-04-14T00:00:00",
+    "endDate": "2025-01-30T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 39604,
+     "interest": "Occasional broadcasting fees received from GB News Limited",
+     "createdWhen": "2022-02-16T13:31:25",
+     "lastAmendedWhen": "2025-04-05T00:00:00",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 48444,
+     "interest": "Adviser, Vayu Aviation Services Limited, (provider of aviation support services to airports and airlines)",
+     "createdWhen": "2026-11-09T16:33:52",
+     "lastAmendedWhen": "2026-11-09T16:34:33.077",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1006,
+   "name": "Category 3: Land and property",
+   "sortOrder": 1046,
+   "interests": [
+    {
+     "id": 36815,
+     "interest": "Non-beneficial registered ownership as Will Trustee of residential flat in London NW1 occupied by life tenant under terms of Will",
+     "createdWhen": "2020-10-06T13:09:50",
+     "lastAmendedWhen": "2025-04-05T00:00:00",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [],
+ "synopsis": "Lord Moylan's full title is The Lord Moylan. His name is Daniel Michael Gerald Moylan, and he is a current member of the House of Lords.",
+ "history": [
+  {
+   "id": 1957279,
+   "uin": "HL5086",
+   "heading": "Taxis: Migrant Workers",
+   "questionText": "To ask His Majesty's Government what plans they have, if any, to introduce transitional enforcement arrangements for taxi and private hire vehicle operators affected by the extension of right to work checking requirements from 1 October, including a grace",
+   "dateTabled": "2026-11-09T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1957280,
+   "uin": "HL5085",
+   "heading": "Taxis: Migrant Workers",
+   "questionText": "To ask His Majesty's Government what plans they have, if any, to permit taxi and private hire vehicle operators to rely on right to work checks undertaken by local licensing authorities when issuing or renewing driver licences as a statutory excuse agains",
+   "dateTabled": "2026-11-09T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1954064,
+   "uin": "HL4618",
+   "heading": "British Transport Police: Alternatives to Prosecution",
+   "questionText": "To ask His Majesty's Government in each of the last five years, how many offences recorded by the British Transport Police were dealt with by (1) a community resolution, and (2) a conditional caution, broken down by type of offence.",
+   "dateTabled": "2026-10-27T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1957282,
+   "uin": "HL5084",
+   "heading": "High Speed 2 Line: Rolling Stock",
+   "questionText": "To ask His Majesty's Government when they intend to begin the tender process for procuring rolling stock for HS2; what service pattern they intend that rolling stock to be capable of supporting; and what consultation they have undertaken with passenger bo",
+   "dateTabled": "2026-11-09T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1955808,
+   "uin": "HL4814",
+   "heading": "Rolling Stock: Repairs and Maintenance",
+   "questionText": "To ask His Majesty's Government what approval the Department for Transport is required to give before train operating companies renew rolling stock maintenance contracts without competitive tendering; and how many such renewals it has approved since July ",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1956351,
+   "uin": "HL4881",
+   "heading": "Rolling Stock Companies",
+   "questionText": "To ask His Majesty's Government what are the total liabilities of DfT Operator Limited to rolling stock leasing companies.",
+   "dateTabled": "2026-11-03T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1952419,
+   "uin": "HL4452",
+   "heading": "A46: Newark",
+   "questionText": "To ask His Majesty's Government how much funding has been spent on the A46 Newark bypass scheme to date, broken down by (1) design, (2) planning and development consent, (3) procurement, (4) land acquisition, and (5) other preparatory works.",
+   "dateTabled": "2026-10-22T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1955807,
+   "uin": "HL4815",
+   "heading": "Rolling Stock: Repairs and Maintenance",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the Office of Rail and Road's finding in the Rolling Stock Maintenance Market Review interim report, published on 29 October, that changing rolling stock maintenance arrangements can delive",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1954568,
+   "uin": "HL4660",
+   "heading": "Stratford Station",
+   "questionText": "To ask His Majesty's Government what estimate they have made of the total capital cost of upgrading Stratford International station to accommodate international passenger rail services.",
+   "dateTabled": "2026-10-28T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1955810,
+   "uin": "HL4812",
+   "heading": "Rolling Stock: Repairs and Maintenance",
+   "questionText": "To ask His Majesty's Government, in the light of paragraph 4.43 of the Office of Rail and Road's Rolling Stock Maintenance Market Review interim report, published on 29 October, which train operating companies and rolling stock fleets were involved in mai",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1955809,
+   "uin": "HL4813",
+   "heading": "Rolling Stock: Repairs and Maintenance",
+   "questionText": "To ask His Majesty's Government how many rolling stock Train Service Agreements have been renewed or extended without competitive tendering since July 2024; and what the total annual value of those agreements is.",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1954567,
+   "uin": "HL4661",
+   "heading": "East West Rail Line: Rolling Stock",
+   "questionText": "To ask His Majesty's Government what the total cost has been of leasing, maintaining, storing and modifying rolling stock intended for East West Rail passenger services between Oxford and Milton Keynes since the commencement of the relevant lease arrangem",
+   "dateTabled": "2026-10-28T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1952940,
+   "uin": "HL4557",
+   "heading": "Abortion",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by Baroness Merron on 19 October (HL3978), and in light of the requirement from 1 April 2023 for HSA4 abortion notification forms to record \"whether any part of the consultation and treatment ",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1951960,
+   "uin": "HL4390",
+   "heading": "Air Passenger Duty",
+   "questionText": "To ask His Majesty's Government what plans they have, if any, to introduce additional air passenger duty bands for long-distance flights.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1951956,
+   "uin": "HL4394",
+   "heading": "Aviation: Fuels",
+   "questionText": "To ask His Majesty's Government what plans they have, if any, to introduce additional taxes or levies on aviation fuel that does not meet specified sustainable aviation fuel requirements.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1951959,
+   "uin": "HL4391",
+   "heading": "Aviation: Fuels",
+   "questionText": "To ask His Majesty's Government what plans they have, if any, to maintain the existing exemption from excise duty for aviation turbine fuel used in domestic commercial aviation.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1951957,
+   "uin": "HL4393",
+   "heading": "Airports: Business Rates",
+   "questionText": "To ask His Majesty's Government what plans they have, if any, to increase the business rates on airport operators at the next Budget.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1951958,
+   "uin": "HL4392",
+   "heading": "Aviation: VAT",
+   "questionText": "To ask His Majesty's Government what plans they have, if any, to impose VAT on domestic passenger air travel.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1954565,
+   "uin": "HL4662",
+   "heading": "Railways",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by the Parliamentary Under-Secretary of State for Transport on 21 October (HC34372), what plans they have to support the expansion of open-access passenger rail services where sufficient netwo",
+   "dateTabled": "2026-10-28T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1954546,
+   "uin": "HL4664",
+   "heading": "Ribble Valley Line: Rolling Stock",
+   "questionText": "To ask His Majesty's Government how many additional diesel multiple unit trains Northern Trains expects to receive from other operators in (1) 2026, and (2) 2027; and how many of those units are expected to be allocated to services on the Clitheroe to Man",
+   "dateTabled": "2026-10-28T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1954554,
+   "uin": "HL4663",
+   "heading": "Northern: Rolling Stock",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the impact of corrosion-related defects on the availability of Class 150 and Class 156 rolling stock operated by Northern Trains; and how many units remain unavailable for passenger service",
+   "dateTabled": "2026-10-28T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1951961,
+   "uin": "HL4389",
+   "heading": "Shadow Great British Railways: Pay",
+   "questionText": "To ask His Majesty's Government what was the total remuneration paid to the Chair of Shadow Great British Railways during their tenure from October 2024 to March 2026; and what activities and responsibilities they undertook during that period.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1954041,
+   "uin": "HL4619",
+   "heading": "Rolling Stock Companies: Debts",
+   "questionText": "To ask His Majesty's Government what are the total outstanding financial liabilities of rolling stock leasing companies operating in Great Britain.",
+   "dateTabled": "2026-10-27T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1949349,
+   "uin": "HL4110",
+   "heading": "Diesel: Prices",
+   "questionText": "To ask His Majesty's Government, further to the reply by Baroness Curran on 13 October (HL Deb col 115), what was meant by the statement \"in comparison to the work of the last Government, the price of diesel has reduced by 11p per litre\".",
+   "dateTabled": "2026-10-14T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1952837,
+   "uin": "HL4503",
+   "heading": "Abortion: Drugs",
+   "questionText": "To ask His Majesty's Government, in respect of the latest year for which figures are available, on how many occasions pills to terminate a pregnancy were delivered by post or courier (1) as a number, and (2) as a percentage of all medical terminations in ",
+   "dateTabled": "2026-10-23T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1947598,
+   "uin": "HL3977",
+   "heading": "Motorway Service Areas: Fuels",
+   "questionText": "To ask His Majesty's Government what plans they have to require motorway service stations to display their current fuel prices in a manner visible to motorists before they exit the motorway.",
+   "dateTabled": "2026-10-12T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1949358,
+   "uin": "HL4109",
+   "heading": "Public Transport: Greater Manchester",
+   "questionText": "To ask His Majesty's Government what responsibilities they intend (1) Great British Railways, and (2) Greater Manchester Combined Authority, to have for (a) setting fares, (b) specifying service levels, and (c) holding operators to account for local rail ",
+   "dateTabled": "2026-10-14T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1947610,
+   "uin": "HL3975",
+   "heading": "Heat Networks: Registration",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the initial and recurring fees charged by Ofgem for registration of a heat network; and what assessment they have made of the potential effects on leaseholders and tenants in small blocks o",
+   "dateTabled": "2026-10-12T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1947599,
+   "uin": "HL3976",
+   "heading": "Tobacco: Packaging",
+   "questionText": "To ask His Majesty's Government whether they sought or assessed evidence from any of the nine countries referred to in paragraph 37 of their consultation stage impact assessment, Standardised packaging and pack inserts for tobacco products (excluding ciga",
+   "dateTabled": "2026-10-12T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1947586,
+   "uin": "HL3978",
+   "heading": "Abortion",
+   "questionText": "To ask His Majesty's Government how many terminations of pregnancy were carried out by (1) medical means and (2) surgical procedures, in the last year for which statistics are available; and how many of those carried out by medical means (1) involved, and",
+   "dateTabled": "2026-10-12T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1939021,
+   "uin": "HL3190",
+   "heading": "Prison Sentences",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the recommendation by the Court of Appeal in Haycock v R (EWCA Crim 1105) that there should be a systematic review process to ensure that individuals still subject to imprisonment for publi",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1938231,
+   "uin": "HL3081",
+   "heading": "Parking: Fees and Charges",
+   "questionText": "To ask His Majesty's Government whether they hold information on the number of local authorities that (1) have introduced, and (2) are considering, parking charges based on vehicle (a) dimensions, (b) weight, and (c) emissions.",
+   "dateTabled": "2026-09-03T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1938218,
+   "uin": "HL3083",
+   "heading": "Heat Networks",
+   "questionText": "To ask His Majesty's Government what advice they have issued, if any, to Right to Manage Companies which operate heat networks and are required to interact with the Energy Ombudsman, Heat Network Technical Assurance Scheme, and Ofgem, particularly in rela",
+   "dateTabled": "2026-09-03T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1938232,
+   "uin": "HL3080",
+   "heading": "Road Works",
+   "questionText": "To ask His Majesty's Government, for each of the last five years, how many street works reinstatements there are that (1) fail inspection, and (2) require remedial works both within and after the statutory guarantee period; and what estimate they have mad",
+   "dateTabled": "2026-09-03T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1938230,
+   "uin": "HL3082",
+   "heading": "Roads: Accidents",
+   "questionText": "To ask His Majesty's Government how many reported road traffic collisions involved a driver who was driving on a foreign driving licence that was valid for use in the UK in each of the last five years.",
+   "dateTabled": "2026-09-03T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1936827,
+   "uin": "HL2911",
+   "heading": "East West Rail Line",
+   "questionText": "To ask His Majesty's Government what lessons they have learned from the delay in opening the current phase of East West Rail passenger services, and what steps they are taking to ensure that future phases are delivered and opened on schedule.",
+   "dateTabled": "2026-09-01T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1936828,
+   "uin": "HL2910",
+   "heading": "East West Rail Line: Winslow",
+   "questionText": "To ask His Majesty's Government when they expect passenger rail services to run between Oxford and Bletchley serving the new station at Winslow.",
+   "dateTabled": "2026-09-01T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1936831,
+   "uin": "HL2908",
+   "heading": "Prison Sentences",
+   "questionText": "To ask His Majesty's Government what assessment they have made on the recent finding of the United Nations Working Group on Arbitrary Detention regarding prisoners serving an Indeterminate Sentence for Public Protection.",
+   "dateTabled": "2026-09-01T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1936830,
+   "uin": "HL2909",
+   "heading": "Prison Sentences",
+   "questionText": "To ask His Majesty's Government what consultation they have undertaken with prisoners serving imprisonment for public protection, detention for public protection, and \"two-strike\" sentences imposed before 2005 on means of improving coordination between Pa",
+   "dateTabled": "2026-09-01T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1936824,
+   "uin": "HL2913",
+   "heading": "Government Communication Service",
+   "questionText": "To ask His Majesty's Government how many full-time equivalent staff in each government department were members of the Government Communication Service on (a) 4 July 2024 and (b) the most recent date for which figures are available.",
+   "dateTabled": "2026-09-01T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1936825,
+   "uin": "HL2912",
+   "heading": "Rolling Stock",
+   "questionText": "To ask His Majesty's Government what was the average daily percentage of rolling stock available for passenger service for each train operating company in every month since June 2024.",
+   "dateTabled": "2026-09-01T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1938987,
+   "uin": "HL3191",
+   "heading": "Department for Transport: Written Questions",
+   "questionText": "To ask The Leader of the House when she expects a Written Answer to be given to the question asked by Lord Moylan on 13 July 2026 (HL2016).",
+   "dateTabled": "2026-09-07T00:00:00",
+   "answeringBodyName": "Leader of the House of Lords"
+  },
+  {
+   "id": 1927331,
+   "uin": "HL2016",
+   "heading": "Department for Transport: India",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by the Parliamentary Under-Secretary at the Department for Transport on 9 July (HC16088), on what basis each of the 12 additional journeys approved from their overseas posting in New Delhi und",
+   "dateTabled": "2026-07-13T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1929808,
+   "uin": "HL2728",
+   "heading": "Electronic Cigarettes and Tobacco: Impact Assessments",
+   "questionText": "To ask His Majesty's Government, following the publication of the consultation by the Department of Health and Social Care, Tobacco and vapes: packaging, appearance and display, published on 10 July, whether impact assessments of anticipated benefits of t",
+   "dateTabled": "2026-07-23T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1929803,
+   "uin": "HL2730",
+   "heading": "Electronic Cigarettes and Tobacco: Regulation",
+   "questionText": "To ask His Majesty's Government, following the publication of the consultation by the Department of Health and Social Care, Tobacco and vapes: packaging, appearance and display, published on 10 July, why further regulation is deemed necessary before Part ",
+   "dateTabled": "2026-07-23T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1929487,
+   "uin": "HL2440",
+   "heading": "Tobacco: Packaging",
+   "questionText": "To ask His Majesty's Government what evidence from other countries, if any, they have considered when evaluating the effect of standardised packaging requirements for nicotine pouches on rates of youth uptake.",
+   "dateTabled": "2026-07-21T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1929488,
+   "uin": "HL2439",
+   "heading": "Electronic Cigarettes: Packaging",
+   "questionText": "To ask His Majesty's Government what evidence from other countries, if any, they have considered when evaluating the effect of standardised packaging requirements for vape products on rates of youth uptake.",
+   "dateTabled": "2026-07-21T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1929490,
+   "uin": "HL2438",
+   "heading": "Tobacco: Packaging",
+   "questionText": "To ask His Majesty's Government what evidence from other countries, if any, they have considered when evaluating the effect of standardised packaging requirements for heated tobacco products on rates of youth uptake.",
+   "dateTabled": "2026-07-21T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1929846,
+   "uin": "HL2726",
+   "heading": "Electric Vehicles: Manufacturing Industries",
+   "questionText": "To ask His Majesty's Government what plans they have to relax, suspend or repeal the zero emission vehicle mandate; and what assessment they have made of the impact of the mandate on vehicle manufacturing, investment and employment in the UK.",
+   "dateTabled": "2026-07-23T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1929845,
+   "uin": "HL2727",
+   "heading": "Electric Vehicles: Excise Duties",
+   "questionText": "To ask His Majesty's Government whether they intend to proceed with the introduction of Electric Vehicle Excise Duty in April 2028; and what assessment they have made of its impact on rural motorists, disabled motorists and those without access to off-str",
+   "dateTabled": "2026-07-23T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1927984,
+   "uin": "HL2091",
+   "heading": "Government Departments: Overseas Workers",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by the Parliamentary Under-Secretary of the Foreign, Commonwealth and Development Office on 10 July (HC13240), what are the current overseas posts and locations classified as qualifying hardsh",
+   "dateTabled": "2026-07-14T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1927304,
+   "uin": "HL2017",
+   "heading": "Great British Railways: Fares",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by Lord Hendy of Richmond Hill on 28 May (HL40), whether they have now made an estimate of the capital and ongoing operating costs of developing, launching and maintaining the proposed Great B",
+   "dateTabled": "2026-07-13T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1926453,
+   "uin": "HL1924",
+   "heading": "Railways: Trespass",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by Lord Hendy of Richmond Hill on 19 June (HL718), what was the total value of Schedule 8 compensation payments made by Network Rail to Train Operating Companies resulting from rail trespass i",
+   "dateTabled": "2026-07-09T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1926451,
+   "uin": "HL1925",
+   "heading": "Railways: Trespass",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by Lord Hendy of Richmond Hill on 2 June (HL335), how many rail trespass incidents were recorded in each of the last 30 years; and what estimate they have made of the long-term revenue loss ar",
+   "dateTabled": "2026-07-09T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1927275,
+   "uin": "HL2018",
+   "heading": "High Speed 2 Line",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by the Parliamentary Under-Secretary at the Department for Transport on 29 June (HC12808), when they estimate they will deliver a full North-South new line between Birmingham and Manchester.",
+   "dateTabled": "2026-07-13T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1927342,
+   "uin": "HL2015",
+   "heading": "10 Downing Street: Cats",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by the Paymaster General and Minister for the Cabinet Office on 16 June (HC6053), whether the prevailing policy allows for pets resident at 10 Downing Street to be transported at public expens",
+   "dateTabled": "2026-07-13T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1919514,
+   "uin": "HL1225",
+   "heading": "High Speed 2 Line: Iron and Steel",
+   "questionText": "To ask His Majesty's Government what percentage of the total steel requirement for HS2 has been procured.",
+   "dateTabled": "2026-06-23T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1919513,
+   "uin": "HL1226",
+   "heading": "High Speed 2 Line: Iron and Steel",
+   "questionText": "To ask His Majesty's Government what percentage of the steel yet to be procured for HS2 falls within product categories affected by the recent changes to steel import tariff rate quotas.",
+   "dateTabled": "2026-06-23T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1918351,
+   "uin": "HL1176",
+   "heading": "Roads: Repairs and Maintenance",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by Lord Hendy of Richmond Hill on 8 June (HL385), whether National Highways uses a standardised definition of a pothole on the strategic road network; and if so, what that definition is.",
+   "dateTabled": "2026-06-22T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1915563,
+   "uin": "HL870",
+   "heading": "Republic of Ireland: Common Travel Area",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by Baroness Chapman of Darlington on 11 June (HL500), whether they will now answer the question put, namely when a British diplomatic or consular representative in Ireland last visited Shannon",
+   "dateTabled": "2026-06-11T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1915562,
+   "uin": "HL871",
+   "heading": "Large Goods Vehicles: Electric Vehicles",
+   "questionText": "To ask His Majesty's Government what proportion of zero-emission heavy goods vehicles currently available for purchase in the United Kingdom are manufactured in the United Kingdom.",
+   "dateTabled": "2026-06-11T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1914474,
+   "uin": "HL782",
+   "heading": "Roads",
+   "questionText": "To ask His Majesty's Government whether they have a national standardised definition of a road surface.",
+   "dateTabled": "2026-06-09T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1911646,
+   "uin": "HL576",
+   "heading": "Special Envoy for Women and Girls",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by Baroness Chapman of Darlington on 26 May (HL43), what was the total cost of each of the eight overseas visits undertaken by Baroness Harman as UK Special Envoy for Women and Girls since Mar",
+   "dateTabled": "2026-06-02T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1913195,
+   "uin": "HL717",
+   "heading": "Train Operating Companies: Sick Leave",
+   "questionText": "To ask His Majesty's Government what was the total cost of overtime and rest-day working payments made to cover staff sickness in each state-owned Train Operating Company, in each month since January 2024.",
+   "dateTabled": "2026-06-05T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1913194,
+   "uin": "HL718",
+   "heading": "Railways: Trespass",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by Lord Hendy of Richmond Hill on 2 June (HL335), what was the total value of Schedule 8 compensation payments made by Network Rail to Train Operating Companies resulting from rail trespass in",
+   "dateTabled": "2026-06-05T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1912151,
+   "uin": "HL634",
+   "heading": "Railways: Trespass",
+   "questionText": "To ask His Majesty's Government what are Network Rail's estimates of long-term revenue loss due to rail trespass incidents for (1) 2024, (2) 2025, and (3) 2026.",
+   "dateTabled": "2026-06-03T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1912150,
+   "uin": "HL635",
+   "heading": "Railways: Trespass",
+   "questionText": "To ask His Majesty's Government what steps Network Rail is taking to collect direct cost data, including Delay Repay and damage repair costs, relating to rail trespass incidents.",
+   "dateTabled": "2026-06-03T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1911606,
+   "uin": "HL575",
+   "heading": "London Underground: Strikes",
+   "questionText": "To ask His Majesty's Government what estimate they have made of lost fare revenue attributable to industrial action on the London Underground since 1 April 2026.",
+   "dateTabled": "2026-06-02T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1911607,
+   "uin": "HL574",
+   "heading": "London Underground: Strikes",
+   "questionText": "To ask His Majesty's Government what assessment they have made of how many working days were lost across the broader London commuter base as a result of industrial action by members of the National Union of Rail, Maritime and Transport Workers on the Lond",
+   "dateTabled": "2026-06-02T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1911608,
+   "uin": "HL573",
+   "heading": "London Underground: Strikes",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the total direct cost to the United Kingdom economy of industrial action on the London Underground since 1 April 2026.",
+   "dateTabled": "2026-06-02T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1910988,
+   "uin": "HL499",
+   "heading": "Railways: Pay",
+   "questionText": "To ask His Majesty's Government, further to the remarks by Lord Hendy of Richmond Hill on 20 April (HL Deb col 504) and the remarks by Baroness Blake of Leeds on 28 April (HL Deb col 1063), whether the previous Network Rail pay settlement did or did not i",
+   "dateTabled": "2026-06-01T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1910991,
+   "uin": "HL498",
+   "heading": "Great British Railways: Rolling Stock",
+   "questionText": "To ask His Majesty's Government what consideration they gave to the example of Elizabeth line trains when designing the Great British Railways train livery, particularly as regards the use of yellow paint on the face of the cab.",
+   "dateTabled": "2026-06-01T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1910980,
+   "uin": "HL500",
+   "heading": "Republic of Ireland: Common Travel Area",
+   "questionText": "To ask His Majesty's Government when a British diplomatic or consular representative in Ireland last visited Shannon Airport and whether any report was made as to the arrangements there for implementing the Common Travel Area for passengers arriving direc",
+   "dateTabled": "2026-06-01T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1910993,
+   "uin": "HL497",
+   "heading": "Rare Cancers: Health Services",
+   "questionText": "To ask His Majesty's Government whether they intend that the national specialty lead for rare cancers, to be appointed under the Rare Cancers Act 2026, is to be a full-time, appropriately remunerated post; and at what Civil Service grade or equivalent the",
+   "dateTabled": "2026-06-01T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1908948,
+   "uin": "HL385",
+   "heading": "Roads: Repairs and Maintenance",
+   "questionText": "To ask His Majesty's Government whether they have a national standardised definition of a pothole.",
+   "dateTabled": "2026-05-21T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1908371,
+   "uin": "HL334",
+   "heading": "Driving Instruction",
+   "questionText": "To ask His Majesty's Government how many approved driving instructors were on the official register in each month since July 2024.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1908364,
+   "uin": "HL338",
+   "heading": "East West Rail Line: Timetables",
+   "questionText": "To ask His Majesty's Government whether the first East West Rail services between Oxford and Milton Keynes Central via Winslow have been included in the base train timetable.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1908366,
+   "uin": "HL337",
+   "heading": "High Speed 2 Line",
+   "questionText": "To ask His Majesty's Government when the review of HS2 by Mark Wild will be published.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1907099,
+   "uin": "HL217",
+   "heading": "Sudan: Christianity",
+   "questionText": "To ask His Majesty's Government what discussions they have had with the government of Sudan and international partners about ensuring that Coptic Christian communities are able to worship and rebuild places of worship, following reports that a local autho",
+   "dateTabled": "2026-05-18T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1908367,
+   "uin": "HL336",
+   "heading": "Great British Railways",
+   "questionText": "To ask His Majesty's Government when they expect to publish the Great British Railways access and use policy.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1908370,
+   "uin": "HL335",
+   "heading": "Railways: Trespass",
+   "questionText": "To ask His Majesty's Government how many rail trespass incidents have occurred in each month since January 2024; and whether they have assessed the financial impact of those incidents for (1) 2024, (2) 2025, and (3) 2026.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1908362,
+   "uin": "HL339",
+   "heading": "Train Operating Companies: Sick Leave",
+   "questionText": "To ask His Majesty's Government how many working days were lost to sickness per train operating company in Government ownership, in each month since January 2024.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1905183,
+   "uin": "HL44",
+   "heading": "DfT Operator: Staff",
+   "questionText": "To ask His Majesty's Government, further to the remarks by Lord Hendy of Richmond Hill on 15 April (HL Deb col 59GC), whether the staff transferred from the Department for Transport (DfT) to DfT operator are, or will be, physically located in Network Rail",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1905201,
+   "uin": "HL40",
+   "heading": "Great British Railways: Fares",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by Lord Hendy of Richmond Hill on 27 January (HL13602), whether they have now made an estimate of the capital and ongoing operating costs of developing, launching and maintaining the proposed ",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1905187,
+   "uin": "HL42",
+   "heading": "Railways: Repairs and Maintenance",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by Lord Hendy of Richmond Hill on 10 February (HL14013), what are the consolidated figures from Network Rail’s Annual Report and Accounts and Regulatory Financial Statements of Network Rail’s ",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1905186,
+   "uin": "HL43",
+   "heading": "Special Envoy for Women and Girls",
+   "questionText": "To ask His Majesty's Government how many foreign visits have been undertaken by Baroness Harman as UK Special Envoy for Women and Girls since March 2025.",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1905200,
+   "uin": "HL41",
+   "heading": "Common Travel Area",
+   "questionText": "To ask His Majesty's Government when the Common Travel Area Forum last met; whether ministers attended that meeting; whether minutes of that meeting will be published; and when the Common Travel Area Forum most recently discussed passport-free direct air ",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1906007,
+   "uin": "HL119",
+   "heading": "Rare Cancers: Health Services",
+   "questionText": "To ask His Majesty's Government what support they intend to provide to the National Specialty Lead for Rare Cancers to be appointed under the Rare Cancers Act 2026, including (1) budget, and (2) number of full-time equivalent staff.",
+   "dateTabled": "2026-05-14T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1900674,
+   "uin": "HL16472",
+   "heading": "Erasmus+ Programme",
+   "questionText": "To ask His Majesty's Government how much, if any, student debt is outstanding that is owed by EU nationals formerly participating in the Erasmus+ scheme and how much of that is overdue.",
+   "dateTabled": "2026-04-16T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1895909,
+   "uin": "HL16103",
+   "heading": "Palace of Westminster: Repairs and Maintenance",
+   "questionText": "To ask The Senior Deputy Speaker whether, in connection with the Restoration and Renewal Project or otherwise, a 3D digital survey of the Palace of Westminster has been carried out; and, if so, when.",
+   "dateTabled": "2026-03-26T00:00:00",
+   "answeringBodyName": "Restoration and Renewal Client Board"
+  },
+  {
+   "id": 1893273,
+   "uin": "HL15766",
+   "heading": "East West Rail Line: Trade Unions",
+   "questionText": "To ask His Majesty's Government whether agreement has been reached with relevant trade unions on driver and operator arrangements for services on East West Rail; and, if not, what assessment they have made of the impact that has had on the project timetab",
+   "dateTabled": "2026-03-19T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1881789,
+   "uin": "HL14611",
+   "heading": "Great British Railways",
+   "questionText": "To ask His Majesty's Government what policy objectives they have set for Great British Railways, and in what order of priority these objectives have been ranked.",
+   "dateTabled": "2026-02-12T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1881788,
+   "uin": "HL14612",
+   "heading": "Railways: Finance",
+   "questionText": "To ask His Majesty's Government what estimates they have made of the level of Government support to the rail sector per passenger journey in (1) 2024–25, (2) 2025–26, (3) 2026–27, (4) 2027–28, and (5) 2028–29.",
+   "dateTabled": "2026-02-12T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1875867,
+   "uin": "HL14013",
+   "heading": "Railways: Repairs and Maintenance",
+   "questionText": "To ask His Majesty's Government what has been the total expenditure on the maintenance of the rail network in each of the past six financial years; and what proportion this expenditure represented of total Network Rail expenditure for each of those years.",
+   "dateTabled": "2026-01-27T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1875808,
+   "uin": "HL14017",
+   "heading": "Blood Cancer: Medical Treatments",
+   "questionText": "To ask His Majesty's Government what treatments exist for those mantle cell lymphoma patients unable to access allogeneic stem cell transplants due to (1) ethnicity, (2) age, and (3) ethnicity and age.",
+   "dateTabled": "2026-01-27T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1875810,
+   "uin": "HL14016",
+   "heading": "Cancer: Medical Treatments",
+   "questionText": "To ask His Majesty's Government what safeguards exist to prevent patients from losing access to established, life-extending cancer treatments as a result of changes to NICE methodology.",
+   "dateTabled": "2026-01-27T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1875811,
+   "uin": "HL14015",
+   "heading": "Blood Cancer: Immunotherapy",
+   "questionText": "To ask His Majesty's Government how many patients have received CAR-T therapy for mantle cell lymphoma via the Cancer Drugs Fund; and what assessment has been made of the clinical outcomes for those patients.",
+   "dateTabled": "2026-01-27T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1875812,
+   "uin": "HL14014",
+   "heading": "Cancer: Medical Treatments",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the impact on patients of withdrawing access to an existing cancer treatment, namely CAR-T therapy for relapsed or refractory mantle cell lymphoma, which has been available on the NHS since",
+   "dateTabled": "2026-01-27T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1875869,
+   "uin": "HL14012",
+   "heading": "Railways: Repairs and Maintenance",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the availability of specialist rail plant used in the maintenance of the rail network.",
+   "dateTabled": "2026-01-27T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1871731,
+   "uin": "HL13602",
+   "heading": "Railways: Fares",
+   "questionText": "To ask His Majesty's Government what estimate they have made of the capital and ongoing operating costs of developing, launching and maintaining the proposed Great British Railways ticketing website and mobile application.",
+   "dateTabled": "2026-01-14T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1962740,
+   "uin": "HL5681",
+   "heading": "Aviation: Carbon Emissions",
+   "questionText": "To ask His Majesty's Government whether it remains their policy to support the Carbon Offsetting and Reduction Scheme for International Aviation as the global market-based measure for international aviation emissions; and what steps they are taking to pro",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1960085,
+   "uin": "HL5406",
+   "heading": "Electric Vehicles: Excise Duties",
+   "questionText": "To ask His Majesty's Government, further to the Written Answer by Lord Pitt-Watson on 5 August (HL2727), whether they intend to publish details of the evidence considered when they assessed the impact of Electric Vehicle Excise Duty (eVED) on disabled mot",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Treasury"
+  }
+ ],
+ "historyComplete": true
+}

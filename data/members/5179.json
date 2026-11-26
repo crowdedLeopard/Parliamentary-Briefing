@@ -1,0 +1,497 @@
+{
+ "id": 5179,
+ "fetchedOn": "2026-11-26",
+ "core": {
+  "id": 5179,
+  "nameListAs": "Sullivan, Kirsteen",
+  "nameDisplayAs": "Kirsteen Sullivan",
+  "nameFullTitle": "Kirsteen Sullivan MP",
+  "nameAddressAs": null,
+  "latestParty": {
+   "id": 15,
+   "name": "Labour (Co-op)",
+   "abbreviation": "Lab",
+   "backgroundColour": "d50000",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": true,
+   "governmentType": 0,
+   "isIndependentParty": false
+  },
+  "gender": "F",
+  "latestHouseMembership": {
+   "membershipFrom": "Bathgate and Linlithgow",
+   "membershipFromId": 4457,
+   "house": 1,
+   "membershipStartDate": "2024-07-04T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2024-07-04T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/5179/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2024-05-31T00:00:00",
+    "constituencyEnd": null,
+    "house": 1,
+    "name": "Bathgate and Linlithgow",
+    "id": 4457,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [],
+  "houseMemberships": [
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Kirsteen Sullivan",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [],
+  "oppositionPosts": [],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Labour",
+    "id": 15,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 1,
+    "name": "Scottish Affairs Committee",
+    "id": 136,
+    "startDate": "2024-10-28T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Administration Committee",
+    "id": 2,
+    "startDate": "2025-04-28T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Absent Voting (Elections in Scotland and Wales) Bill",
+    "id": 800,
+    "startDate": "2025-06-09T00:00:00",
+    "endDate": "2025-06-11T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Speaker's Committee on the Electoral Commission",
+    "id": 144,
+    "startDate": "2026-10-13T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 7,
+   "name": "6. Land and property portfolio with a value over £100,000 and where indicated, the portfolio provides a rental income of over £10,000 a year",
+   "sortOrder": 0,
+   "interests": [
+    {
+     "id": 7908,
+     "interest": "Type of land/property: Residential property (House)\r\nNumber of properties: 1\r\nLocation: Alicante province, Spain\r\nOwnership details: co-owned with family member\r\n(Registered 29 July 2024)",
+     "createdWhen": "2025-08-01T15:17:39.6985926",
+     "lastAmendedWhen": "2024-08-16T14:57:57.2466667",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "name": "7. (i) Shareholdings: over 15% of issued share capital",
+   "sortOrder": 1,
+   "interests": [
+    {
+     "id": 8787,
+     "interest": "Name of company or organisation: Yardley Programme Management Limited\r\nNature of business: IT & Business management and consultancy service\r\nHeld jointly with or on behalf of: Spouse\r\n(Registered 1 August 2024)",
+     "createdWhen": "2024-08-16T14:59:02.1166667",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "name": "8. Miscellaneous",
+   "sortOrder": 2,
+   "interests": [
+    {
+     "id": 8779,
+     "interest": "Company Secretary, Yardley Programme Management Limited. This is an unpaid role.\r\n(Registered 1 August 2024)",
+     "createdWhen": "2024-08-16T15:04:44.2233333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 8783,
+     "interest": "Company Director, Yardley Programme Management Limited. This is an unpaid role.\r\n(Registered 1 August 2024)",
+     "createdWhen": "2024-08-16T15:04:44.2233333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [],
+ "synopsis": "Kirsteen Sullivan is the Labour (Co-op) MP for <a href='/constituency/4457/overview'>Bathgate and Linlithgow</a>, and has been an MP continually since 4 July 2024.",
+ "history": [
+  {
+   "id": 1940435,
+   "uin": "28945",
+   "heading": "Tickets: Touting",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, when she expects to bring forward measures to stop the for-profit resale of live event tickets.",
+   "dateTabled": "2026-09-10T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1940436,
+   "uin": "28946",
+   "heading": "Tickets: Touting",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what recent assessment he has made of the relationship between ticket fraud and activity in the secondary ticketing market.",
+   "dateTabled": "2026-09-10T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1913912,
+   "uin": "900314",
+   "heading": "Health Services: Women",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the adequacy of the provision of health services for women.",
+   "dateTabled": "2026-06-03T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1887907,
+   "uin": "118366",
+   "heading": "Candidates: Equality",
+   "questionText": "To ask the Minister for Women and Equalities, what plans she has to enact Section 106 of the Equality Act 2010.",
+   "dateTabled": "2026-03-05T00:00:00",
+   "answeringBodyName": "Women and Equalities"
+  },
+  {
+   "id": 1881351,
+   "uin": "113174",
+   "heading": "Protective Clothing: Standards",
+   "questionText": "To ask the Minister for the Cabinet Office, whether there has been any uptake of BS30417 standards in Government procurement specifications.",
+   "dateTabled": "2026-02-12T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1881343,
+   "uin": "113166",
+   "heading": "Energy: Storage",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what information his Department holds on the weighting that Ofgem gives (a) social value, (b) domestic economic impact and (c) onshore manufacturing when allocating the first round of the cap",
+   "dateTabled": "2026-02-12T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1881346,
+   "uin": "113169",
+   "heading": "Endometriosis: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, if he will review the status of endometriosis as a possible condition for the NHS outcomes and registry programme.",
+   "dateTabled": "2026-02-12T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1881353,
+   "uin": "113176",
+   "heading": "Landmines: Bomb Disposal",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what steps she is taking to help ensure that UK-funded mine action and demining programmes include (a) child-focused victim assistance, (b) access to prosthetics, (c) physica",
+   "dateTabled": "2026-02-12T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1881354,
+   "uin": "113177",
+   "heading": "Sudan: Armed Conflict",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, whether her Department has investigated and reviewed licenses of arms components in the context of arms used by the Rapid Support Forces in Sudan.",
+   "dateTabled": "2026-02-12T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1881352,
+   "uin": "113175",
+   "heading": "Palestine: Children",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, if she will call for an end to the military detention of Palestinian children on the basis international juvenile justice standards.",
+   "dateTabled": "2026-02-12T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1881345,
+   "uin": "113168",
+   "heading": "Endometriosis: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the adequacy of endometriosis healthcare services on the waiting times for receiving such services in the past year.",
+   "dateTabled": "2026-02-12T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1881344,
+   "uin": "113167",
+   "heading": "Gynaecology: Waiting Lists",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what progress he has made on reducing gynaecological waiting times in the last year.",
+   "dateTabled": "2026-02-12T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1881348,
+   "uin": "113171",
+   "heading": "Large Goods Vehicle Drivers: Facilities",
+   "questionText": "To ask the Secretary of State for Transport, what steps her Department is taking to help ensure freight drivers have adequate secure facilities for overnight and welfare stops.",
+   "dateTabled": "2026-02-12T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1881347,
+   "uin": "113170",
+   "heading": "Large Goods Vehicles: Parking",
+   "questionText": "To ask the Secretary of State for Transport, what steps her Department is taking to help ensure that there is adequate lorry parking provision and welfare facilities for freight drivers.",
+   "dateTabled": "2026-02-12T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1881349,
+   "uin": "113172",
+   "heading": "Protective Clothing: Electronic Commerce",
+   "questionText": "To ask the Secretary of State for Business and Trade, what his proposed timeline is for introducing regulations for online retailing of Personal Protective Equipment under the Product Regulation and Metrology Act 2025.",
+   "dateTabled": "2026-02-12T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1881350,
+   "uin": "113173",
+   "heading": "Protective Clothing: Trading Standards",
+   "questionText": "To ask the Secretary of State for Business and Trade, what discussions on trading standards has the Office for Product Safety and Standards had with the British Safety Industry Federation on Personal Protective Equipment.",
+   "dateTabled": "2026-02-12T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1880074,
+   "uin": "907803",
+   "heading": "Community Energy",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, whether he has had recent discussions with community groups on the implementation of the Local Power Plan.",
+   "dateTabled": "2026-02-04T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1866596,
+   "uin": "102193",
+   "heading": "Listed Places of Worship Grant Scheme",
+   "questionText": "To ask the hon. Member for Battersea, representing the Church Commissioners, what discussions she has had with colleagues in the Department for Culture, Media and Sport on the long-term future of the Listed Places of Worship Grant Scheme.",
+   "dateTabled": "2026-01-02T00:00:00",
+   "answeringBodyName": "Church Commissioners"
+  },
+  {
+   "id": 1866597,
+   "uin": "102194",
+   "heading": "Listed Places of Worship Grant Scheme",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what plans her Department has to ensure the long-term sustainability of the Listed Places of Worship Grant Scheme.",
+   "dateTabled": "2026-01-02T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1964425,
+   "uin": "46427",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, if his Department will develop a model endometriosis workplace action plan for employers; and publish a timetable for that work.",
+   "dateTabled": "2026-11-25T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1964423,
+   "uin": "46426",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, whether his Department plans to issue guidance stating that workplace support and reasonable adjustments should be based on the functional impact of an employee's symptoms and shou",
+   "dateTabled": "2026-11-25T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1964421,
+   "uin": "46425",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, if his Department will develop a workplace health-passport template for recording agreed reasonable adjustments that can, with an employee's consent, transfer between managers, tea",
+   "dateTabled": "2026-11-25T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1964419,
+   "uin": "46424",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, if his Department will produce a toolkit for small and medium-sized employers on supporting employees with endometriosis and other fluctuating long-term conditions.",
+   "dateTabled": "2026-11-25T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1964417,
+   "uin": "46423",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Work and Pensions, whether his Department has assessed the potential equality impact of blanket workplace attendance requirements on employees with endometriosis and other fluctuating long-term conditions.",
+   "dateTabled": "2026-11-25T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1964415,
+   "uin": "46422",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps her Department is taking to ensure that patients receiving investigation or treatment for endometriosis are offered advice on managing the condition at work.",
+   "dateTabled": "2026-11-25T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1964463,
+   "uin": "46421",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether her Department plans to issue guidance to health service professionals on recording the functional and workplace impact of endometriosis when issuing fit notes.",
+   "dateTabled": "2026-11-25T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1964462,
+   "uin": "46420",
+   "heading": null,
+   "questionText": "To ask the Minister for Women and Equalities, what steps she is taking to ensure that Government workplace guidance on menstrual health addresses the experiences of women in insecure, lower-paid, self-employed and non-office work.",
+   "dateTabled": "2026-11-25T00:00:00",
+   "answeringBodyName": "Women and Equalities"
+  },
+  {
+   "id": 1964461,
+   "uin": "46419",
+   "heading": null,
+   "questionText": "To ask the Minister for the Cabinet Office, whether the Civil Service offers employees a workplace health passport through which reasonable adjustments can be recorded and transferred between managers, teams and Departments.",
+   "dateTabled": "2026-11-25T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1964460,
+   "uin": "46418",
+   "heading": null,
+   "questionText": "To ask the Chancellor of the Exchequer, what consideration his Department has given to allowing firms to auto-enrol employees in Save As You Earn plans with a small monthly company contribution.",
+   "dateTabled": "2026-11-25T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1964459,
+   "uin": "46417",
+   "heading": null,
+   "questionText": "To ask the Chancellor of the Exchequer, what consideration his Department has given to reducing the holding period for the Share Incentive Plan from 5 years to 2 years.",
+   "dateTabled": "2026-11-25T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1964458,
+   "uin": "46416",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what assessment she has made of the potential impact of industrial-scale ticket touting on the affordability of attending live music and sporting events.",
+   "dateTabled": "2026-11-25T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1964457,
+   "uin": "46415",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, whether she plans to introduce legislation preventing tickets from being resold above their original cost before the Christmas recess.",
+   "dateTabled": "2026-11-25T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1964456,
+   "uin": "46414",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Work and Pensions, what guidance is provided to work coaches on the effects of endometriosis and other fluctuating long-term health conditions on a claimant's ability to (a) work and (b) undertake work-related activity.",
+   "dateTabled": "2026-11-25T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1964455,
+   "uin": "46413",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many Access to Work applications in each of the last five years recorded endometriosis as the applicant's (a) primary and (b) secondary health condition; and what proportion of those applications we",
+   "dateTabled": "2026-11-25T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1964454,
+   "uin": "46412",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Work and Pensions, what assessment his Department has made of the accessibility and effectiveness of Access to Work support for women with endometriosis.",
+   "dateTabled": "2026-11-25T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1964453,
+   "uin": "46411",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Work and Pensions, whether his Department plans to review the operation of Statutory Sick Pay for employees with endometriosis and other fluctuating long-term conditions.",
+   "dateTabled": "2026-11-25T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1964452,
+   "uin": "46410",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Work and Pensions, whether his Department has assessed the adequacy of Statutory Sick Pay for people with fluctuating long-term health conditions who experience recurrent short-term absences.",
+   "dateTabled": "2026-11-25T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1964451,
+   "uin": "46409",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Work and Pensions, what actions his department has considered to tackle the pension entitlement gap for unpaid carers.",
+   "dateTabled": "2026-11-25T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1964450,
+   "uin": "46408",
+   "heading": null,
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment he has made of the cumulative effect of reduced hours and labour-market exit caused by unpaid care work on lifetime earnings and pension savings.",
+   "dateTabled": "2026-11-25T00:00:00",
+   "answeringBodyName": "Treasury"
+  }
+ ],
+ "historyComplete": true
+}

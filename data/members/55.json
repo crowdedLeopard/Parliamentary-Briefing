@@ -1,0 +1,890 @@
+{
+ "id": 55,
+ "fetchedOn": "2026-11-26",
+ "core": {
+  "id": 55,
+  "nameListAs": "Swayne, Sir Desmond",
+  "nameDisplayAs": "Sir Desmond Swayne",
+  "nameFullTitle": "Rt Hon Sir Desmond Swayne MP",
+  "nameAddressAs": "Sir Desmond",
+  "latestParty": {
+   "id": 4,
+   "name": "Conservative",
+   "abbreviation": "Con",
+   "backgroundColour": "0063ba",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": false,
+   "governmentType": 3,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "New Forest West",
+   "membershipFromId": 4189,
+   "house": 1,
+   "membershipStartDate": "1997-05-01T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2024-07-04T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/55/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2024-05-31T00:00:00",
+    "constituencyEnd": null,
+    "house": 1,
+    "name": "New Forest West",
+    "id": 4189,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "2010-04-13T00:00:00",
+    "constituencyEnd": "2024-05-30T00:00:00",
+    "house": 1,
+    "name": "New Forest West",
+    "id": 3622,
+    "startDate": "2010-05-06T00:00:00",
+    "endDate": "2024-05-30T00:00:00",
+    "additionalInfo": "Elected 4 times",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "1997-04-09T00:00:00",
+    "constituencyEnd": "2010-04-12T00:00:00",
+    "house": 1,
+    "name": "New Forest West",
+    "id": 2041,
+    "startDate": "1997-05-01T00:00:00",
+    "endDate": "2010-05-06T00:00:00",
+    "additionalInfo": "Elected 3 times",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [
+   {
+    "house": 1,
+    "name": "West Bromwich West",
+    "id": 3103,
+    "startDate": "1992-04-09T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Pontypridd",
+    "id": 2350,
+    "startDate": "1987-06-11T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "houseMemberships": [
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "1997-05-01T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Sir Desmond Swayne",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [
+   {
+    "house": 1,
+    "name": "Minister of State (Department for International Development)",
+    "id": 496,
+    "startDate": "2014-07-15T00:00:00",
+    "endDate": "2016-07-17T00:00:00",
+    "additionalInfo": "Department for International Development",
+    "additionalInfoLink": "http://www.dfid.gov.uk"
+   },
+   {
+    "house": 1,
+    "name": "Vice Chamberlain (HM Household) (Whip, House of Commons)",
+    "id": 753,
+    "startDate": "2013-10-07T00:00:00",
+    "endDate": "2014-07-15T00:00:00",
+    "additionalInfo": "HM Household",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Lord Commissioner (HM Treasury) (Whip)",
+    "id": 350,
+    "startDate": "2012-09-06T00:00:00",
+    "endDate": "2013-10-07T00:00:00",
+    "additionalInfo": "Whips Office (Commons)",
+    "additionalInfoLink": null
+   }
+  ],
+  "oppositionPosts": [
+   {
+    "house": 1,
+    "name": "Opposition Whip (Commons)",
+    "id": 10,
+    "startDate": "2002-06-01T00:00:00",
+    "endDate": "2003-06-01T00:00:00",
+    "additionalInfo": "Whips Office (Commons)",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Shadow Spokesperson (Defence)",
+    "id": 981,
+    "startDate": "2001-06-01T00:00:00",
+    "endDate": "2002-06-01T00:00:00",
+    "additionalInfo": "Ministry of Defence",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/ministry-of-defence"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Spokesperson (Health)",
+    "id": 987,
+    "startDate": "2001-02-01T00:00:00",
+    "endDate": "2001-06-01T00:00:00",
+    "additionalInfo": "Department of Health",
+    "additionalInfoLink": "http://www.dh.gov.uk"
+   }
+  ],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Conservative",
+    "id": 4,
+    "startDate": "1997-05-01T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 1,
+    "name": "Scottish Affairs Committee",
+    "id": 136,
+    "startDate": "1997-07-14T00:00:00",
+    "endDate": "2001-05-11T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Social Security",
+    "id": 138,
+    "startDate": "1999-07-26T00:00:00",
+    "endDate": "2001-05-11T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Procedure Committee",
+    "id": 126,
+    "startDate": "2002-03-04T00:00:00",
+    "endDate": "2005-07-12T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Ecclesiastical Committee",
+    "id": 174,
+    "startDate": "2020-03-04T00:00:00",
+    "endDate": "2024-05-30T00:01:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Ecclesiastical Committee",
+    "id": 174,
+    "startDate": "2017-10-31T00:00:00",
+    "endDate": "2019-11-06T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Ecclesiastical Committee",
+    "id": 174,
+    "startDate": "2005-07-06T00:00:00",
+    "endDate": "2010-04-08T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Defence Committee",
+    "id": 24,
+    "startDate": "2005-07-12T00:00:00",
+    "endDate": "2006-02-06T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Administration Committee",
+    "id": 2,
+    "startDate": "2012-10-22T00:00:00",
+    "endDate": "2013-10-28T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "International Trade Committee",
+    "id": 367,
+    "startDate": "2016-10-31T00:00:00",
+    "endDate": "2017-05-03T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Northern Ireland Affairs Committee",
+    "id": 120,
+    "startDate": "2019-04-08T00:00:00",
+    "endDate": "2019-11-06T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+    "id": 143,
+    "startDate": "2020-01-16T00:00:00",
+    "endDate": "2024-05-30T00:01:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Work and Pensions Committee",
+    "id": 164,
+    "startDate": "2020-03-02T00:00:00",
+    "endDate": "2024-05-30T00:01:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Investigatory Powers (Amendment) Bill [HL]",
+    "id": 709,
+    "startDate": "2024-02-28T00:00:00",
+    "endDate": "2024-03-07T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Special Envoy for Freedom of Religion or Belief Bill (Formerly known as International Freedom of Religion or Belief Bill)",
+    "id": 717,
+    "startDate": "2024-04-17T00:00:00",
+    "endDate": "2024-04-24T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Human Rights (Joint Committee)",
+    "id": 93,
+    "startDate": "2024-11-25T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Panel of Chairs",
+    "id": 11,
+    "startDate": "2024-11-27T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Secure 16 to 19 Academies Bill",
+    "id": 809,
+    "startDate": "2025-06-26T00:00:00",
+    "endDate": "2025-07-02T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Secure 16 to 19 Academies Bill",
+    "id": 723,
+    "startDate": "2025-06-26T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Infants, Parents and Carers Bill",
+    "id": 852,
+    "startDate": "2026-10-14T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Child-like Sexual Abuse Dolls (Offences) Bill",
+    "id": 853,
+    "startDate": "2026-10-14T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 3,
+   "name": "2. (b) Any other support not included in Category 2(a)",
+   "sortOrder": 0,
+   "interests": [
+    {
+     "id": 17074,
+     "interest": "Name of donor: The Leadsom Foundation Limited (working name: 1001 Critical Days Foundation)\r\nAddress of donor: Victoria House, 178-180 Fleet Road, Fleet, Hampshire, England, GU51 4DA\r\nAmount of donation or nature and value if donation in kind: £279 in paper & printing and 40 hours of staff time to prepare the Parents, Carers and Babies Private Members Bill, value £3,729\r\nDate received: 17 June 2026 to 2 September 2026\r\nDate accepted: 17 June 2026\r\nDonor status: company, registration 16183723\r\n(Registered 28 September 2026; updated 26 October 2026)",
+     "createdWhen": "2026-11-10T10:49:54.1733333",
+     "lastAmendedWhen": "2026-10-13T09:27:22.13",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "name": "6. Land and property portfolio with a value over £100,000 and where indicated, the portfolio provides a rental income of over £10,000 a year",
+   "sortOrder": 1,
+   "interests": [
+    {
+     "id": 2947,
+     "interest": "Type of land/property: Residential property (house)\r\nNumber of properties: 1\r\nLocation: London\r\nOwnership details: owned jointly with my wife\r\nRental income: Yes\r\n(Updated 20 May 2015)",
+     "createdWhen": "2024-04-18T15:16:46.0833333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 2946,
+     "interest": "Type of land/property: Residential property (flat)\r\nNumber of properties: 1\r\nLocation: London\r\nOwnership details: owned jointly with my wife\r\nRental income: Yes\r\n(Updated 20 May 2015)",
+     "createdWhen": "2024-04-18T15:16:46.0833333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "name": "9. Family members employed and paid from parliamentary expenses",
+   "sortOrder": 2,
+   "interests": [
+    {
+     "id": 2988,
+     "interest": "Name: Moira Swayne\r\nRelationship: Spouse\r\nRole: Principal Secretary\r\nWorking pattern: Full time\r\n(Updated 20 May 2015)",
+     "createdWhen": "2024-04-18T15:16:53.1466667",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [],
+ "synopsis": "The Rt Hon Sir Desmond Swayne is the Conservative MP for <a href='/constituency/4189/overview'>New Forest West</a>, and has been an MP continually since 1 May 1997.",
+ "history": [
+  {
+   "id": 1960628,
+   "uin": "43758",
+   "heading": "Ethiopia: Christianity",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what assessment he has made of the potential implications for his policies of reports of attacks against Orthodox Christian communities and churches in Ethiopia’s Oromia regi",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1958458,
+   "uin": "41986",
+   "heading": "Kyrgyzstan: Religious Freedom",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what assessment he has made of the implications for his policies on freedom of religion or belief of Kyrgyzstan’s new Religion Law and restrictions on unregistered religious ",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1955503,
+   "uin": "39932",
+   "heading": "Mauritania: Christianity",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what assessment he has made of the potential implications for his policies of the Open Doors World Watch List report on restrictions and societal pressure affecting Christian",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1953248,
+   "uin": "38036",
+   "heading": "Algeria: Religious Freedom",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, if he will make representations to the Government of Algeria regarding restrictions on Protestant churches, including barriers to registration and access to religious materia",
+   "dateTabled": "2026-10-26T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1953461,
+   "uin": "901733",
+   "heading": "Iran: Sanctions",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what diplomatic steps he is taking to help disrupt international sources of military support for Iran.",
+   "dateTabled": "2026-10-21T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1950538,
+   "uin": "36009",
+   "heading": "Russia: Religious Freedom",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what assessment he has made of the implications for his policies of reports that Russia is restricting the peaceful religious activities of Jehovah’s Witnesses and Protestant",
+   "dateTabled": "2026-10-19T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1948045,
+   "uin": "34027",
+   "heading": "Nigeria: Christianity",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, whether he has made representations to the Government of Nigeria regarding recent reports of attacks by armed Fulani militants on Christian communities; and what assessment h",
+   "dateTabled": "2026-10-12T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1922370,
+   "uin": "14305",
+   "heading": "Hydrogen",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, if he will set out a timetable to publish the Hydrogen Strategy update.",
+   "dateTabled": "2026-06-30T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1921657,
+   "uin": "13758",
+   "heading": "Ethiopia: Christianity",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what assessment she has made of the potential implications for her policies of reports of attacks affecting Orthodox Christian communities in Ethiopia’s Arsi Zone in May and ",
+   "dateTabled": "2026-06-29T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1917208,
+   "uin": "10537",
+   "heading": "Jerusalem: Orthodox Church",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, if she will make representations to the Government of Israel regarding the seizure of land in Silwan residence owned by the Greek Orthodox Patriarchies, the removal and destr",
+   "dateTabled": "2026-06-17T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1918156,
+   "uin": "11381",
+   "heading": "Tax Avoidance",
+   "questionText": "To ask the Chancellor of the Exchequer, with reference to the answer of 27 April 2026 to Question 128634, how many individuals identified by HM Revenue and Customs as eligible for the settlement opportunity announced following the McCann review have (a) s",
+   "dateTabled": "2026-06-19T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1918531,
+   "uin": "11585",
+   "heading": "Russia: Religious Freedom",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what representations she has made to the Government of Russia on the use of administrative penalties to fine religious organisations and confiscate or destroy religious liter",
+   "dateTabled": "2026-06-22T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1915215,
+   "uin": "8982",
+   "heading": "Russia: Religious Freedom",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, whether she has made representations to the Government of Russia on the prosecution of (a) Jehovah’s Witnesses and (a) other religious groups under extremism legislation in t",
+   "dateTabled": "2026-06-11T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1913442,
+   "uin": "7354",
+   "heading": "Mali: Religious Freedom",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what assessment she has made of the impact of insecurity in Mali on Christian communities; and what steps her Department is taking with international partners to support the ",
+   "dateTabled": "2026-06-08T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1913069,
+   "uin": "7100",
+   "heading": "Electricians: Qualifications",
+   "questionText": "To ask the Secretary of State for Business and Trade, if he has plans to provide financial assistance to small electrical contractors to enable them to comply with the revised Electrotechnical Assessment Specification; and if he will extend the October de",
+   "dateTabled": "2026-06-05T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1911773,
+   "uin": "6314",
+   "heading": "Paediatrics: Neurology",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the adequacy of the availability of specialist paediatric neurorehabilitation services; and whether he is taking steps to improve access to intensive rehabilitation f",
+   "dateTabled": "2026-06-03T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1910405,
+   "uin": "5283",
+   "heading": "Efrén Antonio Vílchez López",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, whether she has made recent representations to her Nicaraguan counterpart on the release of Efrén Antonio Vílchez López.",
+   "dateTabled": "2026-06-01T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1910535,
+   "uin": "5284",
+   "heading": "Community Energy: Sales",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what plans he has to enable community energy schemes to sell power directly to households and businesses in nearby communities.",
+   "dateTabled": "2026-06-01T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1907363,
+   "uin": "2678",
+   "heading": "Broadband: Godshill",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, which company's commercial plans to supply broadband in Godshill prompted the decision to remove Godshill from the contract with Wessex Internet as part of Project Gigabit.",
+   "dateTabled": "2026-05-19T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1907379,
+   "uin": "2682",
+   "heading": "Universal Credit: Armed Forces",
+   "questionText": "To ask the Secretary of State for Work and Pensions, if he will remove the requirement to set up a personal injury trust, placed on awards from Armed Forces Compensation Scheme for the purposes of Universal Credit, if claimants with such awards are to ben",
+   "dateTabled": "2026-05-19T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1907377,
+   "uin": "2681",
+   "heading": "Universal Credit: Veterans",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what assessment he has made of the potential impact of the 12-month limit on capital disregard applied to Armed Forces Compensation Scheme lump sum payments in Universal Credit on injured veterans and t",
+   "dateTabled": "2026-05-19T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1907220,
+   "uin": "2671",
+   "heading": "Russia: Religious Freedom",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, whether she has made representations she to the Government of Russia on the prosecution of Jehovah’s Witnesses and other peaceful religious groups under extremism legislation",
+   "dateTabled": "2026-05-19T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1904231,
+   "uin": "2",
+   "heading": "Sudan: Religious Freedom",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what representations she has made regarding the protection of Christian communities and other religious minorities in Sudan .",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1904232,
+   "uin": "3",
+   "heading": "Knives: Crime",
+   "questionText": "To ask the Secretary of State for the Home Department, How the Government is responding to evidence that domestic violence is a significant precursor to fatal knife crime involving children.",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1904238,
+   "uin": "7",
+   "heading": "Motability Scheme: Rural Areas",
+   "questionText": "To ask the Secretary of State for Work and Pensions, if he will modify proposals by Motability to reduce the standard mileage allowance and increase the excess mileage surcharge in order to accommodate the needs of of rural drivers with essential mobility",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1904233,
+   "uin": "6",
+   "heading": "Department of Health and Social Care: Correspondence",
+   "questionText": "To ask the Secretary of State for Health and Social Care, when he plans to answer the letter of 27th February from Valerie Lambert regarding hospital appointments booked by the 111 telephone service.",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1898788,
+   "uin": "126516",
+   "heading": "Special Educational Needs",
+   "questionText": "To ask the Secretary of State for Education, what assessment she has made of the potential merits of using the specialist sector to complement the inclusive mainstream sector; and what steps she is taking to (a) support and (b) invest in special schools a",
+   "dateTabled": "2026-04-13T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1898790,
+   "uin": "126517",
+   "heading": "Special Educational Needs",
+   "questionText": "To ask the Secretary of State for Education, whether her Department plans to ensure that children and young people will have a right to be educated in a specialist placement if their complex needs cannot be met in a mainstream educational setting.",
+   "dateTabled": "2026-04-13T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1899547,
+   "uin": "127028",
+   "heading": "Hong Kong: Travel Information",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, if she will review the adequacy of her Department's travel advice for Hong Kong, in the context of recent reports of enforcement actions, under the National Security Law, reg",
+   "dateTabled": "2026-04-14T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1900077,
+   "uin": "127408",
+   "heading": "Environmental Land Management Schemes: Common Land",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, if she will instruct the Rural Payments Agency to implement a manual system to process applications for ELM schemes on Common land.",
+   "dateTabled": "2026-04-15T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1898796,
+   "uin": "126518",
+   "heading": "Min Aung Hlaing",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, whether she is taking diplomatic steps to hold the recently inaugurated President of Myanmar, Min Aung Hlaing, accountable for war crimes, crimes against humanity, and genoci",
+   "dateTabled": "2026-04-13T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1898798,
+   "uin": "126519",
+   "heading": "Myanmar: Humanitarian Aid",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, if she will increase humanitarian support to Myanmar’s refugees, internally displaced people and civil society in 2026.",
+   "dateTabled": "2026-04-13T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1894682,
+   "uin": "908479",
+   "heading": "Coroners: Northern Ireland",
+   "questionText": "To ask the Secretary of State for Northern Ireland, what steps he is taking to support the resumption of inquests that were discontinued by previous legislation.",
+   "dateTabled": "2026-03-17T00:00:00",
+   "answeringBodyName": "Northern Ireland Office"
+  },
+  {
+   "id": 1892756,
+   "uin": "121688",
+   "heading": "Refineries: UK Carbon Border Adjustment Mechanism",
+   "questionText": "To ask the Chancellor of the Exchequer, whether she plans to include refined products in the Carbon Border Adjustment Mechanism at a future date; and if she will take measures to support the fuels sector whilst it is excluded from a Carbon Border Adjustme",
+   "dateTabled": "2026-03-18T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1892755,
+   "uin": "121687",
+   "heading": "Refineries: UK Carbon Border Adjustment Mechanism",
+   "questionText": "To ask the Chancellor of the Exchequer, what estimate she has made of the potential impact of the exclusion of refined products from the Carbon Border Adjustment Mechanism from January 2028; and what estimate she has made of the potential impact on the UK",
+   "dateTabled": "2026-03-18T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1891862,
+   "uin": "121271",
+   "heading": "Special Educational Needs: Speech and Language Therapy",
+   "questionText": "To ask the Secretary of State for Education, what plans she has for SEND practitioners to be provided with training on how to support children with speech, language and communication challenges.",
+   "dateTabled": "2026-03-17T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1891861,
+   "uin": "121270",
+   "heading": "Special Educational Needs: Speech and Language Therapy",
+   "questionText": "To ask the Secretary of State for Education, what plans she has for the National Inclusion Standards to include (a) speech and language therapists, (b) any other experts on speech, language and communication challenges.",
+   "dateTabled": "2026-03-17T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1885137,
+   "uin": "115782",
+   "heading": "Jin Mingri",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, whether she has made representations to the Government of China on the potential merits of the release of Pastor Ezra Jim Mingri.",
+   "dateTabled": "2026-02-25T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1884756,
+   "uin": "907998",
+   "heading": "Electric Vehicles: Excise Duties",
+   "questionText": "To ask the Secretary of State for Scotland, what discussions he has had with Cabinet colleagues on the potential impact of the proposed application of electric vehicle pay-per-mile taxation on people living in rural communities in Scotland.",
+   "dateTabled": "2026-02-12T00:00:00",
+   "answeringBodyName": "Scotland Office"
+  },
+  {
+   "id": 1880116,
+   "uin": "112089",
+   "heading": "Electricity: Prices",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, if he will amend the electricity fixed-cost banding rule to permit evidence-based band migration based on actual usage and capacity within the permitted band limits.",
+   "dateTabled": "2026-02-10T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1880479,
+   "uin": "112092",
+   "heading": "Refineries: Carbon Emissions",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what assessment he has made of the potential impact of UK carbon pricing on the refinery sector; and whether her has made an assessment of the potential merits of carbon price linkage to the ",
+   "dateTabled": "2026-02-10T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1880115,
+   "uin": "112088",
+   "heading": "Energy Intensive Industries Exemption Scheme: Horticulture",
+   "questionText": "To ask the Secretary of State for Business and Trade, if he will grant EII status to the Horticulture Sector in the Energy Intensive Industries exemption scheme.",
+   "dateTabled": "2026-02-10T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1880471,
+   "uin": "112090",
+   "heading": "Carbon Emissions: Taxation",
+   "questionText": "To ask the Chancellor of the Exchequer, if she has plans to include the horticultural sector in the CBAM from January 2028.",
+   "dateTabled": "2026-02-10T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1880474,
+   "uin": "112091",
+   "heading": "Refineries: Carbon Emissions",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what assessment he has made of the risk of carbon leakage for refineries before and after January 2028, compared to other industrial sectors.",
+   "dateTabled": "2026-02-10T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1877534,
+   "uin": "109957",
+   "heading": "Ethiopia: Christianity",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what assessment she has made of the potential implications for her policies of reports of attacks on places of worship for Christian communities in Ethiopia.",
+   "dateTabled": "2026-02-02T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1870184,
+   "uin": "104609",
+   "heading": "Prime Minister: China",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, whether the proposed visit to China later this month is planned to be proceeded with irrespective of the outcome of His Majesty’s Government’s determination of the planning a",
+   "dateTabled": "2026-01-12T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1868145,
+   "uin": "102707",
+   "heading": "Nigeria: Christianity",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what steps the Government is taking in collaboration with the Government of Nigeria to address violence and discrimination affecting Christians in northern Nigeria.",
+   "dateTabled": "2026-01-05T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1863217,
+   "uin": "99146",
+   "heading": "Pupils: Health",
+   "questionText": "To ask the Secretary of State for Education, if she will make proposals to support pupils with medical conditions, including allergies.",
+   "dateTabled": "2025-12-11T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1863793,
+   "uin": "906907",
+   "heading": "Security Action for Europe",
+   "questionText": "To ask the Secretary of State for Defence, whether it is his policy to seek UK participation in the Security Action for Europe instrument.",
+   "dateTabled": "2025-12-09T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1862649,
+   "uin": "98732",
+   "heading": "Temporary Employment: Working Hours",
+   "questionText": "To ask the Secretary of State for Business and Trade, whether his Department has conducted international comparisons on the definition of low hours to inform how the threshold for low hours is set and the reference periods used to calculate guaranteed hou",
+   "dateTabled": "2025-12-10T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1862648,
+   "uin": "98731",
+   "heading": "Temporary Employment: Working Hours",
+   "questionText": "To ask the Secretary of State for Business and Trade, under the provisions of the Employment Rights Bill, in what circumstances will responsibility for providing guaranteed hours to an agency worker default from the end hirer to the employment agency.",
+   "dateTabled": "2025-12-10T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1862654,
+   "uin": "98735",
+   "heading": "Temporary Employment: Working Hours",
+   "questionText": "To ask the Secretary of State for Business and Trade, if he has made an assessment of how reasonable notice periods may vary for agency workers in sectors that require high levels of flexibility or short notice.",
+   "dateTabled": "2025-12-10T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1862653,
+   "uin": "98734",
+   "heading": "Statutory Sick Pay: Agency Workers",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what assessment his Department has of the potential impact of removing the waiting period for statutory sick pay on the number of claims made by agency workers; and what steps he plans to take to ensure",
+   "dateTabled": "2025-12-10T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1860088,
+   "uin": "96598",
+   "heading": "Motorcycles",
+   "questionText": "To ask the Secretary of State for Transport, what engagement she has had with organisations representing motorcyclists in preparation for the Integrated National Transport Strategy.",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1860087,
+   "uin": "96597",
+   "heading": "Transport",
+   "questionText": "To ask the Secretary of State for Transport, when she plans to publish the Integrated National Transport Strategy.",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1964019,
+   "uin": "46830",
+   "heading": null,
+   "questionText": "To ask the Prime Minister, whether disciplinary action will be taken against officials responsible for promoting Max Balegde's TikTok video by liking it before it was removed.",
+   "dateTabled": "2026-11-25T00:00:00",
+   "answeringBodyName": "Prime Minister"
+  },
+  {
+   "id": 1964017,
+   "uin": "46828",
+   "heading": null,
+   "questionText": "To ask the Prime Minister, what due diligence was undertaken when vetting influencer guests prior to the recent reception at 10 Downing Street.",
+   "dateTabled": "2026-11-25T00:00:00",
+   "answeringBodyName": "Prime Minister"
+  },
+  {
+   "id": 1963780,
+   "uin": "45927",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what assessment he has made of the potential implications for his policies of the number of individuals, in particular Christians, detained in North Korea’s prisons and labou",
+   "dateTabled": "2026-11-24T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  }
+ ],
+ "historyComplete": true
+}

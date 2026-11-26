@@ -1,0 +1,488 @@
+{
+ "verdict": "pass_with_fixes",
+ "checked": 1266,
+ "fixes": [
+  {
+   "where": "editorial.very_important[0].title",
+   "was": "Microsoft outage: was No 10's email and Microsoft estate disrupted?",
+   "now": "Microsoft outage: were No 10's email and associated Microsoft applications disrupted?",
+   "reason": "46527 asks about email and associated applications, not the whole Microsoft estate."
+  },
+  {
+   "where": "editorial.summary",
+   "was": "departmental insourcing strategies from April",
+   "now": "departmental insourcing strategies to be published in April",
+   "reason": "The answers specify publication in April, not the start of insourcing then."
+  },
+  {
+   "where": "editorial.very_important[1].body",
+   "was": "NHS England is working with suppliers on root cause and lessons learned.",
+   "now": "She described NHS England's process following significant supplier incidents: working with suppliers to understand the root cause, assess lessons and identify further resilience measures.",
+   "reason": "HL5499 describes a general process; it does not explicitly confirm a current investigation into this particular outage."
+  },
+  {
+   "where": "editorial.very_important[2].body",
+   "was": "Lord Tarassenko withdrew his amendment",
+   "now": "Lord Tarassenko asked leave to withdraw Amendment 142.",
+   "reason": "The supplied closing contribution records the request, not the subsequent procedural outcome."
+  },
+  {
+   "where": "editorial.very_important[3].body",
+   "was": "Five requests for non-NHS administrator roles have been approved, all for Palantir UK employees, and three are currently active.",
+   "now": "Five non-NHS enrolment administration role requests for access to data in the National Data Integration Tenant have been approved, all for Palantir UK staff; three such roles are currently active.",
+   "reason": "HL5327 and HL5328 identify a specific role and tenant, not unrestricted administrator access."
+  },
+  {
+   "where": "editorial.very_important[3].title",
+   "was": "Palantir admin access approved",
+   "now": "Palantir enrolment administration roles approved",
+   "reason": "The title must preserve the limited role identified in the answers."
+  },
+  {
+   "where": "editorial.very_important[3].why",
+   "was": "It directly answers the Clement-Jones test of keys “held by NHS bodies rather than suppliers”",
+   "now": "The answer distinguishes NHS England's ownership of the keys from their hosting within AWS infrastructure and specifies supplier-access controls.",
+   "reason": "Ownership and infrastructure hosting are distinct; the evidence does not establish whether the proposed sovereignty test is met."
+  },
+  {
+   "where": "editorial.very_important[5].body",
+   "was": "will be published by January 2027 and legislated for later",
+   "now": "will be published by January 2027. The exact criteria are still being developed, and legislation will follow when Parliamentary time allows.",
+   "reason": "The answer qualifies the legislative timetable and says the criteria remain under development."
+  },
+  {
+   "where": "editorial.very_important[6].body",
+   "was": "which is identified in the National Chronic Risk Register",
+   "now": "The answer describes technological risks identified in the Chronic Risk analysis",
+   "reason": "The register is named in the question; the answer itself refers to Chronic Risk analysis."
+  },
+  {
+   "where": "editorial.very_important[7].who; editorial.debates[1].who; editorial.debates[2].who; editorial.questions[0].where; editorial.questions[1].body",
+   "was": "DBT",
+   "now": "Department for Business, Innovation, Science and Trade",
+   "reason": "This is the department named in the supplied question records and ministerial Hansard titles."
+  },
+  {
+   "where": "editorial.very_important[8].body, question 46687",
+   "was": "what limits apply to continuous low-frequency noise near homes?",
+   "now": "whether the minister plans to set limits on continuous low-frequency noise from data centres and their on-site gas generation near homes in the draft NPS.",
+   "reason": "The question asks about planned limits, not which limits already apply."
+  },
+  {
+   "where": "editorial.very_important[8].body, question 46686",
+   "was": "has the Environment Agency assessed deep piling through former landfill",
+   "now": "what assessment the Environment Agency has made of the impact of deep piling through former landfill sites",
+   "reason": "The question requests the assessment, rather than asking only whether one exists."
+  },
+  {
+   "where": "editorial.very_important[8].body, question 46664",
+   "was": "on what basis was the SDC M40 Campus at Wapseys Wood, Buckinghamshire, designated a Nationally Significant Infrastructure Project?",
+   "now": "what economic and infrastructure impact assessment MHCLG made of the proposed SDC M40 Campus at Wapseys Wood, Buckinghamshire, when determining its Nationally Significant Infrastructure Project designation.",
+   "reason": "The question specifically concerns the economic and infrastructure impact assessment."
+  },
+  {
+   "where": "editorial.debates[0].body",
+   "was": "Baroness Harding cited past failures including care.data, NPfIT and the Federated Data Platform.",
+   "now": "Baroness Harding said earlier attempts to join up NHS data, including care.data, NPfIT and the Federated Data Platform, had failed to build citizen trust.",
+   "reason": "Her criticism concerns trust, not a finding that all these technology programmes failed operationally."
+  },
+  {
+   "where": "editorial.debates[0].body",
+   "was": "Other amendments sought: ... recognition of a new Office for Statistics Regulation report with six lessons on the Federated Data Platform (Lord Davies of Brixton).",
+   "now": "Lord Davies of Brixton also drew attention to an Office for Statistics Regulation report containing six lessons on the Federated Data Platform.",
+   "reason": "His contribution requests recognition of the report; the evidence does not identify an amendment requiring it."
+  },
+  {
+   "where": "editorial.debates[0].body",
+   "was": "the national data opt-out would apply to any secondary use",
+   "now": "if the SPR were used for secondary purposes, the national data opt-out policy would apply",
+   "reason": "This preserves the minister's conditional statement and its specific SPR context."
+  },
+  {
+   "where": "editorial.debates[1].body",
+   "was": "which makes this gateway in practice the main route for proving identity online",
+   "now": "He described the gateway as, in practice, the main route for proving identity online",
+   "reason": "This is Lord Clement-Jones's assessment, not an independently established outcome."
+  },
+  {
+   "where": "editorial.questions[0].where",
+   "was": "NHS England",
+   "now": "DHSC (including a question about NHS England)",
+   "reason": "46683 is addressed to the Health and Social Care Secretary; NHS England is its subject, not the answering department."
+  },
+  {
+   "where": "editorial.questions[0].body, question 46514",
+   "was": "which industry advisers sit on the PM's AI Taskforce (46514)",
+   "now": "how many people from industry advise the Prime Minister's AI Taskforce (46514)",
+   "reason": "The question seeks a number, not the advisers' identities or taskforce membership."
+  },
+  {
+   "where": "editorial.questions[0].body, question 46515",
+   "was": "how the GovAI Unit is staffed (46515)",
+   "now": "how many full-time equivalent staff work in the GovAI Unit (46515)",
+   "reason": "The question specifically requests the full-time equivalent staff count."
+  },
+  {
+   "where": "editorial.questions[0].body, answer 902156",
+   "was": "the EU AI Act applies in Northern Ireland only as a limited product-safety update",
+   "now": "the EU AI Act will apply in Northern Ireland only as a limited product-safety update",
+   "reason": "The answer uses the future tense; it does not establish commencement."
+  },
+  {
+   "where": "editorial.questions[1].body, question 46777",
+   "was": "which ministerial meetings have been held with Jensen Huang and Nvidia since 5 July 2024 (46777)",
+   "now": "whether ministers or senior officials have met Jensen Huang or other Nvidia representatives since 5 July 2024 (46777)",
+   "reason": "The question asks whether meetings occurred and includes senior officials."
+  },
+  {
+   "where": "editorial.questions[2].body",
+   "was": "AI-led dip-testing of Senior Civil Service performance is under way, with results due in December 2026.",
+   "now": "Responses to the AI-led Senior Civil Service performance dip-testing commission are being reviewed; results are expected in December 2026.",
+   "reason": "44503 identifies the current review stage and gives an expectation, not a guaranteed deadline."
+  },
+  {
+   "where": "editorial.questions[4].body",
+   "was": "HL5276 (AI and the labour market)",
+   "now": "HL5276 asks about housing-market volatility caused by AI-related labour-market shocks",
+   "reason": "The question's specific subject is housing-market volatility, rather than the labour market alone."
+  },
+  {
+   "where": "editorial.questions[6].title; editorial.questions[6].body",
+   "was": "New £70m National Exposure and Real Time Vulnerability (NERV) centre in the NCSC; initial capability expected in mid-2027",
+   "now": "£70m for the National Exposure and Real Time Vulnerability (NERV) centre and related capabilities; initial operating capability, subject to detailed planning, expected in mid-2027",
+   "reason": "The funding includes related capabilities, and the timing is expressly conditional."
+  },
+  {
+   "where": "editorial.questions[8].body",
+   "was": "about NATO preparedness",
+   "now": "steps to strengthen critical national communications infrastructure to meet NATO civil preparedness requirements",
+   "reason": "46770 concerns specific civil preparedness requirements, not NATO preparedness generally."
+  },
+  {
+   "where": "editorial.questions[9].title",
+   "was": "AI chatbots and children: Meta AI and the scope of the Online Safety Act",
+   "now": "AI chatbots: Meta AI and the scope of the Online Safety Act",
+   "reason": "43525 and 43527 concern service scope and regulatory risk assessments; neither specifically asks about children."
+  },
+  {
+   "where": "editorial.questions[11].body; editorial.questions[11].why",
+   "was": "the Online Safety Act duty to report child sexual exploitation and abuse (CSEA) to the NCA; in-scope platforms",
+   "now": "the Online Safety Act CSEA reporting duty for in-scope user-to-user services to report detected and unreported CSEA content to the NCA",
+   "reason": "45418 specifies both the service category and the content to be reported."
+  },
+  {
+   "where": "editorial.questions[15].body",
+   "was": "the UK–EU partnership for economic resilience agreed at the UK–EU Summit on 20 November",
+   "now": "agreement at the UK–EU Summit on 20 November to launch work on economic security and supply chains through a new partnership for economic resilience",
+   "reason": "The answer records an agreement to launch work, not a completed cooperation programme."
+  },
+  {
+   "where": "editorial.questions[18].body",
+   "was": "Munira Wilson asks about the burden on schools of complaints generated using AI.",
+   "now": "Munira Wilson asks about the potential merits of updated guidance to schools on handling AI-generated complaints.",
+   "reason": "46706 asks about guidance, not an assessment of the burden."
+  },
+  {
+   "where": "editorial.committees[0].date; editorial.committees[0].body",
+   "was": "report expected “in a couple of days”; He said it would make the same points",
+   "now": "he hoped a report would be published “in a couple of days”; He hoped it would make the same points",
+   "reason": "Lord Patel expresses a hope about timing and recommendations, not a confirmed publication schedule or report finding."
+  },
+  {
+   "where": "editorial.committees[0].title",
+   "was": "Forthcoming report expected on AI, genomics and personalised medicine",
+   "now": "Lord Patel hopes for a forthcoming report on AI, genomics and personalised medicine",
+   "reason": "The headline must also attribute the publication expectation to Lord Patel."
+  },
+  {
+   "where": "editorial.other[0].date; editorial.other[0].body",
+   "was": "Tabled 2026-11-17; answered; Several members asked about Capita's administration of the Civil Service Pension Scheme, including whether the Synergy contract was ready (44249). Answers note that £9.9m has been withheld from Capita.",
+   "now": "44249 tabled 2026-11-17; answered 2026-11-25; 44249 concerns the separate Synergy contract and reports performance against contractual obligations. The other cited members' Civil Service Pension Scheme answers record £9.9m withheld from Capita.",
+   "reason": "Synergy and the pensions administration contract must not be conflated. The withholding figure is not in the Synergy answer, and the date must be scoped to 44249."
+  },
+  {
+   "where": "editorial.today[2].time; editorial.today[3].time; editorial.today[4].time",
+   "was": "After 11:00 (exact time not listed); Later in the sitting (exact time not listed)",
+   "now": "Not listed",
+   "reason": "The evidence provides no times for these three events."
+  },
+  {
+   "where": "editorial.coverage[1]; editorial.coverage[2]; editorial.coverage[4]",
+   "was": "the Chamber ... Westminster Hall and General Committees were screened; ... Grand Committee were screened; ... were screened",
+   "now": "The evidence includes excerpts from these parliamentary venues and lists committee publications and forthcoming business.",
+   "reason": "The supplied records demonstrate inclusion, not comprehensive screening of every venue or source."
+  },
+  {
+   "where": "editorial.coverage[3]",
+   "was": "The statements covered only Local Government Best Value and were not relevant.",
+   "now": "Only two statement records are supplied, both titled “Update on Local Government Best Value”.",
+   "reason": "The metadata reports five statements scanned, but only two records are provided; the other three cannot be characterised."
+  },
+  {
+   "where": "editorial.coverage[5]",
+   "was": "No source gaps were reported.",
+   "now": "The sourceGaps list is empty, but several supplied answers and Hansard excerpts are truncated.",
+   "reason": "An empty source-gap list does not make the supplied text complete; the review must acknowledge visible truncation."
+  },
+  {
+   "where": "editorial.member_notes.1796",
+   "was": "about 350 of 431 relevant",
+   "now": "350 of his 431 written questions in the past year are relevant",
+   "reason": "431 is the total question count, while 350 is the relevant subset."
+  },
+  {
+   "where": "editorial.member_notes.1796",
+   "was": "until January 2026",
+   "now": "the registered interest ended on 30 January 2026",
+   "reason": "The profile provides the precise cessation date."
+  },
+  {
+   "where": "editorial.member_notes.5109",
+   "was": "Business and Trade Committee and its economic security sub-committee",
+   "now": "Business, Innovation, Science and Trade Committee and its Sub-Committee on Economic Security, Arms and Export Controls",
+   "reason": "These are the committee names in his profile."
+  }
+ ],
+ "removed": [
+  {
+   "where": "editorial.summary; editorial.very_important[8].title",
+   "reason": "Replaced adversarial characterisations of Sarah Green's questions with neutral descriptions of their subjects."
+  },
+  {
+   "where": "editorial.very_important[0].why",
+   "reason": "Removed predictions of further questions and departmental follow-ups; the evidence establishes the question and member's history, not future activity."
+  },
+  {
+   "where": "editorial.very_important[1].why",
+   "reason": "Removed the suggestion that critics would use the answer as a hook for diversification or exit planning."
+  },
+  {
+   "where": "editorial.very_important[2].body",
+   "reason": "Removed the unsupported Conservative frontbench role for Earl Howe and the prediction that the issue would return at Report."
+  },
+  {
+   "where": "editorial.very_important[2].why",
+   "reason": "Removed predictions of a Report-stage amendment and assertions about effects on Microsoft or US hyperscalers not established by the supplied debate."
+  },
+  {
+   "where": "editorial.very_important[3].why",
+   "reason": "Removed the prediction of a Report-stage intervention and the client-relative competitor framing."
+  },
+  {
+   "where": "editorial.very_important[4].why",
+   "reason": "Removed predictions about cloud contracts and inferred wider vendor scrutiny; retained the stated insourcing arrangements and questions' scope."
+  },
+  {
+   "where": "editorial.very_important[5].why",
+   "reason": "Removed unsupported implications for global cloud and AI providers and the lobbying recommendation for early engagement."
+  },
+  {
+   "where": "editorial.very_important[6].why",
+   "reason": "Removed the prediction that UK policy may follow European sovereignty approaches."
+  },
+  {
+   "where": "editorial.very_important[7].why",
+   "reason": "Removed unestablished implications for providers operating from either jurisdiction; retained the proposal's stated market-access objective."
+  },
+  {
+   "where": "editorial.very_important[8].why",
+   "reason": "Removed inferred coordination, opposition, a common campus focus for all questions and predictions of sector-wide planning outcomes."
+  },
+  {
+   "where": "editorial.debates[0].why",
+   "reason": "Removed unestablished procurement and future supplier-requirement consequences."
+  },
+  {
+   "where": "editorial.debates[1].why",
+   "reason": "Removed unsupported extensions to cloud providers; retained the code's evidenced DVS scope."
+  },
+  {
+   "where": "editorial.debates[2].why",
+   "reason": "Removed unverified application to gaming and software subscriptions; retained the minister's enforcement statement."
+  },
+  {
+   "where": "editorial.debates[3].why",
+   "reason": "Removed the unevidenced claim that interest in healthcare AI regulation is growing."
+  },
+  {
+   "where": "editorial.debates[4].why",
+   "reason": "Removed claims about agenda prominence and the Bill's scope for managed service and cloud providers, which the supplied intervention does not establish."
+  },
+  {
+   "where": "editorial.questions[0].why",
+   "reason": "Removed the inferred purpose of making supplier choices visible through a register; retained the questions' requests."
+  },
+  {
+   "where": "editorial.questions[1].why",
+   "reason": "Removed an inferred link to other peers' compute-strategy proposals; retained the explicit single-supplier contingency question."
+  },
+  {
+   "where": "editorial.questions[2].why",
+   "reason": "Removed the claim that HMRC is currently undertaking a live migration and the commercial positioning inference."
+  },
+  {
+   "where": "editorial.questions[2].tags",
+   "reason": "Removed Cloud migration: the answer establishes migration from legacy infrastructure but does not identify the destination as cloud."
+  },
+  {
+   "where": "editorial.questions[3].why; editorial.questions[3].tags",
+   "reason": "Removed the assertion that DeepSeek is Chinese, the China tag and inferred member motivation; this item's supplied sources do not establish the national attribution."
+  },
+  {
+   "where": "editorial.questions[4].why",
+   "reason": "Removed inferred campaign continuity; retained the evidenced subject matter."
+  },
+  {
+   "where": "editorial.questions[6].why",
+   "reason": "Removed the prediction that NERV will interact with software and cloud vendors on vulnerability disclosure."
+  },
+  {
+   "where": "editorial.questions[9].why",
+   "reason": "Removed the implication that the answer establishes duties for every consumer AI assistant; the answer distinguishes regulated service definitions from powers to extend duties."
+  },
+  {
+   "where": "editorial.questions[10].why",
+   "reason": "Removed certainty about forthcoming regulation and its application to all consumer AI assistant providers."
+  },
+  {
+   "where": "editorial.questions[13].why",
+   "reason": "Removed the unsupported comparative claim that Lord Clement-Jones is the most active Lords digital spokesperson."
+  },
+  {
+   "where": "editorial.questions[15].why",
+   "reason": "Removed an unestablished substantive link between this answer and EU cloud and AI measures."
+  },
+  {
+   "where": "editorial.questions[18].why",
+   "reason": "Removed the unsupported description of the issue as emerging."
+  },
+  {
+   "where": "editorial.committees[0].why",
+   "reason": "Removed predictions of report recommendations and their influence at Health Bill Report stage."
+  },
+  {
+   "where": "editorial.committees[1].why; editorial.committees[2].why; editorial.committees[3].why",
+   "reason": "Removed inferences about correspondence contents and implications; only publication metadata is supplied."
+  },
+  {
+   "where": "editorial.other[0].why",
+   "reason": "Removed the unsupported causal assertion that this supplier failure is driving the wider insourcing agenda."
+  },
+  {
+   "where": "editorial.today[0].why; editorial.today[2].why; editorial.today[3].why; editorial.today[4].why",
+   "reason": "Removed predictions of specific questions or debate content not present in the business listings."
+  },
+  {
+   "where": "editorial.coverage[4]",
+   "reason": "Removed the unsupported claim that a comprehensive search found no new in-scope inquiries or calls for evidence."
+  },
+  {
+   "where": "editorial.member_notes.4384",
+   "reason": "Removed inferred motives for the outage and HMRC questions; retained the profile's role and question history."
+  },
+  {
+   "where": "editorial.member_notes.1796",
+   "reason": "Removed inferred motivations and the inaccurate grouping of all visit funders as crypto or digital-asset organisations; EasyA is identified as an education technology company."
+  },
+  {
+   "where": "editorial.member_notes.4785",
+   "reason": "Removed the inference of close sector engagement and motives for the current series; retained registered professional hospitality, role and history."
+  },
+  {
+   "where": "editorial.member_notes.5314",
+   "reason": "Removed the unsupported attribution of a policy preference for public control."
+  },
+  {
+   "where": "editorial.member_notes.4500",
+   "reason": "Removed the specific sustained digital-sovereignty campaign attribution not established by the profile."
+  },
+  {
+   "where": "editorial.member_notes.5111",
+   "reason": "Removed inferred committee and constituency motives for particular procurement questions."
+  },
+  {
+   "where": "editorial.member_notes.4918",
+   "reason": "Removed inferred local planning, energy and water motivations; the profile contains a role and question history, not a statement of motive."
+  },
+  {
+   "where": "editorial.member_notes.5346",
+   "reason": "Removed inferred motives for the Nvidia series and the unsupported constituency connection to that series."
+  },
+  {
+   "where": "editorial.member_notes.3396",
+   "reason": "Removed the specific NHS sovereignty and CLOUD Act campaign attribution; retained his declared digital and intellectual-property focus."
+  },
+  {
+   "where": "editorial.member_notes.4939",
+   "reason": "Removed inferred motivation for the DeepSeek question; retained the profile's public roles and question history."
+  },
+  {
+   "where": "editorial.member_notes.4333",
+   "reason": "Removed inferred motives concerning patient data; retained the declared IT and civil-liberties focus."
+  },
+  {
+   "where": "editorial.member_notes.4282",
+   "reason": "Removed the inferred Budget follow-up motivation not stated in the profile."
+  },
+  {
+   "where": "editorial.member_notes.5156",
+   "reason": "Removed the inferred campaigning motivation and litigation/fee details to keep the note confined to parliamentary activity and avoid private-life material."
+  },
+  {
+   "where": "editorial.member_notes.5212",
+   "reason": "Removed inferred motives for the child-safety question; retained committee membership and history."
+  },
+  {
+   "where": "editorial.member_notes.4742",
+   "reason": "Removed inferred motives for particular communications questions; retained the defence role and cyber question history."
+  },
+  {
+   "where": "editorial.member_notes.5275",
+   "reason": "Removed causal speculation about his questions; retained committee memberships and the declared unpaid public role."
+  },
+  {
+   "where": "editorial.member_notes.4743",
+   "reason": "Removed unsupported judgments about general security motivation and lack of technology specialism."
+  },
+  {
+   "where": "editorial.member_notes.5109",
+   "reason": "Removed inferred motivation for the Made in Europe question."
+  },
+  {
+   "where": "editorial.member_notes.5025",
+   "reason": "Removed unsupported claims about worker and trade-union motivations and lack of technology specialism."
+  },
+  {
+   "where": "editorial.member_notes.429",
+   "reason": "Removed inferred motivation for the sovereign-software questions."
+  },
+  {
+   "where": "editorial.member_notes.5313",
+   "reason": "Removed inferred motivation concerning the impact of pensions problems on public servants."
+  },
+  {
+   "where": "editorial.member_notes.5058",
+   "reason": "Removed a specific child-protection focus not stated in the profile."
+  },
+  {
+   "where": "editorial.member_notes.3335",
+   "reason": "Removed inferred law-enforcement and online-harms campaign focus; retained the AI question-history finding."
+  },
+  {
+   "where": "editorial.member_notes.318",
+   "reason": "Removed inferred motivation concerning quality and resilience of government processes."
+  },
+  {
+   "where": "editorial.member_notes.4776",
+   "reason": "Removed inferred motivation for the current complaints question; retained the education role and AI question history."
+  }
+ ],
+ "provider": "copilot",
+ "writer": "claude-opus-5.5",
+ "validator": "gpt-6.1-sol",
+ "independent": true,
+ "ruleChecks": {
+  "checked": 84,
+  "issues": []
+ }
+}
