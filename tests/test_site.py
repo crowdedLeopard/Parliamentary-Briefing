@@ -114,6 +114,16 @@ def test_news_failure_is_a_gap(tmp_path):
     assert len(r["gaps"]) == 2 and r["events"] == []
 
 
+def test_govuk_ignores_a_publisher_naming_itself():
+    def result(title, desc=""):
+        return {"title": title, "description": desc, "link": "/x", "public_timestamp": "2026-11-26T09:00:00Z",
+                "organisations": [{"title": "Competition and Markets Authority"}]}
+    res = [result("CMA study reveals catalogue of concerns in private dentistry market", "The CMA has published"),
+           result("CMA opens cloud market investigation", "The CMA is looking at cloud services")]
+    got = news.govuk(date(2026, 11, 1), get=lambda url: {"results": res})
+    assert [e["title"] for e in got] == ["CMA opens cloud market investigation"]
+
+
 def test_site_builds_with_navigation(tmp_path, monkeypatch):
     write_repo(tmp_path, FEEDS)
     monkeypatch.setattr(sitemod, "ROOT", tmp_path)
