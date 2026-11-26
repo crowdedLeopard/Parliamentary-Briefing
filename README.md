@@ -94,6 +94,10 @@ Each variable takes a comma-separated list. If a model reports "not available", 
 
 The repository is public, and every run publishes the website (latest briefing at the top, then the archive with each edition's validation status) to GitHub Pages at **https://crowdedleopard.github.io/Parliamentary-Briefing/**. Pages carry `noindex` and `robots.txt` blocks crawlers, so it should not show up in search results, but anyone with the link can read it.
 
+### No internal names on the pages
+
+Every page goes through `pipeline/redact.py` before it is written, both in `render.py` and when the site is built. This removes the reader's name, their team and role, and any work email address, and a bare first name becomes "The reader". A member of Parliament's full name is left alone. The writer and validator are also told never to mention anyone or anything internal. To add more names, set the repository variable `REDACT_TERMS`, comma-separated. The site job applies it to every page.
+
 ### Archive, themes and timeline
 
 The site job builds these from the files already in the repository. It needs no new secrets and changes no workflow.

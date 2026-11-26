@@ -195,6 +195,7 @@ jobs:
       SWA_TOKEN: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN }}
       SITE_TOKEN: ${{ secrets.SITE_DEPLOY_TOKEN }}
       SITE_REPO: ${{ vars.SITE_REPO || 'crowdedLeopard/parliamentary-briefing-site' }}
+      REDACT_TERMS: ${{ vars.REDACT_TERMS }}   # extra internal names kept off the pages (pipeline/redact.py)
       PAGES_OFF: ${{ vars.PAGES_DISABLED }}
     steps:
       - uses: actions/checkout@v4
