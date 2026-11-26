@@ -98,7 +98,7 @@ def load(root: Path = ROOT) -> tuple[list[dict], dict[str, dict]]:
         editions[ed] = {"date": ed, "fromDate": feed.get("fromDate") or ed, "scanned": feed.get("questionsScanned") or 0,
                         "questions": len(wq), "statements": len(feed.get("writtenStatements") or []),
                         "topics": dict(topic_counts), "microsoft": ms,
-                        "headline": edit.get("headline") or "", "verdict": val.get("verdict")}
+                        "headline": edit.get("headline") or "", "title": edit.get("title") or "", "verdict": val.get("verdict")}
         for q in wq:
             uin = str(q.get("uin") or "")
             if not uin:

@@ -37,12 +37,15 @@ Microsoft, AWS or other IT suppliers; regulatory moves; new committee inquiries 
 issues (with deadline); major data-centre opposition. Give more detail the more relevant an item is."""
 
 SCHEMA = """Return ONLY a JSON object with these keys:
-"headline" (one sentence, the top finding), "summary" (2-3 sentences),
+"title" (a snappy newspaper-style title of 3-7 words, e.g. "Peers press ministers on the 365 outage"; not a full
+  sentence, no full stop). Derive it from this briefing only: its very_important items and the day's dominant theme,
+  meaning the subject that most of the period's questions, debates and statements share.
+  When one story leads and a theme runs through the day, name both if they fit, e.g. "365 outage and cloud lock-in". "headline" (one sentence, the top finding), "summary" (2-3 sentences),
 "very_important", "debates", "questions", "committees", "other": arrays of items
   {"title","who","where","date","body","why","link","linkText","tags":[...]}
 "today": array of {"time","venue","lead","title","why","link"} for today's relevant business, in time order
 "coverage": array of short strings: dates covered and whether each House sat (from sittingDays), what was screened, any gaps
-If sittingDays says neither House sat in the period, say so plainly in the headline and summary and keep the
+If sittingDays says neither House sat in the period, say so plainly in the title, headline and summary and keep the
 briefing short: cover only written answers and statements, committee publications and today's business.
 "member_notes": object mapping member id (string) to 2-3 sentences on what most plausibly drives their interest,
   using only that member's profile evidence, with inferences marked "likely" or "appears"; no private life.
@@ -55,7 +58,8 @@ or anything inside Microsoft. Write "why it matters" in terms of Microsoft's int
 VALIDATE = """You are the second, independent reviewer of a parliamentary briefing written by another agent.
 Check EVERY factual claim in the DRAFT against the EVIDENCE: names, parties, constituencies, roles, departments,
 UINs, dates, times, numbers, quotes, what a minister said, outcomes, and that each link appears in the evidence.
-Also check the member_notes make no claim beyond each member's profile evidence and say nothing about private life,
+Check the title is supported by the briefing's own items and names the day's leading story or dominant theme;
+rewrite it (3-7 words) if not. Also check the member_notes make no claim beyond each member's profile evidence and say nothing about private life,
 and that the briefing is politically neutral. Correct anything wrong or unsupported; remove what cannot be
 supported. Do not add new items. The briefing and your correction log are published on a public page: remove any
 mention of the reader, their team or role, or anyone or anything inside Microsoft, and never mention them in your

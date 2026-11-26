@@ -16,6 +16,7 @@ Standard library only (the site job installs nothing).
 from __future__ import annotations
 
 import json
+import re
 import os
 import shutil
 import sys
@@ -487,14 +488,23 @@ HOME_JS = "(function(){var s=document.getElementById('day'),b=document.getElemen
           "b.addEventListener('click',function(){location.href=s.value+'.html'});})();" + INDEX_JS
 
 
+def title_of(ed: dict) -> str:
+    """The edition's short title; older editions without one get the headline's first clause, cut to 8 words."""
+    if ed.get("title"):
+        return ed["title"]
+    first = re.split(r"[:;,.]\s| as | while | alongside | and the ", ed.get("headline") or "", maxsplit=1)[0].strip()
+    words = first.split()
+    return " ".join(words[:8]) + ("…" if len(words) > 8 else "")
+
+
 def home_html(latest: dict, facts: dict, dates: list[str], rows: list[str], a: dict | None, news: dict | None, a_err: str | None) -> str:
     from trends import SHORT
     d = latest["date"]
     f = facts.get(d, {})
     heads = {}
     for x in (a or {}).get("editions", []):
-        heads[x["date"]] = x.get("headline") or ""
-    opts = "".join(f'<option value="{x}">{e(nice(x))}{" · " + e(clip(heads.get(x, ""), 60)) if heads.get(x) else ""}</option>'
+        heads[x["date"]] = title_of(x)
+    opts = "".join(f'<option value="{x}">{e(nice(x))}{" · " + e(heads[x]) if heads.get(x) else ""}</option>'
                    for x in reversed(dates))
     prev = dates[-2] if len(dates) > 1 else None
     quick = f'<a href="{d}.html">Latest: {e(short(d))}</a>' + (f'<a href="{prev}.html">The day before: {e(short(prev))}</a>' if prev else "") + \
@@ -507,8 +517,8 @@ def home_html(latest: dict, facts: dict, dates: list[str], rows: list[str], a: d
 <p>Every day's written questions, debates, committees and statements on our issues, plus what links them across days and how they line up with the news.</p>
 <div class="pick"><label for="day">Read the briefing for</label><div class="row"><select id="day">{opts}</select><button class="btn" id="go" type="button">Read</button></div>
 <div class="quick">{quick}</div></div></div>
-<div class="latest"><p class="meta">Latest edition · {e(nice(d))}</p><h2>{e(clip(latest["headline"], 220))}</h2>
-<p class="sum">{e(clip(latest["summary"], 360))}</p>{figs}
+<div class="latest"><p class="meta">Latest edition · {e(nice(d))}</p><h2>{e(latest["title"])}</h2>
+<p class="sum">{e(clip(latest["headline"], 260))}</p>{figs}
 <div class="go"><a class="btn" href="{d}.html">Read this briefing</a><span class="{latest["cls"] or "ok"}">{e(latest["label"])}</span></div></div>
 </div></section>"""
 
@@ -594,20 +604,23 @@ def build() -> int:
         k = len(dates) - 1 - i
         html = rep.read_text(encoding="utf-8")
         bar = day_bar(d, dates[k - 1] if k > 0 else None, dates[k + 1] if k + 1 < len(dates) else None, dates, by_ed.get(d, []))
-        (OUT / rep.name).write_text(add_bar(html, bar), encoding="utf-8")
         edf = ROOT / "editorial" / f"{d}.json"
         vf = ROOT / "editorial" / f"{d}.validation.json"
         ed = json.loads(edf.read_text()) if edf.exists() else {}
+        if ed.get("title") and f"<h1>{e(ed['title'])}</h1>" not in html:
+            # reports rendered before titles existed: show the title, keep the headline beneath it
+            html = re.sub(r"<h1>(.*?)</h1>", lambda m: f'<h1>{e(ed["title"])}</h1><p class="dek"><b>{m.group(1)}</b></p>', html, count=1, flags=re.S)
+        (OUT / rep.name).write_text(add_bar(html, bar), encoding="utf-8")
         v = json.loads(vf.read_text()) if vf.exists() else None
         label, cls = status(v)
         f = ed_facts.get(d, {})
-        item = {"date": d, "headline": ed.get("headline") or "Data-only briefing", "summary": ed.get("summary") or "", "label": label, "cls": cls}
+        item = {"date": d, "title": title_of(ed) or "Data-only briefing", "headline": ed.get("headline") or "Data-only briefing", "summary": ed.get("summary") or "", "label": label, "cls": cls}
         latest = latest or item
         from trends import SHORT
         tags = "|".join(SHORT.get(t, t) for t in (f.get("topics") or {})) + ("|Microsoft" if f.get("microsoft") else "")
         stat = (f'{f.get("questions", "?")} questions · {f.get("scanned", 0):,} screened<br>' if f else "")
         rows.append(f'<li data-t="{e(tags)}"><div><p class="d">{e(nice(d))}{" · Microsoft named" if f.get("microsoft") else ""}</p>'
-                    f'<a class="h" href="{e(d)}.html">{e(item["headline"])}</a></div><p class="s">{stat}<span class="{"warn" if cls else "ok"}">{e(label)}</span></p></li>')
+                    f'<a class="h" href="{e(d)}.html">{e(item["title"])}</a><p class="s">{e(clip(item["headline"], 200))}</p></div><p class="s">{stat}<span class="{"warn" if cls else "ok"}">{e(label)}</span></p></li>')
 
     (OUT / "latest.html").write_text(f'<!DOCTYPE html><html lang="en-GB"><head><meta charset="utf-8"><meta name="robots" content="noindex,nofollow">'
                                      f'<meta http-equiv="refresh" content="0;url={latest_d}.html"><title>Latest briefing</title></head>'
