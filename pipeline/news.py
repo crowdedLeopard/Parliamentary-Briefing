@@ -17,6 +17,7 @@ are kept. Any failure becomes a gap note; the site still builds. Budget: ~90 sec
 from __future__ import annotations
 
 import json
+import re
 import time
 import urllib.parse
 import urllib.request
@@ -32,6 +33,10 @@ UA = "parliamentary-briefing/1.0 (daily public-affairs digest)"
 GOVUK_ORGS = ["department-for-science-innovation-and-technology", "competition-and-markets-authority", "ofcom",
               "information-commissioners-office", "national-cyber-security-centre", "hm-treasury", "cabinet-office",
               "department-for-energy-security-and-net-zero"]
+# A publisher naming itself is not a topic: "CMA study of dentistry" must not match the competition topic.
+PUBLISHERS = re.compile(r"\b(?:CMA|Competition and Markets Authority|Ofcom|NCSC|National Cyber Security Centre|ICO|"
+                        r"Information Commissioner(?:'|’)?s Office|DSIT|Department for Science,? Innovation and Technology|"
+                        r"HM Treasury|Cabinet Office|DESNZ|Department for Energy Security and Net Zero)(?:'|’)?s?\b")
 GDELT_GROUPS = {
     "Microsoft": '(microsoft OR azure OR "microsoft 365" OR copilot)',
     "Cloud and data centres": '("data centre" OR "data centres" OR "data center" OR hyperscaler OR "cloud outage" OR "sovereign cloud")',
@@ -81,7 +86,7 @@ def govuk(start: date, get=_get) -> list[dict]:
     out = []
     for r in data.get("results") or []:
         title, desc = to_plain_text(r.get("title")), to_plain_text(r.get("description"))
-        topics = [t for t in match_topics(title, desc)]
+        topics = list(match_topics(PUBLISHERS.sub(" ", title), PUBLISHERS.sub(" ", desc)))
         if not topics or not r.get("link") or not r.get("public_timestamp"):
             continue
         orgs = [o.get("title") or "" for o in r.get("organisations") or [] if isinstance(o, dict)]
