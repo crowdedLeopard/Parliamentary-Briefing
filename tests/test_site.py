@@ -143,3 +143,23 @@ def test_site_survives_analysis_failure(tmp_path, monkeypatch):
     assert sitemod.build() == 0
     assert "could not be built" in (tmp_path / "_site" / "themes.html").read_text()
     assert 'rel="prev"' in (tmp_path / "_site" / "2026-11-24.html").read_text()
+
+
+def test_internal_names_never_reach_a_page(tmp_path, monkeypatch):
+    from redact import scrub
+    assert scrub("central to Hugh&#x27;s brief") == "central to the reader's brief"
+    assert scrub("Hugh needs to track this") == "The reader needs to track this"
+    assert "microsoft.com" not in scrub("send to Hugh.Milward@microsoft.com")
+    assert "CELA" not in scrub("Daily briefing for Microsoft UK CELA")
+    monkeypatch.setenv("REDACT_TERMS", "Dana Fox")
+    assert scrub("see Dana Fox's note") == "see the reader's note"
+    assert scrub("Hugh Gaffney (Lab) asked") == "Hugh Gaffney (Lab) asked"  # a member's name is left alone
+    write_repo(tmp_path, FEEDS)
+    (tmp_path / "reports" / "2026-11-24.html").write_text("<html><body><p>Hugh&#x27;s brief, for CELA</p></body></html>")
+    monkeypatch.setattr(sitemod, "ROOT", tmp_path)
+    monkeypatch.setattr(sitemod, "OUT", tmp_path / "_site")
+    monkeypatch.setenv("NEWS_DISABLED", "true")
+    assert sitemod.build() == 0
+    for f in (tmp_path / "_site").glob("*.html"):
+        text = f.read_text()
+        assert "Hugh" not in text and "CELA" not in text, f.name

@@ -12,6 +12,7 @@ import html
 from collections import Counter
 from datetime import date
 
+from redact import scrub
 from topics import TOPICS, to_plain_text
 
 WQ = "https://questions-statements.parliament.uk/written-questions/detail"
@@ -168,7 +169,7 @@ def validation_html(v: dict | None, ed: dict) -> tuple[str, str]:
     return badge, block
 
 
-def render(feed: dict, profiles: list[dict], editorial: dict | None, run_date: date, validation: dict | None = None,
+def _render(feed: dict, profiles: list[dict], editorial: dict | None, run_date: date, validation: dict | None = None,
            sitting: dict | None = None) -> str:
     ed = editorial or {}
     vbadge, vblock = validation_html(validation, ed)
@@ -310,3 +311,8 @@ details summary{{cursor:pointer;color:var(--g);font-size:14px;margin-top:4px}}de
 const f=()=>{{const q=i.value.trim().toLowerCase();let k=0;for(const x of c){{const s=!q||x.dataset.q.toLowerCase().includes(q);x.hidden=!s;if(s)k++}}n.textContent=k+' of '+c.length+' members'}};
 i.addEventListener('input',f);f();}}</script>
 </body></html>"""
+
+
+def render(*args, **kwargs) -> str:
+    """The briefing page, with internal names removed (redact.py): the page is public."""
+    return scrub(_render(*args, **kwargs))

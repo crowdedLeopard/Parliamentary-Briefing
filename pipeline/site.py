@@ -27,6 +27,8 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
+from redact import scrub  # noqa: E402
+
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "_site"
 
@@ -120,12 +122,12 @@ FONTS = ('<link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wgh
 def page(title: str, current: str, body: str, latest: str, extra_css: str = "", script: str = "") -> str:
     links = [("index.html", "Home"), (f"{latest}.html", "Latest briefing"), ("themes.html", "Themes"), ("timeline.html", "Timeline")]
     nav = "".join(f'<a href="{h}"{" aria-current=page" if h == current else ""}>{t}</a>' for h, t in links)
-    return f"""<!DOCTYPE html><html lang="en-GB"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+    return scrub(f"""<!DOCTYPE html><html lang="en-GB"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex,nofollow,noarchive"><title>{e(title)}</title>{FONTS}<style>{CSS}{extra_css}</style></head><body>
 <header class="site"><div class="wrap"><a class="brand" href="index.html">Parliamentary briefing</a><nav aria-label="Site">{nav}</nav></div></header>
 {body}
-<footer><div class="wrap">For Microsoft UK CELA. Built from the UK Parliament APIs. Themes and the timeline are pattern-finding from the public record, not conclusions about why members ask what they ask.</div></footer>
-{f"<script>{script}</script>" if script else ""}</body></html>"""
+<footer><div class="wrap">Built from the UK Parliament APIs. Themes and the timeline are pattern-finding from the public record, not conclusions about why members ask what they ask.</div></footer>
+{f"<script>{script}</script>" if script else ""}</body></html>""")
 
 
 # ---------- the day bar added to each report ----------
@@ -168,7 +170,7 @@ def day_bar(d: str, prev: str | None, nxt: str | None, dates: list[str], threads
 
 def add_bar(html: str, bar: str) -> str:
     i = html.find("<body>")
-    return html[:i + 6] + bar + html[i + 6:] if i >= 0 else bar + html
+    return scrub(html[:i + 6] + bar + html[i + 6:] if i >= 0 else bar + html)
 
 
 # ---------- index: latest + calendar + search ----------
@@ -436,7 +438,7 @@ def home_html(latest: dict, facts: dict, dates: list[str], rows: list[str], a: d
             f'<div><b>{f.get("questions", 0)}</b><span>relevant to our topics</span></div>'
             f'<div><b>{"Yes" if f.get("microsoft") else "No"}</b><span>Microsoft named</span></div></div>') if f else ""
     top = f"""<section class="top"><div class="wrap">
-<div><p class="k">Daily UK Parliament briefing for Microsoft UK CELA</p><h1>Parliamentary briefing</h1>
+<div><p class="k">Daily UK Parliament briefing</p><h1>Parliamentary briefing</h1>
 <p>Every day's written questions, debates, committees and statements on our issues, plus what links them across days and how they line up with the news.</p>
 <div class="pick"><label for="day">Read the briefing for</label><div class="row"><select id="day">{opts}</select><button class="btn" id="go" type="button">Read</button></div>
 <div class="quick">{quick}</div></div></div>
