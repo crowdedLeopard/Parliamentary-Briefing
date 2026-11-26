@@ -182,6 +182,7 @@ def _render(feed: dict, profiles: list[dict], editorial: dict | None, run_date: 
     period = nice(feed["fromDate"]) if feed["fromDate"] == feed["toDate"] else f'{nice(feed["fromDate"])} to {nice(feed["toDate"])}'
     nq, ns = len(feed["writtenQuestions"]), len(feed["writtenStatements"])
     headline = ed.get("headline") or f"{nq} written questions on Microsoft's issues from {len(profiles)} members"
+    title = ed.get("title") or headline
     summary = ed.get("summary") or "Written questions and statements screened for Microsoft's policy issues, with a profile of every member who asked."
 
     def section(key, title, body):
@@ -283,7 +284,7 @@ details summary{{cursor:pointer;color:var(--g);font-size:14px;margin-top:4px}}de
 </style></head><body>
 <header class="top"><div class="wrap grid">
 <div><p class="kick">Parliamentary briefing · {e(period)}{f" · Parliament Today {e(nice(ed['today_date']))}" if ed.get("today_date") else ""}</p>
-<h1>{e(headline)}</h1><p class="dek">{e(summary)}</p>{sat_note}{vbadge}
+<h1>{e(title)}</h1>{f'<p class="dek"><b>{e(headline)}</b></p>' if title != headline else ""}<p class="dek">{e(summary)}</p>{sat_note}{vbadge}
 <div class="figs"><div><b>{feed["questionsScanned"]:,}</b><span>written questions screened</span></div>
 <div><b>{nq}</b><span>items screened in</span></div><div><b>{len(profiles)}</b><span>members profiled</span></div>
 <div><b>{ns}</b><span>relevant statements of {feed.get("statementsScanned", "?")}</span></div></div></div>
