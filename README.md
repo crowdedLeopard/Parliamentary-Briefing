@@ -12,6 +12,7 @@ The **Daily parliamentary briefing** GitHub Action is scheduled **every 30 minut
 - Days when neither House sat still get an edition, which says so plainly at the top and covers written answers, committee publications and today's business.
 - Once the edition exists, later runs stop in seconds. After 3 failed builds it stops retrying.
 - A failed or unvalidated scheduled build, or an edition still missing at 09:00, opens a GitHub issue ("Briefing edition … needs attention"), so a missed day is never silent.
+- GitHub's scheduler has started runs many hours late or not at all, so two Claude scheduled tasks (about 05:13 and 06:47 UK) act as independent backups: if the edition is missing and no build is running, they start the workflow with `backstop: true`, which applies the same checks as a scheduled run, and send a push notification if it still fails.
 - Each edition's outcome is recorded in `data/status/<date>.json` (attempts, state, which days each House sat).
 
 A build takes roughly 30–45 minutes. You can also run it by hand from the Actions tab, for a past date or in another mode (see below).

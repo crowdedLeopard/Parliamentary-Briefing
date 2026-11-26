@@ -19,6 +19,10 @@ on:
         type: choice
         options: [full, validate, render]
         default: full
+      backstop:
+        description: "Started by a backup check: apply the same checks as a scheduled run (skip if the edition exists, check the material is published)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -44,7 +48,7 @@ jobs:
       - name: Is today's edition missing, and is the material published?
         id: gate
         env:
-          EVENT: ${{ github.event_name }}
+          EVENT: ${{ inputs.backstop && 'schedule' || github.event_name }}
           RUN_DATE: ${{ inputs.run_date }}
         run: |
           ARGS=(--event "$EVENT")
@@ -146,7 +150,7 @@ jobs:
     # edition is still missing at 09:00 UK, so a missed edition is never silent. GitHub emails the
     # repo owner about new issues and comments.
     needs: [gate, build]
-    if: always() && github.event_name == 'schedule' && (needs.build.result == 'failure' || needs.gate.outputs.alert == 'true' || needs.gate.result == 'failure')
+    if: always() && (github.event_name == 'schedule' || inputs.backstop) && (needs.build.result == 'failure' || needs.gate.outputs.alert == 'true' || needs.gate.result == 'failure')
     runs-on: ubuntu-latest
     permissions:
       issues: write
