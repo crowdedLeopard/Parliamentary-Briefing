@@ -58,7 +58,7 @@ Accuracy rules:
 
 ## 5. Deliver
 
-- **Scheduled run, or the request says to send it:** email the briefing as formatted HTML with Outlook to Hugh.Milward@microsoft.com, or to the recipients named in the request. Send it; do not leave it as a draft. Use the subject format in `references/briefing-format.md`.
+- **Scheduled run, or the request says to send it:** email the briefing as formatted HTML with Outlook to the recipients named in the request. If none are named, ask who to send it to. Send it; do not leave it as a draft. Use the subject format in `references/briefing-format.md`.
 - **Someone asks for the briefing in conversation without asking for it to be sent:** show the briefing in the chat and offer to email it, naming the recipient. Do not email Hugh unasked.
 - **Nothing relevant found:** still send, or show, a short briefing saying so, with the Parliament Today section and the coverage note.
 - **A source could not be read:** finish with what you have and list the gap in the coverage note. Never invent content to fill a section.
@@ -67,4 +67,4 @@ Accuracy rules:
 
 If asked to automate this, create a Cowork scheduled prompt for weekdays at 06:30 UK time. The Power Automate flow saves the data file at 05:00, so this leaves room for it to finish. The scheduled prompt should read:
 
-> Run the parliamentary briefing for the previous working day and today's Parliament Today preview, and email it to Hugh.Milward@microsoft.com.
+> Run the parliamentary briefing for the previous working day and today's Parliament Today preview, and email it to [recipient address].
