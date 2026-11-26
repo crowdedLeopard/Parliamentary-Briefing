@@ -21,7 +21,8 @@ log = logging.getLogger("agents")
 WQ = "https://questions-statements.parliament.uk/written-questions/detail"
 WS = "https://questions-statements.parliament.uk/written-statements/detail"
 
-BRIEF = """You write the daily UK parliamentary briefing for the reader. Review the period's parliamentary activity and preview today's business.
+BRIEF = """You write the daily UK parliamentary briefing for a senior government affairs lead at Microsoft UK \
+(call them "the reader", never by name or team). Review the period's parliamentary activity and preview today's business.
 
 Topics: Microsoft, Xbox, LinkedIn; competitors, especially Google, AWS/Amazon, OpenAI, Anthropic; cloud and \
 government dependency on, or exit from, cloud and IT suppliers; AI, AI safety and regulation (any AI Bill); \

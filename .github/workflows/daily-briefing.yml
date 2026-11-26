@@ -133,7 +133,12 @@ jobs:
           git add data reports editorial || true
           if git diff --cached --quiet; then echo "No changes"; exit 0; fi
           git commit -m "Briefing edition ${{ needs.gate.outputs.edition }} (built $(date -u +%Y-%m-%d))"
-          git pull --rebase --quiet -X theirs   # generated files: this run's version wins on conflict
+          git fetch --quiet origin main
+          # If main was rewritten while this run was going, never replay the old history onto it.
+          if ! git merge-base --is-ancestor HEAD~1 origin/main; then
+            echo "::error::main changed under this run (history rewritten?); not pushing. Re-run the workflow."; exit 1
+          fi
+          git rebase --quiet -X theirs origin/main   # generated files: this run's version wins on conflict
           git push
       - name: Keep the report as a downloadable artifact
         if: always()

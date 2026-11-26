@@ -96,7 +96,7 @@ The repository is public, and every run publishes the website (latest briefing a
 
 ### No internal names on the pages
 
-Every page goes through `pipeline/redact.py` before it is written, both in `render.py` and when the site is built. This removes the reader's name, their team and role, and any work email address, and a bare first name becomes "The reader". A member of Parliament's full name is left alone. The writer and validator are also told never to mention anyone or anything internal. To add more names, set the repository variable `REDACT_TERMS`, comma-separated. The site job applies it to every page.
+Every page goes through `pipeline/redact.py` before it is written, both in `render.py` and when the site is built. This removes the reader's name, their team and role, and any work email address, and a bare first name becomes "the reader". The names are stored in `redact.py` only as hashes, so the code never spells them out. A member of Parliament's full name is left alone. The writer and validator are also told never to mention anyone or anything internal. To add more names, set the repository variable `REDACT_TERMS`, comma-separated. The site job applies it to every page.
 
 ### Archive, themes and timeline
 

@@ -17,9 +17,9 @@
 
 ## Reader
 
-The reader.
+A senior government affairs lead at Microsoft UK; the scheduled task's prompt names them.
 
-His lens:
+Their lens:
 - the UK Government (No 10, DSIT, HMT), Parliament, industry bodies and think tanks;
 - positioning against Google and AWS;
 - opposition to energy use and data-centre growth, and the arguments around digital sovereignty, Big Tech dominance and putting AI safety first.

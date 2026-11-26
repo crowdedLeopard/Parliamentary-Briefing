@@ -157,21 +157,47 @@ def test_site_survives_analysis_failure(tmp_path, monkeypatch):
     assert 'rel="prev"' in (tmp_path / "_site" / "2026-11-24.html").read_text()
 
 
-def test_internal_names_never_reach_a_page(tmp_path, monkeypatch):
-    from redact import scrub
-    assert scrub("central to the reader's brief") == "central to the reader's brief"
-    assert scrub("The reader needs to track this") == "The reader needs to track this"
-    assert "microsoft.com" not in scrub("send to [address removed]")
-    assert "" not in scrub("Daily briefing for Microsoft UK")
+def _use_test_names(monkeypatch):
+    """Point redact.py at made-up names: the real ones are only stored as hashes."""
+    import redact
+    h = redact._h
+    monkeypatch.setattr(redact, "FIRST_NAMES", {h("alex")})
+    monkeypatch.setattr(redact, "SURNAMES", {h("quill")})
+    monkeypatch.setattr(redact, "DROP", {h("teamx")})
+    monkeypatch.setattr(redact, "DOMAINS", {h("example.org")})
+    return redact.scrub
+
+
+def test_stored_names_are_hashes_only():
+    import redact
+    for group in (redact.FIRST_NAMES, redact.SURNAMES, redact.DROP, redact.DOMAINS):
+        assert group and all(len(x) == 16 and int(x, 16) >= 0 for x in group)
+
+
+def test_internal_names_are_scrubbed(monkeypatch):
+    scrub = _use_test_names(monkeypatch)
+    assert scrub("central to Alex&#x27;s brief") == "central to the reader's brief"
+    assert scrub("Alex needs to track this") == "The reader needs to track this"
+    assert scrub("for Alex Quill, VP UK &amp; Ireland, TEAMX (Corporate, External and Legal Affairs), Microsoft.") == \
+        "for the reader, Microsoft."
+    assert scrub("send to jo.bloggs@example.org") == "send to [address removed]"
+    assert scrub("Daily briefing for Microsoft UK TEAMX") == "Daily briefing for Microsoft UK"
+    assert scrub("Alex&#x27;s brief, for TEAMX</p>") == "The reader's brief</p>"
+    assert scrub("the team (TEAMX) said") == "the team said"
+    assert scrub("Alex Gaffney (Lab) asked") == "Alex Gaffney (Lab) asked"  # a member's name is left alone
+    assert scrub("Alexander, Iceland, porcelain") == "Alexander, Iceland, porcelain"
     monkeypatch.setenv("REDACT_TERMS", "Dana Fox")
     assert scrub("see Dana Fox's note") == "see the reader's note"
-    assert scrub("Hugh Gaffney (Lab) asked") == "Hugh Gaffney (Lab) asked"  # a member's name is left alone
+
+
+def test_internal_names_never_reach_a_page(tmp_path, monkeypatch):
+    _use_test_names(monkeypatch)
     write_repo(tmp_path, FEEDS)
-    (tmp_path / "reports" / "2026-11-24.html").write_text("<html><body><p>The reader's brief</p></body></html>")
+    (tmp_path / "reports" / "2026-11-24.html").write_text("<html><body><p>Alex&#x27;s brief, for TEAMX</p></body></html>")
     monkeypatch.setattr(sitemod, "ROOT", tmp_path)
     monkeypatch.setattr(sitemod, "OUT", tmp_path / "_site")
     monkeypatch.setenv("NEWS_DISABLED", "true")
     assert sitemod.build() == 0
     for f in (tmp_path / "_site").glob("*.html"):
         text = f.read_text()
-        assert "The reader" not in text and "" not in text, f.name
+        assert "Alex" not in text and "TEAMX" not in text, f.name
