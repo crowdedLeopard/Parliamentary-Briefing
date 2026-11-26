@@ -62,7 +62,7 @@ A small command-line program, `courier`, in a local Copilot Code project, plus o
    - **Brand.** Commons green `#0b6b4b` for headings and rules, Lords red `#a2192f` for the very important markers, text `#121417`, body font Segoe UI / Arial.
 5. **Write `send-<toDate>.json`** beside the files:
    ```json
-   {"status": "VALIDATED", "to": ["[address removed]"], "cc": [],
+   {"status": "VALIDATED", "to": ["[recipient address]"], "cc": [],
     "subject": "Parliamentary briefing – 23 November 2026 – <headline>",
     "body_file": "briefing-email-2026-11-23.html", "attach": ["briefing-2026-11-23.html"]}
    ```
