@@ -2,13 +2,14 @@ name: Daily parliamentary briefing
 
 on:
   schedule:
-    # Every 30 minutes from 03:07 to 09:37 UTC (04:07 to 10:37 in summer). GitHub's scheduler is
-    # best effort: runs can start late or be dropped, so one slot is not enough. Each run starts
-    # with the cheap "gate" job (pipeline/gate.py), which builds only if today's edition is still
-    # missing and the material (Hansard for every day a House sat, written questions) is published.
+    # Every 30 minutes, all day. GitHub's scheduler is best effort: on 25 Nov 2026 it dropped the
+    # early slots and started runs 9-10 hours late, so slots run round the clock and any one that
+    # does start builds the edition. Each run starts with the cheap "gate" job (pipeline/gate.py):
+    # it does nothing before 04:15 UK or once today's edition exists, and otherwise builds only
+    # when the material (Hansard for every day a House sat, written questions) is published.
     # Until 05:00 UK it waits for missing material; after that it builds with what there is and
     # names the gap. Days when Parliament did not sit get a short edition saying so.
-    - cron: "7,37 3-9 * * *"
+    - cron: "7,37 * * * *"
   workflow_dispatch:
     inputs:
       run_date:
@@ -168,7 +169,9 @@ jobs:
           Build job: $BUILD
           Gate: $REASON"
           n=$(gh issue list --state open --search "\"$title\" in:title" --json number --jq '.[0].number')
-          if [ -n "$n" ]; then gh issue comment "$n" --body "$body"; else gh issue create --title "$title" --body "$body"; fi
+          if [ -z "$n" ]; then gh issue create --title "$title" --body "$body"
+          elif [ "$BUILD" = "failure" ]; then gh issue comment "$n" --body "$body"   # one email per failed build, not per slot
+          fi
 
   site:
     # Publishes the website (latest briefing + archive). Pages carry noindex and robots.txt blocks crawlers.

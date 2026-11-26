@@ -6,13 +6,13 @@ A daily briefing on UK Parliament activity relevant to Microsoft. It replaces th
 
 ## What runs, and when
 
-The **Daily parliamentary briefing** GitHub Action is scheduled **every 30 minutes from about 04:07 to 10:37 UK time, every day**, because GitHub's scheduler is best effort and can start runs late or drop them. Each run begins with a quick check (`pipeline/gate.py`) that builds only when today's edition is still missing:
+The **Daily parliamentary briefing** GitHub Action is scheduled **every 30 minutes, round the clock, every day**, because GitHub's scheduler is best effort and can start runs late or drop them. Each run begins with a quick check (`pipeline/gate.py`) that builds only when today's edition is still missing:
 
 - From 04:15 it checks that the material is published: the Hansard debate record for every day a House sat (from What's On and the Hansard index) and the written questions service. If something is missing it waits for the next run, until 05:00; after that it builds with what there is and the coverage note names the gap.
 - Days when neither House sat still get an edition, which says so plainly at the top and covers written answers, committee publications and today's business.
 - Once the edition exists, later runs stop in seconds. After 3 failed builds it stops retrying.
 - A failed or unvalidated scheduled build, or an edition still missing at 09:00, opens a GitHub issue ("Briefing edition … needs attention"), so a missed day is never silent.
-- GitHub's scheduler has started runs many hours late or not at all, so two Claude scheduled tasks (about 05:13 and 06:47 UK) act as independent backups: if the edition is missing and no build is running, they start the workflow with `backstop: true`, which applies the same checks as a scheduled run, and send a push notification if it still fails.
+- GitHub alone is responsible for the daily update: no outside scheduler is involved. Slots run all day, so even if GitHub starts runs hours late (as on 25 Nov 2026), the first run that starts after 04:15 UK builds the edition. The `backstop` dispatch input applies the same checks to a run started by hand or by another tool.
 - Each edition's outcome is recorded in `data/status/<date>.json` (attempts, state, which days each House sat).
 
 A build takes roughly 30–45 minutes. You can also run it by hand from the Actions tab, for a past date or in another mode (see below).
