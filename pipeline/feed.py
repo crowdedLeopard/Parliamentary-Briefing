@@ -10,21 +10,17 @@ from __future__ import annotations
 
 import logging
 from concurrent.futures import ThreadPoolExecutor
-from datetime import date, datetime, timedelta, timezone
+from datetime import date, datetime, timezone
 
 from api import QS_API, Api
 from semantic import candidates, classify
+from sitting import window  # noqa: F401  (re-exported: the review window lives in sitting.py)
 from topics import DEPARTMENTS, match_topics, screen_question
 
 log = logging.getLogger("feed")
 TRUNCATED = 250  # list endpoints cut question/answer/statement text at ~255 characters
 
 
-def window(run_date: date) -> tuple[str, str]:
-    """Yesterday, or Friday to Sunday when run on a Monday."""
-    to_d = run_date - timedelta(days=1)
-    from_d = run_date - timedelta(days=3) if run_date.weekday() == 0 else to_d
-    return from_d.isoformat(), to_d.isoformat()
 
 
 def _flat(matched: dict[str, list[str]]) -> list[str]:

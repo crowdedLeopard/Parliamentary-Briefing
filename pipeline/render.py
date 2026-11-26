@@ -168,7 +168,8 @@ def validation_html(v: dict | None, ed: dict) -> tuple[str, str]:
     return badge, block
 
 
-def render(feed: dict, profiles: list[dict], editorial: dict | None, run_date: date, validation: dict | None = None) -> str:
+def render(feed: dict, profiles: list[dict], editorial: dict | None, run_date: date, validation: dict | None = None,
+           sitting: dict | None = None) -> str:
     ed = editorial or {}
     vbadge, vblock = validation_html(validation, ed)
     pid = {p["id"] for p in profiles}
@@ -195,6 +196,12 @@ def render(feed: dict, profiles: list[dict], editorial: dict | None, run_date: d
                   f'<small>{e(s.get("uin"))} · {e(s.get("house"))}</small></li>' for s in feed["writtenStatements"])
     warn = "".join(f"<li>{e(w)}</li>" for w in feed.get("warnings", []))
     cov_extra = "".join(f"<p>{e(x)}</p>" for x in ed.get("coverage", []))
+    sat_line = (sitting or {}).get("summary") or ""
+    if sat_line:
+        cov_extra = f"<p><b>Sitting days</b> (What's On and the Hansard index): {e(sat_line)}</p>" + cov_extra
+    no_sitting = sitting is not None and sitting.get("anySat") is False and not sitting.get("errors")
+    sat_note = (f'<p class="dek"><b>Parliament did not sit in this period.</b> {e(sat_line)} This edition covers written '
+                f'answers and statements, committee publications and today\'s business only.</p>') if no_sitting else ""
     nav = [("vi", "Immediate attention", vi), ("today", "Parliament Today", today), ("debates", "Debates", debates),
            ("questions", "Questions", "1"), ("committees", "Committees", committees), ("other", "Other sources", "1"),
            ("members", "Who asked", "1"), ("coverage", "Coverage", "1")]
@@ -275,7 +282,7 @@ details summary{{cursor:pointer;color:var(--g);font-size:14px;margin-top:4px}}de
 </style></head><body>
 <header class="top"><div class="wrap grid">
 <div><p class="kick">Parliamentary briefing · {e(period)}{f" · Parliament Today {e(nice(ed['today_date']))}" if ed.get("today_date") else ""}</p>
-<h1>{e(headline)}</h1><p class="dek">{e(summary)}</p>{vbadge}
+<h1>{e(headline)}</h1><p class="dek">{e(summary)}</p>{sat_note}{vbadge}
 <div class="figs"><div><b>{feed["questionsScanned"]:,}</b><span>written questions screened</span></div>
 <div><b>{nq}</b><span>items screened in</span></div><div><b>{len(profiles)}</b><span>members profiled</span></div>
 <div><b>{ns}</b><span>relevant statements of {feed.get("statementsScanned", "?")}</span></div></div></div>

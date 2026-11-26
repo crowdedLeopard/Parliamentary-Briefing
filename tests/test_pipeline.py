@@ -212,3 +212,60 @@ def test_writer_then_validator(monkeypatch, tmp_path):
 
     monkeypatch.setenv("COPILOT_BIN", str(tmp_path / "missing"))
     assert agents.write_and_validate(feed, [], {}, "2026-11-24", draft={"headline": "H"}) == ({"headline": "H"}, None)
+
+
+def _fake_get(sat: dict, published: dict, qs_up: bool = True):
+    """sat/published: {(house, date): bool}. Returns a get() for sitting.py."""
+    import sitting
+
+    def get(url, params, timeout=60, tries=3):
+        if url == sitting.WHATSON:
+            d = params["queryParameters.startDate"]
+            return [{"House": h, "Type": "Main Chamber", "CancelledDate": None} for h in sitting.HOUSES if sat.get((h, d))], ""
+        if url == sitting.HANSARD_DAY:
+            return (["Debate", "WMS"] if published.get((params["house"], params["date"])) else []), ""
+        return ({"results": []}, "") if qs_up else (None, "HTTPError 500")
+    return get
+
+
+def test_sitting_and_readiness():
+    import sitting
+    get = _fake_get({("Commons", "2026-11-24"): True, ("Lords", "2026-11-24"): True},
+                    {("Commons", "2026-11-24"): True})
+    st = sitting.sitting_status("2026-11-24", "2026-11-24", get=get)
+    ready, missing = sitting.readiness(st, True)
+    assert not ready and missing == ["Lords Hansard for 2026-11-24 is not published yet"]
+    assert sitting.describe(st) == "Tuesday 24 November: both Houses sat."
+    weekend = sitting.sitting_status("2026-11-20", "2026-11-22", get=_fake_get({("Lords", "2026-11-20"): True},
+                                                                                {("Lords", "2026-11-20"): True}))
+    assert sitting.readiness(weekend, True)[0] and sitting.any_sat(weekend)
+    assert sitting.describe(weekend).startswith("Friday 20 November: only the Lords sat; Saturday 21 November: neither House sat")
+
+
+def test_gate_decisions(tmp_path):
+    import gate
+    import sitting
+    from datetime import datetime
+    L = gate.LONDON
+    sat = {("Commons", "2026-11-24"): True}
+    late = lambda f, t: sitting.sitting_status(f, t, get=_fake_get(sat, {}))
+    done = lambda f, t: sitting.sitting_status(f, t, get=_fake_get(sat, {("Commons", "2026-11-24"): True}))
+    none = lambda f, t: sitting.sitting_status(f, t, get=_fake_get({}, {}))
+    up = lambda f, t: (True, "")
+    at = lambda h, m: datetime(2026, 11, 25, h, m, tzinfo=L)
+    d = lambda now, st, **k: gate.decide("schedule", now, root=tmp_path, status_fn=st, qs_fn=up, **k)
+    assert not d(at(3, 37), done)["build"]                                    # too early
+    r = d(at(4, 37), late)
+    assert not r["build"] and r["reason"].startswith("waiting: Commons Hansard for 2026-11-24")
+    assert d(at(4, 37), done)["build"]                                        # material ready
+    assert d(at(5, 7), late)["build"]                                         # past the wait: build with gaps
+    assert "did not sit" in d(at(4, 37), none)["reason"] and d(at(4, 37), none)["build"]
+    assert gate.decide("workflow_dispatch", at(13, 0), root=tmp_path)["build"]
+    (tmp_path / "data/status").mkdir(parents=True)
+    (tmp_path / "data/status/2026-11-24.json").write_text('{"attempts": 3}')
+    r = d(at(9, 7), done)
+    assert not r["build"] and r["alert"]                                      # gave up; alert after 09:00
+    (tmp_path / "reports").mkdir()
+    (tmp_path / "reports/2026-11-24.html").write_text("x")
+    r = d(at(9, 7), done)
+    assert not r["build"] and not r["alert"] and "already published" in r["reason"]
