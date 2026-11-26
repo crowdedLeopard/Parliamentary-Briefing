@@ -126,11 +126,60 @@ def page(title: str, current: str, body: str, latest: str, extra_css: str = "", 
     links = [("index.html", "Home"), (f"{latest}.html", "Latest briefing"), ("themes.html", "Themes"), ("timeline.html", "Timeline")]
     nav = "".join(f'<a href="{h}"{" aria-current=page" if h == current else ""}>{t}</a>' for h, t in links)
     return scrub(f"""<!DOCTYPE html><html lang="en-GB"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="robots" content="noindex,nofollow,noarchive"><title>{e(title)}</title>{FONTS}<style>{CSS}{extra_css}</style></head><body>
-<header class="site"><div class="wrap"><a class="brand" href="index.html">Parliamentary briefing</a><nav aria-label="Site">{nav}</nav></div></header>
+<meta name="robots" content="noindex,nofollow,noarchive"><title>{e(title)}</title>{FONTS}<style>{CSS}{OFFLINE_CSS}{extra_css}</style></head><body>
+<header class="site"><div class="wrap"><a class="brand" href="index.html">Parliamentary briefing</a><nav aria-label="Site">{nav}</nav>{OFFLINE_BTN}</div></header>
 {body}
 <footer><div class="wrap">Built from the UK Parliament APIs. Themes and the timeline are pattern-finding from the public record, not conclusions about why members ask what they ask.</div></footer>
-{f"<script>{script}</script>" if script else ""}</body></html>""")
+{f"<script>{script}</script>" if script else ""}<script>{OFFLINE_JS}</script></body></html>""")
+
+
+# ---------- save for offline ----------
+# A service worker (sw.js) serves pages from the network when it can and from the device's cache when it can't.
+# The "Save for offline" button stores every page listed in offline.json in that cache.
+
+OFFLINE_CACHE = "pb-offline-v1"
+SW_JS = """const C='%s';
+self.addEventListener('install',()=>self.skipWaiting());
+self.addEventListener('activate',e=>e.waitUntil(self.clients.claim()));
+self.addEventListener('fetch',e=>{
+  const r=e.request;if(r.method!=='GET')return;
+  const u=new URL(r.url),font=/fonts\\.(googleapis|gstatic)\\.com$/.test(u.hostname);
+  if(u.origin!==location.origin&&!font)return;
+  if(font){e.respondWith(caches.match(r).then(m=>m||fetch(r).then(x=>{const y=x.clone();caches.open(C).then(c=>c.put(r,y));return x})));return}
+  e.respondWith(fetch(r).then(x=>{
+    if(x.ok){const y=x.clone();caches.open(C).then(c=>c.match(r,{ignoreSearch:true}).then(had=>{if(had)c.put(r,y)}))}
+    return x
+  }).catch(()=>caches.match(r,{ignoreSearch:true}).then(m=>m||caches.match('index.html')).then(m=>m||new Response('Offline, and this page has not been saved.',{status:503,headers:{'Content-Type':'text/plain'}}))));
+});
+""" % OFFLINE_CACHE
+
+OFFLINE_CSS = """.off-btn{font:inherit;font-size:14px;font-weight:600;border:1px solid currentColor;border-radius:99px;padding:3px 12px;
+background:transparent;color:inherit;cursor:pointer;white-space:nowrap}.off-btn:disabled{opacity:.7;cursor:progress}
+.off-note{font-size:13px;opacity:.85}"""
+
+OFFLINE_JS = """(function(){var C='%s',K='pb-offline-saved';
+function get(){try{return localStorage.getItem(K)}catch(e){return null}}
+function set(v){try{localStorage.setItem(K,v)}catch(e){}}
+function when(t){var d=new Date(t);return d.toLocaleDateString('en-GB',{day:'numeric',month:'short'})+' '+d.toLocaleTimeString('en-GB',{hour:'2-digit',minute:'2-digit'})}
+var bs=[].slice.call(document.querySelectorAll('.off-btn'));
+if(!('serviceWorker' in navigator)||!('caches' in window)){bs.forEach(function(b){b.hidden=true});return}
+navigator.serviceWorker.register('sw.js').catch(function(){});
+function label(t){bs.forEach(function(b){b.textContent=t})}
+var s=get();if(s)label('Saved offline '+when(+s)+' · update');
+if(!navigator.onLine&&s)bs.forEach(function(b){var n=document.createElement('span');n.className='off-note';n.textContent=' You are offline: reading the copy saved '+when(+s)+'.';b.after(n)});
+bs.forEach(function(b){b.addEventListener('click',function(){
+  if(!navigator.onLine){label('Connect to the internet to save');return}
+  bs.forEach(function(x){x.disabled=true});label('Saving…');
+  fetch('offline.json',{cache:'no-store'}).then(function(r){return r.json()}).then(function(list){
+    return caches.open(C).then(function(c){var done=0,fails=0;
+      return list.reduce(function(p,u){return p.then(function(){return fetch(u,{cache:'no-store'}).then(function(r){if(!r.ok)throw 0;return c.put(u,r)})
+        .catch(function(){fails++}).then(function(){done++;label('Saving… '+done+' of '+list.length)})})},Promise.resolve())
+      .then(function(){return fails})})}).then(function(fails){var t=Date.now();set(String(t));
+    label(fails?'Saved, '+fails+' pages missed · retry':'Saved offline '+when(t)+' · update')})
+  .catch(function(){label('Could not save · retry')}).then(function(){bs.forEach(function(x){x.disabled=false})})})})
+})();""" % OFFLINE_CACHE
+
+OFFLINE_BTN = '<button class="off-btn" type="button" title="Store every briefing on this device so you can read them without a connection">Save for offline</button>'
 
 
 # ---------- the day bar added to each report ----------
@@ -167,8 +216,8 @@ def day_bar(d: str, prev: str | None, nxt: str | None, dates: list[str], threads
           "if(n){var a=document.createElement('a');a.href=n+'.html';a.textContent=n;m.appendChild(a)}}})})();")
     return (f'{BAR_CSS}<nav class="pb-bar" aria-label="Briefing editions"><div class="pb-in">{p}'
             f'<div class="pb-mid"><a href="index.html">Home</a><label>Go to <input id="pb-date" type="date" value="{e(d)}"'
-            f' min="{e(dates[0])}" max="{e(dates[-1])}"></label><a href="timeline.html">Timeline</a><span class="pb-msg" id="pb-msg" aria-live="polite"></span></div>'
-            f'<div class="pb-next">{n}</div></div>{strip}</nav><script>{js}</script>')
+            f' min="{e(dates[0])}" max="{e(dates[-1])}"></label><a href="timeline.html">Timeline</a>{OFFLINE_BTN}<span class="pb-msg" id="pb-msg" aria-live="polite"></span></div>'
+            f'<div class="pb-next">{n}</div></div>{strip}</nav><style>{OFFLINE_CSS}.pb-bar .off-btn{{color:var(--pb-g)}}</style><script>{js}</script><script>{OFFLINE_JS}</script>')
 
 
 def add_bar(html: str, bar: str) -> str:
@@ -654,6 +703,9 @@ def build() -> int:
                                   "<p>This site is private. Ask the owner to invite you to the briefing site, then sign in again with your Microsoft account.</p>"
                                   "<p><a href='/logout'>Sign out</a></p></body></html>")
     (OUT / "staticwebapp.config.json").write_text(json.dumps(SWA_CONFIG, indent=2))
+    (OUT / "sw.js").write_text(SW_JS, encoding="utf-8")
+    pages = ["index.html", "latest.html", "themes.html", "timeline.html", "search.json"] + [f"{d}.html" for d in reversed(dates)]
+    (OUT / "offline.json").write_text(json.dumps([p for p in pages if (OUT / p).exists()]), encoding="utf-8")
     (OUT / "robots.txt").write_text("User-agent: *\nDisallow: /\n")
     (OUT / ".nojekyll").write_text("")
     print(f"site: {len(rows)} briefings, {len((analysis or {}).get('threads', []))} threads")
