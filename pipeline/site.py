@@ -118,7 +118,7 @@ FONTS = ('<link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wgh
 
 
 def page(title: str, current: str, body: str, latest: str, extra_css: str = "", script: str = "") -> str:
-    links = [("index.html", "All briefings"), (f"{latest}.html", "Latest"), ("themes.html", "Themes"), ("timeline.html", "Timeline")]
+    links = [("index.html", "Home"), (f"{latest}.html", "Latest briefing"), ("themes.html", "Themes"), ("timeline.html", "Timeline")]
     nav = "".join(f'<a href="{h}"{" aria-current=page" if h == current else ""}>{t}</a>' for h, t in links)
     return f"""<!DOCTYPE html><html lang="en-GB"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex,nofollow,noarchive"><title>{e(title)}</title>{FONTS}<style>{CSS}{extra_css}</style></head><body>
@@ -161,7 +161,7 @@ def day_bar(d: str, prev: str | None, nxt: str | None, dates: list[str], threads
           "else{var n=d.filter(function(x){return x<=v}).pop();m.textContent=n?'No briefing that day. Nearest earlier: ':'No briefing that day.';"
           "if(n){var a=document.createElement('a');a.href=n+'.html';a.textContent=n;m.appendChild(a)}}})})();")
     return (f'{BAR_CSS}<nav class="pb-bar" aria-label="Briefing editions"><div class="pb-in">{p}'
-            f'<div class="pb-mid"><a href="index.html">All briefings</a><label>Go to <input id="pb-date" type="date" value="{e(d)}"'
+            f'<div class="pb-mid"><a href="index.html">Home</a><label>Go to <input id="pb-date" type="date" value="{e(d)}"'
             f' min="{e(dates[0])}" max="{e(dates[-1])}"></label><a href="timeline.html">Timeline</a><span class="pb-msg" id="pb-msg" aria-live="polite"></span></div>'
             f'<div class="pb-next">{n}</div></div>{strip}</nav><script>{js}</script>')
 
@@ -172,26 +172,6 @@ def add_bar(html: str, bar: str) -> str:
 
 
 # ---------- index: latest + calendar + search ----------
-
-INDEX_CSS = """
-.hero{background:#0b6b4b;color:#fff;padding:clamp(24px,4vw,48px) max(5vw,16px)}.hero h1{color:#fff;font-size:clamp(24px,2.8vw,32px);max-width:44ch}
-.hero .k{margin:0 0 6px;opacity:.85}.hero .sum{max-width:70ch;font-size:18px;margin:0 0 18px}
-.btn{display:inline-block;background:#fff;color:#0b6b4b;font-weight:700;padding:10px 16px;border-radius:3px;text-decoration:none}
-.badge{display:inline-block;margin-left:10px;font-weight:700}.badge.warn{background:#fff;color:#a2192f;padding:4px 10px;border-radius:3px}
-.arch{display:grid;grid-template-columns:minmax(0,300px) minmax(0,1fr);gap:32px;align-items:start}
-@media(max-width:780px){.arch{grid-template-columns:minmax(0,1fr)}}
-.months{display:grid;gap:22px}.cal{display:grid;grid-template-columns:repeat(7,1fr);gap:4px;font-variant-numeric:tabular-nums}
-.cal span,.cal a{aspect-ratio:1;max-width:100%;border-radius:4px;display:grid;place-items:center;font-size:14px;color:var(--mut);position:relative;text-decoration:none}
-.cal .hd{font-size:12px;aspect-ratio:auto}.cal a{color:var(--ink);font-weight:600}.cal a:hover{outline:2px solid var(--g)}
-.cal a.ms::after{content:"";position:absolute;top:3px;right:3px;width:6px;height:6px;border-radius:50%;background:var(--r)}
-.legend{display:flex;flex-wrap:wrap;gap:4px 12px;font-size:13px;color:var(--mut)}.legend i{display:inline-block;width:12px;height:12px;border-radius:3px;margin-right:4px;vertical-align:-2px}
-.find{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:6px}.find input,.find select{font:inherit;padding:8px 10px;border:1px solid var(--rule);border-radius:3px;background:var(--card);color:var(--ink)}
-.find input{flex:1 1 260px}
-ul.rows{list-style:none;margin:0;padding:0}ul.rows li{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:2px 16px;padding:12px 0;border-top:1px solid var(--rule)}
-.rows .d{font-size:14px;color:var(--mut)}.rows .h{font-weight:700;font-size:17px;color:var(--ink);text-decoration:none}.rows a.h:hover{color:var(--g);text-decoration:underline}
-.rows .s{font-size:13px;color:var(--mut);text-align:right;font-variant-numeric:tabular-nums}.rows .ok{color:var(--g);font-weight:600}.rows .warn{color:var(--r);font-weight:600}
-.hits li{grid-template-columns:minmax(0,1fr)!important}.hits .t{font-size:15px}
-"""
 
 INDEX_JS = r"""
 (function(){var q=document.getElementById('q'),t=document.getElementById('t'),rows=document.getElementById('rows'),hits=document.getElementById('hits'),
@@ -307,7 +287,7 @@ def themes_html(a: dict, latest: str) -> str:
 <section><h2>Rising topics</h2>{rising}</section>
 <section><h2>Threads</h2><p class="note">From questions tabled in the last 90 days. A thread is new, continuing or growing in the edition it appears in, and is shown at the top of that briefing.</p>
 <div class="kinds">{kinds or '<p>No threads found yet.</p>'}</div></section>
-<section><h2>Recurring askers</h2><p class="note">Members with the most screened questions in the last seven editions. Names link to their profile card in the latest briefing, where they have one.</p>
+<section id="askers"><h2>Recurring askers</h2><p class="note">Members with the most screened questions in the last seven editions. Names link to their profile card in the latest briefing, where they have one.</p>
 <div class="tbl"><table><thead><tr><th>Member</th><th>Party</th><th>Questions</th><th>Editions</th><th>Main topics</th></tr></thead><tbody>{askers}</tbody></table></div></section>
 </div></main>"""
     return page("Themes · Parliamentary briefing", "themes.html", body, latest, THEMES_CSS)
@@ -370,7 +350,7 @@ def timeline_html(a: dict, news: dict | None, news_err: str | None, latest: str)
     for x in shown[:40]:
         when = short(x["date"]) + (f" to {short(x['endDate'])}" if x["endDate"] != x["date"] else "")
         src = f'<a href="{e(x["source"])}">{e(x["outlet"] or "Source")}</a>' if x["source"] else e(x["outlet"])
-        direct = "".join(f'<li><span class="lag">+{r["lag"]} days</span>{e(r["member"])}{" (" + e(r["party"]) + ")" if r["party"] else ""}: '
+        direct = "".join(f'<li><span class="lag">+{r["lag"]} day{"" if r["lag"] == 1 else "s"}</span>{e(r["member"])}{" (" + e(r["party"]) + ")" if r["party"] else ""}: '
                          f'<a href="{e(r["link"])}">{e(r["uin"] or "Hansard")}</a> {e(clip(r["text"], 150))}</li>' for r in x["direct"][:10])
         poss = f'<p class="note">{x["possible"]} other questions on the same topics were tabled in the 21 days after. Shared topic and timing only, not a stated link.</p>' if x["possible"] else ""
         evhtml += (f'<div class="ev"><p class="when">{e(when)}</p><div><p class="kind">{e(x["kind"])}</p><h3>{e(x["title"])}</h3>'
@@ -395,6 +375,128 @@ def timeline_html(a: dict, news: dict | None, news_err: str | None, latest: str)
 </div></main>"""
     return page("Timeline · Parliamentary briefing", "timeline.html", body, latest, TL_CSS)
 
+
+
+# ---------- homepage: every feature visible, then read any day ----------
+
+HOME_CSS = """
+.top{background:#0b6b4b;color:#fff;padding:clamp(24px,4vw,44px) max(5vw,16px)}
+.top .wrap{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.25fr);gap:clamp(20px,4vw,48px);align-items:start}
+@media(max-width:860px){.top .wrap{grid-template-columns:minmax(0,1fr)}}
+.top h1{color:#fff;font-size:clamp(30px,4vw,42px)}.top .k{margin:0 0 6px;opacity:.85}.top p{margin:0}
+.pick{display:grid;gap:10px;margin-top:18px}.pick label{font-weight:700}
+.pick .row{display:flex;flex-wrap:wrap;gap:8px}.pick select{flex:1 1 16em;font:inherit;padding:10px;border-radius:3px;border:0;background:#fff;color:#121417}
+.btn{display:inline-block;background:#fff;color:#0b6b4b;font-weight:700;padding:10px 16px;border-radius:3px;text-decoration:none;border:0;font:inherit;font-weight:700;cursor:pointer}
+.quick{display:flex;flex-wrap:wrap;gap:6px 14px;font-size:15px}.quick a{color:#fff}
+.latest{background:var(--bg);color:var(--ink);border-radius:4px;padding:18px 20px;display:grid;gap:10px}
+.latest h2{font-size:clamp(20px,2.2vw,25px);margin:0}.latest .sum{color:var(--mut);font-size:15px}
+.figs{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;font-variant-numeric:tabular-nums}
+.figs div{background:var(--tint);padding:8px 10px;border-radius:3px}.figs b{display:block;font:700 22px/1.1 "Source Serif 4",serif}.figs span{font-size:13px;color:var(--mut)}
+.latest .go{display:flex;flex-wrap:wrap;gap:10px;align-items:center}.latest .go a.btn{background:#0b6b4b;color:#fff}
+.ok{color:var(--g);font-weight:600}.warn{color:var(--r);font-weight:600}
+.feat{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,440px),1fr));gap:18px}
+.tile{border:1px solid var(--rule);border-radius:4px;padding:16px;display:grid;gap:10px;align-content:start;background:var(--card)}
+.tile h3{font-size:20px}.tile .more{font-weight:700;text-decoration:none}.tile .more:hover{text-decoration:underline}
+.tile ul{margin:0;padding:0;list-style:none;display:grid;gap:8px;font-size:15px}.tile li{border-top:1px solid var(--rule);padding-top:8px}
+.chip{display:inline-block;font-size:12px;font-weight:700;color:var(--g);margin-right:4px}.chip.ms{color:var(--r)}
+.spark{display:grid;grid-template-columns:minmax(0,9em) minmax(0,1fr) 2.4em;gap:8px;align-items:center;font-size:14px;font-variant-numeric:tabular-nums}
+.spark i{display:block;height:10px;background:var(--g);border-radius:0 3px 3px 0}.spark b{text-align:right}
+.arch{display:grid;grid-template-columns:minmax(0,300px) minmax(0,1fr);gap:32px;align-items:start}
+@media(max-width:780px){.arch{grid-template-columns:minmax(0,1fr)}}
+.months{display:grid;gap:22px}.cal{display:grid;grid-template-columns:repeat(7,1fr);gap:4px;font-variant-numeric:tabular-nums}
+.cal span,.cal a{aspect-ratio:1;max-width:100%;border-radius:4px;display:grid;place-items:center;font-size:14px;color:var(--mut);position:relative;text-decoration:none}
+.cal .hd{font-size:12px;aspect-ratio:auto}.cal a{color:var(--ink);font-weight:600}.cal a:hover{outline:2px solid var(--g)}
+.cal a.ms::after{content:"";position:absolute;top:3px;right:3px;width:6px;height:6px;border-radius:50%;background:var(--r)}
+.legend{display:flex;flex-wrap:wrap;gap:4px 12px;font-size:13px;color:var(--mut)}.legend i{display:inline-block;width:12px;height:12px;border-radius:3px;margin-right:4px;vertical-align:-2px}
+.find{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:6px}.find input,.find select{font:inherit;padding:8px 10px;border:1px solid var(--rule);border-radius:3px;background:var(--card);color:var(--ink)}
+.find input{flex:1 1 260px}
+ul.rows{list-style:none;margin:0;padding:0}ul.rows li{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:2px 16px;padding:12px 0;border-top:1px solid var(--rule)}
+.rows .d{font-size:14px;color:var(--mut)}.rows .h{font-weight:700;font-size:17px;color:var(--ink);text-decoration:none}.rows a.h:hover{color:var(--g);text-decoration:underline}
+.rows .s{font-size:13px;color:var(--mut);text-align:right;font-variant-numeric:tabular-nums}
+.hits li{grid-template-columns:minmax(0,1fr)!important}.hits .t{font-size:15px}
+"""
+
+HOME_JS = "(function(){var s=document.getElementById('day'),b=document.getElementById('go');" \
+          "b.addEventListener('click',function(){location.href=s.value+'.html'});})();" + INDEX_JS
+
+
+def home_html(latest: dict, facts: dict, dates: list[str], rows: list[str], a: dict | None, news: dict | None, a_err: str | None) -> str:
+    from trends import SHORT
+    d = latest["date"]
+    f = facts.get(d, {})
+    heads = {}
+    for x in (a or {}).get("editions", []):
+        heads[x["date"]] = x.get("headline") or ""
+    opts = "".join(f'<option value="{x}">{e(nice(x))}{" · " + e(clip(heads.get(x, ""), 60)) if heads.get(x) else ""}</option>'
+                   for x in reversed(dates))
+    prev = dates[-2] if len(dates) > 1 else None
+    quick = f'<a href="{d}.html">Latest: {e(short(d))}</a>' + (f'<a href="{prev}.html">The day before: {e(short(prev))}</a>' if prev else "") + \
+        '<a href="#archive">Calendar of every edition</a>'
+    figs = (f'<div class="figs"><div><b>{f.get("scanned", 0):,}</b><span>questions screened</span></div>'
+            f'<div><b>{f.get("questions", 0)}</b><span>relevant to our topics</span></div>'
+            f'<div><b>{"Yes" if f.get("microsoft") else "No"}</b><span>Microsoft named</span></div></div>') if f else ""
+    top = f"""<section class="top"><div class="wrap">
+<div><p class="k">Daily UK Parliament briefing for Microsoft UK CELA</p><h1>Parliamentary briefing</h1>
+<p>Every day's written questions, debates, committees and statements on our issues, plus what links them across days and how they line up with the news.</p>
+<div class="pick"><label for="day">Read the briefing for</label><div class="row"><select id="day">{opts}</select><button class="btn" id="go" type="button">Read</button></div>
+<div class="quick">{quick}</div></div></div>
+<div class="latest"><p class="meta">Latest edition · {e(nice(d))}</p><h2>{e(clip(latest["headline"], 220))}</h2>
+<p class="sum">{e(clip(latest["summary"], 360))}</p>{figs}
+<div class="go"><a class="btn" href="{d}.html">Read this briefing</a><span class="{latest["cls"] or "ok"}">{e(latest["label"])}</span></div></div>
+</div></section>"""
+
+    # feature tiles, each a live preview of its page
+    th = ((a or {}).get("byEdition") or {}).get(d, [])
+    if th:
+        t_lis = "".join(f'<li><span class="chip{" ms" if t["microsoft"] else ""}">{e(STATE[t["state"]])}</span>'
+                        f'<a href="themes.html#{e(t["id"])}">{e(t["title"])}</a> <span class="meta">+{t["added"]} in this edition, {t["soFar"]} so far</span></li>'
+                        for t in th[:5])
+    else:
+        t_lis = "<li>No continuing threads in the latest edition.</li>"
+    threads_tile = (f'<article class="tile"><h3>Continuing threads</h3><p class="meta">Questions in the latest edition that link to earlier ones: '
+                    f'follow-ups, series, shared subjects and similar wording.</p><ul>{t_lis}</ul><a class="more" href="themes.html">All themes ›</a></article>')
+
+    evs = [x for x in (news or {}).get("events", []) if x.get("direct")][:3]
+    if evs:
+        ev_lis = "".join(f'<li><b>{e(short(x["date"]))}</b> {e(x["title"])}<br><span class="meta">Followed by '
+                         + ", ".join(f'{e(r["member"])} (+{r["lag"]} day{"" if r["lag"] == 1 else "s"})' for r in x["direct"][:3]) + "</span></li>" for x in evs)
+    else:
+        ev_lis = "<li>No events with a direct parliamentary follow-up yet.</li>"
+    news_tile = (f'<article class="tile"><h3>In the news, then in Parliament</h3><p class="meta">Tech events and announcements, and the questions '
+                 f'and speeches that followed them.</p><ul>{ev_lis}</ul><a class="more" href="timeline.html">Timeline ›</a></article>')
+
+    recent = (a or {}).get("editions", [])[-7:]
+    tot = {}
+    for x in recent:
+        for t, n in x["topics"].items():
+            tot[t] = tot.get(t, 0) + n
+    top_t = sorted(tot.items(), key=lambda kv: -kv[1])[:6]
+    mx = max([n for _, n in top_t] + [1])
+    sp = "".join(f'<div class="spark"><span>{e(SHORT.get(t, t))}</span><i style="width:{max(4, round(100 * n / mx))}%"></i><b>{n}</b></div>' for t, n in top_t)
+    topics_tile = (f'<article class="tile"><h3>Topics in the last {len(recent)} edition{"s" if len(recent) != 1 else ""}</h3>'
+                   f'<p class="meta">Relevant questions by topic.</p><div style="display:grid;gap:6px">{sp or "<p>No data yet.</p>"}</div>'
+                   f'<a class="more" href="themes.html">Topics by day ›</a></article>')
+
+    ask = "".join(f'<li><a href="{d}.html#m-{e(r["id"])}">{e(r["name"])}</a> <span class="meta">{e(r["party"])} · {r["items"]} questions in '
+                  f'{r["editions"]} edition{"s" if r["editions"] != 1 else ""} · {e(", ".join(r["topics"]))}</span></li>'
+                  for r in (a or {}).get("askers", [])[:5])
+    askers_tile = (f'<article class="tile"><h3>Who keeps asking</h3><p class="meta">Members with the most relevant questions in the last seven editions.</p>'
+                   f'<ul>{ask or "<li>No data yet.</li>"}</ul><a class="more" href="themes.html#askers">All recurring askers ›</a></article>')
+
+    topic_opts = "".join(f"<option>{e(x)}</option>" for x in SHORT.values())
+    cal = calendar_html(a["editions"]) if a else ""
+    body = f"""{top}<main><div class="wrap">
+<section><h2>What's in the briefing</h2><div class="feat">{threads_tile}{news_tile}{topics_tile}{askers_tile}</div>
+{f'<p class="note">{e(a_err)}</p>' if a_err else ""}</section>
+<section><h2>Search every briefing</h2>
+<div class="find"><input id="q" type="search" placeholder="Member, UIN, subject or any words" aria-label="Search every briefing">
+<select id="t" aria-label="Topic"><option value="">All topics</option>{topic_opts}</select></div>
+<p class="note" id="cnt" aria-live="polite"></p><ul class="rows hits" id="hits" hidden></ul></section>
+<section id="archive"><h2>Every edition</h2><div class="arch">
+<div class="months">{cal}<div class="legend"><span><i class="h1"></i>under 120 questions</span><span><i class="h2"></i>120 to 240</span><span><i class="h3"></i>over 240</span><span><i style="background:var(--r);border-radius:50%;width:8px;height:8px"></i>Microsoft named</span></div></div>
+<ul class="rows" id="rows">{"".join(rows)}</ul></div></section>
+</div></main>"""
+    return page("Parliamentary briefing", "index.html", body, d, HOME_CSS, HOME_JS)
 
 # ---------- build ----------
 
@@ -445,25 +547,10 @@ def build() -> int:
                                      f'<body><p><a href="{latest_d}.html">Open the latest briefing</a></p></body></html>')
 
     from trends import SHORT
-    topic_opts = "".join(f"<option>{e(s)}</option>" for s in ["Microsoft"] + list(SHORT.values())[1:])
-    cal = calendar_html(analysis["editions"]) if analysis else ""
-    hero = (f'<section class="hero"><div class="wrap"><p class="k">Latest briefing · {e(nice(latest["date"]))}</p><h1>{e(latest["headline"])}</h1>'
-            f'<p class="sum">{e(latest["summary"])}</p><a class="btn" href="{e(latest["date"])}.html">Read the briefing</a>'
-            f'<span class="badge {latest["cls"]}">{e(latest["label"])}</span></div></section>')
-    body = f"""{hero}<main><div class="wrap arch">
-<div class="months">{cal}<div class="legend"><span><i class="h1"></i>under 120 questions</span><span><i class="h2"></i>120 to 240</span><span><i class="h3"></i>over 240</span><span><i style="background:var(--r);border-radius:50%;width:8px;height:8px"></i>Microsoft named</span></div></div>
-<div><h2>All briefings</h2>
-<div class="find"><input id="q" type="search" placeholder="Search every briefing: member, UIN, subject or words" aria-label="Search every briefing">
-<select id="t" aria-label="Topic"><option value="">All topics</option>{topic_opts}</select></div>
-<p class="note" id="cnt" aria-live="polite"></p><ul class="rows hits" id="hits" hidden></ul>
-<ul class="rows" id="rows">{"".join(rows)}</ul>
-{f'<p class="note">{e(a_err)}</p>' if a_err else ""}</div></div></main>"""
-    (OUT / "index.html").write_text(page("Parliamentary briefings", "index.html", body, latest_d, INDEX_CSS, INDEX_JS), encoding="utf-8")
-
+    news, n_err = None, None
     if analysis:
         (OUT / "search.json").write_text(json.dumps(search_index(analysis["items"]), ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
         (OUT / "themes.html").write_text(themes_html(analysis, latest_d), encoding="utf-8")
-        news, n_err = None, None
         if os.environ.get("NEWS_DISABLED", "").lower() != "true":
             try:
                 import news as newsmod
@@ -479,6 +566,8 @@ def build() -> int:
         for name, title in (("themes.html", "Themes"), ("timeline.html", "Timeline")):
             (OUT / name).write_text(page(f"{title} · Parliamentary briefing", name,
                                          f'<main><div class="wrap"><h1>{title}</h1><p>{e(a_err or "Not available.")}</p></div></main>', latest_d))
+
+    (OUT / "index.html").write_text(home_html(latest, ed_facts, dates, rows, analysis, news, a_err), encoding="utf-8")
 
     (OUT / "403.html").write_text("<!DOCTYPE html><html lang='en-GB'><head><meta charset='utf-8'><meta name='viewport' content='width=device-width, initial-scale=1'><title>No access</title></head>"
                                   "<body style='font:17px system-ui;margin:10vh auto;max-width:36em;padding:0 16px'><h1>You don't have access yet</h1>"

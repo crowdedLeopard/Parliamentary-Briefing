@@ -99,7 +99,8 @@ The repository is public, and every run publishes the website (latest briefing a
 The site job builds these from the files already in the repository. It needs no new secrets and changes no workflow.
 
 - **Day bar.** Every edition, old ones included, gets a bar at the top. It has previous and next, a date picker, and the edition's *continuing threads*. The bar is added by `pipeline/site.py` when the site is built, so `render.py` is untouched.
-- **All briefings** (`index.html`). A calendar shaded by how many questions were screened, with a red dot where Microsoft was named. Below it, a search of every screened question from the last 365 days (`search.json`, loaded only when someone searches). `latest.html` always opens the newest edition.
+- **Home** (`index.html`). It shows every feature at once. A day picker leads to any edition, and a card summarises the latest one. Four live previews follow: continuing threads, events and what followed them in Parliament, topics in the last seven editions, and the members asking most. Below those are the search box and the archive.
+- **Archive** (also on the home page). A calendar shaded by how many questions were screened, with a red dot where Microsoft was named. Below it, a search of every screened question from the last 365 days (`search.json`, loaded only when someone searches). `latest.html` always opens the newest edition.
 - **Themes** (`themes.html`, from `pipeline/trends.py`). Shows topics by edition, rising topics (after three weeks of history) and recurring askers. It also shows four kinds of thread, each listing its questions:
   - follow-up questions that cite an earlier answer;
   - one member's series of questions;
