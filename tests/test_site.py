@@ -149,7 +149,7 @@ def test_internal_names_never_reach_a_page(tmp_path, monkeypatch):
     from redact import scrub
     assert scrub("central to Hugh&#x27;s brief") == "central to the reader's brief"
     assert scrub("Hugh needs to track this") == "The reader needs to track this"
-    assert "microsoft.com" not in scrub("send to Hugh.Milward@microsoft.com")
+    assert "microsoft.com" not in scrub("send to jo.bloggs@microsoft.com")
     assert "CELA" not in scrub("Daily briefing for Microsoft UK CELA")
     monkeypatch.setenv("REDACT_TERMS", "Dana Fox")
     assert scrub("see Dana Fox's note") == "see the reader's note"

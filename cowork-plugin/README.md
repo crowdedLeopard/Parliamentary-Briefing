@@ -29,9 +29,9 @@ No connector or hosting is needed. Cowork's built-in OneDrive, web and Outlook a
 1. In Copilot Cowork, open **Plugins** (or **Customize > Plugins**) and remove the earlier "Parliament tech monitor" upload.
 2. Choose **Upload plugin** and select `parliamentary-briefing.zip`.
 3. Test it: in a new Cowork task, ask "Run the parliamentary briefing for yesterday and show it to me here." The skill won't email anyone unless asked.
-4. Replace the long scheduled prompt in **Automations** with: "Run the parliamentary briefing for the previous working day and today's Parliament Today preview, and email it to Hugh.Milward@microsoft.com." Schedule it for weekdays after the flow has finished, for example 06:30.
+4. Replace the long scheduled prompt in **Automations** with: "Run the parliamentary briefing for the previous working day and today's Parliament Today preview, and email it to [recipient address]." Schedule it for weekdays after the flow has finished, for example 06:30.
 
 ## Changing it
 
 - **Topics, lens or format:** edit the matching file in `references/`, re-zip and re-upload.
-- **Recipients:** name them in the scheduled prompt. The skill sends to whoever the request names, and defaults to Hugh.
+- **Recipients:** name them in the scheduled prompt. The skill sends to whoever the request names. The address is kept out of this repository, so put it in the scheduled prompt.
