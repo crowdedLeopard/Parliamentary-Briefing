@@ -12,6 +12,7 @@ The **Daily parliamentary briefing** GitHub Action is scheduled **every 30 minut
 - Days when neither House sat still get an edition, which says so plainly at the top and covers written answers, committee publications and today's business.
 - Once the edition exists, later runs stop in seconds. After 3 failed builds it stops retrying.
 - A failed or unvalidated scheduled build, or an edition still missing at 09:00, opens a GitHub issue ("Briefing edition … needs attention"), so a missed day is never silent.
+- **Keeper.** GitHub's scheduler has ignored this repo's schedule for hours at a time (25-26 Nov 2026), so a second workflow, **Briefing keeper** (`keeper.yml`), does not depend on it: one keeper run stays alive for about 5.5 hours, checks every 30 minutes whether today's edition is on main, starts the briefing (with `backstop: true`) if it is missing, and then starts the next keeper run. Every briefing run restarts the keeper if none is running. To stop everything, disable both workflows in the Actions tab.
 - GitHub alone is responsible for the daily update: no outside scheduler is involved. Slots run all day, so even if GitHub starts runs hours late (as on 25 Nov 2026), the first run that starts after 04:15 UK builds the edition. The `backstop` dispatch input applies the same checks to a run started by hand or by another tool.
 - Each edition's outcome is recorded in `data/status/<date>.json` (attempts, state, which days each House sat).
 

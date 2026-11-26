@@ -1,0 +1,76 @@
+name: Briefing keeper
+
+# Keeps the daily briefing going without relying on GitHub's scheduler, which has started this
+# repo's scheduled runs hours late or not at all (25-26 Nov 2026). One keeper run stays alive
+# for about 5.5 hours: every 30 minutes it checks whether today's edition is on main and, if it
+# is missing (from 04:15 UK), starts the "Daily parliamentary briefing" workflow with
+# backstop=true, so the usual gate still checks that the material is published. Before it ends it
+# starts the next keeper run, so the chain never stops. The briefing workflow restarts the keeper
+# whenever it finds no keeper running, and the cron below is one more way back if the chain breaks.
+# Runner minutes are free for public repositories.
+
+on:
+  workflow_dispatch:
+    inputs:
+      checks:
+        description: "How many 30-minute checks this run makes (11 is about 5.5 hours)"
+        default: "11"
+      chain:
+        description: "Start the next keeper run at the end"
+        type: boolean
+        default: true
+  schedule:
+    - cron: "53 */3 * * *"
+
+permissions:
+  contents: read
+  actions: write   # start the briefing workflow and the next keeper run
+
+concurrency:
+  group: briefing-keeper
+  cancel-in-progress: false
+
+jobs:
+  keep:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    env:
+      GH_TOKEN: ${{ github.token }}
+      GH_REPO: ${{ github.repository }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Every 30 minutes, start the briefing if today's edition is missing
+        run: |
+          checks="${{ inputs.checks || '11' }}"
+          [[ "$checks" =~ ^[0-9]+$ ]] && [ "$checks" -ge 1 ] && [ "$checks" -le 11 ] || checks=11
+          for i in $(seq 1 "$checks"); do
+            git fetch -q --depth 1 origin main || true
+            read -r edition due < <(python3 -c '
+          import sys; sys.path.insert(0, "pipeline")
+          from datetime import datetime, time
+          from zoneinfo import ZoneInfo
+          from sitting import window
+          now = datetime.now(ZoneInfo("Europe/London"))
+          print(window(now.date())[1], "yes" if now.time() >= time(4, 15) else "no")')
+            if git cat-file -e "origin/main:reports/${edition}.html" 2>/dev/null; then
+              echo "$(date -u +%H:%M)Z edition ${edition} is published"
+            elif [ "$due" != yes ]; then
+              echo "$(date -u +%H:%M)Z edition ${edition} not due yet (before 04:15 UK)"
+            else
+              busy=$(gh run list --workflow daily-briefing.yml --limit 20 --json status --jq '[.[] | select(.status != "completed")] | length' || echo 0)
+              if [ "${busy:-0}" -gt 0 ]; then
+                echo "$(date -u +%H:%M)Z edition ${edition} missing; a briefing run is already queued or running"
+              else
+                echo "$(date -u +%H:%M)Z edition ${edition} missing; starting the briefing"
+                gh workflow run daily-briefing.yml --ref main -f backstop=true || echo "::warning::could not start the briefing"
+              fi
+            fi
+            if [ "$i" -lt "$checks" ]; then sleep 1800; fi
+          done
+      - name: Start the next keeper run
+        if: always() && inputs.chain != false
+        run: |
+          for t in 1 2 3 4 5; do gh workflow run keeper.yml --ref main && exit 0; sleep $((t * 20)); done
+          echo "::error::could not start the next keeper run"; exit 1
