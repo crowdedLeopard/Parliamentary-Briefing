@@ -142,6 +142,8 @@ def test_site_builds_with_navigation(tmp_path, monkeypatch):
     rows = json.loads((out / "search.json").read_text())
     assert {r["u"] for r in rows} >= {"43125", "101"} and all(r["l"].startswith("https://questions-statements.parliament.uk/") for r in rows)
     assert "Follow-up questions" in (out / "themes.html").read_text()
+    assert "off-btn" in idx and "off-btn" in last and (out / "sw.js").exists()  # save-for-offline on home and every briefing
+    assert "2026-11-24.html" in json.loads((out / "offline.json").read_text())
     tl = (out / "timeline.html").read_text()
     assert "NEWS_DISABLED" in tl
     assert '<a href="2026-11-2' in tl and 'class="day go"' in tl and 'class="legend"' in tl  # bars open a briefing
