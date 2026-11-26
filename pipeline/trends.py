@@ -284,18 +284,37 @@ def threads(items: list[dict], since: str | None = None) -> list[dict]:
     return uniq
 
 
+# Each question counts once in the timeline's stacked bars, under its first group in this order.
+STACK = {"Microsoft": ["Microsoft"], "AI": ["AI"], "Cloud and data centres": ["Cloud and data centres"],
+         "Cyber security": ["Cyber security"], "Online safety": ["Online safety"],
+         "Data and government IT": ["Data protection", "Government IT"]}
+
+
+def stack_group(q: dict) -> str:
+    short = {SHORT.get(t, t) for t in substantive(q)}
+    return next((g for g, members in STACK.items() if short & set(members)), "Other")
+
+
 def tabled_by_day(items: list[dict], end: date, days: int = 28) -> list[dict]:
     start = end - timedelta(days=days - 1)
     counts = defaultdict(Counter)
+    groups = defaultdict(Counter)
+    first = defaultdict(Counter)
     for q in items:
         d = _d(q.get("dateTabled"))
         if d and start.isoformat() <= d <= end.isoformat() and substantive(q):
             for t in substantive(q):
                 counts[d][t] += 1
             counts[d]["_all"] += 1
-    return [{"date": (start + timedelta(days=i)).isoformat(), "total": counts[(start + timedelta(days=i)).isoformat()]["_all"],
-             "topics": {t: c for t, c in counts[(start + timedelta(days=i)).isoformat()].items() if t != "_all"}}
-            for i in range(days)]
+            groups[d][stack_group(q)] += 1
+            if q.get("_first"):
+                first[d][q["_first"]] += 1
+    out = []
+    for i in range(days):
+        d = (start + timedelta(days=i)).isoformat()
+        out.append({"date": d, "total": counts[d]["_all"], "topics": {t: c for t, c in counts[d].items() if t != "_all"},
+                    "groups": dict(groups[d]), "editions": dict(first[d])})
+    return out
 
 
 def rising(items: list[dict], end: date, history_days: int) -> list[dict]:

@@ -89,7 +89,9 @@ CSS = """
 :root{color-scheme:light dark;--bg:light-dark(#fff,#0b1411);--ink:light-dark(#121417,#e8efeb);--mut:light-dark(#4d5752,#a9b8b0);
 --rule:light-dark(#d5ddd8,#24332c);--g:light-dark(#0b6b4b,#3fb487);--r:light-dark(#a2192f,#e0566c);--tint:light-dark(#eaf4ef,#12231c);
 --t1:light-dark(#e3f1ea,#16372a);--t2:light-dark(#b9dccb,#1f5a43);--t3:light-dark(#6fb898,#2f8a66);--on3:light-dark(#fff,#06120d);
---card:light-dark(#fff,#0f1b16);--amber:light-dark(#8a5a00,#e3b25a);--abg:light-dark(#fdf2dc,#33270f)}
+--card:light-dark(#fff,#0f1b16);--amber:light-dark(#8a5a00,#e3b25a);--abg:light-dark(#fdf2dc,#33270f);
+--c1:light-dark(#2f6fb0,#6fa8e6);--c2:light-dark(#7b4fa6,#b48ee0);--c3:light-dark(#b0452f,#e98a74);--c4:light-dark(#b07a00,#e0b04a);
+--c5:light-dark(#9aa5a0,#5d6963);--c6:light-dark(#1d8a99,#5cc3cf)}
 :root[data-theme=light]{color-scheme:light}:root[data-theme=dark]{color-scheme:dark}
 *{box-sizing:border-box;min-width:0}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 "Source Sans 3",system-ui,sans-serif}
 a{color:var(--g);text-underline-offset:2px}a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{outline:2px solid var(--g);outline-offset:2px}
@@ -300,7 +302,12 @@ def themes_html(a: dict, latest: str) -> str:
 TL_CSS = """
 .chart{width:100%;height:auto;display:block}.chart text{fill:var(--mut);font:12px "Source Sans 3",system-ui,sans-serif}
 .chart .lbl{fill:var(--ink);font-weight:600}.chart .grid{stroke:var(--rule)}.chart .b1{fill:var(--g)}.chart .b2{fill:var(--t3)}
-.chart .band{fill:var(--abg)}.chart rect:hover,.chart path:hover{opacity:.8}
+.chart .band{fill:var(--abg)}.chart a .band:hover{fill:var(--amber);opacity:.25}.chart .hit{fill:transparent}
+.chart .day.go{cursor:pointer}.chart .day.go:hover .hit{fill:var(--tint)}
+.s0{fill:var(--g);background:var(--g)}.s1{fill:var(--c1);background:var(--c1)}.s2{fill:var(--c2);background:var(--c2)}
+.s3{fill:var(--c3);background:var(--c3)}.s4{fill:var(--c4);background:var(--c4)}.s5{fill:var(--c5);background:var(--c5)}.s6{fill:var(--c6);background:var(--c6)}
+.legend{display:flex;flex-wrap:wrap;gap:6px 16px;margin:8px 0 0;font-size:14px;color:var(--mut)}.legend span{display:inline-flex;align-items:center;gap:6px}
+.sw{display:inline-block;width:12px;height:12px;border-radius:3px}.sw.band{background:var(--abg);border:1px solid var(--amber)}.chart rect:hover,.chart path:hover{opacity:.8}
 .ev{display:grid;grid-template-columns:120px minmax(0,1fr);gap:4px 16px;border-top:1px solid var(--rule);padding:12px 0}
 @media(max-width:560px){.ev{grid-template-columns:minmax(0,1fr)}}
 .ev .when{font-weight:700;font-variant-numeric:tabular-nums}.kind{font-size:12px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--amber)}
@@ -339,12 +346,70 @@ def bars_svg(days: list[str], vals: list[int], cls: str, label: str, bands: list
     return f'<svg class="chart" viewBox="0 0 {W} {H}" role="img" aria-label="{e(label)} per day">{"".join(s)}</svg>'
 
 
-def timeline_html(a: dict, news: dict | None, news_err: str | None, latest: str) -> str:
+GROUP_CLS = {"Microsoft": "s0", "AI": "s1", "Cloud and data centres": "s2", "Cyber security": "s3", "Online safety": "s4", "Data and government IT": "s6", "Other": "s5"}
+
+
+def stacked_svg(tab: list[dict], dates: list[str], bands: list[tuple[str, str, str, str]]) -> str:
+    """Questions tabled per day, stacked by topic group. Each bar links to the briefing that first reported that day's questions."""
+    from trends import STACK
+    order = list(STACK) + ["Other"]
+    W, H, L, R, T, B = 1000, 230, 40, 12, 30, 30
+    days = [r["date"] for r in tab]
+    n = len(days)
+    bw = (W - L - R) / n
+    top = max([r["total"] for r in tab] + [1])
+    step = 1 if top <= 5 else 2 if top <= 10 else 5 if top <= 25 else 10 if top <= 50 else 25 if top <= 125 else 50 if top <= 250 else 100
+    top = ((top + step - 1) // step) * step
+    y = lambda v: T + (H - T - B) * (1 - v / top)  # noqa: E731
+    have = set(dates)
+    s = []
+    for (d0, d1, name, anchor) in bands:
+        if d1 < days[0] or d0 > days[-1]:
+            continue
+        i0 = days.index(d0) if d0 in days else 0
+        i1 = days.index(d1) if d1 in days else n - 1
+        s.append(f'<a href="#{anchor}"><rect class="band" x="{L + bw * i0:.1f}" y="{T}" width="{bw * (i1 - i0 + 1):.1f}" height="{H - T - B}">'
+                 f'<title>Event: {e(name)} ({e(short(d0))}{" to " + e(short(d1)) if d1 != d0 else ""}). Click for the questions that followed.</title></rect>'
+                 f'<text class="lbl" x="{L + bw * i0 + 3:.1f}" y="{T - 10}">◆ {e(clip(name, 44))}</text></a>')
+    for v in range(0, top + 1, step):
+        s.append(f'<line class="grid" x1="{L}" x2="{W - R}" y1="{y(v):.1f}" y2="{y(v):.1f}"/><text x="{L - 6}" y="{y(v) + 4:.1f}" text-anchor="end">{v}</text>')
+    for i, r in enumerate(tab):
+        d, total = r["date"], r["total"]
+        x, w = L + bw * i + bw * .16, bw * .68
+        if total:
+            eds = r.get("editions") or {}
+            target = d if d in have else (max(eds, key=lambda k: (eds[k], k)) if eds else None)
+            target = target if target in have else None
+            parts = [f'{g}: {r["groups"][g]}' for g in order if (r.get("groups") or {}).get(g)]
+            tip = f'{nice(d)}: {total} question{"s" if total != 1 else ""} tabled\n' + "\n".join(parts)
+            tip += f"\nClick to open the briefing for {short(target)}" if target else "\nNot in any briefing on this site yet"
+            segs, base = [], 0
+            for g in order:
+                c = (r.get("groups") or {}).get(g, 0)
+                if not c:
+                    continue
+                y0, y1 = y(base), y(base + c)
+                segs.append(f'<rect class="{GROUP_CLS[g]}" x="{x:.1f}" y="{y1:.1f}" width="{w:.1f}" height="{max(y0 - y1 - .6, .8):.1f}"/>')
+                base += c
+            hit = f'<rect class="hit" x="{L + bw * i:.1f}" y="{T}" width="{bw:.1f}" height="{H - T - B}"/>'
+            g = f'<g class="day{" go" if target else ""}"><title>{e(tip)}</title>{hit}{"".join(segs)}</g>'
+            s.append(f'<a href="{target}.html" aria-label="{e(nice(d))}, {total} questions, open briefing">{g}</a>' if target else g)
+        if i % 2 == 0 or n <= 14:
+            s.append(f'<text x="{x + w / 2:.1f}" y="{H - B + 16}" text-anchor="middle">{date.fromisoformat(d).day}</text>')
+    legend = "".join(f'<span><i class="sw {GROUP_CLS[g]}"></i>{e(g)}</span>' for g in order) + \
+        '<span><i class="sw band"></i>Event from the hand-kept list (click for what followed)</span>'
+    return (f'<svg class="chart" viewBox="0 0 {W} {H}" role="img" aria-label="Screened questions tabled per day, by topic">{"".join(s)}</svg>'
+            f'<p class="legend">{legend}</p><p class="note">Other: tech companies, competition, copyright and digital skills.</p>')
+
+
+def timeline_html(a: dict, news: dict | None, news_err: str | None, latest: str, dates: list[str] | None = None) -> str:
     tab = a["tabled"]
     days = [r["date"] for r in tab]
     evs = (news or {}).get("events") or []
+    for i, x in enumerate(evs):
+        x["anchor"] = f"ev{i}"
     bands = [(x["date"], x["endDate"], x["title"]) for x in evs if x.get("origin") == "events.json"]
-    q_svg = bars_svg(days, [r["total"] for r in tab], "b1", "screened questions tabled", bands)
+    q_svg = stacked_svg(tab, dates or [latest], [(x["date"], x["endDate"], x["title"], x["anchor"]) for x in evs if x.get("origin") == "events.json"])
     vol = (news or {}).get("volume") or {}
     n_svg = bars_svg(days, [int(vol.get(d, 0)) for d in days], "b2", "UK news articles", bands) if vol else ""
     shown = [x for x in evs if x["endDate"] >= days[0] or any(r["date"] >= days[0] for r in x.get("direct") or [])]
@@ -355,7 +420,7 @@ def timeline_html(a: dict, news: dict | None, news_err: str | None, latest: str)
         direct = "".join(f'<li><span class="lag">+{r["lag"]} day{"" if r["lag"] == 1 else "s"}</span>{e(r["member"])}{" (" + e(r["party"]) + ")" if r["party"] else ""}: '
                          f'<a href="{e(r["link"])}">{e(r["uin"] or "Hansard")}</a> {e(clip(r["text"], 150))}</li>' for r in x["direct"][:10])
         poss = f'<p class="note">{x["possible"]} other questions on the same topics were tabled in the 21 days after. Shared topic and timing only, not a stated link.</p>' if x["possible"] else ""
-        evhtml += (f'<div class="ev"><p class="when">{e(when)}</p><div><p class="kind">{e(x["kind"])}</p><h3>{e(x["title"])}</h3>'
+        evhtml += (f'<div class="ev" id="{x["anchor"]}"><p class="when">{e(when)}</p><div><p class="kind">{e(x["kind"])}</p><h3>{e(x["title"])}</h3>'
                    f'<p class="meta">{src}</p>{"<ul>" + direct + "</ul>" if direct else ""}{poss}</div></div>')
     heads = (news or {}).get("headlines") or []
     hh = ""
@@ -368,7 +433,7 @@ def timeline_html(a: dict, news: dict | None, news_err: str | None, latest: str)
 <h1>Timeline</h1>
 <p class="lede">Questions by the day they were tabled, set against news and tech events. Answers arrive days or weeks later, so the tabling date is what lines up with events.</p>
 <section><h2>Screened questions tabled, last 28 days</h2>
-<p class="note">Questions with a keyword topic, counted on the day tabled, from {e(short(days[0]))} to {e(short(days[-1]))}. Recent days fill in as questions are answered and reach later editions. Shaded bands are events from the hand-kept list.</p>{q_svg}</section>
+<p class="note">Questions with a keyword topic, counted on the day tabled, from {e(short(days[0]))} to {e(short(days[-1]))}. Each question is counted once, under the first matching group in the legend. Hover a bar for the breakdown and click it to open the briefing that first reported that day's questions. Recent days fill in as questions are answered and reach later editions.</p>{q_svg}</section>
 {f'<section><h2>UK news coverage of the same topics</h2><p class="note">Articles per day from UK outlets matching the briefing topics, from the GDELT news index. Same dates as the chart above.</p>{n_svg}</section>' if n_svg else ""}
 <section><h2>Events and what followed</h2><p class="note">A direct link means the question or speech names the event. Lags count days from the event's start to the date tabled or spoken.</p>{evhtml or "<p>No events in this period.</p>"}</section>
 {f'<section><h2>Recent headlines</h2><div class="heads">{hh}</div></section>' if hh else ""}
@@ -563,7 +628,7 @@ def build() -> int:
                 print("::warning::" + n_err)
         else:
             n_err = "News fetching is turned off (NEWS_DISABLED=true)."
-        (OUT / "timeline.html").write_text(timeline_html(analysis, news, n_err, latest_d), encoding="utf-8")
+        (OUT / "timeline.html").write_text(timeline_html(analysis, news, n_err, latest_d, dates), encoding="utf-8")
     else:
         for name, title in (("themes.html", "Themes"), ("timeline.html", "Timeline")):
             (OUT / name).write_text(page(f"{title} · Parliamentary briefing", name,
