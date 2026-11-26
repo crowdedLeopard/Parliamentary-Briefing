@@ -41,7 +41,9 @@ SCHEMA = """Return ONLY a JSON object with these keys:
 "very_important", "debates", "questions", "committees", "other": arrays of items
   {"title","who","where","date","body","why","link","linkText","tags":[...]}
 "today": array of {"time","venue","lead","title","why","link"} for today's relevant business, in time order
-"coverage": array of short strings: dates covered and whether each House sat, what was screened, any gaps
+"coverage": array of short strings: dates covered and whether each House sat (from sittingDays), what was screened, any gaps
+If sittingDays says neither House sat in the period, say so plainly in the headline and summary and keep the
+briefing short: cover only written answers and statements, committee publications and today's business.
 "member_notes": object mapping member id (string) to 2-3 sentences on what most plausibly drives their interest,
   using only that member's profile evidence, with inferences marked "likely" or "appears"; no private life.
 Rules: use ONLY facts in the EVIDENCE; every item needs a link taken from the evidence; members' names with party;
@@ -79,7 +81,8 @@ def _compact(feed: dict, profiles: list[dict], sources: dict) -> str:
                        "statementsScanned": feed.get("statementsScanned"), "dataWarnings": feed.get("warnings", []),
                        "writtenQuestions": qs, "writtenStatements": ss, "memberProfiles": ps,
                        "hansard": sources.get("hansard", []), "todayBusiness": sources.get("today", []),
-                       "committeePublications": sources.get("committees", []), "sourceGaps": sources.get("gaps", [])},
+                       "committeePublications": sources.get("committees", []), "sourceGaps": sources.get("gaps", []),
+                       "sittingDays": (sources.get("sitting") or {}).get("summary")},
                       ensure_ascii=False)
 
 
