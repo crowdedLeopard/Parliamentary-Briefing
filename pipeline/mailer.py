@@ -8,6 +8,9 @@ workflow fills from repository secrets, so no address or credential is ever in t
   SMTP_USERNAME   login for the mail server
   SMTP_PASSWORD   password or app password
   MAIL_FROM       sender address (default: SMTP_USERNAME)
+Privacy: no address is ever printed. The log says only how many recipients were sent to, and a
+failure reports the error type without its text (which could quote an address). GitHub also masks
+secret values in logs. Addresses appear only in the message headers themselves.
 If MAIL_TO or SMTP_HOST is missing the script says so and exits 0, so the daily build never fails
 because email is not set up.
 
@@ -60,6 +63,18 @@ def main(argv=None) -> int:
     port = int(os.environ.get("SMTP_PORT") or 587)
     site = os.environ.get("SITE_URL") or ""
     msg = build_message(a.edition, report.read_bytes(), sender, to, site)
+    try:
+        send(msg, host, port, user, password)
+    except Exception as e:
+        # Never print the exception text: SMTP errors can quote the recipient or sender address,
+        # and this repo's Action logs are public. The error class is enough to diagnose.
+        print(f"::error title=Email not sent::{type(e).__name__} while sending (details withheld to keep addresses private)")
+        return 1
+    print(f"Emailed the {a.edition} edition to {len(to)} recipient(s).")
+    return 0
+
+
+def send(msg: EmailMessage, host: str, port: int, user: str, password: str) -> None:
     ctx = ssl.create_default_context()
     if port == 465:
         server = smtplib.SMTP_SSL(host, port, context=ctx, timeout=60)
@@ -70,8 +85,6 @@ def main(argv=None) -> int:
         if user:
             server.login(user, password)
         server.send_message(msg)
-    print(f"Emailed the {a.edition} edition to {len(to)} recipient(s).")
-    return 0
 
 
 if __name__ == "__main__":
