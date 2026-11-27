@@ -9,6 +9,12 @@ workers_dev = true
 binding = "REGEN"
 id = "__KV_ID__"
 
+# Mail for the six-digit codes (Cloudflare Email Sending). Codes are required once the sender
+# address is set (repository variable REGEN_EMAIL_FROM, an address on a domain onboarded for
+# Email Sending in this Cloudflare account).
+[[send_email]]
+name = "EMAIL"
+
 [vars]
 GITHUB_REPO = "crowdedLeopard/Parliamentary-Briefing"
 SITE_URL = "https://crowdedleopard.github.io/Parliamentary-Briefing/"

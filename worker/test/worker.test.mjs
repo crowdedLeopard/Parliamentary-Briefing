@@ -110,3 +110,28 @@ test("the API answers the site's origin only", async () => {
   const other = await call(e, "/api/status", { origin: "https://evil.example" });
   assert.equal(other.r.headers.get("access-control-allow-origin"), null);
 });
+
+test("with a mail sender set, a rewrite needs the emailed code (one use, five tries)", async () => {
+  const mail = [];
+  const e = env({ EMAIL: { send: async m => { mail.push(m); return { messageId: "m1" }; } }, EMAIL_FROM: "briefing@site.example" });
+  assert.equal((await call(e, "/api/code", { method: "POST", body: { email: "stranger@example.org" } })).s, 403);
+  assert.equal(mail.length, 0);
+  assert.equal((await ask(e, "reader@example.org")).s, 401);                     // no code yet
+  const c = await call(e, "/api/code", { method: "POST", body: { email: "reader@example.org" } });
+  assert.deepEqual(c.j, { needCode: true, sent: true });
+  assert.equal(mail[0].to, "reader@example.org");
+  const code = mail[0].subject.match(/\d{6}/)[0];
+  const wrong = code === "000000" ? "111111" : "000000";
+  const bad = await call(e, "/api/request", { method: "POST", body: { e: "2026-11-26", k: ["cloud"], email: "reader@example.org", code: wrong } });
+  assert.equal(bad.s, 401);
+  const good = await call(e, "/api/request", { method: "POST", body: { e: "2026-11-26", k: ["cloud"], email: "reader@example.org", code } });
+  assert.equal(good.s, 200);
+  for (const [k, v] of e.REGEN.m) assert.ok(!String(k + v).includes(code), "the code was stored in clear");
+  const again = await call(e, "/api/request", { method: "POST", body: { e: "2026-11-26", k: ["cloud"], email: "second@example.org", code } });
+  assert.equal(again.s, 401);                                                    // not that person's code
+});
+
+test("without a mail sender, no code is asked for", async () => {
+  const c = await call(env(), "/api/code", { method: "POST", body: { email: "reader@example.org" } });
+  assert.deepEqual(c.j, { needCode: false });
+});

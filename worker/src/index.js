@@ -9,7 +9,11 @@
 // one rewrite per person per edition (LIMIT_SCOPE=edition) or one ever (LIMIT_SCOPE=ever), plus a
 // hard daily cap across everyone (DAILY_CAP). Wrong guesses are limited per network address.
 //
-// Flow:  page -> POST /api/request {e, k, off, email} -> job saved in KV -> GitHub workflow
+// Proof of ownership: when the Worker has a mail binding (EMAIL, Cloudflare Email Sending) and a
+// sender (EMAIL_FROM), a listed address first gets a six-digit code by email (POST /api/code),
+// valid 10 minutes, one use, five tries; the request must carry it.
+//
+// Flow:  page -> POST /api/request {e, k, off, email, code} -> job saved in KV -> GitHub workflow
 //        "regenerate.yml" started with only the job id -> it fetches the job from /hook/job/<id>
 //        (HOOK_SECRET), rewrites the edition and posts the page back -> the visitor's page polls
 //        /api/job/<id>?key=<view key> and opens /r/<id>?key=<view key>. Results are kept RESULT_DAYS.
@@ -27,6 +31,7 @@ const JOB_ID = /^[A-Za-z0-9_-]{8,64}$/;
 const EMAIL = /^[^\s@,;<>"]{1,64}@[A-Za-z0-9.-]{1,190}\.[A-Za-z]{2,}$/;
 const STUCK_MS = 50 * 60 * 1000;
 const MAX_MISSES = 5; // wrong addresses per network address per hour
+const MAX_CODES = 3;  // codes emailed per address per hour
 const enc = new TextEncoder();
 
 export default {
@@ -116,15 +121,8 @@ async function route(req, env) {
     const off = (Array.isArray(body.off) ? body.off : []).map(x => String(x).slice(0, 80)).slice(0, 20);
     if (!keywords.length && !off.length) fail(400, "Choose at least one keyword or switch off a topic.");
 
-    // Who: the address must be on the owner's list. Wrong guesses are limited per network address.
-    const ip = await hmac(env.USER_SALT, "ip:" + (req.headers.get("cf-connecting-ip") || "unknown"));
-    const mk = `miss:${ip}:${new Date().toISOString().slice(0, 13)}`;
-    const misses = Number(await env.REGEN.get(mk)) || 0;
-    if (misses >= MAX_MISSES) fail(429, "Too many attempts. Please try again in an hour.");
-    if (!EMAIL.test(email) || !listed(env.ALLOWED_EMAILS, email)) {
-      await env.REGEN.put(mk, String(misses + 1), { expirationTtl: 3700 });
-      fail(403, "That address is not on the list for rewrites.");
-    }
+    await checkListed(req, env, email);
+    if (codeRequired(env)) await checkCode(env, email, String(body.code || ""));
     if (!(await editionExists(env, edition))) fail(400, "That edition is not on the site.");
     const uid = await hmac(env.USER_SALT, email);
     const unlimited = listed(env.UNLIMITED_EMAILS, email);
@@ -168,6 +166,34 @@ async function route(req, env) {
     return json({ job: id, key });
   }
 
+  // Step one when codes are on: email a six-digit code to a listed address.
+  if (p === "/api/code" && req.method === "POST") {
+    if (req.headers.get("content-type")?.split(";")[0] !== "application/json") fail(415, "send JSON");
+    const body = await req.json().catch(() => fail(400, "bad request"));
+    const email = String(body.email || "").trim().toLowerCase();
+    if (!codeRequired(env)) return json({ needCode: false });
+    await checkListed(req, env, email);
+    const uid = await hmac(env.USER_SALT, email);
+    const sk = `sent:${uid}:${new Date().toISOString().slice(0, 13)}`;
+    const sent = Number(await env.REGEN.get(sk)) || 0;
+    if (sent >= MAX_CODES) fail(429, "Too many codes sent to that address. Please try again in an hour.");
+    const code = String(crypto.getRandomValues(new Uint32Array(1))[0] % 1_000_000).padStart(6, "0");
+    await env.REGEN.put(`otp:${uid}`, JSON.stringify({ h: await hmac(env.USER_SALT, "otp:" + code), tries: 0 }), { expirationTtl: 600 });
+    await env.REGEN.put(sk, String(sent + 1), { expirationTtl: 3700 });
+    try {
+      await env.EMAIL.send({
+        to: email, from: { email: env.EMAIL_FROM, name: "Parliamentary briefing" },
+        subject: `Your code: ${code}`,
+        text: `Your code for a briefing rewrite is ${code}. It works for 10 minutes.\n\nIf you did not ask for it, ignore this email.`,
+        html: `<p>Your code for a briefing rewrite is</p><p style="font-size:28px;font-weight:700;letter-spacing:4px">${code}</p><p>It works for 10 minutes. If you did not ask for it, ignore this email.</p>`,
+      });
+    } catch (e) {
+      console.log("email failed", e && e.code);
+      fail(502, "The code could not be sent. Please try again later.");
+    }
+    return json({ needCode: true, sent: true });
+  }
+
   const jm = p.match(/^\/api\/job\/([A-Za-z0-9_-]{8,64})$/);
   if (jm && req.method === "GET") {
     const job = await keyedJob(env, jm[1], url.searchParams.get("key"));
@@ -199,6 +225,35 @@ async function route(req, env) {
 }
 
 // ---------------------------------------------------------------------------------------------
+
+// Codes are on when the Worker has a mail binding and a sender address (see wrangler.toml).
+const codeRequired = env => Boolean(env.EMAIL && env.EMAIL_FROM);
+
+async function checkListed(req, env, email) {
+  // The address must be on the owner's list. Wrong guesses are limited per network address.
+  const ip = await hmac(env.USER_SALT, "ip:" + (req.headers.get("cf-connecting-ip") || "unknown"));
+  const mk = `miss:${ip}:${new Date().toISOString().slice(0, 13)}`;
+  const misses = Number(await env.REGEN.get(mk)) || 0;
+  if (misses >= MAX_MISSES) fail(429, "Too many attempts. Please try again in an hour.");
+  if (!EMAIL.test(email) || !listed(env.ALLOWED_EMAILS, email)) {
+    await env.REGEN.put(mk, String(misses + 1), { expirationTtl: 3700 });
+    fail(403, "That address is not on the list for rewrites.");
+  }
+}
+
+async function checkCode(env, email, code) {
+  const uid = await hmac(env.USER_SALT, email);
+  const k = `otp:${uid}`;
+  const rec = JSON.parse((await env.REGEN.get(k)) || "null");
+  if (!rec) fail(401, "Ask for a code first, or ask for a new one: codes work for 10 minutes.", { needCode: true });
+  if (!/^\d{6}$/.test(code) || !(await same(await hmac(env.USER_SALT, "otp:" + code), rec.h))) {
+    rec.tries += 1;
+    if (rec.tries >= 5) await env.REGEN.delete(k);
+    else await env.REGEN.put(k, JSON.stringify(rec), { expirationTtl: 600 });
+    fail(401, rec.tries >= 5 ? "Too many wrong codes. Ask for a new one." : "That code is not right.", { needCode: true });
+  }
+  await env.REGEN.delete(k); // one use
+}
 
 function listed(list, email) {
   const domain = email.slice(email.lastIndexOf("@"));

@@ -39,7 +39,7 @@ border-bottom:1px solid var(--kw-rule);padding:6px max(5vw,16px);font:15px/1.45 
 </style>"""
 
 JS = r"""(function(){
-var D=__DATE__,REGEN=__REGEN__,API=REGEN.replace(/\/$/,''),JK='pb-kwjob-'+D,job=null,msg='',link='',busy=false,polling=false,root=document.getElementById('kw'),box=document.getElementById('kw-in'),data=null,K='pb-kw-'+D;
+var D=__DATE__,REGEN=__REGEN__,API=REGEN.replace(/\/$/,''),JK='pb-kwjob-'+D,job=null,email='',codeStage=false,msg='',link='',busy=false,polling=false,root=document.getElementById('kw'),box=document.getElementById('kw-in'),data=null,K='pb-kw-'+D;
 var KIND={wq:'Written question',ws:'Written statement',hd:'Debate',cm:'Committee',to:'Today'};
 var st={on:{},own:[],off:{}};
 try{var s=JSON.parse(localStorage.getItem(K)||'null');if(s){st=s;st.on=st.on||{};st.own=st.own||[];st.off=st.off||{}}}catch(x){}
@@ -100,15 +100,21 @@ function draw(){
     rg.appendChild(el('h4',null,'Rewrite the briefing with these keywords'));
     rg.appendChild(el('p',null,'An AI writer redrafts this edition around your keywords and topics. Rewrites are for approved readers: enter your email address. Each person gets one rewrite per edition, and it takes a few minutes.'));
     if(!job){var f2=el('form',{cls:'kw-add'}),em=el('input',{type:'email',required:'',autocomplete:'email','aria-label':'Your email address',placeholder:'Your email address'});
-      var go=el('button',{type:'submit',cls:'kw-btn kw-main'},'Rewrite with these keywords');if(!changed||busy)go.disabled=true;
-      f2.appendChild(em);f2.appendChild(go);
-      f2.addEventListener('submit',function(ev){ev.preventDefault();if(busy)return;busy=true;go.disabled=true;say('Checking…');
-        fetch(API+'/api/request',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({e:D,k:terms.slice(0,12),off:Object.keys(st.off),email:em.value})})
-        .then(function(r){return r.json().then(function(j){j._s=r.status;return j})}).then(function(j){busy=false;
-          if(j.job&&j.key){job={job:j.job,key:j.key};try{localStorage.setItem(JK,JSON.stringify(job))}catch(x){}
+      em.value=email;var cd=el('input',{type:'text',inputmode:'numeric',autocomplete:'one-time-code',maxlength:'6','aria-label':'The code we emailed you',placeholder:'6-digit code'});
+      var go=el('button',{type:'submit',cls:'kw-btn kw-main'},codeStage?'Rewrite with these keywords':'Continue');if(!changed||busy)go.disabled=true;
+      f2.appendChild(em);if(codeStage)f2.appendChild(cd);f2.appendChild(go);
+      function post(path,b){return fetch(API+path,{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify(b)}).then(function(r){return r.json().then(function(j){j._s=r.status;return j})})}
+      function request(code){say('Starting…');return post('/api/request',{e:D,k:terms.slice(0,12),off:Object.keys(st.off),email:email,code:code}).then(function(j){busy=false;
+          if(j.job&&j.key){job={job:j.job,key:j.key};codeStage=false;try{localStorage.setItem(JK,JSON.stringify(job))}catch(x){}
             msg=j._s===200?'Started. Writing usually takes three to eight minutes; you can keep reading meanwhile.':(j.error||'')+' Here is the one you asked for.';draw();poll()}
-          else{say(j.error||'The rewrite could not be started.');go.disabled=!changed}})
-        .catch(function(){busy=false;say('The rewrite service could not be reached. Please try again later.');go.disabled=!changed})});
+          else{msg=j.error||'The rewrite could not be started.';draw()}})}
+      f2.addEventListener('submit',function(ev){ev.preventDefault();if(busy)return;busy=true;go.disabled=true;
+        var p;if(codeStage&&em.value.trim().toLowerCase()===email){p=request(cd.value.trim())}
+        else{email=em.value.trim().toLowerCase();say('Checking…');p=post('/api/code',{email:email}).then(function(j){
+          if(j.needCode===false)return request('');busy=false;
+          if(j.sent){codeStage=true;msg='We have emailed a 6-digit code to '+email+'. Enter it here; it works for 10 minutes.';draw();var c=document.querySelector('.kw-regen input[autocomplete=one-time-code]');if(c)c.focus()}
+          else{codeStage=false;msg=j.error||'The rewrite could not be started.';draw()}})}
+        p.catch(function(){busy=false;msg='The rewrite service could not be reached. Please try again later.';draw()})});
       rg.appendChild(f2)}
     var rs=el('p',{id:'kw-rs',role:'status'},msg);rg.appendChild(rs);
     if(link){var a2=el('a',{href:link,target:'_blank',rel:'noopener'},'Open your rewritten briefing');rg.appendChild(a2)}

@@ -7,12 +7,16 @@ const [port = "8787", site = "http://localhost:8765/"] = process.argv.slice(2);
 const m = new Map();
 const env = { REGEN: { get: async k => m.get(k) ?? null, put: async (k, v) => void m.set(k, v), delete: async k => void m.delete(k) },
               GITHUB_REPO: "o/r", GITHUB_TOKEN: "t", HOOK_SECRET: "local", USER_SALT: "local", SITE_URL: site,
-              ALLOWED_EMAILS: "reader@example.org", DAILY_CAP: "10" };
+              ALLOWED_EMAILS: "reader@example.org", DAILY_CAP: "10",
+              // fake mail: the last code sent is readable at /_code (codes on unless NOCODE=1)
+              ...(process.env.NOCODE ? {} : { EMAIL_FROM: "briefing@localhost.test", EMAIL: { send: async msg => { lastCode = msg.subject.match(/\d{6}/)[0]; return { messageId: "x" }; } } }) };
+let lastCode = "";
 const realFetch = globalThis.fetch;
 globalThis.fetch = async (url, opt) => (String(url).includes("api.github.com") ? new Response(null, { status: 204 }) : realFetch(url, opt));
 
 http.createServer(async (req, res) => {
   const body = await new Promise(r => { let b = ""; req.on("data", d => (b += d)).on("end", () => r(b)); });
+  if (req.url === "/_code") { res.end(lastCode); return; }
   const fin = req.url.match(/^\/_finish\/(\w+)/);
   if (fin) {
     await worker.fetch(new Request(`http://x/hook/job/${fin[1]}`, { headers: { authorization: "Bearer local" } }), env);

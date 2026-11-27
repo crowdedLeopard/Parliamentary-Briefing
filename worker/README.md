@@ -20,8 +20,13 @@ to redraft the edition around them. That costs model time, so it is gated:
    (GitHub Copilot) and posts the page back. Nothing is committed.
 5. The page waits and then links to the result, which only holds a private link and is kept 14 days.
 
-The address check proves only that someone knows an approved address, not that they own it. The
-one-per-person limit and the daily cap bound what a guesser could spend.
+The address check on its own proves only that someone knows an approved address, not that they own
+it; the one-per-person limit and the daily cap bound what a guesser could spend. To make visitors
+prove it, turn on **emailed codes**: onboard a domain you have on Cloudflare DNS under Email Service >
+Email Sending, then set the repository variable `REGEN_EMAIL_FROM` (e.g. `briefing@yourdomain`) and
+deploy. Each rewrite then needs a six-digit code sent to the address (10 minutes, one use, five
+tries, three codes an hour). On the free Workers plan Cloudflare only mails addresses verified in
+the account first; the paid plan lifts that. With `REGEN_EMAIL_FROM` blank, no code is asked for.
 
 ## Set-up
 
