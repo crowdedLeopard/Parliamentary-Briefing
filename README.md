@@ -167,3 +167,18 @@ pytest -q tests                                     # offline: fake Parliament A
 python pipeline/run.py --run-date 2026-11-24        # live run (needs normal internet access)
 python pipeline/run.py --run-date 2026-11-24 --mode render
 ```
+
+## Email each edition
+
+After every build that produces a new edition, the **email** job sends that day's HTML report as an attachment (`pipeline/mailer.py`). The recipient and mail account are kept only in repository secrets (Settings > Secrets and variables > Actions), never in the repo:
+
+| Secret | Example |
+|---|---|
+| `MAIL_TO` | the recipient address (comma-separated for several) |
+| `SMTP_HOST` | `smtp.gmail.com` |
+| `SMTP_PORT` | `465` (SSL) or `587` (STARTTLS, the default) |
+| `SMTP_USERNAME` | the sending account |
+| `SMTP_PASSWORD` | its app password |
+| `MAIL_FROM` | optional; defaults to `SMTP_USERNAME` |
+
+Without `MAIL_TO` and `SMTP_HOST` the job only notes that email is not set up. To resend an edition, run the workflow by hand with **send_email** ticked (and **run_date** for a past edition), mode `render`.

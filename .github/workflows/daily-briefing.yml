@@ -20,6 +20,10 @@ on:
         type: choice
         options: [full, validate, render]
         default: full
+      send_email:
+        description: "Email today's edition (or run_date's) even if this run builds nothing new"
+        type: boolean
+        default: false
       backstop:
         description: "Started by a backup check: apply the same checks as a scheduled run (skip if the edition exists, check the material is published)"
         type: boolean
@@ -188,6 +192,31 @@ jobs:
           if [ -z "$n" ]; then gh issue create --title "$title" --body "$body"
           elif [ "$BUILD" = "failure" ]; then gh issue comment "$n" --body "$body"   # one email per failed build, not per slot
           fi
+
+  email:
+    # Emails the edition's HTML report as an attachment after a build, or when started by hand with
+    # send_email. Recipient and mail account live only in repository secrets (see pipeline/mailer.py);
+    # without them this job just notes that email is not set up.
+    needs: [gate, build]
+    if: always() && needs.gate.result == 'success' && (needs.build.outputs.ran == 'true' || inputs.send_email)
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main   # includes the report the build just committed
+      - name: Email the edition
+        env:
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+          MAIL_FROM: ${{ secrets.MAIL_FROM }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          SITE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+          EDITION: ${{ needs.gate.outputs.edition }}
+        run: python3 pipeline/mailer.py --edition "$EDITION"
 
   site:
     # Publishes the website (latest briefing + archive). Pages carry noindex and robots.txt blocks crawlers.
