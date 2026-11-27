@@ -1,0 +1,388 @@
+{
+ "verdict": "pass_with_fixes",
+ "checked": 1155,
+ "fixes": [
+  {
+   "where": "title",
+   "was": "NHS Microsoft dependency and AI security",
+   "now": "AI security, governance and NHS data",
+   "reason": "Names the dominant theme across the briefing's existing items in six words."
+  },
+  {
+   "where": "summary",
+   "was": "Siân Berry's written question on NHS reliance on Microsoft, with a matching one on the MoD's reliance on DXC, got only a cross-reference to an earlier Lords answer.",
+   "now": "DHSC answered Siân Berry's question on NHS supplier dependency by referring to an earlier Lords answer; the MoD gave a substantive answer to her parallel question about DXC.",
+   "reason": "45041 received a cross-reference, but 45040 received an explanation of supplier reviews, re-procurement and transition arrangements."
+  },
+  {
+   "where": "very_important[0].why",
+   "was": "The Lords answer HL5499 is now the Government's stated position on Microsoft dependency in the NHS",
+   "now": "The DHSC answer provides only a cross-reference; the evidence does not establish what HL5499 said.",
+   "reason": "The referenced answer's text is absent, so its substantive position cannot be described."
+  },
+  {
+   "where": "very_important[1].body",
+   "was": "A consultation launched on 10 November proposes a safety certification framework for edtech",
+   "now": "She said a consultation launched on 10 November proposes a safety certification framework for certain types of edtech",
+   "reason": "The minister specified certain types of edtech, not all educational technology."
+  },
+  {
+   "where": "very_important[2].body",
+   "was": "If personal data such as NHS records is accessed, the Information Commission must be told within 72 hours.",
+   "now": "She said the Information Commission should be informed within 72 hours if personal data such as NHS records is accessed. Benjamin described the reporting deadline as running from awareness of a breach and the duty as covering personal data that risks harming individuals.",
+   "reason": "Preserves the minister's wording and the qualifications Benjamin raised, rather than presenting an unconditional legal rule."
+  },
+  {
+   "where": "very_important[2].body; very_important[2].why",
+   "was": "cloud computing services in scope of the Bill face a 24-hour duty to report loss-of-control incidents",
+   "now": "Where an AI digital service, such as a cloud computing service, falls within the Bill's scope, she said it would have to notify regulators of significant loss-of-control incidents within 24 hours.",
+   "reason": "The statement concerns proposed duties under a Bill, applies only within scope and specifies significant incidents."
+  },
+  {
+   "where": "very_important[2].body",
+   "was": "The Bill also raises penalties.",
+   "now": "She also said the Bill would increase potential penalties.",
+   "reason": "The minister described an increase in the potential penalty amount, not enacted or automatically imposed penalties."
+  },
+  {
+   "where": "very_important[2].body",
+   "was": "Lord Markham pressed for NHS data to be anonymised",
+   "now": "Lord Markham pressed for NHS data to be anonymised or pseudonymised wherever possible",
+   "reason": "Restores the alternatives and qualification in his question."
+  },
+  {
+   "where": "debates[0].who; debates[0].body",
+   "was": "Lord Parkinson, for the Opposition",
+   "now": "Lord Parkinson",
+   "reason": "The supplied extract establishes his Conservative affiliation but does not explicitly identify an official Opposition speaking role."
+  },
+  {
+   "where": "debates[0].why",
+   "was": "Peers across parties want a firm line against a commercial text and data mining exception and in favour of transparency duties",
+   "now": "Keeley called for rejection of a commercial text and data mining exception, while Knight pressed for transparency. Colville linked licensed training data to domestic AI infrastructure.",
+   "reason": "The explicit rejection of an exception is Keeley's position; the extracts do not establish that all listed parties share it."
+  },
+  {
+   "where": "debates[1].who",
+   "was": "Lucy Rigby (Labour, Economic Secretary to the Treasury); Sam Carling (Labour); Lauren Edwards (Labour); Blake Stephenson (Conservative)",
+   "now": "Lucy Rigby (Economic Secretary to the Treasury); Sam Carling; Lauren Edwards; Blake Stephenson",
+   "reason": "Retains the ministerial role explicitly supplied in Hansard and removes party labels not explicitly supplied for these speakers."
+  },
+  {
+   "where": "debates[1].body",
+   "was": "the Senior Managers and Certification Regime (SMCR)",
+   "now": "the SMCR responsibilities framework",
+   "reason": "The extracts discuss SMCR and its responsibilities but do not supply its expanded name."
+  },
+  {
+   "where": "debates[2].who",
+   "was": "Kanishka Narayan (Labour, Minister for Artificial Intelligence); Chris McDonald (Labour, minister)",
+   "now": "Kanishka Narayan (Minister for Artificial Intelligence); Chris McDonald (minister)",
+   "reason": "The evidence supports their ministerial participation but does not explicitly supply these party affiliations."
+  },
+  {
+   "where": "debates[2].body",
+   "was": "now that the US has banned it from public use and procurement on security grounds",
+   "now": "referring to what he described as an American decision to ban it from public use and procurement because of security concerns",
+   "reason": "The evidence establishes Spencer's claim, not independent verification of the existence or scope of a US ban."
+  },
+  {
+   "where": "questions[0].body",
+   "was": "Whether energy network operators use Chinese-developed AI models (47177).",
+   "now": "Whether the energy department has assessed energy network operators' use of AI models published by developers based in China (47177).",
+   "reason": "47177 asks whether an assessment has been made, not simply whether operators use such models."
+  },
+  {
+   "where": "questions[0].body",
+   "was": "Office of the Prime Minister and Cabinet (45810)",
+   "now": "Office for Prime Minister and Cabinet (45810)",
+   "reason": "Matches the office name given in answer 45810."
+  },
+  {
+   "where": "questions[0].why",
+   "was": "The answers also confirm that AI policy has moved to the Cabinet Office",
+   "now": "The answers describe the GovAI Unit's leadership and remit, while staffing transfers remain unfinished.",
+   "reason": "34348 expressly says the transfer and reconciliation process is still being finalised."
+  },
+  {
+   "where": "questions[1].body",
+   "was": "What assessment has been made of civil servants using personal AI models on those devices (HL5876).",
+   "now": "What assessment has been made of the use of personal AI models on government-issued devices and personal devices used to access Civil Service networks (HL5876).",
+   "reason": "The question specifies device contexts, without separately identifying the users."
+  },
+  {
+   "where": "questions[3].title; questions[3].body; questions[3].tags",
+   "was": "Who lobbied on the draft National Policy Statement for Data Centres?",
+   "now": "Engagement on the draft National Policy Statement for Data Centres",
+   "reason": "47110 asks about entities engaged to discuss drafting. Engagement does not establish lobbying or influence."
+  },
+  {
+   "where": "questions[4].why",
+   "was": "The answer suggests established clusters such as the Thames Valley may come within Covenant support for grid connections.",
+   "now": "The answer recognises established clusters but does not confirm their eligibility for Covenant support.",
+   "reason": "The answer names no Thames Valley cluster and gives no definitive eligibility decision."
+  },
+  {
+   "where": "questions[6].why",
+   "was": "The answer points to a forthcoming central register or oversight of AI deployed in government",
+   "now": "The answer sets out an intention to create a centralised view of deployment; it does not commit to a register or specify accountability requirements.",
+   "reason": "38703 describes an intention and the GovAI Unit's remit, not a promised register."
+  },
+  {
+   "where": "questions[7].title",
+   "was": "Delays to Technology Services 4 and other framework documents",
+   "now": "Publication dates for Technology Services 4 and other frameworks",
+   "reason": "The questions ask for reasons if documents were late; the evidence does not confirm delays."
+  },
+  {
+   "where": "questions[9].body",
+   "was": "the National School of Government",
+   "now": "the National School of Government and Public Services",
+   "reason": "Restores the organisation's full name in 46960."
+  },
+  {
+   "where": "questions[11].title; questions[11].body; questions[11].linkText; questions[11].tags",
+   "was": "Investigatory Powers Act",
+   "now": "the Act described in his question as the 'Investigative Powers Act'",
+   "reason": "46976 uses this different wording. The corrected body reports it explicitly rather than silently substituting a statute's name."
+  },
+  {
+   "where": "questions[12].body",
+   "was": "Anderson tabled seven questions",
+   "now": "Anderson tabled eight questions",
+   "reason": "The evidence contains 47113, 47114, 47115, 47116, 47117, 47152, 47153 and 47154. The six retained bullets are labelled as examples."
+  },
+  {
+   "where": "questions[14].title",
+   "was": "No dedicated guidance on AI tools for domestic abuse charities",
+   "now": "Guidance on AI use in domestic abuse services",
+   "reason": "42086 does not establish that dedicated guidance is absent or rule out issuing guidance."
+  },
+  {
+   "where": "committees[0].title",
+   "was": "Committee report: 'Innovation in the NHS: Personalised Medicine and AI – lost opportunities?'",
+   "now": "Committee report: 'Innovation in the NHS: Personalised Medicine and AI–lost opportunities?'",
+   "reason": "Matches the publication title supplied in the evidence."
+  },
+  {
+   "where": "committees[1].body",
+   "was": "the Federated Data Platform (FDP) and Palantir",
+   "now": "FDP and Palantir",
+   "reason": "Only the abbreviation FDP is supplied in the publication metadata; the letter's contents are absent."
+  },
+  {
+   "where": "other[0].who",
+   "was": "Lisa Nandy (Labour, Secretary of State for Digital, Culture, Media and Sport)",
+   "now": "Lisa Nandy (Secretary of State for Digital, Culture, Media and Sport)",
+   "reason": "The statement establishes her name and role but does not explicitly supply a party affiliation."
+  },
+  {
+   "where": "other[1].body",
+   "was": "Lord Doyle raised Russian cyber attacks on critical national infrastructure.",
+   "now": "Lord Doyle raised Russian threats, including cyber attacks and threats to critical national infrastructure.",
+   "reason": "His extract lists cyber attacks and infrastructure threats; it does not specifically describe cyber attacks on that infrastructure."
+  },
+  {
+   "where": "other[2].who",
+   "was": "Blair McDougall (Labour, minister)",
+   "now": "Blair McDougall",
+   "reason": "The supplied contribution does not explicitly give his party or ministerial title."
+  },
+  {
+   "where": "today[0].time",
+   "was": "Friday sitting from 09:30 (exact time not given)",
+   "now": "Time not specified for this Bill",
+   "reason": "09:30 belongs to a different listed Bill. No time is supplied for the Artificial Superintelligence Bill."
+  }
+ ],
+ "removed": [
+  {
+   "where": "very_important[0].why",
+   "reason": "Removed predictions of a wider departmental inquiry, future evidence requests and advice to obtain another answer."
+  },
+  {
+   "where": "very_important[1].why; very_important[1].tags",
+   "reason": "Removed an unsupported product-ownership attribution and predictions about the certification framework's effects on particular suppliers."
+  },
+  {
+   "where": "very_important[2].why",
+   "reason": "Removed supplier-specific applicability, competitor framing and corporate-positioning advice not established by the debate."
+  },
+  {
+   "where": "debates[0].why",
+   "reason": "Removed predictions about particular providers' training and licensing obligations."
+  },
+  {
+   "where": "debates[1].why",
+   "reason": "Removed an unsupported trend in cross-party support and speculation about liability reaching named platforms."
+  },
+  {
+   "where": "debates[2].why",
+   "reason": "Removed unsupported claims about preferred providers benefiting and security criteria becoming stricter."
+  },
+  {
+   "where": "questions[0].why",
+   "reason": "Removed predictions about future answers identifying vendors or demonstrating how debarment is applied."
+  },
+  {
+   "where": "questions[1].why",
+   "reason": "Removed the inference that answers about blocking access would establish a list of approved tools."
+  },
+  {
+   "where": "questions[2].why",
+   "reason": "Removed the prediction that an unanswered question would preview tighter oversight."
+  },
+  {
+   "where": "questions[3].why",
+   "reason": "Removed speculation about companies appearing in a future list and a narrative of industry influence."
+  },
+  {
+   "where": "questions[4].why",
+   "reason": "Removed an unevidenced regional example and an unsupported restriction of Covenant tests to new projects."
+  },
+  {
+   "where": "questions[5].why",
+   "reason": "Removed commercial-competition framing and predictions of future provider obligations."
+  },
+  {
+   "where": "questions[6].why",
+   "reason": "Removed predictions about the coverage of a register not promised in the answer."
+  },
+  {
+   "where": "questions[7].why; questions[7].tags",
+   "reason": "Removed unevidenced claims about a framework's central purchasing role, its administrator and procurement problems."
+  },
+  {
+   "where": "questions[8].why",
+   "reason": "Removed predictions about designations or conduct requirements affecting particular suppliers."
+  },
+  {
+   "where": "questions[9].why",
+   "reason": "Removed advisory language about event contributions and speculative commercial relevance."
+  },
+  {
+   "where": "questions[10].why",
+   "reason": "Removed the unsupported description of local-government AI as a growing market."
+  },
+  {
+   "where": "questions[11].why",
+   "reason": "Removed claims about effects on every UK cloud and device provider."
+  },
+  {
+   "where": "questions[12].why",
+   "reason": "Removed an unevidenced comparison with arguments about sovereign cloud and AI in defence."
+  },
+  {
+   "where": "questions[13].why",
+   "reason": "Removed supplier-specific relevance not established by the answers."
+  },
+  {
+   "where": "questions[14].why",
+   "reason": "Removed predictions of guidance and an unsupported claim about widespread tool use in charities."
+  },
+  {
+   "where": "committees[0].why",
+   "reason": "Removed predictions about the report's influence and a future government response."
+  },
+  {
+   "where": "committees[1].why; committees[1].tags",
+   "reason": "Removed claims about a major central contract, competitive relationships and supplier concentration unsupported by publication metadata."
+  },
+  {
+   "where": "committees[2].why",
+   "reason": "Removed claims that unseen correspondence will inform future policy."
+  },
+  {
+   "where": "other[0].why",
+   "reason": "Removed commercial framing and predictions about the regulator's priorities or enforcement."
+  },
+  {
+   "where": "other[1].why",
+   "reason": "Removed predictions about regulatory alignment and the number of compliance regimes."
+  },
+  {
+   "where": "other[2].why",
+   "reason": "Removed the inference that industry programmes could participate in the announced skills provision."
+  },
+  {
+   "where": "today[0].why",
+   "reason": "Removed claims about the Bill's substantive scope, safety obligations and likely debate effects; its text is not supplied."
+  },
+  {
+   "where": "member_notes.5314",
+   "reason": "Removed inferred supplier-dependency motives and a specific party line not established by the profile."
+  },
+  {
+   "where": "member_notes.4785",
+   "reason": "Removed detailed motives, hospitality details and the inference of regular industry engagement."
+  },
+  {
+   "where": "member_notes.4939",
+   "reason": "Removed financial-interest details and inferred hands-on expertise or a specific scrutiny strategy."
+  },
+  {
+   "where": "member_notes.3396",
+   "reason": "Removed inferred long-term motivation; retained documented role, question statistics and declared policy focus."
+  },
+  {
+   "where": "member_notes.5284",
+   "reason": "Removed the causal inference that committee membership explains a particular question."
+  },
+  {
+   "where": "member_notes.4500",
+   "reason": "Removed an inferred concern about industry influence not stated in the profile."
+  },
+  {
+   "where": "member_notes.4638",
+   "reason": "Removed an unevidenced local data-centre cluster and inferred constituency and security motivations."
+  },
+  {
+   "where": "member_notes.5235",
+   "reason": "Removed inferred motives for the agentic-AI question."
+  },
+  {
+   "where": "member_notes.5389",
+   "reason": "Removed the inferred purpose of questions about framework-document publication."
+  },
+  {
+   "where": "member_notes.5201",
+   "reason": "Removed an asserted party campaign for stronger digital competition not established by the profile."
+  },
+  {
+   "where": "member_notes.4384",
+   "reason": "Removed the inference that his questions are not primarily about technology policy."
+  },
+  {
+   "where": "member_notes.1796",
+   "reason": "Removed consultancy and travel details and an inferred focus on AI's social impacts."
+  },
+  {
+   "where": "member_notes.5111",
+   "reason": "Removed an inferred explanation for his encryption question."
+  },
+  {
+   "where": "member_notes.4742",
+   "reason": "Removed a specific inferred frontbench strategy for the Atlantic Net questions."
+  },
+  {
+   "where": "member_notes.3969",
+   "reason": "Removed inferred motives concerning NHS data reforms."
+  },
+  {
+   "where": "member_notes.4571",
+   "reason": "Removed an unsupported contrast between victim protection and technology-policy interests."
+  },
+  {
+   "where": "member_notes.4567",
+   "reason": "Removed an inferred connection to a wider party critique of the UK-EU reset."
+  }
+ ],
+ "provider": "copilot",
+ "writer": "claude-opus-5.5",
+ "validator": "gpt-6.1-sol",
+ "independent": true,
+ "ruleChecks": {
+  "checked": 45,
+  "issues": []
+ }
+}

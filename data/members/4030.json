@@ -1,0 +1,686 @@
+{
+ "id": 4030,
+ "fetchedOn": "2026-11-27",
+ "core": {
+  "id": 4030,
+  "nameListAs": "Turner, Karl",
+  "nameDisplayAs": "Karl Turner",
+  "nameFullTitle": "Karl Turner MP",
+  "nameAddressAs": "Karl Turner",
+  "latestParty": {
+   "id": 15,
+   "name": "Labour",
+   "abbreviation": "Lab",
+   "backgroundColour": "d50000",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": true,
+   "governmentType": 0,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "Kingston upon Hull East",
+   "membershipFromId": 4128,
+   "house": 1,
+   "membershipStartDate": "2010-05-06T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2024-07-04T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/4030/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2024-05-31T00:00:00",
+    "constituencyEnd": null,
+    "house": 1,
+    "name": "Kingston upon Hull East",
+    "id": 4128,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "2010-04-13T00:00:00",
+    "constituencyEnd": "2024-05-30T00:00:00",
+    "house": 1,
+    "name": "Kingston upon Hull East",
+    "id": 3558,
+    "startDate": "2010-05-06T00:00:00",
+    "endDate": "2024-05-30T00:00:00",
+    "additionalInfo": "Elected 4 times",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [],
+  "houseMemberships": [
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "2010-05-06T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Karl Turner",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [],
+  "oppositionPosts": [
+   {
+    "house": 1,
+    "name": "Shadow Solicitor General",
+    "id": 882,
+    "startDate": "2023-11-28T00:00:00",
+    "endDate": "2024-05-30T00:00:00",
+    "additionalInfo": "Attorney General's Office",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/attorney-generals-office"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Minister (Justice)",
+    "id": 968,
+    "startDate": "2020-04-10T00:00:00",
+    "endDate": "2021-10-29T00:00:00",
+    "additionalInfo": "Ministry of Justice",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/ministry-of-justice"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Minister (Transport)",
+    "id": 971,
+    "startDate": "2017-07-03T00:00:00",
+    "endDate": "2020-04-10T00:00:00",
+    "additionalInfo": "Department for Transport",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-transport"
+   },
+   {
+    "house": 1,
+    "name": "Opposition Whip (Commons)",
+    "id": 10,
+    "startDate": "2016-10-18T00:00:00",
+    "endDate": "2017-07-03T00:00:00",
+    "additionalInfo": "Whips Office (Commons)",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Shadow Attorney General",
+    "id": 11,
+    "startDate": "2016-01-11T00:00:00",
+    "endDate": "2016-06-26T00:00:00",
+    "additionalInfo": "Attorney General's Office",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/attorney-generals-office"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Minister (Justice)",
+    "id": 968,
+    "startDate": "2015-09-18T00:00:00",
+    "endDate": "2016-01-11T00:00:00",
+    "additionalInfo": "Ministry of Justice",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/ministry-of-justice"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Solicitor General",
+    "id": 882,
+    "startDate": "2014-12-03T00:00:00",
+    "endDate": "2016-01-11T00:00:00",
+    "additionalInfo": "Attorney General's Office",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/attorney-generals-office"
+   },
+   {
+    "house": 1,
+    "name": "Opposition Assistant Whip (Commons)",
+    "id": 5,
+    "startDate": "2013-01-11T00:00:00",
+    "endDate": "2015-09-18T00:00:00",
+    "additionalInfo": "Whips Office (Commons)",
+    "additionalInfoLink": null
+   }
+  ],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Labour",
+    "id": 15,
+    "startDate": "2026-10-21T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Independent",
+    "id": 8,
+    "startDate": "2026-03-31T00:00:00",
+    "endDate": "2026-10-21T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Labour",
+    "id": 15,
+    "startDate": "2010-05-06T00:00:00",
+    "endDate": "2026-03-31T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 1,
+    "name": "Justice Committee",
+    "id": 102,
+    "startDate": "2022-05-17T00:00:00",
+    "endDate": "2024-04-30T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Justice Committee",
+    "id": 102,
+    "startDate": "2010-07-12T00:00:00",
+    "endDate": "2013-01-21T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Home Affairs Committee",
+    "id": 83,
+    "startDate": "2012-11-26T00:00:00",
+    "endDate": "2013-02-04T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Regulatory Reform",
+    "id": 131,
+    "startDate": "2020-03-02T00:00:00",
+    "endDate": "2021-05-20T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Regulatory Reform",
+    "id": 131,
+    "startDate": "2017-11-06T00:00:00",
+    "endDate": "2019-11-06T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Seafarers' Wages Bill [HL]",
+    "id": 638,
+    "startDate": "2023-01-11T00:00:00",
+    "endDate": "2023-01-17T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Holocaust Memorial Bill Select Committee",
+    "id": 679,
+    "startDate": "2023-12-05T00:00:00",
+    "endDate": "2024-04-26T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Pet Abduction Bill",
+    "id": 699,
+    "startDate": "2024-01-24T00:00:00",
+    "endDate": "2024-01-31T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Panel of Chairs",
+    "id": 11,
+    "startDate": "2024-11-27T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 12,
+   "name": "1. Employment and earnings",
+   "sortOrder": 0,
+   "interests": [
+    {
+     "id": 15426,
+     "interest": "Role, work or services: Guest Panellist\r\nFrom: 14 May 2026. Until: 15 May 2026.\r\nPayer: Hat Trick Productions Ltd (Production Company), 33 Oval Road, London NW1 7EA\r\n(Registered 10 June 2026)",
+     "createdWhen": "2026-06-16T08:57:44.1133333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": [
+      {
+       "id": 15427,
+       "interest": "Payment expected: £1,500 Guest Panellist on Have I Got News For You (Series 71)\r\nCompleted or provided on: 14 May 2026. Hours: 5 hrs.\r\n(Registered 10 June 2026)",
+       "createdWhen": "2026-06-16T08:57:44.1133333",
+       "lastAmendedWhen": null,
+       "deletedWhen": null,
+       "isCorrection": false,
+       "childInterests": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "name": "2. (b) Any other support not included in Category 2(a)",
+   "sortOrder": 1,
+   "interests": [
+    {
+     "id": 14381,
+     "interest": "Name of donor: Neil Hudgell Limited\r\nAddress of donor: 2, The Dock, 46 Humber Street, Hull HU1 1TU\r\nAmount of donation or nature and value if donation in kind: Solicitors letter and King's Counsel advising Fee for a political case, value £3,000\r\nDate received: 10 January 2026 to 12 January 2026\r\nDate accepted: 10 January 2026\r\nDonor status: company, registration 07078429\r\n(Registered 22 January 2026)",
+     "createdWhen": "2026-02-03T11:19:40.87",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "name": "8. Miscellaneous",
+   "sortOrder": 2,
+   "interests": [
+    {
+     "id": 1264,
+     "interest": "Trustee of Pelican Park Community Trust. This is an unpaid role.\r\nDate interest arose: 30 November 2022\r\nDate interest ended: 9 July 2026\r\n(Registered 2 December 2022; updated 3 August 2026)",
+     "createdWhen": "2026-08-18T09:11:22.3633333",
+     "lastAmendedWhen": "2024-04-18T15:14:17.6133333",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 16673,
+     "interest": "Director of Pelican Park Community Trust. This is an unpaid role.\r\nDate interest arose: 9 July 2026\r\n(Registered 3 August 2026)",
+     "createdWhen": "2026-08-18T09:11:22.3633333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [],
+ "synopsis": "Karl Turner is the Labour MP for <a href='/constituency/4128/overview'>Kingston upon Hull East</a>, and has been an MP continually since 6 May 2010.",
+ "history": [
+  {
+   "id": 1958159,
+   "uin": "41721",
+   "heading": "Injunctions",
+   "questionText": "To ask the Attorney General, how many injunctions granted under the Protection from Harassment Act 1997 in each of the last ten years have prohibited conduct that does not itself constitute harassment, including private communications with family members,",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Attorney General's Office"
+  },
+  {
+   "id": 1958162,
+   "uin": "41724",
+   "heading": "Private Prosecutions",
+   "questionText": "To ask the Secretary of State for Justice, if he will commission a review of a representative sample of private prosecutions under the Protection from Harassment Act 1997 to assess the extent to which such prosecutions are used to suppress lawful criticis",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1958161,
+   "uin": "41723",
+   "heading": "Injunctions",
+   "questionText": "To ask the Secretary of State for Justice, if he will commission a review of a representative sample of injunctions granted under the Protection from Harassment Act 1997 to establish whether they contain restrictions on lawful communications beyond those ",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1922271,
+   "uin": "14323",
+   "heading": "Mental Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether he has made an assessment of the potential merits of increasing open access care models in mental health services; and if he will take steps to ensure that people have access to timely supp",
+   "dateTabled": "2026-06-30T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1925307,
+   "uin": "900850",
+   "heading": "Northern Ireland Troubles (Legacy and Reconciliation) Act 2023",
+   "questionText": "To ask the Secretary of State for Northern Ireland, what recent assessment he has made of the potential implications of the Dillon judgement for his Department's policies.",
+   "dateTabled": "2026-06-30T00:00:00",
+   "answeringBodyName": "Northern Ireland Office"
+  },
+  {
+   "id": 1895133,
+   "uin": "123635",
+   "heading": "Funerals: Environmental Health",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what assessment has the Department made of the potential merits of funeral directors becoming a a) licensable or b) inspectable activity under existing environmental health frame",
+   "dateTabled": "2026-03-25T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1895132,
+   "uin": "123634",
+   "heading": "Funerals: Environmental Health",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what assessment has the department made of the adequacy of environmental health inspections with regard to the case of Elkin & Bell Funeral Directors, Portsmouth Crown Court 2026",
+   "dateTabled": "2026-03-25T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1895131,
+   "uin": "123633",
+   "heading": "Funerals: Environmental Health",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what data does the department collect on environmental health breaches associated with a) poor hygiene, b) storage of bodies or c) handling practices in funeral premises.",
+   "dateTabled": "2026-03-25T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1895130,
+   "uin": "123632",
+   "heading": "Funerals: Environmental Health",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what assessment has been made of standards of environmental health particular to funeral directors as settings which could impact public health.",
+   "dateTabled": "2026-03-25T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1895129,
+   "uin": "123631",
+   "heading": "Funerals: Regulation",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what assessment has the department made of possible regulatory gaps concerning funeral directors with particular regard to a) environmental health and b) public safety.",
+   "dateTabled": "2026-03-25T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1868369,
+   "uin": "103234",
+   "heading": "Juries",
+   "questionText": "To ask the Secretary of State for Justice, whether he plans to apply trial by a single judge sitting alone retrospectively to defendants who have already entered a plea and elected trial by jury.",
+   "dateTabled": "2026-01-06T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1868371,
+   "uin": "103236",
+   "heading": "Crown Court",
+   "questionText": "To ask the Secretary of State for Justice, what the current average number of Crown court courtrooms that are not sitting in a month is; and what steps he is taking to address the issue of Crown Courts not sitting.",
+   "dateTabled": "2026-01-06T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1864946,
+   "uin": "100311",
+   "heading": "Trials",
+   "questionText": "To ask the Secretary of State for Justice, whether his Department has conducted an assessment of Crown Court and Magistrates’ Court sitting time lost as a result of the late production or non-production of defendants in custody.",
+   "dateTabled": "2025-12-16T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1864945,
+   "uin": "100310",
+   "heading": "Trials",
+   "questionText": "To ask the Secretary of State for Justice, whether he plans to apply trial by a single judge sitting alone retrospectively to defendants who have already entered a plea and elected trial by jury.",
+   "dateTabled": "2025-12-16T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1864947,
+   "uin": "100312",
+   "heading": "Crown Court",
+   "questionText": "To ask the Secretary of State for Justice, how many Crown Court courtrooms are not sitting on average in each month, and what steps he is taking to address the issue of Crown Courts not sitting.",
+   "dateTabled": "2025-12-16T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1864943,
+   "uin": "100308",
+   "heading": "Crown Court",
+   "questionText": "To ask the Secretary of State for Justice, what steps he is taking to ensure that available Crown Court courtrooms are utilised on every sitting day.",
+   "dateTabled": "2025-12-16T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1864944,
+   "uin": "100309",
+   "heading": "Juries",
+   "questionText": "To ask the Secretary of State for Justice, when he plans to publish the modelling and impact assessment relating to proposals to limit the use of jury trials.",
+   "dateTabled": "2025-12-16T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1864004,
+   "uin": "99757",
+   "heading": "Judgements: Standards",
+   "questionText": "To ask the Secretary of State for Justice, what estimate his Department has made of the time required for a single judge to prepare written judgments in criminal cases tried without a jury.",
+   "dateTabled": "2025-12-15T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1864003,
+   "uin": "99708",
+   "heading": "Crown Court: Judgements",
+   "questionText": "To ask the Secretary of State for Justice, what his planned timetable is for Crown Court judges to produce written judgments in cases tried by a single judge sitting alone.",
+   "dateTabled": "2025-12-15T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1862871,
+   "uin": "98757",
+   "heading": "Juries",
+   "questionText": "To ask the Secretary of State for Justice, whether he plans to introduce a sunset clause for proposals to limit jury trials.",
+   "dateTabled": "2025-12-10T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1864009,
+   "uin": "99760",
+   "heading": "Magistrates: Age",
+   "questionText": "To ask the Secretary of State for Justice, how many and what proportion of serving magistrates are under the age of 40.",
+   "dateTabled": "2025-12-15T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1864008,
+   "uin": "99759",
+   "heading": "Trials",
+   "questionText": "To ask the Secretary of State for Justice, what estimate his Department has made of the duration of hearings required to determine whether an offence is likely to attract a custodial sentence of three years or more.",
+   "dateTabled": "2025-12-15T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1864005,
+   "uin": "99758",
+   "heading": "Trials",
+   "questionText": "To ask the Secretary of State for Justice, which (a) court and (b) judicial body will determine whether an offence is likely to attract a custodial sentence of three years or more for the purposes of allocating the mode of trial.",
+   "dateTabled": "2025-12-15T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1964775,
+   "uin": "47025",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, how many companies bidding for procurement and tendering opportunities in her Department have been (a) excluded from the process and (b) requested to give an action plan due to not mee",
+   "dateTabled": "2026-11-26T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1964761,
+   "uin": "47011",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Wales, how many companies bidding for procurement and tendering opportunities in his Department have been (a) excluded from the process and (b) requested to give an action plan due to not meeting payment performance requi",
+   "dateTabled": "2026-11-26T00:00:00",
+   "answeringBodyName": "Wales Office"
+  },
+  {
+   "id": 1964759,
+   "uin": "47009",
+   "heading": null,
+   "questionText": "To ask the Leader of the House, how many companies bidding for procurement and tendering opportunities in his Department have been (a) excluded from the process and (b) requested to give an action plan due to not meeting payment performance requirements a",
+   "dateTabled": "2026-11-26T00:00:00",
+   "answeringBodyName": "Leader of the House"
+  },
+  {
+   "id": 1964854,
+   "uin": "47004",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Scotland, how many companies bidding for procurement and tendering opportunities in his Department have been (a) excluded from the process and (b) requested to give an action plan due to not meeting payment performance re",
+   "dateTabled": "2026-11-26T00:00:00",
+   "answeringBodyName": "Scotland Office"
+  },
+  {
+   "id": 1964853,
+   "uin": "47003",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Northern Ireland, how many companies bidding for procurement and tendering opportunities in his Department have been (a) excluded from the process and (b) requested to give an action plan due to not meeting payment perfor",
+   "dateTabled": "2026-11-26T00:00:00",
+   "answeringBodyName": "Northern Ireland Office"
+  },
+  {
+   "id": 1964852,
+   "uin": "47002",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Justice, how many companies bidding for procurement and tendering opportunities in his Department have been (a) excluded from the process and (b) requested to give an action plan due to not meeting payment performance req",
+   "dateTabled": "2026-11-26T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1964851,
+   "uin": "47001",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, how many companies bidding for procurement and tendering opportunities in his Department have been (a) excluded from the process and (b) requested to give an action plan due to n",
+   "dateTabled": "2026-11-26T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1964849,
+   "uin": "46999",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Defence, how many companies bidding for procurement and tendering opportunities in his Department have been (a) excluded from the process and (b) requested to give an action plan due to not meeting payment performance req",
+   "dateTabled": "2026-11-26T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1964848,
+   "uin": "46998",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for the Home Department, how many companies bidding for procurement and tendering opportunities in his Department have been (a) excluded from the process and (b) requested to give an action plan due to not meeting payment per",
+   "dateTabled": "2026-11-26T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1964847,
+   "uin": "46997",
+   "heading": null,
+   "questionText": "To ask the Chancellor of the Exchequer, how many companies bidding for procurement and tendering opportunities in his Department have been (a) excluded from the process and (b) requested to give an action plan due to not meeting payment performance requir",
+   "dateTabled": "2026-11-26T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1964846,
+   "uin": "46996",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Health and Social Care, in financial years 2023/24, 2024/25 and 2025/26, how many companies bidding for procurement and tendering opportunities in his Department have been (a) excluded from the process and (b) requested t",
+   "dateTabled": "2026-11-26T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1964845,
+   "uin": "46995",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, how many companies bidding for procurement and tendering opportunities in his Department have been (a) excluded from the process and (b) requested to give an action plan due ",
+   "dateTabled": "2026-11-26T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1964844,
+   "uin": "46994",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Work and Pensions, how many companies bidding for procurement and tendering opportunities in his Department have been (a) excluded from the process and (b) requested to give an action plan due to not meeting payment perfo",
+   "dateTabled": "2026-11-26T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1964843,
+   "uin": "46993",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Transport, how many companies bidding for procurement and tendering opportunities in his Department have been (a) excluded from the process and (b) requested to give an action plan due to not meeting payment performance r",
+   "dateTabled": "2026-11-26T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1964842,
+   "uin": "46992",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, how many companies bidding for procurement and tendering opportunities in his Department have been (a) excluded from the process and (b) requested to give an action plan due to not meeting pa",
+   "dateTabled": "2026-11-26T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1964841,
+   "uin": "46991",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Education, how many companies bidding for procurement and tendering opportunities in his Department have been (a) excluded from the process and (b) requested to give an action plan due to not meeting payment performance r",
+   "dateTabled": "2026-11-26T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1964840,
+   "uin": "46990",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, how many companies bidding for procurement and tendering opportunities in his Department have been (a) excluded from the process and (b) requested to give an action plan due to not meeti",
+   "dateTabled": "2026-11-26T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1964839,
+   "uin": "46989",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, how many companies bidding for procurement and tendering opportunities in his Department have been (a) excluded from the process and (b) requested to give an action plan due to not",
+   "dateTabled": "2026-11-26T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1964838,
+   "uin": "46988",
+   "heading": null,
+   "questionText": "To ask the Minister for the Cabinet Office, how many companies bidding for procurement and tendering opportunities in his Department have been (a) excluded from the process and (b) requested to give an action plan due to not meeting payment performance re",
+   "dateTabled": "2026-11-26T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1964837,
+   "uin": "46987",
+   "heading": null,
+   "questionText": "To ask the Attorney General, how many companies bidding for procurement and tendering opportunities in his Department have been (a) excluded from the process and (b) requested to give an action plan due to not meeting payment performance requirements as p",
+   "dateTabled": "2026-11-26T00:00:00",
+   "answeringBodyName": "Attorney General's Office"
+  }
+ ],
+ "historyComplete": true
+}

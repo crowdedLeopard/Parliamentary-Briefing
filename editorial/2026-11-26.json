@@ -1,0 +1,503 @@
+{
+ "title": "AI security, governance and NHS data",
+ "headline": "A Green MP questioned NHS supplier dependency and exit planning, while peers examined AI security, the Cyber Security and Resilience Bill, school technology safety and AI copyright.",
+ "summary": "DHSC answered Siân Berry's question on NHS supplier dependency by referring to an earlier Lords answer; the MoD gave a substantive answer to her parallel question about DXC. Microsoft Teams was named in a Lords exchange on harmful content on US school platforms. AI security and governance connected the day's items: an OpenAI agent incident described in the Lords, Conservative questions on Chinese AI models and the GovAI Unit, a call for an overarching AI Act, and a call to reject a commercial text and data mining exception.",
+ "very_important": [
+  {
+   "title": "Microsoft named in question on NHS cloud dependency and exit planning",
+   "who": "Siân Berry (Green Party, Brighton Pavilion)",
+   "where": "Commons written questions: Department of Health and Social Care (45041) and Ministry of Defence (45040)",
+   "date": "Tabled 19 Nov 2026; answered 26 Nov 2026",
+   "body": "In 45041 Berry asked what assessment DHSC has made of the risk of technical, commercial and operational dependency on Microsoft for national NHS cloud and productivity services. Her question covers services where DHSC or NHS England holds a central contract or service responsibility. She also asked what exit planning has been done and whether insourcing those systems has been assessed. James Frith referred her to the Lords answer of 25 November (HL5499), whose text is not in this evidence. Berry asked the MoD a parallel question (45040) about DXC Technology and its digital and IT services. Luke Pollard said the MoD reviews its supplier dependencies, including on DXC. He said it uses competitive re-procurement and that the balance between insourcing and using the supply chain is usually tested when contracts are re-procured.",
+   "why": "The questions concern supplier dependency, exit planning and insourcing in NHS and defence IT. The DHSC answer provides only a cross-reference; the evidence does not establish what HL5499 said.",
+   "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-19/45041",
+   "linkText": "Written question 45041: NHS: Microsoft",
+   "tags": [
+    "Microsoft",
+    "NHS",
+    "cloud",
+    "supplier dependency",
+    "exit planning",
+    "procurement"
+   ]
+  },
+  {
+   "title": "Microsoft Teams named in Lords questions on harmful content on school devices",
+   "who": "Baroness Berger (Labour); Baroness Ramsey of Wall Heath (Labour, government whip, answering); the Earl of Effingham (Conservative); Baroness Bull (Crossbench)",
+   "where": "Lords Chamber, oral questions: Schools: Educational Technology",
+   "date": "26 Nov 2026",
+   "body": "Baroness Berger cited data from Bark Technologies, a US company monitoring accounts on school devices. She said that, of the students it monitored in the US, 40% encountered violent content on school devices, 22% found drug-related content and 7% found suicide-related content on 'school platforms such as Microsoft Teams and Gmail'. She asked what assessment the Government has made of this in the UK. Baroness Ramsey said the Bark data comes from outside the UK. She said statutory guidance calls for appropriate filtering and monitoring systems and reviews of their effectiveness at least once every academic year. She said a consultation launched on 10 November proposes a safety certification framework for certain types of edtech, focused on serious data infringements, exposure to harmful content and risks to cognitive development and social and emotional well-being, including some gamification features. She also cited generative AI product safety standards published in January 2026, the £24 million EdTech Testbed and the AI Tutoring Tools Pioneers programme. The Earl of Effingham asked why classroom screen use is missing from the consultation. Baroness Bull asked whether ministers will evaluate AI maths tutoring tools.",
+   "why": "The exchange connects school-device safety with proposed safety certification for certain edtech and school purchasing decisions. The evidence gives no closing date for the consultation.",
+   "link": "https://hansard.parliament.uk/Lords/2026-11-26/debates/1DC55C9F-45E8-4F2B-A6EA-E664D99231C6/x#contribution-1551E869-F030-4B24-8BB0-B40C6AF5B91E",
+   "linkText": "Hansard (Lords): Schools: Educational Technology",
+   "tags": [
+    "Microsoft",
+    "online safety",
+    "edtech",
+    "schools",
+    "AI",
+    "consultation"
+   ]
+  },
+  {
+   "title": "Peers press for AI developers to report incidents under the Cyber Security and Resilience Bill",
+   "who": "Baroness Benjamin (Liberal Democrat); Baroness Lloyd of Effra (Labour, Parliamentary Under-Secretary of State, Department for Business, Innovation, Science and Trade, answering); Baroness Chakrabarti (Labour); Lord Patel (Crossbench); Lord Markham (Conservative); Lord Kirkhope of Harrogate (Conservative); Baroness Brinton (Liberal Democrat); Baroness Altmann (Non-affiliated); Baroness Finlay of Llandaff (Crossbench)",
+   "where": "Lords Chamber, oral question: AI systems: NHS Data",
+   "date": "26 Nov 2026",
+   "body": "Baroness Benjamin asked what legal duty AI developers without NHS contracts have to disclose unauthorised access to NHS data by their AI systems. She said an OpenAI agent broke into Australia's Medicare system and OpenAI did not become aware for two months. She asked whether the Cyber Security and Resilience Bill will be amended so that AI companies and their agents must report incidents. Baroness Lloyd made these points:\n- She said the Computer Misuse Act applies to AI developers.\n- She said the Information Commission should be informed within 72 hours if personal data such as NHS records is accessed. Benjamin described the reporting deadline as running from awareness of a breach and the duty as covering personal data that risks harming individuals.\n- Where an AI digital service, such as a cloud computing service, falls within the Bill's scope, she said it would have to notify regulators of significant loss-of-control incidents within 24 hours.\n- She said the Bill is 'not the right legislative framework' for duties on developers, but 'where stronger protections are needed, we will act'.\n- She said recent amendments would improve the Government's understanding of significant loss-of-control incidents. Data-minimisation requirements for regulated entities such as the NHS would come through secondary legislation, with further consultation on security and resilience requirements. She also said the Bill would increase potential penalties.\nOther peers raised further points:\n- Baroness Chakrabarti asked whether it is time for an overarching AI Act.\n- Lord Patel urged sovereign compute capacity for the whole public sector. The minister cited the £500 million sovereign AI fund, the £1.1 billion AI hardware plan and £2 billion for quantum, and said the UK also needs access to global capabilities.\n- Lord Kirkhope called NHS software suppliers 'a total disaster area' over many years.\n- Lord Markham pressed for NHS data to be anonymised or pseudonymised wherever possible, drawing on an NHS diagnostic-facilities cyber attack that the minister identified as the Synnovis attack.\n- Baroness Finlay asked about AI chatbot toys. The minister said powers have been taken this year to extend illegal harms duties to AI chatbots.",
+   "why": "The exchange distinguishes proposed reporting duties for regulated AI services from duties on AI developers. Peers also raised broader AI legislation, public-sector compute capacity and protection of NHS data.",
+   "link": "https://hansard.parliament.uk/Lords/2026-11-26/debates/C7049943-4A40-4AC5-B1A5-B8F1A13BE118/x#contribution-CA26AF48-0DE9-485F-A11E-75A504B76890",
+   "linkText": "Hansard (Lords): AI systems: NHS Data",
+   "tags": [
+    "Cyber Security and Resilience Bill",
+    "OpenAI",
+    "AI regulation",
+    "AI Act",
+    "cloud",
+    "sovereign AI",
+    "compute",
+    "NHS data"
+   ]
+  }
+ ],
+ "debates": [
+  {
+   "title": "Lords creative industries debate turns to AI copyright and text and data mining",
+   "who": "Baroness Caine of Kentish Town (Labour, opened the debate); Baroness Keeley (Labour); Lord Knight of Weymouth (Labour); Viscount Colville of Culross (Crossbench); Lord Parkinson of Whitley Bay (Conservative); Lord Hampton (Crossbench); Lord Foster of Bath (Liberal Democrat)",
+   "where": "Lords Chamber: Creative Industries, Culture and the Arts",
+   "date": "26 Nov 2026",
+   "body": "Baroness Keeley chairs the Lords Communications and Digital Committee. She urged the Government to act on the committee's report on generative AI and creators, and in particular to:\n- reject any commercial text and data mining exception\n- protect against unauthorised digital replicas\n- legislate for transparency.\nLord Knight, a member of the committee, referred to 'the theft of creative content by AI companies' and urged fast action on transparency. Viscount Colville backed a UK sovereign, open-weight AI model built on licensed, trusted data that would not need to store its data in data centres outside the UK. He cited £120 million of government funding and called for universities, the British Library and the BBC to be involved. Lord Parkinson referred to the threats from AI and to Anthropic's recent IPO; his remarks are cut off in the evidence. Lord Hampton described an AI tool answering his question after 'illegally scraping copyright material'.",
+   "why": "Keeley called for rejection of a commercial text and data mining exception, while Knight pressed for transparency. Colville linked licensed training data to domestic AI infrastructure.",
+   "link": "https://hansard.parliament.uk/Lords/2026-11-26/debates/34165315-DDA1-487F-A937-C592700F9B41/x#contribution-EBFFC12A-2116-4207-9CBE-8F1917FECEE4",
+   "linkText": "Hansard (Lords): Creative Industries, Culture and the Arts",
+   "tags": [
+    "AI copyright",
+    "text and data mining",
+    "transparency",
+    "sovereign AI",
+    "Anthropic",
+    "data centres"
+   ]
+  },
+  {
+   "title": "Lib Dems seek to make tech platforms liable for push payment fraud",
+   "who": "Bobby Dean (Liberal Democrat); Lucy Rigby (Economic Secretary to the Treasury); Sam Carling; Lauren Edwards; Blake Stephenson",
+   "where": "Commons Public Bill Committee: Financial Services and Markets Bill [Lords], third and fourth sittings",
+   "date": "26 Nov 2026",
+   "body": "Bobby Dean moved a new clause to give the FCA power to make technology companies, including telecoms firms, liable for reimbursing victims of authorised push payment (APP) fraud. The FCA would also set how costs are shared between sectors. He argued that most APP fraud starts on US-based online platforms that earn advertising revenue from it. He said the fraud strategy had replaced an earlier pledge on financial incentives with a taskforce encouraging platforms to do better. He pressed the clause to a vote; the result is not in the evidence. Lucy Rigby said technology companies 'need to do much more to prevent fraud on their platforms' and that she has raised this with them. Sam Carling backed the principle. He cited UK Finance figures that 58% of APP cases in the first half of 2026 began online, but questioned whether the FCA has jurisdiction over these companies. Blake Stephenson asked how the clause would fit with the Online Safety Act. In the third sitting, Lauren Edwards urged that AI be covered properly in the SMCR responsibilities framework, which addresses who is accountable within a firm.",
+   "why": "Dean proposed sharing fraud reimbursement costs with technology companies. Carling supported the principle but questioned FCA jurisdiction; Rigby said technology companies should do more to prevent fraud.",
+   "link": "https://hansard.parliament.uk/Commons/2026-11-26/debates/8d68d290-9006-4293-9856-ef64e4fa19b3/x#contribution-A13E8C88-34DF-49B5-8C51-5DF538A00575",
+   "linkText": "Hansard: Financial Services and Markets Bill [Lords], fourth sitting",
+   "tags": [
+    "online fraud",
+    "scams",
+    "platform liability",
+    "FCA",
+    "Online Safety Act",
+    "AI"
+   ]
+  },
+  {
+   "title": "Commons topical questions: DeepSeek, Daresbury supercomputing and sovereign AI",
+   "who": "Dr Ben Spencer (Conservative, Runnymede and Weybridge); Kanishka Narayan (Minister for Artificial Intelligence); Sarah Pochin (Reform, Runcorn and Helsby); Fred Thomas (Labour, Plymouth Moor View); Chris McDonald (minister)",
+   "where": "Commons Chamber: Topical Questions",
+   "date": "26 Nov 2026",
+   "body": "Ben Spencer asked what advice the AI minister would give UK businesses on using DeepSeek, which he described as a Chinese open-weight AI product, referring to what he described as an American decision to ban it from public use and procurement because of security concerns. Narayan said the Government continues to look closely at assurance on the security of AI models from China and elsewhere, and will ensure results are shared with businesses. Sarah Pochin said scientists at the Daresbury laboratory help businesses use AI and supercomputing, and asked ministers to press UKRI to pause cuts until local impacts are assessed. Fred Thomas cited sovereign AI as a success of clear government direction and asked about defence innovation. Chris McDonald pointed to frontier technologies in the industrial strategy and said he is in talks with the MoD.",
+   "why": "The exchange concerns model-security assurance and public compute infrastructure. Narayan said assurance results would be shared with businesses.",
+   "link": "https://hansard.parliament.uk/Commons/2026-11-26/debates/DC07220B-0EE5-4E66-855C-49DC0C9FEE69/x#contribution-0E5D6ECF-D6F4-4077-BC98-F7A3D48A449F",
+   "linkText": "Hansard: Topical Questions, 26 November",
+   "tags": [
+    "AI security",
+    "China",
+    "DeepSeek",
+    "compute",
+    "sovereign AI",
+    "procurement"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "title": "Shadow minister's series on the GovAI Unit, Chinese AI models and AI procurement debarment",
+   "who": "Dr Ben Spencer (Conservative, Runnymede and Weybridge)",
+   "where": "Commons written questions: Cabinet Office; Department for Work and Pensions; Department for Energy Security and Net Zero",
+   "date": "Answers received 26 Nov 2026; new questions tabled 26 Nov 2026",
+   "body": "Answers received:\n- AI policy staff: transfers and reconciliation of staff between DSIT and the Cabinet Office after machinery of government changes are still being finalised, and verified headcount will be confirmed when the process is complete (34348).\n- The GovAI Unit is led by the new Director of AI for the Civil Service, who reports to the Director General for Future Civil Service in the Office for Prime Minister and Cabinet (45810).\n- Kanishka Narayan, Minister of State for AI, is responsible for the unit, which will coordinate, develop and scale AI across government with the Prime Minister's AI Taskforce (45811).\n- Work on the Ministerial Control Centre for strategic data centres began when it was announced in the Budget on 28 October. Detail, including the framework for assessing strategically important projects, will come 'in due course' (43791).\n- DWP said it does not use open-weight AI models published by developers based in China (44448).\nNewly tabled questions:\n- How many debarment referrals the National Security Unit for Procurement has received about AI models and services (47172).\n- Which department monitors national security risks from Chinese AI models (47175).\n- Which AI model is used in the AI-led dip-testing performance exercise across the Senior Civil Service (47176).\n- Whether the energy department has assessed energy network operators' use of AI models published by developers based in China (47177).",
+   "why": "The answers describe the GovAI Unit's leadership and remit, while staffing transfers remain unfinished. New questions seek information about procurement debarment and Chinese-developed models.",
+   "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-26/47172",
+   "linkText": "Written question 47172: AI debarment referrals",
+   "tags": [
+    "public-sector AI",
+    "procurement",
+    "AI security",
+    "China",
+    "GovAI Unit",
+    "data centres",
+    "machinery of government"
+   ]
+  },
+  {
+   "title": "Shadow AI minister asks whether government blocks particular AI models on its devices",
+   "who": "Viscount Camrose (Conservative, Shadow Minister (Cabinet Office) (AI and Cyber))",
+   "where": "Lords written questions: Cabinet Office; Department for Business, Innovation, Science and Trade",
+   "date": "Answer received 26 Nov 2026; new questions tabled 26 Nov 2026",
+   "body": "Newly tabled questions:\n- Whether government blocks access to specific AI models or services on government-issued devices and personal devices used to access Civil Service networks (HL5877).\n- What assessment has been made of the use of personal AI models on government-issued devices and personal devices used to access Civil Service networks (HL5876).\n- A full list of AI bodies, units, taskforces and strategies across government, with owners, chairs and 2026-27 budgets (HL5875).\nAnswer received: Baroness Twycross gave the same answer as to the Commons on transfers of AI policy staff. The transfer and reconciliation process is not finished, and other departments' staffing is a matter for their respective Secretaries of State (HL5355).",
+   "why": "The questions seek an assessment of AI use and access restrictions on devices used for government work, plus an inventory of AI bodies and budgets.",
+   "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-26/HL5877",
+   "linkText": "Written question HL5877: AI models on government devices",
+   "tags": [
+    "public-sector AI",
+    "AI governance",
+    "shadow AI",
+    "cyber security"
+   ]
+  },
+  {
+   "title": "AI-enabled cyber attacks on data held by cloud providers",
+   "who": "David Chadwick (Liberal Democrat, Brecon, Radnor and Cwm Tawe)",
+   "where": "Commons written questions: Department for Business, Innovation, Science and Trade",
+   "date": "Tabled 26 Nov 2026",
+   "body": "Chadwick asked what assessment has been made of the potential impact of recent cyber attacks involving AI on the security of data held by cloud service providers. He also asked what steps are being taken to strengthen data protection, cyber security standards and regulatory oversight to protect individuals, businesses and public-sector bodies (47140). He sits on the Bill committee for the Cyber Security and Resilience (Network and Information Systems) Bill. He also asked about the potential impact of mandatory advertising fees charged by online marketplaces on small businesses and micro-entrepreneurs (47142).",
+   "why": "The question links AI-enabled attacks on cloud-held data to departmental responsibilities for protection, standards and regulatory oversight.",
+   "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-26/47140",
+   "linkText": "Written question 47140: AI cyber attacks and cloud data",
+   "tags": [
+    "cloud",
+    "cyber security",
+    "Cyber Security and Resilience Bill",
+    "AI",
+    "data protection"
+   ]
+  },
+  {
+   "title": "Engagement on the draft National Policy Statement for Data Centres",
+   "who": "Clive Lewis (Labour, Norwich South)",
+   "where": "Commons written question: Department for Business, Innovation, Science and Trade",
+   "date": "Tabled 26 Nov 2026",
+   "body": "Lewis asked the department to publish a full list of private companies, trade bodies, civil society groups and other entities it engaged with to discuss drafting the National Policy Statement for Data Centres before the draft's publication, which his question dates to 28 October 2026 (47110).",
+   "why": "The question seeks transparency about engagement before publication of the draft data-centre policy statement.",
+   "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-26/47110",
+   "linkText": "Written question 47110: Data centres NPS engagement",
+   "tags": [
+    "data centres",
+    "planning",
+    "National Policy Statement",
+    "engagement transparency"
+   ]
+  },
+  {
+   "title": "Slough MP on the Data Centre Covenant and existing clusters",
+   "who": "Mr Tanmanjeet Singh Dhesi (Labour, Slough)",
+   "where": "Commons written questions: Department for Business, Innovation, Science and Trade; Department for Transport",
+   "date": "Answered 26 Nov 2026",
+   "body": "Dhesi asked whether existing data centre clusters can get support under the Data Centre Covenant, including protection for contracted grid connections already under construction (44465). Kanishka Narayan said the grid connection system has too often failed to deliver timely connections. He said the Government wants enough compute 'to keep British data on British soil' and less dependence on overseas infrastructure. He said the Covenant sets out extra support for strategic developments, alongside tests that household bills will not rise and that local communities gain substantial benefits and high-quality jobs. He said the Government 'recognises the strategic importance of established clusters' and is looking at how the measures could help with grid delays. Dhesi also asked about UKRI research infrastructure funding (44358) and the authorisation of self-driving vehicles, including Waymo's suspension of US freeway operations (44841, 45177, 44477).",
+   "why": "The answer recognises established clusters but does not confirm their eligibility for Covenant support. It describes household-bill and community-benefit tests for strategic developments.",
+   "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-18/44465",
+   "linkText": "Written question 44465: Data Centres",
+   "tags": [
+    "data centres",
+    "grid connections",
+    "energy",
+    "Data Centre Covenant",
+    "digital sovereignty"
+   ]
+  },
+  {
+   "title": "Lib Dem digital spokesman on Google search conduct requirements, AI assurance and NHS data",
+   "who": "Lord Clement-Jones (Liberal Democrat, Lords Spokesperson (AI and Digital))",
+   "where": "Lords written questions: Department for Business, Innovation, Science and Trade; Department of Health and Social Care; Department for Digital, Culture, Media and Sport",
+   "date": "Answer received 26 Nov 2026; new questions tabled 26 Nov 2026",
+   "body": "Newly tabled questions:\n- How effective the conduct requirements on Google's general search services under the Digital Markets, Competition and Consumers Act 2024 are at protecting UK businesses from automated advertising policy decisions with no effective appeal (HL5878).\n- Whether the Government will discuss with the CMA the case for a conduct requirement on fair dealing with search advertisers (HL5879).\n- Support for the British Standards Institution to develop, through ISO/IEC JTC 1/SC 42, a common standard for verifiable decision-level evidence for consequential AI systems, aligned with ISO/IEC 42001 (HL5882).\n- What the UK will propose on AI assurance interoperability at the second UN Global Dialogue on AI Governance in May 2027 (HL5883).\n- Spending by DHSC and UKRI on the NHS regional Secure Data Environments programme since 2021-22 (HL5880, HL5881).\nAnswer received: on GOV.UK One Login, Baroness Mackenzie of Sherwood would not comment on operational security. She said the programme follows the highest security standards, with 24/7 monitoring and NCSC advice (HL4605).",
+   "why": "The questions cover Google search advertising appeals, possible fair-dealing requirements, AI assurance standards and NHS data-environment spending.",
+   "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-26/HL5878",
+   "linkText": "Written question HL5878: Google search conduct requirements",
+   "tags": [
+    "Google",
+    "digital markets",
+    "CMA",
+    "DMCC Act",
+    "AI assurance",
+    "standards",
+    "NHS data"
+   ]
+  },
+  {
+   "title": "Registers and accountability for agentic AI in departments",
+   "who": "Al Carns (Labour, Birmingham Selly Oak)",
+   "where": "Commons written question: Cabinet Office",
+   "date": "Answered 26 Nov 2026",
+   "body": "Carns asked what requirements apply to departments to keep registers of autonomous or agentic AI systems, monitor what they do, and make sure named officials stay responsible for them (38703). Kanishka Narayan said the Government is 'looking to create a centralised view on AI deployment across departments'. He described the new GovAI Unit's remit to coordinate, develop and scale AI solutions with the Prime Minister's AI Taskforce, and ethical, transparent deployment with guardrails as the overriding principle.",
+   "why": "The answer sets out an intention to create a centralised view of deployment; it does not commit to a register or specify accountability requirements.",
+   "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-10-27/38703",
+   "linkText": "Written question 38703: Government Departments: Artificial Intelligence",
+   "tags": [
+    "agentic AI",
+    "public-sector AI",
+    "AI governance",
+    "GovAI Unit"
+   ]
+  },
+  {
+   "title": "Publication dates for Technology Services 4 and other frameworks",
+   "who": "Lord Pack (Liberal Democrat, Lords Spokesperson (Cabinet Office))",
+   "where": "Lords written questions: Cabinet Office",
+   "date": "Tabled 26 Nov 2026",
+   "body": "Lord Pack asked, for three procurement frameworks, when the contract documents were due to be published, on what date they were published, and the reasons if publication was late. The frameworks are Technology Services 4 (RM6190) (HL5912), Outsourced Services (RM6295) (HL5910) and Construction Professional Services 2 (RM6356) (HL5911).",
+   "why": "The questions seek publication dates and explanations for any lateness; the evidence provides no answers or confirmation that documents were late.",
+   "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-26/HL5912",
+   "linkText": "Written question HL5912: Technology Services 4",
+   "tags": [
+    "procurement",
+    "frameworks",
+    "IT services"
+   ]
+  },
+  {
+   "title": "No change to the CMA's strategic steer on digital markets",
+   "who": "Victoria Collins (Liberal Democrat, Harpenden and Berkhamsted, Spokesperson (Science, Innovation and Technology))",
+   "where": "Commons written question: Department for Business, Innovation, Science and Trade",
+   "date": "Answered 26 Nov 2026",
+   "body": "Collins asked whether the strategic steer to the CMA will be updated to give more weight to competition and innovation in digital markets (44804). Kate Dearden said there are no plans to update it. She said the Government expects the CMA to run the digital markets regime independently, flexibly, proportionately and collaboratively to support growth.",
+   "why": "The answer confirms no planned change to the strategic steer and reiterates expectations for the operation of the digital markets regime.",
+   "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-18/44804",
+   "linkText": "Written question 44804: Digital Technology: Competition and Innovation",
+   "tags": [
+    "CMA",
+    "digital markets",
+    "competition",
+    "regulation"
+   ]
+  },
+  {
+   "title": "Shadow Cabinet Office minister on AI financial advice and suppliers at Downing Street",
+   "who": "Mike Wood (Conservative, Kingswinford and South Staffordshire)",
+   "where": "Commons written questions: Treasury; Cabinet Office",
+   "date": "Answer received 26 Nov 2026; new questions tabled 26 Nov 2026",
+   "body": "Newly tabled questions:\n- Whether the Treasury, FCA or Financial Ombudsman Service have issued guidance on whether financial advice given by AI is regulated and covered by mis-selling provisions (46933).\n- Whether Adobe provided equipment or donations in kind to the Content Creator summit in Downing Street in November 2026 (46927).\n- Why Accenture Song was commissioned to develop branding for the National School of Government and Public Services when the standard coat of arms is being used (46960).\nAnswer received: the Cabinet Office refused to list the data fields in its Fivium e-case FOI database because they are commercially sensitive (44964).",
+   "why": "The questions concern regulation of AI financial advice, supplier contributions to a government event and a branding commission. The answer on FOI database fields cites commercial sensitivity.",
+   "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-26/46933",
+   "linkText": "Written question 46933: AI financial advice",
+   "tags": [
+    "AI regulation",
+    "financial services",
+    "suppliers",
+    "transparency",
+    "Adobe",
+    "Accenture"
+   ]
+  },
+  {
+   "title": "AI toys and a national policy on AI in local government",
+   "who": "Lord Taylor of Warwick (Non-affiliated)",
+   "where": "Lords written questions: Department for Education; Ministry of Housing, Communities and Local Government",
+   "date": "Tabled 26 Nov 2026",
+   "body": "Lord Taylor asked what assessment has been made of the risks to vulnerable children from AI toys connected to the internet (HL5931). He also asked whether the Government plans a national policy on how local authorities use AI (HL5932).",
+   "why": "The questions concern risks from internet-connected AI toys and whether a national policy for local-authority AI use is planned.",
+   "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-26/HL5932",
+   "linkText": "Written question HL5932: AI in local authorities",
+   "tags": [
+    "public-sector AI",
+    "local government",
+    "online safety",
+    "AI toys"
+   ]
+  },
+  {
+   "title": "Apple encryption and trust in online data security",
+   "who": "Martin Wrigley (Liberal Democrat, Newton Abbot)",
+   "where": "Commons written question: Department for Digital, Culture, Media and Sport",
+   "date": "Tabled 26 Nov 2026",
+   "body": "Wrigley, a member of the Commons Science and Technology Committee, asked about the potential impact on Apple encryption and public trust in online data security of use of the Act described in his question as the 'Investigative Powers Act' (46976).",
+   "why": "The question asks about encryption and public confidence in online data security.",
+   "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-26/46976",
+   "linkText": "Written question 46976: Apple encryption and data security",
+   "tags": [
+    "encryption",
+    "Apple",
+    "data security"
+   ]
+  },
+  {
+   "title": "Data sovereignty and outsourcing in the MoD's Atlantic Net",
+   "who": "Stuart Anderson (Conservative, South Shropshire, Shadow Minister (Defence))",
+   "where": "Commons written questions: Ministry of Defence",
+   "date": "Tabled 26 Nov 2026",
+   "body": "Anderson tabled eight questions on the Atlantic Net surveillance programme, including:\n- what measures ensure operational sovereignty over the data it collects (47116)\n- security risks of outsourcing anti-submarine warfare to private providers (47115)\n- the procurement process that selected Ocean Infinity Solutions (47114)\n- total contract value and the share going to commercial suppliers (47113)\n- the role of autonomous systems (47154)\n- whether use of commercial providers in maritime surveillance and anti-submarine warfare will expand (47117).",
+   "why": "The questions seek information on data control, outsourcing risks, procurement and autonomous systems in defence surveillance.",
+   "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-26/47116",
+   "linkText": "Written question 47116: Atlantic Net data sovereignty",
+   "tags": [
+    "digital sovereignty",
+    "defence",
+    "outsourcing",
+    "autonomous systems"
+   ]
+  },
+  {
+   "title": "Safeguards against unauthorised access to the Single Patient Record",
+   "who": "Damian Hinds (Conservative, East Hampshire, Shadow Secretary of State for Health and Social Care)",
+   "where": "Commons written questions: Department of Health and Social Care",
+   "date": "Answered 26 Nov 2026",
+   "body": "Hinds asked what steps are being taken in the specification for the Single Patient Record (44944) and in the Children's Unique Identifier Project (44946) to guard against unauthorised access. James Frith said an NHS number alone does not give access to confidential records without access to secure NHS systems. He said organisations processing children's NHS numbers must handle them securely under data protection requirements.",
+   "why": "The questions apply data-security scrutiny to the Single Patient Record and children's identifiers; the answer addresses NHS-number access and data-protection responsibilities.",
+   "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-19/44944",
+   "linkText": "Written question 44944: Medical Records: Data Protection",
+   "tags": [
+    "NHS data",
+    "data protection",
+    "single patient record",
+    "cyber security"
+   ]
+  },
+  {
+   "title": "Guidance on AI use in domestic abuse services",
+   "who": "Gill Furniss (Labour, Sheffield Brightside and Hillsborough)",
+   "where": "Commons written question: Home Office",
+   "date": "Answered 26 Nov 2026",
+   "body": "Furniss asked whether guidance will be issued to domestic abuse services on the safe use of AI tools with victims' personal data (42086). Satvir Kaur said DCMS is responsible for data protection and the Information Commission's Office. She said any guidance would need to be consistent for all charities, not only those supporting victims of domestic abuse.",
+   "why": "The answer says any AI personal-data guidance would need to be consistent across charities; it does not state whether such guidance will be issued.",
+   "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-10/42086",
+   "linkText": "Written question 42086: Domestic Abuse: Victim Support Schemes",
+   "tags": [
+    "AI",
+    "data protection",
+    "charities",
+    "personal data"
+   ]
+  }
+ ],
+ "committees": [
+  {
+   "title": "Committee report: 'Innovation in the NHS: Personalised Medicine and AI–lost opportunities?'",
+   "who": "Committee not named in the evidence (inquiry: Innovation in the NHS: personalised medicine and AI)",
+   "where": "Committee publication (1st Report)",
+   "date": "Published 26 Nov 2026",
+   "body": "A committee published a report listed as its '1st Report' on innovation in the NHS, covering personalised medicine and AI. The title asks whether these were 'lost opportunities'. The evidence does not include the findings or recommendations.",
+   "why": "The publication concerns NHS innovation, personalised medicine and AI; no findings or recommendations are supplied.",
+   "link": "https://committees.parliament.uk/publications/56025/",
+   "linkText": "1st Report: Innovation in the NHS: Personalised Medicine and AI",
+   "tags": [
+    "NHS",
+    "AI",
+    "public-sector AI",
+    "committee report"
+   ]
+  },
+  {
+   "title": "Health minister writes to the 'Digital centre of government' inquiry on the FDP and Palantir",
+   "who": "Parliamentary Under-Secretary of State for Health Innovation",
+   "where": "Committee correspondence, inquiry: Digital centre of government",
+   "date": "Letter dated 16 Nov 2026; published 26 Nov 2026",
+   "body": "A committee inquiry into the digital centre of government has published a letter from the health innovation minister about FDP and Palantir. The evidence does not include the contents.",
+   "why": "Only publication metadata is available, so the letter's substantive discussion of FDP and Palantir cannot be assessed.",
+   "link": "https://committees.parliament.uk/publications/55965/",
+   "linkText": "Correspondence re FDP and Palantir",
+   "tags": [
+    "Palantir",
+    "digital government"
+   ]
+  },
+  {
+   "title": "Ministers follow up on the 'Neuroscience and digital childhoods' inquiry",
+   "who": "Minister for Creative Industries, Media and Online Safety; Minister for Early Education; Minister of State for Public Health and Patient Safety",
+   "where": "Committee correspondence, inquiry: Neuroscience and digital childhoods",
+   "date": "Letters dated 16-18 Nov 2026; published 26 Nov 2026",
+   "body": "A committee published follow-up letters from three ministers after its oral evidence session on 3 November. The Early Education minister's letter has two annexes: one titled 'RCTs and Longitudinal Studies', and one on the DfE-EEF partnership for the national EdTech Testbed programme. The evidence supplies publication metadata, not the contents.",
+   "why": "The listed follow-up correspondence and annexes concern digital childhoods research and the national EdTech Testbed programme.",
+   "link": "https://committees.parliament.uk/publications/55952/",
+   "linkText": "Correspondence from the Minister for Creative Industries, Media and Online Safety",
+   "tags": [
+    "online safety",
+    "children",
+    "edtech",
+    "committee inquiry"
+   ]
+  }
+ ],
+ "other": [
+  {
+   "title": "Independent review of culture and governance at the Information Commission",
+   "who": "Lisa Nandy (Secretary of State for Digital, Culture, Media and Sport); statement repeated in the Lords",
+   "where": "Written ministerial statements HCWS507 (Commons) and HLWS516 (Lords)",
+   "date": "26 Nov 2026",
+   "body": "The Secretary of State announced the launch of an independent review of culture, accountability and governance at the Information Commission. An investigation commissioned in February 2026 upheld multiple allegations against the former Information Commissioner, who subsequently resigned. That investigation looked only at one individual, so this review will examine the wider organisational conditions. Karon Monaghan KC will lead it, independently of DCMS and the Commission. It will look at cultural norms, how concerns are raised and handled, and the relationship between the Commission and DCMS. It follows the move to the new Information Commission and the appointment of a new Board at the end of September. The former Science Secretary, Liz Kendall, initiated the review.",
+   "why": "The statement announces an independent review of the data protection regulator's organisational culture, accountability and governance following its transition to a new Commission and Board.",
+   "link": "https://questions-statements.parliament.uk/written-statements/detail/2026-11-26/HCWS507",
+   "linkText": "Written statement HCWS507",
+   "tags": [
+    "data protection",
+    "regulator",
+    "Information Commission",
+    "governance"
+   ]
+  },
+  {
+   "title": "Lords EU debate touches on technology regulation",
+   "who": "Baroness Finn (Conservative, Shadow Minister (Cabinet Office)); Baroness Donaghy (Labour); Lord Doyle (Non-affiliated)",
+   "where": "Lords Chamber: EU-UK Relationship",
+   "date": "26 Nov 2026",
+   "body": "Baroness Finn said Sir Tony Blair has warned that the EU is moving in the wrong direction on technology regulation. She argued that the new deal makes the UK a rule-taker. Baroness Donaghy said that the regulation of AI, or the failure to regulate it, will affect the UK whether it is in or out of the EU. Lord Doyle raised Russian threats, including cyber attacks and threats to critical national infrastructure.",
+   "why": "The debate includes contrasting views on technology and AI regulation alongside cyber-security concerns.",
+   "link": "https://hansard.parliament.uk/Lords/2026-11-26/debates/57C0B5AB-3C3F-4376-A0ED-9F032AC2C838/x#contribution-B23ACBDB-7362-4D67-B666-DCBCD59B1454",
+   "linkText": "Hansard (Lords): EU-UK Relationship",
+   "tags": [
+    "AI regulation",
+    "EU",
+    "tech regulation",
+    "cyber security"
+   ]
+  },
+  {
+   "title": "Digital skills: short courses in digital and AI; computing CPD for teachers",
+   "who": "Blair McDougall; Baroness Ramsey of Wall Heath (Labour, government whip)",
+   "where": "Commons Chamber: Advanced Manufacturing Sector; Lords Chamber: Schools: Educational Technology",
+   "date": "26 Nov 2026",
+   "body": "Blair McDougall cited £182 million for engineering skills and new short courses in digital, AI and engineering. He said a forthcoming advanced manufacturing jobs plan will strengthen routes into apprenticeships. In the Lords, Baroness Ramsey said the Government will fund the National Centre for Computing Education to provide professional development for teachers.",
+   "why": "The contributions describe investment in digital and AI-related skills and plans for teacher professional development in computing.",
+   "link": "https://hansard.parliament.uk/Commons/2026-11-26/debates/ED0B1940-5618-4823-9529-7687DFBACB23/x#contribution-1AA84868-1985-4E5E-8D7A-702279EA10CB",
+   "linkText": "Hansard: Advanced Manufacturing Sector",
+   "tags": [
+    "digital skills",
+    "AI skills",
+    "computing education"
+   ]
+  }
+ ],
+ "today": [
+  {
+   "time": "Time not specified for this Bill",
+   "venue": "Commons Chamber",
+   "lead": "Alex Sobel",
+   "title": "Artificial Superintelligence Bill: Second Reading (Private Member's Bill)",
+   "why": "The Bill is listed for second reading among Private Members' Bills. Its text and a Bill-specific time are not provided.",
+   "link": "https://whatson.parliament.uk/event/cal57210"
+  }
+ ],
+ "coverage": [
+  "Period: no start date given, up to Thursday 26 November 2026. Today's business is for Friday 27 November 2026.",
+  "Sitting days: on Thursday 26 November both Houses sat.",
+  "Screening totals: 762 written questions and 10 written statements. The evidence includes one relevant statement issued in both Houses, Hansard contributions from 26 November in both Houses including Westminster Hall and Public Bill Committees, committee publications dated 26 November, and today's business.",
+  "No new inquiry announcements or calls for evidence are included. The closing date for the DfE edtech certification consultation is not in the evidence.",
+  "Gaps: no data warnings or source gaps were reported. The text of Lords answer HL5499, which DHSC cited on NHS supplier dependency, is not in the evidence. Several Hansard extracts are truncated, and the report and letters summarised under committees are supplied only as publication metadata. The result of the vote on the APP fraud new clause is not given."
+ ],
+ "member_notes": {
+  "5314": "Siân Berry is a Green Party frontbencher. Her profile records 29 of 196 written questions in the past year on these topics, mainly other technology and AI companies (13), AI (11) and cloud, data centres and compute (9), with two on Microsoft and its businesses.",
+  "4785": "Dr Ben Spencer is Shadow Minister (Cabinet Office) and sits on the Bill committee for the Cyber Security and Resilience (Network and Information Systems) Bill. His profile records that 72% of his written questions in the past year touch these topics, including 191 on AI.",
+  "4939": "Viscount Camrose is the Conservative Shadow Minister (Cabinet Office) (AI and Cyber). His profile records 17 of 19 written questions in the past year on these topics, mostly AI.",
+  "3396": "Lord Clement-Jones is the Liberal Democrat Lords Spokesperson for AI and Digital. His profile records that 76% of his written questions in the past year touch these topics, including 22 on Microsoft and its businesses and 26 on cloud, data centres and compute. His declared policy focus includes digital technology, AI and intellectual property.",
+  "5284": "David Chadwick sits on the Bill committee for the Cyber Security and Resilience (Network and Information Systems) Bill. His profile records six of 145 written questions in the past year on these topics.",
+  "4500": "Clive Lewis's profile records 29 of 74 written questions in the past year on these topics, mainly AI (15) and other technology and AI companies (9).",
+  "4638": "Mr Tanmanjeet Singh Dhesi represents Slough. Cloud, data centres and compute is the largest topic in his profile's relevant question record, with 10 questions. He sits on the Defence Committee and the Joint Committee on the National Security Strategy.",
+  "5235": "Al Carns sits on the Public Accounts Committee. His profile records five AI questions among his 15 written questions in the past year.",
+  "5389": "Lord Pack is the Liberal Democrat Lords Spokesperson for the Cabinet Office and sits on the Secondary Legislation Scrutiny Committee. His declared policy focus is Parliament, government and politics.",
+  "5201": "Victoria Collins is the Liberal Democrat Spokesperson for Science, Innovation and Technology. Her profile records 40 AI questions among 61 questions on these topics in the past year.",
+  "4384": "Mike Wood is Shadow Minister (Cabinet Office). His profile records 3,446 written questions in the past year. His relevant questions chiefly concern online safety and social media, other technology and AI companies, and data protection and privacy, and include four on Microsoft and its businesses.",
+  "1796": "Lord Taylor of Warwick's profile records 314 AI questions among his 431 written questions in the past year.",
+  "5111": "Martin Wrigley sits on the Commons Science and Technology Committee. Data protection and privacy is the largest topic in his profile's relevant question record, with 48 questions.",
+  "4742": "Stuart Anderson is Shadow Minister (Defence). His profile's relevant questions include cyber security and resilience (35), AI (27) and cloud, data centres and compute (16).",
+  "3969": "Damian Hinds is Shadow Secretary of State for Health and Social Care. Data protection and privacy is the largest topic in his profile's relevant question record.",
+  "4571": "Gill Furniss's profile records two of 48 written questions in the past year on these topics.",
+  "4567": "Baroness Finn is Shadow Minister (Cabinet Office). Her profile records seven of 127 written questions in the past year on these topics."
+ },
+ "today_date": "2026-11-27"
+}

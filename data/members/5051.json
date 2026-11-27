@@ -1,0 +1,515 @@
+{
+ "id": 5051,
+ "fetchedOn": "2026-11-27",
+ "core": {
+  "id": 5051,
+  "nameListAs": "Bonavia, Kevin",
+  "nameDisplayAs": "Kevin Bonavia",
+  "nameFullTitle": "Kevin Bonavia MP",
+  "nameAddressAs": null,
+  "latestParty": {
+   "id": 15,
+   "name": "Labour",
+   "abbreviation": "Lab",
+   "backgroundColour": "d50000",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": true,
+   "governmentType": 0,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "Stevenage",
+   "membershipFromId": 4331,
+   "house": 1,
+   "membershipStartDate": "2024-07-04T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2024-07-04T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/5051/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2024-05-31T00:00:00",
+    "constituencyEnd": null,
+    "house": 1,
+    "name": "Stevenage",
+    "id": 4331,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [
+   {
+    "house": 1,
+    "name": "Clacton",
+    "id": 3418,
+    "startDate": "2019-12-12T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Rochford and Southend East",
+    "id": 3702,
+    "startDate": "2010-05-06T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "houseMemberships": [
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Kevin Bonavia",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [],
+  "oppositionPosts": [],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Labour",
+    "id": 15,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 1,
+    "name": "Petitions Committee",
+    "id": 326,
+    "startDate": "2024-10-28T00:00:00",
+    "endDate": "2025-01-06T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Commonwealth Parliamentary Association and International Committee of the Red Cross (Status) Bill [HL]",
+    "id": 744,
+    "startDate": "2024-11-06T00:00:00",
+    "endDate": "2024-11-13T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Football Governance Bill [HL]",
+    "id": 795,
+    "startDate": "2025-05-14T00:00:00",
+    "endDate": "2025-06-17T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Unauthorised Entry to Football Matches Bill",
+    "id": 806,
+    "startDate": "2025-06-25T00:00:00",
+    "endDate": "2025-06-25T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 3,
+   "name": "2. (b) Any other support not included in Category 2(a)",
+   "sortOrder": 0,
+   "interests": [
+    {
+     "id": 15496,
+     "interest": "Name of donor: Francesca Perrin\r\nAddress of donor: private\r\nAmount of donation or nature and value if donation in kind: £10,000\r\nDate received: 10 June 2026\r\nDate accepted: 10 June 2026\r\nDonor status: individual\r\n(Registered 18 June 2026)",
+     "createdWhen": "2026-06-30T09:44:15.2233333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "name": "3. Gifts, benefits and hospitality from UK sources",
+   "sortOrder": 1,
+   "interests": [
+    {
+     "id": 14762,
+     "interest": "Name of donor: Ceftus Ltd\r\nAddress of donor: Flat 80, County Hall North Block, 5 Chicheley Street, London SE1 7PN\r\nAmount of donation or nature and value if donation in kind: Three tickets for me and two guests to attend the British Kebab Awards 2026. (The tickets were unused.), value £900\r\nDate received: 24 February 2026\r\nDate accepted: 24 February 2026\r\nDonor status: company, registration 07512777\r\n(Registered 16 March 2026)",
+     "createdWhen": "2026-03-24T10:21:32.8066667",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "name": "8. Miscellaneous",
+   "sortOrder": 2,
+   "interests": [
+    {
+     "id": 11174,
+     "interest": "Director and Trustee of the Commonwealth Parliamentary Association (UK Branch). This is an unpaid role.\r\nDate interest arose: 16 October 2024\r\n(Registered 5 November 2024)",
+     "createdWhen": "2025-11-24T11:31:32.9916502",
+     "lastAmendedWhen": "2024-11-13T15:11:14.79",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [],
+ "synopsis": "Kevin Bonavia is the Labour MP for <a href='/constituency/4331/overview'>Stevenage</a>, and has been an MP continually since 4 July 2024.",
+ "history": [
+  {
+   "id": 1963231,
+   "uin": "45403",
+   "heading": "Prescriptions",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment she has made of delays and errors in the administration of repeat prescriptions.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1961443,
+   "uin": "44370",
+   "heading": "Health Services: Weather",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps she is taking to help the NHS prepare for the winter.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1958922,
+   "uin": "42400",
+   "heading": "Migrants: Voluntary Work",
+   "questionText": "To ask the Secretary of State for the Home Department, will she take steps to allow non-EU nationals to undertake voluntary work without a work permit.",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1960715,
+   "uin": "902065",
+   "heading": "Energy: Economic Growth",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what steps her Department is taking with the energy sector to support growth across the UK.",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1947367,
+   "uin": "33376",
+   "heading": "Park Homes: Sales",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, when does she expect the analysis of the call for evidence on Park homes: reasons for commission payments, published 5 March 2026 to be published.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1945343,
+   "uin": "31356",
+   "heading": "Maternity Pay",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what assessment he has made of the potential impact of proposals to make statutory maternity pay 90% of wage for the first 12 weeks and minimum wage after that on families.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1946472,
+   "uin": "32552",
+   "heading": "Water: Housing",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, if she will take take steps to ensure new builds have facilities to harvest and recycle grey water.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1945298,
+   "uin": "31355",
+   "heading": "Offenders: Electronic Tagging",
+   "questionText": "To ask the Secretary of State for Justice, what assessment has he made of the potential impact of delays in fitting electronic tags on released offenders; and if he will consider the potential merits of immediate tagging upon release.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1944201,
+   "uin": "30537",
+   "heading": "Electric Scooters: Sales",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what assessment he has made of the potential merits of restrictions on the sale of electric scooters.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1946504,
+   "uin": "32553",
+   "heading": "Travel Insurance: Cancer",
+   "questionText": "To ask the Chancellor of the Exchequer, if he will take steps to introduce a Right to Be Forgotten Model to ensure that people with historic cancer diagnoses do not have to declare these when applying for travel insurance.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1944270,
+   "uin": "30538",
+   "heading": "Water: Recycling",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps her Department is taking to increase the recycling of grey water.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1942551,
+   "uin": "29595",
+   "heading": "Motor Insurance: Young People",
+   "questionText": "To ask the Secretary of State for Transport, pursuant to the answer of 10 September 2026 to Question 27029 on Motor Insurance: Young People, whether she has considered the potential merits of capping insurance costs for young drivers and young drivers wit",
+   "dateTabled": "2026-09-14T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1937961,
+   "uin": "27029",
+   "heading": "Motor Insurance: Young People",
+   "questionText": "To ask the Secretary of State for Transport, what assessment she has made of the level of costs of insurance for newly qualified and young drivers whose cars are equipped with black boxes.",
+   "dateTabled": "2026-09-03T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1937959,
+   "uin": "27028",
+   "heading": "Motor Insurance: Young People",
+   "questionText": "To ask the Secretary of State for Transport, what assessment she has made of the impact of the cost of insurance for young drivers on the number of uninsured driving convictions.",
+   "dateTabled": "2026-09-03T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1932852,
+   "uin": "22302",
+   "heading": "Employment Schemes: Care Leavers and Children in Care",
+   "questionText": "To ask the Secretary of State for Education, whether she will consider the merits of making one-to-one mentoring a statutory right for children in care & care leavers.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1932750,
+   "uin": "22301",
+   "heading": "Children: Maintenance",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what assessment he has made of the frequency of cases where incomes are being incorrectly inflated in child maintenance payment calculations.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1932855,
+   "uin": "22305",
+   "heading": "Water Supply: East of England",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment has her Department made of long-term water supply resilience in a.) Stevenage and b.) the East of England.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1936991,
+   "uin": "26195",
+   "heading": "Local Government: Debt",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what assessment has she made of the financial pressures on councils caused by the levels of and interest on the debt they owe to the Treasury.",
+   "dateTabled": "2026-09-01T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1932854,
+   "uin": "22304",
+   "heading": "Droughts: Desalination",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she has made of the role of desalination plants in mitigating the consequences of drought.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1932853,
+   "uin": "22303",
+   "heading": "Energy: Billing",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, will she take steps to ensure energy companies provide automatic refunds to customers in a timely manner.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1932697,
+   "uin": "22299",
+   "heading": "Economic Crime and Corporate Transparency Act 2023",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, whether he plans to take steps to accelerate the implementation of the protections for public interest companies in the Economic Crime and Corporate Transparency Act 2023.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1932737,
+   "uin": "22300",
+   "heading": "Business: Single People",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, if he will take steps to encourage businesses to provide deals and offers that accommodate the needs of individuals living alone.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1926028,
+   "uin": "17460",
+   "heading": "Employment: Science",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, will she take steps to introduce economic incentives for people to work in the science industry.",
+   "dateTabled": "2026-07-09T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1925701,
+   "uin": "17062",
+   "heading": "Work Experience: Graduates",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what steps he is taking to assist local businesses in providing professional work experience and internships to unemployed graduates.",
+   "dateTabled": "2026-07-08T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1924428,
+   "uin": "16121",
+   "heading": "Surgical Mesh Implants",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps he is taking to accelerate the delivery of compensation to people impacted by pelvic mesh and valproate; and if he will set out a timetable for that financial redress.",
+   "dateTabled": "2026-07-06T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1924424,
+   "uin": "16120",
+   "heading": "Pregnancy",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps is he taking to increase awareness of the reproductive and sexual health implications for young people presenting symptoms that may lead to unplanned or medically complex pregnancies.",
+   "dateTabled": "2026-07-06T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1924420,
+   "uin": "16119",
+   "heading": "Rare Cancers: Young People",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps he is taking to improve coordination across community healthcare services when diagnosing rare cancers in young people.",
+   "dateTabled": "2026-07-06T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1924543,
+   "uin": "16122",
+   "heading": "Housing: Sales",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what support does the Government provide to homeowners who are impacted by late buyer withdrawals.",
+   "dateTabled": "2026-07-06T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1922207,
+   "uin": "14466",
+   "heading": "Bus Stations: Disability Aids",
+   "questionText": "To ask the Secretary of State for Transport, what steps her Department is taking to ensure bus stations have audio-visual stop information (a) nationally and (b) in Hertfordshire.",
+   "dateTabled": "2026-06-30T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1909568,
+   "uin": "4490",
+   "heading": "Self-assessment: Powers of Attorney",
+   "questionText": "To ask the Chancellor of the Exchequer, if she will allow people with power of attorney to use HMRC's free online system to manage their donor's self assessment tax return.",
+   "dateTabled": "2026-05-29T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1910346,
+   "uin": "900126",
+   "heading": "Defence: Skilled Workers",
+   "questionText": "To ask the Secretary of State for Defence, what steps he is taking to improve skills in the defence workforce.",
+   "dateTabled": "2026-05-21T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1908051,
+   "uin": "3494",
+   "heading": "Railway Stations: Ticket Offices",
+   "questionText": "To ask the Secretary of State for Transport, what steps her Department is taking to improve accessibility of ticket offices at rail stations for people suffering sight loss.",
+   "dateTabled": "2026-05-20T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1906601,
+   "uin": "2249",
+   "heading": "Apprentices: Housing",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what steps his Department is taking to support apprenticeships in the housing sector.",
+   "dateTabled": "2026-05-18T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1904534,
+   "uin": "566",
+   "heading": "Patients: Travel",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps he is taking to improve the accessibility to and reliability of the NHS patient transport service.",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1897123,
+   "uin": "125069",
+   "heading": "Firearms: Licensing",
+   "questionText": "To ask the Secretary of State for the Home Department, what assessment she has made of the potential merits of issuing hologram-overlayed firearm licences to tackle firearm licensing fraud.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1878431,
+   "uin": "110919",
+   "heading": "Coral Reefs: Nature Conservation",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she made of the potential implications for her policies of trends in the level of coral bleaching; and what steps she is taking with Cabinet colleagues to help tackle c",
+   "dateTabled": "2026-02-04T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1874878,
+   "uin": "108332",
+   "heading": "Armed Forces: Health Services",
+   "questionText": "To ask the Secretary of State for Defence, what assessment he has made of the adequacy of military hospital provision.",
+   "dateTabled": "2026-01-26T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1875261,
+   "uin": "907499",
+   "heading": "Sanctions: Russia",
+   "questionText": "To ask the Chancellor of the Exchequer, what economic steps she has taken against Russia since its invasion of Ukraine.",
+   "dateTabled": "2026-01-21T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1861448,
+   "uin": "97823",
+   "heading": "Prize Money: Advertising",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what assessment she has made of the adequacy of gambling warnings for prize draw competitions advertised on websites, radio and tv shows.",
+   "dateTabled": "2025-12-08T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1961530,
+   "uin": "44457",
+   "heading": "Fires: Public Spaces Protection Orders",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, if she will make an assessment of the potential merits of extending the scope of Public Space Protection Orders to wildfire inducing activities in private spaces.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  }
+ ],
+ "historyComplete": true
+}

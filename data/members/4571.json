@@ -1,0 +1,692 @@
+{
+ "id": 4571,
+ "fetchedOn": "2026-11-27",
+ "core": {
+  "id": 4571,
+  "nameListAs": "Furniss, Gill",
+  "nameDisplayAs": "Gill Furniss",
+  "nameFullTitle": "Gill Furniss MP",
+  "nameAddressAs": "Gill Furniss",
+  "latestParty": {
+   "id": 15,
+   "name": "Labour",
+   "abbreviation": "Lab",
+   "backgroundColour": "d50000",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": true,
+   "governmentType": 0,
+   "isIndependentParty": false
+  },
+  "gender": "F",
+  "latestHouseMembership": {
+   "membershipFrom": "Sheffield Brightside and Hillsborough",
+   "membershipFromId": 4281,
+   "house": 1,
+   "membershipStartDate": "2016-05-05T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2024-07-04T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/4571/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2024-05-31T00:00:00",
+    "constituencyEnd": null,
+    "house": 1,
+    "name": "Sheffield Brightside and Hillsborough",
+    "id": 4281,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "2010-04-13T00:00:00",
+    "constituencyEnd": "2024-05-30T00:00:00",
+    "house": 1,
+    "name": "Sheffield, Brightside and Hillsborough",
+    "id": 3724,
+    "startDate": "2016-05-05T00:00:00",
+    "endDate": "2024-05-30T00:00:00",
+    "additionalInfo": "Elected 3 times",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [
+   {
+    "house": 1,
+    "name": "Sheffield, Hallam",
+    "id": 2567,
+    "startDate": "2001-06-07T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "houseMemberships": [
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "2016-05-05T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Gill Furniss",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [],
+  "oppositionPosts": [
+   {
+    "house": 1,
+    "name": "Shadow Minister (Work and Pensions)",
+    "id": 974,
+    "startDate": "2023-09-05T00:00:00",
+    "endDate": "2024-05-30T00:00:00",
+    "additionalInfo": "Department for Work and Pensions",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-work-pensions"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Minister (Transport)",
+    "id": 971,
+    "startDate": "2022-01-17T00:00:00",
+    "endDate": "2023-09-05T00:00:00",
+    "additionalInfo": "Department for Transport",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-transport"
+   },
+   {
+    "house": 1,
+    "name": "Opposition Whip (Commons)",
+    "id": 10,
+    "startDate": "2020-07-10T00:00:00",
+    "endDate": "2022-01-17T00:00:00",
+    "additionalInfo": "Whips Office (Commons)",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Shadow Minister (Equalities Office) (Women and Equalities)",
+    "id": 1172,
+    "startDate": "2020-04-10T00:00:00",
+    "endDate": "2020-07-10T00:00:00",
+    "additionalInfo": "Government Equalities Office",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/government-equalities-office"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Minister (Business, Energy and Industrial Strategy) (Steel, Postal Affairs and Consumer Protection)",
+    "id": 1341,
+    "startDate": "2016-10-13T00:00:00",
+    "endDate": "2020-04-10T00:00:00",
+    "additionalInfo": "Department for Business, Energy and Industrial Strategy",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+   }
+  ],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Labour",
+    "id": 15,
+    "startDate": "2016-05-05T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 1,
+    "name": "Women and Equalities Committee",
+    "id": 328,
+    "startDate": "2016-06-13T00:00:00",
+    "endDate": "2016-12-05T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Elections Bill",
+    "id": 541,
+    "startDate": "2021-09-15T00:00:00",
+    "endDate": "2021-10-26T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Charities Bill [HL] Second Reading Committee",
+    "id": 574,
+    "startDate": "2022-01-12T00:00:00",
+    "endDate": "2022-01-18T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Charities Bill [HL]",
+    "id": 576,
+    "startDate": "2022-01-19T00:00:00",
+    "endDate": "2022-01-25T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Taxis and Private Hire Vehicles (Disabled Persons) Bill",
+    "id": 585,
+    "startDate": "2022-02-02T00:00:00",
+    "endDate": "2022-02-09T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Employment Relations (Flexible Working) Bill",
+    "id": 632,
+    "startDate": "2022-11-30T00:00:00",
+    "endDate": "2022-12-06T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Lifelong Learning (Higher Education Fee Limits) Bill",
+    "id": 662,
+    "startDate": "2023-03-15T00:00:00",
+    "endDate": "2023-03-23T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "High Streets (Designation, Review and Improvement Plan) Bill",
+    "id": 711,
+    "startDate": "2024-03-06T00:00:00",
+    "endDate": "2024-03-13T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Administration Committee",
+    "id": 2,
+    "startDate": "2024-10-28T00:00:00",
+    "endDate": "2025-03-31T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Procedure Committee",
+    "id": 126,
+    "startDate": "2024-11-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Panel of Chairs",
+    "id": 11,
+    "startDate": "2024-11-27T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Committee on Standards",
+    "id": 290,
+    "startDate": "2025-03-24T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Committee of Privileges",
+    "id": 289,
+    "startDate": "2025-03-24T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 9,
+   "name": "8. Miscellaneous",
+   "sortOrder": 0,
+   "interests": [
+    {
+     "id": 13212,
+     "interest": "Co-Chair of the British Irish Parliamentary Assembly.\r\nDate interest arose: 24 January 2025\r\n(Registered 2 September 2025)",
+     "createdWhen": "2026-09-22T15:21:05.3169644",
+     "lastAmendedWhen": "2026-03-25T16:05:19.2656576",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "name": "9. Family members employed and paid from parliamentary expenses",
+   "sortOrder": 1,
+   "interests": [
+    {
+     "id": 2702,
+     "interest": "Name: Emily Grace Ahmed\r\nRelationship: Daughter\r\nRole: Executive Office Manager\r\nWorking pattern: Full time\r\n(Registered 3 June 2016; updated 7 June 2018, 14 December 2020 and 14 February 2024)",
+     "createdWhen": "2024-04-18T15:21:00.32",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [],
+ "synopsis": "Gill Furniss is the Labour MP for <a href='/constituency/4281/overview'>Sheffield Brightside and Hillsborough</a>, and has been an MP continually since 5 May 2016.",
+ "history": [
+  {
+   "id": 1958560,
+   "uin": "42086",
+   "heading": "Domestic Abuse: Victim Support Schemes",
+   "questionText": "To ask the Secretary of State for the Home Department, whether she plans to issue guidance to specialist domestic abuse services on the safe use of artificial intelligence tools when handling victims' personal data.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1962476,
+   "uin": "45265",
+   "heading": "Physician Assistants",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps she is taking to ensure that NHS organisations receive clear and consistent guidance on the role, scope of practice and deployment of physician associates.",
+   "dateTabled": "2026-11-20T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1962475,
+   "uin": "45264",
+   "heading": "Physician Assistants: Employment",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what support is available to newly qualified physician associates who have been unable to secure employment to gain supervised clinical experience.",
+   "dateTabled": "2026-11-20T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1962574,
+   "uin": "45263",
+   "heading": "Physician Assistants: Employment",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what workforce modelling her Department has undertaken to assess whether the number of physician associate graduates is proportionate to the number of funded NHS posts.",
+   "dateTabled": "2026-11-20T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1959544,
+   "uin": "42864",
+   "heading": "Pupils: Periods",
+   "questionText": "To ask the Secretary of State for Education, what steps she is taking to ensure that schools are not unduly restricting access to toilet facilities for menstruating students.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1959541,
+   "uin": "42861",
+   "heading": "Foetal Alcohol Spectrum Disorder",
+   "questionText": "To ask the Secretary of State for Health and Social Care, if she will consider integrating Foetal Alcohol Spectrum Disorder into the new Mental Health Strategy to improve outcomes for those impacted by the condition.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1959540,
+   "uin": "42860",
+   "heading": "Foetal Alcohol Spectrum Disorder",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether her Department has considered the potential merits of a UK-wide FASD Prevention and Response Programme to mitigate the prevalence of foetal alcohol spectrum disorder amongst children.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1958558,
+   "uin": "42084",
+   "heading": "Gender Based Violence: Victim Support Schemes",
+   "questionText": "To ask the Secretary of State for the Home Department, if she will introduce multi-year funding settlements of three to five years for specialist violence against women and girls services, in line with the recommendation of the Home Affairs Committee.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1958559,
+   "uin": "42085",
+   "heading": "Domestic Abuse: Victim Support Schemes",
+   "questionText": "To ask the Secretary of State for the Home Department, what her plans are for the future funding of the Support for Migrant Victims scheme; and what estimate she has made of the number of referrals to that scheme declined due to lack of capacity.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1956652,
+   "uin": "40765",
+   "heading": "Health Services: Women",
+   "questionText": "To ask the Secretary of State for Health and Social Care, when the Women's Health Data Dashboard will be launched; which organisation will be responsible for its delivery; and how the Department will use the dashboard to assess local delivery of women's h",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1956651,
+   "uin": "40764",
+   "heading": "Health Services: Women",
+   "questionText": "To ask the Secretary of State for Health and Social Care, which indicators relating to menstrual health services, access and patient outcomes will be included in the Women's Health Data Dashboard.",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1953709,
+   "uin": "38419",
+   "heading": "Abortion: Protest",
+   "questionText": "To ask the Secretary of State for the Home Department, what measures are in place to ensure the enforcement of 150m buffer zones established to limit protests surrounding abortion clinics.",
+   "dateTabled": "2026-10-27T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1947076,
+   "uin": "33290",
+   "heading": "Domestic Abuse: Men",
+   "questionText": "To ask the Secretary of State for the Home Department, what steps are being taken to expand the support available to male victims of domestic violence.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1947975,
+   "uin": "33958",
+   "heading": "Bus Services: Fares",
+   "questionText": "To ask the Secretary of State for Transport, whether the Department has made an assessment of the potential merits of (a) extending the forthcoming national £2 bus fare cap to tram services and (b) providing funding to local transport authorities and tram",
+   "dateTabled": "2026-10-12T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1947836,
+   "uin": "33819",
+   "heading": "Trams: Fares",
+   "questionText": "To ask the Secretary of State for Transport, if there are plans to extend the £2 bus fare cap to tram networks such as Sheffield's Supertram.",
+   "dateTabled": "2026-10-12T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1937960,
+   "uin": "26963",
+   "heading": "Digital Technology: Older People",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what steps she is taking to ensure that older demographics in particular are safeguarded from the impacts of digital exclusion.",
+   "dateTabled": "2026-09-03T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1924959,
+   "uin": "16494",
+   "heading": "Children: Reading",
+   "questionText": "To ask the Secretary of State for Education, what assessment she has made of the implications for her policies of the findings of the National Literacy Trust’s report on ‘Children and young people’s reading in 2026’ relating to children’s reading enjoymen",
+   "dateTabled": "2026-07-07T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1922297,
+   "uin": "14399",
+   "heading": "Cardiovascular Diseases: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what his planned timetable is for publication of the cardiovascular disease Modern Service Framework.",
+   "dateTabled": "2026-06-30T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1919069,
+   "uin": "12217",
+   "heading": "Active Travel",
+   "questionText": "To ask the Secretary of State for Transport, what information her Department holds on the proportion of short stages in towns and cities in England that are currently walked and cycled.",
+   "dateTabled": "2026-06-23T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1919068,
+   "uin": "12216",
+   "heading": "Active Travel: Finance",
+   "questionText": "To ask the Secretary of State for Transport, what assessment she has made of the potential merits of providing multi-year funding for Active Travel England grants.",
+   "dateTabled": "2026-06-23T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1913620,
+   "uin": "7562",
+   "heading": "Mental Health Services: Menopause",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps he is taking to support the mental health of women going through (a) menopause, (b) perimenopause and (c) hormonal treatment related to menopause.",
+   "dateTabled": "2026-06-08T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1913621,
+   "uin": "7563",
+   "heading": "Mental Health Services: Menopause",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether his Department has identified links between menopause and a heightened risk of suicide; and what support his Department provides to safeguard the mental health of women reaching menopause.",
+   "dateTabled": "2026-06-08T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1911771,
+   "uin": "6459",
+   "heading": "Endometriosis: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment his Department has made of the potential impact of single points of access for non-urgent gynaecology referrals, specialist ultrasound and community diagnostic routes on reducing di",
+   "dateTabled": "2026-06-03T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1911774,
+   "uin": "6460",
+   "heading": "Menopause: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps his Department is taking to ensure that menopause training is included in routine primary care continuing professional development and the women’s health workforce model to ensure consis",
+   "dateTabled": "2026-06-03T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1911775,
+   "uin": "6461",
+   "heading": "Menopause: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what plans his Department has to ensure that Integrated Care Boards have clear pathways for access to specialist menopause advice and escalation for complex cases, including premature ovarian insuf",
+   "dateTabled": "2026-06-03T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1911776,
+   "uin": "6462",
+   "heading": "Endometriosis: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether his Department plans to include metrics on endometriosis diagnostic times, access to imaging, menopause prescribing, treatment review and referral variation in the women’s health data dashb",
+   "dateTabled": "2026-06-03T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1911770,
+   "uin": "6458",
+   "heading": "Endometriosis: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps his Department is taking to support Integrated Care Boards to implement NICE guideline NG73 on endometriosis in primary care, including training for GPs and practice nurses on recognisin",
+   "dateTabled": "2026-06-03T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1911299,
+   "uin": "5988",
+   "heading": "Water Charges",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what estimate she has made of the level of the rise in water connection charges for domestic consumers.",
+   "dateTabled": "2026-06-02T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1913911,
+   "uin": "900313",
+   "heading": "Heart Valve Disease: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the potential impact of treatment delays on outcomes for patients with heart valve disease.",
+   "dateTabled": "2026-06-03T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1904243,
+   "uin": "181",
+   "heading": "Breast Cancer: Screening",
+   "questionText": "To ask the Secretary of State for Health and Social Care, a) what steps are being taken to inform those living with Neurofibromatosis Type 1 (NF1) that they are entitled to earlier screening for breast cancer, and b) what steps are being taken to improve ",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1901576,
+   "uin": "908765",
+   "heading": "Somalia: Human Rights",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what recent assessment her Department has made of the human rights situation in Somalia.",
+   "dateTabled": "2026-04-15T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1895662,
+   "uin": "124138",
+   "heading": "Pre-school Education: Sheffield",
+   "questionText": "To ask the Secretary of State for Education, what assessment she has made of the potential impact of the equity of the Early Years funding formula on families and childcare providers in Sheffield.",
+   "dateTabled": "2026-03-26T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1893957,
+   "uin": "122844",
+   "heading": "Council Tax: Arrears",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what assessment he has made of the findings of the Money Advice Trust’s Lost in the system report; and if he will make a statement.",
+   "dateTabled": "2026-03-23T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1893955,
+   "uin": "122843",
+   "heading": "Council Tax: Reform",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, when he plans to publish the Government’s response to the Modernising and improving the administration of council tax consultation, and if he will make a statement confirming the",
+   "dateTabled": "2026-03-23T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1862663,
+   "uin": "98797",
+   "heading": "Special Educational Needs: Speech and Language Disorders",
+   "questionText": "To ask the Secretary of State for Education, what steps her Department plans to take to improve a) universal, b) targeted and c) specialist speech, language and communication support.",
+   "dateTabled": "2025-12-10T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1888200,
+   "uin": "118242",
+   "heading": "Yemen: Peace Negotiations",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what steps she is taking to support a peaceful political settlement in Yemen.",
+   "dateTabled": "2026-03-05T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1888199,
+   "uin": "118241",
+   "heading": "Yemen: Humanitarian Aid",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what steps she is taking to support humanitarian aid organisations operating in Yemen.",
+   "dateTabled": "2026-03-05T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1888070,
+   "uin": "118240",
+   "heading": "Members: Staff",
+   "questionText": "To ask the hon. Member for Warrington North, representing the Speaker's Committee for the Independent Parliamentary Standards Authority, on what dates, and in what form, have IPSA asked hon. Members to provide information about (a) the volume of casework ",
+   "dateTabled": "2026-03-05T00:00:00",
+   "answeringBodyName": "Speaker's Committee for the Independent Parliamentary Standards Authority"
+  },
+  {
+   "id": 1888069,
+   "uin": "118239",
+   "heading": "Members: Staff",
+   "questionText": "To ask the hon. Member for Warrington North, representing the Speaker's Committee for the Independent Parliamentary Standards Authority, if the transcript of the meeting titled Staffing budget drop in - session 1 held on Monday 23 February 2026 will be pl",
+   "dateTabled": "2026-03-05T00:00:00",
+   "answeringBodyName": "Speaker's Committee for the Independent Parliamentary Standards Authority"
+  },
+  {
+   "id": 1888486,
+   "uin": "118540",
+   "heading": "Travel: Tax Allowances",
+   "questionText": "To ask the Chancellor of the Exchequer, what recent assessment she has made of the adequacy of the overseas scale rates.",
+   "dateTabled": "2026-03-06T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1881037,
+   "uin": "112908",
+   "heading": "Help to Buy Scheme: Individual Savings Accounts",
+   "questionText": "To ask the Chancellor of the Exchequer, whether the Government plans to increase the purchase limit for properties outside of London when using a Help to Buy ISA.",
+   "dateTabled": "2026-02-11T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1878560,
+   "uin": "110844",
+   "heading": "Pupils: Reading",
+   "questionText": "To ask the Secretary of State for Education, what steps her Department has taken to help bring awareness to the National Year of Reading within schools and alternative provision settings.",
+   "dateTabled": "2026-02-04T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1878559,
+   "uin": "110843",
+   "heading": "Reading",
+   "questionText": "To ask the Secretary of State for Education, what steps her Department has to help bring awareness to the National Year of Reading.",
+   "dateTabled": "2026-02-04T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1871921,
+   "uin": "106182",
+   "heading": "General Practitioners: Translation Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether the review into the Carr-Hill formula accounts for GP translation service costs.",
+   "dateTabled": "2026-01-15T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1862664,
+   "uin": "98798",
+   "heading": "Speech and Language Disorders: Children",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment has been made of the potential merits of providing training to mental health teams on support to children with lifelong speech and language difficulties.",
+   "dateTabled": "2025-12-10T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1862540,
+   "uin": "906832",
+   "heading": "Health: Disadvantaged",
+   "questionText": "To ask the Minister for Women and Equalities, what steps she is taking to help tackle unequal access to medical treatment.",
+   "dateTabled": "2025-12-04T00:00:00",
+   "answeringBodyName": "Women and Equalities"
+  },
+  {
+   "id": 1859987,
+   "uin": "96762",
+   "heading": "Heart Diseases: Medical Treatments",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the potential impact of delayed access to specialist heart valve treatment has on (a) avoidable unscheduled hospitalisations, (b) deaths on waiting lists and (c) othe",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1859986,
+   "uin": "96761",
+   "heading": "Aortic Stenosis: Women",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether NHS England has made an estimate of the number and proportion of women diagnosed with severe symptomatic aortic stenosis who receive timely treatment compared to men.",
+   "dateTabled": "2025-12-03T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  }
+ ],
+ "historyComplete": true
+}

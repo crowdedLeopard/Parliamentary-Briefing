@@ -1,0 +1,358 @@
+{
+ "id": 5235,
+ "fetchedOn": "2026-11-27",
+ "core": {
+  "id": 5235,
+  "nameListAs": "Carns, Al",
+  "nameDisplayAs": "Al Carns",
+  "nameFullTitle": "Al Carns MP",
+  "nameAddressAs": null,
+  "latestParty": {
+   "id": 15,
+   "name": "Labour",
+   "abbreviation": "Lab",
+   "backgroundColour": "d50000",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": true,
+   "governmentType": 0,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "Birmingham Selly Oak",
+   "membershipFromId": 3914,
+   "house": 1,
+   "membershipStartDate": "2024-07-04T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2024-07-04T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/5235/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2024-05-31T00:00:00",
+    "constituencyEnd": null,
+    "house": 1,
+    "name": "Birmingham Selly Oak",
+    "id": 3914,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [],
+  "houseMemberships": [
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Al Carns",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [
+   {
+    "house": 1,
+    "name": "Parliamentary Under-Secretary (Ministry of Defence) (Minister for the Armed Forces)",
+    "id": 1309,
+    "startDate": "2025-09-06T00:00:00",
+    "endDate": "2026-06-11T00:00:00",
+    "additionalInfo": "Ministry of Defence",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/ministry-of-defence"
+   },
+   {
+    "house": 1,
+    "name": "Parliamentary Under-Secretary (Ministry of Defence) (Minister for Veterans and People)",
+    "id": 1312,
+    "startDate": "2024-07-09T00:00:00",
+    "endDate": "2025-09-06T00:00:00",
+    "additionalInfo": "Ministry of Defence",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/ministry-of-defence"
+   }
+  ],
+  "oppositionPosts": [],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Labour",
+    "id": 15,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 1,
+    "name": "Select Committee on the Armed Forces Bill",
+    "id": 826,
+    "startDate": "2026-02-09T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Public Accounts Committee",
+    "id": 127,
+    "startDate": "2026-11-11T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Public Accounts Commission",
+    "id": 207,
+    "startDate": "2026-11-16T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 3,
+   "name": "2. (b) Any other support not included in Category 2(a)",
+   "sortOrder": 0,
+   "interests": [
+    {
+     "id": 15405,
+     "interest": "Name of donor: Elizabeth Jennings\r\nAddress of donor: private\r\nAmount of donation or nature and value if donation in kind: £20,000 financial contribution towards activities undertaken in support of my parliamentary and public responsibilities\r\nDate received: 9 June 2026\r\nDate accepted: 9 June 2026\r\nDonor status: individual\r\n(Registered 11 June 2026)",
+     "createdWhen": "2026-06-16T08:57:44.1133333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 15504,
+     "interest": "Name of donor: Colin Campbell\r\nAddress of donor: private\r\nAmount of donation or nature and value if donation in kind: £20,000 financial contribution towards activities undertaken in support of my parliamentary and public responsibilities\r\nDate received: 19 June 2026\r\nDate accepted: 19 June 2026\r\nDonor status: individual\r\n(Registered 22 June 2026)",
+     "createdWhen": "2026-06-30T09:44:15.2233333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 15509,
+     "interest": "Name of donor: Colin Campbell\r\nAddress of donor: private\r\nAmount of donation or nature and value if donation in kind: £20,000 financial contribution towards activities undertaken in support of my parliamentary and public responsibilities\r\nDate received: 19 June 2026\r\nDate accepted: 19 June 2026\r\nDonor status: individual\r\n(Registered 1 July 2026)",
+     "createdWhen": "2026-07-14T09:29:28.21",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 16679,
+     "interest": "Name of donor: Ashen Capital Ltd\r\nAddress of donor: 167-169 Great Portland Street, 5th Floor, London W1W 5PF\r\nAmount of donation or nature and value if donation in kind: £7,500 financial contribution towards activities undertaken in support of my parliamentary and public responsibilities.\r\nDate received: 16 July 2026\r\nDate accepted: 16 July 2026\r\nDonor status: company, registration 15804124\r\n(Registered 3 August 2026)",
+     "createdWhen": "2026-08-18T09:11:33.93",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "name": "3. Gifts, benefits and hospitality from UK sources",
+   "sortOrder": 1,
+   "interests": [
+    {
+     "id": 16900,
+     "interest": "Name of donor: The Earl of March - Goodwood Innovation Summit\r\nAddress of donor: private\r\nAmount of donation or nature and value if donation in kind: Two days attendance at the Goodwood Innovation Summit, including meals and two nights overnight accommodation (value estimated), value £1,000\r\nDate received: 3 September 2026 to 5 September 2026\r\nDate accepted: 4 September 2026\r\nDonor status: individual\r\n(Registered 11 September 2026)",
+     "createdWhen": "2026-09-22T11:01:39.1866667",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    },
+    {
+     "id": 17574,
+     "interest": "Name of donor: Birmingham City Football Club\r\nAddress of donor: St Andrews @ Knighthead Park, Cattell Road, Birmingham B9 4RL\r\nAmount of donation or nature and value if donation in kind: Laid the Remembrance wreath at Birmingham City Football Club ahead of their Remembrance Weekend fixture. Food and hospitality was provided for me and three family members, value £599.96\r\nDate received: 7 November 2026\r\nDate accepted: 7 November 2026\r\nDonor status: company, registration 00027318\r\n(Registered 16 November 2026)",
+     "createdWhen": "2026-11-24T09:40:37.24",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "name": "4. Visits outside the UK",
+   "sortOrder": 2,
+   "interests": [
+    {
+     "id": 14350,
+     "interest": "Name of donor: Team Forces Funding Ltd\r\nAddress of donor: Lime Cottage, Tisbury Row, Salisbury SP3 6RZ\r\nEstimate of the probable value (or amount of any donation): One return economy ticket from London to Kathmandu (£1,790.65), high altitude/cold weather expedition and summit equipment (£1,351.53), mountain operations and support, safety components, evacuation insurance and logistics (£44,300), value £47,442.18\r\nDestination of visit: Nepal (Mount Everest)\r\nDates of visit: 16 May 2025 to 23 May 2025\r\nPurpose of visit: As part of a team of four UK veterans, I undertook a record breaking, speed ascent of Mount Everest in under a week. Their purpose was to unify the military community, raise awareness of the overwhelmingly positive contribution of veterans, and to raise critical funds for veterans’ charities, especially those which support the veterans ‘families whose loved ones have made the ultimate sacrifice.\r\n(Registered 29 January 2026)",
+     "createdWhen": "2026-02-24T09:58:57.5333333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "name": "6. Land and property portfolio with a value over £100,000 and where indicated, the portfolio provides a rental income of over £10,000 a year",
+   "sortOrder": 3,
+   "interests": [
+    {
+     "id": 6276,
+     "interest": "Type of land/property: Residential property (Flat)\r\nNumber of properties: 1\r\nLocation: Aberdeen\r\n(Registered 1 August 2024; updated 26 February 2026)",
+     "createdWhen": "2026-03-10T14:50:54.6866667",
+     "lastAmendedWhen": "2025-08-19T10:07:17.5903128",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [],
+ "synopsis": "Al Carns is the Labour MP for <a href='/constituency/3914/overview'>Birmingham Selly Oak</a>, and has been an MP continually since 4 July 2024.",
+ "history": [
+  {
+   "id": 1953993,
+   "uin": "38703",
+   "heading": "Government Departments: Artificial Intelligence",
+   "questionText": "To ask the Minister for the Cabinet Office, what requirements are in place for central government departments to (a) maintain registers of autonomous or agentic artificial intelligence systems, (b) monitor the actions and decisions taken by those systems,",
+   "dateTabled": "2026-10-27T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1938059,
+   "uin": "27106",
+   "heading": "GreenSquareAccord: Birmingham",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what steps her Department is taking to help resolve the ongoing dispute between Greensquare Accord and the Stirchley Co-operative Development; and if she will set out what measur",
+   "dateTabled": "2026-09-03T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1938058,
+   "uin": "27105",
+   "heading": "GreenSquareAccord: Birmingham",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what assessment she has made of the potential impact of the ongoing negotiations between Greensquare Accord and Stirchley Co-operative Development on the future relationship betw",
+   "dateTabled": "2026-09-03T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1938057,
+   "uin": "27104",
+   "heading": "Homes England: GreenSquareAccord",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, how many contracts Homes England currently holds with Green Square Accord.",
+   "dateTabled": "2026-09-03T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1953996,
+   "uin": "38706",
+   "heading": "Artificial Intelligence: National Security",
+   "questionText": "To ask the Minister for the Cabinet Office, what assessment the Government has made of the potential risks posed by the deployment of autonomous or agentic artificial intelligence systems in critical national infrastructure, including (a) the ability of s",
+   "dateTabled": "2026-10-27T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1953990,
+   "uin": "38700",
+   "heading": "Financial Services: Artificial Intelligence",
+   "questionText": "To ask the Chancellor of the Exchequer, what discussions his Department has had with the Financial Conduct Authority and Prudential Regulation Authority regarding the risks posed by autonomous artificial intelligence agents accessing customer bank account",
+   "dateTabled": "2026-10-27T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1953678,
+   "uin": "38388",
+   "heading": "Forensic Science: Digital Technology",
+   "questionText": "To ask the Secretary of State for the Home Department, what assessment she has made of the impact of backlogs in police Digital Forensics Units on delays to criminal proceedings; what the average waiting time is for digital forensic evidence to be process",
+   "dateTabled": "2026-10-27T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1947617,
+   "uin": "33600",
+   "heading": "Poverty: Children",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what additional steps his Department is taking to reduce child poverty in Birmingham, following the removal of the two-child benefit cap.",
+   "dateTabled": "2026-10-12T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1938063,
+   "uin": "27110",
+   "heading": "Waste Disposal: Birmingham",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what discussions her Department has had with Birmingham City Council on the ongoing bin workers' dispute; and what steps she is taking to help support the resumption of regular w",
+   "dateTabled": "2026-09-03T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1938062,
+   "uin": "27109",
+   "heading": "Multiple Occupation and Supported Housing: Birmingham",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what steps she is taking to ensure that HMOs and exempt accommodation are appropriately licensed and comply with local planning regulations in Birmingham.",
+   "dateTabled": "2026-09-03T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1938061,
+   "uin": "27108",
+   "heading": "Multiple Occupation and Supported Housing: Community Relations",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what steps she is taking to help ensure that residents of exempt accommodation and HMOs receive sufficient support and local infrastructure to enable them to integrate into their",
+   "dateTabled": "2026-09-03T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1938060,
+   "uin": "27107",
+   "heading": "Multiple Occupation and Supported Housing: Community Relations",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what steps she is taking to help ensure that HMOs and exempt accommodation are distributed evenly at both the local and national level to help support community cohesion.",
+   "dateTabled": "2026-09-03T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1938064,
+   "uin": "27111",
+   "heading": "Birmingham Cross City Line",
+   "questionText": "To ask the Secretary of State for Transport, what progress her Department is making with West Midlands Railway to restore the number of passenger train services to six trains per hour on the Cross-City line between Kings Norton, Bournville and Selly Oak.",
+   "dateTabled": "2026-09-03T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1953994,
+   "uin": "38704",
+   "heading": "Government Departments: Artificial Intelligence",
+   "questionText": "To ask the Minister for the Cabinet Office, whether any central government departments currently deploy artificial intelligence systems capable of independently accessing government databases, interacting with external digital services or executing admini",
+   "dateTabled": "2026-10-27T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1953991,
+   "uin": "38701",
+   "heading": "Government Departments: Artificial Intelligence",
+   "questionText": "To ask the Minister for the Cabinet Office, what information the Government holds on (a) the number of autonomous or agentic artificial intelligence systems currently deployed across central government departments, (b) the departments in which such system",
+   "dateTabled": "2026-10-27T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  }
+ ],
+ "historyComplete": true
+}

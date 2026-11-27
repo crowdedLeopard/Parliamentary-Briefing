@@ -1,0 +1,363 @@
+{
+ "id": 5151,
+ "fetchedOn": "2026-11-27",
+ "core": {
+  "id": 5151,
+  "nameListAs": "Williams, David",
+  "nameDisplayAs": "David Williams",
+  "nameFullTitle": "David Williams MP",
+  "nameAddressAs": null,
+  "latestParty": {
+   "id": 15,
+   "name": "Labour",
+   "abbreviation": "Lab",
+   "backgroundColour": "d50000",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": true,
+   "governmentType": 0,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "Stoke-on-Trent North",
+   "membershipFromId": 4336,
+   "house": 1,
+   "membershipStartDate": "2024-07-04T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2024-07-04T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/5151/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2024-05-31T00:00:00",
+    "constituencyEnd": null,
+    "house": 1,
+    "name": "Stoke-on-Trent North",
+    "id": 4336,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [],
+  "houseMemberships": [
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "David Williams",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [],
+  "oppositionPosts": [],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Labour",
+    "id": 15,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": []
+ },
+ "interests": [
+  {
+   "id": 7,
+   "name": "6. Land and property portfolio with a value over £100,000 and where indicated, the portfolio provides a rental income of over £10,000 a year",
+   "sortOrder": 0,
+   "interests": [
+    {
+     "id": 7702,
+     "interest": "Type of land/property: Residential property (Flat)\r\nNumber of properties: 1\r\nLocation: Mojacar, Spain\r\n(Registered 30 July 2024; updated 29 October 2025)",
+     "createdWhen": "2025-11-04T15:55:03.5533333",
+     "lastAmendedWhen": "2025-08-01T15:14:02.3155464",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "name": "8. Miscellaneous",
+   "sortOrder": 1,
+   "interests": [
+    {
+     "id": 13674,
+     "interest": "Stoke-on-Trent City Councillor, (unpaid since August 2024 and previously registered under Category 1)\r\n(Registered 30 July 2024; updated 29 October 2025)",
+     "createdWhen": "2025-11-04T15:54:52.33",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [],
+ "synopsis": "David Williams is the Labour MP for <a href='/constituency/4336/overview'>Stoke-on-Trent North</a>, and has been an MP continually since 4 July 2024.",
+ "history": [
+  {
+   "id": 1963021,
+   "uin": "45593",
+   "heading": "Bank Services: Kidsgrove",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment his Department has made of the adequacy of in-person banking provision in Kidsgrove since the closure of its last bank branch in 2023.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1963247,
+   "uin": "902215",
+   "heading": "Postnatal Depression: Fathers",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps she is taking to improve early assessment and support for fathers experiencing paternal post-natal depression.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1952867,
+   "uin": "901701",
+   "heading": "Anti-social Behaviour",
+   "questionText": "To ask the Secretary of State for the Home Department, what steps her Department is taking to tackle anti-social behaviour in Stoke-on-Trent North constituency.",
+   "dateTabled": "2026-10-20T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1948693,
+   "uin": "34588",
+   "heading": "Ceramics: Government assistance",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what steps his Department is taking to help ensure that smaller ceramics manufacturers are able to access support through the £120 million support scheme.",
+   "dateTabled": "2026-10-13T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1948690,
+   "uin": "34585",
+   "heading": "Ceramics: Government assistance",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, for an update on the delivery of the Government’s £120 million support package for the UK ceramics sector.",
+   "dateTabled": "2026-10-13T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1943573,
+   "uin": "30327",
+   "heading": "Cultural Heritage: Grants",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, whether the Department will review the £1 million limit on individual grants from the Heritage at Risk Capital Fund in areas that have declared a heritage emergency, such as Stoke-on-Tre",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1943572,
+   "uin": "30326",
+   "heading": "Breakfast Clubs: Stoke-on-Trent North",
+   "questionText": "To ask the Secretary of State for Education, what her planned timetable is for the roll-out of free breakfast clubs to additional schools in Stoke-on-Trent North constituency.",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1943571,
+   "uin": "30325",
+   "heading": "Driving under Influence",
+   "questionText": "To ask the Secretary of State for Transport, whether her Department plans to bring forward legislation to amend section 7A of the Road Traffic Act 1988 so that a specimen of blood taken from a driver incapable of giving consent may be tested without that ",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1943570,
+   "uin": "30324",
+   "heading": "Roads: Safety",
+   "questionText": "To ask the Secretary of State for Transport, when the Department plans to publish its response to the consultations launched alongside the Road Safety Strategy published in January 2026.",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1943569,
+   "uin": "30323",
+   "heading": "Crown Estate: Stoke on Trent",
+   "questionText": "To ask the Chancellor of the Exchequer, what steps the Crown Estate is taking to secure and repair the Grade II listed former Duke of Bridgewater public house in Longport, Stoke-on-Trent.",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1911981,
+   "uin": "6591",
+   "heading": "Special Educational Needs",
+   "questionText": "To ask the Secretary of State for Education, what assessment he has made of trends in the level of accessibility of statutory SEND rights for (a) parents and (b) carers.",
+   "dateTabled": "2026-06-03T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1911982,
+   "uin": "6592",
+   "heading": "Special Educational Needs",
+   "questionText": "To ask the Secretary of State for Education, what assessment she has made of the potential impact of the SEND system on (a) family wellbeing, (b) employment and (c) mental health.",
+   "dateTabled": "2026-06-03T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1911980,
+   "uin": "6590",
+   "heading": "Civil Society: Procurement",
+   "questionText": "To ask the Minister for the Cabinet Office, what steps his Department is taking to ensure that public procurement processes are (a) accessible and (b) proportionate for organisations in the VCSE sector.",
+   "dateTabled": "2026-06-03T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1910323,
+   "uin": "5278",
+   "heading": "Combined Authorities: Finance",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what comparative assessment he has made of levels of funding allocated to (a) mayoral combined authority areas and (b) non-mayoral local authority areas.",
+   "dateTabled": "2026-05-29T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1910012,
+   "uin": "4967",
+   "heading": "Water Charges",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what oversight Ofwat exercises to ensure that unmetered fixed charges set by water companies are proportionate and do not disadvantage low-occupancy and low-usage households.",
+   "dateTabled": "2026-05-29T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1910010,
+   "uin": "4965",
+   "heading": "Water Charges",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she has made of the adequacy and transparency of unmetered fixed charges set by water companies, including Severn Trent Water.",
+   "dateTabled": "2026-05-29T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1905158,
+   "uin": "1008",
+   "heading": "Special Educational Needs",
+   "questionText": "To ask the Secretary of State for Education, how her Department is supporting schools to meet SEND needs where specialist placements are unavailable or inappropriate.",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1905156,
+   "uin": "1006",
+   "heading": "Special Educational Needs: Training",
+   "questionText": "To ask the Secretary of State for Education, what funding is available for ongoing professional development in SEND for teachers and support staff, and whether this provision meets demand.",
+   "dateTabled": "2026-05-13T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1902428,
+   "uin": "129360",
+   "heading": "Crown Estate: Public Houses",
+   "questionText": "To ask the Chancellor of the Exchequer, if she will take steps to bring back into use the vacant Duke of Bridgewater pub on the Crown Estate in Stoke-on-Trent North constituency.",
+   "dateTabled": "2026-04-22T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1902429,
+   "uin": "129361",
+   "heading": "Roads: Staffordshire",
+   "questionText": "To ask the Secretary of State for Transport, whether she has made an assessment of the adequacy of the condition of local roads in Staffordshire.",
+   "dateTabled": "2026-04-22T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1899439,
+   "uin": "127208",
+   "heading": "Cultural Heritage: Buildings",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what steps her Department are taking to address the deteriorating condition and poor maintenance of national heritage buildings in and around Stoke-on-Trent North and Kidsgrove.",
+   "dateTabled": "2026-04-14T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1899440,
+   "uin": "127209",
+   "heading": "Health Services: Special Educational Needs",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps his Department is taking to help ensure the health and care needs of young people with SEND in Stoke-on-Trent North and Kidsgrove are identified and met in a timely and effective manner.",
+   "dateTabled": "2026-04-14T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1899437,
+   "uin": "127207",
+   "heading": "Pride in Place Programme: Kidsgrove and Stoke-on-Trent North",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what mechanisms his Department has put in place to help ensure that communities are consulted on the use of Pride in Place funding in Stoke-on-Trent North and Kidsgrove.",
+   "dateTabled": "2026-04-14T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1894826,
+   "uin": "123862",
+   "heading": "Royal Mail: Universal Service Obligation",
+   "questionText": "To ask the Secretary of State for Business and Trade, what safeguards are being put in place to ensure that forthcoming changes to the Universal Service Obligation do not further disadvantage constituents who rely on the timely delivery of essential corre",
+   "dateTabled": "2026-03-25T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1894825,
+   "uin": "123861",
+   "heading": "Royal Mail: Delivery Services",
+   "questionText": "To ask the Secretary of State for Business and Trade, what steps he is taking to ensure Royal Mail improves first- and second-class delivery performance following Ofcom’s recent findings and fines.",
+   "dateTabled": "2026-03-25T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1894824,
+   "uin": "123860",
+   "heading": "Royal Mail: Universal Service Obligation",
+   "questionText": "To ask the Secretary of State for Business and Trade, what assessment his Department has made of Royal Mail’s failure to meet its Universal Service Obligation delivery targets in each of the past three years.",
+   "dateTabled": "2026-03-25T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1963712,
+   "uin": "46030",
+   "heading": "Bank Services: Pilot Schemes",
+   "questionText": "To ask the Chancellor of the Exchequer, what steps his Department is taking to encourage banks to pilot new approaches to in-person banking provision in 2027.",
+   "dateTabled": "2026-11-24T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1963711,
+   "uin": "46029",
+   "heading": "Bank Services: Regulation",
+   "questionText": "To ask the Chancellor of the Exchequer, whether his Department plans to bring forward legislation to create an access to banking services obligation on designated banks.",
+   "dateTabled": "2026-11-24T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1963709,
+   "uin": "46027",
+   "heading": "Access to Banking Review",
+   "questionText": "To ask the Chancellor of the Exchequer, when her Department plans to publish its response to the Independent Review into Access to Banking Services.",
+   "dateTabled": "2026-11-24T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1963020,
+   "uin": "45592",
+   "heading": "Post Offices: Kidsgrove",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what discussions his Department has had with Post Office Limited on restoring a Post Office service in Kidsgrove.",
+   "dateTabled": "2026-11-23T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  }
+ ],
+ "historyComplete": true
+}

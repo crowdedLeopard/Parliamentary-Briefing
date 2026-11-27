@@ -1,0 +1,1068 @@
+{
+ "id": 4139,
+ "fetchedOn": "2026-11-27",
+ "core": {
+  "id": 4139,
+  "nameListAs": "Lavery, Ian",
+  "nameDisplayAs": "Ian Lavery",
+  "nameFullTitle": "Ian Lavery MP",
+  "nameAddressAs": "Ian Lavery",
+  "latestParty": {
+   "id": 15,
+   "name": "Labour",
+   "abbreviation": "Lab",
+   "backgroundColour": "d50000",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": true,
+   "governmentType": 0,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "Blyth and Ashington",
+   "membershipFromId": 3922,
+   "house": 1,
+   "membershipStartDate": "2010-05-06T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2024-07-04T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/4139/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2024-05-31T00:00:00",
+    "constituencyEnd": null,
+    "house": 1,
+    "name": "Blyth and Ashington",
+    "id": 3922,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "2010-04-13T00:00:00",
+    "constituencyEnd": "2024-05-30T00:00:00",
+    "house": 1,
+    "name": "Wansbeck",
+    "id": 3826,
+    "startDate": "2010-05-06T00:00:00",
+    "endDate": "2024-05-30T00:00:00",
+    "additionalInfo": "Elected 4 times",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [],
+  "houseMemberships": [
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "2010-05-06T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Ian Lavery",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [],
+  "oppositionPosts": [
+   {
+    "house": 1,
+    "name": "Co-National Campaign Coordinator",
+    "id": 1363,
+    "startDate": "2017-06-14T00:00:00",
+    "endDate": "2020-04-05T00:00:00",
+    "additionalInfo": "Cabinet Office",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/cabinet-office"
+   },
+   {
+    "house": 1,
+    "name": "Campaigns and Elections Chair",
+    "id": 1313,
+    "startDate": "2017-02-11T00:00:00",
+    "endDate": "2017-06-14T00:00:00",
+    "additionalInfo": "Cabinet Office",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/cabinet-office"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Minister (Cabinet Office)",
+    "id": 956,
+    "startDate": "2016-10-07T00:00:00",
+    "endDate": "2020-04-05T00:00:00",
+    "additionalInfo": "Cabinet Office",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/cabinet-office"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Minister (Cabinet Office) (Trade Unions and Civil Society)",
+    "id": 1321,
+    "startDate": "2015-09-18T00:00:00",
+    "endDate": "2016-10-07T00:00:00",
+    "additionalInfo": "Cabinet Office",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/cabinet-office"
+   }
+  ],
+  "otherPosts": [
+   {
+    "house": 1,
+    "name": "Party Chair, Labour Party",
+    "id": 808,
+    "startDate": "2017-06-14T00:00:00",
+    "endDate": "2020-04-05T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Labour",
+    "id": 15,
+    "startDate": "2010-05-06T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 1,
+    "name": "Northern Ireland Affairs Committee",
+    "id": 120,
+    "startDate": "2010-07-26T00:00:00",
+    "endDate": "2011-10-24T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Regulatory Reform",
+    "id": 131,
+    "startDate": "2010-07-26T00:00:00",
+    "endDate": "2015-03-30T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Energy and Climate Change Committee",
+    "id": 50,
+    "startDate": "2015-07-08T00:00:00",
+    "endDate": "2015-10-26T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Energy and Climate Change Committee",
+    "id": 50,
+    "startDate": "2010-11-02T00:00:00",
+    "endDate": "2015-03-30T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Draft Deregulation Bill (Joint Committee)",
+    "id": 297,
+    "startDate": "2013-07-10T00:00:00",
+    "endDate": "2013-12-11T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Business, Innovation, Science and Trade Committee",
+    "id": 365,
+    "startDate": "2022-11-29T00:00:00",
+    "endDate": "2024-05-30T00:01:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Business and Trade Sub-Committee on National Security and Investment",
+    "id": 631,
+    "startDate": "2022-11-29T00:00:00",
+    "endDate": "2024-05-30T00:01:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 3,
+   "name": "2. (b) Any other support not included in Category 2(a)",
+   "sortOrder": 0,
+   "interests": [
+    {
+     "id": 14774,
+     "interest": "Name of donor: QTS Data Centres\r\nAddress of donor: 14-15 Conduit Street, London WIS2XJ\r\nAmount of donation or nature and value if donation in kind: Provision of venue and refreshments for a conference on Artificial Intelligence, value £7,276\r\nDate received: 6 February 2026\r\nDate accepted: 6 February 2026\r\nDonor status: company, registration 15777119\r\n(Registered 17 March 2026)",
+     "createdWhen": "2026-04-08T10:32:25.1612555",
+     "lastAmendedWhen": "2026-03-24T10:21:32.8066667",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "name": "9. Family members employed and paid from parliamentary expenses",
+   "sortOrder": 1,
+   "interests": [
+    {
+     "id": 2724,
+     "interest": "Name: Hilary Lavery\r\nRelationship: Spouse\r\nRole: Senior Secretary\r\nWorking pattern: Full time",
+     "createdWhen": "2024-04-18T15:21:56.8533333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [
+  {
+   "category": "Political Interests",
+   "focus": [
+    "Local regeneration, employment, energy, climate change, poverty, internationalism, sport"
+   ]
+  }
+ ],
+ "synopsis": "Ian Lavery is the Labour MP for <a href='/constituency/3922/overview'>Blyth and Ashington</a>, and has been an MP continually since 6 May 2010.",
+ "history": [
+  {
+   "id": 1961635,
+   "uin": "44562",
+   "heading": "Armed Forces: Coeliac Disease",
+   "questionText": "To ask the Secretary of State for Defence, how many waiver applications for coeliac disease have been received and granted since the July 2026 update to JSP 950 Leaflet 6-7-7 and before 2020.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1961634,
+   "uin": "44561",
+   "heading": "Armed Forces: Coeliac Disease",
+   "questionText": "To ask the Secretary of State for Defence, which military trades, branches, or roles have been (a) considered eligible for and (b) granted, medical waivers in cases involving coeliac disease since 2020.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1961657,
+   "uin": "44584",
+   "heading": "Reserve Forces: Coeliac Disease",
+   "questionText": "To ask the Secretary of State for Defence, for what reason the ban on applicants with coeliac disease includes those in reserve services.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1961656,
+   "uin": "44583",
+   "heading": "Armed Forces: Coeliac Disease",
+   "questionText": "To ask the Secretary of State for Defence, what assessment he has made of the potential merits of assessing applicants with coeliac disease (a) individually and (b) for UK-based posts, non-deployable posts and other roles where regular access to gluten-fr",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1961640,
+   "uin": "44567",
+   "heading": "Armed Forces: Coeliac Disease",
+   "questionText": "To ask the Secretary of State for Defence, if he will publish the clinical evidence and risk assessment for the decision to bar candidates with coeliac disease from joining the armed forces.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1961633,
+   "uin": "44560",
+   "heading": "Armed Forces: Coeliac Disease",
+   "questionText": "To ask the Secretary of State for Defence, are medical waivers for applicants diagnosed with coeliac disease granted (a) on an individual basis and (b) for specified trades and occupational groups.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1961629,
+   "uin": "44556",
+   "heading": "Armed Forces: Coeliac Disease",
+   "questionText": "To ask the Secretary of State for Defence, what criteria are applied when considering a medical waiver for an applicant diagnosed with coeliac disease.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1949082,
+   "uin": "34869",
+   "heading": "Energy Company Obligation",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what is her policy on whether, under the Article 19 health route, households containing a person whose health is worsened by a cold home should be excluded because the property has an EPC rat",
+   "dateTabled": "2026-10-14T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1949071,
+   "uin": "34858",
+   "heading": "Energy Company Obligation",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, whether eligibility under the health route of the Electricity and Gas (Energy Company Obligation) Order 2022 is intended to provide support for medically vulnerable households that do not mee",
+   "dateTabled": "2026-10-14T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1949074,
+   "uin": "34861",
+   "heading": "Energy Company Obligation",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, whether her Department has undertaken an Equality Act assessment of the effect of ECO4 Flex eligibility criteria on households containing disabled persons whose health is adversely affected b",
+   "dateTabled": "2026-10-14T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1949072,
+   "uin": "34859",
+   "heading": "Energy Company Obligation",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what assessment her Department has made of the potential impact of excluding homes with an EPC rating of C from ECO4 Flex support where the household otherwise satisfies the Article 19 health",
+   "dateTabled": "2026-10-14T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1949077,
+   "uin": "34864",
+   "heading": "Energy Company Obligation",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what evidence was used to determine that households qualifying under the Article 19 health route should remain excluded from ECO4 Flex assistance where the property has an EPC rating of C.",
+   "dateTabled": "2026-10-14T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1949078,
+   "uin": "34865",
+   "heading": "Energy Company Obligation",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, if she will review the operation of the EPC eligibility criteria within ECO4 Flex where a local authority has accepted a referral under Article 19 on the basis of a medically certified health",
+   "dateTabled": "2026-10-14T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1926123,
+   "uin": "17336",
+   "heading": "Haemophilia: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, for what reason the new service specification for haemophilia and related bleeding disorders has not been published; and when it will be published.",
+   "dateTabled": "2026-07-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1926475,
+   "uin": "17730",
+   "heading": "Blood: Contamination",
+   "questionText": "To ask the Minister for the Cabinet Office, how much funding he has allocated to compensate those infected and affected by contaminated blood.",
+   "dateTabled": "2026-07-10T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1913025,
+   "uin": "7141",
+   "heading": "Skilled Workers: Vacancies",
+   "questionText": "To ask the Secretary of State for Education, what steps her Department is taking to help tackle skills shortages in areas historically impacted by deindustrialisation.",
+   "dateTabled": "2026-06-05T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1913030,
+   "uin": "7146",
+   "heading": "British Business Bank",
+   "questionText": "To ask the Secretary of State for Business and Trade, what steps his Department is taking to ensure that investment from the British Business Bank is spread evenly throughout the country.",
+   "dateTabled": "2026-06-05T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1913027,
+   "uin": "7143",
+   "heading": "Economic Growth",
+   "questionText": "To ask the Chancellor of the Exchequer, what steps her Department is taking to encourage a culture of economic growth in deindustrialised areas.",
+   "dateTabled": "2026-06-05T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1913026,
+   "uin": "7142",
+   "heading": "Unemployment: Investment",
+   "questionText": "To ask the Chancellor of the Exchequer, what steps her Department is taking to encourage investment in areas with high economic inactivity historically impacted by deindustrialisation.",
+   "dateTabled": "2026-06-05T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1913029,
+   "uin": "7145",
+   "heading": "Business: Disadvantaged",
+   "questionText": "To ask the Secretary of State for Business and Trade, what steps his Department has taken to encourage businesses in deprived areas historically impacted by deindustrialisation to employ people locally.",
+   "dateTabled": "2026-06-05T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1913031,
+   "uin": "7147",
+   "heading": "Northern Powerhouse Investment Fund",
+   "questionText": "To ask the Secretary of State for Business and Trade, what the Northern Powerhouse investment fund has done to increase employment in areas historically impacted by deindustrialisation.",
+   "dateTabled": "2026-06-05T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1913028,
+   "uin": "7144",
+   "heading": "Growth Hubs",
+   "questionText": "To ask the Secretary of State for Business and Trade, what steps his Department is taking to ensure that support offered by Growth Hubs is not only used in places of concentrated wealth.",
+   "dateTabled": "2026-06-05T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1896626,
+   "uin": "124602",
+   "heading": "Social Media: Mental Health",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what further action the Government plans to take to help reduce the negative impacts of social media on the mental health of young people and wider society.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1902240,
+   "uin": "129116",
+   "heading": "Radiotherapy",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment has been made of the potential impact of increasing domestic NHS proton beam therapy on value for money in the NHS.",
+   "dateTabled": "2026-04-22T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1902239,
+   "uin": "129115",
+   "heading": "Radiotherapy: Finance",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what comparative assessment has been made of the cost to the NHS of delivering proton beam therapy domestically versus overseas.",
+   "dateTabled": "2026-04-22T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1902238,
+   "uin": "129114",
+   "heading": "Radiotherapy: Expenditure",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how much the NHS has spent on commissioning proton beam therapy, including overseas referrals, in each of the last five financial years.",
+   "dateTabled": "2026-04-22T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1902235,
+   "uin": "129111",
+   "heading": "Radiotherapy: Expenditure",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what information on his Department holds on the number of people who have partially or wholly self funded proton beam therapy in each of the last five years.",
+   "dateTabled": "2026-04-22T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1902223,
+   "uin": "129103",
+   "heading": "Radiotherapy",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many UK residents received proton beam therapy (a) domestically and (b) overseas under NHS commissioning arrangements in each of the last five financial years.",
+   "dateTabled": "2026-04-22T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1902241,
+   "uin": "129117",
+   "heading": "Cancer: Medical Treatments",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what estimate has been made of the long-term cost to the NHS of (a) delayed and (b) disrupted access to specialist cancer treatment.",
+   "dateTabled": "2026-04-22T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1902237,
+   "uin": "129113",
+   "heading": "Cancer: Medical Treatments",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the potential impact of prolonged or distant cancer treatment on the personal finances of (a) patients and (b) unpaid carers.",
+   "dateTabled": "2026-04-22T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1902234,
+   "uin": "129110",
+   "heading": "Cancer: Medical Treatments",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the potential impact of travel distance and associated costs on access to specialist cancer treatment.",
+   "dateTabled": "2026-04-22T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1902231,
+   "uin": "129108",
+   "heading": "Cancer: Waiting Lists",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the potential impact of the time taken to access specialist cancer treatments on patient outcomes and long term NHS costs.",
+   "dateTabled": "2026-04-22T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1902246,
+   "uin": "129122",
+   "heading": "Rutherford Health: Closures",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment has been made of the long-term potential social and economic impacts of closed Rutherford Health sites on communities.",
+   "dateTabled": "2026-04-22T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1902244,
+   "uin": "129120",
+   "heading": "Rutherford Health: Northumberland",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment has been made of the potential merits, costs and feasibility of bringing the former Rutherford Centre at Bomarsund into NHS ownership or management.",
+   "dateTabled": "2026-04-22T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1902243,
+   "uin": "129119",
+   "heading": "Rutherford Health: Closures",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment has been made of clinical impact, treatment timings and associated costs for the NHS resulting from the closure of Rutherford Health centres, including the Bomarsund site.",
+   "dateTabled": "2026-04-22T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1902242,
+   "uin": "129118",
+   "heading": "Rutherford Health: Insolvency",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what estimate has been made of the cost to the NHS of taking on patients who were previously receiving care from Rutherford Health prior to its liquidation.",
+   "dateTabled": "2026-04-22T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1902230,
+   "uin": "129107",
+   "heading": "Cancer: Waiting Lists",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many patients in England (a) are awaiting cancer treatment and (b) have been waiting longer than the (i) 31 and (ii) 62 day targets.",
+   "dateTabled": "2026-04-22T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1902233,
+   "uin": "129109",
+   "heading": "Radiotherapy: Expenditure",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what estimate his Department has made of the (a) average and (b) total out of pocket costs incurred by patients and families accessing proton beam therapy, including travel, accommodation and subsi",
+   "dateTabled": "2026-04-22T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1902225,
+   "uin": "129105",
+   "heading": "Radiotherapy",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of trends in the level of (a) current and (b) future demand for proton beam therapy in England.",
+   "dateTabled": "2026-04-22T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1902236,
+   "uin": "129112",
+   "heading": "Medical Treatments",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the potential impact of healthcare treatment uptake on the finances of low income households.",
+   "dateTabled": "2026-04-22T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1902228,
+   "uin": "129106",
+   "heading": "Cancer: Medical Treatments",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of trends in the level of regional disparities in access to proton beam therapy and other highly specialised cancer treatments.",
+   "dateTabled": "2026-04-22T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1902224,
+   "uin": "129104",
+   "heading": "Radiotherapy",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what estimate his Department has made of the number of patients who were eligible for proton beam therapy but did not receive it due to availability in each of the last five years.",
+   "dateTabled": "2026-04-22T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1896624,
+   "uin": "124600",
+   "heading": "Internet: Hate Crime",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, whether the Government plans to introduce legislation to limit the creation of echo chambers and the use of harmful algorithms that promote hate for financial gain.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1896623,
+   "uin": "124599",
+   "heading": "Social Media: Hate Crime",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what steps the Government intends to take to regulate social media algorithms that promote or amplify hateful content.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1896621,
+   "uin": "124597",
+   "heading": "Social Media: Hate Crime",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what consideration the Government has given to introducing further regulations on social media companies to address the prevalence of hate speech online.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1896631,
+   "uin": "124607",
+   "heading": "Middle East: USA",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what recent assessment she has made of the potential impact of US action in the Middle East on British citizens.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1902245,
+   "uin": "129121",
+   "heading": "Rutherford Health: Closures",
+   "questionText": "To ask the Secretary of State for Business and Trade, what assessment has been made of the potential impact of the closure of Rutherford Health facilities on local businesses and levels of employment.",
+   "dateTabled": "2026-04-22T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1896622,
+   "uin": "124598",
+   "heading": "Internet: Hate Crime",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, whether the Government plans to bring forward further legislation to help prevent and hold online platforms accountable for the monetisation of hate-driven engagement.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1896628,
+   "uin": "124604",
+   "heading": "Mental Health: Social Media",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether the Government has reviewed recent evidence on the potential impact of social media on users’ mental health.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1896627,
+   "uin": "124603",
+   "heading": "Social Media: Mental Health",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what support the Government intends to provide to individuals who have experienced mental harm as a result of social media use.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1896629,
+   "uin": "124605",
+   "heading": "Defence",
+   "questionText": "To ask the Secretary of State for Defence, what steps the Government is taking to strengthen the United Kingdom’s defence capabilities and improve national readiness.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Ministry of Defence"
+  },
+  {
+   "id": 1896625,
+   "uin": "124601",
+   "heading": "Social Media: Radicalism",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what assessment the Government has made of the level of requirement for additional legislation to help prevent social media companies from promoting extreme ideologies through their pla",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1890709,
+   "uin": "120338",
+   "heading": "NHS: Postal Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what recent assessment he has made of the potential impact of postal delays on national screening programmes, including bowel, cervical and breast cancer screening.",
+   "dateTabled": "2026-03-12T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1896630,
+   "uin": "124606",
+   "heading": "Electric Vehicles: Prices",
+   "questionText": "To ask the Secretary of State for Transport, what consideration the Government has given to the potential merits of introducing legislation aimed at making electric vehicles more affordable, in the context of increases in the cost of oil.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1893430,
+   "uin": "122506",
+   "heading": "Climate Change and Energy Supply: National Security",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment her Department has made of the potential impact of climate-driven global crop failures, droughts and energy system strain on UK national security.",
+   "dateTabled": "2026-03-20T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1899291,
+   "uin": "908663",
+   "heading": "Infected Blood Inquiry",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps he has taken with Cabinet colleagues to implement recommendation nine of the Infected Blood Inquiry's report.",
+   "dateTabled": "2026-03-26T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1895572,
+   "uin": "124090",
+   "heading": "Revenue and Customs: Managed Service Companies",
+   "questionText": "To ask the Chancellor of the Exchequer, whether callers to HMRC are advised whether the person they are speaking to is employed by HMRC or a Managed Service Provider.",
+   "dateTabled": "2026-03-26T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1895571,
+   "uin": "124089",
+   "heading": "Revenue and Customs: Managed Service Companies",
+   "questionText": "To ask the Chancellor of the Exchequer, how HMRC will ensure parity in standards of advice, security compliance, and customer outcomes between those employed by the Managed Service Provider and those employed directly by HMRC.",
+   "dateTabled": "2026-03-26T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1895570,
+   "uin": "124088",
+   "heading": "Revenue and Customs: Managed Service Companies",
+   "questionText": "To ask the Chancellor of the Exchequer, whether HMRC has assessed the potential impact of differing terms, conditions, training, and turnover rates on service quality and resilience in relation to the use of Managed Service Providers.",
+   "dateTabled": "2026-03-26T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1895569,
+   "uin": "124087",
+   "heading": "Revenue and Customs: Managed Service Companies",
+   "questionText": "To ask the Chancellor of the Exchequer, what safeguards are in place to prevent the creation of a two tier workforce between Managed Service Provider staff and those directly employed by HMRC, and if she will make a statement.",
+   "dateTabled": "2026-03-26T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1895568,
+   "uin": "124086",
+   "heading": "Civil Servants",
+   "questionText": "To ask the Chancellor of the Exchequer, if she will give assurance that Managed Service Provider expansion will not result in a reduction in permanent civil service posts over the medium term, and if she will make a statement.",
+   "dateTabled": "2026-03-26T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1893436,
+   "uin": "122510",
+   "heading": "Local Government: Finance",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, if he will set out what support his Department and Cabinet colleagues makes available to local authorities to develop community energy schemes, local food production and emergenc",
+   "dateTabled": "2026-03-20T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1893425,
+   "uin": "122501",
+   "heading": "National Security: Infrastructure",
+   "questionText": "To ask the Minister for the Cabinet Office, whether he plans to update national resilience standards for (a) transport, (b) water, (c) energy and (d) digital infrastructure.",
+   "dateTabled": "2026-03-20T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1893432,
+   "uin": "122508",
+   "heading": "National Security",
+   "questionText": "To ask the Minister for the Cabinet Office, whether he plans to publish an updated National Resilience Strategy covering food, energy, health, critical minerals and supply chain vulnerabilities.",
+   "dateTabled": "2026-03-20T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1893433,
+   "uin": "122509",
+   "heading": "Armed Conflict and Diseases",
+   "questionText": "To ask the Minister for the Cabinet Office, what lessons his Department has learned about the impact of recent global conflicts and pandemics on UK strategic autonomy.",
+   "dateTabled": "2026-03-20T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1893421,
+   "uin": "122487",
+   "heading": "NHS: Drugs",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the UK’s preparedness for medicine shortages caused by future pandemics or international disruptions.",
+   "dateTabled": "2026-03-20T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1893420,
+   "uin": "122486",
+   "heading": "NHS: Drugs and Medical Devices",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what proportion of NHS medicines and medical devices depend on overseas supply chains, and what action is being taken to strengthen domestic manufacturing capacity.",
+   "dateTabled": "2026-03-20T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1893418,
+   "uin": "122484",
+   "heading": "Energy: Prices",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what assessment his Department has made of UK energy resilience to disruption to global gas or electricity markets.",
+   "dateTabled": "2026-03-20T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1893419,
+   "uin": "122485",
+   "heading": "Renewable Energy",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what plans his Department has to accelerate domestic renewable generation, including offshore wind, tidal energy, green hydrogen and geothermal.",
+   "dateTabled": "2026-03-20T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1893427,
+   "uin": "122503",
+   "heading": "Industry and Small Businesses: Supply Chains",
+   "questionText": "To ask the Secretary of State for Business and Trade, what steps he is taking to support (a) SMEs and (b) strategic industries in the context of reducing dependence on global supply chains.",
+   "dateTabled": "2026-03-20T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1893423,
+   "uin": "122489",
+   "heading": "Minerals: Recycling",
+   "questionText": "To ask the Secretary of State for Business and Trade, what steps are being taken to develop domestic processing and recycling of critical minerals.",
+   "dateTabled": "2026-03-20T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1893422,
+   "uin": "122488",
+   "heading": "Minerals: Imports",
+   "questionText": "To ask the Secretary of State for Business and Trade, what analysis his Department has undertaken of the UK’s level of reliance on imported critical minerals essential for battery production, semiconductors and renewable energy technologies.",
+   "dateTabled": "2026-03-20T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1893426,
+   "uin": "122502",
+   "heading": "Manufacturing Industries",
+   "questionText": "To ask the Secretary of State for Business and Trade, what steps he is taking to help increase domestic manufacturing capacity in (a) grid components, (b) pharmaceuticals, (c) advanced materials and (d) other essential sectors.",
+   "dateTabled": "2026-03-20T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1893429,
+   "uin": "122505",
+   "heading": "Food: Transport",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, whether she has made an assessment of the potential merits of introducing food mile targets in food networks.",
+   "dateTabled": "2026-03-20T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1893428,
+   "uin": "122504",
+   "heading": "Agriculture: Environment Protection",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps she is taking to support controlled-environment agriculture, regenerative farming and other sustainable methods.",
+   "dateTabled": "2026-03-20T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1893417,
+   "uin": "122483",
+   "heading": "Food: Imports",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what evaluation her Department has made of levels of reliance on climate-vulnerable food imports and the risks posed by extreme weather events overseas.",
+   "dateTabled": "2026-03-20T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1893431,
+   "uin": "122507",
+   "heading": "Agriculture: Environment Protection",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps she is taking to protect domestic agriculture from climate-related risks including flooding, heat stress and soil degradation.",
+   "dateTabled": "2026-03-20T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1893416,
+   "uin": "122482",
+   "heading": "Food Supply",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what recent assessment her Department has made of the UK’s overall level of food self-sufficiency, and what steps are being taken to increase domestic production of key staples.",
+   "dateTabled": "2026-03-20T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1893424,
+   "uin": "122490",
+   "heading": "National Security",
+   "questionText": "To ask the Minister for the Cabinet Office, what assessment he has made with Cabinet colleagues of the adequacy of UK's protection against simultaneous events such as extreme weather, cyber-attack and global supply chain disruption.",
+   "dateTabled": "2026-03-20T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1890715,
+   "uin": "120343",
+   "heading": "NHS: Postal Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what guidance he has issued to (a) NHS trusts and (b) GP practices on the use of alternative communication methods in areas affected by Royal Mail delays; and what assessment he has made of its eff",
+   "dateTabled": "2026-03-12T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1890711,
+   "uin": "120340",
+   "heading": "NHS: Postal Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the potential impact of postal delays on the timely delivery of referral letters between primary and secondary care.",
+   "dateTabled": "2026-03-12T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1890708,
+   "uin": "120337",
+   "heading": "NHS: Postal Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what estimate he has made of the cost to the NHS of repeat appointments, replacement sample kits and additional clinical activity caused by postal delays.",
+   "dateTabled": "2026-03-12T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1890707,
+   "uin": "120336",
+   "heading": "NHS: Postal Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many patient samples sent via Royal Mail have been rendered unusable due to late arrival at laboratories in each of the last five years.",
+   "dateTabled": "2026-03-12T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1890706,
+   "uin": "120335",
+   "heading": "NHS: Postal Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the potential impact of routine cases becoming urgent as a result of appointment letters being delayed in the post on the NHS.",
+   "dateTabled": "2026-03-12T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1890705,
+   "uin": "120334",
+   "heading": "NHS: Postal Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what estimate he has made of the number of NHS appointments missed as a result of delays in the delivery of appointment letters by Royal Mail in the last 12 months.",
+   "dateTabled": "2026-03-12T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1890714,
+   "uin": "120342",
+   "heading": "NHS: Postal Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the potential impact of postal delays on patients who rely on written communication from the NHS, including (a) older people, (b) disabled people and (c) patients wit",
+   "dateTabled": "2026-03-12T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1890710,
+   "uin": "120339",
+   "heading": "NHS: Postal Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps he is taking to mitigate patient safety risks arising from delayed delivery of NHS clinical correspondence through the postal system.",
+   "dateTabled": "2026-03-12T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1890713,
+   "uin": "120341",
+   "heading": "NHS: Postal Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what estimate he has made of the number of patients who have experienced disruption to repeat prescriptions as a result of postal delays.",
+   "dateTabled": "2026-03-12T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1876326,
+   "uin": "109105",
+   "heading": "Health Services: Hazardous Substances",
+   "questionText": "To ask the Secretary of State for Work and Pensions, if he will make and assessment of the potential merits of reviewing the Control of Substances Hazardous to Health Regulations 2002 to ensure that hazardous medicinal products with reprotoxic effects are",
+   "dateTabled": "2026-01-28T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1876324,
+   "uin": "109104",
+   "heading": "Health Professions: Hazardous Substances",
+   "questionText": "To ask the Secretary of State for Work and Pensions, whether his Department plans to develop or adopt a UK list of hazardous medicinal products and to require safety data sheets for finished medicines; and if he will take steps to work with the Health and",
+   "dateTabled": "2026-01-28T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1876323,
+   "uin": "109103",
+   "heading": "Health Professions: Hazardous Substances",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what estimate his Department has made of the number of nurses and other healthcare professionals currently exposed to hazardous medicinal products; and if he will publish an estimate of how many wo",
+   "dateTabled": "2026-01-28T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1876328,
+   "uin": "109107",
+   "heading": "Health Professions: Hazardous Substances",
+   "questionText": "To ask the Secretary of State for Work and Pensions, if he will require NHS employers to provide ongoing education, training and health surveillance for all staff who handle or may be exposed to hazardous medicinal products.",
+   "dateTabled": "2026-01-28T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1876327,
+   "uin": "109106",
+   "heading": "Health Professions: Hazardous Substances",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what steps he is taking to promote the use of engineering controls such as biological safety cabinets and closed-system drug-transfer devices during preparation and administration of hazardous medicinal",
+   "dateTabled": "2026-01-28T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1876329,
+   "uin": "109108",
+   "heading": "Health Professions: Hazardous Substances",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what research his Department has commissioned on the long-term health effects, including reproductive health outcomes, of occupational exposure to hazardous medicinal products among nursing staff; ",
+   "dateTabled": "2026-01-28T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1863290,
+   "uin": "99178",
+   "heading": "Neighbourhood Health Centres: Finance",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the potential merits of funding neighbourhood health centres through alternative, non-private finance means.",
+   "dateTabled": "2025-12-11T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1863292,
+   "uin": "99180",
+   "heading": "NHS: Private Finance Initiative",
+   "questionText": "To ask the Secretary of State for Health and Social Care, if he will publish his Department’s business case on new private finance in the NHS.",
+   "dateTabled": "2025-12-11T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1863289,
+   "uin": "99169",
+   "heading": "NHS: Finance",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what estimate he has made of the impact of (a) changes in patient need, (b) drug prices, (c) inflation and (d) changes in the level of private finance debt on the budget for the NHS in each of the ",
+   "dateTabled": "2025-12-11T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1863291,
+   "uin": "99179",
+   "heading": "NHS: Private Finance Initiative",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the potential merits of renegotiating current private finance debt to reduce future payouts.",
+   "dateTabled": "2025-12-11T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1861947,
+   "uin": "97784",
+   "heading": "Toys and Games: Sales",
+   "questionText": "To ask the Secretary of State for Business and Trade, whether she has issued guidance to (a) schools and (b) educational establishments to make them aware of potential concerns with Colours Play Sand.",
+   "dateTabled": "2025-12-08T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1861945,
+   "uin": "97783",
+   "heading": "Toys and Games: Sales",
+   "questionText": "To ask the Secretary of State for Business and Trade, what steps he is taking to communicate concerns of potential harmful substances in Educational Colours Rainbow Sand.",
+   "dateTabled": "2025-12-08T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1861943,
+   "uin": "97782",
+   "heading": "Toys and Games: Sales",
+   "questionText": "To ask the Secretary of State for Business and Trade, what data he holds on how many packs of educational colours rainbow sand was sold before it was no longer available.",
+   "dateTabled": "2025-12-08T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1863293,
+   "uin": "99181",
+   "heading": "Palliative Care",
+   "questionText": "To ask the Secretary of State for Health and Social Care, if he will publish a new national strategy for palliative and end-of-life care.",
+   "dateTabled": "2025-12-11T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  }
+ ],
+ "historyComplete": true
+}

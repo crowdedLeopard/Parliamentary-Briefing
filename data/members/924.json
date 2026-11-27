@@ -1,0 +1,787 @@
+{
+ "id": 924,
+ "fetchedOn": "2026-11-27",
+ "core": {
+  "id": 924,
+  "nameListAs": "Moynihan, L.",
+  "nameDisplayAs": "Lord Moynihan",
+  "nameFullTitle": "The Lord Moynihan",
+  "nameAddressAs": null,
+  "latestParty": {
+   "id": 4,
+   "name": "Conservative",
+   "abbreviation": "Con",
+   "backgroundColour": "0063ba",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": false,
+   "governmentType": 3,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "Life peer",
+   "membershipFromId": 4,
+   "house": 2,
+   "membershipStartDate": "2026-06-04T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2026-06-04T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/924/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "1983-05-14T00:00:00",
+    "constituencyEnd": "1997-04-08T00:00:00",
+    "house": 1,
+    "name": "Lewisham East",
+    "id": 1752,
+    "startDate": "1983-06-09T00:00:00",
+    "endDate": "1992-04-09T00:00:00",
+    "additionalInfo": "Elected 2 times",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [
+   {
+    "house": 1,
+    "name": "Lewisham East",
+    "id": 1752,
+    "startDate": "1992-04-09T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "houseMemberships": [
+   {
+    "house": 2,
+    "name": "Lords",
+    "id": 2,
+    "startDate": "2026-06-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Lord Moynihan",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 2,
+    "name": "Lords",
+    "id": 2,
+    "startDate": "1997-04-30T00:00:00",
+    "endDate": "2026-04-29T00:00:00",
+    "additionalInfo": "Lord Moynihan",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "1983-06-09T00:00:00",
+    "endDate": "1992-04-09T00:00:00",
+    "additionalInfo": "Colin Moynihan",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [
+   {
+    "house": 1,
+    "name": "Parliamentary Under-Secretary (Department of Energy)",
+    "id": 429,
+    "startDate": "1990-07-24T00:00:00",
+    "endDate": "1992-04-11T00:00:00",
+    "additionalInfo": "Department of Energy",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Parliamentary Under-Secretary (Department of Environment) (Sport)",
+    "id": 620,
+    "startDate": "1987-06-22T00:00:00",
+    "endDate": "1990-07-26T00:00:00",
+    "additionalInfo": "Department for the Environment",
+    "additionalInfoLink": null
+   }
+  ],
+  "oppositionPosts": [
+   {
+    "house": 2,
+    "name": "Shadow Minister (Business, Innovation, Science and Trade)",
+    "id": 1752,
+    "startDate": "2026-09-17T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Department for Business, Innovation, Science and Trade",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-business-innovation-science-and-trade"
+   },
+   {
+    "house": 2,
+    "name": "Shadow Minister (Digital, Culture, Media and Sport)",
+    "id": 1753,
+    "startDate": "2026-09-17T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Department for Digital, Culture, Media and Sport",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-digital-culture-media-and-sport"
+   },
+   {
+    "house": 2,
+    "name": "Shadow Minister (Energy Security and Net Zero)",
+    "id": 1679,
+    "startDate": "2026-06-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Department for Energy Security and Net Zero",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero"
+   }
+  ],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Conservative",
+    "id": 4,
+    "startDate": "1983-06-09T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 2,
+    "name": "Olympic and Paralympic Legacy Committee",
+    "id": 293,
+    "startDate": "2013-05-16T00:00:00",
+    "endDate": "2013-11-06T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 2,
+    "name": "The Arctic",
+    "id": 308,
+    "startDate": "2014-06-12T00:00:00",
+    "endDate": "2015-02-11T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 2,
+    "name": "Delegated Powers and Regulatory Reform Committee",
+    "id": 173,
+    "startDate": "2015-06-08T00:00:00",
+    "endDate": "2019-07-01T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 2,
+    "name": "National Plan for Sport and Recreation Committee",
+    "id": 482,
+    "startDate": "2020-10-15T00:00:00",
+    "endDate": "2021-11-24T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 4105,
+     "interest": "Sole trader, CMA Consultants (consultancy to energy, engineering and related companies, and sport and recreation initiatives)",
+     "createdWhen": "2010-04-26T12:55:34",
+     "lastAmendedWhen": "2026-06-08T16:26:47.663",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 14776,
+     "interest": "Partner and chairman, Buckthorn Partners LLP (private equity industrial partnership specialising in energy transition)",
+     "createdWhen": "2015-02-11T12:01:34",
+     "lastAmendedWhen": "2026-06-08T16:27:07.88",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 35750,
+     "interest": "Advisory Board member, Sports 12 Education Limited (trading as InSport Education, providing sport business education courses) (interest ceased 9 November 2026)",
+     "createdWhen": "2020-06-16T14:04:25",
+     "lastAmendedWhen": "2026-11-10T11:26:25.413",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 41536,
+     "interest": "Chair and director, Amey UK Limited (infrastructure services and engineering)",
+     "createdWhen": "2023-01-16T10:12:38",
+     "lastAmendedWhen": "2026-06-04T12:56:17.42",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 44073,
+     "interest": "Chair, Santis Bidco Ltd (trading as Acteon; provides products and services for marine energy and infrastructure businesses)",
+     "createdWhen": "2024-04-18T18:51:01",
+     "lastAmendedWhen": "2026-06-04T12:56:41.637",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1001,
+   "name": "Category 1: Remunerated employment etc.",
+   "sortOrder": 1041,
+   "interests": [
+    {
+     "id": 44284,
+     "interest": "Senior adviser (providing commercial and marketing advice) to Trustmarque (IT)",
+     "createdWhen": "2024-05-14T13:47:17",
+     "lastAmendedWhen": "2026-06-04T12:57:03.433",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1003,
+   "name": "Category 2: Shareholdings etc. (b)",
+   "sortOrder": 1043,
+   "interests": [
+    {
+     "id": 41538,
+     "interest": "Project Ardent Topco Ltd (holding company of Amey UK Limited)",
+     "createdWhen": "2023-01-16T10:17:33",
+     "lastAmendedWhen": "2026-06-08T17:40:58.54",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1003,
+   "name": "Category 2: Shareholdings etc. (b)",
+   "sortOrder": 1043,
+   "interests": [
+    {
+     "id": 44098,
+     "interest": "Project Santis Topco Ltd (holding company of Acteon Group)",
+     "createdWhen": "2024-04-22T10:29:38",
+     "lastAmendedWhen": "2026-06-08T17:41:21.933",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1003,
+   "name": "Category 2: Shareholdings etc. (b)",
+   "sortOrder": 1043,
+   "interests": [
+    {
+     "id": 47851,
+     "interest": "BP Inv6 New TopCo Ltd (holding company of Cardo Group Ltd)",
+     "createdWhen": "2026-06-08T17:40:03",
+     "lastAmendedWhen": "2026-06-08T17:40:09.677",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1003,
+   "name": "Category 2: Shareholdings etc. (b)",
+   "sortOrder": 1043,
+   "interests": [
+    {
+     "id": 47852,
+     "interest": "BP Inv8 TopCo Ltd (holding company of Voltheia Group Limited)",
+     "createdWhen": "2026-06-08T17:40:25",
+     "lastAmendedWhen": "2026-06-08T17:40:35.85",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 1004,
+   "name": "Category 2: Shareholdings etc. (c)",
+   "sortOrder": 1044,
+   "interests": [
+    {
+     "id": 30874,
+     "interest": "BP Inv3 LP (private equity fund specialising in energy transition)",
+     "createdWhen": "2017-11-06T13:25:16",
+     "lastAmendedWhen": "2025-04-07T14:38:50.82",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [],
+ "synopsis": "Lord Moynihan's full title is The Lord Moynihan. His name is Colin Berkeley Moynihan, and he is a current member of the House of Lords.",
+ "history": [
+  {
+   "id": 1959773,
+   "uin": "HL5313",
+   "heading": "Climate Change Convention: Turkey",
+   "questionText": "To ask His Majesty's Government what estimate they have made of the carbon footprint of the United Kingdom’s delegation at COP31.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1959746,
+   "uin": "HL5319",
+   "heading": "Sizewell C Power Station: Ownership",
+   "questionText": "To ask His Majesty's Government what recent assessment they have made of the effectiveness of the novel ownership structure of Sizewell C.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1959748,
+   "uin": "HL5317",
+   "heading": "Sizewell C Power Station: Corporate Governance",
+   "questionText": "To ask His Majesty's Government what metrics they will use to assess whether its shareholder representatives for Sizewell C have the requisite skills and experience.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1959749,
+   "uin": "HL5316",
+   "heading": "Sizewell C Power Station: Costs",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the cost forecasts and delivery timetable for Sizewell C.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1959747,
+   "uin": "HL5318",
+   "heading": "Nuclear Power",
+   "questionText": "To ask His Majesty's Government what plans they have to create, promote, and maintain a competitive market for nuclear power technologies.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1959774,
+   "uin": "HL5312",
+   "heading": "Climate Change Convention: Turkey",
+   "questionText": "To ask His Majesty's Government what was the total cost of travel and accommodation at the COP31 climate summit, for special advisers and officials.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1959775,
+   "uin": "HL5311",
+   "heading": "Climate Change Convention: Turkey",
+   "questionText": "To ask His Majesty's Government what was the total cost of travel and accommodation at the COP31 climate summit for the United Kingdom’s delegation.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1959776,
+   "uin": "HL5310",
+   "heading": "Climate Change Convention: Turkey",
+   "questionText": "To ask His Majesty's Government how many special advisers and officials in total attended COP31, broken down by Government department.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1959772,
+   "uin": "HL5314",
+   "heading": "Climate Change Convention: Turkey",
+   "questionText": "To ask His Majesty's Government what estimate they have made of the carbon footprint of the Prime Minister’s journey to COP31.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1959771,
+   "uin": "HL5315",
+   "heading": "Climate Change Convention: Turkey",
+   "questionText": "To ask His Majesty's Government for how long the Prime Minister was present at the COP31 climate summit.",
+   "dateTabled": "2026-11-12T00:00:00",
+   "answeringBodyName": "Cabinet Office"
+  },
+  {
+   "id": 1955811,
+   "uin": "HL4816",
+   "heading": "Offshore Industry: North Sea Oil and Gas",
+   "questionText": "To ask His Majesty's Government, further to the answer by Baroness Curran on 29 October (HL Deb Col 1255), what factors the Secretary of State for Energy Security and Net Zero intends to take into account when responding to the request for an additional E",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1955013,
+   "uin": "HL4728",
+   "heading": "Falkland Islands: Oil",
+   "questionText": "To ask His Majesty's Government whether the Secretary of State for Foreign, Commonwealth and Development Affairs has granted a production licence to Navitas Petroleum as Operator for the Sea Lion Oil Field in the South Atlantic in 2026; and whether they s",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1955011,
+   "uin": "HL4730",
+   "heading": "Offshore Industry: North Sea",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the expertise and experience of the experts who prepared the revised environmental impact assessment for the Rosebank oilfield.",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1955012,
+   "uin": "HL4729",
+   "heading": "Offshore Industry: North Sea",
+   "questionText": "To ask His Majesty's Government whether Equinor has updated the environmental statement information under Schedule 6 of Regulation 12(1) of the Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulatio",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1955021,
+   "uin": "HL4726",
+   "heading": "Offshore Industry: North Sea",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the expertise and experience of the experts who prepared the revised environmental impact assessment for the Rosebank oilfield.",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1955014,
+   "uin": "HL4727",
+   "heading": "Offshore Industry: North Sea",
+   "questionText": "To ask His Majesty's Government whether there were additional requirements imposed on Equinor by Scotland’s Court of Session in January 2025 to the request for “Scope 3” emissions to be submitted by the Operator in a new Environmental Impact Assessment fo",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1951372,
+   "uin": "HL4335",
+   "heading": "Natural Gas: Storage",
+   "questionText": "To ask His Majesty's Government what progress they have made towards finalising a cap-and-floor revenue arrangement to support a £2 billion investment by Centrica in the site to extend Rough’s production consent beyond April 2027.",
+   "dateTabled": "2026-10-20T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1951370,
+   "uin": "HL4337",
+   "heading": "National Grid: Temperature",
+   "questionText": "To ask His Majesty's Government whether they consider the National Energy System Operator’s report, Whistleblowing investigation: final report, published on 19 October, as sufficiently comprehensive to ensure no local or nationwide blackouts will occur ov",
+   "dateTabled": "2026-10-20T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1951371,
+   "uin": "HL4336",
+   "heading": "National Grid: Temperature",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the findings of the National Energy System Operator’s report, Whistleblowing investigation: final report, published on 19 October.",
+   "dateTabled": "2026-10-20T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1950216,
+   "uin": "HL4256",
+   "heading": "Fuels: Imports",
+   "questionText": "To ask His Majesty's Government how much diesel and jet fuel have been imported into the UK from Türkiye and India using refined Russian crude oil since 20 May.",
+   "dateTabled": "2026-10-19T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1950215,
+   "uin": "HL4257",
+   "heading": "Oil: Imports",
+   "questionText": "To ask His Majesty's Government whether they exempted the imports of oil products refined abroad from Russian crude for an indefinite duration under the General Trade Licence exemption which took effect on 20 May.",
+   "dateTabled": "2026-10-19T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1950214,
+   "uin": "HL4258",
+   "heading": "Aviation: Fuels",
+   "questionText": "To ask His Majesty's Government what assessment they have made of how much aviation fuel used by flights out of London Gatwick and London Heathrow airports currently contains a proportion of fuel refined from Russian crude.",
+   "dateTabled": "2026-10-19T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1950213,
+   "uin": "HL4259",
+   "heading": "Fuels: India",
+   "questionText": "To ask His Majesty's Government what plans they have for Shell Haven to feed directly into the United Kingdom oil pipeline to provide Indian fuel exporters a direct route into the United Kingdom oil pipeline.",
+   "dateTabled": "2026-10-19T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1947497,
+   "uin": "HL3979",
+   "heading": "Falkland Islands: Offshore Industry",
+   "questionText": "To ask His Majesty's Government, further to the Written Answers by Lord Wood of Anfield on 1 October (HL3718, HL3719, and HL3721), whether the Foreign Secretary has consented to the Sea Lion Northern Oil field development as set out in the Offshore Minera",
+   "dateTabled": "2026-10-12T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1948740,
+   "uin": "HL4057",
+   "heading": "Tidal Power",
+   "questionText": "To ask His Majesty's Government, in light of the work undertaken by the Severn Estuary Commission and other recent assessments of tidal range energy, whether they will develop a national tidal range strategy setting out a pathway for technology demonstrat",
+   "dateTabled": "2026-10-13T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1948741,
+   "uin": "HL4056",
+   "heading": "Tidal Power",
+   "questionText": "To ask His Majesty's Government what consideration they have given to the recommendations of the Severn Estuary Commission's report, published in March 2025, on financial and commercial models for tidal range projects, including its recommendation that a ",
+   "dateTabled": "2026-10-13T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1948742,
+   "uin": "HL4055",
+   "heading": "Tidal Power",
+   "questionText": "To ask His Majesty's Government what support is available to demonstrate new UK-developed tidal range turbine technologies at operational scale, in order to establish their performance, environmental impact, manufacturing requirements, and commercial viab",
+   "dateTabled": "2026-10-13T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1948743,
+   "uin": "HL4054",
+   "heading": "Tidal Power",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the potential contribution of predictable tidal range generation to reducing electricity-system balancing requirements, renewable curtailment, storage requirements, and transmission constra",
+   "dateTabled": "2026-10-13T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1948739,
+   "uin": "HL4058",
+   "heading": "Tidal Power",
+   "questionText": "To ask His Majesty's Government what mechanisms they propose to support technology and delivery models to prove the demonstration phase of tidal range technologies in order to encourage the private sector to commit capital to major tidal range projects at",
+   "dateTabled": "2026-10-13T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1948744,
+   "uin": "HL4053",
+   "heading": "Tidal Power",
+   "questionText": "To ask His Majesty's Government what assessment they have made of recent developments in low-head and bi-directional turbine technology and their potential to improve the economic viability and annual energy output of tidal range generation in the United ",
+   "dateTabled": "2026-10-13T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1943804,
+   "uin": "HL3722",
+   "heading": "Offshore Industry: Falkland Islands",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the environmental impact of new oil fields in Falkland Island waters; and whether they support the development of new oil fields in those waters.",
+   "dateTabled": "2026-09-17T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1943807,
+   "uin": "HL3721",
+   "heading": "Falkland Islands: Oil",
+   "questionText": "To ask His Majesty's Government what the role of the Secretary of State for Foreign, Commonwealth and Development Affairs has been in the approval of oil production licenses in the Falkland Islands in the last thirty years; and whether they anticipate any",
+   "dateTabled": "2026-09-17T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1943811,
+   "uin": "HL3719",
+   "heading": "Falkland Islands: Offshore Industry",
+   "questionText": "To ask His Majesty's Government what the role of the Secretary of State for Foreign, Commonwealth and Commonwealth Affairs is regarding the development and production of oil in new offshore fields within Falkland Island waters in light of the Offshore Min",
+   "dateTabled": "2026-09-17T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1943812,
+   "uin": "HL3718",
+   "heading": "Falkland Islands: Offshore Industry",
+   "questionText": "To ask His Majesty's Government whether the Secretary of State for Foreign, Commonwealth and Commonwealth Affairs has consented to the development and production programme for the Sea Lion Northern oil field.",
+   "dateTabled": "2026-09-17T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1943809,
+   "uin": "HL3720",
+   "heading": "Offshore Industry: Falkland Islands",
+   "questionText": "To ask His Majesty's Government what discussions they have held with the government of the Falkland Islands regarding whether oil extraction from the Sea Lion oil field is targeted for 2028; and on which occasions the Department for Energy Security and Ne",
+   "dateTabled": "2026-09-17T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1929708,
+   "uin": "HL2569",
+   "heading": "Buildings: Carbon Emissions",
+   "questionText": "To ask His Majesty's Government whether they are considering introducing statutory zero-carbon building standards.",
+   "dateTabled": "2026-07-22T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1929704,
+   "uin": "HL2573",
+   "heading": "Energy: Housing",
+   "questionText": "To ask His Majesty's Government whether they are planning to introduce a free basic energy allowance for all households.",
+   "dateTabled": "2026-07-22T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1929707,
+   "uin": "HL2570",
+   "heading": "Fossil Fuels",
+   "questionText": "To ask His Majesty's Government whether they are considering introducing quotas for the use of fossil fuel energy.",
+   "dateTabled": "2026-07-22T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1929709,
+   "uin": "HL2568",
+   "heading": "Carbon Emissions",
+   "questionText": "To ask His Majesty's Government whether they are considering bringing forward their net zero target to 2035.",
+   "dateTabled": "2026-07-22T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1929706,
+   "uin": "HL2571",
+   "heading": "Carbon Emissions",
+   "questionText": "To ask His Majesty's Government whether they are considering capping the amount of credit that can be used to support investment in carbon-intensive activities and setting quotas for the amount of finance that should flow to low-carbon investment.",
+   "dateTabled": "2026-07-22T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1929705,
+   "uin": "HL2572",
+   "heading": "Energy: Taxation",
+   "questionText": "To ask His Majesty's Government whether they are planning to increase the Energy Profits Levy.",
+   "dateTabled": "2026-07-22T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1898995,
+   "uin": "HL16265",
+   "heading": "Natural Gas and Oil: Exploration",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the impact of a ban on issuing new oil and gas exploration licences on (1) supply chain capacity, and (2) retention of skilled offshore workers in the oil and gas sector.",
+   "dateTabled": "2026-04-13T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1898994,
+   "uin": "HL16266",
+   "heading": "Liquefied Natural Gas: Carbon Emissions",
+   "questionText": "To ask His Majesty's Government what assessment they have made of whether UK continental shelf domestic gas production has a lower lifecycle emissions intensity than that of imported liquefied natural gas from the United States of America and Qatar.",
+   "dateTabled": "2026-04-13T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1898999,
+   "uin": "HL16263",
+   "heading": "Natural Gas and Oil: Exploration",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the impact of their policy to issue no new oil and gas exploration licences on UK energy import dependency.",
+   "dateTabled": "2026-04-13T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1898997,
+   "uin": "HL16264",
+   "heading": "Liquefied Natural Gas: Carbon Emissions",
+   "questionText": "To ask His Majesty's Government what assessment they have made of the emissions implications of replacing domestic liquefied natural gas (LNG) production with imported LNG.",
+   "dateTabled": "2026-04-13T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1879222,
+   "uin": "HL14342",
+   "heading": "Clean Energy: China",
+   "questionText": "To ask His Majesty's Government why the Clean Energy Partnership Memorandum of Understanding, agreed with the government of China in March 2025, has not been published.",
+   "dateTabled": "2026-02-05T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1879221,
+   "uin": "HL14343",
+   "heading": "Warm Homes Plan: China",
+   "questionText": "To ask His Majesty's Government whether they have commissioned independent audits and data tracking on Chinese imports of all products, services and components required for the roll-out of the UK's Warm Homes Plan.",
+   "dateTabled": "2026-02-05T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1879224,
+   "uin": "HL14340",
+   "heading": "Solar Power: China",
+   "questionText": "To ask His Majesty's Government whether they will publish the sources of all imports of polycrystalline silicon into the UK from China associated with the construction and assembly of solar panels during 2025.",
+   "dateTabled": "2026-02-05T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1879219,
+   "uin": "HL14345",
+   "heading": "Solar Power: China",
+   "questionText": "To ask His Majesty's Government whether they have undertaken routine checks under the Great British Energy Act 2025 of all shipments of components from China required for solar panel installation in the UK since the date on which Great British Energy bega",
+   "dateTabled": "2026-02-05T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1879220,
+   "uin": "HL14344",
+   "heading": "Solar Power: China",
+   "questionText": "To ask His Majesty's Government whether they will publish the protocol agreed between Great British Energy and solar companies operating in the UK regarding supply chain validation from China.",
+   "dateTabled": "2026-02-05T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1879223,
+   "uin": "HL14341",
+   "heading": "Solar Power: China",
+   "questionText": "To ask His Majesty's Government which UK-registered firms imported component parts for solar panels that include polycrystalline silicon from China; and how many of these components were sourced from the Xinjiang Uyghur Autonomous Region.",
+   "dateTabled": "2026-02-05T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  }
+ ],
+ "historyComplete": true
+}
