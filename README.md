@@ -139,11 +139,12 @@ day's material in the browser at no cost (`pipeline/picker.py`, data in `kw/<dat
 run now keeps every question and statement it read in `data/corpus/<date>.json` so that re-screening
 covers the whole day; older editions re-screen only what the standing rules caught.
 
-**Rewrite with these keywords** goes through a separate pipeline: a Cloudflare Worker behind
-Cloudflare Access (`worker/`) signs the visitor in, allows one rewrite per person per edition and a
-daily cap, then starts `.github/workflows/regenerate.yml`, which rewrites the edition and hands the
-page back to that visitor only. Approved readers' addresses live only in Cloudflare. Set-up:
-`worker/README.md`. Without the `REGEN_URL` variable the panel works but shows no rewrite button.
+**Rewrite with these keywords** goes through a separate pipeline: the visitor types their email
+address, a small Cloudflare Worker (`worker/`) checks it against the approved list (kept only as the
+GitHub secret `REGEN_ALLOWED_EMAILS`), allows one rewrite per person per edition and a daily cap,
+then starts `.github/workflows/regenerate.yml`, which rewrites the edition and hands the page back
+to that visitor only. Set-up: `worker/README.md`. Without the `REGEN_URL` variable the panel works
+but shows no rewrite box.
 
 ## Getting it into OneDrive
 

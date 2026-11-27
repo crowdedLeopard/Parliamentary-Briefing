@@ -2,10 +2,10 @@
 
 It loads kw/<date>.json (keywords.site_payload) only when opened. Ticking suggested keywords,
 adding one's own, or switching standing topics off re-screens the day's items in the browser,
-at no cost. "Rewrite this briefing" hands the chosen keywords to the separate regenerate service
-(worker/ and .github/workflows/regenerate.yml) at REGEN_URL, which asks the visitor to sign in
-through Cloudflare first and allows one rewrite per person per edition. With no REGEN_URL the
-rewrite button is left out and the picker still works.
+at no cost. "Rewrite with these keywords" asks for the visitor's email address and sends it with
+the chosen keywords to the separate regenerate service (worker/ and .github/workflows/regenerate.yml)
+at REGEN_URL. Only approved addresses get a rewrite, one per person per edition; the page then
+waits for it and links to the result. With no REGEN_URL the rewrite box is left out.
 """
 
 from __future__ import annotations
@@ -39,10 +39,11 @@ border-bottom:1px solid var(--kw-rule);padding:6px max(5vw,16px);font:15px/1.45 
 </style>"""
 
 JS = r"""(function(){
-var D=__DATE__,REGEN=__REGEN__,root=document.getElementById('kw'),box=document.getElementById('kw-in'),data=null,K='pb-kw-'+D;
+var D=__DATE__,REGEN=__REGEN__,API=REGEN.replace(/\/$/,''),JK='pb-kwjob-'+D,job=null,msg='',link='',busy=false,polling=false,root=document.getElementById('kw'),box=document.getElementById('kw-in'),data=null,K='pb-kw-'+D;
 var KIND={wq:'Written question',ws:'Written statement',hd:'Debate',cm:'Committee',to:'Today'};
 var st={on:{},own:[],off:{}};
 try{var s=JSON.parse(localStorage.getItem(K)||'null');if(s){st=s;st.on=st.on||{};st.own=st.own||[];st.off=st.off||{}}}catch(x){}
+try{job=JSON.parse(localStorage.getItem(JK)||'null')}catch(x){}
 function save(){try{localStorage.setItem(K,JSON.stringify(st))}catch(x){}}
 function el(t,a,txt){var n=document.createElement(t);if(a)for(var k in a){if(k==='cls')n.className=a[k];else n.setAttribute(k,a[k])}if(txt!=null)n.textContent=txt;return n}
 function rx(term){var p=term.trim().split(/[\s\-]+/).filter(Boolean).map(function(x){return x.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')});
@@ -97,12 +98,30 @@ function draw(){
     if(hits.length>60)ul.appendChild(el('li',{cls:'kw-m'},'and '+(hits.length-60)+' more; narrow your keywords to see them.'));box.appendChild(ul)}
   if(REGEN){var rg=el('div',{cls:'kw-regen'}),changed=terms.length||Object.keys(st.off).length;
     rg.appendChild(el('h4',null,'Rewrite the briefing with these keywords'));
-    rg.appendChild(el('p',null,'An AI writer redrafts this edition around your keywords and topics. You sign in first, and each person gets one rewrite per edition, so choose carefully. It takes a few minutes.'));
-    var go=el('button',{type:'button',cls:'kw-btn kw-main'},'Rewrite with these keywords');if(!changed)go.disabled=true;
-    go.addEventListener('click',function(){var p={e:D,k:terms.slice(0,12),off:Object.keys(st.off)};
-      window.open(REGEN.replace(/\/$/,'')+'/?e='+encodeURIComponent(D)+'#'+encodeURIComponent(JSON.stringify(p)),'_blank','noopener')});
-    rg.appendChild(go);box.appendChild(rg)}
+    rg.appendChild(el('p',null,'An AI writer redrafts this edition around your keywords and topics. Rewrites are for approved readers: enter your email address. Each person gets one rewrite per edition, and it takes a few minutes.'));
+    if(!job){var f2=el('form',{cls:'kw-add'}),em=el('input',{type:'email',required:'',autocomplete:'email','aria-label':'Your email address',placeholder:'Your email address'});
+      var go=el('button',{type:'submit',cls:'kw-btn kw-main'},'Rewrite with these keywords');if(!changed||busy)go.disabled=true;
+      f2.appendChild(em);f2.appendChild(go);
+      f2.addEventListener('submit',function(ev){ev.preventDefault();if(busy)return;busy=true;go.disabled=true;say('Checking…');
+        fetch(API+'/api/request',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({e:D,k:terms.slice(0,12),off:Object.keys(st.off),email:em.value})})
+        .then(function(r){return r.json().then(function(j){j._s=r.status;return j})}).then(function(j){busy=false;
+          if(j.job&&j.key){job={job:j.job,key:j.key};try{localStorage.setItem(JK,JSON.stringify(job))}catch(x){}
+            msg=j._s===200?'Started. Writing usually takes three to eight minutes; you can keep reading meanwhile.':(j.error||'')+' Here is the one you asked for.';draw();poll()}
+          else{say(j.error||'The rewrite could not be started.');go.disabled=!changed}})
+        .catch(function(){busy=false;say('The rewrite service could not be reached. Please try again later.');go.disabled=!changed})});
+      rg.appendChild(f2)}
+    var rs=el('p',{id:'kw-rs',role:'status'},msg);rg.appendChild(rs);
+    if(link){var a2=el('a',{href:link,target:'_blank',rel:'noopener'},'Open your rewritten briefing');rg.appendChild(a2)}
+    box.appendChild(rg);if(job&&!polling&&!link)poll()}
 }
+function say(t){msg=t;var n=document.getElementById('kw-rs');if(n)n.textContent=t}
+function poll(){if(!job)return;polling=true;
+  fetch(API+'/api/job/'+encodeURIComponent(job.job)+'?key='+encodeURIComponent(job.key)).then(function(r){return r.json().then(function(j){j._s=r.status;return j})}).then(function(j){
+    if(j._s===404){job=null;polling=false;try{localStorage.removeItem(JK)}catch(x){}say('');draw();return}
+    if(j.status==='done'){polling=false;link=API+'/r/'+encodeURIComponent(job.job)+'?key='+encodeURIComponent(job.key);msg='Your rewrite is ready'+(j.title?': '+j.title:'')+'.';draw();return}
+    if(j.status==='failed'){polling=false;job=null;try{localStorage.removeItem(JK)}catch(x){}msg=(j.error||'The rewrite failed.')+' Your rewrite has not been used up, so you can try again.';draw();return}
+    say(j.status==='running'?'Writing your briefing… This usually takes three to eight minutes.':'Waiting for a writer to start…');setTimeout(poll,10000)})
+  .catch(function(){say('Lost contact with the rewrite service; retrying…');setTimeout(poll,20000)})}
 root.addEventListener('toggle',function(){if(!root.open||data)return;box.textContent='Loading the day’s material…';
   fetch('kw/'+D+'.json').then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(j){data=j;
     data.suggestions.forEach(function(s){if(!(s.term in st.on))st.on[s.term]=false});draw()})

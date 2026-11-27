@@ -1,7 +1,7 @@
 """Rewrite one edition around a visitor's own keywords. Separate from the daily build.
 
 Runs only from .github/workflows/regenerate.yml, which the regenerate service (worker/) starts
-after Cloudflare Access has signed the visitor in and the service has checked their one rewrite.
+after it has checked the visitor's address against the approved list and their one rewrite.
 The workflow is given nothing but an opaque job id, so the public run log shows no keywords and
 nothing about who asked. This script:
   1. fetches the job (edition, keywords, topics switched off) from the service's /hook/ endpoint,
@@ -11,8 +11,7 @@ nothing about who asked. This script:
   4. renders the page and posts it back to the service, which shows it only to that visitor.
 Nothing is committed to the repository. The job's text is treated as data throughout.
 
-Env: REGEN_URL, REGEN_JOB_ID, REGEN_HOOK_SECRET, and CF_ACCESS_CLIENT_ID / CF_ACCESS_CLIENT_SECRET
-(an Access service token) when the service's /hook/ path sits behind Cloudflare Access.
+Env: REGEN_URL, REGEN_JOB_ID, REGEN_HOOK_SECRET.
   python pipeline/regen.py          run the job
   python pipeline/regen.py --fail   report the job as failed (the workflow's last-resort step)
 """
@@ -47,10 +46,7 @@ class JobError(RuntimeError):
 
 
 def _headers() -> dict:
-    h = {"Authorization": f"Bearer {os.environ['REGEN_HOOK_SECRET']}", "User-Agent": "parliamentary-briefing-regen/1.0"}
-    if os.environ.get("CF_ACCESS_CLIENT_ID") and os.environ.get("CF_ACCESS_CLIENT_SECRET"):
-        h |= {"CF-Access-Client-Id": os.environ["CF_ACCESS_CLIENT_ID"], "CF-Access-Client-Secret": os.environ["CF_ACCESS_CLIENT_SECRET"]}
-    return h
+    return {"Authorization": f"Bearer {os.environ['REGEN_HOOK_SECRET']}", "User-Agent": "parliamentary-briefing-regen/1.0"}
 
 
 def _hook(job: str) -> str:

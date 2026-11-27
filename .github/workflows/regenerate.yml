@@ -1,7 +1,7 @@
 name: Regenerate a briefing on request
 
-# Separate from the daily build. Started only by the regenerate service (worker/), after Cloudflare
-# Access has signed the visitor in and the service has checked their one rewrite per edition.
+# Separate from the daily build. Started only by the regenerate service (worker/), after it has
+# checked the visitor's email address against the approved list and their one rewrite per edition.
 # The only input is an opaque job id: this public log never shows keywords or who asked. The
 # script fetches the job from the service, rewrites the edition and hands the page straight back.
 # Nothing is committed. See worker/README.md for the set-up.
@@ -31,8 +31,6 @@ jobs:
       REGEN_URL: ${{ vars.REGEN_URL }}
       REGEN_JOB_ID: ${{ inputs.job }}
       REGEN_HOOK_SECRET: ${{ secrets.REGEN_HOOK_SECRET }}
-      CF_ACCESS_CLIENT_ID: ${{ secrets.CF_ACCESS_CLIENT_ID }}
-      CF_ACCESS_CLIENT_SECRET: ${{ secrets.CF_ACCESS_CLIENT_SECRET }}
       REGEN_VALIDATE: ${{ vars.REGEN_VALIDATE }}
     steps:
       - uses: actions/checkout@v4
