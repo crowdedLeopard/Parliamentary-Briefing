@@ -9,11 +9,8 @@ workers_dev = true
 binding = "REGEN"
 id = "__KV_ID__"
 
-# Mail for the six-digit codes (Cloudflare Email Sending). Codes are required once the sender
-# address is set (repository variable REGEN_EMAIL_FROM, an address on a domain onboarded for
-# Email Sending in this Cloudflare account).
-[[send_email]]
-name = "EMAIL"
+# Mail for the optional six-digit codes (Cloudflare Email Sending): deploy-worker.yml adds the
+# [[send_email]] binding named EMAIL when the repository variable REGEN_EMAIL_FROM is set.
 
 [vars]
 GITHUB_REPO = "crowdedLeopard/Parliamentary-Briefing"

@@ -73,7 +73,7 @@ jobs:
         run: |
           set -euo pipefail
           VARS=()
-          if [[ "$EMAIL_FROM" =~ ^[A-Za-z0-9._+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}$ ]]; then VARS+=(--var "EMAIL_FROM:$EMAIL_FROM"); else echo "::notice::REGEN_EMAIL_FROM is not set: rewrites will not ask for an emailed code."; fi
+          if [[ "$EMAIL_FROM" =~ ^[A-Za-z0-9._+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}$ ]]; then VARS+=(--var "EMAIL_FROM:$EMAIL_FROM"); printf '\n[[send_email]]\nname = "EMAIL"\n' >> wrangler.toml; else echo "::notice::REGEN_EMAIL_FROM is not set: rewrites will not ask for an emailed code."; fi
           $WRANGLER deploy "${VARS[@]}"
       - name: Set the service's secrets
         if: steps.ready.outputs.go == 'true'
