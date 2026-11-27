@@ -36,7 +36,7 @@ All in GitHub (Settings > Secrets and variables > Actions), apart from one Cloud
 |---|---|---|
 | secret | `CLOUDFLARE_API_TOKEN` | Cloudflare > My Profile > API Tokens > Create Token > *Edit Cloudflare Workers* template |
 | secret | `CLOUDFLARE_ACCOUNT_ID` | the Cloudflare account id |
-| secret | `REGEN_ALLOWED_EMAILS` | approved addresses, comma-separated; `@example.com` allows a whole domain |
+| secret | `REGEN_ALLOWED_EMAILS` | approved addresses, comma-separated; `@example.com` allows a whole domain. Add `:code` after an address (`ann@example.org:river-lamp-42`) to give that person their own access code, which they must type too |
 | secret | `REGEN_UNLIMITED_EMAILS` | optional: addresses with no per-person limit |
 | secret | `REGEN_DISPATCH_TOKEN` | fine-grained GitHub token, this repository only, *Actions: read and write* |
 | secret | `REGEN_HOOK_SECRET` | a long random string |

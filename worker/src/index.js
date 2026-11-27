@@ -9,7 +9,10 @@
 // one rewrite per person per edition (LIMIT_SCOPE=edition) or one ever (LIMIT_SCOPE=ever), plus a
 // hard daily cap across everyone (DAILY_CAP). Wrong guesses are limited per network address.
 //
-// Proof of ownership: when the Worker has a mail binding (EMAIL, Cloudflare Email Sending) and a
+// Proof of ownership, either or both:
+//  - a personal access code next to the address in the list ("ann@example.org:river-lamp-42"),
+//    handed to that person by the owner; the visitor types it after their address;
+//  - an emailed code: when the Worker has a mail binding (EMAIL, Cloudflare Email Sending) and a
 // sender (EMAIL_FROM), a listed address first gets a six-digit code by email (POST /api/code),
 // valid 10 minutes, one use, five tries; the request must carry it.
 //
@@ -121,8 +124,14 @@ async function route(req, env) {
     const off = (Array.isArray(body.off) ? body.off : []).map(x => String(x).slice(0, 80)).slice(0, 20);
     if (!keywords.length && !off.length) fail(400, "Choose at least one keyword or switch off a topic.");
 
-    await checkListed(req, env, email);
-    if (codeRequired(env)) await checkCode(env, email, String(body.code || ""));
+    const who = await checkListed(req, env, email);
+    if (who.code) {
+      // this person has their own access code in the list
+      if (!(await same(String(body.code || "").trim(), who.code))) {
+        await who.miss();
+        fail(401, body.code ? "That code is not right." : "Enter your access code.", { needCode: true });
+      }
+    } else if (codeRequired(env)) await checkCode(env, email, String(body.code || ""));
     if (!(await editionExists(env, edition))) fail(400, "That edition is not on the site.");
     const uid = await hmac(env.USER_SALT, email);
     const unlimited = listed(env.UNLIMITED_EMAILS, email);
@@ -171,8 +180,9 @@ async function route(req, env) {
     if (req.headers.get("content-type")?.split(";")[0] !== "application/json") fail(415, "send JSON");
     const body = await req.json().catch(() => fail(400, "bad request"));
     const email = String(body.email || "").trim().toLowerCase();
+    const who = await checkListed(req, env, email);
+    if (who.code) return json({ needCode: true, personal: true });
     if (!codeRequired(env)) return json({ needCode: false });
-    await checkListed(req, env, email);
     const uid = await hmac(env.USER_SALT, email);
     const sk = `sent:${uid}:${new Date().toISOString().slice(0, 13)}`;
     const sent = Number(await env.REGEN.get(sk)) || 0;
@@ -235,10 +245,12 @@ async function checkListed(req, env, email) {
   const mk = `miss:${ip}:${new Date().toISOString().slice(0, 13)}`;
   const misses = Number(await env.REGEN.get(mk)) || 0;
   if (misses >= MAX_MISSES) fail(429, "Too many attempts. Please try again in an hour.");
-  if (!EMAIL.test(email) || !listed(env.ALLOWED_EMAILS, email)) {
+  const found = EMAIL.test(email) ? entry(env.ALLOWED_EMAILS, email) : null;
+  if (!found) {
     await env.REGEN.put(mk, String(misses + 1), { expirationTtl: 3700 });
     fail(403, "That address is not on the list for rewrites.");
   }
+  return { ...found, miss: async () => env.REGEN.put(mk, String(misses + 1), { expirationTtl: 3700 }) };
 }
 
 async function checkCode(env, email, code) {
@@ -255,11 +267,22 @@ async function checkCode(env, email, code) {
   await env.REGEN.delete(k); // one use
 }
 
-function listed(list, email) {
+// The list: entries separated by commas, spaces or new lines. Each is an address or "@domain",
+// optionally followed by ":" and that person's own access code ("ann@example.org:river-lamp-42").
+// Returns the matching entry ({code} or {code: ""}), or null. An exact address beats a domain.
+function entry(list, email) {
   const domain = email.slice(email.lastIndexOf("@"));
-  return String(list || "").split(/[\s,;]+/).map(s => s.trim().toLowerCase()).filter(Boolean)
-    .some(x => x === email || (x.startsWith("@") && x === domain));
+  let hit = null;
+  for (const raw of String(list || "").split(/[\s,;]+/)) {
+    const i = raw.indexOf(":");
+    const who = (i < 0 ? raw : raw.slice(0, i)).trim().toLowerCase(), code = i < 0 ? "" : raw.slice(i + 1).trim();
+    if (!who) continue;
+    if (who === email) return { code };
+    if (who.startsWith("@") && who === domain && !hit) hit = { code };
+  }
+  return hit;
 }
+const listed = (list, email) => Boolean(entry(list, email));
 
 async function hookAuth(req, env) {
   const got = (req.headers.get("authorization") || "").replace(/^Bearer\s+/i, "");

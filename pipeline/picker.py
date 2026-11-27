@@ -100,7 +100,7 @@ function draw(){
     rg.appendChild(el('h4',null,'Rewrite the briefing with these keywords'));
     rg.appendChild(el('p',null,'An AI writer redrafts this edition around your keywords and topics. Rewrites are for approved readers: enter your email address. Each person gets one rewrite per edition, and it takes a few minutes.'));
     if(!job){var f2=el('form',{cls:'kw-add'}),em=el('input',{type:'email',required:'',autocomplete:'email','aria-label':'Your email address',placeholder:'Your email address'});
-      em.value=email;var cd=el('input',{type:'text',inputmode:'numeric',autocomplete:'one-time-code',maxlength:'6','aria-label':'The code we emailed you',placeholder:'6-digit code'});
+      em.value=email;var cd=el('input',{type:'password',autocomplete:'one-time-code',maxlength:'64','aria-label':'Your code',placeholder:'Your code'});
       var go=el('button',{type:'submit',cls:'kw-btn kw-main'},codeStage?'Rewrite with these keywords':'Continue');if(!changed||busy)go.disabled=true;
       f2.appendChild(em);if(codeStage)f2.appendChild(cd);f2.appendChild(go);
       function post(path,b){return fetch(API+path,{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify(b)}).then(function(r){return r.json().then(function(j){j._s=r.status;return j})})}
@@ -112,7 +112,7 @@ function draw(){
         var p;if(codeStage&&em.value.trim().toLowerCase()===email){p=request(cd.value.trim())}
         else{email=em.value.trim().toLowerCase();say('Checking…');p=post('/api/code',{email:email}).then(function(j){
           if(j.needCode===false)return request('');busy=false;
-          if(j.sent){codeStage=true;msg='We have emailed a 6-digit code to '+email+'. Enter it here; it works for 10 minutes.';draw();var c=document.querySelector('.kw-regen input[autocomplete=one-time-code]');if(c)c.focus()}
+          if(j.sent||j.personal){codeStage=true;msg=j.personal?'Enter your access code.':'We have emailed a 6-digit code to '+email+'. Enter it here; it works for 10 minutes.';draw();var c=document.querySelector('.kw-regen input[autocomplete=one-time-code]');if(c)c.focus()}
           else{codeStage=false;msg=j.error||'The rewrite could not be started.';draw()}})}
         p.catch(function(){busy=false;msg='The rewrite service could not be reached. Please try again later.';draw()})});
       rg.appendChild(f2)}

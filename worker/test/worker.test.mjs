@@ -135,3 +135,15 @@ test("without a mail sender, no code is asked for", async () => {
   const c = await call(env(), "/api/code", { method: "POST", body: { email: "reader@example.org" } });
   assert.deepEqual(c.j, { needCode: false });
 });
+
+test("a personal access code in the list must match; entries without one need only the address", async () => {
+  const e = env({ ALLOWED_EMAILS: "ann@example.org:river-lamp-42, reader@example.org" });
+  const c = await call(e, "/api/code", { method: "POST", body: { email: "ann@example.org" } });
+  assert.deepEqual(c.j, { needCode: true, personal: true });
+  const req = code => call(e, "/api/request", { method: "POST", body: { e: "2026-11-26", k: ["cloud"], email: "Ann@example.org", code } });
+  assert.equal((await req("")).s, 401);
+  assert.equal((await req("river-lamp-41")).s, 401);
+  assert.equal((await req("river-lamp-42")).s, 200);
+  assert.equal((await ask(e, "reader@example.org")).s, 200);
+  for (const [k, v] of e.REGEN.m) assert.ok(!String(k + v).includes("river"), "a code reached KV");
+});
