@@ -1,0 +1,89 @@
+name: Deploy the regenerate service
+
+# Publishes worker/ (the Cloudflare Worker that gates rewrites) whenever it changes on main, or by hand.
+# Needs, in this repository:
+#   secrets  CLOUDFLARE_API_TOKEN   an API token from the "Edit Cloudflare Workers" template
+#            CLOUDFLARE_ACCOUNT_ID  the Cloudflare account id
+#            REGEN_DISPATCH_TOKEN   fine-grained GitHub token: this repository only, Actions read and write
+#            REGEN_HOOK_SECRET      a long random string, shared with regenerate.yml
+#   variables ACCESS_TEAM_DOMAIN    e.g. yourteam.cloudflareaccess.com
+#             ACCESS_AUD            the Application Audience (AUD) tag of the Access application
+# The approved readers' email addresses are never here: they live only in the Cloudflare Access policy.
+
+on:
+  push:
+    branches: [main]
+    paths: ["worker/**", ".github/workflows/deploy-worker.yml"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: deploy-worker
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    defaults:
+      run:
+        working-directory: worker
+    env:
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+      WRANGLER: npx --yes wrangler@4
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Test
+        run: npm test
+      - name: Check the Cloudflare credentials are there
+        id: ready
+        run: |
+          if [ -z "$CLOUDFLARE_API_TOKEN" ] || [ -z "$CLOUDFLARE_ACCOUNT_ID" ]; then
+            echo "::notice::CLOUDFLARE_API_TOKEN or CLOUDFLARE_ACCOUNT_ID is not set; not deploying (see worker/README.md)."
+            echo "go=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "go=true" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Find or create the KV namespace
+        if: steps.ready.outputs.go == 'true'
+        run: |
+          set -euo pipefail
+          id=$($WRANGLER kv namespace list | node -e 'let s="";process.stdin.on("data",d=>s+=d).on("end",()=>{const a=JSON.parse(s.slice(s.indexOf("[")));const n=a.find(x=>x.title==="briefing-regen");process.stdout.write(n?n.id:"")})')
+          if [ -z "$id" ]; then
+            $WRANGLER kv namespace create briefing-regen > /dev/null
+            id=$($WRANGLER kv namespace list | node -e 'let s="";process.stdin.on("data",d=>s+=d).on("end",()=>{const a=JSON.parse(s.slice(s.indexOf("[")));process.stdout.write(a.find(x=>x.title==="briefing-regen").id)})')
+          fi
+          [[ "$id" =~ ^[0-9a-f]{32}$ ]] || { echo "::error::Could not find the KV namespace id"; exit 1; }
+          sed -i "s/__KV_ID__/$id/" wrangler.toml
+      - name: Deploy
+        if: steps.ready.outputs.go == 'true'
+        env:
+          ACCESS_TEAM_DOMAIN: ${{ vars.ACCESS_TEAM_DOMAIN }}
+          ACCESS_AUD: ${{ vars.ACCESS_AUD }}
+        run: |
+          set -euo pipefail
+          VARS=()
+          [[ "$ACCESS_TEAM_DOMAIN" =~ ^[A-Za-z0-9.-]+$ ]] && VARS+=(--var "ACCESS_TEAM_DOMAIN:$ACCESS_TEAM_DOMAIN")
+          [[ "$ACCESS_AUD" =~ ^[A-Za-z0-9]+$ ]] && VARS+=(--var "ACCESS_AUD:$ACCESS_AUD")
+          [ ${#VARS[@]} -lt 2 ] && echo "::warning::ACCESS_TEAM_DOMAIN and ACCESS_AUD are not both set: the service will refuse every request until they are."
+          $WRANGLER deploy "${VARS[@]}"
+      - name: Set the service's secrets
+        if: steps.ready.outputs.go == 'true'
+        env:
+          HOOK: ${{ secrets.REGEN_HOOK_SECRET }}
+          DISPATCH: ${{ secrets.REGEN_DISPATCH_TOKEN }}
+        run: |
+          set -euo pipefail
+          have=$($WRANGLER secret list 2>/dev/null || echo "[]")
+          if [ -n "$HOOK" ]; then printf '%s' "$HOOK" | $WRANGLER secret put HOOK_SECRET > /dev/null; else echo "::warning::REGEN_HOOK_SECRET is not set"; fi
+          if [ -n "$DISPATCH" ]; then printf '%s' "$DISPATCH" | $WRANGLER secret put GITHUB_TOKEN > /dev/null; else echo "::warning::REGEN_DISPATCH_TOKEN is not set"; fi
+          # The salt that turns a reader's address into their private hash: made once, never changed
+          # (changing it would reset everyone's allowance). It exists only inside Cloudflare.
+          if ! grep -q '"USER_SALT"' <<<"$have"; then openssl rand -hex 32 | tr -d '\n' | $WRANGLER secret put USER_SALT > /dev/null; fi
+          echo "Deployed."

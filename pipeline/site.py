@@ -626,6 +626,19 @@ def home_html(latest: dict, facts: dict, dates: list[str], rows: list[str], a: d
 
 # ---------- build ----------
 
+def keyword_picker(d: str) -> str:
+    """The keyword picker for edition d, and its data file kw/<d>.json (picker.py, keywords.py). Never fatal."""
+    import keywords
+    import picker
+    try:
+        (OUT / "kw").mkdir(exist_ok=True)
+        (OUT / "kw" / f"{d}.json").write_text(scrub(picker.payload_json(keywords.site_payload(ROOT, d))), encoding="utf-8")
+    except Exception:  # noqa: BLE001
+        print(f"::warning::keyword data for {d} could not be built: " + traceback.format_exc(limit=1).strip().splitlines()[-1])
+        return ""
+    return picker.panel(d, os.environ.get("REGEN_URL", "").strip())
+
+
 def build() -> int:
     if OUT.exists():
         shutil.rmtree(OUT)
@@ -653,6 +666,7 @@ def build() -> int:
         k = len(dates) - 1 - i
         html = rep.read_text(encoding="utf-8")
         bar = day_bar(d, dates[k - 1] if k > 0 else None, dates[k + 1] if k + 1 < len(dates) else None, dates, by_ed.get(d, []))
+        bar += keyword_picker(d)
         edf = ROOT / "editorial" / f"{d}.json"
         vf = ROOT / "editorial" / f"{d}.validation.json"
         ed = json.loads(edf.read_text()) if edf.exists() else {}

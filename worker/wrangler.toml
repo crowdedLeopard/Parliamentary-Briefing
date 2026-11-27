@@ -1,0 +1,18 @@
+# Regenerate service for the briefing site. Deployed by .github/workflows/deploy-worker.yml,
+# which fills in the KV namespace id and the Access settings. See README.md.
+name = "briefing-regen"
+main = "src/index.js"
+compatibility_date = "2026-11-01"
+workers_dev = true
+
+[[kv_namespaces]]
+binding = "REGEN"
+id = "__KV_ID__"
+
+[vars]
+GITHUB_REPO = "crowdedLeopard/Parliamentary-Briefing"
+SITE_URL = "https://crowdedleopard.github.io/Parliamentary-Briefing/"
+DAILY_CAP = "10"          # rewrites across all readers per day (UTC)
+LIMIT_SCOPE = "edition"   # "edition": one rewrite per person per edition; "ever": one per person in total
+RESULT_DAYS = "14"        # how long a rewrite stays viewable
+# ACCESS_TEAM_DOMAIN and ACCESS_AUD are passed at deploy time from the repository's variables.

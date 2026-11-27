@@ -128,6 +128,23 @@ One-off setup: **Settings → Pages → Build and deployment → Source: GitHub 
 
 Alternatives: to keep this repo private and publish only the website, create a public repo and add a `SITE_DEPLOY_TOKEN` secret (fine-grained token, Contents read/write on that repo only); the run then pushes the built site there instead (repo name: variable `SITE_REPO`, default `crowdedLeopard/parliamentary-briefing-site`). For a site that needs a Microsoft sign-in, add the `AZURE_STATIC_WEB_APPS_API_TOKEN` secret.
 
+### Tune keywords and one-off rewrites
+
+Each briefing page has a **Tune keywords** panel. It suggests keywords for that edition, mined from
+everything the day's run read (bills, programmes, organisations, members pressing our issues),
+scored on whether they appear near our issues, would catch items the standing rules missed and are
+rising against recent days, then picked and explained by a small model (`pipeline/keywords.py`).
+Visitors tick suggestions, add their own and switch standing topics off; the page re-screens the
+day's material in the browser at no cost (`pipeline/picker.py`, data in `kw/<date>.json`). The daily
+run now keeps every question and statement it read in `data/corpus/<date>.json` so that re-screening
+covers the whole day; older editions re-screen only what the standing rules caught.
+
+**Rewrite with these keywords** goes through a separate pipeline: a Cloudflare Worker behind
+Cloudflare Access (`worker/`) signs the visitor in, allows one rewrite per person per edition and a
+daily cap, then starts `.github/workflows/regenerate.yml`, which rewrites the edition and hands the
+page back to that visitor only. Approved readers' addresses live only in Cloudflare. Set-up:
+`worker/README.md`. Without the `REGEN_URL` variable the panel works but shows no rewrite button.
+
 ## Getting it into OneDrive
 
 OneDrive and SharePoint download HTML files rather than display them, so the OneDrive copy is the PDF. Power Automate's standard GitHub connector has no action that downloads a file, so it can't do the copy. Two routes that do work:

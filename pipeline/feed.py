@@ -117,4 +117,7 @@ def build_feed(api: Api, run_date: date, workers: int = 4) -> dict:
         "writtenQuestions": sorted(wq, key=lambda q: (q.get("answeringBodyName") or "", q.get("uin") or "")),
         "writtenStatements": ws,
         "warnings": warnings,
+        # Every question and statement read, screened in or not, so a visitor's own keywords can be
+        # re-screened later without fetching again (keywords.py). run.py saves it to data/corpus/.
+        "corpus": {"questions": full_questions, "statements": full_statements},
     }
