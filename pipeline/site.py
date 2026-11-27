@@ -671,6 +671,15 @@ def build() -> int:
         rows.append(f'<li data-t="{e(tags)}"><div><p class="d">{e(nice(d))}{" · Microsoft named" if f.get("microsoft") else ""}</p>'
                     f'<a class="h" href="{e(d)}.html">{e(item["title"])}</a><p class="s">{e(clip(item["headline"], 200))}</p></div><p class="s">{stat}<span class="{"warn" if cls else "ok"}">{e(label)}</span></p></li>')
 
+    # Machine-readable editions for agents: data/<date>.json and data/index.json (pipeline/export.py)
+    import export
+    site_url = os.environ.get("SITE_URL", "")
+    (OUT / "data").mkdir(exist_ok=True)
+    eds = [x for x in (export.edition(ROOT, d, site_url) for d in dates) if x]
+    for x in eds:
+        (OUT / "data" / f"{x['edition']}.json").write_text(export.dumps(x), encoding="utf-8")
+    (OUT / "data" / "index.json").write_text(export.dumps(export.index(eds, site_url)), encoding="utf-8")
+
     (OUT / "latest.html").write_text(f'<!DOCTYPE html><html lang="en-GB"><head><meta charset="utf-8"><meta name="robots" content="noindex,nofollow">'
                                      f'<meta http-equiv="refresh" content="0;url={latest_d}.html"><title>Latest briefing</title></head>'
                                      f'<body><p><a href="{latest_d}.html">Open the latest briefing</a></p></body></html>')

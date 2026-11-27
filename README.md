@@ -168,9 +168,13 @@ python pipeline/run.py --run-date 2026-11-24        # live run (needs normal int
 python pipeline/run.py --run-date 2026-11-24 --mode render
 ```
 
+## JSON for agents
+
+Every site build also publishes each edition as JSON: `data/<date>.json` (title, headline, summary, every section's items with links, Parliament Today, coverage, the screened written questions and statements, sitting days and the validation result) and `data/index.json` (all editions, newest first, with absolute links). For example `https://crowdedleopard.github.io/Parliamentary-Briefing/data/index.json`. The schema is described at the top of `pipeline/export.py`.
+
 ## Email each edition
 
-After every build that produces a new edition, the **email** job sends that day's HTML report as an attachment (`pipeline/mailer.py`). The recipient and mail account are kept only in repository secrets (Settings > Secrets and variables > Actions), never in the repo:
+After every build that produces a new edition, the **email** job sends that day's HTML report (and, through Microsoft Graph, its JSON) as attachments (`pipeline/mailer.py`). Microsoft Graph is preferred: add `GRAPH_TENANT_ID`, `GRAPH_CLIENT_ID` and `MAIL_SENDER` secrets for an Entra app with the Mail.Send application permission; with a federated credential for this repo no password is stored. Otherwise SMTP is used: The recipient and mail account are kept only in repository secrets (Settings > Secrets and variables > Actions), never in the repo:
 
 | Secret | Example |
 |---|---|
