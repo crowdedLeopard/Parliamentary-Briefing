@@ -134,7 +134,7 @@ async function route(req, env) {
     } else if (codeRequired(env)) await checkCode(env, email, String(body.code || ""));
     if (!(await editionExists(env, edition))) fail(400, "That edition is not on the site.");
     const uid = await hmac(env.USER_SALT, email);
-    const unlimited = listed(env.UNLIMITED_EMAILS, email);
+    const unlimited = Boolean(who.unlimited) || listed(env.UNLIMITED_EMAILS, email);
 
     const uk = usedKey(env, uid, edition);
     if (!unlimited) {
@@ -145,9 +145,11 @@ async function route(req, env) {
              old ? { job: old.id, key: old.key } : {});
       }
     }
-    const dk = dayKey();
+    // Unlimited readers skip the one-per-edition rule and have their own daily guard (UNLIMITED_CAP, default 30)
+    // in case their code ever leaks; everyone else shares DAILY_CAP.
+    const dk = dayKey() + (unlimited ? ":u:" + uid : "");
     const today = Number(await env.REGEN.get(dk)) || 0;
-    if (today >= cap(env)) fail(429, "Today's limit on rewrites has been reached. Please try again tomorrow.");
+    if (today >= (unlimited ? Number(env.UNLIMITED_CAP) || 30 : cap(env))) fail(429, "Today's limit on rewrites has been reached. Please try again tomorrow.");
 
     const id = rand(16), key = rand(24);
     const job = { id, key, uid, edition, keywords, off, status: "queued", created: Date.now(), updated: Date.now() };
@@ -227,6 +229,8 @@ async function route(req, env) {
         // shown as a document only: no scripts, no forms
         "content-security-policy": "sandbox allow-popups allow-popups-to-escape-sandbox; default-src 'none'; style-src 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src data:",
         "x-robots-tag": "noindex",
+        // the site's own viewer page (rewrite.html) fetches this and shows it in a sandboxed frame
+        ...corsHeaders(req, env),
       },
     });
   }
@@ -268,17 +272,21 @@ async function checkCode(env, email, code) {
 }
 
 // The list: entries separated by commas, spaces or new lines. Each is an address or "@domain",
-// optionally followed by ":" and that person's own access code ("ann@example.org:river-lamp-42").
-// Returns the matching entry ({code} or {code: ""}), or null. An exact address beats a domain.
+// optionally followed by ":" and that person's own access code ("ann@example.org:river-lamp-42"),
+// and optionally ":unlimited" for no per-person limit ("ann@example.org:river-lamp-42:unlimited").
+// Returns the matching entry ({code, unlimited}), or null. An exact address beats a domain.
 function entry(list, email) {
   const domain = email.slice(email.lastIndexOf("@"));
   let hit = null;
   for (const raw of String(list || "").split(/[\s,;]+/)) {
-    const i = raw.indexOf(":");
-    const who = (i < 0 ? raw : raw.slice(0, i)).trim().toLowerCase(), code = i < 0 ? "" : raw.slice(i + 1).trim();
+    const parts = raw.split(":");
+    const who = parts.shift().trim().toLowerCase();
+    const unlimited = parts.length > 0 && parts[parts.length - 1].trim().toLowerCase() === "unlimited";
+    if (unlimited) parts.pop();
+    const code = parts.join(":").trim();
     if (!who) continue;
-    if (who === email) return { code };
-    if (who.startsWith("@") && who === domain && !hit) hit = { code };
+    if (who === email) return { code, unlimited };
+    if (who.startsWith("@") && who === domain && !hit) hit = { code, unlimited };
   }
   return hit;
 }

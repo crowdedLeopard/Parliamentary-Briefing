@@ -98,14 +98,14 @@ function draw(){
     if(hits.length>60)ul.appendChild(el('li',{cls:'kw-m'},'and '+(hits.length-60)+' more; narrow your keywords to see them.'));box.appendChild(ul)}
   if(REGEN){var rg=el('div',{cls:'kw-regen'}),changed=terms.length||Object.keys(st.off).length;
     rg.appendChild(el('h4',null,'Rewrite the briefing with these keywords'));
-    rg.appendChild(el('p',null,'An AI writer redrafts this edition around your keywords and topics. Rewrites are for approved readers: enter your email address. Each person gets one rewrite per edition, and it takes a few minutes.'));
+    rg.appendChild(el('p',null,'An AI writer redrafts this edition around your keywords and topics. Rewrites are for approved readers: enter your email address. Most readers get one rewrite per edition, and each takes a few minutes.'));
     if(!job){var f2=el('form',{cls:'kw-add'}),em=el('input',{type:'email',required:'',autocomplete:'email','aria-label':'Your email address',placeholder:'Your email address'});
       em.value=email;var cd=el('input',{type:'password',autocomplete:'one-time-code',maxlength:'64','aria-label':'Your code',placeholder:'Your code'});
       var go=el('button',{type:'submit',cls:'kw-btn kw-main'},codeStage?'Rewrite with these keywords':'Continue');if(!changed||busy)go.disabled=true;
       f2.appendChild(em);if(codeStage)f2.appendChild(cd);f2.appendChild(go);
       function post(path,b){return fetch(API+path,{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify(b)}).then(function(r){return r.json().then(function(j){j._s=r.status;return j})})}
       function request(code){say('Starting…');return post('/api/request',{e:D,k:terms.slice(0,12),off:Object.keys(st.off),email:email,code:code}).then(function(j){busy=false;
-          if(j.job&&j.key){job={job:j.job,key:j.key};codeStage=false;try{localStorage.setItem(JK,JSON.stringify(job))}catch(x){}
+          if(j.job&&j.key){job={job:j.job,key:j.key,k:terms.slice(0,12)};codeStage=false;try{localStorage.setItem(JK,JSON.stringify(job))}catch(x){}
             msg=j._s===200?'Started. Writing usually takes three to eight minutes; you can keep reading meanwhile.':(j.error||'')+' Here is the one you asked for.';draw();poll()}
           else{msg=j.error||'The rewrite could not be started.';draw()}})}
       f2.addEventListener('submit',function(ev){ev.preventDefault();if(busy)return;busy=true;go.disabled=true;
@@ -117,14 +117,17 @@ function draw(){
         p.catch(function(){busy=false;msg='The rewrite service could not be reached. Please try again later.';draw()})});
       rg.appendChild(f2)}
     var rs=el('p',{id:'kw-rs',role:'status'},msg);rg.appendChild(rs);
-    if(link){var a2=el('a',{href:link,target:'_blank',rel:'noopener'},'Open your rewritten briefing');rg.appendChild(a2)}
+    if(link){var a2=el('a',{href:link,target:'_blank',rel:'noopener'},'Open your rewritten briefing');rg.appendChild(a2);
+      rg.appendChild(el('a',{cls:'kw-btn',href:mailto('Rewritten parliamentary briefing, '+D,'Here is a version of the parliamentary briefing for '+D+' rewritten around these keywords: '+(job.k||[]).join(', ')+'.\n\n'+link+'\n\nThe link works for 14 days.')},'Share by email'));
+      var again=el('button',{type:'button',cls:'kw-btn'},'Start a new rewrite');again.addEventListener('click',function(){job=null;link='';msg='';try{localStorage.removeItem(JK)}catch(x){}draw()});rg.appendChild(again)}
     box.appendChild(rg);if(job&&!polling&&!link)poll()}
 }
+function mailto(sub,body){return 'mailto:?subject='+encodeURIComponent(sub)+'&body='+encodeURIComponent(body)}
 function say(t){msg=t;var n=document.getElementById('kw-rs');if(n)n.textContent=t}
 function poll(){if(!job)return;polling=true;
   fetch(API+'/api/job/'+encodeURIComponent(job.job)+'?key='+encodeURIComponent(job.key)).then(function(r){return r.json().then(function(j){j._s=r.status;return j})}).then(function(j){
     if(j._s===404){job=null;polling=false;try{localStorage.removeItem(JK)}catch(x){}say('');draw();return}
-    if(j.status==='done'){polling=false;link=API+'/r/'+encodeURIComponent(job.job)+'?key='+encodeURIComponent(job.key);msg='Your rewrite is ready'+(j.title?': '+j.title:'')+'.';draw();return}
+    if(j.status==='done'){polling=false;link=new URL('rewrite.html#j='+encodeURIComponent(job.job)+'&k='+encodeURIComponent(job.key),location.href).href;msg='Your rewrite is ready'+(j.title?': '+j.title:'')+'.';draw();return}
     if(j.status==='failed'){polling=false;job=null;try{localStorage.removeItem(JK)}catch(x){}msg=(j.error||'The rewrite failed.')+' Your rewrite has not been used up, so you can try again.';draw();return}
     say(j.status==='running'?'Writing your briefing… This usually takes three to eight minutes.':'Waiting for a writer to start…');setTimeout(poll,10000)})
   .catch(function(){say('Lost contact with the rewrite service; retrying…');setTimeout(poll,20000)})}
@@ -146,4 +149,30 @@ def payload_json(obj: dict) -> str:
     return json.dumps(obj, ensure_ascii=False, separators=(",", ":"))
 
 
-__all__ = ["panel", "payload_json", "e"]
+VIEWER_JS = r"""(function(){
+var API=__REGEN__.replace(/\/$/,''),q={};location.hash.slice(1).split('&').forEach(function(p){var i=p.indexOf('=');if(i>0)q[p.slice(0,i)]=decodeURIComponent(p.slice(i+1))});
+var f=document.getElementById('rw'),m=document.getElementById('rw-msg'),s=document.getElementById('rw-share');
+if(!q.j||!q.k||!API){m.textContent='This link is not complete.';return}
+s.href='mailto:?subject='+encodeURIComponent('Rewritten parliamentary briefing')+'&body='+encodeURIComponent('Here is a version of the parliamentary briefing rewritten around chosen keywords:\n\n'+location.href+'\n\nThe link works for 14 days.');
+fetch(API+'/r/'+encodeURIComponent(q.j)+'?key='+encodeURIComponent(q.k)).then(function(r){return r.text().then(function(t){if(!r.ok)throw t;return t})})
+.then(function(h){f.srcdoc=h;f.hidden=false;m.textContent='';var t=/<title>([^<]*)<\/title>/i.exec(h);if(t)document.title=t[1].replace(/&amp;/g,'&')})
+.catch(function(t){m.textContent=(typeof t==='string'&&t.length<200&&t)||'This rewrite could not be loaded. It may have expired.'})})();"""
+
+
+def viewer_html(regen_url: str) -> str:
+    """rewrite.html: shows a finished rewrite on the briefing site itself, so readers and shared links only ever
+    see this site's address. The job id and key travel in the #fragment, which browsers never send to a server."""
+    js = VIEWER_JS.replace("__REGEN__", json.dumps(regen_url or ""))
+    return ('<!DOCTYPE html><html lang="en-GB"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">'
+            '<meta name="robots" content="noindex,nofollow"><meta name="referrer" content="no-referrer"><title>Rewritten briefing</title>'
+            '<style>html,body{margin:0;height:100%;font:15px/1.4 system-ui,sans-serif;background:#fff;color:#1d1d1f}'
+            '.rw-bar{display:flex;gap:16px;align-items:center;padding:8px max(4vw,16px);border-bottom:1px solid #ddd;background:#f6f6f4}'
+            '.rw-bar a{color:#0b5cad}#rw-msg{padding:24px max(4vw,16px)}#rw{border:0;width:100%;height:calc(100% - 42px);display:block}'
+            '@media (prefers-color-scheme:dark){html,body{background:#161617;color:#eee}.rw-bar{background:#222;border-color:#333}.rw-bar a{color:#7fb4ff}}</style></head>'
+            '<body><div class="rw-bar"><a href="./">All briefings</a><a id="rw-share" href="#">Share by email</a></div>'
+            '<p id="rw-msg" role="status">Loading the rewrite…</p>'
+            '<iframe id="rw" title="Rewritten briefing" hidden sandbox="allow-popups allow-popups-to-escape-sandbox"></iframe>'
+            f'<script>{js}</script></body></html>')
+
+
+__all__ = ["panel", "payload_json", "viewer_html", "e"]

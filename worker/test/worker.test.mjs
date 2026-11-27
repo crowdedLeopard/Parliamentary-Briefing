@@ -147,3 +147,15 @@ test("a personal access code in the list must match; entries without one need on
   assert.equal((await ask(e, "reader@example.org")).s, 200);
   for (const [k, v] of e.REGEN.m) assert.ok(!String(k + v).includes("river"), "a code reached KV");
 });
+
+test("an entry marked :unlimited skips the per-person limit but keeps its own daily guard", async () => {
+  const e = env({ ALLOWED_EMAILS: "ann@example.org:river-lamp-42:unlimited, reader@example.org", DAILY_CAP: "1", UNLIMITED_CAP: "3" });
+  const req = (k, code = "river-lamp-42") => call(e, "/api/request", { method: "POST", body: { e: "2026-11-26", k: [k], email: "ann@example.org", code } });
+  assert.equal((await req("a1", "river-lamp-42:unlimited")).s, 401);   // the flag is not part of the code
+  assert.equal((await req("a1")).s, 200);
+  assert.equal((await req("a2")).s, 200);
+  assert.equal((await req("a3")).s, 200);
+  assert.equal((await req("a4")).s, 429);
+  assert.equal((await ask(e, "reader@example.org")).s, 200);           // others still share DAILY_CAP
+  assert.equal((await ask(e, "reader@example.org", ["xy"])).s, 409);
+});

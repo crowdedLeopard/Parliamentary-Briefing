@@ -18,7 +18,7 @@ to redraft the edition around them. That costs model time, so it is gated:
    log shows no keywords and nothing about who asked. The workflow fetches the job from
    `/hook/job/<id>` (shared secret), rewrites the edition with the same writer as the daily build
    (GitHub Copilot) and posts the page back. Nothing is committed.
-5. The page waits and then links to the result, which only holds a private link and is kept 14 days.
+5. The page waits and then links to the result. The result opens on the briefing site itself (`rewrite.html`, with the private key in the `#` part of the link, which is never sent to any server), so readers and shared links only see the site's address. Results are kept 14 days. Every briefing and every result has a **Share by email** link that opens a new email with the link in the body.
 
 The address check on its own proves only that someone knows an approved address, not that they own
 it; the one-per-person limit and the daily cap bound what a guesser could spend. To make visitors
@@ -36,7 +36,7 @@ All in GitHub (Settings > Secrets and variables > Actions), apart from one Cloud
 |---|---|---|
 | secret | `CLOUDFLARE_API_TOKEN` | Cloudflare > My Profile > API Tokens > Create Token > *Edit Cloudflare Workers* template |
 | secret | `CLOUDFLARE_ACCOUNT_ID` | the Cloudflare account id |
-| secret | `REGEN_ALLOWED_EMAILS` | approved addresses, comma-separated; `@example.com` allows a whole domain. Add `:code` after an address (`ann@example.org:river-lamp-42`) to give that person their own access code, which they must type too |
+| secret | `REGEN_ALLOWED_EMAILS` | approved addresses, comma-separated; `@example.com` allows a whole domain. Add `:code` after an address (`ann@example.org:river-lamp-42`) to give that person their own access code, which they must type too. Add `:unlimited` after the code (`ann@example.org:river-lamp-42:unlimited`) to lift the one-per-edition limit for that person; they then have their own guard of 30 a day (`UNLIMITED_CAP`) |
 | secret | `REGEN_UNLIMITED_EMAILS` | optional: addresses with no per-person limit |
 | secret | `REGEN_DISPATCH_TOKEN` | fine-grained GitHub token, this repository only, *Actions: read and write* |
 | secret | `REGEN_HOOK_SECRET` | a long random string |
