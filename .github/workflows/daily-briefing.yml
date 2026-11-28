@@ -202,6 +202,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: read
+      id-token: write   # lets mailer.py sign in to Microsoft Graph with a federated credential, no stored secret
     steps:
       - uses: actions/checkout@v4
         with:
@@ -209,6 +210,10 @@ jobs:
       - name: Email the edition
         env:
           MAIL_TO: ${{ secrets.MAIL_TO }}
+          MAIL_SENDER: ${{ secrets.MAIL_SENDER }}
+          GRAPH_TENANT_ID: ${{ secrets.GRAPH_TENANT_ID }}
+          GRAPH_CLIENT_ID: ${{ secrets.GRAPH_CLIENT_ID }}
+          GRAPH_CLIENT_SECRET: ${{ secrets.GRAPH_CLIENT_SECRET }}
           MAIL_FROM: ${{ secrets.MAIL_FROM }}
           SMTP_HOST: ${{ secrets.SMTP_HOST }}
           SMTP_PORT: ${{ secrets.SMTP_PORT }}
@@ -241,6 +246,7 @@ jobs:
       SITE_TOKEN: ${{ secrets.SITE_DEPLOY_TOKEN }}
       SITE_REPO: ${{ vars.SITE_REPO || 'crowdedLeopard/parliamentary-briefing-site' }}
       REDACT_TERMS: ${{ vars.REDACT_TERMS }}   # extra internal names kept off the pages (pipeline/redact.py)
+      SITE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
       PAGES_OFF: ${{ vars.PAGES_DISABLED }}
     steps:
       - uses: actions/checkout@v4
