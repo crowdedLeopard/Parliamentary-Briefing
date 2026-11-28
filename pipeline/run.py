@@ -10,7 +10,8 @@ Usage: python pipeline/run.py [--run-date YYYY-MM-DD] [--mode full|validate|rend
 Writes, for the last day covered (toDate):
   data/feed/parliament-<toDate>.json, data/profiles/<toDate>.json, data/sources/<toDate>.json,
   editorial/<toDate>.json, editorial/<toDate>.validation.json, reports/<toDate>.html, reports/latest.html,
-  data/status/<toDate>.json (attempts, outcome, and which days each House sat)
+  data/status/<toDate>.json (attempts, outcome, and which days each House sat),
+  data/corpus/<toDate>.json (every question and statement read) and data/keywords/<toDate>.json (suggested keywords)
 """
 
 from __future__ import annotations
@@ -84,7 +85,11 @@ def build(a, run_date: date, from_date: str, to_date: str, paths: dict, status: 
         api = Api()
         try:
             feed = build_feed(api, run_date)
+            corpus = feed.pop("corpus", None)
             jsave(paths["feed"], feed)
+            if corpus:
+                import keywords
+                jsave(ROOT / f"data/corpus/{to_date}.json", keywords.compact_corpus(corpus))
             logging.info("feed: %d screened, %d questions and %d statements matched", feed["questionsScanned"],
                          len(feed["writtenQuestions"]), len(feed["writtenStatements"]))
             profiles = build_profiles(api, feed, run_date, ROOT / "data/members")
@@ -124,6 +129,15 @@ def build(a, run_date: date, from_date: str, to_date: str, paths: dict, status: 
     validation["ruleChecks"] = rules
     if editorial is not None:
         jsave(paths["validation"], validation)
+
+    # Keyword suggestions for the page's keyword picker: mined from everything read, ranked by a
+    # small model where one is available. Never fatal: the page falls back to the mined list.
+    if a.mode == "full":
+        try:
+            import keywords
+            jsave(ROOT / f"data/keywords/{to_date}.json", keywords.suggest(ROOT, to_date, use_ai=True))
+        except Exception as e:  # noqa: BLE001
+            logging.warning("keyword suggestions failed: %s", e)
 
     sitting = (jload(paths["sources"]) or {}).get("sitting")
     html = render(feed, profiles, editorial, run_date, validation, sitting=sitting)

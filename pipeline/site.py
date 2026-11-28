@@ -216,8 +216,23 @@ def day_bar(d: str, prev: str | None, nxt: str | None, dates: list[str], threads
           "if(n){var a=document.createElement('a');a.href=n+'.html';a.textContent=n;m.appendChild(a)}}})})();")
     return (f'{BAR_CSS}<nav class="pb-bar" aria-label="Briefing editions"><div class="pb-in">{p}'
             f'<div class="pb-mid"><a href="index.html">Home</a><label>Go to <input id="pb-date" type="date" value="{e(d)}"'
-            f' min="{e(dates[0])}" max="{e(dates[-1])}"></label><a href="timeline.html">Timeline</a>{OFFLINE_BTN}<span class="pb-msg" id="pb-msg" aria-live="polite"></span></div>'
+            f' min="{e(dates[0])}" max="{e(dates[-1])}"></label><a href="timeline.html">Timeline</a>{share_link(d)}{OFFLINE_BTN}<span class="pb-msg" id="pb-msg" aria-live="polite"></span></div>'
             f'<div class="pb-next">{n}</div></div>{strip}</nav><style>{OFFLINE_CSS}.pb-bar .off-btn{{color:var(--pb-g)}}</style><script>{js}</script><script>{OFFLINE_JS}</script>')
+
+
+PUBLIC_URL = "https://crowdedleopard.github.io/Parliamentary-Briefing/"
+
+
+def share_link(d: str) -> str:
+    """A "Share by email" link: opens a new email with the link to this edition in the body.
+    The script swaps in the address the page is actually being read at, so copies hosted elsewhere share themselves."""
+    from urllib.parse import quote
+    sub, body = f"Parliamentary briefing, {short(d)}", "Here is the parliamentary briefing for {when}:\n\n{url}"
+    href = "mailto:?subject=" + quote(sub) + "&body=" + quote(body.format(when=short(d), url=PUBLIC_URL + d + ".html"))
+    js = ("(function(){var a=document.getElementById('pb-share');if(!a)return;a.addEventListener('click',function(){"
+          "a.href='mailto:?subject='+encodeURIComponent(" + jscript(sub) + ")+'&body='+encodeURIComponent("
+          + jscript(body.format(when=short(d), url="")) + "+location.href.split('#')[0])})})();")
+    return f'<a id="pb-share" href="{e(href)}">Share by email</a><script>{js}</script>'
 
 
 def add_bar(html: str, bar: str) -> str:
@@ -626,6 +641,19 @@ def home_html(latest: dict, facts: dict, dates: list[str], rows: list[str], a: d
 
 # ---------- build ----------
 
+def keyword_picker(d: str) -> str:
+    """The keyword picker for edition d, and its data file kw/<d>.json (picker.py, keywords.py). Never fatal."""
+    import keywords
+    import picker
+    try:
+        (OUT / "kw").mkdir(exist_ok=True)
+        (OUT / "kw" / f"{d}.json").write_text(scrub(picker.payload_json(keywords.site_payload(ROOT, d))), encoding="utf-8")
+    except Exception:  # noqa: BLE001
+        print(f"::warning::keyword data for {d} could not be built: " + traceback.format_exc(limit=1).strip().splitlines()[-1])
+        return ""
+    return picker.panel(d, os.environ.get("REGEN_URL", "").strip())
+
+
 def build() -> int:
     if OUT.exists():
         shutil.rmtree(OUT)
@@ -653,6 +681,7 @@ def build() -> int:
         k = len(dates) - 1 - i
         html = rep.read_text(encoding="utf-8")
         bar = day_bar(d, dates[k - 1] if k > 0 else None, dates[k + 1] if k + 1 < len(dates) else None, dates, by_ed.get(d, []))
+        bar += keyword_picker(d)
         edf = ROOT / "editorial" / f"{d}.json"
         vf = ROOT / "editorial" / f"{d}.validation.json"
         ed = json.loads(edf.read_text()) if edf.exists() else {}
@@ -696,6 +725,9 @@ def build() -> int:
             (OUT / name).write_text(page(f"{title} · Parliamentary briefing", name,
                                          f'<main><div class="wrap"><h1>{title}</h1><p>{e(a_err or "Not available.")}</p></div></main>', latest_d))
 
+    if os.environ.get("REGEN_URL", "").strip():
+        import picker
+        (OUT / "rewrite.html").write_text(picker.viewer_html(os.environ["REGEN_URL"].strip()), encoding="utf-8")
     (OUT / "index.html").write_text(home_html(latest, ed_facts, dates, rows, analysis, news, a_err), encoding="utf-8")
 
     (OUT / "403.html").write_text("<!DOCTYPE html><html lang='en-GB'><head><meta charset='utf-8'><meta name='viewport' content='width=device-width, initial-scale=1'><title>No access</title></head>"

@@ -1,0 +1,63 @@
+name: Regenerate a briefing on request
+
+# Separate from the daily build. Started only by the regenerate service (worker/), after it has
+# checked the visitor's email address against the approved list and their one rewrite per edition.
+# The only input is an opaque job id: this public log never shows keywords or who asked. The
+# script fetches the job from the service, rewrites the edition and hands the page straight back.
+# Nothing is committed. See worker/README.md for the set-up.
+
+on:
+  workflow_dispatch:
+    inputs:
+      job:
+        description: "Job id from the regenerate service (not for manual use)"
+        required: true
+
+run-name: Regenerate a briefing on request
+
+permissions:
+  contents: read
+  copilot-requests: write   # the writer runs on GitHub Copilot, as in the daily build
+
+concurrency:
+  group: regenerate-${{ inputs.job }}
+  cancel-in-progress: false
+
+jobs:
+  rewrite:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      REGEN_URL: ${{ vars.REGEN_URL }}
+      REGEN_JOB_ID: ${{ inputs.job }}
+      REGEN_HOOK_SECRET: ${{ secrets.REGEN_HOOK_SECRET }}
+      REGEN_VALIDATE: ${{ vars.REGEN_VALIDATE }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Install the GitHub Copilot CLI
+        run: npm install -g @github/copilot > /dev/null && copilot --version
+      - name: Rewrite the edition
+        env:
+          COPILOT_GITHUB_TOKEN: ${{ secrets.COPILOT_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
+          MODEL_PROVIDER: ${{ vars.MODEL_PROVIDER }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          WRITER_MODEL: ${{ vars.WRITER_MODEL }}
+          VALIDATOR_MODEL: ${{ vars.VALIDATOR_MODEL }}
+        run: |
+          [ -z "$COPILOT_GITHUB_TOKEN" ] && unset COPILOT_GITHUB_TOKEN
+          for v in MODEL_PROVIDER WRITER_MODEL VALIDATOR_MODEL; do [ -z "${!v}" ] && unset $v; done
+          python pipeline/regen.py
+      - name: Tell the service the rewrite failed
+        if: failure() || cancelled()
+        run: python pipeline/regen.py --fail

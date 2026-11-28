@@ -241,6 +241,7 @@ jobs:
       SITE_TOKEN: ${{ secrets.SITE_DEPLOY_TOKEN }}
       SITE_REPO: ${{ vars.SITE_REPO || 'crowdedLeopard/parliamentary-briefing-site' }}
       REDACT_TERMS: ${{ vars.REDACT_TERMS }}   # extra internal names kept off the pages (pipeline/redact.py)
+      REGEN_URL: ${{ vars.REGEN_URL }}   # the regenerate service (worker/); blank = no rewrite button
       PAGES_OFF: ${{ vars.PAGES_DISABLED }}
     steps:
       - uses: actions/checkout@v4
