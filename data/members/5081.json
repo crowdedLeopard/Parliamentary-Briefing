@@ -1,0 +1,815 @@
+{
+ "id": 5081,
+ "fetchedOn": "2026-11-28",
+ "core": {
+  "id": 5081,
+  "nameListAs": "Morris, Joe",
+  "nameDisplayAs": "Joe Morris",
+  "nameFullTitle": "Joe Morris MP",
+  "nameAddressAs": null,
+  "latestParty": {
+   "id": 15,
+   "name": "Labour",
+   "abbreviation": "Lab",
+   "backgroundColour": "d50000",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": true,
+   "governmentType": 0,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "Hexham",
+   "membershipFromId": 4100,
+   "house": 1,
+   "membershipStartDate": "2024-07-04T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2024-07-04T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/5081/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2024-05-31T00:00:00",
+    "constituencyEnd": null,
+    "house": 1,
+    "name": "Hexham",
+    "id": 4100,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [],
+  "houseMemberships": [
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Joe Morris",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [],
+  "oppositionPosts": [],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Labour",
+    "id": 15,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 1,
+    "name": "Administration Committee",
+    "id": 2,
+    "startDate": "2024-10-28T00:00:00",
+    "endDate": "2025-04-28T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Mental Health Bill [HL]",
+    "id": 798,
+    "startDate": "2025-06-09T00:00:00",
+    "endDate": "2025-06-24T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Civil Aviation (Consumer Protection and Regulatory Reform) Bill",
+    "id": 847,
+    "startDate": "2026-10-15T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Transport Committee",
+    "id": 153,
+    "startDate": "2026-11-02T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [],
+ "focus": [],
+ "synopsis": "Joe Morris is the Labour MP for <a href='/constituency/4100/overview'>Hexham</a>, and has been an MP continually since 4 July 2024.",
+ "history": [
+  {
+   "id": 1961446,
+   "uin": "44373",
+   "heading": "Health Services: Women",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what progress her Department has made on implementation of the Women's Health Strategy.",
+   "dateTabled": "2026-11-18T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1958426,
+   "uin": "41954",
+   "heading": "Social Media: Children",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, whether she expects social media platforms to continue complying with all duties contained in Ofcom's Children's Codes in relation to children who access their services in contravention ",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1958406,
+   "uin": "41934",
+   "heading": "Social Media: Children",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what assessment she has made of evidence from Australia that 85 per cent of children remain active on restricted social media platforms; and what contingency plans her Department has put",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1958802,
+   "uin": "42281",
+   "heading": "Deposit Return Schemes: Electronic Cigarettes",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what consideration the department given to the implementation of a deposit return scheme for re-usable vapes.",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1958791,
+   "uin": "42270",
+   "heading": "Electronic Equipment: Waste Disposal",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she has made of the effectiveness of the enforcement of take-back schemes for electronic items containing batteries, such as vapes, to stop them from entering the waste",
+   "dateTabled": "2026-11-11T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1949222,
+   "uin": "35009",
+   "heading": "Arts: Northumberland",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what steps her Department is taking to ensure that arts organisations in Northumberland and other rural areas are able to benefit from international cultural export opportunities.",
+   "dateTabled": "2026-10-14T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1950126,
+   "uin": "35714",
+   "heading": "Mental Health Services: Rural Areas",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps are being taken to support the mental health of people in rural communities.",
+   "dateTabled": "2026-10-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1949833,
+   "uin": "35478",
+   "heading": "High Income Child Benefit Tax Charge",
+   "questionText": "To ask the Chancellor of the Exchequer, whether he has made an assessment of the potential impact of the High Income Child Benefit Charge on households in which one partner experiences a temporary reduction or loss of earnings as a result of serious illne",
+   "dateTabled": "2026-10-15T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1949832,
+   "uin": "35477",
+   "heading": "High Income Child Benefit Tax Charge",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment he has made of the impact of the High Income Child Benefit Charge on single-earner households where total household income is lower than that of two-earner households not liable for the charge.",
+   "dateTabled": "2026-10-15T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1949219,
+   "uin": "35006",
+   "heading": "Arts: Small Businesses",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what assessment she has made of the adequacy of financial support available to small and medium-sized arts organisations seeking to undertake international touring activity.",
+   "dateTabled": "2026-10-14T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1947303,
+   "uin": "33394",
+   "heading": "Childcare",
+   "questionText": "To ask the Secretary of State for Education, what assessment she has made of the potential impact of school teacher training (INSET) days on working parents' childcare arrangements; and whether her Department has considered options to support the provisio",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1946158,
+   "uin": "32162",
+   "heading": "Fires",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, whether her Department plans to introduce of a dedicated category for recording wildfire incidents within the Incident Recording System.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1945764,
+   "uin": "31767",
+   "heading": "Fires",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps she is taking with Cabinet colleagues to improve strategic decision-making to help prevent and manage wildfire risks.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1945763,
+   "uin": "31766",
+   "heading": "Fires",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what plans she has to deliver a coordinated national wildfire strategy.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1944458,
+   "uin": "30558",
+   "heading": "Public Footpaths",
+   "questionText": "To ask the Secretary of State for Transport, what assessment she has made of the potential merits of converting disused railway lines into traffic-free shared-use greenways; whether she plans to establish a national programme to support their development;",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1945658,
+   "uin": "31765",
+   "heading": "Local Government Pension Scheme",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, when she will lay the statutory instruments necessary to confirm the Protected Pension Age administrative arrangements for eligible Local Government Pension Scheme members; and w",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1944453,
+   "uin": "30556",
+   "heading": "Renewable Energy: Smart Export Guarantee",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what plans she has to introduce greater regulatory oversight or transparency requirements for the calculation and setting of Smart Export Guarantee export tariffs by energy suppliers.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1944454,
+   "uin": "30557",
+   "heading": "Renewable Energy: Smart Export Guarantee",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what assessment she has made of whether current Smart Export Guarantee arrangements provide fair value to consumers who are supporting the transition to net zero through investment in renewab",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1946890,
+   "uin": "32995",
+   "heading": "Hospitality Industry: Business Rates",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment he has made of the adequacy of support available to restaurants and cafés following the announcement of business rates relief for pubs, clubs and music venues; and whether he plans to extend similar ",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1945227,
+   "uin": "31381",
+   "heading": "Hybrid Vehicles: Taxation",
+   "questionText": "To ask the Chancellor of the Exchequer, whether he plans to review the tax treatment of hybrid vehicles, including Vehicle Excise Duty and other motoring taxes.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1943202,
+   "uin": "30055",
+   "heading": "Natural Gas: Rural Areas",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what steps her Department is taking to ensure that households in rural areas that are off the gas grid receive protection from energy price rises comparable to that provided to households con",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1942388,
+   "uin": "29632",
+   "heading": "Energy Supply: Rural Areas",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what resources she plans to allocate to rural and remote households living without connections to the electricity grid in order to support their energy security.",
+   "dateTabled": "2026-09-14T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1946964,
+   "uin": "32996",
+   "heading": "Fires",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps her Department has taken to improve data collection and reporting of wildfires.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1947368,
+   "uin": "33395",
+   "heading": "Continuing Care: Finance",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps her Department is taking to ensure consistency in NHS Continuing Healthcare funding decisions across integrated care boards.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1944552,
+   "uin": "30559",
+   "heading": "Neurological Diseases: Health Services",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment his Department has made of the potential impact of delays in NHS Continuing Healthcare assessments on patients with progressive neurodegenerative conditions.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1943203,
+   "uin": "30056",
+   "heading": "Natural Gas: Rural Areas",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what assessment her Department has made of the effectiveness of Government support in helping households in rural areas that are not connected to the gas grid to decarbonise their homes.",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1942717,
+   "uin": "29867",
+   "heading": "National Grid: Rural Areas",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what plans she has to support existing rural and remote households in securing a first-time connection to the electricity grid.",
+   "dateTabled": "2026-09-14T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1943204,
+   "uin": "30057",
+   "heading": "Crisis and Resilience Fund: Rural Areas",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what assessment his Department has made of the impact of the £27 million supplement to the Crisis and Resilience Fund in England, announced on 16 March 2026, on levels of financial hardship among rural ",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1943256,
+   "uin": "30076",
+   "heading": "Sewage: Waste Disposal",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps she is taking to ensure that water companies deliver a sustained reduction in storm overflow discharges by 2030; and what enforcement action her Department will take against",
+   "dateTabled": "2026-09-15T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1942977,
+   "uin": "901378",
+   "heading": "Gender Based Violence",
+   "questionText": "To ask the Secretary of State for Justice, what steps his Department is taking to help tackle violence against women and girls.",
+   "dateTabled": "2026-09-09T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1933243,
+   "uin": "22742",
+   "heading": "Electricity: VAT",
+   "questionText": "To ask the Chancellor of the Exchequer, what comparative assessment has the Government made of the effectiveness of the application of VAT to first-time electricity mains connections for existing occupied residential properties that have never previously ",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1933242,
+   "uin": "22741",
+   "heading": "National Grid",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what assessment her Department has made of the number of UK households without connection to the electricity grid.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1909754,
+   "uin": "4709",
+   "heading": "Climate Change: Nature Conservation",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps the Government is taking to strengthen the UK’s resilience to climate change, including through the (a) protection and (b) restoration of nature.",
+   "dateTabled": "2026-05-29T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1922696,
+   "uin": "900738",
+   "heading": "Innovation: Finance",
+   "questionText": "?To ask the Secretary of State for Science, Innovation and Technology, what steps her Department is taking to support locally led innovation investment.",
+   "dateTabled": "2026-06-25T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1918879,
+   "uin": "900573",
+   "heading": "Taxation",
+   "questionText": "To ask the Chancellor of the Exchequer, what assessment she has made of the effectiveness of the tax system.",
+   "dateTabled": "2026-06-17T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1915772,
+   "uin": "900415",
+   "heading": "Private Rented Housing",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what steps he is taking to improve the private rented sector for tenants.",
+   "dateTabled": "2026-06-09T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1901130,
+   "uin": "128307",
+   "heading": "Cinemas: Finance",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, if she will (a) include cinemas as eligible recipients of capital funding for UK cultural venues and (b) introduce a (i) complementary and (ii) parallel funding scheme for cinemas.",
+   "dateTabled": "2026-04-20T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1901131,
+   "uin": "128308",
+   "heading": "Arts: North East",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, how her Department plans to support the BBC in growing the North East’s creative economy.",
+   "dateTabled": "2026-04-20T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1901129,
+   "uin": "128306",
+   "heading": "Creative Europe",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, whether she plans to re-join Creative Europe.",
+   "dateTabled": "2026-04-20T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1901128,
+   "uin": "128305",
+   "heading": "Sports: Rural Areas",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what steps she is taking to support rural sports clubs.",
+   "dateTabled": "2026-04-20T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1900929,
+   "uin": "128148",
+   "heading": "Large Goods Vehicle Drivers: Facilities",
+   "questionText": "To ask the Secretary of State for Transport, what assessment she has made of the potential impact of the availability of quality roadside facilities on recruitment and retention of HGV drivers.",
+   "dateTabled": "2026-04-17T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1882935,
+   "uin": "114200",
+   "heading": "Students: Grants",
+   "questionText": "To ask the Secretary of State for Education, what evaluation has been undertaken to ensure the reintroduced maintenance grants will reach the students who need them most and what steps are being taken to ensure high take-up rates among students from the m",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1870787,
+   "uin": "105315",
+   "heading": "Classics: State Education",
+   "questionText": "To ask the Secretary of State for Education, whether she has plans to increase the number of state school students able to study Latin and the Classics.",
+   "dateTabled": "2026-01-13T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1882933,
+   "uin": "114198",
+   "heading": "Science and Discovery Centres",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, further to the Westminster Hall debate of 14 January 2026 titled ‘impact of Science and Discovery Centres on national science and technology priorities', whether science and discovery c",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1889147,
+   "uin": "908188",
+   "heading": "Roads: Repairs and Maintenance",
+   "questionText": "To ask the Chancellor of the Exchequer, what steps she has taken with Cabinet colleagues to increase local roads maintenance funding.",
+   "dateTabled": "2026-03-04T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1885004,
+   "uin": "115972",
+   "heading": "Cinemas: Government Assistance",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what opportunities her department has for independent cinemas to apply for national support schemes.",
+   "dateTabled": "2026-02-25T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1882938,
+   "uin": "114203",
+   "heading": "Ministry of Housing, Communities and Local Government: Public Consultation",
+   "questionText": "To ask the Secretary of State for the Home Department, whether the document entitled Government’s Principles of Engagement, published on 14 March 2024, remains active; and whether those principles should guide engagement with stakeholders and the public d",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1882937,
+   "uin": "114202",
+   "heading": "Moorland",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps she is taking to mitigate the loss and fragmentation of open moorland habitats across the UK.",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1882934,
+   "uin": "114199",
+   "heading": "Broadband: Rural Areas",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what steps she is taking to provide reliable broadband service to rural areas that fall into the category of ‘Very Hard to Reach’, and outside of the scope of contracts already awarded ",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1882929,
+   "uin": "114194",
+   "heading": "Culture: Finance",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, if Science and Discovery Centres can apply to any of the support schemes for cultural venues announced in the press release of 21 January 2026, entitled ‘Government announces bumper £1.5 billion ",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1882936,
+   "uin": "114201",
+   "heading": "Water Supply: Standards",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps are being taken to ensure the enforcement of regular risk assessment and monitoring of private water supplies by local authorities as per their responsibilities outlined in ",
+   "dateTabled": "2026-02-20T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1866103,
+   "uin": "101524",
+   "heading": "Unemployment: North East",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what steps the Department is taking to reduce youth economic inactivity in the North East.",
+   "dateTabled": "2025-12-18T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1866102,
+   "uin": "101523",
+   "heading": "Unemployment: Northumberland",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what steps the Department is taking to reduce youth economic inactivity in Northumberland.",
+   "dateTabled": "2025-12-18T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1866101,
+   "uin": "101522",
+   "heading": "Unemployment: Hexham",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what steps the Department is taking to reduce youth economic inactivity in Hexham constituency.",
+   "dateTabled": "2025-12-18T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1866074,
+   "uin": "101515",
+   "heading": "Energy: North East",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, whether his Department has made an estimate of the potential number of businesses in the North East that may request support to improve their energy management practices.",
+   "dateTabled": "2025-12-18T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1866073,
+   "uin": "101514",
+   "heading": "Energy: Northumberland",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, whether his Department has made an estimate of the potential number of businesses in Northumberland that may request support to improve their energy management practices.",
+   "dateTabled": "2025-12-18T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1866072,
+   "uin": "101513",
+   "heading": "Energy: Hexham",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, whether his Department has made an estimate of the potential number of businesses in the Hexham constituency that may request support to improve their energy management practices.",
+   "dateTabled": "2025-12-18T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1865269,
+   "uin": "100988",
+   "heading": "Fuel Poverty: North East",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what assessment the Department has made of the level of energy-related cost pressures on low- income households in the North East as referenced in the Child Poverty Strategy.",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1865268,
+   "uin": "100987",
+   "heading": "Fuel Poverty: Northumberland",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what assessment the Department has made of the level of energy-related cost pressures on low- income households in Northumberland as referenced in the Child Poverty Strategy.",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1865267,
+   "uin": "100986",
+   "heading": "Fuel Poverty: Hexham",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what assessment the Department has made of the level of energy-related cost pressures on low- income households in Hexham constituency as referenced in the Child Poverty Strategy.",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1865280,
+   "uin": "100997",
+   "heading": "Poverty: North East",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what estimate his Department has made of the number of children in the North East newly eligible for support measures introduced under the Child Poverty Strategy.",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1865279,
+   "uin": "100996",
+   "heading": "Poverty: Northumberland",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what estimate his Department has made of the number of children in Northumberland newly eligible for support measures introduced under the Child Poverty Strategy.",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1865278,
+   "uin": "100995",
+   "heading": "Poverty: Hexham",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what estimate his Department has made of the number of children in Hexham constituency newly eligible for support measures introduced under the Child Poverty Strategy.",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1865276,
+   "uin": "100994",
+   "heading": "Poverty: North East",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what data his Department holds on the proportion of low income households in the North East impacted by changes to income- related thresholds outlined in the Child Poverty Strategy.",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1865275,
+   "uin": "100993",
+   "heading": "Poverty: Northumberland",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what data his Department holds on the proportion of low income households in Northumberland impacted by changes to income- related thresholds outlined in the Child Poverty Strategy.",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1865274,
+   "uin": "100992",
+   "heading": "Poverty: Hexham",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what data his Department holds on the proportion of low income households in Hexham constituency impacted by changes to income- related thresholds outlined in the Child Poverty Strategy.",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1865297,
+   "uin": "101002",
+   "heading": "Poverty: North East",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what estimate his Department has made of the number of local voluntary sector organisations expected to deliver services linked to the Child Poverty Strategy in the North East.",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1865295,
+   "uin": "101001",
+   "heading": "Poverty: Northumberland",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what estimate his Department has made of the number of local voluntary sector organisations expected to deliver services linked to the Child Poverty Strategy in Northumberland.",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1865293,
+   "uin": "101000",
+   "heading": "Poverty: Hexham",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what estimate his Department has made of the number of local voluntary sector organisations expected to deliver services linked to the Child Poverty Strategy in Hexham constituency.",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1865283,
+   "uin": "100999",
+   "heading": "Poverty: Northumberland",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what estimate his Department has made of the number of voluntary sector organisations in Northumberland expected to deliver services linked to the Child Poverty Strategy.",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1865282,
+   "uin": "100998",
+   "heading": "Poverty: Hexham",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what estimate his Department has made of the number of voluntary sector organisations in Hexham constituency expected to deliver services linked to the Child Poverty Strategy.",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1865266,
+   "uin": "100985",
+   "heading": "Poverty: North East",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what data the Department holds on the expected uptake of family financial resilience programmes in the North East under the Child Poverty Strategy.",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1865265,
+   "uin": "100984",
+   "heading": "Poverty: Northumberland",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what data the Department holds on the expected uptake of family financial resilience programmes in Northumberland under the Child Poverty Strategy.",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1865264,
+   "uin": "100983",
+   "heading": "Poverty: Hexham",
+   "questionText": "To ask the Secretary of State for Work and Pensions, what data the Department holds on the expected uptake of family financial resilience programmes in Hexham constituency under the Child Poverty Strategy.",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Department for Work and Pensions"
+  },
+  {
+   "id": 1866094,
+   "uin": "101518",
+   "heading": "Tourism: North East",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what assessment the Department has made of tourism’s contribution to the North East's rural economy.",
+   "dateTabled": "2025-12-18T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1866092,
+   "uin": "101517",
+   "heading": "Tourism: Northumberland",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what assessment the Department has made of tourism’s contribution to Northumberlands rural economy.",
+   "dateTabled": "2025-12-18T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1866090,
+   "uin": "101516",
+   "heading": "Tourism: Hexham",
+   "questionText": "To ask the Secretary of State for Culture, Media and Sport, what estimate her Department has made of the potential economic impact of tourism on Hexham.",
+   "dateTabled": "2025-12-18T00:00:00",
+   "answeringBodyName": "Department for Culture, Media and Sport"
+  },
+  {
+   "id": 1866098,
+   "uin": "101521",
+   "heading": "Childcare: North East",
+   "questionText": "To ask the Secretary of State for Education, what data the Department holds on the expected changes in childcare demand in the North East associated with childcare measures in the Child Poverty Strategy.",
+   "dateTabled": "2025-12-18T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1866097,
+   "uin": "101520",
+   "heading": "Childcare: Northumberland",
+   "questionText": "To ask the Secretary of State for Education, what data the Department holds on the expected changes in childcare demand in Northumberland associated with childcare measures in the Child Poverty Strategy.",
+   "dateTabled": "2025-12-18T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1866096,
+   "uin": "101519",
+   "heading": "Childcare: Hexham",
+   "questionText": "To ask the Secretary of State for Education, what data the Department holds on the expected changes in childcare demand in Hexham constituency associated with childcare measures in the Child Poverty Strategy.",
+   "dateTabled": "2025-12-18T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1865272,
+   "uin": "100991",
+   "heading": "Small Businesses: North East",
+   "questionText": "To ask the Secretary of State for Business and Trade, what estimate his Department has made of the number of small and medium businesses in the North East eligible for cost- reduction support programmes following the Willow Review.",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1865271,
+   "uin": "100990",
+   "heading": "Small Businesses: Northumberland",
+   "questionText": "To ask the Secretary of State for Business and Trade, what estimate the Department has made of the number of small and medium sized businesses in Northumberland that will be eligible for the new cost-reduction support programmes announced in 2025 followin",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1865270,
+   "uin": "100989",
+   "heading": "Small Businesses: Hexham",
+   "questionText": "To ask the Secretary of State for Business and Trade, what estimate the Department has made of the number of small and medium businesses in Hexham constituency that will be eligible for the new cost-reduction support programmes announced in 2025 following",
+   "dateTabled": "2025-12-17T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1965508,
+   "uin": "47269",
+   "heading": null,
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what assessment he has made of the effectiveness of the Online Intermediation Services for Business Users (Enforcement) Regulations 2020 in enabling small businesses to enforce the",
+   "dateTabled": "2026-11-27T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1964089,
+   "uin": "46763",
+   "heading": "Drugs: Licensing",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment she has made of the effectiveness of the mechanisms that currently exist to ensure that medicines licences are reviewed when new evidence emerges, and whether she believes further a",
+   "dateTabled": "2026-11-25T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1957799,
+   "uin": "41417",
+   "heading": "Gender Based Violence: Crime Prevention",
+   "questionText": "To ask the Minister for Women and Equalities, what steps she is taking to develop schemes encouraging men and boys to become active allies in preventing violence against women and girls.",
+   "dateTabled": "2026-11-10T00:00:00",
+   "answeringBodyName": "Women and Equalities"
+  }
+ ],
+ "historyComplete": true
+}

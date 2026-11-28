@@ -1,0 +1,489 @@
+{
+ "id": 413,
+ "fetchedOn": "2026-11-28",
+ "core": {
+  "id": 413,
+  "nameListAs": "Benn, Hilary",
+  "nameDisplayAs": "Hilary Benn",
+  "nameFullTitle": "Rt Hon Hilary Benn MP",
+  "nameAddressAs": null,
+  "latestParty": {
+   "id": 15,
+   "name": "Labour",
+   "abbreviation": "Lab",
+   "backgroundColour": "d50000",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": true,
+   "governmentType": 0,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "Leeds South",
+   "membershipFromId": 4138,
+   "house": 1,
+   "membershipStartDate": "1999-06-10T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2024-07-04T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/413/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2024-05-31T00:00:00",
+    "constituencyEnd": null,
+    "house": 1,
+    "name": "Leeds South",
+    "id": 4138,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "2010-04-13T00:00:00",
+    "constituencyEnd": "2024-05-30T00:00:00",
+    "house": 1,
+    "name": "Leeds Central",
+    "id": 3565,
+    "startDate": "2010-05-06T00:00:00",
+    "endDate": "2024-05-30T00:00:00",
+    "additionalInfo": "Elected 4 times",
+    "additionalInfoLink": null
+   },
+   {
+    "constituencyStart": "1997-04-09T00:00:00",
+    "constituencyEnd": "2010-04-12T00:00:00",
+    "house": 1,
+    "name": "Leeds Central",
+    "id": 1688,
+    "startDate": "1999-06-10T00:00:00",
+    "endDate": "2010-05-06T00:00:00",
+    "additionalInfo": "Elected 3 times",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [
+   {
+    "house": 1,
+    "name": "Ealing North",
+    "id": 943,
+    "startDate": "1987-06-11T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Ealing North",
+    "id": 942,
+    "startDate": "1983-06-09T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "houseMemberships": [
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "1999-06-10T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Hilary Benn",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [
+   {
+    "house": 1,
+    "name": "Secretary of State for Northern Ireland",
+    "id": 721,
+    "startDate": "2024-07-05T00:00:00",
+    "endDate": "2026-07-20T00:00:00",
+    "additionalInfo": "Northern Ireland Office",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/northern-ireland-office"
+   },
+   {
+    "house": 1,
+    "name": "Secretary of State for Environment, Food and Rural Affairs",
+    "id": 704,
+    "startDate": "2007-06-28T00:00:00",
+    "endDate": "2010-05-06T00:00:00",
+    "additionalInfo": "Department for Environment, Food and Rural Affairs",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
+   },
+   {
+    "house": 1,
+    "name": "Secretary of State for International Development",
+    "id": 716,
+    "startDate": "2003-10-06T00:00:00",
+    "endDate": "2007-06-28T00:00:00",
+    "additionalInfo": "Department for International Development",
+    "additionalInfoLink": "http://www.dfid.gov.uk"
+   },
+   {
+    "house": 1,
+    "name": "Minister of State (Department for International Development)",
+    "id": 496,
+    "startDate": "2003-05-13T00:00:00",
+    "endDate": "2003-10-06T00:00:00",
+    "additionalInfo": "Department for International Development",
+    "additionalInfoLink": "http://www.dfid.gov.uk"
+   },
+   {
+    "house": 1,
+    "name": "Parliamentary Under-Secretary (Home Office) (Minister for Prisons and Probation)",
+    "id": 601,
+    "startDate": "2002-05-29T00:00:00",
+    "endDate": "2003-05-13T00:00:00",
+    "additionalInfo": "Home Office",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/home-office"
+   },
+   {
+    "house": 1,
+    "name": "Parliamentary Under-Secretary (Department for International Development)",
+    "id": 474,
+    "startDate": "2001-06-11T00:00:00",
+    "endDate": "2002-05-28T00:00:00",
+    "additionalInfo": "Department for International Development",
+    "additionalInfoLink": "http://www.dfid.gov.uk"
+   }
+  ],
+  "oppositionPosts": [
+   {
+    "house": 1,
+    "name": "Shadow Secretary of State for Northern Ireland",
+    "id": 873,
+    "startDate": "2023-09-04T00:00:00",
+    "endDate": "2024-05-30T00:00:00",
+    "additionalInfo": "Northern Ireland Office",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/northern-ireland-office"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Foreign Secretary",
+    "id": 855,
+    "startDate": "2015-05-08T00:00:00",
+    "endDate": "2016-06-26T00:00:00",
+    "additionalInfo": "Foreign and Commonwealth Office",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/foreign-commonwealth-office"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Secretary of State for Communities and Local Government",
+    "id": 867,
+    "startDate": "2011-10-07T00:00:00",
+    "endDate": "2015-05-08T00:00:00",
+    "additionalInfo": "Department for Communities and Local Government",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Leader of the House of Commons",
+    "id": 14,
+    "startDate": "2010-10-08T00:00:00",
+    "endDate": "2011-10-07T00:00:00",
+    "additionalInfo": "Office of the Leader of the House of Commons",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/the-office-of-the-leader-of-the-house-of-commons"
+   },
+   {
+    "house": 1,
+    "name": "Shadow Secretary of State for Environment, Food and Rural Affairs",
+    "id": 869,
+    "startDate": "2010-05-12T00:00:00",
+    "endDate": "2010-10-08T00:00:00",
+    "additionalInfo": "Department for Environment, Food and Rural Affairs",
+    "additionalInfoLink": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
+   }
+  ],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Labour",
+    "id": 15,
+    "startDate": "1999-06-10T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 1,
+    "name": "Environment, Transport & Regional Affairs",
+    "id": 59,
+    "startDate": "1999-12-06T00:00:00",
+    "endDate": "2001-06-01T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+    "id": 143,
+    "startDate": "2011-01-26T00:00:00",
+    "endDate": "2011-12-07T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Committee on the Future Relationship with the European Union",
+    "id": 366,
+    "startDate": "2020-01-27T00:00:00",
+    "endDate": "2021-01-16T00:00:00",
+    "additionalInfo": "Chair",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Committee on the Future Relationship with the European Union",
+    "id": 366,
+    "startDate": "2017-07-12T00:00:00",
+    "endDate": "2019-11-06T00:00:00",
+    "additionalInfo": "Chair",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Committee on the Future Relationship with the European Union",
+    "id": 366,
+    "startDate": "2016-10-19T00:00:00",
+    "endDate": "2017-05-03T00:00:00",
+    "additionalInfo": "Chair",
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Liaison Committee (Commons)",
+    "id": 103,
+    "startDate": "2020-05-20T00:00:00",
+    "endDate": "2021-01-15T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Liaison Committee (Commons)",
+    "id": 103,
+    "startDate": "2017-11-06T00:00:00",
+    "endDate": "2019-11-06T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Liaison Committee (Commons)",
+    "id": 103,
+    "startDate": "2016-10-19T00:00:00",
+    "endDate": "2017-05-03T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Liaison Committee Sub-committee on the effectiveness and influence of the select committee system",
+    "id": 398,
+    "startDate": "2019-02-13T00:00:00",
+    "endDate": "2019-11-06T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Energy Security and Net Zero Committee",
+    "id": 664,
+    "startDate": "2023-06-12T00:00:00",
+    "endDate": "2023-11-20T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 7,
+   "name": "6. Land and property portfolio with a value over £100,000 and where indicated, the portfolio provides a rental income of over £10,000 a year",
+   "sortOrder": 0,
+   "interests": [
+    {
+     "id": 2588,
+     "interest": "Type of land/property: Property, other (House and small nature reserve)\r\nNumber of properties: 1\r\nLocation: Essex\r\nOwnership details: Part-owner\r\n(Updated 24 November 2014)",
+     "createdWhen": "2024-04-18T15:16:39.02",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "name": "9. Family members employed and paid from parliamentary expenses",
+   "sortOrder": 1,
+   "interests": [
+    {
+     "id": 2686,
+     "interest": "Name: Sally Clark\r\nRelationship: Spouse\r\nRole: Office Manager\r\nWorking pattern: Part time\r\nAdditional information: My spouse, Sally Clark, is also employed as part time Senior Parliamentary Assistant.\r\n(Updated 16 April 2019)",
+     "createdWhen": "2024-04-18T15:20:39.1333333",
+     "lastAmendedWhen": null,
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": []
+    }
+   ]
+  }
+ ],
+ "focus": [
+  {
+   "category": "Countries of interest",
+   "focus": [
+    "Democratic Republic of the Congo, Sudan, USA"
+   ]
+  },
+  {
+   "category": "Political Interests",
+   "focus": [
+    "International development, home affairs, education, employment, trade unions, environment, urban policy, local government"
+   ]
+  }
+ ],
+ "synopsis": "The Rt Hon Hilary Benn is the Labour MP for <a href='/constituency/4138/overview'>Leeds South</a>, and has been an MP continually since 10 June 1999.",
+ "history": [
+  {
+   "id": 1963418,
+   "uin": "46253",
+   "heading": "Employment Tribunals Service",
+   "questionText": "To ask the Secretary of State for Justice, what is the average waiting time for employment tribunal hearings in a) Leeds and b) England; and how does this compare with each of the last 5 years.",
+   "dateTabled": "2026-11-24T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1964403,
+   "uin": "46446",
+   "heading": "Electric Bicycles",
+   "questionText": "To ask the Secretary of State for Transport, for what reason e-bike conversion kits which enable riders to breach legal limits can still be bought online.",
+   "dateTabled": "2026-11-25T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1959838,
+   "uin": "43103",
+   "heading": "Endometriosis: Leeds",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what funding her Department provides to support the Leeds Endometriosis Service.",
+   "dateTabled": "2026-11-13T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1960247,
+   "uin": "43377",
+   "heading": "Leasehold: Fees and Charges",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, whether (a) freeholders and (b) managing agents are permitted to charge individual leaseholders for the cost of examining whether there is a building safety problem in their part",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1956866,
+   "uin": "40979",
+   "heading": "Foetal Alcohol Spectrum Disorder",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what plans she has to tackle Foetal Alcoholic Spectrum Disorder through a) funding, b) research and c) raising awareness amongst health practitioners and the public.",
+   "dateTabled": "2026-11-04T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1955456,
+   "uin": "39885",
+   "heading": "Nitrous Oxide: Sales",
+   "questionText": "To ask the Secretary of State for the Home Department, whether there are restrictions on the sale of nitrous oxide canisters to a) children under 16 and b) adults.",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1955457,
+   "uin": "39886",
+   "heading": "Electric Bicycles",
+   "questionText": "To ask the Secretary of State for Transport, whether she has made an estimate of the proportion of e-bikes that do not comply with the law.",
+   "dateTabled": "2026-11-02T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1954797,
+   "uin": "39315",
+   "heading": "Flats: Fire Prevention",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what obligations there are on those responsible for fire safety in blocks below 11 metres to a) identify and b) remedy unsafe cladding and other fire safety defects.",
+   "dateTabled": "2026-10-29T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1949947,
+   "uin": "35536",
+   "heading": "Leeds Station: Repairs and Maintenance",
+   "questionText": "To ask the Secretary of State for Transport, for what reason Blue, 3 Little Neville Street, Leeds LS1 4ED has been safeguarded in connection with potential future development of Leeds Station in the context of the rejection of the blight notice by her Dep",
+   "dateTabled": "2026-10-16T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1949946,
+   "uin": "35535",
+   "heading": "Leeds Station: Repairs and Maintenance",
+   "questionText": "To ask the Secretary of State for Transport, when she next plans to review the safeguarding of Blue, 3 Little Neville Street, Leeds LS1 4ED in connection with the potential future development of Leeds station.",
+   "dateTabled": "2026-10-16T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1964159,
+   "uin": "46733",
+   "heading": "Saudi Arabia: Capital Punishment",
+   "questionText": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, if he will (a) publicly condemn the execution by Saudi Arabia of Jawad Qureiris and (b) make representations on behalf of Youssef el-Manasif who has been sentenced to death.",
+   "dateTabled": "2026-11-25T00:00:00",
+   "answeringBodyName": "Foreign, Commonwealth and Development Office"
+  },
+  {
+   "id": 1964153,
+   "uin": "46727",
+   "heading": "Chemicals: EU Law",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what comparative estimate she has made of the cost to UK businesses of the (a) UK and (b) EU REACH scheme.",
+   "dateTabled": "2026-11-25T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1963337,
+   "uin": "46360",
+   "heading": "Endometriosis",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what funding is provided by (a) her Department and (b) NHS England to the Leeds Endometriosis Service.",
+   "dateTabled": "2026-11-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1963334,
+   "uin": "46357",
+   "heading": "Endometriosis",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what estimate she has made of the average waiting time for (a) appointments and (b) surgery for people with endometriosis in (i) Leeds and (ii) England.",
+   "dateTabled": "2026-11-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1963421,
+   "uin": "46256",
+   "heading": "Driving Licences",
+   "questionText": "To ask the Secretary of State for Transport, whether she has plans to introduce a graduated driver licensing scheme.",
+   "dateTabled": "2026-11-24T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  }
+ ],
+ "historyComplete": true
+}

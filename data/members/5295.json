@@ -1,0 +1,786 @@
+{
+ "id": 5295,
+ "fetchedOn": "2026-11-28",
+ "core": {
+  "id": 5295,
+  "nameListAs": "Fenton-Glynn, Josh",
+  "nameDisplayAs": "Josh Fenton-Glynn",
+  "nameFullTitle": "Josh Fenton-Glynn MP",
+  "nameAddressAs": null,
+  "latestParty": {
+   "id": 15,
+   "name": "Labour",
+   "abbreviation": "Lab",
+   "backgroundColour": "d50000",
+   "foregroundColour": "ffffff",
+   "isLordsMainParty": true,
+   "isLordsSpiritualParty": true,
+   "governmentType": 0,
+   "isIndependentParty": false
+  },
+  "gender": "M",
+  "latestHouseMembership": {
+   "membershipFrom": "Calder Valley",
+   "membershipFromId": 3962,
+   "house": 1,
+   "membershipStartDate": "2024-07-04T00:00:00",
+   "membershipEndDate": null,
+   "membershipEndReason": null,
+   "membershipEndReasonNotes": null,
+   "membershipEndReasonId": null,
+   "membershipStatus": {
+    "statusIsActive": true,
+    "statusDescription": "Current Member",
+    "statusNotes": null,
+    "statusId": 0,
+    "status": 0,
+    "statusStartDate": "2024-07-04T00:00:00"
+   }
+  },
+  "thumbnailUrl": "https://members-api.parliament.uk/api/Members/5295/Thumbnail"
+ },
+ "bio": {
+  "representations": [
+   {
+    "constituencyStart": "2024-05-31T00:00:00",
+    "constituencyEnd": null,
+    "house": 1,
+    "name": "Calder Valley",
+    "id": 3962,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Elected 1 time",
+    "additionalInfoLink": null
+   }
+  ],
+  "electionsContested": [],
+  "houseMemberships": [
+   {
+    "house": 1,
+    "name": "Commons",
+    "id": 1,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": "Josh Fenton-Glynn",
+    "additionalInfoLink": null
+   }
+  ],
+  "governmentPosts": [],
+  "oppositionPosts": [],
+  "otherPosts": [],
+  "partyAffiliations": [
+   {
+    "house": 1,
+    "name": "Labour",
+    "id": 15,
+    "startDate": "2024-07-04T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ],
+  "committeeMemberships": [
+   {
+    "house": 1,
+    "name": "Health and Social Care Committee",
+    "id": 81,
+    "startDate": "2024-10-21T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Licensing Hours Extensions Bill",
+    "id": 797,
+    "startDate": "2025-06-04T00:00:00",
+    "endDate": "2025-06-04T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Rare Cancers Bill",
+    "id": 808,
+    "startDate": "2025-06-26T00:00:00",
+    "endDate": "2025-07-02T00:00:00",
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   },
+   {
+    "house": 1,
+    "name": "Financial Services and Markets Bill [Lords]",
+    "id": 858,
+    "startDate": "2026-11-19T00:00:00",
+    "endDate": null,
+    "additionalInfo": null,
+    "additionalInfoLink": null
+   }
+  ]
+ },
+ "interests": [
+  {
+   "id": 12,
+   "name": "1. Employment and earnings",
+   "sortOrder": 0,
+   "interests": [
+    {
+     "id": 6484,
+     "interest": "Role, work or services: Councillor\r\nPayer: Calderdale Council, Halifax Town Hall HX1\r\n(Registered 26 July 2024)",
+     "createdWhen": "2025-02-07T15:01:12.7054713",
+     "lastAmendedWhen": "2024-08-16T15:03:22.7066667",
+     "deletedWhen": null,
+     "isCorrection": false,
+     "childInterests": [
+      {
+       "id": 6487,
+       "interest": "Remuneration: £2,197.40 a month \r\nHours: 14 hrs a week estimated working hours\r\n(Registered 26 July 2024)",
+       "createdWhen": "2025-08-01T10:10:47.5782829",
+       "lastAmendedWhen": "2024-08-16T14:57:08.53",
+       "deletedWhen": null,
+       "isCorrection": false,
+       "childInterests": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "focus": [],
+ "synopsis": "Josh Fenton-Glynn is the Labour MP for <a href='/constituency/3962/overview'>Calder Valley</a>, and has been an MP continually since 4 July 2024.",
+ "history": [
+  {
+   "id": 1960613,
+   "uin": "43743",
+   "heading": "Government Departments: Information Sharing",
+   "questionText": "To ask the Secretary of State for Digital, Culture, Media and Sport, what recent progress she has made with Cabinet colleagues on improving data sharing across Departments.",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department for Digital, Culture, Media and Sport"
+  },
+  {
+   "id": 1960614,
+   "uin": "43744",
+   "heading": "Water: Safety",
+   "questionText": "To ask the Chancellor of the Exchequer, how much money has been spent on water safety and drowning prevention in each of the last five years.",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Treasury"
+  },
+  {
+   "id": 1960648,
+   "uin": "43778",
+   "heading": "Drownings",
+   "questionText": "To ask the Secretary of State for Justice, how many drownings in England coroners have assessed as preventable in each of the last three years.",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1960611,
+   "uin": "43741",
+   "heading": "Energy: Prices",
+   "questionText": "To ask the Secretary of State for Energy Security and Net Zero, what recent progress her Department has made on data matching to identify low-income households for targeted energy bill support, including the targeted mitigation for the abolition of gas st",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department for Energy Security and Net Zero"
+  },
+  {
+   "id": 1960608,
+   "uin": "43738",
+   "heading": "Health Services: Domestic Abuse",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what support will her Department offer to GP surgeries to tackle domestic abuse and sexual violence who were not included in the Steps to Safety pilot.",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1960604,
+   "uin": "43734",
+   "heading": "Health Services: Domestic Abuse",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how the government measure improvements in identifying early signs of domestic abuse and sexual violence victims with regards to the Steps to Safety pilot.",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1960609,
+   "uin": "43739",
+   "heading": "Drownings",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether drowning is considered to be a public health issue.",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1960652,
+   "uin": "43782",
+   "heading": "Water: Safety",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what specific outcomes and targets her Department is working towards relating to water safety and drowning prevention.",
+   "dateTabled": "2026-11-16T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1944908,
+   "uin": "31109",
+   "heading": "Domestic Abuse: Prosecutions",
+   "questionText": "To ask the Attorney General, what assessment she has made of the adequacy of the amount of time taken by the Crown Prosecution Service to reach charging decisions in domestic abuse cases.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Attorney General's Office"
+  },
+  {
+   "id": 1944909,
+   "uin": "31110",
+   "heading": "Domestic Abuse: Prosecutions",
+   "questionText": "To ask the Secretary of State for Justice, what assessment he has made of the potential impact of the time taken for domestic abuse cases to reach a court hearing on the number of victims withdrawing support for a prosecution before trial.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Ministry of Justice"
+  },
+  {
+   "id": 1944508,
+   "uin": "30700",
+   "heading": "Domestic Abuse",
+   "questionText": "To ask the Secretary of State for the Home Department, what steps she is taking to increase access to domestic abuse perpetrator programmes to reduce repeat offending.",
+   "dateTabled": "2026-10-09T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1935444,
+   "uin": "24886",
+   "heading": "NHS: Palantir",
+   "questionText": "To ask the Secretary of State for Health and Social Care, when she plans to announce her decision on whether to apply the break clause for the Federated Data Platform contract with Palantir.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1939911,
+   "uin": "28616",
+   "heading": "Drownings",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps she is taking to ensure a joined-up response to preventing avoidable deaths due to drowning.",
+   "dateTabled": "2026-09-09T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1935440,
+   "uin": "24882",
+   "heading": "Anti-social Behaviour: Rural Areas",
+   "questionText": "To ask the Secretary of State for the Home Department, what steps she is taking to tackle antisocial behaviour in rural towns and villages.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1935441,
+   "uin": "24883",
+   "heading": "Police: Rural Areas",
+   "questionText": "To ask the Secretary of State for the Home Department, what steps she is taking to expand provision of police in semi-rural and rural areas.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Home Office"
+  },
+  {
+   "id": 1935437,
+   "uin": "24879",
+   "heading": "Fire Prevention: Moorland",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps she is taking to protect moorland from wildfires.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1935439,
+   "uin": "24881",
+   "heading": "Retail Trade",
+   "questionText": "To ask the Secretary of State for Business, Innovation, Science and Trade, what steps he is taking to support more businesses to expand into the high street.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department for Business, Innovation, Science and Trade "
+  },
+  {
+   "id": 1928337,
+   "uin": "19253",
+   "heading": "Drownings: Disadvantaged",
+   "questionText": "To ask the Secretary of State for Education, what steps is she taking with Cabinet colleagues to tackle drowning among children from lower socioeconomic areas.",
+   "dateTabled": "2026-07-15T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1928335,
+   "uin": "19252",
+   "heading": "Drownings: Ethnic Groups",
+   "questionText": "To ask the Secretary of State for Education, what steps she is taking to help tackle the rate of drowning for black children, in the context of an increase of 35% since 2020, given black children are three times more likely to drown than white children.",
+   "dateTabled": "2026-07-15T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1928339,
+   "uin": "19254",
+   "heading": "Fire and Rescue Services: Finance",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what discussions he has had with the Fire and Rescue Services on statutory funding for inland water rescues.",
+   "dateTabled": "2026-07-15T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1928325,
+   "uin": "19249",
+   "heading": "Yorkshire Water: Medical Devices and Road Signs and Markings",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment she has made of the potential implications for her policies of Yorkshire Water’s policy of not providing information signage or lifesaving equipment near open water.",
+   "dateTabled": "2026-07-15T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1928323,
+   "uin": "19248",
+   "heading": "Drownings",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps the Government is taking to undertake a coordinated response to prevent avoidable deaths due to drowning.",
+   "dateTabled": "2026-07-15T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1935443,
+   "uin": "24885",
+   "heading": "Care Workers: Conditions of Employment",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps she is taking to help improve terms and conditions for social care workers.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1935442,
+   "uin": "24884",
+   "heading": "Social Services: Employment",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps she is taking to ensure that social care is an attractive career for young people.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1928322,
+   "uin": "19247",
+   "heading": "Drownings",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, if she will have discussions with the Prime Minister on appointing a minister responsible for drowning prevention.",
+   "dateTabled": "2026-07-15T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1928332,
+   "uin": "19251",
+   "heading": "Children: Swimming",
+   "questionText": "To ask the Secretary of State for Education, what steps her Department is taking to ensure that all children have access to swimming lessons and achieve competency, including lifesaving techniques such as float to live.",
+   "dateTabled": "2026-07-15T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1928330,
+   "uin": "19250",
+   "heading": "Children: Swimming",
+   "questionText": "To ask the Secretary of State for Education, what steps is her Department taking to ensure that children understand the potential danger of open water swimming.",
+   "dateTabled": "2026-07-15T00:00:00",
+   "answeringBodyName": "Department for Education"
+  },
+  {
+   "id": 1935436,
+   "uin": "24878",
+   "heading": "Fires: Moorland",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, how many wildfires took place in moorland in the last five years.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1935435,
+   "uin": "24877",
+   "heading": "Fires: Barbecues",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, how many fires were caused by disposable barbecues in the last five years.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1935434,
+   "uin": "24876",
+   "heading": "Fires: West Yorkshire",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, how many wildfires took place in each local authority in West Yorkshire in each of the last five years.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1928321,
+   "uin": "19246",
+   "heading": "Drownings",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the potential implications for his policies of the World Health Organisation's conclusion that accidental drowning is a preventable public health issue.",
+   "dateTabled": "2026-07-15T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1935438,
+   "uin": "24880",
+   "heading": "Peatlands: Fires",
+   "questionText": "To ask the Secretary of State for Environment, Food and Rural Affairs, what steps she is taking to restore moorland damaged by wildfire.",
+   "dateTabled": "2026-08-28T00:00:00",
+   "answeringBodyName": "Department for Environment, Food and Rural Affairs"
+  },
+  {
+   "id": 1927495,
+   "uin": "901012",
+   "heading": "Health Professions: Conduct",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what discussions he has had with healthcare regulators on the application of adequate sanctions in cases of serious misconduct.",
+   "dateTabled": "2026-07-08T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1922018,
+   "uin": "14228",
+   "heading": "Calder Valley Line: Rolling Stock",
+   "questionText": "To ask the Secretary of State for Transport, how the rate of short formed services on the Calder Valley line compares with the network average.",
+   "dateTabled": "2026-06-29T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1922017,
+   "uin": "14227",
+   "heading": "Calder Valley Line: Rolling Stock",
+   "questionText": "To ask the Secretary of State for Transport, what proportion of services on the Calder Valley line operated with fewer carriages than planned in (a) peak and (b) off peak hours over the last 12 months.",
+   "dateTabled": "2026-06-29T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1922014,
+   "uin": "14224",
+   "heading": "Calder Valley Line: Rolling Stock",
+   "questionText": "To ask the Secretary of State for Transport, what proportion of services on the Calder Valley line have been short formed in each of the last 24 months.",
+   "dateTabled": "2026-06-29T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1922020,
+   "uin": "14230",
+   "heading": "Calder Valley Line: Rolling Stock",
+   "questionText": "To ask the Secretary of State for Transport, whether the Department collects data on passengers unable to board resulting from short-formed services on the Calder Valley line.",
+   "dateTabled": "2026-06-29T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1922022,
+   "uin": "14232",
+   "heading": "Calder Valley Line: Rolling Stock",
+   "questionText": "To ask the Secretary of State for Transport, what discussions has her Department held with Northern Trains Limited on the proportion of its services on the Calder Valley Line which have been short-formed.",
+   "dateTabled": "2026-06-29T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1922019,
+   "uin": "14229",
+   "heading": "Calder Valley Line: Rolling Stock",
+   "questionText": "To ask the Secretary of State for Transport, what assessment has been made of the potential impact of short-formed trains on passenger overcrowding on the Calder Valley line.",
+   "dateTabled": "2026-06-29T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1922023,
+   "uin": "14233",
+   "heading": "Calder Valley Line: Rolling Stock",
+   "questionText": "To ask the Secretary of State for Transport, what interim measures are being considered to reduce short-forming on heavily used commuter routes such as the Calder Valley line.",
+   "dateTabled": "2026-06-29T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1922021,
+   "uin": "14231",
+   "heading": "Calder Valley Line: Rolling Stock",
+   "questionText": "To ask the Secretary of State for Transport, how short-formed services are accounted for in performance metrics compared with cancellations and delays.",
+   "dateTabled": "2026-06-29T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1897988,
+   "uin": "125934",
+   "heading": "NHS: Negligence",
+   "questionText": "To ask the Secretary of State for Health and Social Care, which stakeholders the Lock Review has engaged with; and whether this includes NHS Resolution, NHS trusts, professional bodies and patient safety organisations.",
+   "dateTabled": "2026-04-10T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1889018,
+   "uin": "119106",
+   "heading": "Internet: Safety",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what assessment she has made of Ofcom’s ability to deploy service restriction orders or business disruption measures in cases where companies fail to pay financial penalties issued unde",
+   "dateTabled": "2026-03-09T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1889017,
+   "uin": "119105",
+   "heading": "Internet: Safety",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what steps her Department is taking to help ensure that online platforms based overseas comply with Ofcom penalties issued under the Online Safety Act 2023.",
+   "dateTabled": "2026-03-09T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1889016,
+   "uin": "119104",
+   "heading": "Internet: Safety",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what assessment she has made of the effectiveness of Ofcom’s enforcement powers relating to fines issues to adult websites.",
+   "dateTabled": "2026-03-09T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1885566,
+   "uin": "116414",
+   "heading": "Mental Health Services: Children and Young People",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment the Department has made of the effectiveness of Mental Health Support Teams in schools in respect to reducing pressure on CAHMS.",
+   "dateTabled": "2026-02-26T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1885561,
+   "uin": "116410",
+   "heading": "Mental Health Services: Children and Young People",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment has the Government made on the effectiveness of CAHMS online therapies as opposed to in person support.",
+   "dateTabled": "2026-02-26T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1889064,
+   "uin": "119111",
+   "heading": "General Practitioners: Finance",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether GP practices, patient groups, and organisations representing areas of high deprivation will be invited to contribute evidence to the Carr Hill formula review.",
+   "dateTabled": "2026-03-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1889062,
+   "uin": "119110",
+   "heading": "General Practitioners: Finance",
+   "questionText": "To ask the Secretary of State for Health and Social Care, which external stakeholders he plans to consult as part of the review of the Carr-Hill formula.",
+   "dateTabled": "2026-03-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1889053,
+   "uin": "119109",
+   "heading": "General Practitioners: Finance",
+   "questionText": "To ask the Secretary of State for Health and Social Care, when he expects the findings of the Carr Hill formula review to be published.",
+   "dateTabled": "2026-03-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1889045,
+   "uin": "119108",
+   "heading": "General Practitioners: Finance",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether he plans to publish the full methodology for the Carr Hill formula review.",
+   "dateTabled": "2026-03-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1889028,
+   "uin": "119107",
+   "heading": "GP Practice Lists: Calder Valley",
+   "questionText": "To ask the Secretary of State for Health and Social Care, how many patients were registered at each (a) main practice and (b) branch surgery in Calder Valley constituency in (i) July 2025 and (ii) March 2026.",
+   "dateTabled": "2026-03-09T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1884470,
+   "uin": "115718",
+   "heading": "Pornography: Internet",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what assessment has his Department made of the potential merits of moderating online porn companies which promote harmful content.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1885559,
+   "uin": "116408",
+   "heading": "Mental Health Services: Children and Young People",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment the Department has made of the level of experience in the CAMHS workforce and the potential impact of staff turnover on service quality.",
+   "dateTabled": "2026-02-26T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1885560,
+   "uin": "116409",
+   "heading": "Mental Health Services: Children and Young People",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what proportion of CAMHS clinicians have received training in PTSD therapies, and what steps the Department is taking to improve training coverage.",
+   "dateTabled": "2026-02-26T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1885562,
+   "uin": "116411",
+   "heading": "Mental Health: Children",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what recent discussions the Department has had with social media companies regarding the potential impact of their platforms on child mental health.",
+   "dateTabled": "2026-02-26T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1884431,
+   "uin": "115699",
+   "heading": "NHS: Negligence",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment his Department has made of the potential impact of staffing levels and burnout on incidents of avoidable harm in NHS Trusts.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1885558,
+   "uin": "116407",
+   "heading": "Leasehold",
+   "questionText": "To ask the Secretary of State for Housing, Communities and Local Government, what steps is he taking to support homeowners who can’t get in contact with their leaseholder.",
+   "dateTabled": "2026-02-26T00:00:00",
+   "answeringBodyName": "Ministry of Housing, Communities and Local Government"
+  },
+  {
+   "id": 1885564,
+   "uin": "116413",
+   "heading": "Mental Health Services: Children and Young People",
+   "questionText": "To ask the Secretary of State for Health and Social Care, if his Department will publish data on CAMHS outcomes, broken down by therapy type and delivery method.",
+   "dateTabled": "2026-02-26T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1884474,
+   "uin": "115721",
+   "heading": "Mental Health: Children",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment the Department has made of the potential causes of recent trends in levels of crisis-level mental health referrals among children.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1884469,
+   "uin": "115717",
+   "heading": "Pornography: Internet",
+   "questionText": "To ask the Secretary of State for Science, Innovation and Technology, what steps is the Government taking to protect adults from harmful pornographic content online.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Department for Science, Innovation and Technology"
+  },
+  {
+   "id": 1884464,
+   "uin": "115712",
+   "heading": "NHS: Sexual Offences",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment his Department has made of barriers to reporting sexual misconduct by doctors, including for patients and NHS staff.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1884472,
+   "uin": "115719",
+   "heading": "Mental Health: Children",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment his Department has made of the potential impact of a) the COVID-19 Pandemic and b) social media on the mental wellbeing of children; and what steps his Department is taking to help ",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1884465,
+   "uin": "115713",
+   "heading": "NHS: Sexual Offences",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps he is taking to improve whistleblowing protections for NHS staff who (a) experience and (b) witness sexual misconduct by colleagues.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1884463,
+   "uin": "115711",
+   "heading": "NHS: Sexual Offences",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether his Department plans to require the (a) General Medical Council and (b) Medical Practitioners Tribunal Service to publish annual data on sexual misconduct allegations and outcomes.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1884462,
+   "uin": "115710",
+   "heading": "NHS: Sexual Offences",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether he has held discussions with the (a) General Medical Council and (b) Medical Practitioners Tribunal Service on the erasure and suspension rates in cases involving allegations of sexual assa",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1884473,
+   "uin": "115720",
+   "heading": "Mental Health: Children",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment his Department has made of the long-term outcomes of children who receive CAMHS mental health support; and how many of these recipients subsequently use adult mental health services",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1884458,
+   "uin": "115709",
+   "heading": "NHS: Sexual Offences",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether his Department plans to conduct a review of the threshold for erasure in cases where doctors are accused of rape or sexual assault.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1884441,
+   "uin": "115702",
+   "heading": "NHS: Negligence",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what steps his Department is taking to help (a) improve patient safety in the NHS and (b) reduce clinical negligence claims.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1884450,
+   "uin": "115705",
+   "heading": "NHS: Negligence",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether his Department is taking steps to establish a national framework for collecting and sharing data on the causes of clinical negligence.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1884446,
+   "uin": "115703",
+   "heading": "NHS: Negligence",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment the Department has made of the potential impact of the high ratio of legal costs to damages in low value clinical negligence claims, as highlighted by the NAO, and what steps it is ",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1884457,
+   "uin": "115708",
+   "heading": "NHS: Misconduct",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what assessment he has made of the adequacy of the system led by the General Medical Council and the Medical Practitioners Tribunal Service.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1884424,
+   "uin": "115695",
+   "heading": "NHS: Negligence",
+   "questionText": "To ask the Secretary of State for Health and Social Care, whether (a) his Department and (b) NHS Resolution collect data distinguishing between clinical negligence claims caused by (i) individual mistakes and (ii) systemic failures.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1884438,
+   "uin": "115701",
+   "heading": "General Practitioners: Negligence",
+   "questionText": "To ask the Secretary of State for Health and Social Care, what information his Department holds on the reason for the 45% increase in GP negligence claims between financial years 2023/24 and 2024/25; and whether his Department is taking steps to help redu",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Department of Health and Social Care"
+  },
+  {
+   "id": 1884468,
+   "uin": "115716",
+   "heading": "Calder Valley Line: Safety",
+   "questionText": "To ask the Secretary of State for Transport, what recent assessment she has made of the adequacy of levels of capacity and reliability on the Calder Valley line; and what plans she has to address performance issues.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1884467,
+   "uin": "115715",
+   "heading": "Calder Valley Line: Repairs and Maintenance",
+   "questionText": "To ask the Secretary of State for Transport, what assessment she has made of the potential impact of upgrading the Calder Valley line on economic growth.",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1884466,
+   "uin": "115714",
+   "heading": "Calder Valley Line: Repairs and Maintenance",
+   "questionText": "To ask the Secretary of State for Transport, when she plans to publish the initial assessment of options and timings for Bradford-Manchester rail improvements as part of Northern Powerhouse Rail, and whether this assessment will include specific proposals",
+   "dateTabled": "2026-02-24T00:00:00",
+   "answeringBodyName": "Department for Transport"
+  },
+  {
+   "id": 1881543,
+   "uin": "113275",
+   "heading": "Public Houses: Codes of Practice",
+   "questionText": "To ask the Secretary of State for Business and Trade, when he plans to publish the findings of the statutory review of the Pubs Code.",
+   "dateTabled": "2026-02-12T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  },
+  {
+   "id": 1876474,
+   "uin": "907577",
+   "heading": "Public Houses: Government Assistance",
+   "questionText": "To ask the Secretary of State for Business and Trade, what recent assessment has he made of the adequacy of Government support for tied pubs.",
+   "dateTabled": "2026-01-22T00:00:00",
+   "answeringBodyName": "Department for Business and Trade"
+  }
+ ],
+ "historyComplete": true
+}

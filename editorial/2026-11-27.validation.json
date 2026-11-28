@@ -1,0 +1,388 @@
+{
+ "verdict": "pass_with_fixes",
+ "checked": 987,
+ "fixes": [
+  {
+   "where": "title",
+   "was": "[redacted supplier-specific title]",
+   "now": "Government technology supplier dependency under scrutiny",
+   "reason": "Names the dominant theme supported by the briefing's items without an unsupported claim of increasing scrutiny or references excluded from public publication."
+  },
+  {
+   "where": "headline",
+   "was": "[redacted supplier-specific framing]; written answers were dominated by questions about government dependence on single technology suppliers",
+   "now": "Written answers cover government technology supplier dependency, exit planning and open standards, alongside departmental AI model assurance.",
+   "reason": "The selected items support this theme, but the evidence does not establish that it dominated all written answers."
+  },
+  {
+   "where": "summary",
+   "was": "Anthropic's and OpenAI's compute credits for the AI Biosecurity Lab; made up the rest of the day's relevant business",
+   "now": "OpenAI's compute and model credits and Anthropic's model credits for the AI Biosecurity Lab; Other items cover data-centre energy and regulation, cyber security, digital literacy and committee publications.",
+   "reason": "Anthropic's contribution is described as model credits, not compute credits. The original summary also implied an exhaustive account that omitted several of its own items."
+  },
+  {
+   "where": "very_important[0].title, body, why and tags",
+   "was": "[redacted supplier-specific wording]",
+   "now": "Departments outline AI model controls; China assurance questions tabled",
+   "reason": "Retained the evidenced departmental controls and questions while removing references excluded from public publication. Approved technology providers should not be described as necessarily developing the models."
+  },
+  {
+   "where": "very_important[0].body",
+   "was": "the work to assure the security of AI models from China, which the AI Minister mentioned in the House on 26 November",
+   "now": "His questions refer to security-assurance work on AI models from China mentioned by the Minister for Artificial Intelligence in the House on 26 November.",
+   "reason": "The reference to the earlier ministerial remarks is supplied in the questions, not in a transcript of those remarks."
+  },
+  {
+   "where": "very_important[0].why",
+   "was": "Model provenance and sovereignty are becoming explicit tests in departmental assurance. If the China-model assurance results are shared with business, they could feed into procurement criteria that favour trusted, assured platforms.",
+   "now": "The answers describe departmental AI checks and the MoD's security and sovereignty considerations. The newly tabled questions seek details of China-model assurance work; no answers are supplied.",
+   "reason": "Removed unsupported claims about a policy trend, future procurement criteria and predicted follow-up questions."
+  },
+  {
+   "where": "very_important[1].body",
+   "was": "Mr Wrigley tabled a series of questions on the Palantir-run Federated Data Platform (FDP), whose contract expires in March 2029.",
+   "now": "Mr Wrigley's 11 questions, tabled on 18 November and answered on 27 November, concern Palantir's Federated Data Platform (FDP). His questions refer to the contract's expiry in March 2029.",
+   "reason": "Distinguished tabling from answering, used the evidenced supplier relationship, and attributed the expiry date to the questions."
+  },
+  {
+   "where": "very_important[1].body",
+   "was": "an assurance that no further NHS bodies will be required to adopt it",
+   "now": "steps to ensure that no additional NHS organisation is required to adopt it during the period to March 2029",
+   "reason": "Restored the question's time limit rather than implying an indefinite restriction."
+  },
+  {
+   "where": "very_important[1].why",
+   "was": "The FDP successor procurement is shaping up as a major public-sector data and AI platform competition, and the criteria being pressed for ... will set expectations for any bidder, including hyperscale cloud providers.",
+   "now": "The questions seek open standards, interoperability, independent assurance and supplier neutrality. The answers do not confirm these as procurement requirements and defer further details.",
+   "reason": "Requests from an MP are not confirmed procurement criteria; the evidence does not establish bidders or the competition's scale."
+  },
+  {
+   "where": "very_important[2].body",
+   "was": "A short, final Fujitsu extension is in place while Accenture takes over Horizon support.",
+   "now": "The answer says Post Office recently announced a short, final Fujitsu contract extension to maintain continuity while Accenture takes over Horizon support.",
+   "reason": "The evidence establishes an announcement, not the extension's commencement."
+  },
+  {
+   "where": "very_important[2].why",
+   "was": "It could easily be turned on cloud and software providers. Ministers' reliance on 'commercially sensitive' answers may increase pressure for more transparency",
+   "now": "The answers describe supplier-risk management and the Post Office's transition arrangements. HMRC does not disclose detailed contract exit and contingency arrangements.",
+   "reason": "Removed predictions about future questioning and political pressure."
+  },
+  {
+   "where": "very_important[3].body",
+   "was": "open-source software must get equal consideration with proprietary options, and that 'code built with public money should be open and reusable by default'",
+   "now": "the Government is committed to giving open-source software equal consideration alongside proprietary options. It states: 'Code built with public money should be open and reusable by default.'",
+   "reason": "Preserved the answer's distinction between a policy commitment and requirements to demonstrate consideration, and reproduced the quotation accurately."
+  },
+  {
+   "where": "very_important[3].why",
+   "was": "[redacted supplier-specific prediction]; Expectations on open source and portability may also tighten in spend controls.",
+   "now": "The answer identifies supplier dependency, portability and interoperability as risks managed jointly through technical and commercial work. It cites the National Cloud Infrastructure Programme's aims of competition, resilience and choice.",
+   "reason": "The evidence does not establish a principal procurement lever, effects on named suppliers or future tightening of controls."
+  },
+  {
+   "where": "very_important[4].title, body, why and tags",
+   "was": "[redacted product-specific wording]",
+   "now": "FCDO lists African supply-chain contact routes",
+   "reason": "Retained the same supply-chain item and its programme facts without references excluded from public publication or product-ownership claims."
+  },
+  {
+   "where": "debates[0].body",
+   "was": "Members also referred to hybrid threats, including cyber attacks and online disinformation.",
+   "now": "Members also discussed hybrid threats, including cyber attacks.",
+   "reason": "Cyber attacks are explicitly mentioned in the supplied extracts; online disinformation is not."
+  },
+  {
+   "where": "debates[0].why",
+   "was": "This is of limited direct relevance. The bill would change the legal risk around user speech on online platforms, including [redacted product reference]",
+   "now": "The debate connects protection against abusive litigation with speech on social media. Members from different parties expressed support for the bill.",
+   "reason": "Removed audience-specific relevance language and an unsupported application to a particular platform."
+  },
+  {
+   "where": "questions[0].body",
+   "was": "The AI Minister (Kanishka Narayan) said OpenAI has committed £100 million and Anthropic up to £100 million in compute and model credits",
+   "now": "Kanishka Narayan said OpenAI has committed £100 million in compute and model credits and Anthropic up to £100 million in model credits",
+   "reason": "Corrected the type of Anthropic credits. The supplied evidence names the answering minister but does not explicitly establish his personal ministerial title."
+  },
+  {
+   "where": "questions[0].body",
+   "was": "He said the Prime Minister's AI Taskforce has no role in departments' choice of AI supplier",
+   "now": "Asked about the Prime Minister's AI Taskforce's role in supplier choice, he said individual contracting authorities are responsible for their procurement decisions within procurement legislation.",
+   "reason": "Responsibility for individual decisions does not establish that the Taskforce has no role."
+  },
+  {
+   "where": "questions[0].body",
+   "was": "The Taskforce will not publish regular milestones. He would not say whether a new AI strategy is planned.",
+   "now": "The Taskforce does not intend to publish regular milestones; progress and key milestones will be communicated when appropriate. The answer on a possible new AI strategy did not confirm whether one is planned.",
+   "reason": "Restored the qualification and provision for updates, and replaced the implication of deliberate refusal with a neutral description."
+  },
+  {
+   "where": "questions[0].why",
+   "was": "[redacted commercial framing]; AI buying remains devolved to individual departments rather than steered centrally",
+   "now": "The answers describe credits for the AI Biosecurity Lab and contracting authorities' procurement responsibilities. They do not rule out a wider role for the AI Taskforce.",
+   "reason": "Removed commercial positioning, the inaccurate shared description of the credits and an unsupported conclusion about central steering."
+  },
+  {
+   "where": "questions[1].body",
+   "was": "The Government will not publish how much has been spent, because the details are commercially sensitive.",
+   "now": "The answer does not give a total spent to date and says the Government does not publish commercially sensitive details of how individual companies structure their investments over time.",
+   "reason": "The answer's non-disclosure statement concerns individual companies' investment arrangements, not an explicit refusal to publish any aggregate spending figure."
+  },
+  {
+   "where": "questions[1].why",
+   "was": "Opposition scrutiny ... could put investors' delivery under the spotlight. The 6GW figure remains the benchmark for data-centre planning and grid debates.",
+   "now": "The answers distinguish forecast compute demand and committed investment from expenditure already incurred. No spending total is supplied.",
+   "reason": "Removed a predicted political effect and an unsupported claim that the forecast is the benchmark used in planning and grid debates."
+  },
+  {
+   "where": "questions[2].title and why",
+   "was": "data centres to come under NIS; data-centre operators face Ofcom oversight ... the Covenant's tests are being turned into expectations",
+   "now": "proposed NIS regulation; The Covenant encourages data centres to meet its tests. The bill would introduce Ofcom-regulated security and resilience requirements for relevant data centres.",
+   "reason": "Distinguished voluntary expectations and proposed legislation from duties already in force."
+  },
+  {
+   "where": "questions[3].why",
+   "was": "The commitment fee will affect the cost and timing of UK data-centre grid connections. The question on union membership shows the Science and Technology Committee is interested in working practices at Big Tech firms.",
+   "now": "The fee remains an Ofgem proposal awaiting a decision. Dame Chi's separate question seeks the Government's assessment of trade union membership in frontier AI and Big Tech companies.",
+   "reason": "The fee is not finalised, and an individual member's question is not evidence of a committee position."
+  },
+  {
+   "where": "questions[4].why and tags",
+   "was": "This aims to show local opposition to data centres and grid infrastructure within the governing party. An answer could put local resistance to data-centre growth on the record.",
+   "now": "The question seeks a count of Labour MPs who have raised constituency infrastructure concerns. No answer is supplied.",
+   "reason": "Removed an inferred partisan motive and the equation of unspecified concerns with opposition."
+  },
+  {
+   "where": "questions[5].why",
+   "was": "The new national cyber programmes and expanded public-sector AI cyber defence are likely to involve procurement where security vendors and cloud providers will compete.",
+   "now": "The answer records an indicative cyber-cost estimate and the Budget's cyber-defence funding priorities. It supplies no procurement details.",
+   "reason": "The evidence does not establish competitions, bidders or procurement opportunities."
+  },
+  {
+   "where": "questions[6].why",
+   "was": "The UK will set the international AI security agenda in 2027. Industry input on AI system security and critical-infrastructure resilience is likely to be sought.",
+   "now": "The answer commits to placing AI at the heart of the UK Presidency but does not confirm the three specific security priorities asked about.",
+   "reason": "Removed an overstated international role and an unsupported prediction of industry consultation."
+  },
+  {
+   "where": "questions[7].body",
+   "was": "The AI Minister said there is currently 'no clear evidence' of widespread job losses from AI",
+   "now": "Kanishka Narayan said there is currently 'no clear evidence' of widespread job displacement attributable to AI across the UK labour market",
+   "reason": "Restored the answer's scope and avoided attributing an unverified personal ministerial title."
+  },
+  {
+   "where": "questions[7].body and why",
+   "was": "its ... procurement framework will be available from September 2027. Schools must use it ... A mandatory national framework",
+   "now": "its ... procurement framework is expected to be available from September 2027. Schools are expected to award their next MIS contract through the framework when existing contracts expire.",
+   "reason": "The answer expresses expectations, not a guaranteed launch or an evidenced mandatory legal requirement; it also allows extensions to bridge the period before availability."
+  },
+  {
+   "where": "questions[8].why",
+   "was": "Rules on workplace monitoring could affect productivity, analytics and AI tools used by employers. The employment status consultation ... may be of interest to platform businesses.",
+   "now": "The answers describe consultations on workplace monitoring and employment status. The latter closes on 8 January 2027; no final outcomes of those consultations are supplied.",
+   "reason": "Removed speculative product effects and audience-oriented relevance."
+  },
+  {
+   "where": "questions[9].body and why",
+   "was": "guidance requires secondary pupils to learn ... Digital and AI literacy is entering the statutory curriculum, a natural area for skills partnerships.",
+   "now": "schools have been required to follow the revised statutory guidance since September; it says secondary pupils should learn ... Existing statutory guidance covers AI and deepfakes; wider digital and media literacy reforms are to be included in curriculum consultation.",
+   "reason": "Distinguished obligations on schools, the guidance's learning expectations and proposed wider curriculum reforms. Removed an unsupported partnership opportunity."
+  },
+  {
+   "where": "questions[10].why",
+   "was": "Shared data infrastructure and the National Data Library are likely future platform and procurement opportunities for public-sector data and AI.",
+   "now": "The answer describes common standards and infrastructure intended to improve public-sector data discovery and reuse. It gives no procurement details.",
+   "reason": "The evidence does not establish future platform competitions or procurement opportunities."
+  },
+  {
+   "where": "questions[11].why and tags",
+   "was": "Sovereign public compute remains a funded priority. It is relevant to the balance between publicly owned and commercial cloud compute.",
+   "now": "The answer records a national research-computing funding commitment alongside maintenance of existing research facilities.",
+   "reason": "The evidence does not establish ownership arrangements, a cloud-compute policy balance or a specifically sovereign-AI purpose."
+  },
+  {
+   "where": "questions[12].body and why",
+   "was": "the 2.5 million operational images used to test industry algorithms; likely knock-on effects for assurance requirements in public-sector AI contracts",
+   "now": "citing an earlier answer, she asked about the source and lawful processing basis of 2.5 million operational images used to test industry algorithms; The questions seek testing and data-processing details. No answers are supplied.",
+   "reason": "Attributed the image figure to the question's reference and removed predicted effects on contracts."
+  },
+  {
+   "where": "questions[13].body and why",
+   "was": "whether an independent regulator or ombudsman should handle complaints ... could cover app stores, marketplaces and professional networks",
+   "now": "whether the Government has considered establishing an independent regulator or ombudsman to investigate complaints and enforce compliance without court action",
+   "reason": "The question asks whether establishing a body has been considered. It does not establish the scope of a future body's jurisdiction."
+  },
+  {
+   "where": "questions[14].why",
+   "was": "This signals that ministers are open to safety-by-design duties on connected consumer devices, which could later extend to AI-enabled hardware.",
+   "now": "The wearable-technology answer describes safety and privacy expectations and consideration of existing safeguards. It does not announce new duties.",
+   "reason": "Removed an unsupported prediction of legal duties and their extension to AI hardware."
+  },
+  {
+   "where": "questions[15].body",
+   "was": "the Digital Markets, Competition and Consumers Act 2024 bans unfair commercial practices",
+   "now": "the Digital Markets, Competition and Consumers Act 2024 prohibits unfair commercial practices, including misleading actions and omissions likely to affect the average consumer's transactional decision",
+   "reason": "Restored the material qualification in the answer."
+  },
+  {
+   "where": "questions[15].why",
+   "was": "an area where online platforms face pressure on harmful and fraudulent ads",
+   "now": "The answer identifies existing consumer law and independent advertising regulation.",
+   "reason": "The supplied answer does not establish pressure on platforms or discuss fraudulent advertisements generally."
+  },
+  {
+   "where": "committees[0].why",
+   "was": "[redacted commercial framing]; Other frontier model developers and partners may face similar requests",
+   "now": "The publication is associated with the AI adoption, safety and governance inquiry. The supplied metadata does not include the letter's substantive contents.",
+   "reason": "Removed commercial and advocacy framing, predictions of further requests and conclusions not established by publication metadata."
+  },
+  {
+   "where": "committees[1].why and tags",
+   "was": "This may cover online selling practices and scams ... relevant to online fraud and to how platforms carry advertising.",
+   "now": "The supplied metadata identifies the report and inquiry but provides no findings or recommendations.",
+   "reason": "A report title alone does not support claims about scams, online fraud or platform advertising."
+  },
+  {
+   "where": "committees[2].why",
+   "was": "Procurement frameworks across the UK nations govern how public bodies buy technology, including cloud and AI.",
+   "now": "The supplied metadata establishes the correspondence's subject and participants, not the framework's substantive provisions.",
+   "reason": "The evidence supplies a letter title, not provisions establishing the asserted effects on technology procurement."
+  },
+  {
+   "where": "committees[3].why",
+   "was": "Government data-handling failures keep data security and information governance high on the agenda, the context for public-sector demand for secure platforms.",
+   "now": "The correspondence and written answer concern the Government's response to the breach report and guidance on sharing information covered by injunctions.",
+   "reason": "Removed unsupported claims about agenda prominence and demand for technology platforms."
+  },
+  {
+   "where": "other[0].why",
+   "was": "Questions on grid strain and cooling policy are the background to arguments about the energy use of data centres.",
+   "now": "These are energy-system and cooling-policy questions, not explicit questions about data centres.",
+   "reason": "The questions do not establish a data-centre purpose."
+  },
+  {
+   "where": "other[1].who",
+   "was": "Shadow Defence Minister",
+   "now": "Shadow Parliamentary Under Secretary (Defence)",
+   "reason": "Used the role stated in the member's profile."
+  },
+  {
+   "where": "other[1].why",
+   "was": "This is part of defence interest in mixed-reality and autonomy technology.",
+   "now": "The questions concern helmet development and operational requirements for crewed platforms.",
+   "reason": "A question about crewed-platform requirements does not itself establish a focus on autonomy."
+  },
+  {
+   "where": "other[2].why",
+   "was": "There is continuing pressure for transparency on outsourced government IT and service contracts, and on cyber threats from hostile states.",
+   "now": "The items concern disclosure of an outsourced public-service contract and the Government's account of hostile-state cyber activity.",
+   "reason": "The pension-contract question does not establish an IT-specific contract or an increasing or continuing pressure trend."
+  },
+  {
+   "where": "member_notes.4785",
+   "was": "he appears to be leading his party's scrutiny of AI policy, which now sits in the Cabinet Office",
+   "now": "He is Shadow Minister (Cabinet Office) and sits on the Cyber Security and Resilience (Network and Information Systems) Bill committee.",
+   "reason": "The profile supports the role and committee membership, not leadership of party scrutiny or the location of all AI policy."
+  },
+  {
+   "where": "member_notes.5111",
+   "was": "which appears to explain his focus on the NHS data platform and its supplier ... suggests a deliberate campaign",
+   "now": "His profile records data protection and privacy (48), other technology and AI companies (41), and 11 related questions in this period.",
+   "reason": "Retained the parliamentary record without inferring a campaign or a causal explanation for his focus."
+  },
+  {
+   "where": "member_notes.5314",
+   "was": "she appears to be scrutinising government outsourcing of technology ... appear to form a deliberate series across departments",
+   "now": "She is Green Party Chief Whip. Her profile records 29 of 196 past-year questions (15%) as relevant and five related questions in this period.",
+   "reason": "Retained profile-supported roles and statistics rather than attributing a specific scrutiny strategy."
+  },
+  {
+   "where": "member_notes.4500",
+   "was": "likely reflects a wider concern with concentrated power in technology",
+   "now": "His profile classifies 29 of 74 past-year written questions (39%) as relevant, mainly AI (15) and other technology and AI companies (9).",
+   "reason": "The profile does not establish this political motivation."
+  },
+  {
+   "where": "member_notes.4124",
+   "was": "which likely reinforces her interest in data-centre and AI industry issues",
+   "now": "Her profile registers a directorship of the Foundation for Science & Technology.",
+   "reason": "The public professional role is evidenced; its motivational effect is not."
+  },
+  {
+   "where": "member_notes.4618 and member_notes.4608",
+   "was": "appears to be a new or one-off interest; appears designed to expose tension in the governing party over infrastructure",
+   "now": "The notes retain the relevant question counts and evidenced parliamentary roles only.",
+   "reason": "A small historical count does not establish a one-off interest, and the profile does not establish a partisan purpose."
+  },
+  {
+   "where": "member_notes.5265 and member_notes.5101",
+   "was": "likely reflects a security angle; likely driven by constituency or brief-specific concerns",
+   "now": "The notes retain the evidenced spokesperson roles and past-year topic counts.",
+   "reason": "The profiles do not establish these reasons for the individual questions."
+  },
+  {
+   "where": "member_notes.5109, member_notes.5068 and member_notes.4790",
+   "was": "likely explains his interest in workplace technology; appears to explain her focus on online harms to young people; likely reflect a privacy and civil liberties concern",
+   "now": "The notes state committee membership and historical topic counts without explanations of personal motivation.",
+   "reason": "These causal explanations go beyond the respective profiles."
+  },
+  {
+   "where": "member_notes.5081, member_notes.4638, member_notes.5295 and member_notes.4779",
+   "was": "likely prompted by small-business concerns; a constituency angle likely adds to that interest; appears to come from public service delivery; appears to be trade-driven rather than technology-focused",
+   "now": "The notes retain profile-supported question records, constituency references and committee memberships.",
+   "reason": "Removed inferred motives, including explanations not established by a constituency reference or committee membership."
+  },
+  {
+   "where": "member_notes.1796",
+   "was": "which likely explain his sustained interest",
+   "now": "His profile classifies 350 of 431 past-year written questions (81%) as relevant, including AI (314).",
+   "reason": "Retained the parliamentary record without causal claims or non-parliamentary biographical detail."
+  },
+  {
+   "where": "member_notes.4384, member_notes.5198, member_notes.4743 and member_notes.4803",
+   "was": "appears to be scrutinising government communications spending and contracts; consistent with a consumer-protection angle; likely reflects concern about energy security; appears to be a one-off",
+   "now": "The notes retain evidenced roles, committee memberships and historical question counts.",
+   "reason": "Removed specific motives and one-off classifications not established by the profiles."
+  },
+  {
+   "where": "member_notes.4742, member_notes.5089 and member_notes.5275",
+   "was": "likely reflects his defence brief; likely part of defence frontbench scrutiny; likely explains his emphasis on hybrid threats and online intimidation",
+   "now": "The notes retain evidenced defence roles, committee memberships, public professional roles and topic counts.",
+   "reason": "Removed causal explanations of questioning and debate contributions beyond the profiles."
+  }
+ ],
+ "removed": [
+  {
+   "where": "title, headline, very_important[0], very_important[3].why, very_important[4] and debates[0].why",
+   "reason": "Removed supplier and product references excluded from public publication, including their tags and associated commercial framing; original wording is not reproduced in this log."
+  },
+  {
+   "where": "very_important[*].why, questions[*].why, committees[*].why and other[*].why",
+   "reason": "Removed unsupported forecasts, procurement opportunities, bidder assumptions, advocacy language and audience-oriented relevance claims, replacing them with evidenced descriptions."
+  },
+  {
+   "where": "debates[0].body",
+   "reason": "Removed the unsupported reference to online disinformation."
+  },
+  {
+   "where": "questions[4].tags, questions[11].tags, questions[15].tags and committees[1].tags",
+   "reason": "Removed topic labels implying confirmed local opposition, a sovereign-AI purpose, or source content on online fraud and scams."
+  },
+  {
+   "where": "member_notes",
+   "reason": "Removed unsupported personal or political motivations, causal explanations and claims that individual questions represent committee positions."
+  },
+  {
+   "where": "member_notes.1796",
+   "reason": "Removed past consultancy and overseas-visit details, retaining only the parliamentary question record."
+  }
+ ],
+ "provider": "copilot",
+ "writer": "claude-opus-5.5",
+ "validator": "gpt-6.1-sol",
+ "independent": true,
+ "ruleChecks": {
+  "checked": 58,
+  "issues": []
+ }
+}

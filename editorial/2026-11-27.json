@@ -1,0 +1,512 @@
+{
+ "title": "Government technology supplier dependency under scrutiny",
+ "headline": "Written answers cover government technology supplier dependency, exit planning and open standards, alongside departmental AI model assurance.",
+ "summary": "Only the Commons sat on Friday 27 November, with private members' bills debated. Written answers describe how departments choose and assure AI models, including Chinese-origin models. Dr Ben Spencer (Conservative) asked about AI governance, while Martin Wrigley (Liberal Democrat), Siân Berry (Green Party) and Clive Lewis (Labour) asked about supplier dependency, exit planning and open standards. Other items cover data-centre energy and regulation, OpenAI's compute and model credits and Anthropic's model credits for the AI Biosecurity Lab, cyber security, digital literacy and committee publications.",
+ "very_important": [
+  {
+   "title": "Departments outline AI model controls; China assurance questions tabled",
+   "who": "Dr Ben Spencer (Conservative, Runnymede and Weybridge), Shadow Minister (Cabinet Office)",
+   "where": "Written questions: Department for Education, Ministry of Defence, Treasury, Department for Business, Innovation, Science and Trade, Cabinet Office",
+   "date": "2026-11-27",
+   "body": "Asked whether it uses open-weight AI models published by China-based developers, the Department for Education (Josh MacAlister) said it does not currently do so. It uses AI models made available through approved technology providers and checks every model for data protection, security, cost, availability and capacity before testing or use. The MoD (Luke Pollard) said Chinese-origin models are not permitted for general staff use but that there are 'legitimate Defence use cases', subject to governance, assurance and risk mitigations. Model choice takes account of security and sovereignty requirements. The Treasury said it keeps an internal record of AI models approved for use. On DeepSeek, the Government said it is aware of the US Department of Homeland Security's Exclusion and Removal Order #2026-01 and regularly engages industry about international regulatory developments. On 27 November Dr Spencer tabled three new questions asking when China-model security-assurance results will be shared with businesses, which body is doing the work and whether DeepSeek is covered. His questions refer to security-assurance work on AI models from China mentioned by the Minister for Artificial Intelligence in the House on 26 November.",
+   "why": "The answers describe departmental AI checks and the MoD's security and sovereignty considerations. The newly tabled questions seek details of China-model assurance work; no answers are supplied.",
+   "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-18/44447",
+   "linkText": "PQ 44447: DfE use of AI models",
+   "tags": [
+    "AI",
+    "public-sector AI",
+    "procurement",
+    "sovereignty",
+    "China",
+    "DeepSeek"
+   ]
+  },
+  {
+   "title": "NHS Federated Data Platform: 11 questions on exit, open standards and supplier neutrality",
+   "who": "Martin Wrigley (Liberal Democrat, Newton Abbot), Science and Technology Committee member",
+   "where": "Written questions: Department of Health and Social Care",
+   "date": "2026-11-27",
+   "body": "Mr Wrigley's 11 questions, tabled on 18 November and answered on 27 November, concern Palantir's Federated Data Platform (FDP). His questions refer to the contract's expiry in March 2029. He asked about:\n- steps to ensure that no additional NHS organisation is required to adopt it during the period to March 2029;\n- planned spending on interoperability, open standards, transition planning, supplier diversification and running existing services;\n- whether successor procurement will require open standards and interoperable interfaces that allow components to be replaced without dependence on a single supplier;\n- opportunities to develop UK sovereign digital and AI capability;\n- independent auditing separate from NHS England and the supplier;\n- the timing of any termination assistance notice and the supplier's transition obligations;\n- an independent NHS design authority to oversee supplier neutrality;\n- independent assurance that incumbent supplier advantage has been appropriately mitigated.\nEvery answer (Mr James Frith) said there was nothing to add to his 16 November statement and that details of future procurement and the temporary contract extension will follow 'in due course'.",
+   "why": "The questions seek open standards, interoperability, independent assurance and supplier neutrality. The answers do not confirm these as procurement requirements and defer further details.",
+   "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-18/44554",
+   "linkText": "PQ 44554: FDP successor procurement and open standards",
+   "tags": [
+    "supplier dependency",
+    "lock-in",
+    "NHS",
+    "Palantir",
+    "sovereign AI",
+    "procurement",
+    "interoperability"
+   ]
+  },
+  {
+   "title": "HMRC and Post Office asked about dependency on Accenture, Capgemini, CGI and Fujitsu",
+   "who": "Siân Berry (Green Party, Brighton Pavilion), Green Party Chief Whip",
+   "where": "Written questions: Treasury; Department for Business, Innovation, Science and Trade",
+   "date": "2026-11-27",
+   "body": "Ms Berry asked, supplier by supplier, about HMRC's assessment of technical, commercial and operational dependency risks involving Accenture, Capgemini, CGI and Fujitsu, and about exit planning and assessment of insourcing. The Treasury (James Murray) gave the same answer each time. HMRC manages these risks through contract, supplier and technology governance, resilience arrangements, knowledge retention and transfer, and transition and exit planning. Technology modernisation offers opportunities to reduce reliance on ageing systems and concentrated expertise. Detailed contract exit and contingency arrangements are commercially sensitive and are not disclosed. On the Post Office, the Government (Kate Dearden) said it is providing up to £483 million over 2026-27 and 2027-28 for transformation, including the transition away from Fujitsu and replacement of Horizon. The answer says Post Office recently announced a short, final Fujitsu contract extension to maintain continuity while Accenture takes over Horizon support.",
+   "why": "The answers describe supplier-risk management and the Post Office's transition arrangements. HMRC does not disclose detailed contract exit and contingency arrangements.",
+   "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-19/45033",
+   "linkText": "PQ 45033: HMRC dependency on Accenture",
+   "tags": [
+    "supplier dependency",
+    "exit planning",
+    "insourcing",
+    "HMRC",
+    "Fujitsu",
+    "Accenture",
+    "government IT"
+   ]
+  },
+  {
+   "title": "GDS role in reducing supplier lock-in; National Cloud Infrastructure Programme cited",
+   "who": "Clive Lewis (Labour, Norwich South)",
+   "where": "Written questions: Department for Digital, Culture, Media and Sport",
+   "date": "2026-11-27",
+   "body": "Mr Lewis asked about the Government Digital Service's (GDS) role in managing risks from long-term dependence on a limited number of technology suppliers. The Government (Stephanie Peacock) said GDS works across government on supplier-dependency risks, 'including lock-in, resilience, portability and interoperability'. It works with the Government Commercial Function and Government Commercial Agency because these risks require commercial as well as technical action. The Digital Commercial Centre of Excellence brings this expertise together, including through the National Cloud Infrastructure Programme, which aims to strengthen competition, resilience and choice. A second answer said the Government is committed to giving open-source software equal consideration alongside proprietary options. It states: 'Code built with public money should be open and reusable by default.' Departments must demonstrate that they have considered open-source software; compliance is monitored through service assessments and spend controls.",
+   "why": "The answer identifies supplier dependency, portability and interoperability as risks managed jointly through technical and commercial work. It cites the National Cloud Infrastructure Programme's aims of competition, resilience and choice.",
+   "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-17/44196",
+   "linkText": "PQ 44196: GDS and supplier dependency",
+   "tags": [
+    "cloud",
+    "lock-in",
+    "National Cloud Infrastructure Programme",
+    "GDS",
+    "open source",
+    "competition",
+    "procurement"
+   ]
+  },
+  {
+   "title": "FCDO lists African supply-chain contact routes",
+   "who": "Taiwo Owatemi (Labour, Coventry North West)",
+   "where": "Written question: Foreign, Commonwealth and Development Office",
+   "date": "2026-11-27",
+   "body": "In reply to a question on connecting UK businesses with African manufacturers and suppliers, the FCDO (Kirsty McNeill) listed the Manufacturing Africa and Growth Gateway programmes and provided contact routes for programme delivery partners.",
+   "why": "The answer identifies programmes supporting business connections and routes for exploring participation.",
+   "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-18/44450",
+   "linkText": "PQ 44450: Africa supply chains",
+   "tags": [
+    "trade",
+    "supply chains"
+   ]
+  }
+ ],
+ "debates": [
+  {
+   "title": "SLAPP (No. 2) Bill second reading: legal threats over social media posts",
+   "who": "Sir John Whittingdale (Conservative, Maldon); Alicia Kearns (Conservative); Alex Sobel (Labour/Co-op); Graeme Downie (Labour); Sarah Sackman for the Government",
+   "where": "Commons Chamber (private member's bill)",
+   "date": "2026-11-27",
+   "body": "Sir John moved the second reading of his bill to protect defendants against strategic lawsuits against public participation (SLAPPs). Members described people threatened with legal action over Facebook and Instagram posts. Sarah Sackman supported the bill and said it creates an early dismissal mechanism: a court could strike out a claim meeting the SLAPP test where the claimant cannot show it is more likely than not to succeed and the public interest favours dismissal. She said she had worked with Sir John on the bill. Members also discussed hybrid threats, including cyber attacks.",
+   "why": "The debate connects protection against abusive litigation with speech on social media. Members from different parties expressed support for the bill.",
+   "link": "https://hansard.parliament.uk/Commons/2026-11-27/debates/9C5D99C1-9DDC-434C-AF88-8D0F4885AF04/x#contribution-015EC23E-004C-4812-8EE7-BAFDE7B08DC2",
+   "linkText": "Hansard: SLAPP (No. 2) Bill",
+   "tags": [
+    "online speech",
+    "social media",
+    "legislation"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "title": "AI governance: OpenAI and Anthropic credits, AI Taskforce and supplier choice",
+   "who": "Dr Ben Spencer (Conservative, Runnymede and Weybridge)",
+   "where": "Written questions: Cabinet Office",
+   "date": "2026-11-27",
+   "body": "Kanishka Narayan said OpenAI has committed £100 million in compute and model credits and Anthropic up to £100 million in model credits for the AI Biosecurity Lab, up to £200 million collectively. Asked about the Prime Minister's AI Taskforce's role in supplier choice, he said individual contracting authorities are responsible for their procurement decisions within procurement legislation. The Taskforce does not intend to publish regular milestones; progress and key milestones will be communicated when appropriate. The answer on a possible new AI strategy did not confirm whether one is planned. New questions tabled on 27 November ask whether the Minister for Artificial Intelligence has approved a work programme for the GovAI Unit and when the transfer of staff from the former Department for Science, Innovation and Technology to the Cabinet Office will be complete.",
+   "why": "The answers describe credits for the AI Biosecurity Lab and contracting authorities' procurement responsibilities. They do not rule out a wider role for the AI Taskforce.",
+   "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-18/44488",
+   "linkText": "PQ 44488: AI Biosecurity Lab credits",
+   "tags": [
+    "OpenAI",
+    "Anthropic",
+    "AI safety",
+    "public-sector AI",
+    "procurement",
+    "compute"
+   ]
+  },
+  {
+   "title": "Compute Roadmap modelling and AI Growth Zones investment",
+   "who": "Dr Ben Spencer (Conservative, Runnymede and Weybridge)",
+   "where": "Written questions: Department for Business, Innovation, Science and Trade",
+   "date": "2026-11-27",
+   "body": "The Government said the Compute Roadmap, published in July 2025, forecasts a need for at least 6GW of AI-capable data-centre capacity by 2030. The scenario-based modelling behind that forecast was published in the Roadmap's Compute Evidence Annex. More than £28 billion of private investment has been committed to AI Growth Zones, a figure supplied by the companies themselves. The answer does not give a total spent to date and says the Government does not publish commercially sensitive details of how individual companies structure their investments over time.",
+   "why": "The answers distinguish forecast compute demand and committed investment from expenditure already incurred. No spending total is supplied.",
+   "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-24/46348",
+   "linkText": "PQ 46348: AI Growth Zones investment",
+   "tags": [
+    "AI Growth Zones",
+    "data centres",
+    "compute",
+    "investment"
+   ]
+  },
+  {
+   "title": "Data Centre Covenant: public-service compute and proposed NIS regulation",
+   "who": "Liz Twist (Labour, Blaydon and Consett)",
+   "where": "Written question: Department for Business, Innovation, Science and Trade",
+   "date": "2026-11-27",
+   "body": "Asked about securing public-service compute under point 5 of the Treasury's Data Centre Covenant, which the question dates to 28 October 2026, the Government (Kanishka Narayan) said the Covenant sets five tests that all data centres are encouraged to meet. These include security and resilience expectations for compute relied on by critical services. The Government is discussing implementation with industry and national technical authorities. Hosts in the AI Research Resource must meet strict cyber-security, service-continuity and recovery requirements. The Cyber Security and Resilience (Network and Information Systems) Bill would bring relevant data centres into the NIS regime as essential services, regulated by Ofcom.",
+   "why": "The Covenant encourages data centres to meet its tests. The bill would introduce Ofcom-regulated security and resilience requirements for relevant data centres.",
+   "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-24/46278",
+   "linkText": "PQ 46278: Data Centre Covenant",
+   "tags": [
+    "data centres",
+    "Cyber Security and Resilience Bill",
+    "Ofcom",
+    "regulation",
+    "public-sector compute"
+   ]
+  },
+  {
+   "title": "Data Centre Commitment Fee and trade unions in frontier AI and Big Tech",
+   "who": "Dame Chi Onwurah (Labour, Newcastle upon Tyne Central and West), Science and Technology Committee member",
+   "where": "Written questions: Department for Energy Security and Net Zero; Department for Business, Innovation, Science and Trade",
+   "date": "2026-11-27",
+   "body": "Dame Chi asked about the potential impact of viable data-centre projects being paused or withdrawn from the connection queue because of the proposed level of the Data Centre Commitment Fee. Michael Shanks said speculative data-centre applications are delaying strategically important demand projects and that the Government supports measures to ensure scarce capacity is held by credible, deliverable projects. Ofgem's proposed fee would be a refundable deposit; its design is for Ofgem, and a decision will be published in due course. Asked separately about the merits of trade union membership in frontier AI and Big Tech companies, the Government (Kate Dearden) said it has made no sector-specific assessment but that unions play an 'essential role'.",
+   "why": "The fee remains an Ofgem proposal awaiting a decision. Dame Chi's separate question seeks the Government's assessment of trade union membership in frontier AI and Big Tech companies.",
+   "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-18/44747",
+   "linkText": "PQ 44747: Data Centre Commitment Fee",
+   "tags": [
+    "data centres",
+    "grid connections",
+    "Ofgem",
+    "energy",
+    "Big Tech",
+    "frontier AI"
+   ]
+  },
+  {
+   "title": "How many Labour MPs have raised concerns about data centres and energy infrastructure",
+   "who": "John Lamont (Conservative, Berwickshire, Roxburgh and Selkirk), Shadow Deputy Leader of the House of Commons",
+   "where": "Written question (tabled, not yet answered): Department for Energy Security and Net Zero",
+   "date": "2026-11-27",
+   "body": "Mr Lamont asked how many Labour MPs have raised concerns with the department about solar farms, wind farms, battery storage, data centres and other electricity infrastructure in their constituencies.",
+   "why": "The question seeks a count of Labour MPs who have raised constituency infrastructure concerns. No answer is supplied.",
+   "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-27/47297",
+   "linkText": "PQ 47297: MPs' concerns about infrastructure",
+   "tags": [
+    "data centres",
+    "parliamentary scrutiny",
+    "energy infrastructure"
+   ]
+  },
+  {
+   "title": "Cost of significant cyber attacks to business put at £14.7 billion; £150 million for cyber defence",
+   "who": "James MacCleary (Liberal Democrat, Lewes), Liberal Democrat defence spokesperson",
+   "where": "Written question: Department for Business, Innovation, Science and Trade",
+   "date": "2026-11-27",
+   "body": "Chris McDonald said government-commissioned research puts the cost of significant cyber attacks to UK businesses at about £14.7 billion in 2024, around 0.5% of UK GDP. This is an indicative estimate based predominantly on US attack-cost data combined with UK data on businesses estimated to experience such attacks. He pointed to the £150 million for cyber defence announced at the Budget, covering a National Exposure and Real-Time Vulnerability Centre, expanded public-sector AI cyber defence and a national Cyber Shield.",
+   "why": "The answer records an indicative cyber-cost estimate and the Budget's cyber-defence funding priorities. It supplies no procurement details.",
+   "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-10-28/38877",
+   "linkText": "PQ 38877: Cost of cyber attacks",
+   "tags": [
+    "cyber security",
+    "public-sector AI",
+    "Budget"
+   ]
+  },
+  {
+   "title": "AI security priorities for the UK's 2027 G20 Presidency",
+   "who": "Victoria Collins (Liberal Democrat, Harpenden and Berkhamsted), Liberal Democrat science, innovation and technology spokesperson",
+   "where": "Written question: Foreign, Commonwealth and Development Office",
+   "date": "2026-11-27",
+   "body": "Ms Collins asked whether the UK's 2027 G20 Presidency will prioritise the cyber security of AI systems, AI-enabled cyber attacks and the resilience of critical national infrastructure. Chris Elmore said AI will be 'at the heart' of the Presidency, covering opportunities and risks. Full policy priorities will be shared after the Miami Summit.",
+   "why": "The answer commits to placing AI at the heart of the UK Presidency but does not confirm the three specific security priorities asked about.",
+   "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-19/45125",
+   "linkText": "PQ 45125: G20 AI security",
+   "tags": [
+    "AI safety",
+    "cyber security",
+    "G20",
+    "frontier AI"
+   ]
+  },
+  {
+   "title": "AI and the tech workforce; schools' MIS procurement framework",
+   "who": "Sir Ashley Fox (Conservative, Bridgwater)",
+   "where": "Written questions: Cabinet Office; Department for Education",
+   "date": "2026-11-27",
+   "body": "Kanishka Narayan said there is currently 'no clear evidence' of widespread job displacement attributable to AI across the UK labour market, but this could change as capabilities advance. The AI Economics Institute will continue assessing employment and wage implications. Separately, DfE said its management information system (MIS) procurement framework is expected to be available from September 2027. Schools will then be able to award contracts with start dates suited to their needs. Existing contracts may continue to expiry, with available extensions used where necessary to bridge the period before the framework is available. Schools are expected to award their next MIS contract through the framework when existing contracts expire.",
+   "why": "The answers describe continued assessment of AI's labour-market effects and an expected timetable and procurement route for school MIS contracts.",
+   "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-18/44783",
+   "linkText": "PQ 44783: AI and employment",
+   "tags": [
+    "AI",
+    "skills",
+    "workforce",
+    "education technology",
+    "procurement"
+   ]
+  },
+  {
+   "title": "Workplace surveillance technology and platform-economy working conditions",
+   "who": "Chris Bloore (Labour, Redditch), Business, Innovation, Science and Trade Committee member",
+   "where": "Written questions: Department for Business, Innovation, Science and Trade",
+   "date": "2026-11-27",
+   "body": "The Government (Kate Dearden) said its consultation on workplace monitoring technologies recognised 'legitimate concerns' about surveillance; a response will follow in due course. A consultation on employment status and protections for the self-employed, relevant to platform workers, closes on 8 January 2027. Related questions from Rachel Gilmour (Liberal Democrat) and Neil Duncan-Jordan (Labour) on Royal Mail's monitoring technology and Postal Digital Assistants received similar responses on workplace surveillance.",
+   "why": "The answers describe consultations on workplace monitoring and employment status. The latter closes on 8 January 2027; no final outcomes of those consultations are supplied.",
+   "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-18/44424",
+   "linkText": "PQ 44424: Workplace surveillance",
+   "tags": [
+    "workplace monitoring",
+    "AI",
+    "employment",
+    "consultation"
+   ]
+  },
+  {
+   "title": "Digital media literacy in schools and harmful algorithms",
+   "who": "Shivani Raja (Conservative, Leicester East)",
+   "where": "Written questions: Department for Education; Department of Health and Social Care (tabled)",
+   "date": "2026-11-27",
+   "body": "DfE said schools have been required to follow the revised relationships, sex and health education statutory guidance since September. It says secondary pupils should learn to assess online information critically and recognise misinformation and disinformation, and it covers AI and identifying deepfakes and their harms. The National Centre for Computing Education offers free professional development on digital literacy and AI. Media and digital literacy will be included in consultation on the new curriculum. A newly tabled question asks about assessment of harmful online content and social media algorithms' impact on the mental health of boys and young men.",
+   "why": "Existing statutory guidance covers AI and deepfakes; wider digital and media literacy reforms are to be included in curriculum consultation.",
+   "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-18/44342",
+   "linkText": "PQ 44342: Digital media literacy",
+   "tags": [
+    "digital skills",
+    "online safety",
+    "AI literacy",
+    "education"
+   ]
+  },
+  {
+   "title": "Cross-government data sharing and the National Data Library",
+   "who": "Josh Fenton-Glynn (Labour, Calder Valley)",
+   "where": "Written question: Department for Digital, Culture, Media and Sport",
+   "date": "2026-11-27",
+   "body": "The Government (Stephanie Peacock) pointed to Digital Economy Act gateways, new public-service delivery objectives, common standards and shared infrastructure, including common reference data and the API Mandate. It said the National Data Library is being developed to make public-sector data easier to find and use.",
+   "why": "The answer describes common standards and infrastructure intended to improve public-sector data discovery and reuse. It gives no procurement details.",
+   "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-16/43743",
+   "linkText": "PQ 43743: Data sharing",
+   "tags": [
+    "data",
+    "National Data Library",
+    "public sector",
+    "interoperability"
+   ]
+  },
+  {
+   "title": "£750 million national supercomputer in Edinburgh",
+   "who": "Mr Tanmanjeet Singh Dhesi (Labour, Slough)",
+   "where": "Written question: Department for Business, Innovation, Science and Trade",
+   "date": "2026-11-27",
+   "body": "Asked about UK Research and Innovation (UKRI) budgeting for new research infrastructure, the Government (Chris McDonald) repeated the Spending Review 2025 commitment of £750 million for a new national supercomputer in Edinburgh, alongside upkeep of existing facilities.",
+   "why": "The answer records a national research-computing funding commitment alongside maintenance of existing research facilities.",
+   "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-19/44838",
+   "linkText": "PQ 44838: UKRI infrastructure",
+   "tags": [
+    "compute",
+    "research infrastructure",
+    "supercomputer"
+   ]
+  },
+  {
+   "title": "Home Office AI facial age estimation: testing and data source",
+   "who": "Apsana Begum (Labour, Poplar and Limehouse)",
+   "where": "Written questions (tabled, not yet answered): Home Office",
+   "date": "2026-11-27",
+   "body": "Ms Begum asked what testing expectations must be met before AI facial age estimation is operationalised to support initial age decisions. Separately, citing an earlier answer, she asked about the source and lawful processing basis of 2.5 million operational images used to test industry algorithms.",
+   "why": "The questions seek testing and data-processing details. No answers are supplied.",
+   "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-27/47248",
+   "linkText": "PQ 47248: Facial age estimation",
+   "tags": [
+    "public-sector AI",
+    "biometrics",
+    "AI assurance",
+    "data protection"
+   ]
+  },
+  {
+   "title": "Enforcing platform-to-business rules for small firms",
+   "who": "Joe Morris (Labour, Hexham)",
+   "where": "Written question (tabled, not yet answered): Department for Business, Innovation, Science and Trade",
+   "date": "2026-11-27",
+   "body": "Mr Morris asked about the effectiveness of the Online Intermediation Services for Business Users (Enforcement) Regulations 2020 in enabling small businesses to enforce rights under the Platform-to-Business Regulation. He also asked whether the Government has considered establishing an independent regulator or ombudsman to investigate complaints and enforce compliance without court action.",
+   "why": "The question seeks an assessment of enforcement and consideration of an independent complaints body. No answer is supplied.",
+   "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-27/47269",
+   "linkText": "PQ 47269: Platform-to-business enforcement",
+   "tags": [
+    "digital markets",
+    "platform regulation",
+    "competition"
+   ]
+  },
+  {
+   "title": "AI firms' borrowing costs and safety by design in wearable tech",
+   "who": "Lord Taylor of Warwick (Non-affiliated)",
+   "where": "Lords written questions: Department for Business, Innovation, Science and Trade; Home Office",
+   "date": "2026-11-27",
+   "body": "Baroness Lloyd of Effra said the Bank of England has statutory responsibility for monetary policy and financial stability and operational independence. The Government aims to maintain economic stability so domestic AI firms can attract investment and scale up. On discreet wearable filming devices, Lord Hanson of Flint said technology companies are expected to build in privacy and safety 'from the outset'. He said the Government will consider whether existing safeguards are adequate and that 'All options remain on the table'.",
+   "why": "The wearable-technology answer describes safety and privacy expectations and consideration of existing safeguards. It does not announce new duties.",
+   "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-09/HL5110",
+   "linkText": "PQ HL5110: Wearable filming technology",
+   "tags": [
+    "safety by design",
+    "AI",
+    "privacy",
+    "regulation"
+   ]
+  },
+  {
+   "title": "Misleading online advertising and consumer law",
+   "who": "Chris Coghlan (Liberal Democrat, Dorking and Horley)",
+   "where": "Written question: Department for Business, Innovation, Science and Trade",
+   "date": "2026-11-27",
+   "body": "On misleading online adverts for accident management services, the Government said the Digital Markets, Competition and Consumers Act 2024 prohibits unfair commercial practices, including misleading actions and omissions likely to affect the average consumer's transactional decision. It said the Advertising Standards Authority independently regulates advertising.",
+   "why": "The answer identifies existing consumer law and independent advertising regulation.",
+   "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-18/44601",
+   "linkText": "PQ 44601: Misleading online adverts",
+   "tags": [
+    "consumer protection",
+    "advertising",
+    "DMCC Act"
+   ]
+  }
+ ],
+ "committees": [
+  {
+   "title": "Committee writes to Anthropic about METR report on its AI research and development",
+   "who": "Committee associated with the 'AI adoption, safety and governance' inquiry (not named in the supplied evidence)",
+   "where": "Committee correspondence",
+   "date": "2026-11-27",
+   "body": "A committee published a letter to Anthropic relating to the Model Evaluation & Threat Research (METR) report on AI research and development at Anthropic. The publication is associated with the AI adoption, safety and governance inquiry.",
+   "why": "The publication is associated with the AI adoption, safety and governance inquiry. The supplied metadata does not include the letter's substantive contents.",
+   "link": "https://committees.parliament.uk/publications/56062/",
+   "linkText": "Letter to Anthropic, 27 November 2026",
+   "tags": [
+    "Anthropic",
+    "AI safety",
+    "committee inquiry"
+   ]
+  },
+  {
+   "title": "Report: Consumer protection - Black Friday",
+   "who": "Committee associated with the 'Consumer protection' inquiry (not named in the supplied evidence)",
+   "where": "Committee report (12th Report)",
+   "date": "2026-11-27",
+   "body": "The 12th Report, 'Consumer protection: Black Friday', was published as part of the consumer protection inquiry.",
+   "why": "The supplied metadata identifies the report and inquiry but provides no findings or recommendations.",
+   "link": "https://committees.parliament.uk/publications/56046/",
+   "linkText": "12th Report - Consumer protection: Black Friday",
+   "tags": [
+    "consumer protection",
+    "Black Friday"
+   ]
+  },
+  {
+   "title": "Minister writes to the Lords Constitution Committee on the Public Procurement Common Framework",
+   "who": "Mark Ferguson MP, Parliamentary Secretary, to Lord Strathclyde, Chair of the Constitution Committee",
+   "where": "Committee correspondence",
+   "date": "2026-11-27",
+   "body": "Correspondence about the Public Procurement Common Framework was published.",
+   "why": "The supplied metadata establishes the correspondence's subject and participants, not the framework's substantive provisions.",
+   "link": "https://committees.parliament.uk/publications/56061/",
+   "linkText": "Letter on the Public Procurement Common Framework",
+   "tags": [
+    "procurement",
+    "public sector"
+   ]
+  },
+  {
+   "title": "Afghan data breach: minister's letter on the Government's response",
+   "who": "Minister for Defence Readiness and Industry, to the committee Chair",
+   "where": "Committee correspondence (Afghan Data Breach and Resettlement Schemes inquiry)",
+   "date": "2026-11-27",
+   "body": "A letter dated 18 November about the Government's response to the Afghan data breach and resettlement schemes report was published. Separately, the Treasury (Lord Pitt-Watson) told Lord Kempsell (Conservative) that guidance to accounting officers on sharing information covered by injunctions was published in full on 28 July 2026.",
+   "why": "The correspondence and written answer concern the Government's response to the breach report and guidance on sharing information covered by injunctions.",
+   "link": "https://committees.parliament.uk/publications/56069/",
+   "linkText": "Letter on the Afghan data breach report",
+   "tags": [
+    "data security",
+    "government data"
+   ]
+  }
+ ],
+ "other": [
+  {
+   "title": "Grid demand, energy security and the UK Cooling Outlook",
+   "who": "Lee Anderson (Reform UK, Ashfield); Paul Holmes (Conservative, Hamble Valley)",
+   "where": "Written questions (tabled, not yet answered): Department for Energy Security and Net Zero; Department for Environment, Food and Rural Affairs",
+   "date": "2026-11-27",
+   "body": "Mr Anderson asked about assessment of increased demand's impact on the ageing grid and energy security. Mr Holmes asked when the UK Cooling Outlook strategy will be published. Neither question mentions data centres.",
+   "why": "These are energy-system and cooling-policy questions, not explicit questions about data centres.",
+   "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-27/47520",
+   "linkText": "PQ 47520: Grid demand",
+   "tags": [
+    "energy",
+    "grid",
+    "cooling"
+   ]
+  },
+  {
+   "title": "Next-generation AR/VR helmet for the Global Combat Air Programme",
+   "who": "Ben Obese-Jecty (Conservative, Huntingdon), Shadow Parliamentary Under Secretary (Defence)",
+   "where": "Written question (tabled, not yet answered): Ministry of Defence",
+   "date": "2026-11-27",
+   "body": "Mr Obese-Jecty asked about progress on the next-generation augmented and virtual reality helmet for GCAP. In a separate question, he asked which required operational effects need a crewed platform. No supplier is named in either question.",
+   "why": "The questions concern helmet development and operational requirements for crewed platforms.",
+   "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-27/47441",
+   "linkText": "PQ 47441: GCAP helmet",
+   "tags": [
+    "defence",
+    "mixed reality"
+   ]
+  },
+  {
+   "title": "Capita pension contract; hostile state activity including cyber",
+   "who": "Mike Wood (Conservative, Kingswinford and South Staffordshire); Stuart Anderson (Conservative, South Shropshire)",
+   "where": "Written questions: Cabinet Office (tabled); Ministry of Defence",
+   "date": "2026-11-27",
+   "body": "Mr Wood asked for the full Capita contract for administering the Civil Service Pension Scheme to be placed in the Library, including the schedule of financial corrections against Capita. In an answer to Mr Anderson, the MoD cited MI5's Director General as saying that the Security Service's work on state threats has quadrupled over the past decade. The answer says such activity includes cyber activity, often conducted below the threshold of armed conflict.",
+   "why": "The items concern disclosure of an outsourced public-service contract and the Government's account of hostile-state cyber activity.",
+   "link": "https://questions-statements.parliament.uk/written-questions/detail/2026-11-27/47481",
+   "linkText": "PQ 47481: Capita contract",
+   "tags": [
+    "transparency",
+    "public services",
+    "cyber"
+   ]
+  }
+ ],
+ "coverage": [
+  "Period: from an unspecified start date to Friday 27 November 2026.",
+  "Friday 27 November: only the Commons sat. Supplied Hansard covers the private members' SLAPP (No. 2) Bill and Ceramics (Country of Origin Marking) Bill debates; the Lords did not sit.",
+  "Screened 705 written questions and answers and 3 written statements. One statement is supplied, on water customer support. The evidence also includes Commons Hansard for 27 November and 14 committee publications.",
+  "No parliamentary business was listed for Saturday 28 November, so there is no Today section.",
+  "No data warnings or source gaps were reported."
+ ],
+ "member_notes": {
+  "4785": "He is Shadow Minister (Cabinet Office) and sits on the Cyber Security and Resilience (Network and Information Systems) Bill committee. His profile classifies 240 of 334 past-year written questions (72%) as relevant, including AI (191), cloud, data centres and compute (38), and cyber security and resilience (37). It lists 15 related questions tabled or answered in this period.",
+  "5111": "He sits on the Commons Science and Technology Committee. His profile records data protection and privacy (48), other technology and AI companies (41), and 11 related questions in this period.",
+  "5314": "She is Green Party Chief Whip. Her profile classifies 29 of 196 past-year written questions (15%) as relevant, including other technology and AI companies (13), AI (11), and cloud, data centres and compute (9). It lists five related questions in this period.",
+  "4500": "His profile classifies 29 of 74 past-year written questions (39%) as relevant, mainly AI (15) and other technology and AI companies (9).",
+  "4124": "She sits on the Commons Science and Technology and Liaison Committees and the Joint Committee on the National Security Strategy, and lists technology among her policy interests. Her profile classifies 50 of 146 past-year questions (34%) as relevant, including AI (25) and cloud, data centres and compute (15). Her profile registers a directorship of the Foundation for Science & Technology.",
+  "4618": "Her profile records one of eight past-year written questions as relevant, in the cloud, data centres and compute category.",
+  "4608": "He is Shadow Deputy Leader of the House of Commons and sits on the Public Administration and Constitutional Affairs Committee. His profile records one of 75 past-year questions as relevant.",
+  "5201": "She is the Liberal Democrat spokesperson for science, innovation and technology. Her profile classifies 61 of 281 past-year questions (22%) as relevant, including AI (40) and online safety and social media (13).",
+  "5265": "He is the Liberal Democrat defence spokesperson. His profile classifies 10 of 494 past-year questions as relevant.",
+  "5101": "He is Shadow Parliamentary Under Secretary (Energy Security and Net Zero). His profile classifies eight of 153 past-year questions as relevant, including AI (3) and online safety and social media (3).",
+  "5109": "He sits on the Business, Innovation, Science and Trade Committee and its Sub-Committee on Economic Security, Arms and Export Controls. His profile classifies 38 of 304 past-year questions (12%) as relevant, including AI (18) and cyber security and resilience (11).",
+  "5068": "She sits on the Women and Equalities Committee. Her profile records relevant topic counts of online safety and social media (30) and AI (20).",
+  "4790": "Her profile classifies 14 of 117 past-year questions (12%) as relevant, including data protection and privacy (7).",
+  "5081": "His profile records two of 86 past-year questions as relevant, both in online safety and social media.",
+  "4638": "He sits on the Defence Committee and the Joint Committee on the National Security Strategy. His profile records cloud, data centres and compute (10) among his question topics and notes that at least one question names Slough.",
+  "5295": "He sits on the Health and Social Care Committee. His profile records relevant topic counts of online safety and social media (6) and data protection and privacy (2).",
+  "4779": "Her profile records no relevant questions among 35 past-year written questions. She sits on the Cyber Security and Resilience (Network and Information Systems) Bill committee.",
+  "1796": "His profile classifies 350 of 431 past-year written questions (81%) as relevant, including AI (314).",
+  "4384": "He is Shadow Minister (Cabinet Office). His profile records relevant topic counts of online safety and social media (78), other technology and AI companies (78), and data protection and privacy (65).",
+  "5198": "He sits on the Treasury Committee. His profile records relevant topic counts of data protection and privacy (8) and online safety and social media (3).",
+  "4743": "His profile classifies 14 of 714 past-year questions as relevant, including cyber security and resilience (6).",
+  "4803": "He is Opposition Deputy Chief Whip (Commons). His profile records three of 220 past-year questions as relevant.",
+  "4742": "He is Shadow Minister (Defence). His profile records relevant topic counts of cyber security and resilience (35) and AI (27).",
+  "5089": "He is Shadow Parliamentary Under Secretary (Defence). His profile classifies 150 of 3754 past-year questions (4%) as relevant, including AI (64) and government digital, IT and procurement (28).",
+  "5275": "He sits on the Energy Security and Net Zero and Defence Committees and is the unpaid Parliamentary Chair of the Campaign for Secure Technology. His profile records relevant topic counts of cyber security and resilience (9) and online safety and social media (7)."
+ },
+ "today_date": "2026-11-28"
+}
